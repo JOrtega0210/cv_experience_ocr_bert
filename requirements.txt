@@ -1,0 +1,37 @@
+# Python 3.11 (local) / 3.12 (Google Colab)
+#
+# PaddlePaddle se instala ANTES que PaddleOCR y desde el índice oficial de PaddlePaddle:
+#   CPU: pip install paddlepaddle==3.3.1 -i https://www.paddlepaddle.org.cn/packages/stable/cpu/
+#   GPU (CUDA 12.6, p. ej. Colab):
+#        pip install paddlepaddle-gpu==3.3.1 -i https://www.paddlepaddle.org.cn/packages/stable/cu126/
+# Luego: pip install -r requirements.txt
+paddlepaddle==3.3.1
+paddleocr==3.7.0
+
+# Datos
+datasets==5.1.0
+huggingface_hub==2.3.0
+pyarrow==26.0.0
+pandas==3.1.0
+numpy==2.4.6
+pillow==13.0.0
+
+# Modelos
+torch==2.14.1
+transformers==5.20.2
+accelerate==1.15.0
+sentence-transformers==6.2.0
+scikit-learn==1.9.1
+
+# OCR quality
+jiwer==4.0.0
+
+# Visualización y app
+matplotlib==3.11.2
+seaborn==0.13.2
+plotly==7.1.0
+streamlit==1.66.1
+pymupdf==2.0
+
+# Utilidades
+tqdm==4.70.1

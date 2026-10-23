@@ -1,0 +1,51 @@
+# --- Datos crudos: imágenes y metadata descargadas de PopResume (se regeneran con src/download_data.py)
+data/raw/*
+!data/raw/.gitkeep
+
+# --- Pesos de modelos (se regeneran con src/baseline_*.py y src/train_bert.py)
+models/**/*
+!models/baselines/
+!models/bert/
+!models/**/.gitkeep
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.pdparams
+*.onnx
+*.joblib
+*.pkl
+
+# --- Imágenes subidas en la app / temporales
+tmp/
+uploads/
+
+# --- Checkpoints de entrenamiento y logs
+checkpoints/
+runs/
+wandb/
+lightning_logs/
+
+# --- Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# --- Secretos
+.env
+*.token
+.huggingface/
+
+# --- Editor / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Streamlit
+.streamlit/secrets.toml
