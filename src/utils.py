@@ -134,6 +134,7 @@ def get_logger(name: str) -> logging.Logger:
         handler.setFormatter(logging.Formatter("%(asctime)s | %(name)s | %(levelname)s | %(message)s"))
         logger.addHandler(handler)
         logger.setLevel(logging.INFO)
+        logger.propagate = False  # algunas librerías configuran el logger raíz y duplicarían los mensajes
     return logger
 
 
