@@ -1,0 +1,226 @@
+{
+  "id": "11252",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.93,
+  "n_lines": 16,
+  "mean_score": 0.9782,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "FRANCES WALL",
+      "score": 0.976,
+      "box": [
+        116,
+        90,
+        386,
+        121
+      ]
+    },
+    {
+      "text": "CT, USA|+1-821-468-7045 |frances.wall@example.com",
+      "score": 0.9792,
+      "box": [
+        116,
+        150,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9879,
+      "box": [
+        115,
+        242,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Digital, 2020.09–2023.01",
+      "score": 0.9753,
+      "box": [
+        114,
+        289,
+        666,
+        314
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.987,
+      "box": [
+        126,
+        315,
+        446,
+        338
+      ]
+    },
+    {
+      "text": "- Defined quality assurance frameworks",
+      "score": 0.9761,
+      "box": [
+        127,
+        340,
+        495,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Corelink Software, 2018.05–2020.09",
+      "score": 0.9797,
+      "box": [
+        115,
+        381,
+        661,
+        406
+      ]
+    },
+    {
+      "text": "- Handled load testing",
+      "score": 0.9502,
+      "box": [
+        125,
+        406,
+        333,
+        432
+      ]
+    },
+    {
+      "text": "- Built frontend components",
+      "score": 0.9837,
+      "box": [
+        126,
+        430,
+        385,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Solutions, 2013.07–2015.12",
+      "score": 0.9745,
+      "box": [
+        115,
+        471,
+        653,
+        496
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9929,
+      "box": [
+        125,
+        496,
+        351,
+        521
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.9791,
+      "box": [
+        126,
+        521,
+        495,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Larkspur University, 2009",
+      "score": 0.9715,
+      "box": [
+        115,
+        632,
+        463,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in code refactoring",
+      "score": 0.9566,
+      "box": [
+        132,
+        656,
+        539,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of hardware-software integration",
+      "score": 0.9825,
+      "box": [
+        133,
+        681,
+        654,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "FRANCES WALL\nCT, USA|+1-821-468-7045 |frances.wall@example.com\nWORK HISTORY\nSoftware Developers, Datastream Digital, 2020.09–2023.01\n- Designed caching infrastructures\n- Defined quality assurance frameworks\nSoftware Developers, Corelink Software, 2018.05–2020.09\n- Handled load testing\n- Built frontend components\nSoftware Developers, Netline Solutions, 2013.07–2015.12\n- Wrote integration tests\n- Performed basic performance profiling\nEDUCATION\nBachelor's, Larkspur University, 2009\n• Completed coursework in code refactoring\n• Studied fundamentals of hardware-software integration"
+}

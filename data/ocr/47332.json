@@ -1,0 +1,200 @@
+{
+  "id": "47332",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.85,
+  "n_lines": 14,
+  "mean_score": 0.984,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SANALANG",
+      "score": 0.998,
+      "box": [
+        114,
+        88,
+        318,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA|+1-645-239-6224 |sana.lang@example.com",
+      "score": 0.9737,
+      "box": [
+        116,
+        151,
+        631,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9762,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Bridge School, 2021.03–2023.01",
+      "score": 0.9883,
+      "box": [
+        115,
+        289,
+        831,
+        314
+      ]
+    },
+    {
+      "text": "- Established curriculum evaluation protocols",
+      "score": 0.9585,
+      "box": [
+        125,
+        313,
+        544,
+        338
+      ]
+    },
+    {
+      "text": "- Developed district-aligned lesson frameworks",
+      "score": 0.982,
+      "box": [
+        127,
+        340,
+        562,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Grove School, 2019.04–2021.03",
+      "score": 0.9828,
+      "box": [
+        115,
+        381,
+        828,
+        406
+      ]
+    },
+    {
+      "text": "- Recorded student progress data",
+      "score": 0.9811,
+      "box": [
+        125,
+        406,
+        442,
+        431
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.9956,
+      "box": [
+        126,
+        431,
+        518,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Educational Assistance, Oakwood University, 2021",
+      "score": 0.9887,
+      "box": [
+        115,
+        541,
+        676,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Preparation, Willowfield University, 2019",
+      "score": 0.9732,
+      "box": [
+        115,
+        566,
+        698,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic skill development",
+      "score": 0.9868,
+      "box": [
+        134,
+        590,
+        645,
+        614
+      ]
+    },
+    {
+      "text": "• Completed coursework in developmental psychology basics",
+      "score": 0.9927,
+      "box": [
+        134,
+        615,
+        700,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "SANALANG\nSC, USA|+1-645-239-6224 |sana.lang@example.com\nWORK HISTORY\nElementary Middle School Teachers, Sunny Bridge School, 2021.03–2023.01\n- Established curriculum evaluation protocols\n- Developed district-aligned lesson frameworks\nElementary Middle School Teachers, Sunny Grove School, 2019.04–2021.03\n- Recorded student progress data\n- Supported standardized testing sessions\nEDUCATION\nMaster's, Educational Assistance, Oakwood University, 2021\nBachelor's, Education Preparation, Willowfield University, 2019\n• Completed coursework in academic skill development\n• Completed coursework in developmental psychology basics"
+}

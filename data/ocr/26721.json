@@ -1,0 +1,187 @@
+{
+  "id": "26721",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.798,
+  "n_lines": 13,
+  "mean_score": 0.984,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AHMADLIM",
+      "score": 0.9984,
+      "box": [
+        115,
+        88,
+        310,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA|+1-934-702-2256 |ahmad.lim@example.com",
+      "score": 0.9696,
+      "box": [
+        115,
+        150,
+        639,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9854,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearbyte Software, 2020.01–2023.01",
+      "score": 0.9935,
+      "box": [
+        116,
+        290,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9894,
+      "box": [
+        126,
+        314,
+        448,
+        339
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.9805,
+      "box": [
+        126,
+        339,
+        431,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Openstack Digital, 2017.01–2020.01",
+      "score": 0.9745,
+      "box": [
+        115,
+        381,
+        658,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented basic authentication logic",
+      "score": 0.9815,
+      "box": [
+        126,
+        406,
+        502,
+        431
+      ]
+    },
+    {
+      "text": "- Updated monitoring dashboards",
+      "score": 0.9977,
+      "box": [
+        127,
+        433,
+        440,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Maple Ridge University, 2017",
+      "score": 0.9619,
+      "box": [
+        115,
+        541,
+        499,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of cybersecurity",
+      "score": 0.9908,
+      "box": [
+        131,
+        564,
+        502,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of stack and heap usage",
+      "score": 0.9706,
+      "box": [
+        132,
+        589,
+        583,
+        616
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "AHMADLIM\nMA, USA|+1-934-702-2256 |ahmad.lim@example.com\nWORK HISTORY\nSoftware Developers, Clearbyte Software, 2020.01–2023.01\n- Designed data storage strategies\n- Led system reliability programs\nSoftware Developers, Openstack Digital, 2017.01–2020.01\n- Implemented basic authentication logic\n- Updated monitoring dashboards\nEDUCATION\nBachelor's, Maple Ridge University, 2017\n• Studied fundamentals of cybersecurity\n• Studied fundamentals of stack and heap usage"
+}

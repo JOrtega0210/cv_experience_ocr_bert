@@ -1,0 +1,187 @@
+{
+  "id": "03780",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.908,
+  "n_lines": 13,
+  "mean_score": 0.9843,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SHANTEL MCDOWELL",
+      "score": 0.9865,
+      "box": [
+        116,
+        90,
+        481,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA|+1-455-687-2937 |shantel.mcdowell@example.com",
+      "score": 0.976,
+      "box": [
+        116,
+        150,
+        701,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9889,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudpath Labs, 2021.02–2023.01",
+      "score": 0.9871,
+      "box": [
+        115,
+        290,
+        641,
+        313
+      ]
+    },
+    {
+      "text": "- Defined code review processes",
+      "score": 0.9723,
+      "box": [
+        125,
+        313,
+        434,
+        339
+      ]
+    },
+    {
+      "text": "- Designed event-driven architectures",
+      "score": 0.9789,
+      "box": [
+        126,
+        339,
+        476,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Codehaven Labs, 2019.03–221.02",
+      "score": 0.9855,
+      "box": [
+        116,
+        382,
+        655,
+        405
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.9766,
+      "box": [
+        125,
+        406,
+        495,
+        431
+      ]
+    },
+    {
+      "text": "- Refactored simple functions for readability",
+      "score": 0.9696,
+      "box": [
+        126,
+        431,
+        529,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Wildflower University, 2022",
+      "score": 0.9819,
+      "box": [
+        115,
+        540,
+        478,
+        563
+      ]
+    },
+    {
+      "text": "• Completed coursework in machine learning basics",
+      "score": 0.9982,
+      "box": [
+        134,
+        566,
+        614,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in data structures and algorithms",
+      "score": 0.9966,
+      "box": [
+        135,
+        591,
+        669,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "SHANTEL MCDOWELL\nCA, USA|+1-455-687-2937 |shantel.mcdowell@example.com\nWORK HISTORY\nSoftware Developers, Cloudpath Labs, 2021.02–2023.01\n- Defined code review processes\n- Designed event-driven architectures\nSoftware Developers, Codehaven Labs, 2019.03–221.02\n- Performed basic performance profiling\n- Refactored simple functions for readability\nEDUCATION\nBachelor's, Wildflower University, 2022\n• Completed coursework in machine learning basics\n• Completed coursework in data structures and algorithms"
+}

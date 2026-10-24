@@ -1,0 +1,265 @@
+{
+  "id": "01987",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.021,
+  "n_lines": 19,
+  "mean_score": 0.9815,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JEREMIAH HIGGINS",
+      "score": 0.9954,
+      "box": [
+        116,
+        90,
+        440,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-752-717-2317 |jeremiah.higgins@example.com",
+      "score": 0.9721,
+      "box": [
+        116,
+        151,
+        690,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Hands Health, 2019.11–2023.01",
+      "score": 0.9771,
+      "box": [
+        116,
+        290,
+        691,
+        314
+      ]
+    },
+    {
+      "text": "– Managed clinical data analysis",
+      "score": 0.9478,
+      "box": [
+        127,
+        315,
+        426,
+        338
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.9548,
+      "box": [
+        127,
+        340,
+        425,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Bridge Health, 2016.09–2019.11",
+      "score": 0.9834,
+      "box": [
+        115,
+        381,
+        691,
+        406
+      ]
+    },
+    {
+      "text": "- Managed patient outcome evaluation systems",
+      "score": 0.9933,
+      "box": [
+        126,
+        406,
+        567,
+        432
+      ]
+    },
+    {
+      "text": "- Supervised multidisciplinary care teams",
+      "score": 0.9868,
+      "box": [
+        126,
+        430,
+        508,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Path Care, 2013.06–2016.09",
+      "score": 0.9877,
+      "box": [
+        116,
+        472,
+        636,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored patient compliance",
+      "score": 0.9672,
+      "box": [
+        125,
+        496,
+        416,
+        522
+      ]
+    },
+    {
+      "text": "- Implemented infection prevention protocols",
+      "score": 0.9912,
+      "box": [
+        126,
+        521,
+        540,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewPath Care Center, 2009.01–2012.04",
+      "score": 0.9873,
+      "box": [
+        116,
+        565,
+        680,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with hygiene care",
+      "score": 0.9963,
+      "box": [
+        126,
+        590,
+        390,
+        614
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.9834,
+      "box": [
+        127,
+        615,
+        527,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Operations, Fairview Ridge University, 2004",
+      "score": 0.9707,
+      "box": [
+        114,
+        723,
+        750,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing ethics",
+      "score": 0.9863,
+      "box": [
+        133,
+        749,
+        518,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient safety culture",
+      "score": 0.9824,
+      "box": [
+        134,
+        774,
+        582,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "JEREMIAH HIGGINS\nAZ, USA|+1-752-717-2317 |jeremiah.higgins@example.com\nWORK HISTORY\nRegistered Nurses, Harmony Hands Health, 2019.11–2023.01\n– Managed clinical data analysis\n- Led clinical governance efforts\nRegistered Nurses, Harmony Bridge Health, 2016.09–2019.11\n- Managed patient outcome evaluation systems\n- Supervised multidisciplinary care teams\nRegistered Nurses, Caring Path Care, 2013.06–2016.09\n- Monitored patient compliance\n- Implemented infection prevention protocols\nRegistered Nurses, NewPath Care Center, 2009.01–2012.04\n- Assisted with hygiene care\n- Administered injections under supervision\nEDUCATION\nBachelor's, Health Care Operations, Fairview Ridge University, 2004\n• Completed coursework in nursing ethics\n• Completed coursework in patient safety culture"
+}

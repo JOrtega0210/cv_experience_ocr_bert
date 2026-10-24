@@ -1,0 +1,265 @@
+{
+  "id": "02213",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.045,
+  "n_lines": 19,
+  "mean_score": 0.9845,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JASMINE DEAN",
+      "score": 0.9922,
+      "box": [
+        114,
+        86,
+        372,
+        122
+      ]
+    },
+    {
+      "text": "AR, USA|+1-481-517-8616 |jasmine.dean@example.com",
+      "score": 0.978,
+      "box": [
+        116,
+        152,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Financial, 2020.02–2023.01",
+      "score": 0.9922,
+      "box": [
+        115,
+        290,
+        710,
+        313
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9803,
+      "box": [
+        125,
+        313,
+        547,
+        339
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9859,
+      "box": [
+        126,
+        339,
+        361,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Group, 2017.03–2020.02",
+      "score": 0.9868,
+      "box": [
+        114,
+        381,
+        715,
+        406
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9946,
+      "box": [
+        126,
+        406,
+        502,
+        431
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9917,
+      "box": [
+        126,
+        431,
+        478,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Fairview Financial Services, 2014.04–2017.03",
+      "score": 0.9842,
+      "box": [
+        115,
+        472,
+        753,
+        496
+      ]
+    },
+    {
+      "text": "- Managed monthly close processes",
+      "score": 0.9782,
+      "box": [
+        125,
+        496,
+        464,
+        522
+      ]
+    },
+    {
+      "text": "- Prepared regulatory reports",
+      "score": 0.9643,
+      "box": [
+        126,
+        521,
+        398,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Group, 2011.04–2014.04",
+      "score": 0.9959,
+      "box": [
+        115,
+        565,
+        690,
+        588
+      ]
+    },
+    {
+      "text": "- Performed data validation checks",
+      "score": 0.9916,
+      "box": [
+        126,
+        589,
+        450,
+        611
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9716,
+      "box": [
+        126,
+        613,
+        440,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Enterprise Management, Brookstone University, 2013",
+      "score": 0.9825,
+      "box": [
+        115,
+        724,
+        720,
+        746
+      ]
+    },
+    {
+      "text": "• Completed coursework in economics for accounting",
+      "score": 0.9703,
+      "box": [
+        133,
+        749,
+        625,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of accounts payable",
+      "score": 0.9804,
+      "box": [
+        133,
+        772,
+        542,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "JASMINE DEAN\nAR, USA|+1-481-517-8616 |jasmine.dean@example.com\nWORK HISTORY\nAccountants Auditors, SolidBalance Financial, 2020.02–2023.01\n- Established compliance monitoring systems\n- Designed tax strategies\nAccountants Auditors, Precise Balance Group, 2017.03–2020.02\n- Led accounting transformation projects\n- Established financial quality controls\nAccountants Auditors, Fairview Financial Services, 2014.04–2017.03\n- Managed monthly close processes\n- Prepared regulatory reports\nAccountants Auditors, ClearBalance Group, 2011.04–2014.04\n- Performed data validation checks\n- Reviewed timesheets for payroll\nEDUCATION\nBachelor's, Enterprise Management, Brookstone University, 2013\n• Completed coursework in economics for accounting\n• Studied fundamentals of accounts payable"
+}

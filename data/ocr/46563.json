@@ -1,0 +1,187 @@
+{
+  "id": "46563",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.854,
+  "n_lines": 13,
+  "mean_score": 0.9788,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JEFFERY HUBER",
+      "score": 0.9637,
+      "box": [
+        116,
+        90,
+        397,
+        120
+      ]
+    },
+    {
+      "text": "PA, USA|+1-970-385-4621 |jeffery.huber@example.com",
+      "score": 0.9778,
+      "box": [
+        115,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9777,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Horizons Academy, 2019.08–2021.12",
+      "score": 0.9842,
+      "box": [
+        115,
+        290,
+        879,
+        313
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9829,
+      "box": [
+        125,
+        314,
+        509,
+        337
+      ]
+    },
+    {
+      "text": "- Implemented curriculum governance structures",
+      "score": 0.9791,
+      "box": [
+        126,
+        339,
+        577,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, SunnySteps School, 2016.01–2018.06",
+      "score": 0.9864,
+      "box": [
+        115,
+        381,
+        819,
+        406
+      ]
+    },
+    {
+      "text": "- Maintained instructional logs",
+      "score": 0.965,
+      "box": [
+        125,
+        406,
+        406,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.9585,
+      "box": [
+        126,
+        431,
+        411,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Foundations, Forestview University, 2011",
+      "score": 0.9815,
+      "box": [
+        114,
+        539,
+        722,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in student progress monitoring",
+      "score": 0.9928,
+      "box": [
+        133,
+        565,
+        647,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of early childhood education",
+      "score": 0.977,
+      "box": [
+        134,
+        591,
+        579,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JEFFERY HUBER\nPA, USA|+1-970-385-4621 |jeffery.huber@example.com\nWORK HISTORY\nElementary Middle School Teachers, Future Horizons Academy, 2019.08–2021.12\n- Developed learning progression models\n- Implemented curriculum governance structures\nElementary Middle School Teachers, SunnySteps School, 2016.01–2018.06\n- Maintained instructional logs\n- Reviewed curriculum content\nEDUCATION\nBachelor's, Educational Foundations, Forestview University, 2011\n• Completed coursework in student progress monitoring\n• Studied principles of early childhood education"
+}

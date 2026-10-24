@@ -1,0 +1,265 @@
+{
+  "id": "27154",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.867,
+  "n_lines": 19,
+  "mean_score": 0.9798,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TYRISHA CLEMENTS",
+      "score": 0.9937,
+      "box": [
+        116,
+        90,
+        457,
+        120
+      ]
+    },
+    {
+      "text": "MI, USA|+1-480-271-9523|tyrisha.clements@example.com",
+      "score": 0.9806,
+      "box": [
+        116,
+        152,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9915,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Software Developers, Corelink Software, 2019.10–2023.01",
+      "score": 0.9918,
+      "box": [
+        116,
+        289,
+        659,
+        312
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9673,
+      "box": [
+        127,
+        315,
+        515,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented data pipeline architectures",
+      "score": 0.994,
+      "box": [
+        126,
+        339,
+        512,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Solutions, 2016.07–2019.10",
+      "score": 0.9944,
+      "box": [
+        116,
+        382,
+        653,
+        405
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.9732,
+      "box": [
+        126,
+        406,
+        373,
+        429
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9799,
+      "box": [
+        126,
+        431,
+        448,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Softpath Digital, 2013.04–2016.07",
+      "score": 0.9537,
+      "box": [
+        116,
+        472,
+        637,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented authentication workflows",
+      "score": 0.9938,
+      "box": [
+        126,
+        498,
+        496,
+        521
+      ]
+    },
+    {
+      "text": "- Designed data models",
+      "score": 0.9592,
+      "box": [
+        125,
+        521,
+        350,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudcrest Systems, 2007.05–2010.09",
+      "score": 0.9682,
+      "box": [
+        115,
+        563,
+        682,
+        588
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9852,
+      "box": [
+        125,
+        588,
+        400,
+        614
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9727,
+      "box": [
+        127,
+        615,
+        403,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Fieldview University, 2004",
+      "score": 0.9499,
+      "box": [
+        114,
+        723,
+        469,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of software metrics",
+      "score": 0.9774,
+      "box": [
+        133,
+        747,
+        530,
+        771
+      ]
+    },
+    {
+      "text": "• Completed coursework in data mining basics",
+      "score": 0.9907,
+      "box": [
+        134,
+        772,
+        562,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "TYRISHA CLEMENTS\nMI, USA|+1-480-271-9523|tyrisha.clements@example.com\nWORK HISTORY\nSoftware Developers, Corelink Software, 2019.10–2023.01\n- Implemented access control frameworks\n- Implemented data pipeline architectures\nSoftware Developers, Netline Solutions, 2016.07–2019.10\n- Led architectural reviews\n- Designed data storage strategies\nSoftware Developers, Softpath Digital, 2013.04–2016.07\n- Implemented authentication workflows\n- Designed data models\nSoftware Developers, Cloudcrest Systems, 2007.05–2010.09\n- Wrote configuration parsers\n- Participated in code reviews\nEDUCATION\nBachelor's, Fieldview University, 2004\n• Studied fundamentals of software metrics\n• Completed coursework in data mining basics"
+}

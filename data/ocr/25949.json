@@ -1,0 +1,265 @@
+{
+  "id": "25949",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.935,
+  "n_lines": 19,
+  "mean_score": 0.9835,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MEGAN MAYNARD",
+      "score": 0.9835,
+      "box": [
+        117,
+        90,
+        422,
+        120
+      ]
+    },
+    {
+      "text": "MA, USA|+1-379-804-3600|megan.maynard@example.com",
+      "score": 0.9739,
+      "box": [
+        116,
+        152,
+        694,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9797,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightLife Health Services, 2018.08–2023.01",
+      "score": 0.984,
+      "box": [
+        115,
+        289,
+        714,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented care pathway frameworks",
+      "score": 0.9783,
+      "box": [
+        127,
+        315,
+        506,
+        338
+      ]
+    },
+    {
+      "text": "- Managed clinical compliance programs",
+      "score": 0.9887,
+      "box": [
+        126,
+        339,
+        503,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueBridge Nursing, 2014.03–2018.08",
+      "score": 0.9889,
+      "box": [
+        116,
+        383,
+        656,
+        406
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9737,
+      "box": [
+        125,
+        406,
+        471,
+        431
+      ]
+    },
+    {
+      "text": "- Managed clinical resource planning",
+      "score": 0.9898,
+      "box": [
+        126,
+        430,
+        469,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Nursing Services, 2008.10–2013.03",
+      "score": 0.974,
+      "box": [
+        116,
+        473,
+        724,
+        497
+      ]
+    },
+    {
+      "text": "- Administered complex medication regimens",
+      "score": 0.9895,
+      "box": [
+        125,
+        496,
+        546,
+        522
+      ]
+    },
+    {
+      "text": "– Managed isolation procedures",
+      "score": 0.9678,
+      "box": [
+        127,
+        523,
+        422,
+        546
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifePath Nursing Services, 2003.10–2008.04",
+      "score": 0.9919,
+      "box": [
+        116,
+        565,
+        716,
+        589
+      ]
+    },
+    {
+      "text": "- Monitored patient skin condition",
+      "score": 0.9829,
+      "box": [
+        126,
+        590,
+        436,
+        613
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9889,
+      "box": [
+        126,
+        614,
+        478,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Medical Technology, Stonefield University, 2002",
+      "score": 0.979,
+      "box": [
+        114,
+        723,
+        750,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic nursing principles",
+      "score": 0.9838,
+      "box": [
+        133,
+        749,
+        607,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in neurologic nursing basics",
+      "score": 0.9897,
+      "box": [
+        135,
+        774,
+        624,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "MEGAN MAYNARD\nMA, USA|+1-379-804-3600|megan.maynard@example.com\nWORK HISTORY\nRegistered Nurses, BrightLife Health Services, 2018.08–2023.01\n- Implemented care pathway frameworks\n- Managed clinical compliance programs\nRegistered Nurses, TrueBridge Nursing, 2014.03–2018.08\n- Established care delivery standards\n- Managed clinical resource planning\nRegistered Nurses, Harmony Nursing Services, 2008.10–2013.03\n- Administered complex medication regimens\n– Managed isolation procedures\nRegistered Nurses, LifePath Nursing Services, 2003.10–2008.04\n- Monitored patient skin condition\n- Prepared medical equipment for use\nEDUCATION\nAssociate's degree, Medical Technology, Stonefield University, 2002\n• Completed coursework in basic nursing principles\n• Completed coursework in neurologic nursing basics"
+}

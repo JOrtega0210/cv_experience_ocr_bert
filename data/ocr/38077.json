@@ -1,0 +1,148 @@
+{
+  "id": "38077",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.766,
+  "n_lines": 10,
+  "mean_score": 0.9758,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "REBECCA DENNIS",
+      "score": 0.9636,
+      "box": [
+        116,
+        90,
+        419,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-209-633-7620|rebecca.dennis@example.com",
+      "score": 0.9939,
+      "box": [
+        115,
+        150,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9754,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Financial, 2018.06–221.04",
+      "score": 0.9805,
+      "box": [
+        116,
+        291,
+        724,
+        311
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9515,
+      "box": [
+        126,
+        314,
+        356,
+        339
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9661,
+      "box": [
+        126,
+        339,
+        489,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        266,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Economics, Westfield University, 204",
+      "score": 0.9505,
+      "box": [
+        114,
+        447,
+        581,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in trial balance preparation",
+      "score": 0.9891,
+      "box": [
+        134,
+        474,
+        613,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in corporate governance",
+      "score": 0.9893,
+      "box": [
+        133,
+        497,
+        593,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "REBECCA DENNIS\nNY, USA|+1-209-633-7620|rebecca.dennis@example.com\nWORK HISTORY\nAccountants Auditors, Balanced Path Financial, 2018.06–221.04\n- Prepared aging reports\n- Processed accounts payable invoices\nEDUCATION\nBachelor's, Economics, Westfield University, 204\n• Completed coursework in trial balance preparation\n• Completed coursework in corporate governance"
+}

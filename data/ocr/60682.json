@@ -1,0 +1,187 @@
+{
+  "id": "60682",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.822,
+  "n_lines": 13,
+  "mean_score": 0.9847,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RACHEL NORTON",
+      "score": 0.9732,
+      "box": [
+        116,
+        90,
+        412,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-929-676-2278|rachel.norton@example.com",
+      "score": 0.9717,
+      "box": [
+        115,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9833,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightgrid Software, 2019.06–2021.09",
+      "score": 0.9886,
+      "box": [
+        116,
+        290,
+        674,
+        313
+      ]
+    },
+    {
+      "text": "- Defined integration standards",
+      "score": 0.9812,
+      "box": [
+        125,
+        313,
+        416,
+        338
+      ]
+    },
+    {
+      "text": "- Designed Cl/CD frameworks",
+      "score": 0.9739,
+      "box": [
+        127,
+        340,
+        408,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudframe Software, 2016.08–2018.12",
+      "score": 0.9891,
+      "box": [
+        115,
+        382,
+        693,
+        405
+      ]
+    },
+    {
+      "text": "- Implemented basic authentication logic",
+      "score": 0.9905,
+      "box": [
+        125,
+        406,
+        502,
+        431
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.9887,
+      "box": [
+        125,
+        431,
+        484,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Willow Creek University, 2005",
+      "score": 0.9886,
+      "box": [
+        116,
+        540,
+        582,
+        563
+      ]
+    },
+    {
+      "text": "• Completed coursework in software architecture",
+      "score": 0.9887,
+      "box": [
+        134,
+        566,
+        584,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of computer networks",
+      "score": 0.9849,
+      "box": [
+        133,
+        590,
+        554,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "RACHEL NORTON\nWI, USA|+1-929-676-2278|rachel.norton@example.com\nWORK HISTORY\nSoftware Developers, Brightgrid Software, 2019.06–2021.09\n- Defined integration standards\n- Designed Cl/CD frameworks\nSoftware Developers, Cloudframe Software, 2016.08–2018.12\n- Implemented basic authentication logic\n- Logged and tracked software defects\nEDUCATION\nAssociate's degree, Willow Creek University, 2005\n• Completed coursework in software architecture\n• Studied fundamentals of computer networks"
+}

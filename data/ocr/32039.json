@@ -1,0 +1,148 @@
+{
+  "id": "32039",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.714,
+  "n_lines": 10,
+  "mean_score": 0.9807,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SHAMEL SINGH",
+      "score": 0.9761,
+      "box": [
+        116,
+        90,
+        375,
+        121
+      ]
+    },
+    {
+      "text": "NV, USA|+1-275-543-9134|shamel.singh@example.com",
+      "score": 0.9858,
+      "box": [
+        115,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Opencrest Solutions, 2022.12–2023.01",
+      "score": 0.9819,
+      "box": [
+        116,
+        290,
+        683,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.9411,
+      "box": [
+        125,
+        314,
+        355,
+        339
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.9874,
+      "box": [
+        126,
+        339,
+        376,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Crossfield University, 2021",
+      "score": 0.9909,
+      "box": [
+        115,
+        449,
+        471,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of augmented reality",
+      "score": 0.9833,
+      "box": [
+        132,
+        472,
+        507,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of programming paradigms",
+      "score": 0.9777,
+      "box": [
+        132,
+        498,
+        605,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "SHAMEL SINGH\nNV, USA|+1-275-543-9134|shamel.singh@example.com\nWORK HISTORY\nSoftware Developers, Opencrest Solutions, 2022.12–2023.01\n- Reviewed error reports\n- Resolved merge conflicts\nEDUCATION\nBachelor's, Crossfield University, 2021\n• Studied principles of augmented reality\n• Studied fundamentals of programming paradigms"
+}

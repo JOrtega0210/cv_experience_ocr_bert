@@ -1,0 +1,148 @@
+{
+  "id": "48227",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.777,
+  "n_lines": 10,
+  "mean_score": 0.9784,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HANNAH MCCANN",
+      "score": 0.978,
+      "box": [
+        116,
+        90,
+        421,
+        120
+      ]
+    },
+    {
+      "text": "SD, USA|+1-914-475-6723 |hannah.mccann@example.com",
+      "score": 0.9894,
+      "box": [
+        116,
+        152,
+        690,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9748,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextBuild Contractors, 2022.01–2023.01",
+      "score": 0.9825,
+      "box": [
+        115,
+        290,
+        709,
+        312
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9772,
+      "box": [
+        126,
+        314,
+        492,
+        339
+      ]
+    },
+    {
+      "text": "- Measured and cut basic building materials",
+      "score": 0.9757,
+      "box": [
+        126,
+        339,
+        532,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Maintenance, Sagewood University, 2023",
+      "score": 0.9766,
+      "box": [
+        116,
+        449,
+        833,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site coordination",
+      "score": 0.9951,
+      "box": [
+        132,
+        472,
+        565,
+        496
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic siding installation",
+      "score": 0.9366,
+      "box": [
+        133,
+        499,
+        602,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "HANNAH MCCANN\nSD, USA|+1-914-475-6723 |hannah.mccann@example.com\nWORK HISTORY\nConstruction Laborers, NextBuild Contractors, 2022.01–2023.01\n- Performed basic sanding and painting\n- Measured and cut basic building materials\nEDUCATION\nSome college (no degree), Building Maintenance, Sagewood University, 2023\n• Studied fundamentals of job site coordination\n• Completed coursework in basic siding installation"
+}

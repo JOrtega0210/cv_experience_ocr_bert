@@ -1,0 +1,226 @@
+{
+  "id": "46068",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.817,
+  "n_lines": 16,
+  "mean_score": 0.9833,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SCOTT SULLIVAN",
+      "score": 0.973,
+      "box": [
+        115,
+        90,
+        408,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-454-930-8890 |scott.sullivan@example.com",
+      "score": 0.972,
+      "box": [
+        115,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Stoneframe Tech, 2020.02–2023.01",
+      "score": 0.9851,
+      "box": [
+        114,
+        288,
+        655,
+        313
+      ]
+    },
+    {
+      "text": "- Designed event-driven architectures",
+      "score": 0.9885,
+      "box": [
+        126,
+        315,
+        476,
+        338
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9855,
+      "box": [
+        126,
+        339,
+        454,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightloop Systems, 2017.03–202.02",
+      "score": 0.9786,
+      "box": [
+        115,
+        381,
+        676,
+        406
+      ]
+    },
+    {
+      "text": "- Developed RESTful APIs",
+      "score": 0.9654,
+      "box": [
+        125,
+        407,
+        376,
+        430
+      ]
+    },
+    {
+      "text": "- Integrated messaging systems",
+      "score": 0.9815,
+      "box": [
+        126,
+        430,
+        426,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Skyline Digital, 2012.08–2015.07",
+      "score": 0.9708,
+      "box": [
+        116,
+        472,
+        628,
+        496
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9852,
+      "box": [
+        125,
+        496,
+        501,
+        521
+      ]
+    },
+    {
+      "text": "- Debugged runtime errors",
+      "score": 0.9894,
+      "box": [
+        126,
+        521,
+        374,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Woodcrest University, 2006",
+      "score": 0.9944,
+      "box": [
+        115,
+        632,
+        482,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in clean code principles",
+      "score": 0.9926,
+      "box": [
+        134,
+        658,
+        584,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in transaction management",
+      "score": 0.9905,
+      "box": [
+        134,
+        681,
+        620,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "SCOTT SULLIVAN\nPA, USA|+1-454-930-8890 |scott.sullivan@example.com\nWORK HISTORY\nSoftware Developers, Stoneframe Tech, 2020.02–2023.01\n- Designed event-driven architectures\n- Led performance tuning initiatives\nSoftware Developers, Brightloop Systems, 2017.03–202.02\n- Developed RESTful APIs\n- Integrated messaging systems\nSoftware Developers, Skyline Digital, 2012.08–2015.07\n- Configured development environments\n- Debugged runtime errors\nEDUCATION\nBachelor's, Woodcrest University, 2006\n• Completed coursework in clean code principles\n• Completed coursework in transaction management"
+}

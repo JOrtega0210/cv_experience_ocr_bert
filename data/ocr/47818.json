@@ -1,0 +1,226 @@
+{
+  "id": "47818",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.859,
+  "n_lines": 16,
+  "mean_score": 0.9832,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CRISTIN RANDOLPH",
+      "score": 0.993,
+      "box": [
+        117,
+        90,
+        450,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-532-997-7948 |cristin.randolph@example.com",
+      "score": 0.9804,
+      "box": [
+        117,
+        152,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleWay Health, 2020.11–2023.01",
+      "score": 0.9768,
+      "box": [
+        115,
+        289,
+        644,
+        314
+      ]
+    },
+    {
+      "text": "- Managed clinical resource planning",
+      "score": 0.9783,
+      "box": [
+        126,
+        314,
+        468,
+        339
+      ]
+    },
+    {
+      "text": "- Developed patient safety programs",
+      "score": 0.9642,
+      "box": [
+        127,
+        339,
+        466,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIWay Nursing Services, 2017.03–2019.05",
+      "score": 0.982,
+      "box": [
+        116,
+        383,
+        721,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed diagnostic imaging results",
+      "score": 0.9705,
+      "box": [
+        126,
+        406,
+        479,
+        431
+      ]
+    },
+    {
+      "text": "- Administered complex medication regimens",
+      "score": 0.9932,
+      "box": [
+        126,
+        431,
+        546,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearWay Health Group, 2013.07–2015.10",
+      "score": 0.9897,
+      "box": [
+        116,
+        473,
+        697,
+        496
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.9854,
+      "box": [
+        125,
+        496,
+        418,
+        522
+      ]
+    },
+    {
+      "text": "- Conducted basic patient assessments",
+      "score": 0.9725,
+      "box": [
+        126,
+        521,
+        493,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9954,
+      "box": [
+        115,
+        585,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Assisting, Skyview University, 207",
+      "score": 0.9766,
+      "box": [
+        114,
+        631,
+        630,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of endocrine nursing",
+      "score": 0.9919,
+      "box": [
+        133,
+        658,
+        507,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing ethics",
+      "score": 0.9967,
+      "box": [
+        135,
+        683,
+        518,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "CRISTIN RANDOLPH\nSC, USA|+1-532-997-7948 |cristin.randolph@example.com\nWORK HISTORY\nRegistered Nurses, GentleWay Health, 2020.11–2023.01\n- Managed clinical resource planning\n- Developed patient safety programs\nRegistered Nurses, WelIWay Nursing Services, 2017.03–2019.05\n- Reviewed diagnostic imaging results\n- Administered complex medication regimens\nRegistered Nurses, ClearWay Health Group, 2013.07–2015.10\n- Provided post-procedure care\n- Conducted basic patient assessments\nEDUCATION\nBachelor's, Medical Assisting, Skyview University, 207\n• Studied principles of endocrine nursing\n• Completed coursework in nursing ethics"
+}

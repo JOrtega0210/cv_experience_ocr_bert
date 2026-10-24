@@ -1,0 +1,187 @@
+{
+  "id": "14841",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.949,
+  "n_lines": 13,
+  "mean_score": 0.9809,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TRACY WEBB",
+      "score": 0.9583,
+      "box": [
+        115,
+        90,
+        344,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-827-211-1947|tracy.webb@example.com",
+      "score": 0.9861,
+      "box": [
+        116,
+        151,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Advisors, 2020.04–2023.01",
+      "score": 0.9846,
+      "box": [
+        114,
+        289,
+        704,
+        313
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9591,
+      "box": [
+        125,
+        314,
+        527,
+        339
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9848,
+      "box": [
+        127,
+        340,
+        437,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Advisors, 2017.07–2020.04",
+      "score": 0.9961,
+      "box": [
+        115,
+        382,
+        690,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9593,
+      "box": [
+        125,
+        406,
+        439,
+        431
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9811,
+      "box": [
+        126,
+        430,
+        371,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Supply Chain Management, Oakridge Valley University, 2017",
+      "score": 0.9836,
+      "box": [
+        115,
+        541,
+        793,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in business law basics",
+      "score": 0.9914,
+      "box": [
+        134,
+        566,
+        575,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of business performance analysis",
+      "score": 0.9887,
+      "box": [
+        132,
+        590,
+        665,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "TRACY WEBB\nGA, USA|+1-827-211-1947|tracy.webb@example.com\nWORK HISTORY\nAccountants Auditors, SteadyCount Advisors, 2020.04–2023.01\n- Designed financial accountability systems\n- Developed financial risk models\nAccountants Auditors, CoreBooks Advisors, 2017.07–2020.04\n- Reviewed timesheets for payroll\n- Compiled audit evidence\nEDUCATION\nBachelor's, Supply Chain Management, Oakridge Valley University, 2017\n• Completed coursework in business law basics\n• Studied fundamentals of business performance analysis"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "46728",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.758,
+  "n_lines": 10,
+  "mean_score": 0.9801,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DEREK DILLON",
+      "score": 0.9594,
+      "box": [
+        116,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-602-225-5139 |derek.dillon@example.com",
+      "score": 0.9459,
+      "box": [
+        115,
+        150,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9828,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Build Services, 2019.02–2021.07",
+      "score": 0.9903,
+      "box": [
+        116,
+        291,
+        711,
+        311
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.9849,
+      "box": [
+        125,
+        313,
+        406,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9971,
+      "box": [
+        126,
+        339,
+        493,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Fundamentals, Ironwood University, 2012",
+      "score": 0.9624,
+      "box": [
+        116,
+        449,
+        877,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic waterproofing",
+      "score": 0.994,
+      "box": [
+        133,
+        474,
+        570,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of roofing methods",
+      "score": 0.9857,
+      "box": [
+        133,
+        497,
+        529,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "DEREK DILLON\nPA, USA|+1-602-225-5139 |derek.dillon@example.com\nWORK HISTORY\nConstruction Laborers, Unified Build Services, 2019.02–2021.07\n- Installed insulation materials\n- Assisted with equipment maintenance\nEDUCATION\nSome college (no degree), Construction Fundamentals, Ironwood University, 2012\n• Completed coursework in basic waterproofing\n• Studied fundamentals of roofing methods"
+}

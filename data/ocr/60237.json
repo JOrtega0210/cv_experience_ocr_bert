@@ -1,0 +1,252 @@
+{
+  "id": "60237",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.016,
+  "n_lines": 18,
+  "mean_score": 0.9832,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DANIELCHAPMAN",
+      "score": 0.9996,
+      "box": [
+        116,
+        90,
+        423,
+        120
+      ]
+    },
+    {
+      "text": "WI, USA|+1-806-283-5066|daniel.chapman@example.com",
+      "score": 0.9842,
+      "box": [
+        115,
+        150,
+        685,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorFrame Construction, 2020.07–2023.01",
+      "score": 0.9895,
+      "box": [
+        114,
+        289,
+        756,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed material specifications",
+      "score": 0.9813,
+      "box": [
+        126,
+        315,
+        445,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9846,
+      "box": [
+        126,
+        339,
+        487,
+        362
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyWorks Construction, 2018.01–2020.07",
+      "score": 0.9844,
+      "box": [
+        116,
+        382,
+        756,
+        405
+      ]
+    },
+    {
+      "text": "-Directed site construction operations",
+      "score": 0.993,
+      "box": [
+        125,
+        405,
+        480,
+        431
+      ]
+    },
+    {
+      "text": "- Developed long-term construction strategies",
+      "score": 0.9831,
+      "box": [
+        126,
+        431,
+        550,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, Hardline Builders, 2014.05–2016.12",
+      "score": 0.9884,
+      "box": [
+        115,
+        472,
+        668,
+        495
+      ]
+    },
+    {
+      "text": "- Laid flooring materials",
+      "score": 0.9439,
+      "box": [
+        125,
+        496,
+        347,
+        521
+      ]
+    },
+    {
+      "text": "- Operated power tools independently",
+      "score": 0.9777,
+      "box": [
+        128,
+        523,
+        477,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidFrame Construction, 2010.07–2013.02",
+      "score": 0.9877,
+      "box": [
+        115,
+        563,
+        739,
+        588
+      ]
+    },
+    {
+      "text": "- Applied basic sealants and adhesives",
+      "score": 0.9712,
+      "box": [
+        127,
+        590,
+        490,
+        613
+      ]
+    },
+    {
+      "text": "- Performed basic demolition tasks",
+      "score": 0.9749,
+      "box": [
+        127,
+        614,
+        448,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Workflow, Riverside High School, 2004",
+      "score": 0.9911,
+      "box": [
+        116,
+        725,
+        860,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction mathematics",
+      "score": 0.9806,
+      "box": [
+        133,
+        749,
+        624,
+        769
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "DANIELCHAPMAN\nWI, USA|+1-806-283-5066|daniel.chapman@example.com\nWORK HISTORY\nConstruction Laborers, AnchorFrame Construction, 2020.07–2023.01\n- Reviewed material specifications\n- Reviewed compliance documentation\nConstruction Laborers, SteadyWorks Construction, 2018.01–2020.07\n-Directed site construction operations\n- Developed long-term construction strategies\nConstruction Laborers, Hardline Builders, 2014.05–2016.12\n- Laid flooring materials\n- Operated power tools independently\nConstruction Laborers, SolidFrame Construction, 2010.07–2013.02\n- Applied basic sealants and adhesives\n- Performed basic demolition tasks\nEDUCATION\nHigh school graduate/GED, Construction Workflow, Riverside High School, 2004\n• Completed coursework in construction mathematics"
+}

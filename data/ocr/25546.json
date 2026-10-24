@@ -1,0 +1,226 @@
+{
+  "id": "25546",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.87,
+  "n_lines": 16,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "EDNA LAMBERT",
+      "score": 0.9733,
+      "box": [
+        117,
+        90,
+        386,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-468-783-5354 |edna.lambert@example.com",
+      "score": 0.971,
+      "box": [
+        115,
+        150,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeWay Nursing Services, 2019.11–2023.01",
+      "score": 0.9867,
+      "box": [
+        115,
+        289,
+        722,
+        314
+      ]
+    },
+    {
+      "text": "- Developed interdisciplinary care strategies",
+      "score": 0.9756,
+      "box": [
+        126,
+        314,
+        534,
+        339
+      ]
+    },
+    {
+      "text": "- Directed care delivery improvements",
+      "score": 0.968,
+      "box": [
+        126,
+        339,
+        480,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, TruePath Health Services, 2015.10–2019.01",
+      "score": 0.9945,
+      "box": [
+        116,
+        383,
+        712,
+        406
+      ]
+    },
+    {
+      "text": "- Administered sedation protocols",
+      "score": 0.9962,
+      "box": [
+        125,
+        406,
+        440,
+        431
+      ]
+    },
+    {
+      "text": "- Monitored patient response to treatments",
+      "score": 0.976,
+      "box": [
+        126,
+        430,
+        522,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, CareBridge Health Services, 2011.12–2015.03",
+      "score": 0.985,
+      "box": [
+        116,
+        473,
+        733,
+        496
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.9937,
+      "box": [
+        125,
+        496,
+        484,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with surgical prep",
+      "score": 0.9784,
+      "box": [
+        126,
+        520,
+        390,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Information Management, Silverlake University, 2003",
+      "score": 0.9955,
+      "box": [
+        114,
+        631,
+        781,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of blood transfusion basics",
+      "score": 0.9847,
+      "box": [
+        132,
+        656,
+        566,
+        680
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of medication reconcilliation",
+      "score": 0.9786,
+      "box": [
+        135,
+        683,
+        607,
+        703
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "EDNA LAMBERT\nMA, USA|+1-468-783-5354 |edna.lambert@example.com\nWORK HISTORY\nRegistered Nurses, SafeWay Nursing Services, 2019.11–2023.01\n- Developed interdisciplinary care strategies\n- Directed care delivery improvements\nRegistered Nurses, TruePath Health Services, 2015.10–2019.01\n- Administered sedation protocols\n- Monitored patient response to treatments\nRegistered Nurses, CareBridge Health Services, 2011.12–2015.03\n- Administered prescribed medications\n- Assisted with surgical prep\nEDUCATION\nBachelor's, Health Information Management, Silverlake University, 2003\n• Studied principles of blood transfusion basics\n• Studied fundamentals of medication reconcilliation"
+}

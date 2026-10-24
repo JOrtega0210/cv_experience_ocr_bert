@@ -1,0 +1,265 @@
+{
+  "id": "01461",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.06,
+  "n_lines": 19,
+  "mean_score": 0.978,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JESSEY FINLEY",
+      "score": 0.9704,
+      "box": [
+        116,
+        90,
+        376,
+        120
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-251-723-4507 |jessey.finley@example.com",
+      "score": 0.9871,
+      "box": [
+        116,
+        151,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Advisors, 2019.02–2023.01",
+      "score": 0.9749,
+      "box": [
+        115,
+        289,
+        737,
+        313
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9678,
+      "box": [
+        126,
+        313,
+        479,
+        338
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9816,
+      "box": [
+        127,
+        340,
+        436,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Advisors, 2015.02–2019.02",
+      "score": 0.974,
+      "box": [
+        114,
+        381,
+        753,
+        406
+      ]
+    },
+    {
+      "text": "- Developed risk management frameworks",
+      "score": 0.9856,
+      "box": [
+        127,
+        407,
+        521,
+        430
+      ]
+    },
+    {
+      "text": "- Managed financial compliance programs",
+      "score": 0.9863,
+      "box": [
+        126,
+        431,
+        517,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Services, 2011.02–2015.02",
+      "score": 0.98,
+      "box": [
+        114,
+        471,
+        696,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared tax returns",
+      "score": 0.9916,
+      "box": [
+        127,
+        499,
+        333,
+        520
+      ]
+    },
+    {
+      "text": "- Reviewed payroll reconciliations",
+      "score": 0.9676,
+      "box": [
+        126,
+        521,
+        440,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Group, 207.02–2011.02",
+      "score": 0.9717,
+      "box": [
+        115,
+        564,
+        681,
+        587
+      ]
+    },
+    {
+      "text": "- Reviewed account balances",
+      "score": 0.946,
+      "box": [
+        125,
+        589,
+        403,
+        612
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.983,
+      "box": [
+        126,
+        613,
+        550,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Information Systems, Edgewood University, 2007",
+      "score": 0.9673,
+      "box": [
+        114,
+        723,
+        681,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of financial reporting",
+      "score": 0.9769,
+      "box": [
+        132,
+        747,
+        543,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of internal controls",
+      "score": 0.9856,
+      "box": [
+        134,
+        773,
+        526,
+        795
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "JESSEY FINLEY\nAZ, USA|+1-251-723-4507 |jessey.finley@example.com\nWORK HISTORY\nAccountants Auditors, Accurate Ledger Advisors, 2019.02–2023.01\n- Led accounting process optimization\n- Developed financial risk models\nAccountants Auditors, Reliable Accounts Advisors, 2015.02–2019.02\n- Developed risk management frameworks\n- Managed financial compliance programs\nAccountants Auditors, CoreLedger Services, 2011.02–2015.02\n- Prepared tax returns\n- Reviewed payroll reconciliations\nAccountants Auditors, EverBalance Group, 207.02–2011.02\n- Reviewed account balances\n- Processed accounts receivable transactions\nEDUCATION\nBachelor's, Information Systems, Edgewood University, 2007\n• Studied fundamentals of financial reporting\n• Studied fundamentals of internal controls"
+}

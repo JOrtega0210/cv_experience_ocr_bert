@@ -1,0 +1,148 @@
+{
+  "id": "58797",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.774,
+  "n_lines": 10,
+  "mean_score": 0.9789,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANTHONY HOWELL",
+      "score": 0.9901,
+      "box": [
+        117,
+        90,
+        437,
+        120
+      ]
+    },
+    {
+      "text": "WA, USA|+1-228-568-8717|anthony.howell@example.com",
+      "score": 0.9626,
+      "box": [
+        115,
+        150,
+        685,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.983,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Field Academy, 2021.02–2023.01",
+      "score": 0.9823,
+      "box": [
+        115,
+        290,
+        840,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9758,
+      "box": [
+        127,
+        315,
+        417,
+        338
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.992,
+      "box": [
+        126,
+        339,
+        518,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Education Basics, Oakfield University, 2020",
+      "score": 0.9686,
+      "box": [
+        114,
+        447,
+        708,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of curriculum standards",
+      "score": 0.9933,
+      "box": [
+        133,
+        473,
+        536,
+        496
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic instructional coaching",
+      "score": 0.9431,
+      "box": [
+        133,
+        499,
+        642,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ANTHONY HOWELL\nWA, USA|+1-228-568-8717|anthony.howell@example.com\nWORK HISTORY\nElementary Middle School Teachers, Future Field Academy, 2021.02–2023.01\n- Prepared visual teaching aids\n- Supported standardized testing sessions\nEDUCATION\nAssociate's degree, Education Basics, Oakfield University, 2020\n• Studied principles of curriculum standards\n• Completed coursework in basic instructional coaching"
+}

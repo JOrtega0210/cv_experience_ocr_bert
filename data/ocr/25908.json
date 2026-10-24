@@ -1,0 +1,278 @@
+{
+  "id": "25908",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.993,
+  "n_lines": 20,
+  "mean_score": 0.9852,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TIA SCHROEDER",
+      "score": 0.9665,
+      "box": [
+        115,
+        90,
+        395,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-774-285-6383 |tia.schroeder@example.com",
+      "score": 0.9849,
+      "box": [
+        115,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.981,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Nursing Group, 2018.05–2023.01",
+      "score": 0.9919,
+      "box": [
+        115,
+        289,
+        700,
+        314
+      ]
+    },
+    {
+      "text": "-Directed care coordination strategies",
+      "score": 0.9977,
+      "box": [
+        125,
+        313,
+        482,
+        339
+      ]
+    },
+    {
+      "text": "- Developed patient safety programs",
+      "score": 0.9711,
+      "box": [
+        127,
+        339,
+        466,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeHands Nursing Services, 2013.09–2018.05",
+      "score": 0.9936,
+      "box": [
+        116,
+        383,
+        733,
+        406
+      ]
+    },
+    {
+      "text": "- Designed clinical care protocols",
+      "score": 0.9927,
+      "box": [
+        126,
+        406,
+        437,
+        431
+      ]
+    },
+    {
+      "text": "- Managed nursing unit operations",
+      "score": 0.9847,
+      "box": [
+        126,
+        431,
+        447,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Bridge Care, 2009.01–2013.09",
+      "score": 0.9831,
+      "box": [
+        116,
+        472,
+        654,
+        496
+      ]
+    },
+    {
+      "text": "- Supervised junior nursing staff",
+      "score": 0.989,
+      "box": [
+        126,
+        498,
+        424,
+        521
+      ]
+    },
+    {
+      "text": "-Supervisedmedicationadministration",
+      "score": 0.965,
+      "box": [
+        126,
+        522,
+        487,
+        545
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenCare Nursing Services, 2004.04–2009.01",
+      "score": 0.9901,
+      "box": [
+        116,
+        565,
+        734,
+        589
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.9926,
+      "box": [
+        125,
+        589,
+        418,
+        614
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9958,
+      "box": [
+        126,
+        613,
+        399,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Health Services Administration, Brightfield Ridge University, 2007",
+      "score": 0.9786,
+      "box": [
+        115,
+        725,
+        811,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Information Management, Oakfield University, 2005",
+      "score": 0.9652,
+      "box": [
+        114,
+        747,
+        768,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in electronic health records",
+      "score": 0.9904,
+      "box": [
+        134,
+        775,
+        617,
+        795
+      ]
+    },
+    {
+      "text": "• Completed coursework in healthcare quality improvement",
+      "score": 0.9912,
+      "box": [
+        133,
+        799,
+        680,
+        822
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "TIA SCHROEDER\nMA, USA|+1-774-285-6383 |tia.schroeder@example.com\nWORK HISTORY\nRegistered Nurses, Harmony Nursing Group, 2018.05–2023.01\n-Directed care coordination strategies\n- Developed patient safety programs\nRegistered Nurses, LifeHands Nursing Services, 2013.09–2018.05\n- Designed clinical care protocols\n- Managed nursing unit operations\nRegistered Nurses, Caring Bridge Care, 2009.01–2013.09\n- Supervised junior nursing staff\n-Supervisedmedicationadministration\nRegistered Nurses, OpenCare Nursing Services, 2004.04–2009.01\n- Assisted with feeding patients\n- Recorded patient vital signs\nEDUCATION\nMaster's, Health Services Administration, Brightfield Ridge University, 2007\nBachelor's, Health Information Management, Oakfield University, 2005\n• Completed coursework in electronic health records\n• Completed coursework in healthcare quality improvement"
+}

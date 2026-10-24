@@ -1,0 +1,265 @@
+{
+  "id": "00746",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.049,
+  "n_lines": 19,
+  "mean_score": 0.98,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "EDWIN CLEMENTS",
+      "score": 0.9849,
+      "box": [
+        117,
+        90,
+        423,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-924-457-8223 |edwin.clements@example.com",
+      "score": 0.9931,
+      "box": [
+        116,
+        152,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Systems, 2019.09–2023.01",
+      "score": 0.9775,
+      "box": [
+        114,
+        288,
+        653,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed architectural proposals",
+      "score": 0.9676,
+      "box": [
+        125,
+        313,
+        449,
+        338
+      ]
+    },
+    {
+      "text": "- Designed Cl/CD frameworks",
+      "score": 0.9773,
+      "box": [
+        127,
+        340,
+        407,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Flowframe Labs, 2016.05–2019.09",
+      "score": 0.9875,
+      "box": [
+        116,
+        382,
+        645,
+        406
+      ]
+    },
+    {
+      "text": "- Led cross-team technical alignment",
+      "score": 0.9779,
+      "box": [
+        125,
+        406,
+        471,
+        431
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9592,
+      "box": [
+        125,
+        430,
+        379,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Solutions, 2013.01–2016.05",
+      "score": 0.9883,
+      "box": [
+        114,
+        471,
+        697,
+        496
+      ]
+    },
+    {
+      "text": "- Designed application modules",
+      "score": 0.972,
+      "box": [
+        125,
+        496,
+        421,
+        521
+      ]
+    },
+    {
+      "text": "- Improved build processes",
+      "score": 0.9884,
+      "box": [
+        126,
+        521,
+        380,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Clearbyte Software, 2009.08–2013.01",
+      "score": 0.9789,
+      "box": [
+        115,
+        563,
+        672,
+        588
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9837,
+      "box": [
+        125,
+        589,
+        604,
+        614
+      ]
+    },
+    {
+      "text": "- Wrote unit tests for application modules",
+      "score": 0.9795,
+      "box": [
+        126,
+        613,
+        507,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Brightfield University, 208",
+      "score": 0.9671,
+      "box": [
+        114,
+        723,
+        474,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of software maintenance",
+      "score": 0.9934,
+      "box": [
+        131,
+        747,
+        583,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of garbage collection",
+      "score": 0.958,
+      "box": [
+        134,
+        774,
+        511,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "EDWIN CLEMENTS\nAL, USA|+1-924-457-8223 |edwin.clements@example.com\nWORK HISTORY\nSoftware Developers, Softgrid Systems, 2019.09–2023.01\n- Reviewed architectural proposals\n- Designed Cl/CD frameworks\nSoftware Developers, Flowframe Labs, 2016.05–2019.09\n- Led cross-team technical alignment\n- Defined coding standards\nSoftware Developers, Datastream Solutions, 2013.01–2016.05\n- Designed application modules\n- Improved build processes\nSoftware Developers, Clearbyte Software, 2009.08–2013.01\n- Implemented basic features in existing codebases\n- Wrote unit tests for application modules\nEDUCATION\nBachelor's, Brightfield University, 208\n• Studied fundamentals of software maintenance\n• Studied principles of garbage collection"
+}

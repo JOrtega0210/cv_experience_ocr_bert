@@ -1,0 +1,187 @@
+{
+  "id": "04392",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.921,
+  "n_lines": 13,
+  "mean_score": 0.9799,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARLON LIN",
+      "score": 0.9512,
+      "box": [
+        115,
+        88,
+        330,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-500-363-6507|marlon.lin@example.com",
+      "score": 0.9765,
+      "box": [
+        115,
+        150,
+        631,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Advisors, 2021.05–2023.01",
+      "score": 0.9938,
+      "box": [
+        115,
+        290,
+        696,
+        313
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9826,
+      "box": [
+        125,
+        313,
+        478,
+        338
+      ]
+    },
+    {
+      "text": "- Led financial forecasting initiatives",
+      "score": 0.9709,
+      "box": [
+        126,
+        339,
+        459,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Advisors, 2019.08–2021.05",
+      "score": 0.9853,
+      "box": [
+        114,
+        381,
+        695,
+        406
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9549,
+      "box": [
+        126,
+        407,
+        511,
+        430
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9963,
+      "box": [
+        126,
+        432,
+        453,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Finance, Harvest University, 2022",
+      "score": 0.9731,
+      "box": [
+        114,
+        539,
+        539,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit ethics",
+      "score": 0.9865,
+      "box": [
+        134,
+        566,
+        495,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in international accounting basics",
+      "score": 0.9854,
+      "box": [
+        133,
+        590,
+        674,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "MARLON LIN\nCA, USA|+1-500-363-6507|marlon.lin@example.com\nWORK HISTORY\nAccountants Auditors, SolidLedger Advisors, 2021.05–2023.01\n- Established financial quality controls\n- Led financial forecasting initiatives\nAccountants Auditors, OpenBooks Advisors, 2019.08–2021.05\n- Maintained accounting software records\n- Reviewed expense classifications\nEDUCATION\nBachelor's, Finance, Harvest University, 2022\n• Completed coursework in audit ethics\n• Completed coursework in international accounting basics"
+}

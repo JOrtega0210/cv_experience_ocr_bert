@@ -1,0 +1,278 @@
+{
+  "id": "41074",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.967,
+  "n_lines": 20,
+  "mean_score": 0.9794,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RYAN RICHMOND",
+      "score": 0.9718,
+      "box": [
+        115,
+        88,
+        407,
+        122
+      ]
+    },
+    {
+      "text": "ND,USA|+1-349-757-8939|ryan.richmond@example.com",
+      "score": 0.9879,
+      "box": [
+        115,
+        150,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9867,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ExactCount Services, 2019.12–2023.01",
+      "score": 0.9859,
+      "box": [
+        115,
+        290,
+        692,
+        313
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.9729,
+      "box": [
+        126,
+        314,
+        486,
+        339
+      ]
+    },
+    {
+      "text": "- Led cross-functional financial integration",
+      "score": 0.9851,
+      "box": [
+        126,
+        339,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Financial, 2016.11–2019.12",
+      "score": 0.9934,
+      "box": [
+        115,
+        381,
+        712,
+        405
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9802,
+      "box": [
+        125,
+        405,
+        494,
+        432
+      ]
+    },
+    {
+      "text": "- Directed budget planning cycles",
+      "score": 0.9729,
+      "box": [
+        126,
+        431,
+        439,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Accounting, 2013.09–2016.11",
+      "score": 0.9687,
+      "box": [
+        114,
+        471,
+        719,
+        496
+      ]
+    },
+    {
+      "text": "- Managed general ledger maintenance",
+      "score": 0.9747,
+      "box": [
+        126,
+        498,
+        494,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared regulatory reports",
+      "score": 0.9647,
+      "box": [
+        126,
+        521,
+        398,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Financial Group, 2010.07–2013.09",
+      "score": 0.9918,
+      "box": [
+        115,
+        565,
+        747,
+        588
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9861,
+      "box": [
+        125,
+        589,
+        382,
+        615
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9498,
+      "box": [
+        128,
+        616,
+        370,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Professional degree, Public Accounting, Foxwood University, 2008",
+      "score": 0.9647,
+      "box": [
+        114,
+        723,
+        732,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Cost Accounting, Brookwood University, 2004",
+      "score": 0.973,
+      "box": [
+        114,
+        747,
+        649,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of consolidation accounting",
+      "score": 0.9839,
+      "box": [
+        132,
+        772,
+        608,
+        797
+      ]
+    },
+    {
+      "text": "• Studied principles of accounting policy analysis",
+      "score": 0.9958,
+      "box": [
+        132,
+        798,
+        583,
+        822
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "RYAN RICHMOND\nND,USA|+1-349-757-8939|ryan.richmond@example.com\nWORK HISTORY\nAccountants Auditors, ExactCount Services, 2019.12–2023.01\n- Designed financial oversight systems\n- Led cross-functional financial integration\nAccountants Auditors, SolidBalance Financial, 2016.11–2019.12\n- Established financial data governance\n- Directed budget planning cycles\nAccountants Auditors, FairBalance Accounting, 2013.09–2016.11\n- Managed general ledger maintenance\n- Prepared regulatory reports\nAccountants Auditors, OpenPath Financial Group, 2010.07–2013.09\n- Reviewed ledger postings\n- Compiled audit evidence\nEDUCATION\nProfessional degree, Public Accounting, Foxwood University, 2008\nBachelor's, Cost Accounting, Brookwood University, 2004\n• Studied fundamentals of consolidation accounting\n• Studied principles of accounting policy analysis"
+}

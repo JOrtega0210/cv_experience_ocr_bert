@@ -1,0 +1,278 @@
+{
+  "id": "26656",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.871,
+  "n_lines": 20,
+  "mean_score": 0.984,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JACOB KAUR",
+      "score": 0.9835,
+      "box": [
+        116,
+        90,
+        341,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-821-406-5657|jacob.kaur@example.com",
+      "score": 0.9816,
+      "box": [
+        114,
+        150,
+        639,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9888,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Bluepoint Digital, 2020.06–2023.01",
+      "score": 0.9904,
+      "box": [
+        115,
+        288,
+        645,
+        314
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9779,
+      "box": [
+        125,
+        313,
+        368,
+        339
+      ]
+    },
+    {
+      "text": "- Defined code review processes",
+      "score": 0.9643,
+      "box": [
+        126,
+        338,
+        433,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstack Labs, 2017.11–2020.06",
+      "score": 0.9888,
+      "box": [
+        115,
+        381,
+        650,
+        406
+      ]
+    },
+    {
+      "text": "- Led technical audits",
+      "score": 0.9757,
+      "box": [
+        127,
+        408,
+        327,
+        429
+      ]
+    },
+    {
+      "text": "- Led refactoring initiatives",
+      "score": 0.9669,
+      "box": [
+        127,
+        432,
+        373,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Softway Solutions, 2015.04–2017.11",
+      "score": 0.9872,
+      "box": [
+        115,
+        471,
+        661,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented authentication workflows",
+      "score": 0.9931,
+      "box": [
+        126,
+        498,
+        496,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented error handling frameworks",
+      "score": 0.9723,
+      "box": [
+        126,
+        521,
+        510,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Tech, 2010.09–2013.05",
+      "score": 0.9898,
+      "box": [
+        115,
+        563,
+        622,
+        588
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9916,
+      "box": [
+        125,
+        588,
+        340,
+        615
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.964,
+      "box": [
+        127,
+        615,
+        403,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Professional degree, Riverstone Ridge University, 2006",
+      "score": 0.9936,
+      "box": [
+        116,
+        725,
+        630,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Valley View University, 2002",
+      "score": 0.9844,
+      "box": [
+        115,
+        749,
+        489,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in software lifecycle models",
+      "score": 0.9948,
+      "box": [
+        133,
+        774,
+        621,
+        797
+      ]
+    },
+    {
+      "text": "• Studied principles of dependency management",
+      "score": 0.9926,
+      "box": [
+        132,
+        798,
+        585,
+        823
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "JACOB KAUR\nMA, USA|+1-821-406-5657|jacob.kaur@example.com\nWORK HISTORY\nSoftware Developers, Bluepoint Digital, 2020.06–2023.01\n- Built distributed systems\n- Defined code review processes\nSoftware Developers, Brightstack Labs, 2017.11–2020.06\n- Led technical audits\n- Led refactoring initiatives\nSoftware Developers, Softway Solutions, 2015.04–2017.11\n- Implemented authentication workflows\n- Implemented error handling frameworks\nSoftware Developers, Softgrid Tech, 2010.09–2013.05\n- Updated routing logic\n- Updated database schemas\nEDUCATION\nProfessional degree, Riverstone Ridge University, 2006\nBachelor's, Valley View University, 2002\n• Completed coursework in software lifecycle models\n• Studied principles of dependency management"
+}

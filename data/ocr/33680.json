@@ -1,0 +1,187 @@
+{
+  "id": "33680",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.813,
+  "n_lines": 13,
+  "mean_score": 0.9772,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SARAH BLACKBURN",
+      "score": 0.9691,
+      "box": [
+        116,
+        90,
+        459,
+        120
+      ]
+    },
+    {
+      "text": "NJ, USA |+1-476-926-4079 | sarah.blackburn@example.com",
+      "score": 0.9642,
+      "box": [
+        116,
+        151,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.98,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Group, 2019.03–2020.11",
+      "score": 0.9809,
+      "box": [
+        114,
+        289,
+        661,
+        313
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.978,
+      "box": [
+        126,
+        315,
+        556,
+        338
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9697,
+      "box": [
+        126,
+        339,
+        449,
+        362
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Financial, 2016.10–2018.06",
+      "score": 0.9835,
+      "box": [
+        114,
+        381,
+        734,
+        406
+      ]
+    },
+    {
+      "text": "- Reconciled bank statements",
+      "score": 0.984,
+      "box": [
+        126,
+        407,
+        405,
+        429
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.9701,
+      "box": [
+        126,
+        431,
+        436,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting and Auditing, Crestline University, 2006",
+      "score": 0.9622,
+      "box": [
+        114,
+        539,
+        700,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit ethics",
+      "score": 0.986,
+      "box": [
+        134,
+        566,
+        495,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting software applications",
+      "score": 0.9781,
+      "box": [
+        134,
+        591,
+        690,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "SARAH BLACKBURN\nNJ, USA |+1-476-926-4079 | sarah.blackburn@example.com\nWORK HISTORY\nAccountants Auditors, EverCount Group, 2019.03–2020.11\n- Directed accounting system implementations\n- Designed accounting frameworks\nAccountants Auditors, Integrity Ledger Financial, 2016.10–2018.06\n- Reconciled bank statements\n- Prepared basic financial reports\nEDUCATION\nBachelor's, Accounting and Auditing, Crestline University, 2006\n• Completed coursework in audit ethics\n• Completed coursework in accounting software applications"
+}

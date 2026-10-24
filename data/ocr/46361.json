@@ -1,0 +1,265 @@
+{
+  "id": "46361",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.866,
+  "n_lines": 19,
+  "mean_score": 0.9797,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KATRINA KIM",
+      "score": 0.9604,
+      "box": [
+        116,
+        90,
+        339,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-356-988-1156|katrina.kim@example.com",
+      "score": 0.9895,
+      "box": [
+        115,
+        150,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Skywave Tech, 2019.11–2023.01",
+      "score": 0.9951,
+      "box": [
+        116,
+        289,
+        630,
+        312
+      ]
+    },
+    {
+      "text": "- Designed microservice architectures",
+      "score": 0.9909,
+      "box": [
+        126,
+        315,
+        478,
+        338
+      ]
+    },
+    {
+      "text": "- Designed logging infrastructures",
+      "score": 0.9828,
+      "box": [
+        126,
+        339,
+        442,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Systems, 2016.08–2019.11",
+      "score": 0.9875,
+      "box": [
+        115,
+        381,
+        657,
+        406
+      ]
+    },
+    {
+      "text": "- Defined engineering best practices",
+      "score": 0.9921,
+      "box": [
+        126,
+        406,
+        463,
+        431
+      ]
+    },
+    {
+      "text": "- Designed software development workflows",
+      "score": 0.9852,
+      "box": [
+        126,
+        431,
+        538,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Systems, 2013.05–2016.08",
+      "score": 0.9848,
+      "box": [
+        115,
+        471,
+        673,
+        496
+      ]
+    },
+    {
+      "text": "- Designed Ul workflows",
+      "score": 0.9408,
+      "box": [
+        127,
+        499,
+        354,
+        520
+      ]
+    },
+    {
+      "text": "- Designed data models",
+      "score": 0.96,
+      "box": [
+        125,
+        521,
+        351,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Digital, 2009.02–2012.05",
+      "score": 0.9729,
+      "box": [
+        114,
+        562,
+        661,
+        590
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.9612,
+      "box": [
+        126,
+        590,
+        332,
+        614
+      ]
+    },
+    {
+      "text": "- Implemented caching logic",
+      "score": 0.9864,
+      "box": [
+        126,
+        614,
+        390,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Ridgeway University, 2004",
+      "score": 0.9823,
+      "box": [
+        115,
+        725,
+        473,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in logic and computation",
+      "score": 0.9684,
+      "box": [
+        132,
+        748,
+        592,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in distributed databases",
+      "score": 0.99,
+      "box": [
+        134,
+        774,
+        589,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "KATRINA KIM\nPA, USA|+1-356-988-1156|katrina.kim@example.com\nWORK HISTORY\nSoftware Developers, Skywave Tech, 2019.11–2023.01\n- Designed microservice architectures\n- Designed logging infrastructures\nSoftware Developers, Flowline Systems, 2016.08–2019.11\n- Defined engineering best practices\n- Designed software development workflows\nSoftware Developers, Clearpath Systems, 2013.05–2016.08\n- Designed Ul workflows\n- Designed data models\nSoftware Developers, Openwave Digital, 2009.02–2012.05\n- Handled file uploads\n- Implemented caching logic\nEDUCATION\nBachelor's, Ridgeway University, 2004\n• Completed coursework in logic and computation\n• Completed coursework in distributed databases"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "27715",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.773,
+  "n_lines": 10,
+  "mean_score": 0.9855,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOHNATHANGATES",
+      "score": 0.9995,
+      "box": [
+        116,
+        90,
+        450,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-711-964-6785 |johnathan.gates@example.com",
+      "score": 0.9745,
+      "box": [
+        116,
+        152,
+        684,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9813,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Academy, 2021.03–2023.01",
+      "score": 0.9827,
+      "box": [
+        116,
+        290,
+        813,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed lesson objectives",
+      "score": 0.9909,
+      "box": [
+        126,
+        315,
+        400,
+        339
+      ]
+    },
+    {
+      "text": "- Set up classroom technology tools",
+      "score": 0.9839,
+      "box": [
+        126,
+        339,
+        460,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Social Science Studies, Oakwood University, 2023",
+      "score": 0.9738,
+      "box": [
+        114,
+        447,
+        693,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational skill building",
+      "score": 0.9731,
+      "box": [
+        133,
+        474,
+        615,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional feedback",
+      "score": 0.9971,
+      "box": [
+        133,
+        498,
+        581,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JOHNATHANGATES\nMI, USA|+1-711-964-6785 |johnathan.gates@example.com\nWORK HISTORY\nElementary Middle School Teachers, Harmony Academy, 2021.03–2023.01\n- Reviewed lesson objectives\n- Set up classroom technology tools\nEDUCATION\nBachelor's, Social Science Studies, Oakwood University, 2023\n• Completed coursework in educational skill building\n• Studied fundamentals of instructional feedback"
+}

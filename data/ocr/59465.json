@@ -1,0 +1,265 @@
+{
+  "id": "59465",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.91,
+  "n_lines": 19,
+  "mean_score": 0.9815,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TAYLOR WELCH",
+      "score": 0.9675,
+      "box": [
+        114,
+        90,
+        388,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-907-920-8202|taylor.welch@example.com",
+      "score": 0.9907,
+      "box": [
+        115,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.981,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelILife Medical Group, 2019.07–2023.01",
+      "score": 0.9712,
+      "box": [
+        115,
+        289,
+        689,
+        314
+      ]
+    },
+    {
+      "text": "- Developed patient safety programs",
+      "score": 0.9755,
+      "box": [
+        126,
+        314,
+        466,
+        339
+      ]
+    },
+    {
+      "text": "- Led patient experience improvement programs",
+      "score": 0.9856,
+      "box": [
+        126,
+        339,
+        574,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelISpring Nursing Services, 2016.01–2019.07",
+      "score": 0.9888,
+      "box": [
+        116,
+        383,
+        740,
+        406
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9865,
+      "box": [
+        125,
+        406,
+        471,
+        431
+      ]
+    },
+    {
+      "text": "- Directed patient care coordination",
+      "score": 0.9818,
+      "box": [
+        126,
+        431,
+        454,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueBridge Nursing, 2011.05–2014.12",
+      "score": 0.9835,
+      "box": [
+        116,
+        472,
+        657,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored respiratory therapy treatments",
+      "score": 0.9591,
+      "box": [
+        125,
+        496,
+        519,
+        522
+      ]
+    },
+    {
+      "text": "- Reviewed care plan outcomes",
+      "score": 0.9949,
+      "box": [
+        126,
+        521,
+        422,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Hands Health, 2006.05–2009.12",
+      "score": 0.9875,
+      "box": [
+        116,
+        565,
+        670,
+        588
+      ]
+    },
+    {
+      "text": "- Monitored intravenous lines",
+      "score": 0.9847,
+      "box": [
+        126,
+        590,
+        399,
+        613
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9822,
+      "box": [
+        126,
+        615,
+        437,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Technology, Summit Ridge University, 2003",
+      "score": 0.9745,
+      "box": [
+        114,
+        723,
+        709,
+        748
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical reasoning",
+      "score": 0.9565,
+      "box": [
+        132,
+        748,
+        549,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in human anatomy and physiology",
+      "score": 0.9972,
+      "box": [
+        134,
+        773,
+        683,
+        799
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "TAYLOR WELCH\nWA, USA|+1-907-920-8202|taylor.welch@example.com\nWORK HISTORY\nRegistered Nurses, WelILife Medical Group, 2019.07–2023.01\n- Developed patient safety programs\n- Led patient experience improvement programs\nRegistered Nurses, WelISpring Nursing Services, 2016.01–2019.07\n- Established care delivery standards\n- Directed patient care coordination\nRegistered Nurses, TrueBridge Nursing, 2011.05–2014.12\n- Monitored respiratory therapy treatments\n- Reviewed care plan outcomes\nRegistered Nurses, Caring Hands Health, 2006.05–2009.12\n- Monitored intravenous lines\n- Assisted with patient positioning\nEDUCATION\nBachelor's, Medical Technology, Summit Ridge University, 2003\n• Completed coursework in clinical reasoning\n• Completed coursework in human anatomy and physiology"
+}

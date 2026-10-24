@@ -1,0 +1,187 @@
+{
+  "id": "46767",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.814,
+  "n_lines": 13,
+  "mean_score": 0.9842,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "GUILLERMO COLLINS",
+      "score": 0.9836,
+      "box": [
+        118,
+        90,
+        474,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-539-941-3233|guillermo.collins@example.com",
+      "score": 0.9724,
+      "box": [
+        115,
+        150,
+        688,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9891,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenPath Nursing Services, 2020.11–2023.01",
+      "score": 0.9931,
+      "box": [
+        116,
+        290,
+        732,
+        313
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.9679,
+      "box": [
+        125,
+        314,
+        426,
+        339
+      ]
+    },
+    {
+      "text": "- Developed nursing training programs",
+      "score": 0.9845,
+      "box": [
+        126,
+        339,
+        484,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeNest Nursing Services, 2018.09–2020.11",
+      "score": 0.984,
+      "box": [
+        115,
+        381,
+        715,
+        406
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.986,
+      "box": [
+        125,
+        406,
+        418,
+        431
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.9915,
+      "box": [
+        126,
+        431,
+        471,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Support, Willowgate University, 2023",
+      "score": 0.9605,
+      "box": [
+        115,
+        541,
+        639,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in immunization practices",
+      "score": 0.9884,
+      "box": [
+        134,
+        566,
+        603,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing standards of practice",
+      "score": 0.9955,
+      "box": [
+        134,
+        590,
+        656,
+        613
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "GUILLERMO COLLINS\nPA, USA|+1-539-941-3233|guillermo.collins@example.com\nWORK HISTORY\nRegistered Nurses, OpenPath Nursing Services, 2020.11–2023.01\n- Managed clinical data analysis\n- Developed nursing training programs\nRegistered Nurses, LifeNest Nursing Services, 2018.09–2020.11\n- Provided post-procedure care\n- Recorded patient weight and height\nEDUCATION\nBachelor's, Clinical Support, Willowgate University, 2023\n• Completed coursework in immunization practices\n• Completed coursework in nursing standards of practice"
+}

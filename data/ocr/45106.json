@@ -1,0 +1,187 @@
+{
+  "id": "45106",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.785,
+  "n_lines": 13,
+  "mean_score": 0.9811,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MATTHEW BURTON",
+      "score": 0.9691,
+      "box": [
+        116,
+        90,
+        441,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-311-292-9192|matthew.burton@example.com",
+      "score": 0.9871,
+      "box": [
+        115,
+        150,
+        683,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codepoint Labs, 2019.07–2021.10",
+      "score": 0.9793,
+      "box": [
+        114,
+        288,
+        643,
+        314
+      ]
+    },
+    {
+      "text": "- Defined code review processes",
+      "score": 0.9849,
+      "box": [
+        125,
+        313,
+        433,
+        339
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9643,
+      "box": [
+        126,
+        339,
+        400,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Dataforge Systems, 2015.10–2018.01",
+      "score": 0.9888,
+      "box": [
+        115,
+        381,
+        672,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9759,
+      "box": [
+        126,
+        406,
+        422,
+        431
+      ]
+    },
+    {
+      "text": "- Maintained code repositories",
+      "score": 0.9765,
+      "box": [
+        125,
+        430,
+        410,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Seabreeze University, 2013",
+      "score": 0.981,
+      "box": [
+        115,
+        541,
+        482,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in pointer arithmetic basics",
+      "score": 0.9831,
+      "box": [
+        134,
+        566,
+        614,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of recursion techniques",
+      "score": 0.9802,
+      "box": [
+        133,
+        591,
+        572,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "MATTHEW BURTON\nPA, USA|+1-311-292-9192|matthew.burton@example.com\nWORK HISTORY\nSoftware Developers, Codepoint Labs, 2019.07–2021.10\n- Defined code review processes\n- Led database design efforts\nSoftware Developers, Dataforge Systems, 2015.10–2018.01\n- Implemented REST endpoints\n- Maintained code repositories\nEDUCATION\nBachelor's, Seabreeze University, 2013\n• Completed coursework in pointer arithmetic basics\n• Studied fundamentals of recursion techniques"
+}

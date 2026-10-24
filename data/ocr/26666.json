@@ -1,0 +1,148 @@
+{
+  "id": "26666",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.728,
+  "n_lines": 10,
+  "mean_score": 0.9799,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MICHAEL YU",
+      "score": 0.9771,
+      "box": [
+        116,
+        90,
+        325,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-667-221-2360 |michael.yu@example.com",
+      "score": 0.9607,
+      "box": [
+        115,
+        150,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Silverstack Solutions, 2020.07–2023.01",
+      "score": 0.9851,
+      "box": [
+        115,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9886,
+      "box": [
+        127,
+        315,
+        501,
+        338
+      ]
+    },
+    {
+      "text": "- Debugged runtime errors",
+      "score": 0.9881,
+      "box": [
+        126,
+        339,
+        375,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Brookfield University, 2023",
+      "score": 0.9672,
+      "box": [
+        114,
+        447,
+        474,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of collaborative development",
+      "score": 0.9648,
+      "box": [
+        132,
+        472,
+        623,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in release management",
+      "score": 0.9843,
+      "box": [
+        133,
+        498,
+        587,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "MICHAEL YU\nMA, USA|+1-667-221-2360 |michael.yu@example.com\nWORK HISTORY\nSoftware Developers, Silverstack Solutions, 2020.07–2023.01\n- Configured development environments\n- Debugged runtime errors\nEDUCATION\nBachelor's, Brookfield University, 2023\n• Studied fundamentals of collaborative development\n• Completed coursework in release management"
+}

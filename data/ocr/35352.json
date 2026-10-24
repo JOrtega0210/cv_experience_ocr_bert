@@ -1,0 +1,161 @@
+{
+  "id": "35352",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.8,
+  "n_lines": 11,
+  "mean_score": 0.9841,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MATTHEW OLIVER",
+      "score": 0.9794,
+      "box": [
+        116,
+        90,
+        422,
+        120
+      ]
+    },
+    {
+      "text": "NY, USA|+1-822-867-5218|matthew.oliver@example.com",
+      "score": 0.9789,
+      "box": [
+        115,
+        150,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9733,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Advisors, 2022.02–2023.01",
+      "score": 0.9881,
+      "box": [
+        116,
+        291,
+        686,
+        311
+      ]
+    },
+    {
+      "text": "- Verified transaction accuracy",
+      "score": 0.988,
+      "box": [
+        126,
+        313,
+        411,
+        340
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.977,
+      "box": [
+        126,
+        339,
+        439,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Financial Analysis, Clear Spring University, 2022",
+      "score": 0.9861,
+      "box": [
+        115,
+        449,
+        657,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Information Systems, Stonecrest University, 2020",
+      "score": 0.9731,
+      "box": [
+        114,
+        472,
+        683,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in nonprofit financial management",
+      "score": 0.9847,
+      "box": [
+        133,
+        498,
+        681,
+        523
+      ]
+    },
+    {
+      "text": "• Completed coursework in supply chain accounting",
+      "score": 0.9984,
+      "box": [
+        134,
+        523,
+        612,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "MATTHEW OLIVER\nNY, USA|+1-822-867-5218|matthew.oliver@example.com\nWORK HISTORY\nAccountants Auditors, SolidCount Advisors, 2022.02–2023.01\n- Verified transaction accuracy\n- Reviewed timesheets for payroll\nEDUCATION\nMaster's, Financial Analysis, Clear Spring University, 2022\nBachelor's, Information Systems, Stonecrest University, 2020\n• Completed coursework in nonprofit financial management\n• Completed coursework in supply chain accounting"
+}

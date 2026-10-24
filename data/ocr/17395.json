@@ -1,0 +1,200 @@
+{
+  "id": "17395",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.969,
+  "n_lines": 14,
+  "mean_score": 0.9843,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KARINA FITZPATRICK",
+      "score": 0.9817,
+      "box": [
+        116,
+        90,
+        476,
+        120
+      ]
+    },
+    {
+      "text": "IL, USA|+1-876-671-4734 |karina.fitzpatrick@example.com",
+      "score": 0.9906,
+      "box": [
+        116,
+        152,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.978,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrueBalance Financial, 2020.11–2023.01",
+      "score": 0.992,
+      "box": [
+        115,
+        289,
+        706,
+        313
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.953,
+      "box": [
+        126,
+        314,
+        525,
+        339
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9796,
+      "box": [
+        126,
+        339,
+        502,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Financial, 2016.04–2018.07",
+      "score": 0.9839,
+      "box": [
+        114,
+        381,
+        710,
+        405
+      ]
+    },
+    {
+      "text": "- Matched invoices to purchase orders",
+      "score": 0.9917,
+      "box": [
+        126,
+        407,
+        483,
+        430
+      ]
+    },
+    {
+      "text": "- Performed data validation checks",
+      "score": 0.9929,
+      "box": [
+        127,
+        432,
+        451,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Master's, Government Accounting, Pine Valley University, 2008",
+      "score": 0.98,
+      "box": [
+        115,
+        541,
+        702,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Management Information Systems, Pineview University, 2006",
+      "score": 0.9962,
+      "box": [
+        114,
+        565,
+        794,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of financial planning",
+      "score": 0.9897,
+      "box": [
+        132,
+        590,
+        503,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of employee benefit accounting",
+      "score": 0.9716,
+      "box": [
+        134,
+        616,
+        643,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "KARINA FITZPATRICK\nIL, USA|+1-876-671-4734 |karina.fitzpatrick@example.com\nWORK HISTORY\nAccountants Auditors, TrueBalance Financial, 2020.11–2023.01\n- Developed regulatory reporting strategies\n- Led accounting transformation projects\nAccountants Auditors, SteadyCount Financial, 2016.04–2018.07\n- Matched invoices to purchase orders\n- Performed data validation checks\nEDUCATION\nMaster's, Government Accounting, Pine Valley University, 2008\nBachelor's, Management Information Systems, Pineview University, 2006\n• Studied principles of financial planning\n• Studied fundamentals of employee benefit accounting"
+}

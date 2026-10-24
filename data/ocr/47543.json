@@ -1,0 +1,187 @@
+{
+  "id": "47543",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.826,
+  "n_lines": 13,
+  "mean_score": 0.9787,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JACOB WEBB",
+      "score": 0.9627,
+      "box": [
+        116,
+        90,
+        346,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-320-962-7109 |jacob.webb@example.com",
+      "score": 0.9728,
+      "box": [
+        116,
+        151,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9833,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Track Builders, 2020.03–202.01",
+      "score": 0.9798,
+      "box": [
+        115,
+        289,
+        710,
+        313
+      ]
+    },
+    {
+      "text": "-Directed quality assurance programs",
+      "score": 0.9903,
+      "box": [
+        125,
+        314,
+        482,
+        340
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9851,
+      "box": [
+        126,
+        338,
+        371,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, EverStrong Construction, 2017.04–2020.03",
+      "score": 0.9893,
+      "box": [
+        115,
+        381,
+        735,
+        406
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9659,
+      "box": [
+        125,
+        406,
+        406,
+        432
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9531,
+      "box": [
+        125,
+        429,
+        484,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Building Trades, Northfield University, 2019",
+      "score": 0.9764,
+      "box": [
+        114,
+        539,
+        627,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction equipment safety",
+      "score": 0.9829,
+      "box": [
+        133,
+        565,
+        666,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic HVAC concepts",
+      "score": 0.9838,
+      "box": [
+        134,
+        590,
+        592,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JACOB WEBB\nSC, USA|+1-320-962-7109 |jacob.webb@example.com\nWORK HISTORY\nConstruction Laborers, Unified Track Builders, 2020.03–202.01\n-Directed quality assurance programs\n- Led operational planning\nConstruction Laborers, EverStrong Construction, 2017.04–2020.03\n- Installed temporary supports\n- Maintained cleanliness of work areas\nEDUCATION\nBachelor's, Building Trades, Northfield University, 2019\n• Completed coursework in construction equipment safety\n• Completed coursework in basic HVAC concepts"
+}

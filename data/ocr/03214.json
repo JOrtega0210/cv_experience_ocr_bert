@@ -1,0 +1,278 @@
+{
+  "id": "03214",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.117,
+  "n_lines": 20,
+  "mean_score": 0.9783,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRIAN LE",
+      "score": 0.9367,
+      "box": [
+        115,
+        88,
+        278,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-344-436-6941 | brian.le@example.com",
+      "score": 0.9756,
+      "box": [
+        116,
+        151,
+        610,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9793,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Bridge School, 2019.07–2023.01",
+      "score": 0.9743,
+      "box": [
+        116,
+        290,
+        853,
+        313
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.9805,
+      "box": [
+        126,
+        315,
+        510,
+        338
+      ]
+    },
+    {
+      "text": "- Directed assessment development efforts",
+      "score": 0.9799,
+      "box": [
+        127,
+        340,
+        526,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Path School, 2016.01–2019.07",
+      "score": 0.976,
+      "box": [
+        115,
+        381,
+        833,
+        406
+      ]
+    },
+    {
+      "text": "-Directed instructional benchmarking",
+      "score": 0.9923,
+      "box": [
+        125,
+        406,
+        474,
+        431
+      ]
+    },
+    {
+      "text": "- Led curriculum alignment initiatives",
+      "score": 0.9724,
+      "box": [
+        127,
+        432,
+        467,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Bridge Academy, 2012.01–2015.07",
+      "score": 0.975,
+      "box": [
+        114,
+        471,
+        874,
+        497
+      ]
+    },
+    {
+      "text": "- Implemented project-based learning activities",
+      "score": 0.9845,
+      "box": [
+        126,
+        498,
+        561,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed assessment results",
+      "score": 0.9743,
+      "box": [
+        126,
+        522,
+        418,
+        544
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, New Leaf Learning, 2007.11–2011.06",
+      "score": 0.9826,
+      "box": [
+        115,
+        565,
+        813,
+        588
+      ]
+    },
+    {
+      "text": "- Reviewed lesson objectives",
+      "score": 0.9825,
+      "box": [
+        125,
+        590,
+        400,
+        613
+      ]
+    },
+    {
+      "text": "- Supported individual student learning activities",
+      "score": 0.9855,
+      "box": [
+        126,
+        614,
+        570,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Child Development, Cloverfield University, 2004",
+      "score": 0.972,
+      "box": [
+        116,
+        726,
+        648,
+        745
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Services, Goldenfield University, 22",
+      "score": 0.9633,
+      "box": [
+        114,
+        747,
+        677,
+        772
+      ]
+    },
+    {
+      "text": "• Studied basic classroom management concepts",
+      "score": 0.9861,
+      "box": [
+        132,
+        772,
+        592,
+        798
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom assessment techniques",
+      "score": 0.9935,
+      "box": [
+        133,
+        798,
+        708,
+        823
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "BRIAN LE\nCA, USA|+1-344-436-6941 | brian.le@example.com\nWORK HISTORY\nElementary Middle School Teachers, Learning Bridge School, 2019.07–2023.01\n- Led curriculum transformation initiatives\n- Directed assessment development efforts\nElementary Middle School Teachers, Growing Path School, 2016.01–2019.07\n-Directed instructional benchmarking\n- Led curriculum alignment initiatives\nElementary Middle School Teachers, Growing Bridge Academy, 2012.01–2015.07\n- Implemented project-based learning activities\n- Reviewed assessment results\nElementary Middle School Teachers, New Leaf Learning, 2007.11–2011.06\n- Reviewed lesson objectives\n- Supported individual student learning activities\nEDUCATION\nMaster's, Child Development, Cloverfield University, 2004\nBachelor's, Education Services, Goldenfield University, 22\n• Studied basic classroom management concepts\n• Completed coursework in classroom assessment techniques"
+}

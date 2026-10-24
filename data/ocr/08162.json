@@ -1,0 +1,265 @@
+{
+  "id": "08162",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.965,
+  "n_lines": 19,
+  "mean_score": 0.9811,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRIAN PARK",
+      "score": 0.9504,
+      "box": [
+        116,
+        90,
+        329,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-969-962-2618 |brian.park@example.com",
+      "score": 0.9724,
+      "box": [
+        117,
+        151,
+        634,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9856,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpoint Tech, 2020.01–2023.01",
+      "score": 0.9733,
+      "box": [
+        116,
+        290,
+        636,
+        314
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9902,
+      "box": [
+        126,
+        313,
+        439,
+        339
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9925,
+      "box": [
+        126,
+        339,
+        450,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Netcore Labs, 2017.01–2020.01",
+      "score": 0.9834,
+      "box": [
+        116,
+        382,
+        619,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented data pipeline architectures",
+      "score": 0.9899,
+      "box": [
+        126,
+        406,
+        512,
+        431
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9923,
+      "box": [
+        126,
+        431,
+        454,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Openfield Labs, 2012.08–2015.08",
+      "score": 0.9777,
+      "box": [
+        115,
+        471,
+        637,
+        496
+      ]
+    },
+    {
+      "text": "- Improved application performance",
+      "score": 0.9759,
+      "box": [
+        125,
+        496,
+        458,
+        522
+      ]
+    },
+    {
+      "text": "- Handled load testing",
+      "score": 0.9689,
+      "box": [
+        126,
+        521,
+        333,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Dataframe Solutions, 2008.04–2011.04",
+      "score": 0.9884,
+      "box": [
+        115,
+        563,
+        686,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9864,
+      "box": [
+        126,
+        590,
+        478,
+        613
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9847,
+      "box": [
+        127,
+        615,
+        415,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Fairview University, 2008",
+      "score": 0.9719,
+      "box": [
+        114,
+        723,
+        459,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of garbage collection",
+      "score": 0.9733,
+      "box": [
+        132,
+        747,
+        511,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in configuration management",
+      "score": 0.9851,
+      "box": [
+        133,
+        772,
+        637,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "BRIAN PARK\nCA, USA|+1-969-962-2618 |brian.park@example.com\nWORK HISTORY\nSoftware Developers, Flowpoint Tech, 2020.01–2023.01\n- Led technical roadmap planning\n- Defined data governance policies\nSoftware Developers, Netcore Labs, 2017.01–2020.01\n- Implemented data pipeline architectures\n- Led performance tuning initiatives\nSoftware Developers, Openfield Labs, 2012.08–2015.08\n- Improved application performance\n- Handled load testing\nSoftware Developers, Dataframe Solutions, 2008.04–2011.04\n- Assisted with system documentation\n- Updated frontend stylesheets\nEDUCATION\nBachelor's, Fairview University, 2008\n• Studied principles of garbage collection\n• Completed coursework in configuration management"
+}

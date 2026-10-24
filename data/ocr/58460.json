@@ -1,0 +1,239 @@
+{
+  "id": "58460",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.837,
+  "n_lines": 17,
+  "mean_score": 0.9769,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AJ PERRY",
+      "score": 0.9348,
+      "box": [
+        115,
+        88,
+        287,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA |+1-551-673-4732|aj.perry@example.com",
+      "score": 0.9778,
+      "box": [
+        115,
+        150,
+        615,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9871,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Advisors, 2020.04–2023.01",
+      "score": 0.9823,
+      "box": [
+        115,
+        289,
+        675,
+        312
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.9657,
+      "box": [
+        127,
+        315,
+        478,
+        338
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9581,
+      "box": [
+        126,
+        339,
+        424,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Advisors, 2017.06–2020.04",
+      "score": 0.9954,
+      "box": [
+        115,
+        382,
+        698,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared regulatory reports",
+      "score": 0.9676,
+      "box": [
+        125,
+        406,
+        398,
+        432
+      ]
+    },
+    {
+      "text": "- Developed audit plans",
+      "score": 0.9692,
+      "box": [
+        125,
+        429,
+        349,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Financial, 2013.02–2015.12",
+      "score": 0.9702,
+      "box": [
+        115,
+        472,
+        694,
+        495
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.9772,
+      "box": [
+        124,
+        496,
+        420,
+        521
+      ]
+    },
+    {
+      "text": "- Recorded payroll entries",
+      "score": 0.9537,
+      "box": [
+        126,
+        521,
+        369,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Taxation, Oakfield University, 2004",
+      "score": 0.9889,
+      "box": [
+        115,
+        632,
+        531,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Managerial Accounting, Ridgeway University, 2002",
+      "score": 0.9959,
+      "box": [
+        115,
+        658,
+        697,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of journal entries",
+      "score": 0.9908,
+      "box": [
+        133,
+        682,
+        511,
+        705
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of business valuation",
+      "score": 0.9938,
+      "box": [
+        133,
+        707,
+        550,
+        729
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "AJ PERRY\nWA, USA |+1-551-673-4732|aj.perry@example.com\nWORK HISTORY\nAccountants Auditors, FairCount Advisors, 2020.04–2023.01\n- Led regulatory compliance initiatives\n- Designed audit methodologies\nAccountants Auditors, FairBalance Advisors, 2017.06–2020.04\n- Prepared regulatory reports\n- Developed audit plans\nAccountants Auditors, ClearCount Financial, 2013.02–2015.12\n- Assisted with forecasting data\n- Recorded payroll entries\nEDUCATION\nMaster's, Taxation, Oakfield University, 2004\nBachelor's, Managerial Accounting, Ridgeway University, 2002\n• Studied fundamentals of journal entries\n• Studied fundamentals of business valuation"
+}

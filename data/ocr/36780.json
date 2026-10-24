@@ -1,0 +1,226 @@
+{
+  "id": "36780",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.866,
+  "n_lines": 16,
+  "mean_score": 0.9818,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ZACHARIAH COLE",
+      "score": 0.9714,
+      "box": [
+        115,
+        90,
+        420,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-306-493-5871|zachariah.cole@example.com",
+      "score": 0.9945,
+      "box": [
+        115,
+        150,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9848,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, PrimeBalance Accounting, 2020.02–2023.01",
+      "score": 0.9867,
+      "box": [
+        115,
+        290,
+        736,
+        312
+      ]
+    },
+    {
+      "text": "- Directed accounting leadership initiatives",
+      "score": 0.9721,
+      "box": [
+        126,
+        315,
+        520,
+        338
+      ]
+    },
+    {
+      "text": "- Designed financial modeling standards",
+      "score": 0.9621,
+      "box": [
+        127,
+        340,
+        501,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Financial, 2017.03–2020.02",
+      "score": 0.9797,
+      "box": [
+        115,
+        382,
+        684,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed financial disclosures",
+      "score": 0.9889,
+      "box": [
+        126,
+        406,
+        427,
+        429
+      ]
+    },
+    {
+      "text": "- Reviewed contract accounting",
+      "score": 0.9703,
+      "box": [
+        125,
+        430,
+        421,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Group, 2014.04–2017.03",
+      "score": 0.9909,
+      "box": [
+        115,
+        472,
+        667,
+        496
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9828,
+      "box": [
+        125,
+        496,
+        511,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.9764,
+      "box": [
+        126,
+        521,
+        446,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Planning, Greenwood University, 2014",
+      "score": 0.9847,
+      "box": [
+        114,
+        631,
+        671,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in budgeting techniques",
+      "score": 0.9914,
+      "box": [
+        133,
+        657,
+        587,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in economics for accounting",
+      "score": 0.9732,
+      "box": [
+        133,
+        680,
+        626,
+        708
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ZACHARIAH COLE\nNY, USA|+1-306-493-5871|zachariah.cole@example.com\nWORK HISTORY\nAccountants Auditors, PrimeBalance Accounting, 2020.02–2023.01\n- Directed accounting leadership initiatives\n- Designed financial modeling standards\nAccountants Auditors, OpenPath Financial, 2017.03–2020.02\n- Reviewed financial disclosures\n- Reviewed contract accounting\nAccountants Auditors, CoreBooks Group, 2014.04–2017.03\n- Maintained accounting software records\n- Prepared account reconciliations\nEDUCATION\nBachelor's, Financial Planning, Greenwood University, 2014\n• Completed coursework in budgeting techniques\n• Completed coursework in economics for accounting"
+}

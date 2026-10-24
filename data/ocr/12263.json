@@ -1,0 +1,278 @@
+{
+  "id": "12263",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.055,
+  "n_lines": 20,
+  "mean_score": 0.9828,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JESSICA PHAN",
+      "score": 0.9869,
+      "box": [
+        116,
+        90,
+        365,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-867-658-9551 |jessica.phan@example.com",
+      "score": 0.9798,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Financial Group, 2018.09–2023.01",
+      "score": 0.9877,
+      "box": [
+        114,
+        289,
+        762,
+        314
+      ]
+    },
+    {
+      "text": "- Led cross-functional financial integration",
+      "score": 0.9626,
+      "box": [
+        127,
+        315,
+        515,
+        338
+      ]
+    },
+    {
+      "text": "- Designed budgeting methodologies",
+      "score": 0.9783,
+      "box": [
+        126,
+        339,
+        469,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Group, 2014.04–2018.09",
+      "score": 0.9943,
+      "box": [
+        115,
+        381,
+        674,
+        406
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.983,
+      "box": [
+        126,
+        406,
+        514,
+        432
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9767,
+      "box": [
+        127,
+        432,
+        452,
+        453
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Balance Group, 2009.11–2014.04",
+      "score": 0.9809,
+      "box": [
+        114,
+        471,
+        728,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared audit reports",
+      "score": 0.9826,
+      "box": [
+        127,
+        499,
+        350,
+        520
+      ]
+    },
+    {
+      "text": "- Reviewed accounting estimates",
+      "score": 0.9749,
+      "box": [
+        126,
+        521,
+        436,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Financial, 2005.06–2009.11",
+      "score": 0.9913,
+      "box": [
+        115,
+        565,
+        699,
+        588
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.9791,
+      "box": [
+        124,
+        588,
+        362,
+        614
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9809,
+      "box": [
+        126,
+        613,
+        357,
+        641
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        679,
+        266,
+        703
+      ]
+    },
+    {
+      "text": "Master's, Enterprise Management, Pine Valley University, 2012",
+      "score": 0.9768,
+      "box": [
+        115,
+        725,
+        701,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Finance, Fairmont University, 2010",
+      "score": 0.982,
+      "box": [
+        114,
+        747,
+        550,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit evidence",
+      "score": 0.99,
+      "box": [
+        133,
+        773,
+        513,
+        795
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit software tools",
+      "score": 0.9847,
+      "box": [
+        134,
+        800,
+        558,
+        820
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "JESSICA PHAN\nFL, USA|+1-867-658-9551 |jessica.phan@example.com\nWORK HISTORY\nAccountants Auditors, CoreLedger Financial Group, 2018.09–2023.01\n- Led cross-functional financial integration\n- Designed budgeting methodologies\nAccountants Auditors, CoreLedger Group, 2014.04–2018.09\n- Directed accounting operations planning\n- Led financial data standardization\nAccountants Auditors, Accurate Balance Group, 2009.11–2014.04\n- Prepared audit reports\n- Reviewed accounting estimates\nAccountants Auditors, SolidLedger Financial, 2005.06–2009.11\n- Recorded cash receipts\n- Prepared aging reports\nEDUCATION\nMaster's, Enterprise Management, Pine Valley University, 2012\nBachelor's, Finance, Fairmont University, 2010\n• Studied fundamentals of audit evidence\n• Studied fundamentals of audit software tools"
+}

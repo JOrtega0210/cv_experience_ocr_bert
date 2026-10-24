@@ -1,0 +1,161 @@
+{
+  "id": "28726",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.745,
+  "n_lines": 11,
+  "mean_score": 0.985,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TIMOTHY ROLLINS",
+      "score": 0.9923,
+      "box": [
+        115,
+        90,
+        425,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-876-281-3275 |timothy.rollins@example.com",
+      "score": 0.9916,
+      "box": [
+        116,
+        152,
+        672,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9777,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Labs, 2017.04–2020.04",
+      "score": 0.9916,
+      "box": [
+        116,
+        289,
+        620,
+        312
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9682,
+      "box": [
+        126,
+        314,
+        604,
+        339
+      ]
+    },
+    {
+      "text": "- Optimized simple queries",
+      "score": 0.9716,
+      "box": [
+        126,
+        339,
+        377,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Brightwater University, 2006",
+      "score": 0.9835,
+      "box": [
+        115,
+        449,
+        469,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Shady Grove University, 2004",
+      "score": 0.9749,
+      "box": [
+        115,
+        474,
+        504,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of software documentation",
+      "score": 0.9918,
+      "box": [
+        133,
+        499,
+        563,
+        522
+      ]
+    },
+    {
+      "text": "• Completed coursework in fault tolerance",
+      "score": 0.9928,
+      "box": [
+        134,
+        524,
+        521,
+        547
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "TIMOTHY ROLLINS\nMN, USA|+1-876-281-3275 |timothy.rollins@example.com\nWORK HISTORY\nSoftware Developers, Softgrid Labs, 2017.04–2020.04\n- Implemented basic features in existing codebases\n- Optimized simple queries\nEDUCATION\nMaster's, Brightwater University, 2006\nBachelor's, Shady Grove University, 2004\n• Studied principles of software documentation\n• Completed coursework in fault tolerance"
+}

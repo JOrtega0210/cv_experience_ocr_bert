@@ -1,0 +1,187 @@
+{
+  "id": "59578",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.76,
+  "n_lines": 13,
+  "mean_score": 0.9808,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ZIPPORAH LIU",
+      "score": 0.9874,
+      "box": [
+        116,
+        90,
+        353,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-219-825-5611|zipporah.liu@example.com",
+      "score": 0.979,
+      "box": [
+        114,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9865,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corepath Solutions, 2020.12–2023.01",
+      "score": 0.9931,
+      "box": [
+        116,
+        290,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.9813,
+      "box": [
+        126,
+        315,
+        396,
+        338
+      ]
+    },
+    {
+      "text": "- Built fault-tolerant systems",
+      "score": 0.9705,
+      "box": [
+        126,
+        339,
+        388,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Tech, 2016.10–2018.11",
+      "score": 0.996,
+      "box": [
+        116,
+        382,
+        635,
+        405
+      ]
+    },
+    {
+      "text": "- Updated documentation for implemented features",
+      "score": 0.9963,
+      "box": [
+        126,
+        408,
+        600,
+        431
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9757,
+      "box": [
+        126,
+        430,
+        400,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Willowbrook University, 208",
+      "score": 0.9516,
+      "box": [
+        115,
+        541,
+        494,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in quality assurance",
+      "score": 0.955,
+      "box": [
+        132,
+        565,
+        552,
+        591
+      ]
+    },
+    {
+      "text": "• Studied principles of image processing",
+      "score": 0.9801,
+      "box": [
+        133,
+        590,
+        505,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ZIPPORAH LIU\nWA, USA|+1-219-825-5611|zipporah.liu@example.com\nWORK HISTORY\nSoftware Developers, Corepath Solutions, 2020.12–2023.01\n- Designed scalable services\n- Built fault-tolerant systems\nSoftware Developers, Codefield Tech, 2016.10–2018.11\n- Updated documentation for implemented features\n- Wrote configuration parsers\nEDUCATION\nBachelor's, Willowbrook University, 208\n• Completed coursework in quality assurance\n• Studied principles of image processing"
+}

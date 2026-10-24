@@ -1,0 +1,265 @@
+{
+  "id": "47086",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.885,
+  "n_lines": 19,
+  "mean_score": 0.9808,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "OSCAR CLEMENTS",
+      "score": 0.9744,
+      "box": [
+        116,
+        88,
+        433,
+        122
+      ]
+    },
+    {
+      "text": "RI, USA|+1-979-998-4912 |oscar.clements@example.com",
+      "score": 0.9867,
+      "box": [
+        116,
+        152,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Nextline Software, 2019.08–2023.01",
+      "score": 0.9871,
+      "box": [
+        116,
+        290,
+        659,
+        313
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9917,
+      "box": [
+        126,
+        315,
+        450,
+        338
+      ]
+    },
+    {
+      "text": "- Defined integration stadards",
+      "score": 0.9875,
+      "box": [
+        126,
+        339,
+        414,
+        362
+      ]
+    },
+    {
+      "text": "Software Developers, Clearline Systems, 2016.03–219.08",
+      "score": 0.9824,
+      "box": [
+        115,
+        381,
+        665,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented release management strategies",
+      "score": 0.9822,
+      "box": [
+        126,
+        406,
+        561,
+        432
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9492,
+      "box": [
+        125,
+        430,
+        379,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Stonebyte Labs, 2012.09–2016.03",
+      "score": 0.977,
+      "box": [
+        115,
+        472,
+        641,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented backend services",
+      "score": 0.9837,
+      "box": [
+        126,
+        498,
+        431,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented caching strategies",
+      "score": 0.9633,
+      "box": [
+        126,
+        521,
+        437,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstack Labs, 2009.03–2012.09",
+      "score": 0.9911,
+      "box": [
+        115,
+        563,
+        651,
+        588
+      ]
+    },
+    {
+      "text": "-Reviewed API documentation",
+      "score": 0.9844,
+      "box": [
+        124,
+        588,
+        417,
+        613
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9647,
+      "box": [
+        125,
+        613,
+        347,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Blue Ridge University, 2011",
+      "score": 0.9738,
+      "box": [
+        114,
+        723,
+        481,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in parallel computing",
+      "score": 0.9844,
+      "box": [
+        133,
+        749,
+        559,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in database optimization",
+      "score": 0.9883,
+      "box": [
+        133,
+        772,
+        592,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "OSCAR CLEMENTS\nRI, USA|+1-979-998-4912 |oscar.clements@example.com\nWORK HISTORY\nSoftware Developers, Nextline Software, 2019.08–2023.01\n- Defined data governance policies\n- Defined integration stadards\nSoftware Developers, Clearline Systems, 2016.03–219.08\n- Implemented release management strategies\n- Defined coding standards\nSoftware Developers, Stonebyte Labs, 2012.09–2016.03\n- Implemented backend services\n- Implemented caching strategies\nSoftware Developers, Brightstack Labs, 2009.03–2012.09\n-Reviewed API documentation\n- Created test data sets\nEDUCATION\nBachelor's, Blue Ridge University, 2011\n• Completed coursework in parallel computing\n• Completed coursework in database optimization"
+}

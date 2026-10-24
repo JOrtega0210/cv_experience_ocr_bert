@@ -1,0 +1,148 @@
+{
+  "id": "23914",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.781,
+  "n_lines": 10,
+  "mean_score": 0.9836,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KAITLYN CLINE",
+      "score": 0.9713,
+      "box": [
+        116,
+        90,
+        372,
+        120
+      ]
+    },
+    {
+      "text": "MD, USA|+1-920-947-9622 |kaitlyn.cline@example.com",
+      "score": 0.9916,
+      "box": [
+        116,
+        152,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9731,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Start Academy, 2021.11–2023.01",
+      "score": 0.9865,
+      "box": [
+        116,
+        290,
+        860,
+        313
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.9752,
+      "box": [
+        126,
+        314,
+        484,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed learning standards",
+      "score": 0.9918,
+      "box": [
+        126,
+        339,
+        412,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Developmental Studies, Brookridge University, 2021",
+      "score": 0.9643,
+      "box": [
+        114,
+        447,
+        706,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of learning outcomes assessment",
+      "score": 0.9904,
+      "box": [
+        132,
+        472,
+        631,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in student progress monitoring",
+      "score": 0.9939,
+      "box": [
+        134,
+        499,
+        647,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "KAITLYN CLINE\nMD, USA|+1-920-947-9622 |kaitlyn.cline@example.com\nWORK HISTORY\nElementary Middle School Teachers, Learning Start Academy, 2021.11–2023.01\n- Conducted reading practice sessions\n- Reviewed learning standards\nEDUCATION\nBachelor's, Developmental Studies, Brookridge University, 2021\n• Studied principles of learning outcomes assessment\n• Completed coursework in student progress monitoring"
+}

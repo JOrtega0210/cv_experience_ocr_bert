@@ -1,0 +1,148 @@
+{
+  "id": "46424",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.76,
+  "n_lines": 10,
+  "mean_score": 0.9796,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NICHOLAS REYNA",
+      "score": 0.9472,
+      "box": [
+        116,
+        90,
+        419,
+        120
+      ]
+    },
+    {
+      "text": "PA, USA|+1-389-333-2327 |nicholas.reyna@example.com",
+      "score": 0.9823,
+      "box": [
+        115,
+        150,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Field Academy, 2021.01–2022.04",
+      "score": 0.992,
+      "box": [
+        115,
+        289,
+        836,
+        314
+      ]
+    },
+    {
+      "text": "- Reviewed learning standards",
+      "score": 0.9925,
+      "box": [
+        126,
+        315,
+        412,
+        338
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9886,
+      "box": [
+        126,
+        339,
+        417,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Youth Studies, Highpoint University, 2009",
+      "score": 0.952,
+      "box": [
+        114,
+        447,
+        611,
+        472
+      ]
+    },
+    {
+      "text": "• Studied foundational instructional design",
+      "score": 0.9766,
+      "box": [
+        132,
+        472,
+        523,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in introductory child psychology",
+      "score": 0.9825,
+      "box": [
+        133,
+        497,
+        656,
+        524
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "NICHOLAS REYNA\nPA, USA|+1-389-333-2327 |nicholas.reyna@example.com\nWORK HISTORY\nElementary Middle School Teachers, Bright Field Academy, 2021.01–2022.04\n- Reviewed learning standards\n- Prepared visual teaching aids\nEDUCATION\nBachelor's, Youth Studies, Highpoint University, 2009\n• Studied foundational instructional design\n• Completed coursework in introductory child psychology"
+}

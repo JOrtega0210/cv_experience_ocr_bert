@@ -1,0 +1,265 @@
+{
+  "id": "01017",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.101,
+  "n_lines": 19,
+  "mean_score": 0.9854,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARY PERRY",
+      "score": 0.9824,
+      "box": [
+        116,
+        90,
+        341,
+        120
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-311-882-3783|mary.perry@example.com",
+      "score": 0.9885,
+      "box": [
+        116,
+        151,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9796,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright River Academy, 2018.11–2023.01",
+      "score": 0.988,
+      "box": [
+        116,
+        290,
+        838,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented data analysis frameworks",
+      "score": 0.9735,
+      "box": [
+        127,
+        315,
+        504,
+        338
+      ]
+    },
+    {
+      "text": "- Led professional development planning",
+      "score": 0.9902,
+      "box": [
+        126,
+        339,
+        505,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Start School, 2014.09–2018.11",
+      "score": 0.9873,
+      "box": [
+        116,
+        382,
+        846,
+        406
+      ]
+    },
+    {
+      "text": "- Directed instructional planning processes",
+      "score": 0.9889,
+      "box": [
+        126,
+        406,
+        523,
+        432
+      ]
+    },
+    {
+      "text": "- Established curriculum evaluation protocols",
+      "score": 0.9858,
+      "box": [
+        126,
+        430,
+        543,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Meadows Academy, 2010.06–2014.09",
+      "score": 0.9857,
+      "box": [
+        116,
+        472,
+        880,
+        496
+      ]
+    },
+    {
+      "text": "- Developed math enrichment lessons",
+      "score": 0.9928,
+      "box": [
+        126,
+        498,
+        480,
+        521
+      ]
+    },
+    {
+      "text": "- Created assessment rubrics",
+      "score": 0.9963,
+      "box": [
+        127,
+        522,
+        402,
+        544
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Grove Academy, 2006.03–2010.06",
+      "score": 0.9716,
+      "box": [
+        116,
+        565,
+        860,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with small group instruction activities",
+      "score": 0.9801,
+      "box": [
+        126,
+        590,
+        565,
+        613
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9919,
+      "box": [
+        126,
+        613,
+        416,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Some college (no degree), Student Development, Riverfield University, 2007",
+      "score": 0.9863,
+      "box": [
+        116,
+        725,
+        824,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic content planning",
+      "score": 0.9687,
+      "box": [
+        132,
+        748,
+        637,
+        773
+      ]
+    },
+    {
+      "text": "• Studied foundational teaching methods",
+      "score": 0.9878,
+      "box": [
+        134,
+        772,
+        508,
+        796
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "MARY PERRY\nAZ, USA|+1-311-882-3783|mary.perry@example.com\nWORK HISTORY\nElementary Middle School Teachers, Bright River Academy, 2018.11–2023.01\n- Implemented data analysis frameworks\n- Led professional development planning\nElementary Middle School Teachers, Discovery Start School, 2014.09–2018.11\n- Directed instructional planning processes\n- Established curriculum evaluation protocols\nElementary Middle School Teachers, Bright Meadows Academy, 2010.06–2014.09\n- Developed math enrichment lessons\n- Created assessment rubrics\nElementary Middle School Teachers, Golden Grove Academy, 2006.03–2010.06\n- Assisted with small group instruction activities\n- Prepared visual teaching aids\nEDUCATION\nSome college (no degree), Student Development, Riverfield University, 2007\n• Completed coursework in academic content planning\n• Studied foundational teaching methods"
+}

@@ -1,0 +1,200 @@
+{
+  "id": "08799",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.89,
+  "n_lines": 14,
+  "mean_score": 0.9836,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "WENDY HO",
+      "score": 0.9726,
+      "box": [
+        114,
+        88,
+        303,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-328-647-6801 |wendy.ho@example.com",
+      "score": 0.9772,
+      "box": [
+        117,
+        151,
+        630,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonefield Software, 2020.12–2023.01",
+      "score": 0.9878,
+      "box": [
+        114,
+        288,
+        676,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.978,
+      "box": [
+        126,
+        314,
+        538,
+        339
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9899,
+      "box": [
+        126,
+        339,
+        447,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Skyline Digital, 2017.02–2019.04",
+      "score": 0.9793,
+      "box": [
+        116,
+        382,
+        627,
+        406
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9914,
+      "box": [
+        126,
+        407,
+        443,
+        430
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.9831,
+      "box": [
+        126,
+        432,
+        424,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Professional degree, Sunnyside University, 2012",
+      "score": 0.9871,
+      "box": [
+        114,
+        539,
+        568,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Goldenridge University, 2008",
+      "score": 0.987,
+      "box": [
+        114,
+        564,
+        495,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in information systems",
+      "score": 0.9751,
+      "box": [
+        133,
+        590,
+        575,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in calculus for computing",
+      "score": 0.9785,
+      "box": [
+        133,
+        615,
+        596,
+        641
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "WENDY HO\nCA, USA|+1-328-647-6801 |wendy.ho@example.com\nWORK HISTORY\nSoftware Developers, Stonefield Software, 2020.12–2023.01\n- Implemented long-term maintenance plans\n- Designed caching infrastructures\nSoftware Developers, Skyline Digital, 2017.02–2019.04\n- Handled basic deployment tasks\n- Assisted with build automation\nEDUCATION\nProfessional degree, Sunnyside University, 2012\nBachelor's, Goldenridge University, 2008\n• Completed coursework in information systems\n• Completed coursework in calculus for computing"
+}

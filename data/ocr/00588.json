@@ -1,0 +1,148 @@
+{
+  "id": "00588",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.887,
+  "n_lines": 10,
+  "mean_score": 0.9843,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LATRICE DANIELS",
+      "score": 0.9922,
+      "box": [
+        116,
+        90,
+        419,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-628-987-9715 |latrice.daniels@example.com",
+      "score": 0.983,
+      "box": [
+        116,
+        151,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenHands Care Services, 2020.05–2022.06",
+      "score": 0.988,
+      "box": [
+        116,
+        290,
+        725,
+        313
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9731,
+      "box": [
+        126,
+        314,
+        435,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with hygiene care",
+      "score": 0.9717,
+      "box": [
+        126,
+        339,
+        391,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Health Care, Brightfield Ridge University, 2006",
+      "score": 0.9855,
+      "box": [
+        115,
+        447,
+        800,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of infection surveillance",
+      "score": 0.9902,
+      "box": [
+        132,
+        472,
+        536,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of stress management in care",
+      "score": 0.9772,
+      "box": [
+        133,
+        499,
+        631,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "LATRICE DANIELS\nAL, USA|+1-628-987-9715 |latrice.daniels@example.com\nWORK HISTORY\nRegistered Nurses, OpenHands Care Services, 2020.05–2022.06\n- Monitored patient dietary needs\n- Assisted with hygiene care\nEDUCATION\nSome college (no degree), Health Care, Brightfield Ridge University, 2006\n• Studied principles of infection surveillance\n• Studied fundamentals of stress management in care"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "46928",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.808,
+  "n_lines": 13,
+  "mean_score": 0.9806,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "FRANCISCO COMPTON",
+      "score": 0.9825,
+      "box": [
+        116,
+        90,
+        496,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-779-228-9987 |francisco.compton@example.com",
+      "score": 0.9753,
+      "box": [
+        115,
+        150,
+        709,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9898,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Software Developers, Nextwave Systems, 2020.07–2023.01",
+      "score": 0.9792,
+      "box": [
+        115,
+        289,
+        671,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9804,
+      "box": [
+        127,
+        315,
+        461,
+        338
+      ]
+    },
+    {
+      "text": "- Designed microservice architectures",
+      "score": 0.9863,
+      "box": [
+        127,
+        340,
+        478,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Flowstack Tech, 2017.12–2020.07",
+      "score": 0.9867,
+      "box": [
+        116,
+        382,
+        641,
+        405
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9568,
+      "box": [
+        126,
+        406,
+        604,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.984,
+      "box": [
+        125,
+        430,
+        436,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Maple Ridge University, 2020",
+      "score": 0.9696,
+      "box": [
+        115,
+        541,
+        498,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of race condition handling",
+      "score": 0.98,
+      "box": [
+        132,
+        564,
+        593,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of linear algebra",
+      "score": 0.9784,
+      "box": [
+        132,
+        590,
+        469,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "FRANCISCO COMPTON\nPA, USA|+1-779-228-9987 |francisco.compton@example.com\nWORK HISTORY\nSoftware Developers, Nextwave Systems, 2020.07–2023.01\n- Implemented service orchestration\n- Designed microservice architectures\nSoftware Developers, Flowstack Tech, 2017.12–2020.07\n- Implemented basic features in existing codebases\n- Reviewed test coverage reports\nEDUCATION\nBachelor's, Maple Ridge University, 2020\n• Studied fundamentals of race condition handling\n• Studied principles of linear algebra"
+}

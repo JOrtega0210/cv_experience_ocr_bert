@@ -1,0 +1,239 @@
+{
+  "id": "24891",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.884,
+  "n_lines": 17,
+  "mean_score": 0.9876,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KATIE PHAM",
+      "score": 0.989,
+      "box": [
+        116,
+        90,
+        326,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA|+1-781-898-6691 |katie.pham@example.com",
+      "score": 0.9784,
+      "box": [
+        115,
+        150,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9798,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Nursing, 2020.09–2023.01",
+      "score": 0.9728,
+      "box": [
+        115,
+        289,
+        673,
+        314
+      ]
+    },
+    {
+      "text": "- Developed medication management policies",
+      "score": 0.9894,
+      "box": [
+        126,
+        314,
+        551,
+        339
+      ]
+    },
+    {
+      "text": "- Directed care coordination strategies",
+      "score": 0.9892,
+      "box": [
+        126,
+        339,
+        482,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Nest Nursing, 2018.04–2020.09",
+      "score": 0.9847,
+      "box": [
+        116,
+        383,
+        663,
+        406
+      ]
+    },
+    {
+      "text": "- Provided catheter and ostomy care",
+      "score": 0.9885,
+      "box": [
+        126,
+        405,
+        466,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented patient education programs",
+      "score": 0.9893,
+      "box": [
+        126,
+        432,
+        522,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewBridge Care Center, 2015.11–2018.04",
+      "score": 0.9834,
+      "box": [
+        116,
+        473,
+        697,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9911,
+      "box": [
+        126,
+        498,
+        479,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with diagnostic procedures",
+      "score": 0.9981,
+      "box": [
+        126,
+        521,
+        474,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Patient Services, Oakwood University, 2014",
+      "score": 0.9845,
+      "box": [
+        115,
+        632,
+        614,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Human Biology, Bayside University, 212",
+      "score": 0.9859,
+      "box": [
+        115,
+        658,
+        610,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of musculoskeletal nursing",
+      "score": 0.9941,
+      "box": [
+        132,
+        681,
+        602,
+        706
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of conflict resolution basics",
+      "score": 0.9912,
+      "box": [
+        133,
+        707,
+        605,
+        729
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "KATIE PHAM\nMD, USA|+1-781-898-6691 |katie.pham@example.com\nWORK HISTORY\nRegistered Nurses, GentleHands Nursing, 2020.09–2023.01\n- Developed medication management policies\n- Directed care coordination strategies\nRegistered Nurses, Caring Nest Nursing, 2018.04–2020.09\n- Provided catheter and ostomy care\n- Implemented patient education programs\nRegistered Nurses, NewBridge Care Center, 2015.11–2018.04\n- Prepared medical equipment for use\n- Assisted with diagnostic procedures\nEDUCATION\nMaster's, Patient Services, Oakwood University, 2014\nBachelor's, Human Biology, Bayside University, 212\n• Studied fundamentals of musculoskeletal nursing\n• Studied fundamentals of conflict resolution basics"
+}

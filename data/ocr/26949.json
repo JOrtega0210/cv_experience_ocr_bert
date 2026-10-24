@@ -1,0 +1,213 @@
+{
+  "id": "26949",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.854,
+  "n_lines": 15,
+  "mean_score": 0.9801,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "GARRETT KIRBY",
+      "score": 0.9913,
+      "box": [
+        117,
+        90,
+        394,
+        120
+      ]
+    },
+    {
+      "text": "MI, USA|+1-983-473-1377 |garrett.kirby@example.com",
+      "score": 0.9674,
+      "box": [
+        116,
+        151,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.987,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmBase Builders, 2020.05–2023.01",
+      "score": 0.9832,
+      "box": [
+        115,
+        289,
+        676,
+        312
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9893,
+      "box": [
+        126,
+        315,
+        458,
+        338
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9717,
+      "box": [
+        126,
+        339,
+        394,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmLine Builders, 2017.08–2020.05",
+      "score": 0.9916,
+      "box": [
+        115,
+        382,
+        671,
+        405
+      ]
+    },
+    {
+      "text": "- Interpreted blueprints for task execution",
+      "score": 0.9606,
+      "box": [
+        126,
+        407,
+        508,
+        430
+      ]
+    },
+    {
+      "text": "- Led small work crews",
+      "score": 0.9944,
+      "box": [
+        126,
+        429,
+        342,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Build Co., 2014.11–2017.8",
+      "score": 0.9632,
+      "box": [
+        115,
+        472,
+        674,
+        495
+      ]
+    },
+    {
+      "text": "- Applied basic sealants and adhesives",
+      "score": 0.9726,
+      "box": [
+        127,
+        498,
+        490,
+        521
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.9755,
+      "box": [
+        126,
+        521,
+        372,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Engineering Technology, Forestfield High School, 2012",
+      "score": 0.9773,
+      "box": [
+        116,
+        631,
+        1009,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction workflow",
+      "score": 0.9773,
+      "box": [
+        131,
+        656,
+        589,
+        679
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "GARRETT KIRBY\nMI, USA|+1-983-473-1377 |garrett.kirby@example.com\nWORK HISTORY\nConstruction Laborers, FirmBase Builders, 2020.05–2023.01\n- Developed construction standards\n- Directed project scheduling\nConstruction Laborers, FirmLine Builders, 2017.08–2020.05\n- Interpreted blueprints for task execution\n- Led small work crews\nConstruction Laborers, Reliable Build Co., 2014.11–2017.8\n- Applied basic sealants and adhesives\n- Sorted building materials\nEDUCATION\nHigh school graduate/GED, Construction Engineering Technology, Forestfield High School, 2012\n• Completed coursework in construction workflow"
+}

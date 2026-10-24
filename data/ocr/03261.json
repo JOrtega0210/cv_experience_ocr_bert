@@ -1,0 +1,278 @@
+{
+  "id": "03261",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.075,
+  "n_lines": 20,
+  "mean_score": 0.9791,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DAYTON ATKINS",
+      "score": 0.9862,
+      "box": [
+        116,
+        90,
+        393,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-609-742-8556 |dayton.atkins@example.com",
+      "score": 0.9757,
+      "box": [
+        117,
+        151,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Services, 2017.12–2023.01",
+      "score": 0.9754,
+      "box": [
+        115,
+        290,
+        752,
+        313
+      ]
+    },
+    {
+      "text": "- Directed accounting leadership initiatives",
+      "score": 0.9744,
+      "box": [
+        127,
+        315,
+        520,
+        338
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.9684,
+      "box": [
+        127,
+        340,
+        503,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Financial, 2012.11–2017.12",
+      "score": 0.9913,
+      "box": [
+        115,
+        381,
+        701,
+        406
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.983,
+      "box": [
+        126,
+        406,
+        528,
+        431
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9779,
+      "box": [
+        126,
+        431,
+        512,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, BrightPath Accounting Services, 2007.10–2012.11",
+      "score": 0.9666,
+      "box": [
+        115,
+        472,
+        791,
+        496
+      ]
+    },
+    {
+      "text": "- Conducted account reconciliations",
+      "score": 0.9844,
+      "box": [
+        126,
+        497,
+        459,
+        519
+      ]
+    },
+    {
+      "text": "- Reviewed tax provisions",
+      "score": 0.9742,
+      "box": [
+        125,
+        521,
+        368,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Financial, 2002.08–2007.10",
+      "score": 0.9847,
+      "box": [
+        116,
+        566,
+        711,
+        586
+      ]
+    },
+    {
+      "text": "- Maintained vendor records",
+      "score": 0.964,
+      "box": [
+        125,
+        589,
+        389,
+        611
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.9713,
+      "box": [
+        125,
+        613,
+        423,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Economics, Crestwood University, 2008",
+      "score": 0.9908,
+      "box": [
+        116,
+        726,
+        576,
+        745
+      ]
+    },
+    {
+      "text": "Bachelor's, Operations Management, Morningstar University, 2006",
+      "score": 0.9845,
+      "box": [
+        114,
+        747,
+        733,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting research methods",
+      "score": 0.9678,
+      "box": [
+        135,
+        775,
+        662,
+        795
+      ]
+    },
+    {
+      "text": "• Completed coursework in budgeting and forecasting",
+      "score": 0.9766,
+      "box": [
+        134,
+        799,
+        629,
+        823
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "DAYTON ATKINS\nCA, USA|+1-609-742-8556 |dayton.atkins@example.com\nWORK HISTORY\nAccountants Auditors, Reliable Accounts Services, 2017.12–2023.01\n- Directed accounting leadership initiatives\n- Directed strategic accounting initiatives\nAccountants Auditors, SolidLedger Financial, 2012.11–2017.12\n- Designed financial accountability systems\n- Designed financial control environments\nAccountants Auditors, BrightPath Accounting Services, 2007.10–2012.11\n- Conducted account reconciliations\n- Reviewed tax provisions\nAccountants Auditors, SolidBalance Financial, 2002.08–2007.10\n- Maintained vendor records\n- Assisted with inventory counts\nEDUCATION\nMaster's, Economics, Crestwood University, 2008\nBachelor's, Operations Management, Morningstar University, 2006\n• Completed coursework in accounting research methods\n• Completed coursework in budgeting and forecasting"
+}

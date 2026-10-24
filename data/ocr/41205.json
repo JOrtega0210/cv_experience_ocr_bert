@@ -1,0 +1,226 @@
+{
+  "id": "41205",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.882,
+  "n_lines": 16,
+  "mean_score": 0.9776,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DAVID STARK",
+      "score": 0.9611,
+      "box": [
+        116,
+        90,
+        347,
+        121
+      ]
+    },
+    {
+      "text": "OH, USA|+1-890-316-1870 |david.stark@example.com",
+      "score": 0.9726,
+      "box": [
+        116,
+        150,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Financial, 2020.05–2023.01",
+      "score": 0.9749,
+      "box": [
+        115,
+        290,
+        755,
+        313
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.9731,
+      "box": [
+        126,
+        314,
+        486,
+        339
+      ]
+    },
+    {
+      "text": "- Directed revenue recognition policies",
+      "score": 0.974,
+      "box": [
+        126,
+        338,
+        484,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Advisors, 2017.08–2020.05",
+      "score": 0.9825,
+      "box": [
+        114,
+        381,
+        731,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted inventory valuation",
+      "score": 0.9913,
+      "box": [
+        125,
+        406,
+        424,
+        431
+      ]
+    },
+    {
+      "text": "- Developed budget forecasts",
+      "score": 0.9656,
+      "box": [
+        126,
+        430,
+        403,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenLedger Accounting, 2013.03–2015.12",
+      "score": 0.979,
+      "box": [
+        114,
+        471,
+        725,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.9755,
+      "box": [
+        126,
+        498,
+        445,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.968,
+      "box": [
+        126,
+        521,
+        365,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Management, Rosewood University, 2004",
+      "score": 0.9669,
+      "box": [
+        114,
+        631,
+        703,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in economics for accounting",
+      "score": 0.9752,
+      "box": [
+        132,
+        656,
+        625,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in macroeconomics",
+      "score": 0.9976,
+      "box": [
+        135,
+        682,
+        547,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "DAVID STARK\nOH, USA|+1-890-316-1870 |david.stark@example.com\nWORK HISTORY\nAccountants Auditors, Reliable Accounts Financial, 2020.05–2023.01\n- Designed financial oversight systems\n- Directed revenue recognition policies\nAccountants Auditors, Integrity Ledger Advisors, 2017.08–2020.05\n- Conducted inventory valuation\n- Developed budget forecasts\nAccountants Auditors, OpenLedger Accounting, 2013.03–2015.12\n- Prepared account reconciliations\n- Prepared journal entries\nEDUCATION\nBachelor's, Business Management, Rosewood University, 2004\n• Completed coursework in economics for accounting\n• Completed coursework in macroeconomics"
+}

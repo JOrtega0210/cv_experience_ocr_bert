@@ -1,0 +1,265 @@
+{
+  "id": "04460",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.038,
+  "n_lines": 19,
+  "mean_score": 0.9836,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AMYBEIL",
+      "score": 0.9957,
+      "box": [
+        115,
+        88,
+        279,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-207-930-7705 |amy.beil@example.com",
+      "score": 0.9783,
+      "box": [
+        117,
+        151,
+        619,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9794,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Way Care, 2018.10–2023.01",
+      "score": 0.9873,
+      "box": [
+        115,
+        289,
+        688,
+        314
+      ]
+    },
+    {
+      "text": "- Led patient experience improvement programs",
+      "score": 0.9777,
+      "box": [
+        126,
+        313,
+        574,
+        340
+      ]
+    },
+    {
+      "text": "- Directed nursing operations planning",
+      "score": 0.9753,
+      "box": [
+        126,
+        339,
+        482,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearLife Health Group, 2014.06–2018.10",
+      "score": 0.981,
+      "box": [
+        116,
+        383,
+        688,
+        406
+      ]
+    },
+    {
+      "text": "- Managed patient outcome evaluation systems",
+      "score": 0.9926,
+      "box": [
+        126,
+        406,
+        567,
+        432
+      ]
+    },
+    {
+      "text": "- Directed nursing education initiatives",
+      "score": 0.9838,
+      "box": [
+        127,
+        432,
+        482,
+        454
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearHands Nursing Group, 2009.05–2013.09",
+      "score": 0.9893,
+      "box": [
+        116,
+        473,
+        727,
+        497
+      ]
+    },
+    {
+      "text": "- Documented clinical care activities",
+      "score": 0.9923,
+      "box": [
+        126,
+        498,
+        462,
+        521
+      ]
+    },
+    {
+      "text": "- Provided rehabilitation nursing care",
+      "score": 0.9672,
+      "box": [
+        126,
+        521,
+        469,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearWay Health Group, 2004.02–2008.06",
+      "score": 0.9746,
+      "box": [
+        116,
+        565,
+        697,
+        589
+      ]
+    },
+    {
+      "text": "- Monitored oxygen therapy",
+      "score": 0.9658,
+      "box": [
+        125,
+        589,
+        384,
+        615
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9835,
+      "box": [
+        127,
+        614,
+        409,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Health Sciences, Sunfield University, 2002",
+      "score": 0.9889,
+      "box": [
+        115,
+        725,
+        694,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of population health",
+      "score": 0.9877,
+      "box": [
+        133,
+        749,
+        500,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient monitoring technologies",
+      "score": 0.9897,
+      "box": [
+        133,
+        772,
+        677,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "AMYBEIL\nCA, USA|+1-207-930-7705 |amy.beil@example.com\nWORK HISTORY\nRegistered Nurses, Compassion Way Care, 2018.10–2023.01\n- Led patient experience improvement programs\n- Directed nursing operations planning\nRegistered Nurses, ClearLife Health Group, 2014.06–2018.10\n- Managed patient outcome evaluation systems\n- Directed nursing education initiatives\nRegistered Nurses, ClearHands Nursing Group, 2009.05–2013.09\n- Documented clinical care activities\n- Provided rehabilitation nursing care\nRegistered Nurses, ClearWay Health Group, 2004.02–2008.06\n- Monitored oxygen therapy\n- Recorded shift handoff notes\nEDUCATION\nBachelor's, Applied Health Sciences, Sunfield University, 2002\n• Studied principles of population health\n• Completed coursework in patient monitoring technologies"
+}

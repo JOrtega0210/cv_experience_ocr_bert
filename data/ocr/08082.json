@@ -1,0 +1,239 @@
+{
+  "id": "08082",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.952,
+  "n_lines": 17,
+  "mean_score": 0.9834,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JORDAN VO",
+      "score": 0.9772,
+      "box": [
+        114,
+        87,
+        318,
+        124
+      ]
+    },
+    {
+      "text": "CA, USA|+1-971-560-2822 |jordan.vo@example.com",
+      "score": 0.9774,
+      "box": [
+        116,
+        150,
+        626,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.987,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstack Systems, 2020.09–2023.01",
+      "score": 0.987,
+      "box": [
+        115,
+        289,
+        684,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9737,
+      "box": [
+        126,
+        314,
+        465,
+        337
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9889,
+      "box": [
+        126,
+        339,
+        438,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Netcore Solutions, 2018.04–2020.09",
+      "score": 0.9918,
+      "box": [
+        116,
+        382,
+        662,
+        405
+      ]
+    },
+    {
+      "text": "- Handled concurrency issues",
+      "score": 0.9805,
+      "box": [
+        125,
+        406,
+        405,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed pull requests",
+      "score": 0.9915,
+      "box": [
+        126,
+        430,
+        359,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Corefield Labs, 2015.11–2018.04",
+      "score": 0.9824,
+      "box": [
+        115,
+        472,
+        631,
+        495
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.9723,
+      "box": [
+        124,
+        495,
+        355,
+        522
+      ]
+    },
+    {
+      "text": "- Implemented validation logic",
+      "score": 0.9636,
+      "box": [
+        126,
+        521,
+        406,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Master's, Meadowfield University, 2018",
+      "score": 0.9779,
+      "box": [
+        115,
+        632,
+        480,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Riverbend University, 2016",
+      "score": 0.9826,
+      "box": [
+        115,
+        657,
+        477,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in human-computer interaction basics",
+      "score": 0.9975,
+      "box": [
+        134,
+        683,
+        713,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in computer graphics basics",
+      "score": 0.9875,
+      "box": [
+        133,
+        706,
+        625,
+        731
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "JORDAN VO\nCA, USA|+1-971-560-2822 |jordan.vo@example.com\nWORK HISTORY\nSoftware Developers, Brightstack Systems, 2020.09–2023.01\n- Implemented security architectures\n- Led technical roadmap planning\nSoftware Developers, Netcore Solutions, 2018.04–2020.09\n- Handled concurrency issues\n- Reviewed pull requests\nSoftware Developers, Corefield Labs, 2015.11–2018.04\n- Reviewed error reports\n- Implemented validation logic\nEDUCATION\nMaster's, Meadowfield University, 2018\nBachelor's, Riverbend University, 2016\n• Completed coursework in human-computer interaction basics\n• Completed coursework in computer graphics basics"
+}

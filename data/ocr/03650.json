@@ -1,0 +1,239 @@
+{
+  "id": "03650",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.01,
+  "n_lines": 17,
+  "mean_score": 0.9816,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MELISSA TRUONG",
+      "score": 0.9766,
+      "box": [
+        116,
+        90,
+        420,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-664-309-2013 |melissa.truong@example.com",
+      "score": 0.9811,
+      "box": [
+        116,
+        150,
+        677,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Financial, 2020.09–2023.01",
+      "score": 0.9879,
+      "box": [
+        115,
+        289,
+        691,
+        312
+      ]
+    },
+    {
+      "text": "-Directed enterprise accounting platforms",
+      "score": 0.9958,
+      "box": [
+        125,
+        313,
+        517,
+        339
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9525,
+      "box": [
+        126,
+        339,
+        428,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Advisors, 2018.05–2020.09",
+      "score": 0.9861,
+      "box": [
+        114,
+        381,
+        737,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared working capital aalysis",
+      "score": 0.9744,
+      "box": [
+        126,
+        406,
+        453,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared financial projections",
+      "score": 0.9528,
+      "box": [
+        126,
+        430,
+        418,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Financial, 2013.01–2015.06",
+      "score": 0.9855,
+      "box": [
+        115,
+        472,
+        692,
+        495
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9881,
+      "box": [
+        125,
+        496,
+        456,
+        521
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.989,
+      "box": [
+        126,
+        521,
+        480,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Commerce, Meadowway University, 2008",
+      "score": 0.9912,
+      "box": [
+        115,
+        632,
+        593,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Studies, Brookwood University, 2006",
+      "score": 0.9709,
+      "box": [
+        114,
+        656,
+        657,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of financial risk management",
+      "score": 0.9832,
+      "box": [
+        132,
+        681,
+        586,
+        706
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit documentation",
+      "score": 0.9883,
+      "box": [
+        133,
+        707,
+        566,
+        729
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "MELISSA TRUONG\nCA, USA|+1-664-309-2013 |melissa.truong@example.com\nWORK HISTORY\nAccountants Auditors, SolidBooks Financial, 2020.09–2023.01\n-Directed enterprise accounting platforms\n- Led audit planning governance\nAccountants Auditors, Balanced Books Advisors, 2018.05–2020.09\n- Prepared working capital aalysis\n- Prepared financial projections\nAccountants Auditors, SolidCount Financial, 2013.01–2015.06\n- Assisted with tax form preparation\n- Processed expense reimbursements\nEDUCATION\nMaster's, Commerce, Meadowway University, 2008\nBachelor's, Business Studies, Brookwood University, 2006\n• Studied principles of financial risk management\n• Studied fundamentals of audit documentation"
+}

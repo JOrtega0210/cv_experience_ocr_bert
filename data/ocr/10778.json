@@ -1,0 +1,135 @@
+{
+  "id": "10778",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.825,
+  "n_lines": 9,
+  "mean_score": 0.9823,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JADEN ELLIOTT",
+      "score": 0.9756,
+      "box": [
+        115,
+        88,
+        381,
+        122
+      ]
+    },
+    {
+      "text": "CT, USA|+1-504-771-9155 |jaden.elliott@example.com",
+      "score": 0.9648,
+      "box": [
+        116,
+        151,
+        646,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.982,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeFrame Construction, 2022.11–2023.01",
+      "score": 0.9849,
+      "box": [
+        115,
+        289,
+        743,
+        312
+      ]
+    },
+    {
+      "text": "- Assisted with site cleanup and debris removal",
+      "score": 0.9968,
+      "box": [
+        126,
+        315,
+        566,
+        338
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.984,
+      "box": [
+        126,
+        339,
+        418,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Trades, Cedarfield High School, 2023",
+      "score": 0.9794,
+      "box": [
+        116,
+        449,
+        804,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of power tool operation",
+      "score": 0.9747,
+      "box": [
+        132,
+        472,
+        568,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "JADEN ELLIOTT\nCT, USA|+1-504-771-9155 |jaden.elliott@example.com\nWORK HISTORY\nConstruction Laborers, PrimeFrame Construction, 2022.11–2023.01\n- Assisted with site cleanup and debris removal\n- Maintained tool storage areas\nEDUCATION\nHigh school graduate/GED, Building Trades, Cedarfield High School, 2023\n• Studied fundamentals of power tool operation"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "26100",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.834,
+  "n_lines": 13,
+  "mean_score": 0.9791,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ZACHARY REESE",
+      "score": 0.964,
+      "box": [
+        115,
+        90,
+        404,
+        120
+      ]
+    },
+    {
+      "text": "MA, USA|+1-409-843-4965 |zachary.reese@example.com",
+      "score": 0.9776,
+      "box": [
+        115,
+        150,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9763,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellBridge Health Group, 2020.11–2023.01",
+      "score": 0.9796,
+      "box": [
+        116,
+        290,
+        705,
+        313
+      ]
+    },
+    {
+      "text": "- Developed interdisciplinary care strategies",
+      "score": 0.986,
+      "box": [
+        126,
+        314,
+        535,
+        339
+      ]
+    },
+    {
+      "text": "- Managed patient outcome evaluation systems",
+      "score": 0.9889,
+      "box": [
+        126,
+        339,
+        567,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassionate Path Medical, 2017.01–2019.03",
+      "score": 0.9884,
+      "box": [
+        115,
+        381,
+        747,
+        406
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.9837,
+      "box": [
+        125,
+        406,
+        512,
+        431
+      ]
+    },
+    {
+      "text": "- Monitored oxygen therapy",
+      "score": 0.9662,
+      "box": [
+        126,
+        430,
+        384,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Health, Skyline University, 2014",
+      "score": 0.9478,
+      "box": [
+        114,
+        539,
+        594,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in fluid and electrolyte balance",
+      "score": 0.9846,
+      "box": [
+        134,
+        566,
+        648,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of conflict resolution basics",
+      "score": 0.9872,
+      "box": [
+        133,
+        590,
+        606,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ZACHARY REESE\nMA, USA|+1-409-843-4965 |zachary.reese@example.com\nWORK HISTORY\nRegistered Nurses, WellBridge Health Group, 2020.11–2023.01\n- Developed interdisciplinary care strategies\n- Managed patient outcome evaluation systems\nRegistered Nurses, Compassionate Path Medical, 2017.01–2019.03\n- Performed basic life support procedures\n- Monitored oxygen therapy\nEDUCATION\nBachelor's, Clinical Health, Skyline University, 2014\n• Completed coursework in fluid and electrolyte balance\n• Studied fundamentals of conflict resolution basics"
+}

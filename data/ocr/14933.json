@@ -1,0 +1,148 @@
+{
+  "id": "14933",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.877,
+  "n_lines": 10,
+  "mean_score": 0.9794,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LAUREN FITZGERALD",
+      "score": 0.9779,
+      "box": [
+        116,
+        90,
+        477,
+        120
+      ]
+    },
+    {
+      "text": "GA, USA|+1-517-865-8902 |lauren.fitzgerald@example.com",
+      "score": 0.9846,
+      "box": [
+        117,
+        152,
+        690,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9828,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearHands Nursing Group, 2020.01–221.10",
+      "score": 0.9842,
+      "box": [
+        116,
+        290,
+        727,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobility",
+      "score": 0.9485,
+      "box": [
+        126,
+        314,
+        410,
+        339
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9901,
+      "box": [
+        126,
+        339,
+        417,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Management, Stonewood University, 2016",
+      "score": 0.9793,
+      "box": [
+        115,
+        449,
+        737,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in health promotion",
+      "score": 0.9807,
+      "box": [
+        133,
+        474,
+        544,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient counseling",
+      "score": 0.9675,
+      "box": [
+        134,
+        499,
+        557,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "LAUREN FITZGERALD\nGA, USA|+1-517-865-8902 |lauren.fitzgerald@example.com\nWORK HISTORY\nRegistered Nurses, ClearHands Nursing Group, 2020.01–221.10\n- Assisted with patient mobility\n- Checked medication dosages\nEDUCATION\nBachelor's, Health Care Management, Stonewood University, 2016\n• Completed coursework in health promotion\n• Completed coursework in patient counseling"
+}

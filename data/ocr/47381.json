@@ -1,0 +1,148 @@
+{
+  "id": "47381",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.717,
+  "n_lines": 10,
+  "mean_score": 0.9824,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ROBERT SLOAN",
+      "score": 0.9696,
+      "box": [
+        116,
+        90,
+        386,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-834-430-2364|robert.sloan@example.com",
+      "score": 0.9872,
+      "box": [
+        116,
+        151,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Labs, 2020.02–2022.05",
+      "score": 0.9875,
+      "box": [
+        115,
+        290,
+        641,
+        313
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9761,
+      "box": [
+        125,
+        313,
+        448,
+        339
+      ]
+    },
+    {
+      "text": "- Handled input sanitization",
+      "score": 0.9853,
+      "box": [
+        127,
+        340,
+        382,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Crossfield University, 2006",
+      "score": 0.9763,
+      "box": [
+        114,
+        447,
+        474,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of object-oriented programming",
+      "score": 0.9718,
+      "box": [
+        132,
+        472,
+        644,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in schema design",
+      "score": 0.9872,
+      "box": [
+        133,
+        497,
+        530,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ROBERT SLOAN\nSC, USA|+1-834-430-2364|robert.sloan@example.com\nWORK HISTORY\nSoftware Developers, Corewave Labs, 2020.02–2022.05\n- Performed basic APl integrations\n- Handled input sanitization\nEDUCATION\nBachelor's, Crossfield University, 2006\n• Studied fundamentals of object-oriented programming\n• Completed coursework in schema design"
+}

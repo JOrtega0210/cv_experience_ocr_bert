@@ -1,0 +1,148 @@
+{
+  "id": "59352",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.732,
+  "n_lines": 10,
+  "mean_score": 0.9804,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANHELICA MCKENZIE",
+      "score": 0.9845,
+      "box": [
+        117,
+        90,
+        474,
+        120
+      ]
+    },
+    {
+      "text": "WA, USA |+1-623-206-1441 | anhelica.mckenzie@example.com",
+      "score": 0.9801,
+      "box": [
+        116,
+        152,
+        718,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9791,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Advisors, 2020.02–2023.01",
+      "score": 0.9872,
+      "box": [
+        115,
+        290,
+        679,
+        313
+      ]
+    },
+    {
+      "text": "- Updated fixed asset registers",
+      "score": 0.9732,
+      "box": [
+        126,
+        315,
+        412,
+        338
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9778,
+      "box": [
+        127,
+        340,
+        365,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, General Business, Brightwood University, 2023",
+      "score": 0.9774,
+      "box": [
+        116,
+        449,
+        739,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of forecast modeling",
+      "score": 0.9725,
+      "box": [
+        132,
+        472,
+        506,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit risk modeling",
+      "score": 0.9739,
+      "box": [
+        134,
+        499,
+        563,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ANHELICA MCKENZIE\nWA, USA |+1-623-206-1441 | anhelica.mckenzie@example.com\nWORK HISTORY\nAccountants Auditors, OpenPath Advisors, 2020.02–2023.01\n- Updated fixed asset registers\n- Prepared journal entries\nEDUCATION\nAssociate's degree, General Business, Brightwood University, 2023\n• Studied principles of forecast modeling\n• Completed coursework in audit risk modeling"
+}

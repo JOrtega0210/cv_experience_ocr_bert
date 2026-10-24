@@ -1,0 +1,226 @@
+{
+  "id": "43104",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.85,
+  "n_lines": 16,
+  "mean_score": 0.9791,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NATHANAEL MEYER",
+      "score": 0.9779,
+      "box": [
+        116,
+        90,
+        452,
+        120
+      ]
+    },
+    {
+      "text": "OH, USA | +1-233-929-2137 |nathanael.meyer@example.com",
+      "score": 0.971,
+      "box": [
+        117,
+        152,
+        698,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Financial, 2021.01–2023.01",
+      "score": 0.974,
+      "box": [
+        114,
+        289,
+        699,
+        313
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.9769,
+      "box": [
+        127,
+        315,
+        486,
+        338
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9659,
+      "box": [
+        126,
+        339,
+        488,
+        362
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Group, 2019.01–2021.01",
+      "score": 0.9775,
+      "box": [
+        115,
+        382,
+        663,
+        405
+      ]
+    },
+    {
+      "text": "- Managed accounts receivable cycles",
+      "score": 0.9909,
+      "box": [
+        126,
+        406,
+        483,
+        431
+      ]
+    },
+    {
+      "text": "- Analyzed financial trends",
+      "score": 0.9712,
+      "box": [
+        126,
+        430,
+        375,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Financial, 2014.08–2016.09",
+      "score": 0.9782,
+      "box": [
+        115,
+        472,
+        692,
+        495
+      ]
+    },
+    {
+      "text": "- Updated fixed asset registers",
+      "score": 0.9776,
+      "box": [
+        126,
+        497,
+        413,
+        522
+      ]
+    },
+    {
+      "text": "- Reviewed billing statements",
+      "score": 0.9884,
+      "box": [
+        126,
+        521,
+        402,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Management, Stoneview University, 2005",
+      "score": 0.9603,
+      "box": [
+        114,
+        631,
+        700,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting project management",
+      "score": 0.9891,
+      "box": [
+        133,
+        657,
+        687,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in pension accounting basics",
+      "score": 0.9816,
+      "box": [
+        134,
+        681,
+        633,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "NATHANAEL MEYER\nOH, USA | +1-233-929-2137 |nathanael.meyer@example.com\nWORK HISTORY\nAccountants Auditors, SolidLedger Financial, 2021.01–2023.01\n- Designed financial policy frameworks\n- Directed financial system architecture\nAccountants Auditors, CoreCount Group, 2019.01–2021.01\n- Managed accounts receivable cycles\n- Analyzed financial trends\nAccountants Auditors, SolidCount Financial, 2014.08–2016.09\n- Updated fixed asset registers\n- Reviewed billing statements\nEDUCATION\nBachelor's, Financial Management, Stoneview University, 2005\n• Completed coursework in accounting project management\n• Completed coursework in pension accounting basics"
+}

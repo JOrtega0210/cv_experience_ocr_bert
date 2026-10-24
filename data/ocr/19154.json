@@ -1,0 +1,226 @@
+{
+  "id": "19154",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.887,
+  "n_lines": 16,
+  "mean_score": 0.9826,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TARA ENRIQUEZ",
+      "score": 0.9815,
+      "box": [
+        114,
+        90,
+        394,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-758-300-5466|tara.enriquez@example.com",
+      "score": 0.9929,
+      "box": [
+        116,
+        151,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9848,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Financial, 2020.01–2023.01",
+      "score": 0.9863,
+      "box": [
+        115,
+        290,
+        680,
+        313
+      ]
+    },
+    {
+      "text": "- Established audit governance structures",
+      "score": 0.9876,
+      "box": [
+        125,
+        313,
+        513,
+        338
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9546,
+      "box": [
+        126,
+        339,
+        428,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Services, 2016.12–2020.01",
+      "score": 0.9777,
+      "box": [
+        114,
+        381,
+        699,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted account reconciliations",
+      "score": 0.986,
+      "box": [
+        126,
+        407,
+        460,
+        430
+      ]
+    },
+    {
+      "text": "- Reviewed revenue forecasts",
+      "score": 0.9689,
+      "box": [
+        126,
+        430,
+        405,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Financial, 2013.11–2016.12",
+      "score": 0.992,
+      "box": [
+        115,
+        472,
+        694,
+        495
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9758,
+      "box": [
+        125,
+        496,
+        372,
+        521
+      ]
+    },
+    {
+      "text": "- Entered financial data into accounting systems",
+      "score": 0.9733,
+      "box": [
+        125,
+        521,
+        572,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Public Accounting, Willow Ridge University, 2015",
+      "score": 0.9881,
+      "box": [
+        114,
+        630,
+        680,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of auditing",
+      "score": 0.9825,
+      "box": [
+        132,
+        656,
+        452,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of professional writing",
+      "score": 0.9907,
+      "box": [
+        133,
+        681,
+        557,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "TARA ENRIQUEZ\nIL, USA|+1-758-300-5466|tara.enriquez@example.com\nWORK HISTORY\nAccountants Auditors, FairCount Financial, 2020.01–2023.01\n- Established audit governance structures\n- Led audit planning governance\nAccountants Auditors, ClearLedger Services, 2016.12–2020.01\n- Conducted account reconciliations\n- Reviewed revenue forecasts\nAccountants Auditors, SolidBooks Financial, 2013.11–2016.12\n- Compiled audit evidence\n- Entered financial data into accounting systems\nEDUCATION\nBachelor's, Public Accounting, Willow Ridge University, 2015\n• Studied fundamentals of auditing\n• Studied fundamentals of professional writing"
+}

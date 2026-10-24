@@ -1,0 +1,148 @@
+{
+  "id": "07861",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.836,
+  "n_lines": 10,
+  "mean_score": 0.9768,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KAILA LIN",
+      "score": 0.9681,
+      "box": [
+        114,
+        88,
+        285,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-941-676-1576 |kaila.lin@example.com",
+      "score": 0.9815,
+      "box": [
+        116,
+        151,
+        611,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9824,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, PrimeLedger Group, 2021.04–2023.01",
+      "score": 0.9844,
+      "box": [
+        115,
+        289,
+        681,
+        312
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9829,
+      "box": [
+        126,
+        315,
+        419,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9542,
+      "box": [
+        126,
+        339,
+        439,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Studies, Clearwater University, 2019",
+      "score": 0.9714,
+      "box": [
+        114,
+        447,
+        654,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of enterprise systems",
+      "score": 0.9748,
+      "box": [
+        132,
+        472,
+        555,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in fraud examination basics",
+      "score": 0.9693,
+      "box": [
+        135,
+        500,
+        620,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "KAILA LIN\nCA, USA|+1-941-676-1576 |kaila.lin@example.com\nWORK HISTORY\nAccountants Auditors, PrimeLedger Group, 2021.04–2023.01\n- Processed journal corrections\n- Reviewed timesheets for payroll\nEDUCATION\nBachelor's, Business Studies, Clearwater University, 2019\n• Studied fundamentals of enterprise systems\n• Completed coursework in fraud examination basics"
+}

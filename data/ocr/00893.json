@@ -1,0 +1,265 @@
+{
+  "id": "00893",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.074,
+  "n_lines": 19,
+  "mean_score": 0.9795,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RYAN PERRY",
+      "score": 0.9786,
+      "box": [
+        116,
+        90,
+        338,
+        120
+      ]
+    },
+    {
+      "text": "AK, USA|+1-956-968-9584|ryan.perry@example.com",
+      "score": 0.9739,
+      "box": [
+        115,
+        150,
+        634,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildRight Contractors, 2019.09–2023.01",
+      "score": 0.9867,
+      "box": [
+        115,
+        290,
+        716,
+        313
+      ]
+    },
+    {
+      "text": "– Managed large-scale installations",
+      "score": 0.9624,
+      "box": [
+        127,
+        315,
+        452,
+        338
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9829,
+      "box": [
+        126,
+        339,
+        441,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextStep Construction, 2016.05–2019.09",
+      "score": 0.9852,
+      "box": [
+        115,
+        381,
+        717,
+        406
+      ]
+    },
+    {
+      "text": "- Developed project risk assessments",
+      "score": 0.9675,
+      "box": [
+        125,
+        406,
+        476,
+        431
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9852,
+      "box": [
+        126,
+        431,
+        441,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Stone Builders, 2012.12–2016.05",
+      "score": 0.9847,
+      "box": [
+        115,
+        472,
+        736,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared cost estimates",
+      "score": 0.9417,
+      "box": [
+        125,
+        496,
+        368,
+        521
+      ]
+    },
+    {
+      "text": "- Installed drainage systems",
+      "score": 0.9837,
+      "box": [
+        125,
+        521,
+        390,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, Stoneway Construction, 2009.07–2012.12",
+      "score": 0.9801,
+      "box": [
+        116,
+        565,
+        724,
+        588
+      ]
+    },
+    {
+      "text": "- Transported waste materials",
+      "score": 0.9977,
+      "box": [
+        126,
+        590,
+        406,
+        613
+      ]
+    },
+    {
+      "text": "- Mixed concrete and mortar",
+      "score": 0.9671,
+      "box": [
+        126,
+        615,
+        391,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Industrial Maintenance, Clearwater University, 2007",
+      "score": 0.9801,
+      "box": [
+        115,
+        723,
+        847,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of construction workflow analysis",
+      "score": 0.9848,
+      "box": [
+        132,
+        747,
+        623,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction materials identification",
+      "score": 0.9831,
+      "box": [
+        136,
+        775,
+        713,
+        795
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "RYAN PERRY\nAK, USA|+1-956-968-9584|ryan.perry@example.com\nWORK HISTORY\nConstruction Laborers, BuildRight Contractors, 2019.09–2023.01\n– Managed large-scale installations\n- Led complex demolition projects\nConstruction Laborers, NextStep Construction, 2016.05–2019.09\n- Developed project risk assessments\n- Led complex demolition projects\nConstruction Laborers, Precision Stone Builders, 2012.12–2016.05\n- Prepared cost estimates\n- Installed drainage systems\nConstruction Laborers, Stoneway Construction, 2009.07–2012.12\n- Transported waste materials\n- Mixed concrete and mortar\nEDUCATION\nSome college (no degree), Industrial Maintenance, Clearwater University, 2007\n• Studied principles of construction workflow analysis\n• Completed coursework in construction materials identification"
+}

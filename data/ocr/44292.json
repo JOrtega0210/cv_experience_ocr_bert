@@ -1,0 +1,226 @@
+{
+  "id": "44292",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.846,
+  "n_lines": 16,
+  "mean_score": 0.9823,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "WILLIAM MCMILLAN",
+      "score": 0.9898,
+      "box": [
+        116,
+        90,
+        448,
+        120
+      ]
+    },
+    {
+      "text": "OR, USA|+1-976-729-2780 |william.mcmillan@example.com",
+      "score": 0.9842,
+      "box": [
+        116,
+        151,
+        694,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmStone Construction, 2021.01–2023.01",
+      "score": 0.9869,
+      "box": [
+        115,
+        289,
+        725,
+        312
+      ]
+    },
+    {
+      "text": "- Developed construction workflows",
+      "score": 0.9774,
+      "box": [
+        125,
+        314,
+        457,
+        337
+      ]
+    },
+    {
+      "text": "- Designed site safety protocols",
+      "score": 0.9929,
+      "box": [
+        126,
+        339,
+        421,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Group, 2019.01–22.01",
+      "score": 0.9723,
+      "box": [
+        116,
+        382,
+        673,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared site reports",
+      "score": 0.9815,
+      "box": [
+        125,
+        406,
+        338,
+        432
+      ]
+    },
+    {
+      "text": "- Monitored safety compliance",
+      "score": 0.9736,
+      "box": [
+        126,
+        429,
+        408,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongRise Construction, 2014.03–2016.04",
+      "score": 0.9851,
+      "box": [
+        116,
+        472,
+        734,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.9656,
+      "box": [
+        126,
+        498,
+        512,
+        521
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9782,
+      "box": [
+        127,
+        521,
+        510,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Design, Meadowfield University, 2013",
+      "score": 0.9809,
+      "box": [
+        114,
+        631,
+        697,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of load-bearing structures",
+      "score": 0.9812,
+      "box": [
+        132,
+        656,
+        556,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic painting techniques",
+      "score": 0.9816,
+      "box": [
+        135,
+        683,
+        623,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "WILLIAM MCMILLAN\nOR, USA|+1-976-729-2780 |william.mcmillan@example.com\nWORK HISTORY\nConstruction Laborers, FirmStone Construction, 2021.01–2023.01\n- Developed construction workflows\n- Designed site safety protocols\nConstruction Laborers, Allied Build Group, 2019.01–22.01\n- Prepared site reports\n- Monitored safety compliance\nConstruction Laborers, StrongRise Construction, 2014.03–2016.04\n- Prepared surfaces for construction work\n- Operated hand tools for assembly tasks\nEDUCATION\nBachelor's, Construction Design, Meadowfield University, 2013\n• Studied principles of load-bearing structures\n• Completed coursework in basic painting techniques"
+}

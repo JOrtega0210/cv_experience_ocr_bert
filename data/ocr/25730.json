@@ -1,0 +1,252 @@
+{
+  "id": "25730",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.888,
+  "n_lines": 18,
+  "mean_score": 0.9839,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ROBERT STEIN",
+      "score": 0.9718,
+      "box": [
+        116,
+        90,
+        367,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-970-628-8361 |robert.stein@example.com",
+      "score": 0.9817,
+      "box": [
+        115,
+        150,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9814,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Brightpoint Software, 2020.05–2023.01",
+      "score": 0.98,
+      "box": [
+        116,
+        290,
+        683,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.979,
+      "box": [
+        126,
+        314,
+        538,
+        339
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9921,
+      "box": [
+        126,
+        339,
+        450,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Nextline Software, 2017.09–2020.05",
+      "score": 0.992,
+      "box": [
+        116,
+        382,
+        660,
+        405
+      ]
+    },
+    {
+      "text": "- Built containerized services",
+      "score": 0.9832,
+      "box": [
+        126,
+        407,
+        395,
+        429
+      ]
+    },
+    {
+      "text": "- Implemented caching strategies",
+      "score": 0.9889,
+      "box": [
+        126,
+        431,
+        437,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Technologies, 2013.12–2016.09",
+      "score": 0.9935,
+      "box": [
+        115,
+        471,
+        697,
+        496
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9844,
+      "box": [
+        125,
+        496,
+        562,
+        522
+      ]
+    },
+    {
+      "text": "- Optimized simple queries",
+      "score": 0.9877,
+      "box": [
+        127,
+        523,
+        377,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Doctorate, Forestview University, 2009",
+      "score": 0.9882,
+      "box": [
+        115,
+        632,
+        476,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Briar Ridge University, 2004",
+      "score": 0.954,
+      "box": [
+        115,
+        658,
+        486,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in software project management",
+      "score": 0.9882,
+      "box": [
+        133,
+        683,
+        665,
+        706
+      ]
+    },
+    {
+      "text": "• Studied principles of backend frameworks",
+      "score": 0.9916,
+      "box": [
+        132,
+        706,
+        535,
+        731
+      ]
+    },
+    {
+      "text": "• Studied principles of dependency injection",
+      "score": 0.9743,
+      "box": [
+        134,
+        732,
+        538,
+        755
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "ROBERT STEIN\nMA, USA|+1-970-628-8361 |robert.stein@example.com\nWORK HISTORY\nSoftware Developers, Brightpoint Software, 2020.05–2023.01\n- Implemented long-term maintenance plans\n- Defined data governance policies\nSoftware Developers, Nextline Software, 2017.09–2020.05\n- Built containerized services\n- Implemented caching strategies\nSoftware Developers, Netfield Technologies, 2013.12–2016.09\n- Fixed software bugs identified through testing\n- Optimized simple queries\nEDUCATION\nDoctorate, Forestview University, 2009\nBachelor's, Briar Ridge University, 2004\n• Completed coursework in software project management\n• Studied principles of backend frameworks\n• Studied principles of dependency injection"
+}

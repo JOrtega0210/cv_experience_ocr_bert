@@ -1,0 +1,148 @@
+{
+  "id": "24578",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.737,
+  "n_lines": 10,
+  "mean_score": 0.9829,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ROWAN XIONG",
+      "score": 0.9718,
+      "box": [
+        116,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA|+1-803-504-7266|rowan.xiong@example.com",
+      "score": 0.9907,
+      "box": [
+        115,
+        150,
+        657,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHeart Medical Services, 2021.02–2023.01",
+      "score": 0.9789,
+      "box": [
+        116,
+        290,
+        731,
+        313
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9768,
+      "box": [
+        125,
+        313,
+        365,
+        339
+      ]
+    },
+    {
+      "text": "- Monitored patient alarms",
+      "score": 0.9701,
+      "box": [
+        126,
+        339,
+        373,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Mental Health Studies, Aspen Grove University, 2023",
+      "score": 0.98,
+      "box": [
+        114,
+        447,
+        718,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in enteral feeding basics",
+      "score": 0.9842,
+      "box": [
+        133,
+        474,
+        593,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of healthcare ethics",
+      "score": 0.9942,
+      "box": [
+        133,
+        497,
+        500,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ROWAN XIONG\nMD, USA|+1-803-504-7266|rowan.xiong@example.com\nWORK HISTORY\nRegistered Nurses, KindHeart Medical Services, 2021.02–2023.01\n- Recorded nursing notes\n- Monitored patient alarms\nEDUCATION\nBachelor's, Mental Health Studies, Aspen Grove University, 2023\n• Completed coursework in enteral feeding basics\n• Studied principles of healthcare ethics"
+}

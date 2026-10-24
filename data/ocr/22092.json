@@ -1,0 +1,148 @@
+{
+  "id": "22092",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.772,
+  "n_lines": 10,
+  "mean_score": 0.9757,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ZACHERY TURNER",
+      "score": 0.9711,
+      "box": [
+        115,
+        90,
+        428,
+        120
+      ]
+    },
+    {
+      "text": "KY, USA|+1-878-306-6100 |zachery.turner@example.com",
+      "score": 0.9769,
+      "box": [
+        115,
+        150,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9764,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SafeRise Construction, 2022.03–2023.01",
+      "score": 0.9775,
+      "box": [
+        115,
+        290,
+        715,
+        313
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9712,
+      "box": [
+        126,
+        315,
+        541,
+        338
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.9753,
+      "box": [
+        126,
+        339,
+        474,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Technology, Canyon View University, 2023",
+      "score": 0.965,
+      "box": [
+        116,
+        449,
+        889,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of masonry",
+      "score": 0.9747,
+      "box": [
+        132,
+        472,
+        459,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of structural framing techniques",
+      "score": 0.9702,
+      "box": [
+        134,
+        499,
+        647,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ZACHERY TURNER\nKY, USA|+1-878-306-6100 |zachery.turner@example.com\nWORK HISTORY\nConstruction Laborers, SafeRise Construction, 2022.03–2023.01\n- Carried materials to designated work areas\n- Marked measurements on materials\nEDUCATION\nSome college (no degree), Construction Technology, Canyon View University, 2023\n• Studied fundamentals of masonry\n• Studied fundamentals of structural framing techniques"
+}

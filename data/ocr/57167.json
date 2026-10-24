@@ -1,0 +1,200 @@
+{
+  "id": "57167",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.815,
+  "n_lines": 14,
+  "mean_score": 0.9813,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "WILLIAM DENNIS",
+      "score": 0.9847,
+      "box": [
+        116,
+        90,
+        397,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-973-900-3249 |william.dennis@example.com",
+      "score": 0.9594,
+      "box": [
+        115,
+        150,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Financial, 2020.08–2023.01",
+      "score": 0.9721,
+      "box": [
+        115,
+        290,
+        724,
+        313
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9764,
+      "box": [
+        126,
+        314,
+        427,
+        339
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.9705,
+      "box": [
+        126,
+        339,
+        456,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Advisors Group, 2017.02–2019.08",
+      "score": 0.9825,
+      "box": [
+        115,
+        382,
+        771,
+        405
+      ]
+    },
+    {
+      "text": "- Updated fixed asset registers",
+      "score": 0.9785,
+      "box": [
+        127,
+        408,
+        414,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.9934,
+      "box": [
+        125,
+        430,
+        419,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Business Technology, Woodview University, 2013",
+      "score": 0.982,
+      "box": [
+        115,
+        541,
+        669,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Public Accounting, Northview University, 2011",
+      "score": 0.9866,
+      "box": [
+        115,
+        566,
+        650,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in professional standards",
+      "score": 0.9896,
+      "box": [
+        134,
+        591,
+        600,
+        614
+      ]
+    },
+    {
+      "text": "• Studied principles of business analytics",
+      "score": 0.9781,
+      "box": [
+        134,
+        616,
+        511,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "WILLIAM DENNIS\nVA, USA|+1-973-900-3249 |william.dennis@example.com\nWORK HISTORY\nAccountants Auditors, Integrity Count Financial, 2020.08–2023.01\n- Managed financial governance\n- Developed audit quality standards\nAccountants Auditors, SolidBalance Advisors Group, 2017.02–2019.08\n- Updated fixed asset registers\n- Assisted with forecasting data\nEDUCATION\nMaster's, Business Technology, Woodview University, 2013\nBachelor's, Public Accounting, Northview University, 2011\n• Completed coursework in professional standards\n• Studied principles of business analytics"
+}

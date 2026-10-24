@@ -1,0 +1,135 @@
+{
+  "id": "16609",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.857,
+  "n_lines": 9,
+  "mean_score": 0.9876,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSEPH MASON",
+      "score": 0.9896,
+      "box": [
+        116,
+        90,
+        388,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-526-964-1220 |joseph.mason@example.com",
+      "score": 0.9799,
+      "box": [
+        116,
+        152,
+        672,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9822,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureBuild Group, 2019.07–2021.11",
+      "score": 0.9848,
+      "box": [
+        115,
+        290,
+        661,
+        313
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.981,
+      "box": [
+        126,
+        314,
+        556,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9967,
+      "box": [
+        126,
+        339,
+        493,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Fundamentals, Pinefield High School, 2004",
+      "score": 0.9828,
+      "box": [
+        116,
+        449,
+        899,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of insulation techniques",
+      "score": 0.9926,
+      "box": [
+        133,
+        474,
+        537,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "JOSEPH MASON\nGA, USA |+1-526-964-1220 |joseph.mason@example.com\nWORK HISTORY\nConstruction Laborers, SureBuild Group, 2019.07–2021.11\n- Stacked and organized construction supplies\n- Assisted with equipment maintenance\nEDUCATION\nHigh school graduate/GED, Construction Fundamentals, Pinefield High School, 2004\n• Studied principles of insulation techniques"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "23285",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.842,
+  "n_lines": 13,
+  "mean_score": 0.9822,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "FRANK FLOWERS",
+      "score": 0.9921,
+      "box": [
+        116,
+        90,
+        412,
+        121
+      ]
+    },
+    {
+      "text": "LA, USA |+1-959-509-4975 |frank.flowers@example.com",
+      "score": 0.9663,
+      "box": [
+        116,
+        151,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9786,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildCraft Co., 2021.01–223.01",
+      "score": 0.9737,
+      "box": [
+        115,
+        290,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.984,
+      "box": [
+        126,
+        314,
+        441,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.9696,
+      "box": [
+        126,
+        339,
+        532,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextRise Construction, 2017.12–2019.12",
+      "score": 0.9915,
+      "box": [
+        116,
+        381,
+        715,
+        405
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.9743,
+      "box": [
+        125,
+        405,
+        361,
+        432
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.9923,
+      "box": [
+        126,
+        431,
+        480,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Management, Silverlake University, 2009",
+      "score": 0.9777,
+      "box": [
+        114,
+        539,
+        728,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction waste management",
+      "score": 0.9861,
+      "box": [
+        133,
+        565,
+        691,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction quality control",
+      "score": 0.9843,
+      "box": [
+        135,
+        591,
+        637,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "FRANK FLOWERS\nLA, USA |+1-959-509-4975 |frank.flowers@example.com\nWORK HISTORY\nConstruction Laborers, BuildCraft Co., 2021.01–223.01\n- Led complex demolition projects\n- Implemented safety compliance strategies\nConstruction Laborers, NextRise Construction, 2017.12–2019.12\n- Installed safety signage\n- Supported crew leaders during tasks\nEDUCATION\nBachelor's, Construction Management, Silverlake University, 2009\n• Completed coursework in construction waste management\n• Completed coursework in construction quality control"
+}

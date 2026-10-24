@@ -1,0 +1,174 @@
+{
+  "id": "27758",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.812,
+  "n_lines": 12,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CJ NORRIS",
+      "score": 0.9915,
+      "box": [
+        116,
+        88,
+        300,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA|+1-849-879-1808|cj.norris@example.com",
+      "score": 0.9896,
+      "box": [
+        116,
+        151,
+        609,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9808,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Way Medical, 2020.05–2023.01",
+      "score": 0.987,
+      "box": [
+        116,
+        290,
+        670,
+        314
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.968,
+      "box": [
+        127,
+        315,
+        480,
+        338
+      ]
+    },
+    {
+      "text": "- Monitored patient alarms",
+      "score": 0.9693,
+      "box": [
+        126,
+        339,
+        373,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Doctorate, Clinical Studies, Willowgate University, 2023",
+      "score": 0.9827,
+      "box": [
+        115,
+        449,
+        629,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing Foundations, Windridge University, 2018",
+      "score": 0.9661,
+      "box": [
+        115,
+        474,
+        680,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of chronic disease management",
+      "score": 0.9918,
+      "box": [
+        133,
+        498,
+        616,
+        523
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of sleep management in care",
+      "score": 0.9778,
+      "box": [
+        133,
+        523,
+        625,
+        547
+      ]
+    },
+    {
+      "text": "• Studied principles of time management in care",
+      "score": 0.9866,
+      "box": [
+        132,
+        548,
+        578,
+        573
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "CJ NORRIS\nMI, USA|+1-849-879-1808|cj.norris@example.com\nWORK HISTORY\nRegistered Nurses, Helping Way Medical, 2020.05–2023.01\n- Provided patient education materials\n- Monitored patient alarms\nEDUCATION\nDoctorate, Clinical Studies, Willowgate University, 2023\nBachelor's, Nursing Foundations, Windridge University, 2018\n• Studied principles of chronic disease management\n• Studied fundamentals of sleep management in care\n• Studied principles of time management in care"
+}

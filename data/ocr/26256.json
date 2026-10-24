@@ -1,0 +1,148 @@
+{
+  "id": "26256",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.75,
+  "n_lines": 10,
+  "mean_score": 0.9768,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HALLIE HEATH",
+      "score": 0.9838,
+      "box": [
+        115,
+        90,
+        364,
+        120
+      ]
+    },
+    {
+      "text": "MA, USA|+1-574-965-7569 |hallie.heath@example.com",
+      "score": 0.9801,
+      "box": [
+        115,
+        150,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9816,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Bridge Medical, 2020.01–2021.01",
+      "score": 0.9738,
+      "box": [
+        116,
+        290,
+        734,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9677,
+      "box": [
+        127,
+        315,
+        372,
+        339
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9486,
+      "box": [
+        126,
+        339,
+        435,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Clinical Studies, Goldenwood University, 2012",
+      "score": 0.9819,
+      "box": [
+        116,
+        449,
+        732,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient safety culture",
+      "score": 0.9782,
+      "box": [
+        133,
+        474,
+        582,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of wound assessment",
+      "score": 0.9733,
+      "box": [
+        134,
+        498,
+        558,
+        521
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "HALLIE HEATH\nMA, USA|+1-574-965-7569 |hallie.heath@example.com\nWORK HISTORY\nRegistered Nurses, Compassion Bridge Medical, 2020.01–2021.01\n- Prepared sterile supplies\n- Monitored patient dietary needs\nEDUCATION\nAssociate's degree, Clinical Studies, Goldenwood University, 2012\n• Completed coursework in patient safety culture\n• Studied fundamentals of wound assessment"
+}

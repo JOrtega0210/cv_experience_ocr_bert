@@ -1,0 +1,265 @@
+{
+  "id": "60376",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.917,
+  "n_lines": 19,
+  "mean_score": 0.9797,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LANAE KELLY",
+      "score": 0.9913,
+      "box": [
+        116,
+        90,
+        353,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-692-827-1202|lanae.kelly@example.com",
+      "score": 0.9894,
+      "box": [
+        115,
+        150,
+        636,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightLife Care Center, 2020.04–2023.01",
+      "score": 0.97,
+      "box": [
+        115,
+        289,
+        681,
+        314
+      ]
+    },
+    {
+      "text": "- Developed nursing policy frameworks",
+      "score": 0.9816,
+      "box": [
+        127,
+        315,
+        489,
+        338
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9833,
+      "box": [
+        126,
+        339,
+        471,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleSpring Health, 2017.06–2020.04",
+      "score": 0.9786,
+      "box": [
+        115,
+        381,
+        664,
+        406
+      ]
+    },
+    {
+      "text": "- Directed emergency response planning",
+      "score": 0.9715,
+      "box": [
+        126,
+        406,
+        505,
+        432
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9916,
+      "box": [
+        126,
+        430,
+        472,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellWay Medical Group, 2014.08–2017.06",
+      "score": 0.9602,
+      "box": [
+        114,
+        470,
+        700,
+        498
+      ]
+    },
+    {
+      "text": "- Implemented patient education programs",
+      "score": 0.9817,
+      "box": [
+        126,
+        497,
+        521,
+        522
+      ]
+    },
+    {
+      "text": "- Interpreted laboratory results",
+      "score": 0.9619,
+      "box": [
+        127,
+        523,
+        409,
+        546
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeBridge Nursing, 2011.10–2014.08",
+      "score": 0.9894,
+      "box": [
+        116,
+        565,
+        648,
+        589
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9624,
+      "box": [
+        125,
+        589,
+        387,
+        614
+      ]
+    },
+    {
+      "text": "- Performed blood glucose testing",
+      "score": 0.9799,
+      "box": [
+        126,
+        613,
+        442,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Education, Highpoint University, 2011",
+      "score": 0.9685,
+      "box": [
+        114,
+        723,
+        638,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in laboratory values interpretation",
+      "score": 0.9823,
+      "box": [
+        132,
+        748,
+        675,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in renal nursing basics",
+      "score": 0.9862,
+      "box": [
+        135,
+        774,
+        575,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "LANAE KELLY\nWI, USA|+1-692-827-1202|lanae.kelly@example.com\nWORK HISTORY\nRegistered Nurses, BrightLife Care Center, 2020.04–2023.01\n- Developed nursing policy frameworks\n- Established care delivery standards\nRegistered Nurses, GentleSpring Health, 2017.06–2020.04\n- Directed emergency response planning\n- Established care delivery standards\nRegistered Nurses, WellWay Medical Group, 2014.08–2017.06\n- Implemented patient education programs\n- Interpreted laboratory results\nRegistered Nurses, LifeBridge Nursing, 2011.10–2014.08\n- Prepared treatment rooms\n- Performed blood glucose testing\nEDUCATION\nBachelor's, Health Education, Highpoint University, 2011\n• Completed coursework in laboratory values interpretation\n• Completed coursework in renal nursing basics"
+}

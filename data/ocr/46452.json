@@ -1,0 +1,265 @@
+{
+  "id": "46452",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.911,
+  "n_lines": 19,
+  "mean_score": 0.9814,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "VICTORIA DANIELS",
+      "score": 0.9931,
+      "box": [
+        115,
+        88,
+        434,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA|+1-656-858-6074 |victoria.daniels@example.com",
+      "score": 0.983,
+      "box": [
+        115,
+        150,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeBridge Nursing Services, 2019.09–2023.01",
+      "score": 0.9724,
+      "box": [
+        115,
+        289,
+        732,
+        314
+      ]
+    },
+    {
+      "text": "- Established clinical best practices",
+      "score": 0.9735,
+      "box": [
+        125,
+        313,
+        454,
+        338
+      ]
+    },
+    {
+      "text": "- Directed clinical training standards",
+      "score": 0.9714,
+      "box": [
+        126,
+        338,
+        460,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverPath Nursing Services, 2016.05–2019.09",
+      "score": 0.9747,
+      "box": [
+        115,
+        381,
+        725,
+        406
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9842,
+      "box": [
+        125,
+        406,
+        549,
+        431
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.9753,
+      "box": [
+        126,
+        431,
+        458,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueWell Nursing, 2011.08–2014.12",
+      "score": 0.9726,
+      "box": [
+        116,
+        472,
+        637,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed care plan outcomes",
+      "score": 0.9842,
+      "box": [
+        125,
+        496,
+        423,
+        521
+      ]
+    },
+    {
+      "text": "- Provided wound care management",
+      "score": 0.9831,
+      "box": [
+        126,
+        521,
+        466,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindWay Nursing, 2006.11–2010.03",
+      "score": 0.9803,
+      "box": [
+        116,
+        565,
+        637,
+        589
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9854,
+      "box": [
+        125,
+        589,
+        478,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with specimen labeling",
+      "score": 0.9948,
+      "box": [
+        126,
+        613,
+        437,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Life Sciences, Skyline University, 206",
+      "score": 0.9576,
+      "box": [
+        114,
+        723,
+        585,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of infection control",
+      "score": 0.9917,
+      "box": [
+        132,
+        747,
+        489,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in pressure injury prevention",
+      "score": 0.9851,
+      "box": [
+        133,
+        772,
+        629,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "VICTORIA DANIELS\nPA, USA|+1-656-858-6074 |victoria.daniels@example.com\nWORK HISTORY\nRegistered Nurses, LifeBridge Nursing Services, 2019.09–2023.01\n- Established clinical best practices\n- Directed clinical training standards\nRegistered Nurses, EverPath Nursing Services, 2016.05–2019.09\n- Developed clinical performance dashboards\n- Developed patient care algorithms\nRegistered Nurses, TrueWell Nursing, 2011.08–2014.12\n- Reviewed care plan outcomes\n- Provided wound care management\nRegistered Nurses, KindWay Nursing, 2006.11–2010.03\n- Prepared medical equipment for use\n- Assisted with specimen labeling\nEDUCATION\nBachelor's, Life Sciences, Skyline University, 206\n• Studied principles of infection control\n• Completed coursework in pressure injury prevention"
+}

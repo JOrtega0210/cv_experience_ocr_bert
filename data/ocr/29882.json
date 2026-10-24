@@ -1,0 +1,148 @@
+{
+  "id": "29882",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.789,
+  "n_lines": 10,
+  "mean_score": 0.9791,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RUBEN HANNA",
+      "score": 0.9542,
+      "box": [
+        116,
+        90,
+        367,
+        121
+      ]
+    },
+    {
+      "text": "MS, USA|+1-909-741-4437 |ruben.hanna@example.com",
+      "score": 0.9885,
+      "box": [
+        115,
+        150,
+        661,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9729,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmTrack Construction, 2021.06–2023.01",
+      "score": 0.9904,
+      "box": [
+        116,
+        291,
+        723,
+        311
+      ]
+    },
+    {
+      "text": "- Loaded and unloaded construction materials",
+      "score": 0.9814,
+      "box": [
+        127,
+        316,
+        553,
+        336
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.961,
+      "box": [
+        126,
+        338,
+        446,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        266,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Fundamentals, Greenway University, 2023",
+      "score": 0.9766,
+      "box": [
+        115,
+        447,
+        886,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of structural alignment",
+      "score": 0.993,
+      "box": [
+        132,
+        472,
+        563,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic excavation methods",
+      "score": 0.9751,
+      "box": [
+        135,
+        500,
+        628,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "RUBEN HANNA\nMS, USA|+1-909-741-4437 |ruben.hanna@example.com\nWORK HISTORY\nConstruction Laborers, FirmTrack Construction, 2021.06–2023.01\n- Loaded and unloaded construction materials\n- Secured materials with fasteners\nEDUCATION\nSome college (no degree), Construction Fundamentals, Greenway University, 2023\n• Studied fundamentals of structural alignment\n• Completed coursework in basic excavation methods"
+}

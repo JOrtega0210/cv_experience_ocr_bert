@@ -1,0 +1,135 @@
+{
+  "id": "30098",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.761,
+  "n_lines": 9,
+  "mean_score": 0.9731,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AUSTINGILES",
+      "score": 0.9987,
+      "box": [
+        116,
+        90,
+        352,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA |+1-758-701-3887 | austin.giles@example.com",
+      "score": 0.9794,
+      "box": [
+        116,
+        151,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9797,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Stone Co., 2020.04–2022.5",
+      "score": 0.9616,
+      "box": [
+        115,
+        290,
+        682,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9643,
+      "box": [
+        125,
+        313,
+        417,
+        340
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9316,
+      "box": [
+        126,
+        338,
+        332,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Inspection, Rolling Hills High School, 2017",
+      "score": 0.9615,
+      "box": [
+        116,
+        449,
+        892,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic structural demolition",
+      "score": 0.9828,
+      "box": [
+        134,
+        475,
+        630,
+        495
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "AUSTINGILES\nMO, USA |+1-758-701-3887 | austin.giles@example.com\nWORK HISTORY\nConstruction Laborers, Reliable Stone Co., 2020.04–2022.5\n- Assisted with framing support\n- Secured site fencing\nEDUCATION\nHigh school graduate/GED, Construction Inspection, Rolling Hills High School, 2017\n• Completed coursework in basic structural demolition"
+}

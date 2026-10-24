@@ -1,0 +1,187 @@
+{
+  "id": "50210",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.768,
+  "n_lines": 13,
+  "mean_score": 0.9834,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TAYLOR XIONG",
+      "score": 0.9731,
+      "box": [
+        114,
+        90,
+        372,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-379-269-7075|taylor.xiong@example.com",
+      "score": 0.9799,
+      "box": [
+        115,
+        150,
+        645,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9885,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightloop Systems, 2019.04–2020.12",
+      "score": 0.9742,
+      "box": [
+        115,
+        288,
+        677,
+        314
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.9843,
+      "box": [
+        125,
+        313,
+        374,
+        338
+      ]
+    },
+    {
+      "text": "- Defined integration standards",
+      "score": 0.9767,
+      "box": [
+        126,
+        339,
+        415,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightloop Systems, 2016.11–2018.08",
+      "score": 0.9861,
+      "box": [
+        115,
+        381,
+        676,
+        406
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9892,
+      "box": [
+        127,
+        408,
+        347,
+        429
+      ]
+    },
+    {
+      "text": "- Optimized simple queries",
+      "score": 0.9794,
+      "box": [
+        127,
+        432,
+        376,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Parkview University, 2016",
+      "score": 0.9823,
+      "box": [
+        115,
+        540,
+        465,
+        563
+      ]
+    },
+    {
+      "text": "• Completed coursework in information systems",
+      "score": 0.979,
+      "box": [
+        133,
+        565,
+        575,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of responsive design",
+      "score": 0.9931,
+      "box": [
+        132,
+        590,
+        547,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "TAYLOR XIONG\nTX, USA|+1-379-269-7075|taylor.xiong@example.com\nWORK HISTORY\nSoftware Developers, Brightloop Systems, 2019.04–2020.12\n- Led architectural reviews\n- Defined integration standards\nSoftware Developers, Brightloop Systems, 2016.11–2018.08\n- Created test data sets\n- Optimized simple queries\nEDUCATION\nBachelor's, Parkview University, 2016\n• Completed coursework in information systems\n• Studied fundamentals of responsive design"
+}

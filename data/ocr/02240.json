@@ -1,0 +1,161 @@
+{
+  "id": "02240",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.933,
+  "n_lines": 11,
+  "mean_score": 0.9764,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JACQUELINE OBRIEN",
+      "score": 0.9712,
+      "box": [
+        116,
+        90,
+        472,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-796-574-8290|jacqueline.obrien@example.com",
+      "score": 0.9699,
+      "box": [
+        116,
+        151,
+        697,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9741,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Start School, 2018.04–2020.04",
+      "score": 0.9738,
+      "box": [
+        116,
+        290,
+        816,
+        313
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9839,
+      "box": [
+        126,
+        314,
+        517,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9821,
+      "box": [
+        126,
+        339,
+        496,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Educational Readiness, Oakview University, 2016",
+      "score": 0.9589,
+      "box": [
+        115,
+        449,
+        667,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Basics, Skyview University, 2014",
+      "score": 0.9749,
+      "box": [
+        114,
+        472,
+        630,
+        496
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional goal setting",
+      "score": 0.9728,
+      "box": [
+        133,
+        499,
+        602,
+        522
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional improvement methods",
+      "score": 0.9809,
+      "box": [
+        135,
+        524,
+        713,
+        547
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "JACQUELINE OBRIEN\nAR, USA|+1-796-574-8290|jacqueline.obrien@example.com\nWORK HISTORY\nElementary Middle School Teachers, Sunny Start School, 2018.04–2020.04\n- Organized classroom learning resources\n- Implemented lesson pacing guidelines\nEDUCATION\nMaster's, Educational Readiness, Oakview University, 2016\nBachelor's, Education Basics, Skyview University, 2014\n• Studied fundamentals of instructional goal setting\n• Completed coursework in instructional improvement methods"
+}

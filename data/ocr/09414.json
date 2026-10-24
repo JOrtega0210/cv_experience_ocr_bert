@@ -1,0 +1,187 @@
+{
+  "id": "09414",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.882,
+  "n_lines": 13,
+  "mean_score": 0.9834,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MEREDITH ROY",
+      "score": 0.9947,
+      "box": [
+        117,
+        90,
+        375,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-349-803-9839 |meredith.roy@example.com",
+      "score": 0.9812,
+      "box": [
+        117,
+        151,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9793,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Clearline Software, 2020.02–2023.01",
+      "score": 0.9843,
+      "box": [
+        115,
+        288,
+        665,
+        313
+      ]
+    },
+    {
+      "text": "-Built fault-tolerant systems",
+      "score": 0.9869,
+      "box": [
+        125,
+        313,
+        388,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9778,
+      "box": [
+        126,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Softpath Labs, 2015.12–2018.12",
+      "score": 0.9953,
+      "box": [
+        116,
+        382,
+        625,
+        405
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.9771,
+      "box": [
+        126,
+        406,
+        502,
+        431
+      ]
+    },
+    {
+      "text": "- Wrote utility scripts",
+      "score": 0.9751,
+      "box": [
+        126,
+        430,
+        318,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Prairie Ridge University, 206",
+      "score": 0.9717,
+      "box": [
+        115,
+        541,
+        502,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in programming in C++",
+      "score": 0.9833,
+      "box": [
+        133,
+        565,
+        579,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of versioning strategies",
+      "score": 0.9794,
+      "box": [
+        133,
+        590,
+        534,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "MEREDITH ROY\nCA, USA|+1-349-803-9839 |meredith.roy@example.com\nWORK HISTORY\nSoftware Developers, Clearline Software, 2020.02–2023.01\n-Built fault-tolerant systems\n- Implemented security architectures\nSoftware Developers, Softpath Labs, 2015.12–2018.12\n- Wrote scripts for data processing tasks\n- Wrote utility scripts\nEDUCATION\nBachelor's, Prairie Ridge University, 206\n• Completed coursework in programming in C++\n• Studied principles of versioning strategies"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "24552",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.882,
+  "n_lines": 16,
+  "mean_score": 0.9836,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JENNIFER BAKER",
+      "score": 0.9806,
+      "box": [
+        116,
+        90,
+        411,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA| +1-351-676-7269 |jennifer.baker@example.com",
+      "score": 0.9686,
+      "box": [
+        115,
+        150,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunLife Nursing Services, 2020.05–2023.01",
+      "score": 0.9793,
+      "box": [
+        115,
+        289,
+        708,
+        314
+      ]
+    },
+    {
+      "text": "- Managed patient outcome evaluation systems",
+      "score": 0.9862,
+      "box": [
+        126,
+        314,
+        566,
+        339
+      ]
+    },
+    {
+      "text": "- Directed clinical training standards",
+      "score": 0.9834,
+      "box": [
+        126,
+        339,
+        459,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenCare Nursing Services, 2017.09–2020.05",
+      "score": 0.9922,
+      "box": [
+        115,
+        381,
+        736,
+        406
+      ]
+    },
+    {
+      "text": "- Interpreted laboratory results",
+      "score": 0.9913,
+      "box": [
+        126,
+        406,
+        410,
+        431
+      ]
+    },
+    {
+      "text": "- Coordinated patient follow-ups",
+      "score": 0.9816,
+      "box": [
+        126,
+        430,
+        425,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Care Center, 2014.12–2017.09",
+      "score": 0.9718,
+      "box": [
+        116,
+        472,
+        680,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared discharge instructions",
+      "score": 0.9804,
+      "box": [
+        126,
+        498,
+        436,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.9855,
+      "box": [
+        126,
+        521,
+        482,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing Practice, Stonegate University, 2017",
+      "score": 0.9855,
+      "box": [
+        115,
+        631,
+        641,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in suctioning techniques",
+      "score": 0.9852,
+      "box": [
+        134,
+        658,
+        590,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in home health nursing basics",
+      "score": 0.9872,
+      "box": [
+        134,
+        681,
+        642,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JENNIFER BAKER\nMD, USA| +1-351-676-7269 |jennifer.baker@example.com\nWORK HISTORY\nRegistered Nurses, SunLife Nursing Services, 2020.05–2023.01\n- Managed patient outcome evaluation systems\n- Directed clinical training standards\nRegistered Nurses, OpenCare Nursing Services, 2017.09–2020.05\n- Interpreted laboratory results\n- Coordinated patient follow-ups\nRegistered Nurses, Harmony Care Center, 2014.12–2017.09\n- Prepared discharge instructions\n- Assisted with emergency procedures\nEDUCATION\nBachelor's, Nursing Practice, Stonegate University, 2017\n• Completed coursework in suctioning techniques\n• Completed coursework in home health nursing basics"
+}

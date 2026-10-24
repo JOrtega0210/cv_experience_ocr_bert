@@ -1,0 +1,265 @@
+{
+  "id": "01306",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.988,
+  "n_lines": 19,
+  "mean_score": 0.9818,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRANDONBALLARD",
+      "score": 0.9948,
+      "box": [
+        116,
+        90,
+        457,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-696-780-2646|brandon.ballard@example.com",
+      "score": 0.9963,
+      "box": [
+        116,
+        151,
+        684,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9877,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearwave Systems, 2019.12–2023.01",
+      "score": 0.9891,
+      "box": [
+        115,
+        288,
+        679,
+        313
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.967,
+      "box": [
+        125,
+        313,
+        380,
+        338
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9652,
+      "box": [
+        126,
+        338,
+        368,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Labs, 2016.11–2019.12",
+      "score": 0.9917,
+      "box": [
+        115,
+        380,
+        647,
+        406
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9815,
+      "box": [
+        126,
+        406,
+        444,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9806,
+      "box": [
+        126,
+        431,
+        515,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Digital, 2013.09–2016.11",
+      "score": 0.9851,
+      "box": [
+        116,
+        472,
+        649,
+        496
+      ]
+    },
+    {
+      "text": "- Designed integration tests",
+      "score": 0.9831,
+      "box": [
+        125,
+        498,
+        383,
+        521
+      ]
+    },
+    {
+      "text": "- Improved API performance",
+      "score": 0.9696,
+      "box": [
+        126,
+        521,
+        392,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudpath Digital, 2008.07–2011.09",
+      "score": 0.9667,
+      "box": [
+        113,
+        562,
+        657,
+        590
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.987,
+      "box": [
+        126,
+        589,
+        485,
+        614
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.983,
+      "box": [
+        125,
+        613,
+        352,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Meadowfield University, 2005",
+      "score": 0.9829,
+      "box": [
+        114,
+        723,
+        499,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of normalization",
+      "score": 0.9733,
+      "box": [
+        132,
+        748,
+        504,
+        771
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of computer networks",
+      "score": 0.9715,
+      "box": [
+        132,
+        772,
+        555,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "BRANDONBALLARD\nAZ, USA|+1-696-780-2646|brandon.ballard@example.com\nWORK HISTORY\nSoftware Developers, Clearwave Systems, 2019.12–2023.01\n- Defined coding standards\n- Built distributed systems\nSoftware Developers, Openwave Labs, 2016.11–2019.12\n- Designed observability platforms\n- Implemented access control frameworks\nSoftware Developers, Clearpath Digital, 2013.09–2016.11\n- Designed integration tests\n- Improved API performance\nSoftware Developers, Cloudpath Digital, 2008.07–2011.09\n- Logged and tracked software defects\n- Wrote integration tests\nEDUCATION\nBachelor's, Meadowfield University, 2005\n• Studied fundamentals of normalization\n• Studied fundamentals of computer networks"
+}

@@ -1,0 +1,174 @@
+{
+  "id": "01141",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.956,
+  "n_lines": 12,
+  "mean_score": 0.9792,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRENTON DENNIS",
+      "score": 0.9851,
+      "box": [
+        116,
+        90,
+        419,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-299-905-7862 |brenton.dennis@example.com",
+      "score": 0.9734,
+      "box": [
+        115,
+        151,
+        677,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Co., 2019.07–2021.06",
+      "score": 0.9713,
+      "box": [
+        114,
+        289,
+        648,
+        313
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.9722,
+      "box": [
+        125,
+        313,
+        488,
+        337
+      ]
+    },
+    {
+      "text": "- Managed subcontractor coordination",
+      "score": 0.9846,
+      "box": [
+        127,
+        340,
+        481,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, Frontier Build Co., 2016.09–2018.08",
+      "score": 0.9831,
+      "box": [
+        116,
+        382,
+        671,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.9805,
+      "box": [
+        125,
+        406,
+        419,
+        432
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9642,
+      "box": [
+        127,
+        432,
+        439,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, General Construction, Autumn Ridge High School, 2008",
+      "score": 0.9956,
+      "box": [
+        116,
+        541,
+        894,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of masonry",
+      "score": 0.9571,
+      "box": [
+        132,
+        564,
+        459,
+        590
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "BRENTON DENNIS\nAZ, USA|+1-299-905-7862 |brenton.dennis@example.com\nWORK HISTORY\nConstruction Laborers, PrimeBuild Co., 2019.07–2021.06\n- Established construction benchmarks\n- Managed subcontractor coordination\nConstruction Laborers, Frontier Build Co., 2016.09–2018.08\n- Maintained tool storage areas\n- Helped position heavy materials\nEDUCATION\nHigh school graduate/GED, General Construction, Autumn Ridge High School, 2008\n• Studied fundamentals of masonry"
+}

@@ -1,0 +1,174 @@
+{
+  "id": "53088",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.857,
+  "n_lines": 12,
+  "mean_score": 0.9798,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ZACHARY BROOKS",
+      "score": 0.9841,
+      "box": [
+        115,
+        90,
+        438,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-987-479-6778|zachary.brooks@example.com",
+      "score": 0.9777,
+      "box": [
+        115,
+        150,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, LevelBuild Contractors, 2018.04–2021.01",
+      "score": 0.9748,
+      "box": [
+        115,
+        290,
+        717,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.983,
+      "box": [
+        125,
+        313,
+        439,
+        339
+      ]
+    },
+    {
+      "text": "- Developed construction workflows",
+      "score": 0.9769,
+      "box": [
+        127,
+        340,
+        458,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, Frontier Build Co., 2014.07–2017.04",
+      "score": 0.9657,
+      "box": [
+        115,
+        381,
+        671,
+        405
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.9787,
+      "box": [
+        125,
+        406,
+        556,
+        431
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.9925,
+      "box": [
+        126,
+        432,
+        446,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Practices, Shady Grove High School, 2012",
+      "score": 0.9908,
+      "box": [
+        116,
+        541,
+        895,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic tile installation",
+      "score": 0.9517,
+      "box": [
+        135,
+        567,
+        574,
+        587
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "ZACHARY BROOKS\nTX, USA|+1-987-479-6778|zachary.brooks@example.com\nWORK HISTORY\nConstruction Laborers, LevelBuild Contractors, 2018.04–2021.01\n- Reviewed engineering drawings\n- Developed construction workflows\nConstruction Laborers, Frontier Build Co., 2014.07–2017.04\n- Stacked and organized construction supplies\n- Secured materials with fasteners\nEDUCATION\nHigh school graduate/GED, Construction Practices, Shady Grove High School, 2012\n• Completed coursework in basic tile installation"
+}

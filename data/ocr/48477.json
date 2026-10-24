@@ -1,0 +1,213 @@
+{
+  "id": "48477",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.864,
+  "n_lines": 15,
+  "mean_score": 0.9846,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DANIEL SCHROEDER",
+      "score": 0.9772,
+      "box": [
+        116,
+        90,
+        464,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-377-305-9113 |daniel.schroeder@example.com",
+      "score": 0.9865,
+      "box": [
+        115,
+        150,
+        694,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerBuild Group, 2019.10–2023.01",
+      "score": 0.9848,
+      "box": [
+        114,
+        289,
+        680,
+        313
+      ]
+    },
+    {
+      "text": "- Established project documentation systems",
+      "score": 0.9818,
+      "box": [
+        126,
+        314,
+        544,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed and approved project plans",
+      "score": 0.9815,
+      "box": [
+        126,
+        339,
+        491,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidLine Construction, 2016.07–2019.10",
+      "score": 0.993,
+      "box": [
+        116,
+        382,
+        718,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding inspections",
+      "score": 0.9662,
+      "box": [
+        126,
+        406,
+        444,
+        431
+      ]
+    },
+    {
+      "text": "- Supervised junior laborers",
+      "score": 0.9936,
+      "box": [
+        126,
+        430,
+        386,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, Frontier Build Co., 2010.12–2014.04",
+      "score": 0.989,
+      "box": [
+        116,
+        472,
+        671,
+        495
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9766,
+      "box": [
+        125,
+        496,
+        492,
+        522
+      ]
+    },
+    {
+      "text": "- Monitored material usage",
+      "score": 0.9687,
+      "box": [
+        126,
+        521,
+        379,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Infrastructure, Clearhaven High School, 1999",
+      "score": 0.9942,
+      "box": [
+        116,
+        632,
+        918,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in concrete curing methods",
+      "score": 0.9901,
+      "box": [
+        133,
+        657,
+        618,
+        680
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "DANIEL SCHROEDER\nTN, USA|+1-377-305-9113 |daniel.schroeder@example.com\nWORK HISTORY\nConstruction Laborers, CornerBuild Group, 2019.10–2023.01\n- Established project documentation systems\n- Reviewed and approved project plans\nConstruction Laborers, SolidLine Construction, 2016.07–2019.10\n- Prepared scaffolding inspections\n- Supervised junior laborers\nConstruction Laborers, Frontier Build Co., 2010.12–2014.04\n- Assembled prefabricated components\n- Monitored material usage\nEDUCATION\nHigh school graduate/GED, Construction Infrastructure, Clearhaven High School, 1999\n• Completed coursework in concrete curing methods"
+}

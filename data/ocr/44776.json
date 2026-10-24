@@ -1,0 +1,187 @@
+{
+  "id": "44776",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.75,
+  "n_lines": 13,
+  "mean_score": 0.9793,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MATTHEW DUKE",
+      "score": 0.9854,
+      "box": [
+        116,
+        90,
+        393,
+        120
+      ]
+    },
+    {
+      "text": "PA, USA|+1-516-898-1141 |matthew.duke@example.com",
+      "score": 0.9772,
+      "box": [
+        115,
+        150,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Softframe Labs, 2020.10–2023.01",
+      "score": 0.987,
+      "box": [
+        114,
+        288,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9474,
+      "box": [
+        125,
+        312,
+        368,
+        339
+      ]
+    },
+    {
+      "text": "- Designed high-availability systems",
+      "score": 0.9813,
+      "box": [
+        126,
+        339,
+        461,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Datagrid Labs, 2015.06–207.10",
+      "score": 0.9439,
+      "box": [
+        116,
+        382,
+        625,
+        405
+      ]
+    },
+    {
+      "text": "- Wrote command-line tools",
+      "score": 0.9867,
+      "box": [
+        125,
+        405,
+        386,
+        431
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9945,
+      "box": [
+        126,
+        429,
+        340,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Goldenfield University, 2007",
+      "score": 0.9694,
+      "box": [
+        115,
+        541,
+        487,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in real-time systems",
+      "score": 0.9925,
+      "box": [
+        133,
+        565,
+        553,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in exception management",
+      "score": 0.9847,
+      "box": [
+        134,
+        590,
+        608,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "MATTHEW DUKE\nPA, USA|+1-516-898-1141 |matthew.duke@example.com\nWORK HISTORY\nSoftware Developers, Softframe Labs, 2020.10–2023.01\n- Built distributed systems\n- Designed high-availability systems\nSoftware Developers, Datagrid Labs, 2015.06–207.10\n- Wrote command-line tools\n- Updated routing logic\nEDUCATION\nBachelor's, Goldenfield University, 2007\n• Completed coursework in real-time systems\n• Completed coursework in exception management"
+}

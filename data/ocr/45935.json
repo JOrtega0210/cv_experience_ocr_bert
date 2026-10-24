@@ -1,0 +1,265 @@
+{
+  "id": "45935",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.885,
+  "n_lines": 19,
+  "mean_score": 0.9804,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "WILLIAM HAYNES",
+      "score": 0.9889,
+      "box": [
+        116,
+        90,
+        410,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-669-652-1488|william.haynes@example.com",
+      "score": 0.9805,
+      "box": [
+        115,
+        150,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9822,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Stonegrid Labs, 2019.07–2023.01",
+      "score": 0.9758,
+      "box": [
+        115,
+        290,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9791,
+      "box": [
+        127,
+        315,
+        461,
+        338
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.9828,
+      "box": [
+        126,
+        339,
+        428,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Software, 2016.01–2019.07",
+      "score": 0.9769,
+      "box": [
+        115,
+        381,
+        680,
+        406
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.9759,
+      "box": [
+        125,
+        406,
+        469,
+        431
+      ]
+    },
+    {
+      "text": "- Built core libraries",
+      "score": 0.9798,
+      "box": [
+        125,
+        429,
+        308,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Openbyte Systems, 2012.06–2016.01",
+      "score": 0.9888,
+      "box": [
+        115,
+        470,
+        671,
+        498
+      ]
+    },
+    {
+      "text": "- Improved system reliability",
+      "score": 0.969,
+      "box": [
+        126,
+        498,
+        388,
+        522
+      ]
+    },
+    {
+      "text": "- Implemented error handling frameworks",
+      "score": 0.9705,
+      "box": [
+        126,
+        521,
+        510,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Labs, 2008.11–2012.06",
+      "score": 0.9887,
+      "box": [
+        115,
+        563,
+        638,
+        588
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9734,
+      "box": [
+        126,
+        589,
+        604,
+        614
+      ]
+    },
+    {
+      "text": "- Implemented caching logic",
+      "score": 0.9889,
+      "box": [
+        126,
+        614,
+        390,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Brookwood University, 2008",
+      "score": 0.9727,
+      "box": [
+        114,
+        723,
+        486,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in thread synchronization",
+      "score": 0.9715,
+      "box": [
+        132,
+        748,
+        598,
+        771
+      ]
+    },
+    {
+      "text": "• Completed coursework in message queues",
+      "score": 0.9836,
+      "box": [
+        134,
+        773,
+        549,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "WILLIAM HAYNES\nPA, USA|+1-669-652-1488|william.haynes@example.com\nWORK HISTORY\nSoftware Developers, Stonegrid Labs, 2019.07–2023.01\n- Implemented service orchestration\n- Designed system architectures\nSoftware Developers, Stonepath Software, 2016.01–2019.07\n- Led backend platform development\n- Built core libraries\nSoftware Developers, Openbyte Systems, 2012.06–2016.01\n- Improved system reliability\n- Implemented error handling frameworks\nSoftware Developers, Codepath Labs, 2008.11–2012.06\n- Implemented basic features in existing codebases\n- Implemented caching logic\nEDUCATION\nBachelor's, Brookwood University, 2008\n• Completed coursework in thread synchronization\n• Completed coursework in message queues"
+}

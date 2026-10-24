@@ -1,0 +1,226 @@
+{
+  "id": "60425",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.881,
+  "n_lines": 16,
+  "mean_score": 0.9834,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOHN VAUGHAN",
+      "score": 0.9864,
+      "box": [
+        116,
+        90,
+        390,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-873-869-9392|john.vaughan@example.com",
+      "score": 0.9918,
+      "box": [
+        115,
+        150,
+        663,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9856,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Group, 2020.05–2023.01",
+      "score": 0.9953,
+      "box": [
+        115,
+        290,
+        667,
+        313
+      ]
+    },
+    {
+      "text": "- Established audit governance structures",
+      "score": 0.9872,
+      "box": [
+        125,
+        313,
+        513,
+        339
+      ]
+    },
+    {
+      "text": "- Directed budget planning cycles",
+      "score": 0.9782,
+      "box": [
+        126,
+        339,
+        439,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Services, 2017.09–2020.05",
+      "score": 0.9874,
+      "box": [
+        115,
+        382,
+        685,
+        405
+      ]
+    },
+    {
+      "text": "- Analyzed cost structures",
+      "score": 0.9829,
+      "box": [
+        125,
+        406,
+        371,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared cash flow statements",
+      "score": 0.9831,
+      "box": [
+        126,
+        430,
+        429,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Advisors, 2014.12–2017.09",
+      "score": 0.9952,
+      "box": [
+        115,
+        472,
+        697,
+        495
+      ]
+    },
+    {
+      "text": "-Maintained supporting documentation",
+      "score": 0.9761,
+      "box": [
+        125,
+        496,
+        490,
+        521
+      ]
+    },
+    {
+      "text": "- Filed financial documents",
+      "score": 0.9742,
+      "box": [
+        126,
+        521,
+        377,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Operations, Parkview University, 2017",
+      "score": 0.9703,
+      "box": [
+        114,
+        631,
+        670,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of management reporting",
+      "score": 0.978,
+      "box": [
+        132,
+        656,
+        589,
+        682
+      ]
+    },
+    {
+      "text": "• Studied principles of business strategy",
+      "score": 0.9638,
+      "box": [
+        134,
+        681,
+        503,
+        708
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JOHN VAUGHAN\nWI, USA|+1-873-869-9392|john.vaughan@example.com\nWORK HISTORY\nAccountants Auditors, ClearCount Group, 2020.05–2023.01\n- Established audit governance structures\n- Directed budget planning cycles\nAccountants Auditors, EverCount Services, 2017.09–2020.05\n- Analyzed cost structures\n- Prepared cash flow statements\nAccountants Auditors, FairBalance Advisors, 2014.12–2017.09\n-Maintained supporting documentation\n- Filed financial documents\nEDUCATION\nBachelor's, Business Operations, Parkview University, 2017\n• Studied fundamentals of management reporting\n• Studied principles of business strategy"
+}

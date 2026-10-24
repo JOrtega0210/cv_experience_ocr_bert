@@ -1,0 +1,265 @@
+{
+  "id": "24817",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.931,
+  "n_lines": 19,
+  "mean_score": 0.9803,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DEBRA MULLINS",
+      "score": 0.9885,
+      "box": [
+        117,
+        90,
+        395,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA|+1-657-493-4177 | debra.mullins@example.com",
+      "score": 0.9858,
+      "box": [
+        116,
+        152,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9807,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeWay Nursing Services, 2019.07–2023.01",
+      "score": 0.9788,
+      "box": [
+        115,
+        289,
+        713,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.9743,
+      "box": [
+        127,
+        315,
+        569,
+        338
+      ]
+    },
+    {
+      "text": "- Directed interdisciplinary workflow alignment",
+      "score": 0.9847,
+      "box": [
+        126,
+        339,
+        554,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeWay Nursing Services, 2015.12–2019.07",
+      "score": 0.975,
+      "box": [
+        116,
+        383,
+        724,
+        406
+      ]
+    },
+    {
+      "text": "- Directed nursing education initiatives",
+      "score": 0.9646,
+      "box": [
+        126,
+        406,
+        482,
+        431
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9916,
+      "box": [
+        126,
+        430,
+        472,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIWay Medical Group, 2012.05–2015.12",
+      "score": 0.9803,
+      "box": [
+        116,
+        473,
+        699,
+        497
+      ]
+    },
+    {
+      "text": "- Provided rehabilitation nursing care",
+      "score": 0.9779,
+      "box": [
+        125,
+        496,
+        470,
+        522
+      ]
+    },
+    {
+      "text": "- Managed patient advocacy tasks",
+      "score": 0.9645,
+      "box": [
+        127,
+        523,
+        445,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightPath Nursing Services, 2008.10–2012.05",
+      "score": 0.9887,
+      "box": [
+        116,
+        565,
+        737,
+        589
+      ]
+    },
+    {
+      "text": "– Monitored patient pain levels",
+      "score": 0.9495,
+      "box": [
+        125,
+        589,
+        409,
+        614
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.992,
+      "box": [
+        126,
+        614,
+        418,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Public Health, Silverview University, 2006",
+      "score": 0.9717,
+      "box": [
+        115,
+        725,
+        610,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in documentation standards",
+      "score": 0.9895,
+      "box": [
+        133,
+        749,
+        624,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of oxygen therapy",
+      "score": 0.9888,
+      "box": [
+        133,
+        772,
+        483,
+        799
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "DEBRA MULLINS\nMD, USA|+1-657-493-4177 | debra.mullins@example.com\nWORK HISTORY\nRegistered Nurses, LifeWay Nursing Services, 2019.07–2023.01\n- Implemented evidence-based practice models\n- Directed interdisciplinary workflow alignment\nRegistered Nurses, SafeWay Nursing Services, 2015.12–2019.07\n- Directed nursing education initiatives\n- Established care delivery standards\nRegistered Nurses, WelIWay Medical Group, 2012.05–2015.12\n- Provided rehabilitation nursing care\n- Managed patient advocacy tasks\nRegistered Nurses, BrightPath Nursing Services, 2008.10–2012.05\n– Monitored patient pain levels\n- Provided post-procedure care\nEDUCATION\nBachelor's, Public Health, Silverview University, 2006\n• Completed coursework in documentation standards\n• Studied principles of oxygen therapy"
+}

@@ -1,0 +1,161 @@
+{
+  "id": "00728",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.952,
+  "n_lines": 11,
+  "mean_score": 0.9883,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SKYLARSCHMIDT",
+      "score": 0.9993,
+      "box": [
+        116,
+        90,
+        418,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-714-845-7948|skylar.schmidt@example.com",
+      "score": 0.9924,
+      "box": [
+        116,
+        151,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Financial Group, 2021.06–2023.01",
+      "score": 0.9891,
+      "box": [
+        115,
+        289,
+        753,
+        313
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9842,
+      "box": [
+        126,
+        315,
+        418,
+        338
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9854,
+      "box": [
+        126,
+        338,
+        413,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Business Law, Brighton University, 2022",
+      "score": 0.98,
+      "box": [
+        115,
+        449,
+        581,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Corporate Finance, Evergreen University, 2020",
+      "score": 0.9817,
+      "box": [
+        115,
+        474,
+        661,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of depreciation methods",
+      "score": 0.992,
+      "box": [
+        134,
+        499,
+        579,
+        522
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of regulatory compliance",
+      "score": 0.9873,
+      "box": [
+        133,
+        523,
+        583,
+        547
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "SKYLARSCHMIDT\nAL, USA|+1-714-845-7948|skylar.schmidt@example.com\nWORK HISTORY\nAccountants Auditors, AccuCount Financial Group, 2021.06–2023.01\n- Processed journal corrections\n- Tracked budget expenditures\nEDUCATION\nMaster's, Business Law, Brighton University, 2022\nBachelor's, Corporate Finance, Evergreen University, 2020\n• Studied fundamentals of depreciation methods\n• Studied fundamentals of regulatory compliance"
+}

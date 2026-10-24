@@ -1,0 +1,187 @@
+{
+  "id": "34393",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.818,
+  "n_lines": 13,
+  "mean_score": 0.9799,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOHN EVANS",
+      "score": 0.975,
+      "box": [
+        116,
+        90,
+        336,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-785-527-9637 |john.evans@example.com",
+      "score": 0.9809,
+      "box": [
+        116,
+        151,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9791,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Advisors, 2020.10–2023.01",
+      "score": 0.9858,
+      "box": [
+        115,
+        289,
+        694,
+        313
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.9738,
+      "box": [
+        127,
+        315,
+        485,
+        338
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9794,
+      "box": [
+        126,
+        339,
+        502,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Group, 2018.07–2020.10",
+      "score": 0.988,
+      "box": [
+        114,
+        381,
+        699,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9829,
+      "box": [
+        125,
+        406,
+        366,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared expense reports",
+      "score": 0.9636,
+      "box": [
+        126,
+        430,
+        383,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Information Systems, Briarwood University, 2023",
+      "score": 0.9737,
+      "box": [
+        114,
+        539,
+        676,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in investment analysis basics",
+      "score": 0.9817,
+      "box": [
+        133,
+        565,
+        636,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in internal auditing",
+      "score": 0.9763,
+      "box": [
+        134,
+        590,
+        536,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JOHN EVANS\nNJ, USA|+1-785-527-9637 |john.evans@example.com\nWORK HISTORY\nAccountants Auditors, CoreLedger Advisors, 2020.10–2023.01\n- Designed financial policy frameworks\n- Led accounting transformation projects\nAccountants Auditors, Integrity Count Group, 2018.07–2020.10\n- Prepared journal entries\n- Prepared expense reports\nEDUCATION\nBachelor's, Information Systems, Briarwood University, 2023\n• Completed coursework in investment analysis basics\n• Completed coursework in internal auditing"
+}

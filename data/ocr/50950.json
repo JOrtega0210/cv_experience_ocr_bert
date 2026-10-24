@@ -1,0 +1,239 @@
+{
+  "id": "50950",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.855,
+  "n_lines": 17,
+  "mean_score": 0.9768,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRIAN EVANS",
+      "score": 0.9552,
+      "box": [
+        116,
+        90,
+        348,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-928-467-8199|brian.evans@example.com",
+      "score": 0.9836,
+      "box": [
+        115,
+        150,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudspring Systems, 2020.09–2023.01",
+      "score": 0.985,
+      "box": [
+        115,
+        289,
+        692,
+        314
+      ]
+    },
+    {
+      "text": "- Defined quality assurance frameworks",
+      "score": 0.9774,
+      "box": [
+        127,
+        315,
+        496,
+        338
+      ]
+    },
+    {
+      "text": "- Defined integration standards",
+      "score": 0.9597,
+      "box": [
+        127,
+        340,
+        415,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpoint Tech, 2017.09–2020.01",
+      "score": 0.9833,
+      "box": [
+        115,
+        381,
+        636,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented backend services",
+      "score": 0.9792,
+      "box": [
+        127,
+        407,
+        431,
+        430
+      ]
+    },
+    {
+      "text": "- Implemented error handling frameworks",
+      "score": 0.9902,
+      "box": [
+        126,
+        431,
+        511,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Openframe Digital 2014.03–2016.08",
+      "score": 0.9743,
+      "box": [
+        115,
+        471,
+        664,
+        496
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9467,
+      "box": [
+        127,
+        498,
+        340,
+        522
+      ]
+    },
+    {
+      "text": "- Assisted with database queries",
+      "score": 0.9893,
+      "box": [
+        126,
+        521,
+        431,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Master's, Lakeside University, 2008",
+      "score": 0.9841,
+      "box": [
+        114,
+        631,
+        447,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Oakridge University, 2006",
+      "score": 0.9521,
+      "box": [
+        115,
+        657,
+        465,
+        680
+      ]
+    },
+    {
+      "text": "• Studied principles of computational thinking",
+      "score": 0.9795,
+      "box": [
+        132,
+        681,
+        549,
+        706
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of responsive design",
+      "score": 0.9812,
+      "box": [
+        132,
+        706,
+        547,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "BRIAN EVANS\nTX, USA|+1-928-467-8199|brian.evans@example.com\nWORK HISTORY\nSoftware Developers, Cloudspring Systems, 2020.09–2023.01\n- Defined quality assurance frameworks\n- Defined integration standards\nSoftware Developers, Flowpoint Tech, 2017.09–2020.01\n- Implemented backend services\n- Implemented error handling frameworks\nSoftware Developers, Openframe Digital 2014.03–2016.08\n- Updated routing logic\n- Assisted with database queries\nEDUCATION\nMaster's, Lakeside University, 2008\nBachelor's, Oakridge University, 2006\n• Studied principles of computational thinking\n• Studied fundamentals of responsive design"
+}

@@ -1,0 +1,174 @@
+{
+  "id": "11881",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.958,
+  "n_lines": 12,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JORDAN GOODMAN",
+      "score": 0.9817,
+      "box": [
+        116,
+        90,
+        446,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-304-935-3495|jordan.goodman@example.com",
+      "score": 0.9864,
+      "box": [
+        116,
+        151,
+        687,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9848,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongCraft Construction, 2019.01–2020.12",
+      "score": 0.9726,
+      "box": [
+        115,
+        290,
+        739,
+        313
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9695,
+      "box": [
+        126,
+        315,
+        394,
+        339
+      ]
+    },
+    {
+      "text": "- Developed cost estimation models",
+      "score": 0.9866,
+      "box": [
+        127,
+        340,
+        460,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardRock Construction, 2016.07–2018.07",
+      "score": 0.9814,
+      "box": [
+        115,
+        382,
+        725,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9742,
+      "box": [
+        125,
+        406,
+        493,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9757,
+      "box": [
+        126,
+        432,
+        425,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Mechanical Technology, Maple Ridge High School, 2010",
+      "score": 0.991,
+      "box": [
+        116,
+        541,
+        901,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction materials storage",
+      "score": 0.9875,
+      "box": [
+        132,
+        565,
+        668,
+        590
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "JORDAN GOODMAN\nFL, USA|+1-304-935-3495|jordan.goodman@example.com\nWORK HISTORY\nConstruction Laborers, StrongCraft Construction, 2019.01–2020.12\n- Directed project scheduling\n- Developed cost estimation models\nConstruction Laborers, HardRock Construction, 2016.07–2018.07\n- Assisted with equipment maintenance\n- Prepared scaffolding platforms\nEDUCATION\nHigh school graduate/GED, Mechanical Technology, Maple Ridge High School, 2010\n• Completed coursework in construction materials storage"
+}

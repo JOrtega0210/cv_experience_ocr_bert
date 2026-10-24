@@ -1,0 +1,135 @@
+{
+  "id": "16495",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.871,
+  "n_lines": 9,
+  "mean_score": 0.9807,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SAMUEL DELACRUZ",
+      "score": 0.9812,
+      "box": [
+        116,
+        90,
+        451,
+        120
+      ]
+    },
+    {
+      "text": "GA, USA|+1-371-240-9685| samuel.delacruz@example.com",
+      "score": 0.9806,
+      "box": [
+        116,
+        151,
+        693,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9809,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureStep Builders, 2020.01–2022.07",
+      "score": 0.9733,
+      "box": [
+        115,
+        290,
+        677,
+        313
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.9658,
+      "box": [
+        126,
+        315,
+        442,
+        338
+      ]
+    },
+    {
+      "text": "- Checked inventory of supplies",
+      "score": 0.9735,
+      "box": [
+        126,
+        339,
+        421,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Technology, Fairview High School, 2017",
+      "score": 0.9852,
+      "box": [
+        116,
+        449,
+        872,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of structural connections",
+      "score": 0.987,
+      "box": [
+        132,
+        472,
+        583,
+        496
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "SAMUEL DELACRUZ\nGA, USA|+1-371-240-9685| samuel.delacruz@example.com\nWORK HISTORY\nConstruction Laborers, SureStep Builders, 2020.01–2022.07\n- Handled delivery documentation\n- Checked inventory of supplies\nEDUCATION\nHigh school graduate/GED, Construction Technology, Fairview High School, 2017\n• Studied fundamentals of structural connections"
+}

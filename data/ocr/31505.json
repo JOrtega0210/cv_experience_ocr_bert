@@ -1,0 +1,239 @@
+{
+  "id": "31505",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.845,
+  "n_lines": 17,
+  "mean_score": 0.9806,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KIMBERLY NOVAK",
+      "score": 0.9866,
+      "box": [
+        116,
+        90,
+        423,
+        121
+      ]
+    },
+    {
+      "text": "MT, USA |+1-939-372-6733 |kimberly.novak@example.com",
+      "score": 0.974,
+      "box": [
+        116,
+        152,
+        681,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Labs, 2020.04–2023.01",
+      "score": 0.9889,
+      "box": [
+        116,
+        289,
+        616,
+        312
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.9791,
+      "box": [
+        126,
+        314,
+        538,
+        339
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9639,
+      "box": [
+        126,
+        338,
+        410,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Corelink Software, 2017.07–2020.04",
+      "score": 0.9862,
+      "box": [
+        115,
+        381,
+        661,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented error handling frameworks",
+      "score": 0.9792,
+      "box": [
+        126,
+        406,
+        510,
+        431
+      ]
+    },
+    {
+      "text": "- Improved code coverage",
+      "score": 0.9847,
+      "box": [
+        126,
+        430,
+        372,
+        458
+      ]
+    },
+    {
+      "text": "Software Developers, Clearbyte Software, 2014.10–2017.07",
+      "score": 0.9886,
+      "box": [
+        116,
+        472,
+        674,
+        496
+      ]
+    },
+    {
+      "text": "- Optimized simple queries",
+      "score": 0.971,
+      "box": [
+        127,
+        498,
+        377,
+        521
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.971,
+      "box": [
+        126,
+        521,
+        448,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        585,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Cloverfield University, 2017",
+      "score": 0.9882,
+      "box": [
+        115,
+        632,
+        462,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Wildflower University, 2015",
+      "score": 0.968,
+      "box": [
+        114,
+        656,
+        478,
+        681
+      ]
+    },
+    {
+      "text": "•Completed coursework in system programming",
+      "score": 0.9719,
+      "box": [
+        132,
+        681,
+        583,
+        707
+      ]
+    },
+    {
+      "text": "• Studied principles of caching strategies",
+      "score": 0.9838,
+      "box": [
+        132,
+        706,
+        510,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "KIMBERLY NOVAK\nMT, USA |+1-939-372-6733 |kimberly.novak@example.com\nWORK HISTORY\nSoftware Developers, Netfield Labs, 2020.04–2023.01\n- Implemented long-term maintenance plans\n- Defined scalability roadmaps\nSoftware Developers, Corelink Software, 2017.07–2020.04\n- Implemented error handling frameworks\n- Improved code coverage\nSoftware Developers, Clearbyte Software, 2014.10–2017.07\n- Optimized simple queries\n- Performed basic APl integrations\nEDUCATION\nMaster's, Cloverfield University, 2017\nBachelor's, Wildflower University, 2015\n•Completed coursework in system programming\n• Studied principles of caching strategies"
+}

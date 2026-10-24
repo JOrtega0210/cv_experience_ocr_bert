@@ -1,0 +1,148 @@
+{
+  "id": "00054",
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "PP-OCRv5_mobile_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.27,
+  "n_lines": 10,
+  "mean_score": 0.9859,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ASHLEY GILBERT",
+      "score": 0.9923,
+      "box": [
+        117,
+        91,
+        409,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-767-636-7239 | ashley.gilbert@example.com",
+      "score": 0.9647,
+      "box": [
+        117,
+        150,
+        660,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9949,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Steps Academy, 2019.03–2020.08",
+      "score": 0.9748,
+      "box": [
+        116,
+        288,
+        849,
+        318
+      ]
+    },
+    {
+      "text": "- Supervised transitions between lessons",
+      "score": 0.9948,
+      "box": [
+        127,
+        316,
+        509,
+        340
+      ]
+    },
+    {
+      "text": "- Reviewed lesson objectives",
+      "score": 0.99,
+      "box": [
+        127,
+        339,
+        399,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Preparation, Meadowridge University, 2015",
+      "score": 0.995,
+      "box": [
+        114,
+        445,
+        726,
+        476
+      ]
+    },
+    {
+      "text": "• Studied foundational pedagogy concepts",
+      "score": 0.9722,
+      "box": [
+        128,
+        473,
+        525,
+        501
+      ]
+    },
+    {
+      "text": "• Studied foundational learning strategies",
+      "score": 0.9815,
+      "box": [
+        130,
+        496,
+        515,
+        527
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ASHLEY GILBERT\nAL, USA | +1-767-636-7239 | ashley.gilbert@example.com\nWORK HISTORY\nElementary Middle School Teachers, Sunny Steps Academy, 2019.03–2020.08\n- Supervised transitions between lessons\n- Reviewed lesson objectives\nEDUCATION\nBachelor's, Education Preparation, Meadowridge University, 2015\n• Studied foundational pedagogy concepts\n• Studied foundational learning strategies"
+}

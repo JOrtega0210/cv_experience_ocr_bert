@@ -1,0 +1,187 @@
+{
+  "id": "53426",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.838,
+  "n_lines": 13,
+  "mean_score": 0.9832,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JORDAN RAMSEY",
+      "score": 0.9856,
+      "box": [
+        114,
+        87,
+        414,
+        123
+      ]
+    },
+    {
+      "text": "TX, USA|+1-325-974-1580 |jordan.ramsey@example.com",
+      "score": 0.9743,
+      "box": [
+        115,
+        150,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9833,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearStone Builders, 2020.07–2023.01",
+      "score": 0.9805,
+      "box": [
+        114,
+        288,
+        692,
+        313
+      ]
+    },
+    {
+      "text": "-Directed construction audits",
+      "score": 0.9958,
+      "box": [
+        126,
+        314,
+        400,
+        336
+      ]
+    },
+    {
+      "text": "- Led structural installation projects",
+      "score": 0.9803,
+      "box": [
+        126,
+        338,
+        453,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronFrame Construction, 2015.06–2017.12",
+      "score": 0.9819,
+      "box": [
+        115,
+        381,
+        728,
+        405
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.9886,
+      "box": [
+        125,
+        406,
+        503,
+        431
+      ]
+    },
+    {
+      "text": "- Moved equipment between work zones",
+      "score": 0.9761,
+      "box": [
+        126,
+        431,
+        504,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Surveying Technology, Greenway University, 2012",
+      "score": 0.9727,
+      "box": [
+        115,
+        540,
+        837,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of electrical systems basics",
+      "score": 0.9924,
+      "box": [
+        133,
+        566,
+        572,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic plumbing concepts",
+      "score": 0.9718,
+      "box": [
+        133,
+        590,
+        618,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JORDAN RAMSEY\nTX, USA|+1-325-974-1580 |jordan.ramsey@example.com\nWORK HISTORY\nConstruction Laborers, ClearStone Builders, 2020.07–2023.01\n-Directed construction audits\n- Led structural installation projects\nConstruction Laborers, IronFrame Construction, 2015.06–2017.12\n- Handled power tools under supervision\n- Moved equipment between work zones\nEDUCATION\nSome college (no degree), Surveying Technology, Greenway University, 2012\n• Studied principles of electrical systems basics\n• Completed coursework in basic plumbing concepts"
+}

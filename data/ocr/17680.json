@@ -1,0 +1,148 @@
+{
+  "id": "17680",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.823,
+  "n_lines": 10,
+  "mean_score": 0.9809,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DYLAN HALE",
+      "score": 0.9732,
+      "box": [
+        116,
+        90,
+        334,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-966-930-3079 |dylan.hale@example.com",
+      "score": 0.9864,
+      "box": [
+        116,
+        151,
+        625,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9854,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Advisors Group, 2020.02–2023.01",
+      "score": 0.9846,
+      "box": [
+        114,
+        289,
+        740,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9733,
+      "box": [
+        126,
+        314,
+        413,
+        339
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.9891,
+      "box": [
+        126,
+        339,
+        420,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Accounting, Cedar Valley University, 2018",
+      "score": 0.9629,
+      "box": [
+        114,
+        447,
+        705,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of assurance services",
+      "score": 0.9792,
+      "box": [
+        132,
+        472,
+        559,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of transfer pricing",
+      "score": 0.976,
+      "box": [
+        134,
+        499,
+        480,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "DYLAN HALE\nIL, USA|+1-966-930-3079 |dylan.hale@example.com\nWORK HISTORY\nAccountants Auditors, FairCount Advisors Group, 2020.02–2023.01\n- Assisted with budget tracking\n- Reconciled subsidiary ledgers\nEDUCATION\nBachelor's, Financial Accounting, Cedar Valley University, 2018\n• Studied fundamentals of assurance services\n• Studied principles of transfer pricing"
+}

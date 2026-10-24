@@ -1,0 +1,226 @@
+{
+  "id": "59779",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.852,
+  "n_lines": 16,
+  "mean_score": 0.9789,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "VANESSA SUTTON",
+      "score": 0.9738,
+      "box": [
+        115,
+        90,
+        427,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-350-353-3417 |vanessa.sutton@example.com",
+      "score": 0.9756,
+      "box": [
+        114,
+        150,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunPath Nursing, 2020.06–2023.01",
+      "score": 0.967,
+      "box": [
+        115,
+        289,
+        631,
+        314
+      ]
+    },
+    {
+      "text": "- Managed long-term care strategies",
+      "score": 0.9858,
+      "box": [
+        126,
+        314,
+        466,
+        339
+      ]
+    },
+    {
+      "text": "- Directed interdisciplinary workflow alignment",
+      "score": 0.9737,
+      "box": [
+        126,
+        339,
+        554,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeBridge Nursing, 2017.01–2019.09",
+      "score": 0.977,
+      "box": [
+        115,
+        381,
+        647,
+        406
+      ]
+    },
+    {
+      "text": "- Supervised medication administration",
+      "score": 0.9867,
+      "box": [
+        127,
+        407,
+        489,
+        430
+      ]
+    },
+    {
+      "text": "- Administered blood transfusions",
+      "score": 0.9767,
+      "box": [
+        126,
+        432,
+        439,
+        453
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunPath Care Group, 2013.07–2016.03",
+      "score": 0.9903,
+      "box": [
+        115,
+        471,
+        670,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9703,
+      "box": [
+        125,
+        496,
+        372,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared discharge instructions",
+      "score": 0.9574,
+      "box": [
+        126,
+        521,
+        436,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing Practice, Rosewood University, 2003",
+      "score": 0.985,
+      "box": [
+        114,
+        631,
+        644,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient discharge planning",
+      "score": 0.9715,
+      "box": [
+        132,
+        656,
+        632,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of evidence-based practice",
+      "score": 0.9892,
+      "box": [
+        134,
+        681,
+        568,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "VANESSA SUTTON\nWA, USA|+1-350-353-3417 |vanessa.sutton@example.com\nWORK HISTORY\nRegistered Nurses, SunPath Nursing, 2020.06–2023.01\n- Managed long-term care strategies\n- Directed interdisciplinary workflow alignment\nRegistered Nurses, LifeBridge Nursing, 2017.01–2019.09\n- Supervised medication administration\n- Administered blood transfusions\nRegistered Nurses, SunPath Care Group, 2013.07–2016.03\n- Prepared sterile supplies\n- Prepared discharge instructions\nEDUCATION\nBachelor's, Nursing Practice, Rosewood University, 2003\n• Completed coursework in patient discharge planning\n• Studied principles of evidence-based practice"
+}

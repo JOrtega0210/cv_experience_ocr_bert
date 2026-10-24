@@ -1,0 +1,187 @@
+{
+  "id": "60462",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.822,
+  "n_lines": 13,
+  "mean_score": 0.9815,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DAISY HOLLAND",
+      "score": 0.9859,
+      "box": [
+        116,
+        90,
+        393,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-277-268-7434|daisy.holland@example.com",
+      "score": 0.9797,
+      "box": [
+        115,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeSpring Medical Services, 2020.12–2023.01",
+      "score": 0.9717,
+      "box": [
+        115,
+        289,
+        732,
+        314
+      ]
+    },
+    {
+      "text": "- Managed clinical compliance programs",
+      "score": 0.9872,
+      "box": [
+        126,
+        314,
+        502,
+        340
+      ]
+    },
+    {
+      "text": "- Directed nursing education initiatives",
+      "score": 0.9874,
+      "box": [
+        126,
+        339,
+        482,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, TruePath Health Services, 2018.11–2020.12",
+      "score": 0.976,
+      "box": [
+        115,
+        381,
+        714,
+        406
+      ]
+    },
+    {
+      "text": "-Monitored oxygen therapy",
+      "score": 0.9849,
+      "box": [
+        125,
+        404,
+        384,
+        433
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.9722,
+      "box": [
+        126,
+        430,
+        418,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Life Sciences, Forest Ridge University, 2021",
+      "score": 0.9725,
+      "box": [
+        115,
+        541,
+        634,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of time management in care",
+      "score": 0.967,
+      "box": [
+        132,
+        565,
+        578,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of emergency nursing",
+      "score": 0.9921,
+      "box": [
+        133,
+        590,
+        519,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "DAISY HOLLAND\nWI, USA|+1-277-268-7434|daisy.holland@example.com\nWORK HISTORY\nRegistered Nurses, LifeSpring Medical Services, 2020.12–2023.01\n- Managed clinical compliance programs\n- Directed nursing education initiatives\nRegistered Nurses, TruePath Health Services, 2018.11–2020.12\n-Monitored oxygen therapy\n- Provided post-procedure care\nEDUCATION\nBachelor's, Life Sciences, Forest Ridge University, 2021\n• Studied principles of time management in care\n• Studied principles of emergency nursing"
+}

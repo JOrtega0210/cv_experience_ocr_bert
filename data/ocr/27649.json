@@ -1,0 +1,187 @@
+{
+  "id": "27649",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.786,
+  "n_lines": 13,
+  "mean_score": 0.9855,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RUSSELL TERRELL",
+      "score": 0.9747,
+      "box": [
+        116,
+        90,
+        438,
+        120
+      ]
+    },
+    {
+      "text": "MI, USA|+1-813-748-8171 |russell.terrell@example.com",
+      "score": 0.9728,
+      "box": [
+        116,
+        152,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9897,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Labs, 2019.03–2021.01",
+      "score": 0.994,
+      "box": [
+        117,
+        291,
+        639,
+        311
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.9928,
+      "box": [
+        127,
+        314,
+        427,
+        338
+      ]
+    },
+    {
+      "text": "- Designed configuration management systems",
+      "score": 0.9894,
+      "box": [
+        126,
+        339,
+        566,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Solutions, 2016.07–2018.05",
+      "score": 0.9964,
+      "box": [
+        116,
+        382,
+        653,
+        405
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.9717,
+      "box": [
+        127,
+        408,
+        462,
+        431
+      ]
+    },
+    {
+      "text": "- Updated configuration files",
+      "score": 0.993,
+      "box": [
+        126,
+        433,
+        389,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Some college (no degree), Greenway University, 2016",
+      "score": 0.9799,
+      "box": [
+        116,
+        541,
+        620,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of programming paradigms",
+      "score": 0.9778,
+      "box": [
+        132,
+        565,
+        605,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of data analysis",
+      "score": 0.9808,
+      "box": [
+        133,
+        590,
+        501,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "RUSSELL TERRELL\nMI, USA|+1-813-748-8171 |russell.terrell@example.com\nWORK HISTORY\nSoftware Developers, Corewave Labs, 2019.03–2021.01\n- Designed system architectures\n- Designed configuration management systems\nSoftware Developers, Netline Solutions, 2016.07–2018.05\n- Updated application dependencies\n- Updated configuration files\nEDUCATION\nSome college (no degree), Greenway University, 2016\n• Studied fundamentals of programming paradigms\n• Studied fundamentals of data analysis"
+}

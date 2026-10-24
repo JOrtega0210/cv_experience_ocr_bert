@@ -1,0 +1,265 @@
+{
+  "id": "16300",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.04,
+  "n_lines": 19,
+  "mean_score": 0.98,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KEVIN REESE",
+      "score": 0.975,
+      "box": [
+        116,
+        90,
+        343,
+        121
+      ]
+    },
+    {
+      "text": "GA,USA|+1-634-857-4958|kevin.reese@example.com",
+      "score": 0.9615,
+      "box": [
+        115,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Accounting, 2020.06–2023.01",
+      "score": 0.9678,
+      "box": [
+        115,
+        290,
+        743,
+        313
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9824,
+      "box": [
+        126,
+        315,
+        512,
+        338
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9897,
+      "box": [
+        126,
+        339,
+        428,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Financial, 2017.11–2020.06",
+      "score": 0.9789,
+      "box": [
+        114,
+        381,
+        716,
+        406
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9746,
+      "box": [
+        126,
+        406,
+        489,
+        430
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9904,
+      "box": [
+        126,
+        430,
+        556,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Financial, 2015.04–2017.11",
+      "score": 0.9826,
+      "box": [
+        115,
+        472,
+        710,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed tax provisions",
+      "score": 0.981,
+      "box": [
+        125,
+        496,
+        368,
+        521
+      ]
+    },
+    {
+      "text": "- Performed revenue recognition analysis",
+      "score": 0.9822,
+      "box": [
+        126,
+        521,
+        510,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Co., 2012.08–2015.04",
+      "score": 0.9611,
+      "box": [
+        115,
+        565,
+        674,
+        588
+      ]
+    },
+    {
+      "text": "- Compiled financial schedules",
+      "score": 0.9872,
+      "box": [
+        127,
+        590,
+        413,
+        613
+      ]
+    },
+    {
+      "text": "- Updated accounting policies documentation",
+      "score": 0.9804,
+      "box": [
+        127,
+        615,
+        546,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Corporate Finance, Silverview University, 2012",
+      "score": 0.9688,
+      "box": [
+        114,
+        723,
+        660,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of assurance services",
+      "score": 0.9904,
+      "box": [
+        133,
+        748,
+        557,
+        770
+      ]
+    },
+    {
+      "text": "• Completed coursework in cost accounting",
+      "score": 0.9813,
+      "box": [
+        134,
+        772,
+        534,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "KEVIN REESE\nGA,USA|+1-634-857-4958|kevin.reese@example.com\nWORK HISTORY\nAccountants Auditors, Balanced Path Accounting, 2020.06–2023.01\n- Designed financial control environments\n- Led audit planning governance\nAccountants Auditors, OpenBalance Financial, 2017.11–2020.06\n- Directed financial system architecture\n- Directed accounting system implementations\nAccountants Auditors, SolidBalance Financial, 2015.04–2017.11\n- Reviewed tax provisions\n- Performed revenue recognition analysis\nAccountants Auditors, Integrity Count Co., 2012.08–2015.04\n- Compiled financial schedules\n- Updated accounting policies documentation\nEDUCATION\nBachelor's, Corporate Finance, Silverview University, 2012\n• Studied fundamentals of assurance services\n• Completed coursework in cost accounting"
+}

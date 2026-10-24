@@ -1,0 +1,213 @@
+{
+  "id": "02446",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.977,
+  "n_lines": 15,
+  "mean_score": 0.9799,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RONALD MCINTYRE",
+      "score": 0.9872,
+      "box": [
+        116,
+        90,
+        444,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-42-412-1412 |ronald.mcintyre@example.com",
+      "score": 0.9852,
+      "box": [
+        116,
+        152,
+        683,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidBuild Group, 2020.10–2023.01",
+      "score": 0.9899,
+      "box": [
+        115,
+        290,
+        663,
+        314
+      ]
+    },
+    {
+      "text": "- Managed large-scale installations",
+      "score": 0.9548,
+      "box": [
+        126,
+        315,
+        452,
+        338
+      ]
+    },
+    {
+      "text": "- Supervised multiple work crews",
+      "score": 0.9852,
+      "box": [
+        127,
+        340,
+        435,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongPoint Builders, 2017.12–2020.03",
+      "score": 0.986,
+      "box": [
+        115,
+        382,
+        698,
+        406
+      ]
+    },
+    {
+      "text": "- Constructed temporary structures",
+      "score": 0.9702,
+      "box": [
+        125,
+        406,
+        452,
+        431
+      ]
+    },
+    {
+      "text": "- Performed masonry work",
+      "score": 0.9745,
+      "box": [
+        125,
+        429,
+        377,
+        458
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueStone Builders, 2015.01–2017.04",
+      "score": 0.9797,
+      "box": [
+        115,
+        472,
+        687,
+        495
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9786,
+      "box": [
+        124,
+        496,
+        416,
+        521
+      ]
+    },
+    {
+      "text": "-Set up ladders and basic scaffolding",
+      "score": 0.9722,
+      "box": [
+        125,
+        521,
+        476,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Civil Technology, Clear Spring High School, 2012",
+      "score": 0.9736,
+      "box": [
+        116,
+        632,
+        834,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction quality assurance",
+      "score": 0.9767,
+      "box": [
+        132,
+        655,
+        660,
+        682
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "RONALD MCINTYRE\nAR, USA|+1-42-412-1412 |ronald.mcintyre@example.com\nWORK HISTORY\nConstruction Laborers, SolidBuild Group, 2020.10–2023.01\n- Managed large-scale installations\n- Supervised multiple work crews\nConstruction Laborers, StrongPoint Builders, 2017.12–2020.03\n- Constructed temporary structures\n- Performed masonry work\nConstruction Laborers, TrueStone Builders, 2015.01–2017.04\n- Set up workstations for crews\n-Set up ladders and basic scaffolding\nEDUCATION\nHigh school graduate/GED, Civil Technology, Clear Spring High School, 2012\n• Studied fundamentals of construction quality assurance"
+}

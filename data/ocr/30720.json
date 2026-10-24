@@ -1,0 +1,252 @@
+{
+  "id": "30720",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.001,
+  "n_lines": 18,
+  "mean_score": 0.9814,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DYRON WELLS",
+      "score": 0.9594,
+      "box": [
+        116,
+        90,
+        365,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA |+1-602-280-9958|dyron.wells@example.com",
+      "score": 0.9664,
+      "box": [
+        115,
+        150,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerCraft Builders, 2019.05–2023.01",
+      "score": 0.98,
+      "box": [
+        115,
+        290,
+        697,
+        313
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.9822,
+      "box": [
+        125,
+        313,
+        488,
+        337
+      ]
+    },
+    {
+      "text": "- Directed installation methodologies",
+      "score": 0.9818,
+      "box": [
+        126,
+        338,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Stronghold Construction, 2015.09–2019.05",
+      "score": 0.978,
+      "box": [
+        115,
+        381,
+        732,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed and approved project plans",
+      "score": 0.9901,
+      "box": [
+        125,
+        406,
+        491,
+        431
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9906,
+      "box": [
+        126,
+        432,
+        458,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidRise Contractors, 2010.09–2014.06",
+      "score": 0.9796,
+      "box": [
+        115,
+        472,
+        710,
+        496
+      ]
+    },
+    {
+      "text": "- Installed drywall systems",
+      "score": 0.987,
+      "box": [
+        125,
+        496,
+        375,
+        521
+      ]
+    },
+    {
+      "text": "- Installed door and window frames",
+      "score": 0.9732,
+      "box": [
+        126,
+        522,
+        452,
+        544
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearBuild Construction, 2005.08–2009.05",
+      "score": 0.971,
+      "box": [
+        114,
+        563,
+        728,
+        588
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9758,
+      "box": [
+        125,
+        588,
+        406,
+        615
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.9809,
+      "box": [
+        126,
+        613,
+        475,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Welding Technology, Cedar Valley High School, 1997",
+      "score": 0.9882,
+      "box": [
+        116,
+        725,
+        873,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in building maintenance basics",
+      "score": 0.998,
+      "box": [
+        134,
+        749,
+        651,
+        772
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "DYRON WELLS\nMO, USA |+1-602-280-9958|dyron.wells@example.com\nWORK HISTORY\nConstruction Laborers, CornerCraft Builders, 2019.05–2023.01\n- Established construction benchmarks\n- Directed installation methodologies\nConstruction Laborers, Stronghold Construction, 2015.09–2019.05\n- Reviewed and approved project plans\n- Developed construction standards\nConstruction Laborers, SolidRise Contractors, 2010.09–2014.06\n- Installed drywall systems\n- Installed door and window frames\nConstruction Laborers, ClearBuild Construction, 2005.08–2009.05\n- Installed temporary supports\n- Marked measurements on materials\nEDUCATION\nHigh school graduate/GED, Welding Technology, Cedar Valley High School, 1997\n• Completed coursework in building maintenance basics"
+}

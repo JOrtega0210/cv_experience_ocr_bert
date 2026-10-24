@@ -1,0 +1,148 @@
+{
+  "id": "27643",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.778,
+  "n_lines": 10,
+  "mean_score": 0.9817,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSEPH PALMER",
+      "score": 0.9877,
+      "box": [
+        116,
+        90,
+        404,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-325-609-4018|joseph.palmer@example.com",
+      "score": 0.9773,
+      "box": [
+        116,
+        152,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9814,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverSpring Health Services, 2019.09–2020.04",
+      "score": 0.9773,
+      "box": [
+        116,
+        290,
+        731,
+        313
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9649,
+      "box": [
+        126,
+        314,
+        435,
+        339
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.9814,
+      "box": [
+        127,
+        340,
+        484,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Biological Sciences, Shady Grove University, 2015",
+      "score": 0.9829,
+      "box": [
+        115,
+        447,
+        837,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of interdisciplinary care",
+      "score": 0.9856,
+      "box": [
+        132,
+        472,
+        570,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of clinical decision making",
+      "score": 0.9805,
+      "box": [
+        132,
+        497,
+        596,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JOSEPH PALMER\nMI, USA|+1-325-609-4018|joseph.palmer@example.com\nWORK HISTORY\nRegistered Nurses, EverSpring Health Services, 2019.09–2020.04\n- Monitored patient dietary needs\n- Administered prescribed medications\nEDUCATION\nSome college (no degree), Biological Sciences, Shady Grove University, 2015\n• Studied fundamentals of interdisciplinary care\n• Studied fundamentals of clinical decision making"
+}

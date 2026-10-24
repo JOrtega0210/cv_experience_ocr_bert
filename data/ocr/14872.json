@@ -1,0 +1,200 @@
+{
+  "id": "14872",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.993,
+  "n_lines": 14,
+  "mean_score": 0.985,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DUSTIN LESTER",
+      "score": 0.9775,
+      "box": [
+        117,
+        90,
+        384,
+        121
+      ]
+    },
+    {
+      "text": "GA,USA|+1-296-843-3058|dustin.lester@example.com",
+      "score": 0.9795,
+      "box": [
+        115,
+        150,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Bridge School, 2021.05–2023.01",
+      "score": 0.9801,
+      "box": [
+        115,
+        290,
+        853,
+        313
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.9928,
+      "box": [
+        126,
+        315,
+        534,
+        338
+      ]
+    },
+    {
+      "text": "- Led instructional design reviews",
+      "score": 0.9909,
+      "box": [
+        126,
+        339,
+        439,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Star Academy, 2017.01–2018.09",
+      "score": 0.9897,
+      "box": [
+        115,
+        381,
+        834,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared daily lesson plans aligned with curriculum guidelines",
+      "score": 0.9898,
+      "box": [
+        126,
+        406,
+        716,
+        431
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9755,
+      "box": [
+        126,
+        430,
+        398,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, General Learning Studies, Brighton University, 2008",
+      "score": 0.9753,
+      "box": [
+        115,
+        541,
+        689,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Support, Windcrest University, 2006",
+      "score": 0.9825,
+      "box": [
+        115,
+        566,
+        674,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of lesson coherence",
+      "score": 0.9931,
+      "box": [
+        133,
+        591,
+        506,
+        614
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional review methods",
+      "score": 0.9817,
+      "box": [
+        134,
+        616,
+        653,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "DUSTIN LESTER\nGA,USA|+1-296-843-3058|dustin.lester@example.com\nWORK HISTORY\nElementary Middle School Teachers, Learning Bridge School, 2021.05–2023.01\n- Developed instructional evaluation metrics\n- Led instructional design reviews\nElementary Middle School Teachers, Future Star Academy, 2017.01–2018.09\n- Prepared daily lesson plans aligned with curriculum guidelines\n- Recorded student feedback\nEDUCATION\nMaster's, General Learning Studies, Brighton University, 2008\nBachelor's, Educational Support, Windcrest University, 2006\n• Studied principles of lesson coherence\n• Completed coursework in instructional review methods"
+}

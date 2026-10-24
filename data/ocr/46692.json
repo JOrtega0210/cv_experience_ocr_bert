@@ -1,0 +1,135 @@
+{
+  "id": "46692",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.783,
+  "n_lines": 9,
+  "mean_score": 0.9811,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CHRISTOPHER BERNARD",
+      "score": 0.9811,
+      "box": [
+        117,
+        90,
+        536,
+        120
+      ]
+    },
+    {
+      "text": "PA, USA|+1-208-629-8935 |christopher.bernard@example.com",
+      "score": 0.9779,
+      "box": [
+        115,
+        150,
+        721,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9692,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftLine Construction, 2022.01–2022.02",
+      "score": 0.9924,
+      "box": [
+        115,
+        290,
+        716,
+        313
+      ]
+    },
+    {
+      "text": "-Mixed concrete and mortar",
+      "score": 0.9832,
+      "box": [
+        126,
+        315,
+        391,
+        337
+      ]
+    },
+    {
+      "text": "- Assisted with site cleanup and debris removal",
+      "score": 0.969,
+      "box": [
+        127,
+        340,
+        566,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9978,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Skills, Oakwood High School, 2019",
+      "score": 0.9719,
+      "box": [
+        116,
+        449,
+        824,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural reinforcement methods",
+      "score": 0.9875,
+      "box": [
+        134,
+        475,
+        694,
+        495
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "CHRISTOPHER BERNARD\nPA, USA|+1-208-629-8935 |christopher.bernard@example.com\nWORK HISTORY\nConstruction Laborers, CraftLine Construction, 2022.01–2022.02\n-Mixed concrete and mortar\n- Assisted with site cleanup and debris removal\nEDUCATION\nHigh school graduate/GED, Construction Skills, Oakwood High School, 2019\n• Completed coursework in structural reinforcement methods"
+}

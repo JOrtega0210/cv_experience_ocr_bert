@@ -1,0 +1,239 @@
+{
+  "id": "25129",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.934,
+  "n_lines": 17,
+  "mean_score": 0.9819,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SABRINALAM",
+      "score": 0.9991,
+      "box": [
+        115,
+        90,
+        352,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-582-884-7502 |sabrina.lam@example.com",
+      "score": 0.9856,
+      "box": [
+        115,
+        150,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright River Academy, 2021.01–2023.01",
+      "score": 0.9828,
+      "box": [
+        115,
+        289,
+        838,
+        314
+      ]
+    },
+    {
+      "text": "- Designed curriculum frameworks for grade-level instruction",
+      "score": 0.9827,
+      "box": [
+        127,
+        315,
+        685,
+        338
+      ]
+    },
+    {
+      "text": "- Led instructional leadership initiatives",
+      "score": 0.968,
+      "box": [
+        126,
+        339,
+        488,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Meadowbrook Academy, 2019.01–2021.01",
+      "score": 0.9911,
+      "box": [
+        115,
+        381,
+        860,
+        406
+      ]
+    },
+    {
+      "text": "- Integrated educational technology tools",
+      "score": 0.9744,
+      "box": [
+        126,
+        406,
+        505,
+        431
+      ]
+    },
+    {
+      "text": "- Maintained academic records",
+      "score": 0.977,
+      "box": [
+        126,
+        431,
+        415,
+        453
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Steps Academy, 2017.01–2019.01",
+      "score": 0.9822,
+      "box": [
+        115,
+        471,
+        869,
+        496
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.973,
+      "box": [
+        126,
+        497,
+        398,
+        519
+      ]
+    },
+    {
+      "text": "- Delivered structured lectures",
+      "score": 0.9827,
+      "box": [
+        126,
+        521,
+        409,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Instructional Studies, Brookwood University, 2015",
+      "score": 0.9697,
+      "box": [
+        115,
+        632,
+        667,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Youth Studies, Aspen Grove University, 2013",
+      "score": 0.9871,
+      "box": [
+        114,
+        656,
+        644,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic tutoring methods",
+      "score": 0.979,
+      "box": [
+        135,
+        684,
+        599,
+        704
+      ]
+    },
+    {
+      "text": "• Studied principles of differentiated instruction",
+      "score": 0.9747,
+      "box": [
+        133,
+        707,
+        564,
+        730
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "SABRINALAM\nMA, USA|+1-582-884-7502 |sabrina.lam@example.com\nWORK HISTORY\nElementary Middle School Teachers, Bright River Academy, 2021.01–2023.01\n- Designed curriculum frameworks for grade-level instruction\n- Led instructional leadership initiatives\nElementary Middle School Teachers, Meadowbrook Academy, 2019.01–2021.01\n- Integrated educational technology tools\n- Maintained academic records\nElementary Middle School Teachers, Learning Steps Academy, 2017.01–2019.01\n- Recorded student feedback\n- Delivered structured lectures\nEDUCATION\nMaster's, Instructional Studies, Brookwood University, 2015\nBachelor's, Youth Studies, Aspen Grove University, 2013\n• Completed coursework in basic tutoring methods\n• Studied principles of differentiated instruction"
+}

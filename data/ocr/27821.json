@@ -1,0 +1,200 @@
+{
+  "id": "27821",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.844,
+  "n_lines": 14,
+  "mean_score": 0.9835,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JUSTIN GIBBS",
+      "score": 0.9681,
+      "box": [
+        116,
+        90,
+        352,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-366-811-8585 |justin.gibbs@example.com",
+      "score": 0.9807,
+      "box": [
+        115,
+        150,
+        640,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, ClearView Academy, 2018.10–2021.03",
+      "score": 0.9885,
+      "box": [
+        115,
+        289,
+        825,
+        314
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.9908,
+      "box": [
+        126,
+        315,
+        476,
+        338
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.9963,
+      "box": [
+        127,
+        340,
+        509,
+        362
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Minds School, 2015.03–2017.09",
+      "score": 0.9906,
+      "box": [
+        115,
+        381,
+        846,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared daily instructional agendas",
+      "score": 0.9897,
+      "box": [
+        126,
+        406,
+        480,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted group reading activitties",
+      "score": 0.9768,
+      "box": [
+        127,
+        432,
+        463,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, General Academic Studies, Stonehill University, 2005",
+      "score": 0.9417,
+      "box": [
+        114,
+        539,
+        701,
+        565
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Basics, Morningstar University, 2003",
+      "score": 0.9757,
+      "box": [
+        115,
+        566,
+        664,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in mathematics education basics",
+      "score": 0.9959,
+      "box": [
+        136,
+        593,
+        668,
+        613
+      ]
+    },
+    {
+      "text": "• Studied principles of teaching effectiveness",
+      "score": 0.9918,
+      "box": [
+        135,
+        616,
+        548,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "JUSTIN GIBBS\nMI, USA|+1-366-811-8585 |justin.gibbs@example.com\nWORK HISTORY\nElementary Middle School Teachers, ClearView Academy, 2018.10–2021.03\n- Developed teacher training modules\n- Led curriculum transformation initiatives\nElementary Middle School Teachers, Growing Minds School, 2015.03–2017.09\n- Prepared daily instructional agendas\n- Conducted group reading activitties\nEDUCATION\nMaster's, General Academic Studies, Stonehill University, 2005\nBachelor's, Education Basics, Morningstar University, 2003\n• Completed coursework in mathematics education basics\n• Studied principles of teaching effectiveness"
+}

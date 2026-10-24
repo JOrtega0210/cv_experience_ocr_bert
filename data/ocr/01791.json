@@ -1,0 +1,278 @@
+{
+  "id": "01791",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.052,
+  "n_lines": 20,
+  "mean_score": 0.9789,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SAULLEE",
+      "score": 0.9879,
+      "box": [
+        114,
+        88,
+        285,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-344-715-3888|saul.lee@example.com",
+      "score": 0.9733,
+      "box": [
+        115,
+        151,
+        611,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Financial, 2019.09–2023.01",
+      "score": 0.9715,
+      "box": [
+        114,
+        289,
+        715,
+        314
+      ]
+    },
+    {
+      "text": "- Led internal audit functions",
+      "score": 0.955,
+      "box": [
+        125,
+        313,
+        393,
+        338
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.994,
+      "box": [
+        126,
+        338,
+        432,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Accounting, 2016.05–2019.09",
+      "score": 0.9827,
+      "box": [
+        114,
+        381,
+        745,
+        406
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9755,
+      "box": [
+        126,
+        406,
+        467,
+        431
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9955,
+      "box": [
+        126,
+        431,
+        547,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Advisors, 2012.12–2016.05",
+      "score": 0.9681,
+      "box": [
+        113,
+        470,
+        732,
+        498
+      ]
+    },
+    {
+      "text": "- Reviewed financial disclosures",
+      "score": 0.9717,
+      "box": [
+        125,
+        495,
+        428,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed internal controls",
+      "score": 0.9651,
+      "box": [
+        126,
+        522,
+        387,
+        544
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Advisors, 2007.07–2010.12",
+      "score": 0.9874,
+      "box": [
+        115,
+        565,
+        711,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9804,
+      "box": [
+        125,
+        589,
+        423,
+        614
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.9716,
+      "box": [
+        126,
+        613,
+        358,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        679,
+        266,
+        703
+      ]
+    },
+    {
+      "text": "Master's, Financial Analysis, Elm Ridge University, 2005",
+      "score": 0.9597,
+      "box": [
+        115,
+        725,
+        637,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Commerce, Morningstar University, 2003",
+      "score": 0.9783,
+      "box": [
+        115,
+        749,
+        605,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting project management",
+      "score": 0.9922,
+      "box": [
+        133,
+        773,
+        687,
+        798
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of depreciation methods",
+      "score": 0.9841,
+      "box": [
+        133,
+        799,
+        578,
+        822
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "SAULLEE\nAZ, USA|+1-344-715-3888|saul.lee@example.com\nWORK HISTORY\nAccountants Auditors, OpenBalance Financial, 2019.09–2023.01\n- Led internal audit functions\n- Established accounting policies\nAccountants Auditors, Balanced Path Accounting, 2016.05–2019.09\n- Developed internal control systems\n- Established compliance monitoring systems\nAccountants Auditors, Integrity Ledger Advisors, 2012.12–2016.05\n- Reviewed financial disclosures\n- Reviewed internal controls\nAccountants Auditors, Reliable Path Advisors, 2007.07–2010.12\n- Assisted with regulatory filings\n- Prepared trial balances\nEDUCATION\nMaster's, Financial Analysis, Elm Ridge University, 2005\nBachelor's, Commerce, Morningstar University, 2003\n• Completed coursework in accounting project management\n• Studied fundamentals of depreciation methods"
+}

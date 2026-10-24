@@ -1,0 +1,148 @@
+{
+  "id": "01469",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.816,
+  "n_lines": 10,
+  "mean_score": 0.9817,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ADDISON NICHOLS",
+      "score": 0.9879,
+      "box": [
+        117,
+        90,
+        432,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA |+1-629-690-8777 |addison.nichols@example.com",
+      "score": 0.9746,
+      "box": [
+        116,
+        152,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Systems, 2019.08–2021.11",
+      "score": 0.994,
+      "box": [
+        116,
+        290,
+        669,
+        313
+      ]
+    },
+    {
+      "text": "- Debugged runtime errors",
+      "score": 0.9518,
+      "box": [
+        125,
+        314,
+        375,
+        339
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9865,
+      "box": [
+        126,
+        339,
+        448,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Larkspur University, 2014",
+      "score": 0.9778,
+      "box": [
+        115,
+        449,
+        462,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of augmented reality",
+      "score": 0.9733,
+      "box": [
+        133,
+        474,
+        507,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in clean code principles",
+      "score": 0.9879,
+      "box": [
+        133,
+        498,
+        584,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ADDISON NICHOLS\nAZ, USA |+1-629-690-8777 |addison.nichols@example.com\nWORK HISTORY\nSoftware Developers, Codefield Systems, 2019.08–2021.11\n- Debugged runtime errors\n- Performed basic APl integrations\nEDUCATION\nBachelor's, Larkspur University, 2014\n• Studied principles of augmented reality\n• Completed coursework in clean code principles"
+}

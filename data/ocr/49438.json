@@ -1,0 +1,265 @@
+{
+  "id": "49438",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.881,
+  "n_lines": 19,
+  "mean_score": 0.9785,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MICHAEL HEATH",
+      "score": 0.9924,
+      "box": [
+        116,
+        90,
+        396,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-602-527-5733 |michael.heath@example.com",
+      "score": 0.9771,
+      "box": [
+        115,
+        150,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softstack Labs, 2019.08–2023.01",
+      "score": 0.9783,
+      "box": [
+        114,
+        288,
+        632,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9804,
+      "box": [
+        126,
+        314,
+        460,
+        337
+      ]
+    },
+    {
+      "text": "- Defined code review processes",
+      "score": 0.965,
+      "box": [
+        126,
+        338,
+        433,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Clearline Systems, 2016.03–2019.08",
+      "score": 0.9868,
+      "box": [
+        115,
+        381,
+        665,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9571,
+      "box": [
+        127,
+        407,
+        515,
+        430
+      ]
+    },
+    {
+      "text": "- Defined API governance models",
+      "score": 0.9823,
+      "box": [
+        126,
+        431,
+        442,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Softline Digital, 2012.10–2016.03",
+      "score": 0.965,
+      "box": [
+        115,
+        472,
+        629,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented feature flags",
+      "score": 0.98,
+      "box": [
+        125,
+        496,
+        384,
+        522
+      ]
+    },
+    {
+      "text": "- Designed data models",
+      "score": 0.9587,
+      "box": [
+        125,
+        521,
+        350,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Skyfield Software, 2009.05–2012.10",
+      "score": 0.982,
+      "box": [
+        114,
+        563,
+        658,
+        588
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9944,
+      "box": [
+        126,
+        590,
+        403,
+        613
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.9706,
+      "box": [
+        126,
+        615,
+        424,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Crestwood University, 209",
+      "score": 0.9663,
+      "box": [
+        114,
+        723,
+        482,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of database design",
+      "score": 0.991,
+      "box": [
+        132,
+        747,
+        495,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of static analysis",
+      "score": 0.9791,
+      "box": [
+        134,
+        774,
+        472,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "MICHAEL HEATH\nTN, USA|+1-602-527-5733 |michael.heath@example.com\nWORK HISTORY\nSoftware Developers, Softstack Labs, 2019.08–2023.01\n- Implemented service orchestration\n- Defined code review processes\nSoftware Developers, Clearline Systems, 2016.03–2019.08\n- Implemented access control frameworks\n- Defined API governance models\nSoftware Developers, Softline Digital, 2012.10–2016.03\n- Implemented feature flags\n- Designed data models\nSoftware Developers, Skyfield Software, 2009.05–2012.10\n- Participated in code reviews\n- Assisted with build automation\nEDUCATION\nBachelor's, Crestwood University, 209\n• Studied principles of database design\n• Studied principles of static analysis"
+}

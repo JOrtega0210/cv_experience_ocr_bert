@@ -1,0 +1,200 @@
+{
+  "id": "25375",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.808,
+  "n_lines": 14,
+  "mean_score": 0.983,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NATHAN SHAH",
+      "score": 0.9772,
+      "box": [
+        116,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-304-619-5477 |nathan.shah@example.com",
+      "score": 0.969,
+      "box": [
+        114,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9833,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skyfield Tech, 2019.10–2021.07",
+      "score": 0.9821,
+      "box": [
+        114,
+        288,
+        623,
+        314
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9804,
+      "box": [
+        125,
+        313,
+        439,
+        339
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9864,
+      "box": [
+        126,
+        339,
+        447,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Datacrest Software, 2017.01–2018.11",
+      "score": 0.9906,
+      "box": [
+        115,
+        382,
+        673,
+        405
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9829,
+      "box": [
+        125,
+        406,
+        562,
+        432
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.9888,
+      "box": [
+        125,
+        431,
+        484,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Professional degree, Crestview University, 2016",
+      "score": 0.9868,
+      "box": [
+        114,
+        539,
+        563,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Canyon View University, 2012",
+      "score": 0.9603,
+      "box": [
+        114,
+        564,
+        505,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in data mining basics",
+      "score": 0.9895,
+      "box": [
+        133,
+        590,
+        562,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in information systems",
+      "score": 0.9872,
+      "box": [
+        133,
+        615,
+        575,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "NATHAN SHAH\nMA, USA|+1-304-619-5477 |nathan.shah@example.com\nWORK HISTORY\nSoftware Developers, Skyfield Tech, 2019.10–2021.07\n- Led technical roadmap planning\n- Designed caching infrastructures\nSoftware Developers, Datacrest Software, 2017.01–2018.11\n- Fixed software bugs identified through testing\n- Logged and tracked software defects\nEDUCATION\nProfessional degree, Crestview University, 2016\nBachelor's, Canyon View University, 2012\n• Completed coursework in data mining basics\n• Completed coursework in information systems"
+}

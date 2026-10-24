@@ -1,0 +1,148 @@
+{
+  "id": "30280",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.729,
+  "n_lines": 10,
+  "mean_score": 0.9781,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAYLIN DAVIDSON",
+      "score": 0.9752,
+      "box": [
+        116,
+        90,
+        423,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA |+1-608-587-4013|jaylin.davidson@example.com",
+      "score": 0.9752,
+      "box": [
+        116,
+        151,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openpoint Digital, 2021.12–2023.01",
+      "score": 0.9736,
+      "box": [
+        115,
+        289,
+        654,
+        312
+      ]
+    },
+    {
+      "text": "– Maintained code repositories",
+      "score": 0.9642,
+      "box": [
+        127,
+        315,
+        410,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented Ul components based on design specs",
+      "score": 0.9648,
+      "box": [
+        126,
+        339,
+        628,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Skycrest University, 2021",
+      "score": 0.9886,
+      "box": [
+        115,
+        449,
+        460,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in schema design",
+      "score": 0.9681,
+      "box": [
+        132,
+        473,
+        530,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in computer programming fundamentals",
+      "score": 0.9892,
+      "box": [
+        134,
+        499,
+        736,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JAYLIN DAVIDSON\nMO, USA |+1-608-587-4013|jaylin.davidson@example.com\nWORK HISTORY\nSoftware Developers, Openpoint Digital, 2021.12–2023.01\n– Maintained code repositories\n- Implemented Ul components based on design specs\nEDUCATION\nBachelor's, Skycrest University, 2021\n• Completed coursework in schema design\n• Completed coursework in computer programming fundamentals"
+}

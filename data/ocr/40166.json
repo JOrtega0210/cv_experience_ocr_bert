@@ -1,0 +1,161 @@
+{
+  "id": "40166",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.822,
+  "n_lines": 11,
+  "mean_score": 0.985,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MORGAN MASSEY",
+      "score": 0.9855,
+      "box": [
+        116,
+        90,
+        421,
+        120
+      ]
+    },
+    {
+      "text": "NC, USA|+1-967-573-7060|morgan.massey@example.com",
+      "score": 0.9938,
+      "box": [
+        116,
+        152,
+        690,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9807,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Group, 2021.08–2023.01",
+      "score": 0.9944,
+      "box": [
+        115,
+        290,
+        672,
+        312
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.978,
+      "box": [
+        126,
+        314,
+        384,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.967,
+      "box": [
+        126,
+        339,
+        456,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Accounting Practice, Clearfield University, 2019",
+      "score": 0.9746,
+      "box": [
+        115,
+        449,
+        646,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Quantitative Finance, Pinewood University, 2017",
+      "score": 0.9804,
+      "box": [
+        114,
+        472,
+        676,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of management reporting",
+      "score": 0.9883,
+      "box": [
+        133,
+        498,
+        589,
+        523
+      ]
+    },
+    {
+      "text": "• Completed coursework in governmental accounting basics",
+      "score": 0.9944,
+      "box": [
+        135,
+        523,
+        686,
+        546
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "MORGAN MASSEY\nNC, USA|+1-967-573-7060|morgan.massey@example.com\nWORK HISTORY\nAccountants Auditors, AccuLedger Group, 2021.08–2023.01\n- Prepared variance reports\n- Assisted with tax form preparation\nEDUCATION\nMaster's, Accounting Practice, Clearfield University, 2019\nBachelor's, Quantitative Finance, Pinewood University, 2017\n• Studied fundamentals of management reporting\n• Completed coursework in governmental accounting basics"
+}

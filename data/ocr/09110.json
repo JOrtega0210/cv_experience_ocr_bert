@@ -1,0 +1,278 @@
+{
+  "id": "09110",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.988,
+  "n_lines": 20,
+  "mean_score": 0.9823,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SABRALAM",
+      "score": 0.9983,
+      "box": [
+        114,
+        88,
+        321,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-521-488-1272 | sabra.lam@example.com",
+      "score": 0.9632,
+      "box": [
+        116,
+        151,
+        633,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9877,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightcode Solutions, 2019.04–2023.01",
+      "score": 0.9765,
+      "box": [
+        114,
+        288,
+        687,
+        313
+      ]
+    },
+    {
+      "text": "-Built fault-tolerant systems",
+      "score": 0.986,
+      "box": [
+        125,
+        313,
+        388,
+        339
+      ]
+    },
+    {
+      "text": "- Defined code review processes",
+      "score": 0.9632,
+      "box": [
+        126,
+        338,
+        433,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Skybridge Software, 2015.07–2019.04",
+      "score": 0.9838,
+      "box": [
+        115,
+        380,
+        677,
+        407
+      ]
+    },
+    {
+      "text": "- Built fault-tolerant systems",
+      "score": 0.9743,
+      "box": [
+        125,
+        405,
+        388,
+        432
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9768,
+      "box": [
+        126,
+        430,
+        380,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Stonebyte Tech, 2011.10–2015.07",
+      "score": 0.9886,
+      "box": [
+        116,
+        472,
+        643,
+        496
+      ]
+    },
+    {
+      "text": "- Designed API contracts",
+      "score": 0.9538,
+      "box": [
+        125,
+        496,
+        361,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented security controls",
+      "score": 0.9742,
+      "box": [
+        126,
+        521,
+        419,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Openframe Labs, 2007.12–2011.10",
+      "score": 0.9871,
+      "box": [
+        115,
+        563,
+        652,
+        588
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9919,
+      "box": [
+        125,
+        588,
+        340,
+        615
+      ]
+    },
+    {
+      "text": "- Assisted with container setup",
+      "score": 0.99,
+      "box": [
+        125,
+        614,
+        413,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Willowfield University, 2005",
+      "score": 0.9807,
+      "box": [
+        115,
+        725,
+        462,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Fairview Ridge University, 2003",
+      "score": 0.989,
+      "box": [
+        115,
+        749,
+        519,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of versioning strategies",
+      "score": 0.9895,
+      "box": [
+        132,
+        772,
+        533,
+        798
+      ]
+    },
+    {
+      "text": "• Completed coursework in virtual reality basics",
+      "score": 0.9926,
+      "box": [
+        133,
+        799,
+        571,
+        822
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "SABRALAM\nCA, USA|+1-521-488-1272 | sabra.lam@example.com\nWORK HISTORY\nSoftware Developers, Brightcode Solutions, 2019.04–2023.01\n-Built fault-tolerant systems\n- Defined code review processes\nSoftware Developers, Skybridge Software, 2015.07–2019.04\n- Built fault-tolerant systems\n- Defined coding standards\nSoftware Developers, Stonebyte Tech, 2011.10–2015.07\n- Designed API contracts\n- Implemented security controls\nSoftware Developers, Openframe Labs, 2007.12–2011.10\n- Updated routing logic\n- Assisted with container setup\nEDUCATION\nMaster's, Willowfield University, 2005\nBachelor's, Fairview Ridge University, 2003\n• Studied principles of versioning strategies\n• Completed coursework in virtual reality basics"
+}

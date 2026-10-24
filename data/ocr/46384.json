@@ -1,0 +1,278 @@
+{
+  "id": "46384",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.918,
+  "n_lines": 20,
+  "mean_score": 0.9824,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRITTNEY OLIVER",
+      "score": 0.987,
+      "box": [
+        117,
+        90,
+        418,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-938-637-4661 |britney.oliver@example.com",
+      "score": 0.974,
+      "box": [
+        115,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9798,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearPath Medical Group, 2020.07–2023.01",
+      "score": 0.989,
+      "box": [
+        115,
+        289,
+        708,
+        314
+      ]
+    },
+    {
+      "text": "- Directed nursing education initiatives",
+      "score": 0.9734,
+      "box": [
+        126,
+        315,
+        482,
+        338
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.9843,
+      "box": [
+        127,
+        339,
+        458,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunSpring Nursing, 2018.01–2020.07",
+      "score": 0.9797,
+      "box": [
+        116,
+        383,
+        650,
+        406
+      ]
+    },
+    {
+      "text": "- Directed care delivery improvements",
+      "score": 0.9775,
+      "box": [
+        125,
+        406,
+        480,
+        431
+      ]
+    },
+    {
+      "text": "- Managed clinical workflow redesign",
+      "score": 0.9807,
+      "box": [
+        126,
+        431,
+        470,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenSpring Care Services, 2015.07–2018.01",
+      "score": 0.9906,
+      "box": [
+        116,
+        473,
+        722,
+        497
+      ]
+    },
+    {
+      "text": "- Monitored patient compliance",
+      "score": 0.9643,
+      "box": [
+        125,
+        496,
+        416,
+        522
+      ]
+    },
+    {
+      "text": "- Conducted medication reconciliation",
+      "score": 0.995,
+      "box": [
+        127,
+        522,
+        476,
+        544
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightBridge Nursing Services, 2012.12–2015.07",
+      "score": 0.9847,
+      "box": [
+        115,
+        564,
+        754,
+        589
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9952,
+      "box": [
+        126,
+        590,
+        531,
+        613
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9767,
+      "box": [
+        126,
+        613,
+        437,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Professional degree, Health Studies, Foxwood University, 2013",
+      "score": 0.9745,
+      "box": [
+        114,
+        723,
+        701,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Practical Nursing, Pinehaven University, 2009",
+      "score": 0.9782,
+      "box": [
+        114,
+        747,
+        649,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient advocacy",
+      "score": 0.9813,
+      "box": [
+        132,
+        772,
+        536,
+        798
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical pharmacology",
+      "score": 0.9824,
+      "box": [
+        133,
+        797,
+        588,
+        824
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "BRITTNEY OLIVER\nPA, USA|+1-938-637-4661 |britney.oliver@example.com\nWORK HISTORY\nRegistered Nurses, ClearPath Medical Group, 2020.07–2023.01\n- Directed nursing education initiatives\n- Developed patient care algorithms\nRegistered Nurses, SunSpring Nursing, 2018.01–2020.07\n- Directed care delivery improvements\n- Managed clinical workflow redesign\nRegistered Nurses, OpenSpring Care Services, 2015.07–2018.01\n- Monitored patient compliance\n- Conducted medication reconciliation\nRegistered Nurses, BrightBridge Nursing Services, 2012.12–2015.07\n- Recorded medication administration times\n- Assisted with patient positioning\nEDUCATION\nProfessional degree, Health Studies, Foxwood University, 2013\nBachelor's, Practical Nursing, Pinehaven University, 2009\n• Studied fundamentals of patient advocacy\n• Completed coursework in clinical pharmacology"
+}

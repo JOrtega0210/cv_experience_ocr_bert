@@ -1,0 +1,187 @@
+{
+  "id": "00312",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.905,
+  "n_lines": 13,
+  "mean_score": 0.988,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRADYFARRELL",
+      "score": 0.999,
+      "box": [
+        116,
+        90,
+        402,
+        120
+      ]
+    },
+    {
+      "text": "AL, USA|+1-866-314-3842|brady.farrell@example.com",
+      "score": 0.9736,
+      "box": [
+        116,
+        151,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corebyte Systems, 2021.02–2023.01",
+      "score": 0.9877,
+      "box": [
+        115,
+        289,
+        665,
+        314
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.9823,
+      "box": [
+        127,
+        315,
+        469,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented disaster recovery plans",
+      "score": 0.9851,
+      "box": [
+        126,
+        339,
+        483,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Flowfield Labs, 2019.03–2021.02",
+      "score": 0.9952,
+      "box": [
+        116,
+        382,
+        630,
+        405
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.9886,
+      "box": [
+        125,
+        406,
+        374,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented Ul components based on design specs",
+      "score": 0.9856,
+      "box": [
+        126,
+        430,
+        627,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Woodcrest University, 2022",
+      "score": 0.9906,
+      "box": [
+        115,
+        540,
+        481,
+        563
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of compiler design",
+      "score": 0.9797,
+      "box": [
+        132,
+        565,
+        525,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in code quality analysis",
+      "score": 0.9943,
+      "box": [
+        134,
+        590,
+        582,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "BRADYFARRELL\nAL, USA|+1-866-314-3842|brady.farrell@example.com\nWORK HISTORY\nSoftware Developers, Corebyte Systems, 2021.02–2023.01\n- Led backend platform development\n- Implemented disaster recovery plans\nSoftware Developers, Flowfield Labs, 2019.03–2021.02\n- Updated localization files\n- Implemented Ul components based on design specs\nEDUCATION\nBachelor's, Woodcrest University, 2022\n• Studied fundamentals of compiler design\n• Completed coursework in code quality analysis"
+}

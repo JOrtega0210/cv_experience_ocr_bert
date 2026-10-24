@@ -1,0 +1,187 @@
+{
+  "id": "50370",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.785,
+  "n_lines": 13,
+  "mean_score": 0.9832,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TOMAS KEMP",
+      "score": 0.9646,
+      "box": [
+        112,
+        87,
+        346,
+        123
+      ]
+    },
+    {
+      "text": "TX, USA|+1-617-544-5273|tomas.kemp@example.com",
+      "score": 0.9769,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Systems, 2021.03–2023.01",
+      "score": 0.9753,
+      "box": [
+        115,
+        289,
+        653,
+        313
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9647,
+      "box": [
+        125,
+        313,
+        452,
+        339
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.991,
+      "box": [
+        126,
+        339,
+        449,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Labs, 2019.04–2021.03",
+      "score": 0.9931,
+      "box": [
+        116,
+        382,
+        623,
+        405
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9763,
+      "box": [
+        126,
+        406,
+        604,
+        431
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9832,
+      "box": [
+        126,
+        431,
+        500,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Shoreline University, 2020",
+      "score": 0.9956,
+      "box": [
+        115,
+        541,
+        469,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in programming in C++",
+      "score": 0.9868,
+      "box": [
+        134,
+        566,
+        579,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in performance benchmarking",
+      "score": 0.9912,
+      "box": [
+        134,
+        591,
+        642,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "TOMAS KEMP\nTX, USA|+1-617-544-5273|tomas.kemp@example.com\nWORK HISTORY\nSoftware Developers, Softgrid Systems, 2021.03–2023.01\n- Defined data governance policies\n- Designed data storage strategies\nSoftware Developers, Flowline Labs, 2019.04–2021.03\n- Implemented basic features in existing codebases\n- Configured development environments\nEDUCATION\nBachelor's, Shoreline University, 2020\n• Completed coursework in programming in C++\n• Completed coursework in performance benchmarking"
+}

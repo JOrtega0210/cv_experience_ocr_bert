@@ -1,0 +1,278 @@
+{
+  "id": "03623",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.0,
+  "n_lines": 20,
+  "mean_score": 0.9806,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JACOB PHAM",
+      "score": 0.986,
+      "box": [
+        116,
+        90,
+        343,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-495-558-8553 |jacob.pham@example.com",
+      "score": 0.9859,
+      "box": [
+        116,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9828,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Skyline Tech, 2019.10–2023.01",
+      "score": 0.9886,
+      "box": [
+        116,
+        290,
+        615,
+        313
+      ]
+    },
+    {
+      "text": "- Led cross-team technical alignment",
+      "score": 0.983,
+      "box": [
+        127,
+        315,
+        471,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.984,
+      "box": [
+        126,
+        339,
+        538,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Datapoint Labs, 2016.07–2019.10",
+      "score": 0.9931,
+      "box": [
+        116,
+        382,
+        637,
+        405
+      ]
+    },
+    {
+      "text": "- Built core libraries",
+      "score": 0.971,
+      "box": [
+        126,
+        406,
+        308,
+        429
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9894,
+      "box": [
+        126,
+        430,
+        449,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Brightline Systems, 2013.04–2016.07",
+      "score": 0.9831,
+      "box": [
+        115,
+        471,
+        669,
+        496
+      ]
+    },
+    {
+      "text": "- Improved system reliability",
+      "score": 0.9698,
+      "box": [
+        126,
+        498,
+        388,
+        522
+      ]
+    },
+    {
+      "text": "- Wrote automated tests",
+      "score": 0.9607,
+      "box": [
+        126,
+        522,
+        352,
+        544
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Labs, 2010.01–2013.04",
+      "score": 0.992,
+      "box": [
+        114,
+        563,
+        638,
+        588
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9677,
+      "box": [
+        125,
+        589,
+        562,
+        614
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9787,
+      "box": [
+        127,
+        615,
+        415,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Master's, Greenwood University, 2010",
+      "score": 0.9594,
+      "box": [
+        116,
+        726,
+        470,
+        745
+      ]
+    },
+    {
+      "text": "Bachelor's, Brightfield Ridge University, 2008",
+      "score": 0.9737,
+      "box": [
+        115,
+        748,
+        533,
+        771
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of compiler design",
+      "score": 0.9817,
+      "box": [
+        133,
+        774,
+        525,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in accessibility standards",
+      "score": 0.9822,
+      "box": [
+        134,
+        799,
+        598,
+        822
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "JACOB PHAM\nCA, USA|+1-495-558-8553 |jacob.pham@example.com\nWORK HISTORY\nSoftware Developers, Skyline Tech, 2019.10–2023.01\n- Led cross-team technical alignment\n- Implemented long-term maintenance plans\nSoftware Developers, Datapoint Labs, 2016.07–2019.10\n- Built core libraries\n- Designed data storage strategies\nSoftware Developers, Brightline Systems, 2013.04–2016.07\n- Improved system reliability\n- Wrote automated tests\nSoftware Developers, Codepath Labs, 2010.01–2013.04\n- Fixed software bugs identified through testing\n- Updated frontend stylesheets\nEDUCATION\nMaster's, Greenwood University, 2010\nBachelor's, Brightfield Ridge University, 2008\n• Studied fundamentals of compiler design\n• Completed coursework in accessibility standards"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "04175",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.823,
+  "n_lines": 10,
+  "mean_score": 0.9789,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARK HOFFMAN",
+      "score": 0.9908,
+      "box": [
+        116,
+        90,
+        394,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-310-871-9293 |mark.hoffman@example.com",
+      "score": 0.9828,
+      "box": [
+        117,
+        152,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonebyte Tech, 2020.01–2023.01",
+      "score": 0.9901,
+      "box": [
+        115,
+        290,
+        641,
+        313
+      ]
+    },
+    {
+      "text": "- Maintained code repositories",
+      "score": 0.9601,
+      "box": [
+        127,
+        315,
+        410,
+        339
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.9668,
+      "box": [
+        127,
+        341,
+        403,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Woodland University, 2023",
+      "score": 0.9608,
+      "box": [
+        115,
+        449,
+        474,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in transaction management",
+      "score": 0.9682,
+      "box": [
+        132,
+        473,
+        620,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in layered architecture",
+      "score": 0.9862,
+      "box": [
+        134,
+        499,
+        573,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "MARK HOFFMAN\nCA, USA|+1-310-871-9293 |mark.hoffman@example.com\nWORK HISTORY\nSoftware Developers, Stonebyte Tech, 2020.01–2023.01\n- Maintained code repositories\n- Updated database schemas\nEDUCATION\nBachelor's, Woodland University, 2023\n• Completed coursework in transaction management\n• Completed coursework in layered architecture"
+}

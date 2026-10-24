@@ -1,0 +1,148 @@
+{
+  "id": "59249",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.77,
+  "n_lines": 10,
+  "mean_score": 0.9797,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRIANNA FARMER",
+      "score": 0.9866,
+      "box": [
+        117,
+        90,
+        424,
+        120
+      ]
+    },
+    {
+      "text": "WA, USA|+1-205-880-2061 | brianna.farmer@example.com",
+      "score": 0.9566,
+      "box": [
+        115,
+        150,
+        681,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9819,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightPath Nursing Services, 2022.03–2023.01",
+      "score": 0.9731,
+      "box": [
+        116,
+        291,
+        735,
+        314
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9731,
+      "box": [
+        126,
+        314,
+        514,
+        339
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9759,
+      "box": [
+        126,
+        339,
+        444,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Services Administration, Pineview Ridge University, 2020",
+      "score": 0.9786,
+      "box": [
+        114,
+        448,
+        820,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of hydration management",
+      "score": 0.9827,
+      "box": [
+        132,
+        472,
+        557,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of vital signs monitoring",
+      "score": 0.9902,
+      "box": [
+        132,
+        497,
+        573,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "BRIANNA FARMER\nWA, USA|+1-205-880-2061 | brianna.farmer@example.com\nWORK HISTORY\nRegistered Nurses, BrightPath Nursing Services, 2022.03–2023.01\n- Assisted with physical therapy exercises\n- Collected patient health histories\nEDUCATION\nBachelor's, Health Services Administration, Pineview Ridge University, 2020\n• Studied principles of hydration management\n• Studied fundamentals of vital signs monitoring"
+}

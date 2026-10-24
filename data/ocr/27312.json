@@ -1,0 +1,148 @@
+{
+  "id": "27312",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.741,
+  "n_lines": 10,
+  "mean_score": 0.9828,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "VALERIE WYATT",
+      "score": 0.9754,
+      "box": [
+        115,
+        90,
+        392,
+        120
+      ]
+    },
+    {
+      "text": "MI, USA|+1-889-558-7866 |valerie.wyatt@example.com",
+      "score": 0.9651,
+      "box": [
+        116,
+        151,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9829,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindPath Care Center, 2021.08–2023.01",
+      "score": 0.9932,
+      "box": [
+        116,
+        290,
+        679,
+        313
+      ]
+    },
+    {
+      "text": "- Maintained infection control protocols",
+      "score": 0.9726,
+      "box": [
+        126,
+        315,
+        487,
+        338
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.9841,
+      "box": [
+        127,
+        340,
+        453,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, General Nursing, Meadowridge Valley University, 2023",
+      "score": 0.9809,
+      "box": [
+        114,
+        447,
+        732,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of end-of-life care",
+      "score": 0.989,
+      "box": [
+        133,
+        473,
+        518,
+        495
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical reporting",
+      "score": 0.9861,
+      "box": [
+        133,
+        498,
+        540,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "VALERIE WYATT\nMI, USA|+1-889-558-7866 |valerie.wyatt@example.com\nWORK HISTORY\nRegistered Nurses, KindPath Care Center, 2021.08–2023.01\n- Maintained infection control protocols\n- Documented patient observations\nEDUCATION\nBachelor's, General Nursing, Meadowridge Valley University, 2023\n• Studied fundamentals of end-of-life care\n• Completed coursework in clinical reporting"
+}

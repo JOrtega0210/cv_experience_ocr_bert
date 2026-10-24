@@ -1,0 +1,21 @@
+{
+  "n_images": 50,
+  "n_processed": 50,
+  "n_failed": 0,
+  "failed": {},
+  "n_empty": 0,
+  "mean_seconds_per_cv": 0.325,
+  "median_seconds_per_cv": 0.325,
+  "total_ocr_hours": 0.005,
+  "mean_confidence": 0.9845,
+  "mean_lines_per_cv": 13.8,
+  "n_two_column": 0,
+  "hardware": {
+    "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+    "processor": "x86_64",
+    "device": "gpu:0",
+    "gpu": "Tesla T4",
+    "paddle_version": "3.3.1",
+    "paddle_cuda": true
+  }
+}

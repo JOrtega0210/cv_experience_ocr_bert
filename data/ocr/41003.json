@@ -1,0 +1,226 @@
+{
+  "id": "41003",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.885,
+  "n_lines": 16,
+  "mean_score": 0.981,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JULIE FISHER",
+      "score": 0.9926,
+      "box": [
+        116,
+        90,
+        345,
+        121
+      ]
+    },
+    {
+      "text": "ND, USA|+1-207-905-4113 |julie.fisher@example.com",
+      "score": 0.9688,
+      "box": [
+        115,
+        150,
+        636,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9847,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Group, 2020.08–2023.01",
+      "score": 0.9812,
+      "box": [
+        114,
+        289,
+        708,
+        314
+      ]
+    },
+    {
+      "text": "- Led financial forecasting initiatives",
+      "score": 0.9579,
+      "box": [
+        126,
+        313,
+        458,
+        338
+      ]
+    },
+    {
+      "text": "- Managed consolidation processes",
+      "score": 0.99,
+      "box": [
+        126,
+        339,
+        458,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Accounting, 2017.06–2019.11",
+      "score": 0.9764,
+      "box": [
+        114,
+        381,
+        702,
+        406
+      ]
+    },
+    {
+      "text": "- Performed revenue recognition analysis",
+      "score": 0.9869,
+      "box": [
+        125,
+        406,
+        510,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed accounting estimates",
+      "score": 0.9764,
+      "box": [
+        126,
+        431,
+        436,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Accounting, 2013.11–2016.05",
+      "score": 0.9937,
+      "box": [
+        114,
+        471,
+        703,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9842,
+      "box": [
+        125,
+        496,
+        453,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared expense reports",
+      "score": 0.9618,
+      "box": [
+        126,
+        521,
+        384,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Strategic Management, Pineview Ridge University, 2002",
+      "score": 0.987,
+      "box": [
+        115,
+        631,
+        747,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in pension accounting basics",
+      "score": 0.9801,
+      "box": [
+        134,
+        658,
+        633,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of managerial accounting",
+      "score": 0.9762,
+      "box": [
+        134,
+        681,
+        551,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JULIE FISHER\nND, USA|+1-207-905-4113 |julie.fisher@example.com\nWORK HISTORY\nAccountants Auditors, Reliable Ledger Group, 2020.08–2023.01\n- Led financial forecasting initiatives\n- Managed consolidation processes\nAccountants Auditors, FairBooks Accounting, 2017.06–2019.11\n- Performed revenue recognition analysis\n- Reviewed accounting estimates\nAccountants Auditors, FairBooks Accounting, 2013.11–2016.05\n- Reviewed expense classifications\n- Prepared expense reports\nEDUCATION\nBachelor's, Strategic Management, Pineview Ridge University, 2002\n• Completed coursework in pension accounting basics\n• Studied principles of managerial accounting"
+}

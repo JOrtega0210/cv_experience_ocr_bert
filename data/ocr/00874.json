@@ -1,0 +1,226 @@
+{
+  "id": "00874",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.961,
+  "n_lines": 16,
+  "mean_score": 0.9786,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KAYLA ELLISON",
+      "score": 0.962,
+      "box": [
+        116,
+        90,
+        387,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-526-273-1052|kayla.ellison@example.com",
+      "score": 0.9699,
+      "box": [
+        116,
+        151,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Advisors, 2020.11–2023.01",
+      "score": 0.9804,
+      "box": [
+        114,
+        289,
+        724,
+        314
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9768,
+      "box": [
+        125,
+        314,
+        423,
+        337
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9751,
+      "box": [
+        127,
+        340,
+        557,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Financial, 2018.08–2020.11",
+      "score": 0.9709,
+      "box": [
+        115,
+        382,
+        694,
+        405
+      ]
+    },
+    {
+      "text": "-Reviewed contract accounting",
+      "score": 0.9841,
+      "box": [
+        125,
+        405,
+        421,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed revenue forecasts",
+      "score": 0.9656,
+      "box": [
+        126,
+        430,
+        405,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, BlueLine Accounting, 2016.05–218.08",
+      "score": 0.9792,
+      "box": [
+        115,
+        472,
+        690,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.9853,
+      "box": [
+        125,
+        496,
+        358,
+        521
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9809,
+      "box": [
+        125,
+        521,
+        550,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Economic Studies, Hillside University, 2019",
+      "score": 0.9866,
+      "box": [
+        115,
+        632,
+        627,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of depreciation methods",
+      "score": 0.9896,
+      "box": [
+        134,
+        657,
+        579,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in supply chain accounting",
+      "score": 0.9667,
+      "box": [
+        136,
+        683,
+        611,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "KAYLA ELLISON\nAL, USA|+1-526-273-1052|kayla.ellison@example.com\nWORK HISTORY\nAccountants Auditors, Precise Ledger Advisors, 2020.11–2023.01\n- Designed audit methodologies\n- Directed accounting system implementations\nAccountants Auditors, ClearCount Financial, 2018.08–2020.11\n-Reviewed contract accounting\n- Reviewed revenue forecasts\nAccountants Auditors, BlueLine Accounting, 2016.05–218.08\n- Prepared trial balances\n- Processed accounts receivable transactions\nEDUCATION\nBachelor's, Economic Studies, Hillside University, 2019\n• Studied fundamentals of depreciation methods\n• Completed coursework in supply chain accounting"
+}

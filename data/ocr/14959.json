@@ -1,0 +1,174 @@
+{
+  "id": "14959",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.946,
+  "n_lines": 12,
+  "mean_score": 0.9841,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "YVES HOGAN",
+      "score": 0.9701,
+      "box": [
+        114,
+        87,
+        342,
+        123
+      ]
+    },
+    {
+      "text": "GA, USA |+1-372-210-5050|yves.hogan@example.com",
+      "score": 0.9751,
+      "box": [
+        116,
+        151,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Highmark Builders, 2021.02–2023.01",
+      "score": 0.9692,
+      "box": [
+        115,
+        290,
+        677,
+        313
+      ]
+    },
+    {
+      "text": "- Supervised large structural repairs",
+      "score": 0.9788,
+      "box": [
+        127,
+        315,
+        460,
+        338
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.9911,
+      "box": [
+        126,
+        339,
+        523,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorPoint Builders, 2016.04–2018.04",
+      "score": 0.9941,
+      "box": [
+        116,
+        382,
+        703,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9945,
+      "box": [
+        125,
+        406,
+        425,
+        432
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.9856,
+      "box": [
+        126,
+        431,
+        556,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Construction, Golden Hills High School, 2006",
+      "score": 0.9768,
+      "box": [
+        115,
+        540,
+        874,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of structural bracing",
+      "score": 0.9916,
+      "box": [
+        133,
+        565,
+        501,
+        590
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "YVES HOGAN\nGA, USA |+1-372-210-5050|yves.hogan@example.com\nWORK HISTORY\nConstruction Laborers, Highmark Builders, 2021.02–2023.01\n- Supervised large structural repairs\n- Coordinated large-scale material logistics\nConstruction Laborers, AnchorPoint Builders, 2016.04–2018.04\n- Assisted with concrete pouring\n- Stacked and organized construction supplies\nEDUCATION\nHigh school graduate/GED, Building Construction, Golden Hills High School, 2006\n• Studied principles of structural bracing"
+}

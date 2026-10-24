@@ -1,0 +1,226 @@
+{
+  "id": "35426",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.854,
+  "n_lines": 16,
+  "mean_score": 0.9852,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SHAUNA ADAMS",
+      "score": 0.9808,
+      "box": [
+        116,
+        90,
+        393,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-246-239-1048|shauna.adams@example.com",
+      "score": 0.9952,
+      "box": [
+        115,
+        150,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Balance Services, 2020.10–2023.01",
+      "score": 0.9895,
+      "box": [
+        115,
+        290,
+        748,
+        313
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.9851,
+      "box": [
+        125,
+        313,
+        433,
+        338
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9837,
+      "box": [
+        126,
+        338,
+        556,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Services, 2018.07–2020.10",
+      "score": 0.9941,
+      "box": [
+        115,
+        382,
+        712,
+        405
+      ]
+    },
+    {
+      "text": "- Conducted internal audits",
+      "score": 0.9932,
+      "box": [
+        127,
+        408,
+        379,
+        428
+      ]
+    },
+    {
+      "text": "- Managed accounting system updates",
+      "score": 0.983,
+      "box": [
+        126,
+        431,
+        488,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, PrimeBalance Accounting, 2016.04–2018.07",
+      "score": 0.983,
+      "box": [
+        114,
+        471,
+        739,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9833,
+      "box": [
+        125,
+        496,
+        453,
+        521
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9676,
+      "box": [
+        126,
+        521,
+        418,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Government Accounting, Skyline University, 2020",
+      "score": 0.9756,
+      "box": [
+        114,
+        631,
+        684,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in segment reporting",
+      "score": 0.9744,
+      "box": [
+        134,
+        658,
+        557,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of microeconomics",
+      "score": 0.9901,
+      "box": [
+        135,
+        682,
+        493,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "SHAUNA ADAMS\nNY, USA|+1-246-239-1048|shauna.adams@example.com\nWORK HISTORY\nAccountants Auditors, Accurate Balance Services, 2020.10–2023.01\n- Established accounting policies\n- Directed accounting system implementations\nAccountants Auditors, OpenBalance Services, 2018.07–2020.10\n- Conducted internal audits\n- Managed accounting system updates\nAccountants Auditors, PrimeBalance Accounting, 2016.04–2018.07\n- Reviewed expense classifications\n- Processed journal corrections\nEDUCATION\nBachelor's, Government Accounting, Skyline University, 2020\n• Completed coursework in segment reporting\n• Studied principles of microeconomics"
+}

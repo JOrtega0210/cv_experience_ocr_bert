@@ -1,0 +1,239 @@
+{
+  "id": "15530",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.087,
+  "n_lines": 17,
+  "mean_score": 0.9794,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DIANE KOCH",
+      "score": 0.977,
+      "box": [
+        117,
+        90,
+        329,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-869-921-2260|diane.koch@example.com",
+      "score": 0.9938,
+      "box": [
+        116,
+        151,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9798,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightPath Learning Center, 2020.01–223.0",
+      "score": 0.9803,
+      "box": [
+        115,
+        290,
+        879,
+        313
+      ]
+    },
+    {
+      "text": "-Developed instructional evaluation metrics",
+      "score": 0.9843,
+      "box": [
+        125,
+        313,
+        534,
+        338
+      ]
+    },
+    {
+      "text": "- Developed district-aligned lesson frameworks",
+      "score": 0.9534,
+      "box": [
+        127,
+        340,
+        562,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Meadow School, 2015.01–2018.01",
+      "score": 0.9701,
+      "box": [
+        116,
+        382,
+        851,
+        406
+      ]
+    },
+    {
+      "text": "- Evaluated student portfolios",
+      "score": 0.9654,
+      "box": [
+        125,
+        406,
+        400,
+        431
+      ]
+    },
+    {
+      "text": "- Developed homework policies",
+      "score": 0.9896,
+      "box": [
+        126,
+        430,
+        419,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Grove School, 2011.03–2014.04",
+      "score": 0.9914,
+      "box": [
+        116,
+        472,
+        821,
+        496
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.9779,
+      "box": [
+        127,
+        498,
+        518,
+        521
+      ]
+    },
+    {
+      "text": "- Conducted group reading activities",
+      "score": 0.9886,
+      "box": [
+        126,
+        521,
+        463,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Professional degree, Educational Readiness, Parkview University, 2007",
+      "score": 0.9738,
+      "box": [
+        114,
+        631,
+        781,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Education and Development, Woodcrest University, 2003",
+      "score": 0.9751,
+      "box": [
+        114,
+        656,
+        755,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in early literacy instruction",
+      "score": 0.9639,
+      "box": [
+        135,
+        684,
+        607,
+        704
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication",
+      "score": 0.9861,
+      "box": [
+        133,
+        706,
+        642,
+        730
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "DIANE KOCH\nGA, USA|+1-869-921-2260|diane.koch@example.com\nWORK HISTORY\nElementary Middle School Teachers, BrightPath Learning Center, 2020.01–223.0\n-Developed instructional evaluation metrics\n- Developed district-aligned lesson frameworks\nElementary Middle School Teachers, Caring Meadow School, 2015.01–2018.01\n- Evaluated student portfolios\n- Developed homework policies\nElementary Middle School Teachers, Open Grove School, 2011.03–2014.04\n- Supported standardized testing sessions\n- Conducted group reading activities\nEDUCATION\nProfessional degree, Educational Readiness, Parkview University, 2007\nBachelor's, Education and Development, Woodcrest University, 2003\n• Completed coursework in early literacy instruction\n• Completed coursework in educational communication"
+}

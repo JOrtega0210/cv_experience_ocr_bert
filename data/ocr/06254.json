@@ -1,0 +1,278 @@
+{
+  "id": "06254",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.048,
+  "n_lines": 20,
+  "mean_score": 0.9818,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MATTHEW DICKERSON",
+      "score": 0.9895,
+      "box": [
+        116,
+        90,
+        498,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-396-223-8124 |matthew.dickerson@example.com",
+      "score": 0.9821,
+      "box": [
+        116,
+        150,
+        715,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9848,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Financial, 2020.07–202.01",
+      "score": 0.9847,
+      "box": [
+        115,
+        290,
+        698,
+        313
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9862,
+      "box": [
+        126,
+        313,
+        477,
+        338
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9899,
+      "box": [
+        126,
+        338,
+        494,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Group, 2018.01–2020.07",
+      "score": 0.9921,
+      "box": [
+        115,
+        381,
+        674,
+        406
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9852,
+      "box": [
+        126,
+        406,
+        517,
+        431
+      ]
+    },
+    {
+      "text": "- Directed accounting leadership initiatives",
+      "score": 0.9748,
+      "box": [
+        126,
+        431,
+        520,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Co., 2015.07–2018.01",
+      "score": 0.9773,
+      "box": [
+        114,
+        471,
+        704,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented accounting procedures",
+      "score": 0.9825,
+      "box": [
+        127,
+        498,
+        480,
+        521
+      ]
+    },
+    {
+      "text": "- Managed accounts payable cycles",
+      "score": 0.9721,
+      "box": [
+        126,
+        521,
+        461,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Advisors, 2012.12–2015.07",
+      "score": 0.9808,
+      "box": [
+        115,
+        565,
+        701,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.971,
+      "box": [
+        126,
+        590,
+        445,
+        613
+      ]
+    },
+    {
+      "text": "- Prepared expense reports",
+      "score": 0.9642,
+      "box": [
+        126,
+        614,
+        384,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Taxation, Shady Grove University, 2015",
+      "score": 0.9667,
+      "box": [
+        115,
+        725,
+        577,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting, Riverway University, 2013",
+      "score": 0.9671,
+      "box": [
+        114,
+        747,
+        582,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of taxation",
+      "score": 0.9927,
+      "box": [
+        133,
+        773,
+        416,
+        796
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of internal controls",
+      "score": 0.9936,
+      "box": [
+        133,
+        798,
+        526,
+        820
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "MATTHEW DICKERSON\nCA, USA|+1-396-223-8124 |matthew.dickerson@example.com\nWORK HISTORY\nAccountants Auditors, CoreLedger Financial, 2020.07–202.01\n- Established financial quality controls\n- Established financial data governance\nAccountants Auditors, CoreLedger Group, 2018.01–2020.07\n- Directed enterprise accounting platforms\n- Directed accounting leadership initiatives\nAccountants Auditors, Reliable Accounts Co., 2015.07–2018.01\n- Implemented accounting procedures\n- Managed accounts payable cycles\nAccountants Auditors, ClearLedger Advisors, 2012.12–2015.07\n- Prepared account reconciliations\n- Prepared expense reports\nEDUCATION\nMaster's, Taxation, Shady Grove University, 2015\nBachelor's, Accounting, Riverway University, 2013\n• Studied principles of taxation\n• Studied fundamentals of internal controls"
+}

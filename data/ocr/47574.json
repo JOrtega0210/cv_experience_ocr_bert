@@ -1,0 +1,187 @@
+{
+  "id": "47574",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.818,
+  "n_lines": 13,
+  "mean_score": 0.9858,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LARENA HART",
+      "score": 0.9856,
+      "box": [
+        116,
+        90,
+        361,
+        120
+      ]
+    },
+    {
+      "text": "SC, USA|+1-995-426-3612 |larena.hart@example.com",
+      "score": 0.9811,
+      "box": [
+        116,
+        151,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.983,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIPath Medical Group, 2020.05–2023.01",
+      "score": 0.9831,
+      "box": [
+        116,
+        290,
+        699,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.9858,
+      "box": [
+        126,
+        314,
+        567,
+        337
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.981,
+      "box": [
+        127,
+        340,
+        457,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenArms Care Services, 2017.09–2020.05",
+      "score": 0.9928,
+      "box": [
+        115,
+        381,
+        713,
+        406
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.9821,
+      "box": [
+        125,
+        406,
+        512,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted basic patient assessments",
+      "score": 0.9902,
+      "box": [
+        126,
+        431,
+        494,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing Practice, Windcrest University, 220",
+      "score": 0.9828,
+      "box": [
+        114,
+        539,
+        638,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in metabolic disorders basics",
+      "score": 0.9844,
+      "box": [
+        134,
+        566,
+        635,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of wound assessment",
+      "score": 0.9859,
+      "box": [
+        134,
+        592,
+        558,
+        612
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "LARENA HART\nSC, USA|+1-995-426-3612 |larena.hart@example.com\nWORK HISTORY\nRegistered Nurses, WelIPath Medical Group, 2020.05–2023.01\n- Implemented evidence-based practice models\n- Implemented care standardization\nRegistered Nurses, OpenArms Care Services, 2017.09–2020.05\n- Performed basic life support procedures\n- Conducted basic patient assessments\nEDUCATION\nBachelor's, Nursing Practice, Windcrest University, 220\n• Completed coursework in metabolic disorders basics\n• Studied fundamentals of wound assessment"
+}

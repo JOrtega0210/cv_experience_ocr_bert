@@ -1,0 +1,265 @@
+{
+  "id": "36190",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.916,
+  "n_lines": 19,
+  "mean_score": 0.9777,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DAVID MILLS",
+      "score": 0.9567,
+      "box": [
+        116,
+        90,
+        332,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-633-626-5330|david.mills@example.com",
+      "score": 0.963,
+      "box": [
+        115,
+        150,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Accounting, 2020.06–2023.01",
+      "score": 0.9767,
+      "box": [
+        114,
+        289,
+        702,
+        314
+      ]
+    },
+    {
+      "text": "- Designed budgeting methodologies",
+      "score": 0.9773,
+      "box": [
+        126,
+        314,
+        469,
+        339
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9721,
+      "box": [
+        126,
+        339,
+        530,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Group, 2017.11–2020.06",
+      "score": 0.9937,
+      "box": [
+        115,
+        381,
+        665,
+        406
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.9533,
+      "box": [
+        127,
+        407,
+        456,
+        430
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9723,
+      "box": [
+        126,
+        431,
+        527,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Advisors, 2015.03–2017.11",
+      "score": 0.9704,
+      "box": [
+        115,
+        472,
+        688,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared cost allocation models",
+      "score": 0.9694,
+      "box": [
+        127,
+        499,
+        439,
+        519
+      ]
+    },
+    {
+      "text": "- Developed financial models",
+      "score": 0.9744,
+      "box": [
+        127,
+        522,
+        398,
+        545
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Financial, 2011.05–2014.01",
+      "score": 0.9765,
+      "box": [
+        116,
+        565,
+        698,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with financial statement preparation",
+      "score": 0.9902,
+      "box": [
+        125,
+        589,
+        555,
+        614
+      ]
+    },
+    {
+      "text": "- Updated fixed asset registers",
+      "score": 0.9783,
+      "box": [
+        126,
+        614,
+        413,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, International Business, Riverwood University, 2004",
+      "score": 0.9864,
+      "box": [
+        114,
+        723,
+        696,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in fraud examination basics",
+      "score": 0.9907,
+      "box": [
+        133,
+        749,
+        620,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit risk modeling",
+      "score": 0.9923,
+      "box": [
+        134,
+        772,
+        563,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "DAVID MILLS\nNY, USA|+1-633-626-5330|david.mills@example.com\nWORK HISTORY\nAccountants Auditors, OpenPath Accounting, 2020.06–2023.01\n- Designed budgeting methodologies\n- Established reporting automation systems\nAccountants Auditors, AccuCount Group, 2017.11–2020.06\n- Developed audit quality standards\n- Designed financial accountability systems\nAccountants Auditors, AccuCount Advisors, 2015.03–2017.11\n- Prepared cost allocation models\n- Developed financial models\nAccountants Auditors, CoreLedger Financial, 2011.05–2014.01\n- Assisted with financial statement preparation\n- Updated fixed asset registers\nEDUCATION\nBachelor's, International Business, Riverwood University, 2004\n• Completed coursework in fraud examination basics\n• Completed coursework in audit risk modeling"
+}

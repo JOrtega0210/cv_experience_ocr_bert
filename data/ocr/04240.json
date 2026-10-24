@@ -1,0 +1,265 @@
+{
+  "id": "04240",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.019,
+  "n_lines": 19,
+  "mean_score": 0.9791,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ARIANNA WOODARD",
+      "score": 0.9712,
+      "box": [
+        117,
+        90,
+        460,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-283-843-2751 |arianna.woodard@example.com",
+      "score": 0.9878,
+      "box": [
+        117,
+        151,
+        697,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9821,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, PrimeBalance Accounting, 2020.02–2023.01",
+      "score": 0.9769,
+      "box": [
+        114,
+        289,
+        737,
+        314
+      ]
+    },
+    {
+      "text": "- Directed accounting leadership initiatives",
+      "score": 0.9734,
+      "box": [
+        127,
+        315,
+        520,
+        338
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9754,
+      "box": [
+        127,
+        340,
+        453,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Accounting, 2017.02–2020.02",
+      "score": 0.9884,
+      "box": [
+        115,
+        381,
+        703,
+        406
+      ]
+    },
+    {
+      "text": "- Led financial forecasting initiatives",
+      "score": 0.9743,
+      "box": [
+        126,
+        406,
+        459,
+        431
+      ]
+    },
+    {
+      "text": "- Developed accounting innovation plans",
+      "score": 0.9808,
+      "box": [
+        126,
+        431,
+        505,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Group, 2014.02–2017.02",
+      "score": 0.971,
+      "box": [
+        114,
+        471,
+        702,
+        496
+      ]
+    },
+    {
+      "text": "- Managed fixed asset accounting",
+      "score": 0.9462,
+      "box": [
+        125,
+        496,
+        442,
+        522
+      ]
+    },
+    {
+      "text": "- Reviewed budget performance",
+      "score": 0.9844,
+      "box": [
+        126,
+        521,
+        427,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Advisors, 2011.02–2014.02",
+      "score": 0.9909,
+      "box": [
+        115,
+        565,
+        707,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9872,
+      "box": [
+        126,
+        590,
+        405,
+        613
+      ]
+    },
+    {
+      "text": "- Prepared expense repors",
+      "score": 0.973,
+      "box": [
+        126,
+        613,
+        384,
+        641
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Data Analytics, Brookhaven University, 2015",
+      "score": 0.9805,
+      "box": [
+        115,
+        725,
+        637,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in expense allocation",
+      "score": 0.9889,
+      "box": [
+        133,
+        749,
+        563,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of financial review procedures",
+      "score": 0.9716,
+      "box": [
+        134,
+        774,
+        595,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "ARIANNA WOODARD\nCA, USA|+1-283-843-2751 |arianna.woodard@example.com\nWORK HISTORY\nAccountants Auditors, PrimeBalance Accounting, 2020.02–2023.01\n- Directed accounting leadership initiatives\n- Led financial data standardization\nAccountants Auditors, OpenPath Accounting, 2017.02–2020.02\n- Led financial forecasting initiatives\n- Developed accounting innovation plans\nAccountants Auditors, Integrity Books Group, 2014.02–2017.02\n- Managed fixed asset accounting\n- Reviewed budget performance\nAccountants Auditors, SteadyCount Advisors, 2011.02–2014.02\n- Assisted with audit fieldwork\n- Prepared expense repors\nEDUCATION\nBachelor's, Data Analytics, Brookhaven University, 2015\n• Completed coursework in expense allocation\n• Studied principles of financial review procedures"
+}

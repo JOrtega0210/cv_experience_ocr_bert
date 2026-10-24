@@ -1,0 +1,226 @@
+{
+  "id": "56750",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.878,
+  "n_lines": 16,
+  "mean_score": 0.9851,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DESIREE MAXWELL",
+      "score": 0.9684,
+      "box": [
+        117,
+        90,
+        443,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-427-207-3273 |desiree.maxwell@example.com",
+      "score": 0.9729,
+      "box": [
+        115,
+        150,
+        690,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9794,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2020.04–2023.01",
+      "score": 0.9838,
+      "box": [
+        114,
+        289,
+        713,
+        314
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9848,
+      "box": [
+        126,
+        313,
+        505,
+        339
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9883,
+      "box": [
+        128,
+        340,
+        479,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Services, 2017.07–2020.04",
+      "score": 0.981,
+      "box": [
+        115,
+        382,
+        676,
+        404
+      ]
+    },
+    {
+      "text": "- Analyzed financial trends",
+      "score": 0.9883,
+      "box": [
+        127,
+        407,
+        375,
+        430
+      ]
+    },
+    {
+      "text": "- Managed accounts receivable cycles",
+      "score": 0.9882,
+      "box": [
+        126,
+        431,
+        483,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Co., 2014.10–2017.07",
+      "score": 0.9854,
+      "box": [
+        116,
+        472,
+        695,
+        495
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9847,
+      "box": [
+        126,
+        496,
+        452,
+        520
+      ]
+    },
+    {
+      "text": "- Reviewed credit memos",
+      "score": 0.9896,
+      "box": [
+        127,
+        521,
+        365,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Operations Management, Driftwood University, 2012",
+      "score": 0.9907,
+      "box": [
+        114,
+        631,
+        711,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of financial statement preparation",
+      "score": 0.9895,
+      "box": [
+        133,
+        656,
+        627,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in macroeconomics",
+      "score": 0.9876,
+      "box": [
+        136,
+        684,
+        546,
+        704
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "DESIREE MAXWELL\nVA, USA|+1-427-207-3273 |desiree.maxwell@example.com\nWORK HISTORY\nAccountants Auditors, Balanced Books Group, 2020.04–2023.01\n- Established cost management systems\n- Led accounting process optimization\nAccountants Auditors, FairCount Services, 2017.07–2020.04\n- Analyzed financial trends\n- Managed accounts receivable cycles\nAccountants Auditors, Reliable Balance Co., 2014.10–2017.07\n- Reviewed expense classifications\n- Reviewed credit memos\nEDUCATION\nBachelor's, Operations Management, Driftwood University, 2012\n• Studied principles of financial statement preparation\n• Completed coursework in macroeconomics"
+}

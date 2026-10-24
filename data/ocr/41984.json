@@ -1,0 +1,200 @@
+{
+  "id": "41984",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.887,
+  "n_lines": 14,
+  "mean_score": 0.9832,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JARED ALFARO",
+      "score": 0.9625,
+      "box": [
+        116,
+        90,
+        379,
+        121
+      ]
+    },
+    {
+      "text": "OH, USA|+1-473-379-3777 |jared.alfaro@example.com",
+      "score": 0.9896,
+      "box": [
+        116,
+        151,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Ledger Co., 2019.09–2021.09",
+      "score": 0.9927,
+      "box": [
+        115,
+        290,
+        695,
+        312
+      ]
+    },
+    {
+      "text": "-Established financial data governance",
+      "score": 0.994,
+      "box": [
+        125,
+        313,
+        494,
+        339
+      ]
+    },
+    {
+      "text": "- Led cross-functional financial integration",
+      "score": 0.9764,
+      "box": [
+        127,
+        340,
+        514,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Financial, 2017.02–2019.03",
+      "score": 0.9846,
+      "box": [
+        114,
+        381,
+        724,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed billing statements",
+      "score": 0.9705,
+      "box": [
+        125,
+        406,
+        402,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9654,
+      "box": [
+        126,
+        430,
+        439,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Organizational Management, Goldenwood University, 2015",
+      "score": 0.989,
+      "box": [
+        115,
+        541,
+        754,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Planning, Morningstar University, 2013",
+      "score": 0.9864,
+      "box": [
+        115,
+        566,
+        673,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in bank reconciliation",
+      "score": 0.9899,
+      "box": [
+        134,
+        591,
+        563,
+        614
+      ]
+    },
+    {
+      "text": "• Studied principles of audit sampling",
+      "score": 0.9809,
+      "box": [
+        133,
+        615,
+        476,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "JARED ALFARO\nOH, USA|+1-473-379-3777 |jared.alfaro@example.com\nWORK HISTORY\nAccountants Auditors, Balanced Ledger Co., 2019.09–2021.09\n-Established financial data governance\n- Led cross-functional financial integration\nAccountants Auditors, Balanced Path Financial, 2017.02–2019.03\n- Reviewed billing statements\n- Reviewed timesheets for payroll\nEDUCATION\nMaster's, Organizational Management, Goldenwood University, 2015\nBachelor's, Financial Planning, Morningstar University, 2013\n• Completed coursework in bank reconciliation\n• Studied principles of audit sampling"
+}

@@ -1,0 +1,200 @@
+{
+  "id": "00302",
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "PP-OCRv5_mobile_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.334,
+  "n_lines": 14,
+  "mean_score": 0.9867,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "WANDA EVANS",
+      "score": 0.9629,
+      "box": [
+        117,
+        91,
+        370,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA|+1-366-631-2150 |wanda.evans@example.com",
+      "score": 0.9896,
+      "box": [
+        116,
+        150,
+        660,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9922,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Group, 2020.12–2023.01",
+      "score": 0.9864,
+      "box": [
+        115,
+        287,
+        701,
+        318
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9861,
+      "box": [
+        127,
+        314,
+        451,
+        342
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.9827,
+      "box": [
+        127,
+        339,
+        485,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, BlueLine Accounting, 2018.10–2020.12",
+      "score": 0.9954,
+      "box": [
+        116,
+        380,
+        692,
+        408
+      ]
+    },
+    {
+      "text": "-Maintained accounting software records",
+      "score": 0.99,
+      "box": [
+        125,
+        407,
+        510,
+        432
+      ]
+    },
+    {
+      "text": "- Reconciled bank statements",
+      "score": 0.9886,
+      "box": [
+        127,
+        430,
+        405,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Professional degree, Professional Accounting, Pinefield University, 2022",
+      "score": 0.9868,
+      "box": [
+        115,
+        539,
+        786,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Managerial Accounting, North Ridge University, 2018",
+      "score": 0.9973,
+      "box": [
+        117,
+        567,
+        717,
+        591
+      ]
+    },
+    {
+      "text": "• Studied principles of compliance auditing",
+      "score": 0.9759,
+      "box": [
+        128,
+        591,
+        528,
+        619
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of forensic accounting",
+      "score": 0.9813,
+      "box": [
+        130,
+        615,
+        557,
+        642
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "WANDA EVANS\nAL, USA|+1-366-631-2150 |wanda.evans@example.com\nWORK HISTORY\nAccountants Auditors, Integrity Books Group, 2020.12–2023.01\n- Designed accounting frameworks\n- Designed financial oversight systems\nAccountants Auditors, BlueLine Accounting, 2018.10–2020.12\n-Maintained accounting software records\n- Reconciled bank statements\nEDUCATION\nProfessional degree, Professional Accounting, Pinefield University, 2022\nBachelor's, Managerial Accounting, North Ridge University, 2018\n• Studied principles of compliance auditing\n• Studied fundamentals of forensic accounting"
+}

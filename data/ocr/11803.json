@@ -1,0 +1,148 @@
+{
+  "id": "11803",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.879,
+  "n_lines": 10,
+  "mean_score": 0.9843,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DALTON PETERS",
+      "score": 0.9646,
+      "box": [
+        116,
+        90,
+        400,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-751-545-6812 |dalton.peters@example.com",
+      "score": 0.9867,
+      "box": [
+        116,
+        152,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9822,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorLine Contractors, 2020.03–2023.01",
+      "score": 0.9889,
+      "box": [
+        116,
+        291,
+        726,
+        311
+      ]
+    },
+    {
+      "text": "- Performed basic demolition tasks",
+      "score": 0.9903,
+      "box": [
+        126,
+        313,
+        449,
+        337
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.981,
+      "box": [
+        128,
+        341,
+        367,
+        361
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Fundamentals, Stone Valley University, 2023",
+      "score": 0.9744,
+      "box": [
+        116,
+        449,
+        908,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of material delivery coordination",
+      "score": 0.9903,
+      "box": [
+        132,
+        472,
+        614,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of building envelope basics",
+      "score": 0.9862,
+      "box": [
+        134,
+        499,
+        569,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "DALTON PETERS\nFL, USA|+1-751-545-6812 |dalton.peters@example.com\nWORK HISTORY\nConstruction Laborers, AnchorLine Contractors, 2020.03–2023.01\n- Performed basic demolition tasks\n- Installed basic formwork\nEDUCATION\nSome college (no degree), Construction Fundamentals, Stone Valley University, 2023\n• Studied principles of material delivery coordination\n• Studied principles of building envelope basics"
+}

@@ -1,0 +1,278 @@
+{
+  "id": "15461",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.077,
+  "n_lines": 20,
+  "mean_score": 0.9817,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JENNY PIERCE",
+      "score": 0.9785,
+      "box": [
+        116,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-646-275-6259 |jenny.pierce@example.com",
+      "score": 0.9839,
+      "box": [
+        117,
+        151,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9794,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Group, 2020.04–2023.01",
+      "score": 0.9825,
+      "box": [
+        114,
+        289,
+        687,
+        314
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9837,
+      "box": [
+        126,
+        313,
+        504,
+        339
+      ]
+    },
+    {
+      "text": "- Designed budgeting methodologies",
+      "score": 0.9845,
+      "box": [
+        127,
+        339,
+        469,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Financial Group, 2017.07–2020.04",
+      "score": 0.991,
+      "box": [
+        115,
+        381,
+        754,
+        406
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9738,
+      "box": [
+        127,
+        408,
+        512,
+        431
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9926,
+      "box": [
+        126,
+        430,
+        547,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, BlueLine Accounting, 2014.09–2017.7",
+      "score": 0.9796,
+      "box": [
+        116,
+        472,
+        690,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared regulatory reports",
+      "score": 0.9682,
+      "box": [
+        126,
+        497,
+        398,
+        522
+      ]
+    },
+    {
+      "text": "- Performed revenue recognition analysis",
+      "score": 0.9846,
+      "box": [
+        126,
+        521,
+        509,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Financial, 2011.11–2014.09",
+      "score": 0.9847,
+      "box": [
+        116,
+        565,
+        757,
+        588
+      ]
+    },
+    {
+      "text": "- Updated accounting policies documentation",
+      "score": 0.9827,
+      "box": [
+        127,
+        590,
+        546,
+        613
+      ]
+    },
+    {
+      "text": "- Maintained chart of accounts",
+      "score": 0.9593,
+      "box": [
+        128,
+        616,
+        409,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Strategic Management, Golden Meadow University, 2011",
+      "score": 0.9882,
+      "box": [
+        115,
+        724,
+        734,
+        746
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Management, Silverfield University, 2009",
+      "score": 0.9651,
+      "box": [
+        114,
+        747,
+        696,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit ethics",
+      "score": 0.9883,
+      "box": [
+        135,
+        775,
+        494,
+        795
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of valuation methods",
+      "score": 0.9843,
+      "box": [
+        134,
+        800,
+        548,
+        820
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "JENNY PIERCE\nGA, USA|+1-646-275-6259 |jenny.pierce@example.com\nWORK HISTORY\nAccountants Auditors, ClearBalance Group, 2020.04–2023.01\n- Established cost management systems\n- Designed budgeting methodologies\nAccountants Auditors, FairLedger Financial Group, 2017.07–2020.04\n- Designed financial control environments\n- Established compliance monitoring systems\nAccountants Auditors, BlueLine Accounting, 2014.09–2017.7\n- Prepared regulatory reports\n- Performed revenue recognition analysis\nAccountants Auditors, Reliable Accounts Financial, 2011.11–2014.09\n- Updated accounting policies documentation\n- Maintained chart of accounts\nEDUCATION\nMaster's, Strategic Management, Golden Meadow University, 2011\nBachelor's, Business Management, Silverfield University, 2009\n• Completed coursework in audit ethics\n• Studied fundamentals of valuation methods"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "24016",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.913,
+  "n_lines": 16,
+  "mean_score": 0.9814,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HELEN CARR",
+      "score": 0.9521,
+      "box": [
+        115,
+        90,
+        337,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA|+1-480-598-9869 |helen.carr@example.com",
+      "score": 0.9834,
+      "box": [
+        115,
+        150,
+        637,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Friendly Grove School, 2020.05–2023.01",
+      "score": 0.9767,
+      "box": [
+        116,
+        290,
+        843,
+        313
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9655,
+      "box": [
+        127,
+        315,
+        510,
+        338
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.9677,
+      "box": [
+        126,
+        339,
+        525,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Meadow School, 2016.04–2018.12",
+      "score": 0.9927,
+      "box": [
+        116,
+        382,
+        843,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented literacy development plans",
+      "score": 0.9846,
+      "box": [
+        126,
+        406,
+        515,
+        432
+      ]
+    },
+    {
+      "text": "- Created instructional units",
+      "score": 0.9982,
+      "box": [
+        127,
+        431,
+        383,
+        453
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Path School, 2012.04–2015.01",
+      "score": 0.9833,
+      "box": [
+        116,
+        472,
+        809,
+        496
+      ]
+    },
+    {
+      "text": "- Set up classroom technology tools",
+      "score": 0.9765,
+      "box": [
+        127,
+        498,
+        460,
+        521
+      ]
+    },
+    {
+      "text": "- Updated student performance logs",
+      "score": 0.9791,
+      "box": [
+        128,
+        523,
+        462,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Instructional Studies, Goldenfield University, 2004",
+      "score": 0.9728,
+      "box": [
+        115,
+        631,
+        829,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom collaboration",
+      "score": 0.9884,
+      "box": [
+        133,
+        657,
+        609,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in developmental psychology basics",
+      "score": 0.998,
+      "box": [
+        134,
+        681,
+        700,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "HELEN CARR\nMD, USA|+1-480-598-9869 |helen.carr@example.com\nWORK HISTORY\nElementary Middle School Teachers, Friendly Grove School, 2020.05–2023.01\n- Developed learning progression models\n- Directed academic intervention strategies\nElementary Middle School Teachers, Open Meadow School, 2016.04–2018.12\n- Implemented literacy development plans\n- Created instructional units\nElementary Middle School Teachers, Bright Path School, 2012.04–2015.01\n- Set up classroom technology tools\n- Updated student performance logs\nEDUCATION\nSome college (no degree), Instructional Studies, Goldenfield University, 2004\n• Completed coursework in classroom collaboration\n• Completed coursework in developmental psychology basics"
+}

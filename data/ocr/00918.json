@@ -1,0 +1,135 @@
+{
+  "id": "00918",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.017,
+  "n_lines": 9,
+  "mean_score": 0.9805,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "THOMAS BECKER",
+      "score": 0.9823,
+      "box": [
+        115,
+        90,
+        413,
+        121
+      ]
+    },
+    {
+      "text": "AK, USA|+1-418-648-6676 |thomas.becker@example.com",
+      "score": 0.9764,
+      "box": [
+        115,
+        151,
+        677,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.978,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmPoint Construction, 2021.06–2023.01",
+      "score": 0.9857,
+      "box": [
+        115,
+        290,
+        720,
+        313
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.9511,
+      "box": [
+        125,
+        313,
+        372,
+        338
+      ]
+    },
+    {
+      "text": "- Performed basic demolition tasks",
+      "score": 0.9809,
+      "box": [
+        126,
+        339,
+        449,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Foundations, Maplewood High School, 2021",
+      "score": 0.9882,
+      "box": [
+        116,
+        449,
+        908,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction quality assurance",
+      "score": 0.9836,
+      "box": [
+        132,
+        472,
+        660,
+        498
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "THOMAS BECKER\nAK, USA|+1-418-648-6676 |thomas.becker@example.com\nWORK HISTORY\nConstruction Laborers, FirmPoint Construction, 2021.06–2023.01\n- Sorted building materials\n- Performed basic demolition tasks\nEDUCATION\nHigh school graduate/GED, Construction Foundations, Maplewood High School, 2021\n• Studied fundamentals of construction quality assurance"
+}

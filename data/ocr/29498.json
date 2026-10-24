@@ -1,0 +1,148 @@
+{
+  "id": "29498",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.739,
+  "n_lines": 10,
+  "mean_score": 0.9877,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HUNTER DOYLE",
+      "score": 0.9822,
+      "box": [
+        116,
+        90,
+        382,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-897-311-1698|hunter.doyle@example.com",
+      "score": 0.9903,
+      "box": [
+        115,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9761,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidForm Contractors, 2021.06–2023.01",
+      "score": 0.9904,
+      "box": [
+        115,
+        290,
+        716,
+        313
+      ]
+    },
+    {
+      "text": "- Loaded and unloaded construction materials",
+      "score": 0.9829,
+      "box": [
+        126,
+        315,
+        554,
+        338
+      ]
+    },
+    {
+      "text": "- Performed basic demolition tasks",
+      "score": 0.9839,
+      "box": [
+        127,
+        340,
+        450,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Drafting, Goldenridge University, 2019",
+      "score": 0.9932,
+      "box": [
+        115,
+        449,
+        702,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction site security",
+      "score": 0.9896,
+      "box": [
+        133,
+        473,
+        618,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic plastering",
+      "score": 0.99,
+      "box": [
+        133,
+        498,
+        534,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "HUNTER DOYLE\nMN, USA|+1-897-311-1698|hunter.doyle@example.com\nWORK HISTORY\nConstruction Laborers, SolidForm Contractors, 2021.06–2023.01\n- Loaded and unloaded construction materials\n- Performed basic demolition tasks\nEDUCATION\nBachelor's, Construction Drafting, Goldenridge University, 2019\n• Completed coursework in construction site security\n• Completed coursework in basic plastering"
+}

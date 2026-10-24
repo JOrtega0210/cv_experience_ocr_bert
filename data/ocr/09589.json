@@ -1,0 +1,187 @@
+{
+  "id": "09589",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.942,
+  "n_lines": 13,
+  "mean_score": 0.9796,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JENNIFER FARMER",
+      "score": 0.9835,
+      "box": [
+        116,
+        90,
+        435,
+        120
+      ]
+    },
+    {
+      "text": "CO, USA | +1-977-972-7600 |jennifer.farmer@example.com",
+      "score": 0.9681,
+      "box": [
+        117,
+        151,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9787,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2020.07–2023.01",
+      "score": 0.977,
+      "box": [
+        114,
+        289,
+        713,
+        314
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9821,
+      "box": [
+        125,
+        313,
+        478,
+        338
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9562,
+      "box": [
+        126,
+        339,
+        525,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Financial Group, 2016.11–2019.05",
+      "score": 0.9811,
+      "box": [
+        114,
+        381,
+        803,
+        406
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9843,
+      "box": [
+        126,
+        407,
+        418,
+        430
+      ]
+    },
+    {
+      "text": "- Assisted with internal control testing",
+      "score": 0.9923,
+      "box": [
+        125,
+        431,
+        473,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Administrative Studies, Elm Ridge University, 2012",
+      "score": 0.9693,
+      "box": [
+        115,
+        541,
+        695,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of regulatory compliance",
+      "score": 0.9735,
+      "box": [
+        133,
+        566,
+        584,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in trial balance preparation",
+      "score": 0.9912,
+      "box": [
+        135,
+        591,
+        613,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JENNIFER FARMER\nCO, USA | +1-977-972-7600 |jennifer.farmer@example.com\nWORK HISTORY\nAccountants Auditors, Balanced Books Group, 2020.07–2023.01\n- Established financial quality controls\n- Developed regulatory reporting strategies\nAccountants Auditors, Precise Balance Financial Group, 2016.11–2019.05\n- Processed journal corrections\n- Assisted with internal control testing\nEDUCATION\nBachelor's, Administrative Studies, Elm Ridge University, 2012\n• Studied fundamentals of regulatory compliance\n• Completed coursework in trial balance preparation"
+}

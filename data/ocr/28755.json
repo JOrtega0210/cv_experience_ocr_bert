@@ -1,0 +1,213 @@
+{
+  "id": "28755",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.867,
+  "n_lines": 15,
+  "mean_score": 0.9789,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRYAN MCKAY",
+      "score": 0.9548,
+      "box": [
+        116,
+        90,
+        369,
+        120
+      ]
+    },
+    {
+      "text": "MN, USA|+1-660-464-9711 |bryan.mckay@example.com",
+      "score": 0.9885,
+      "box": [
+        115,
+        150,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Frontier Build Co., 2020.05–2023.01",
+      "score": 0.9834,
+      "box": [
+        115,
+        290,
+        669,
+        313
+      ]
+    },
+    {
+      "text": "-Directed equipment operations",
+      "score": 0.9964,
+      "box": [
+        125,
+        314,
+        427,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.9774,
+      "box": [
+        126,
+        339,
+        439,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueStone Contractors, 2016.12–2019.09",
+      "score": 0.9916,
+      "box": [
+        116,
+        382,
+        720,
+        405
+      ]
+    },
+    {
+      "text": "- Operated heavy equipment",
+      "score": 0.9974,
+      "box": [
+        126,
+        408,
+        396,
+        431
+      ]
+    },
+    {
+      "text": "- Installed roofing materials",
+      "score": 0.9558,
+      "box": [
+        125,
+        430,
+        380,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, LevelLine Builders, 2013.05–2016.02",
+      "score": 0.9684,
+      "box": [
+        115,
+        472,
+        679,
+        495
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9708,
+      "box": [
+        125,
+        496,
+        440,
+        521
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.958,
+      "box": [
+        126,
+        521,
+        441,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Heavy Equipment Operation, Prairie View High School, 2003",
+      "score": 0.9859,
+      "box": [
+        116,
+        632,
+        939,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural inspection basics",
+      "score": 0.9694,
+      "box": [
+        133,
+        658,
+        640,
+        681
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "BRYAN MCKAY\nMN, USA|+1-660-464-9711 |bryan.mckay@example.com\nWORK HISTORY\nConstruction Laborers, Frontier Build Co., 2020.05–2023.01\n-Directed equipment operations\n- Reviewed engineering drawings\nConstruction Laborers, TrueStone Contractors, 2016.12–2019.09\n- Operated heavy equipment\n- Installed roofing materials\nConstruction Laborers, LevelLine Builders, 2013.05–2016.02\n- Installed basic flooring materials\n- Handled delivery documentation\nEDUCATION\nHigh school graduate/GED, Heavy Equipment Operation, Prairie View High School, 2003\n• Completed coursework in structural inspection basics"
+}

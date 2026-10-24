@@ -1,0 +1,148 @@
+{
+  "id": "34901",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.729,
+  "n_lines": 10,
+  "mean_score": 0.9879,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NICOLAS NORMAN",
+      "score": 0.9879,
+      "box": [
+        116,
+        90,
+        429,
+        121
+      ]
+    },
+    {
+      "text": "NM, USA|+1-522-814-8307 |nicolas.norman@example.com",
+      "score": 0.9794,
+      "box": [
+        115,
+        150,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Services, 2019.09–2021.11",
+      "score": 0.9918,
+      "box": [
+        115,
+        289,
+        695,
+        312
+      ]
+    },
+    {
+      "text": "- Reconciled bank statements",
+      "score": 0.9832,
+      "box": [
+        126,
+        315,
+        406,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed account balances",
+      "score": 0.9947,
+      "box": [
+        127,
+        340,
+        403,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Services, Northway University, 2015",
+      "score": 0.9909,
+      "box": [
+        115,
+        449,
+        650,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of nonprofit accounting",
+      "score": 0.9792,
+      "box": [
+        132,
+        472,
+        530,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of statistics for business",
+      "score": 0.9895,
+      "box": [
+        132,
+        497,
+        578,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "NICOLAS NORMAN\nNM, USA|+1-522-814-8307 |nicolas.norman@example.com\nWORK HISTORY\nAccountants Auditors, AccuLedger Services, 2019.09–2021.11\n- Reconciled bank statements\n- Reviewed account balances\nEDUCATION\nBachelor's, Financial Services, Northway University, 2015\n• Studied principles of nonprofit accounting\n• Studied fundamentals of statistics for business"
+}

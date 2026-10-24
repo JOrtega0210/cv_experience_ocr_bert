@@ -1,0 +1,265 @@
+{
+  "id": "35433",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.916,
+  "n_lines": 19,
+  "mean_score": 0.9855,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANIL FLOWERS",
+      "score": 0.9945,
+      "box": [
+        117,
+        90,
+        372,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-481-530-5692|anil.flowers@example.com",
+      "score": 0.9918,
+      "box": [
+        115,
+        150,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9816,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Services, 2019.12–2023.01",
+      "score": 0.9934,
+      "box": [
+        115,
+        290,
+        690,
+        313
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9907,
+      "box": [
+        126,
+        313,
+        547,
+        339
+      ]
+    },
+    {
+      "text": "- Developed accounting innovation plans",
+      "score": 0.975,
+      "box": [
+        127,
+        339,
+        506,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyBooks Group, 2016.11–2019.12",
+      "score": 0.9902,
+      "box": [
+        115,
+        381,
+        687,
+        406
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9871,
+      "box": [
+        126,
+        406,
+        514,
+        431
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9947,
+      "box": [
+        126,
+        432,
+        509,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Advisors, 2013.09–2016.11",
+      "score": 0.978,
+      "box": [
+        115,
+        472,
+        752,
+        495
+      ]
+    },
+    {
+      "text": "- Reviewed financial systems data",
+      "score": 0.9845,
+      "box": [
+        125,
+        496,
+        446,
+        521
+      ]
+    },
+    {
+      "text": "- Analyzed financial trends",
+      "score": 0.9884,
+      "box": [
+        126,
+        521,
+        374,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Advisors, 2010.07–2013.09",
+      "score": 0.9875,
+      "box": [
+        115,
+        565,
+        732,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.9896,
+      "box": [
+        126,
+        590,
+        410,
+        613
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9633,
+      "box": [
+        126,
+        614,
+        356,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Taxation, Crestview University, 2014",
+      "score": 0.9841,
+      "box": [
+        115,
+        723,
+        564,
+        745
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of break-even analysis",
+      "score": 0.9774,
+      "box": [
+        132,
+        747,
+        565,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in intermediate accounting",
+      "score": 0.9736,
+      "box": [
+        133,
+        772,
+        610,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "ANIL FLOWERS\nNY, USA|+1-481-530-5692|anil.flowers@example.com\nWORK HISTORY\nAccountants Auditors, ClearCount Services, 2019.12–2023.01\n- Established compliance monitoring systems\n- Developed accounting innovation plans\nAccountants Auditors, SteadyBooks Group, 2016.11–2019.12\n- Developed long-term financial strategies\n- Established tax compliance frameworks\nAccountants Auditors, Reliable Accounts Advisors, 2013.09–2016.11\n- Reviewed financial systems data\n- Analyzed financial trends\nAccountants Auditors, Reliable Ledger Advisors, 2010.07–2013.09\n- Prepared audit confirmations\n- Prepared aging reports\nEDUCATION\nBachelor's, Taxation, Crestview University, 2014\n• Studied fundamentals of break-even analysis\n• Completed coursework in intermediate accounting"
+}

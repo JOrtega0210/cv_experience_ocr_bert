@@ -1,0 +1,239 @@
+{
+  "id": "01337",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.013,
+  "n_lines": 17,
+  "mean_score": 0.9788,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "XAVIER LEON",
+      "score": 0.9837,
+      "box": [
+        115,
+        90,
+        345,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-654-915-1480|xavier.leon@example.com",
+      "score": 0.9815,
+      "box": [
+        114,
+        150,
+        639,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9877,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Accounting, 2020.05–2023.01",
+      "score": 0.9791,
+      "box": [
+        114,
+        289,
+        719,
+        314
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.9733,
+      "box": [
+        126,
+        314,
+        486,
+        339
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9804,
+      "box": [
+        126,
+        339,
+        514,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Financial, 2017.08–2020.05",
+      "score": 0.9823,
+      "box": [
+        114,
+        381,
+        734,
+        406
+      ]
+    },
+    {
+      "text": "- Analyzed financial variances",
+      "score": 0.9694,
+      "box": [
+        126,
+        406,
+        407,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared audit reports",
+      "score": 0.9581,
+      "box": [
+        126,
+        430,
+        350,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, BrightPath Accounting Services, 2014.11–2017.08",
+      "score": 0.9839,
+      "box": [
+        114,
+        471,
+        793,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9773,
+      "box": [
+        125,
+        496,
+        382,
+        522
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9503,
+      "box": [
+        126,
+        520,
+        439,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Financial Accounting, Oakridge Valley University, 2014",
+      "score": 0.9724,
+      "box": [
+        115,
+        632,
+        714,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Professional Accounting, Forest Ridge University, 2012",
+      "score": 0.9814,
+      "box": [
+        114,
+        656,
+        736,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial controls",
+      "score": 0.9901,
+      "box": [
+        135,
+        684,
+        544,
+        704
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of documentation standards",
+      "score": 0.9888,
+      "box": [
+        133,
+        707,
+        613,
+        729
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "XAVIER LEON\nAZ, USA|+1-654-915-1480|xavier.leon@example.com\nWORK HISTORY\nAccountants Auditors, FairBalance Accounting, 2020.05–2023.01\n- Designed financial oversight systems\n- Directed accounting operations planning\nAccountants Auditors, Integrity Ledger Financial, 2017.08–2020.05\n- Analyzed financial variances\n- Prepared audit reports\nAccountants Auditors, BrightPath Accounting Services, 2014.11–2017.08\n- Reviewed ledger postings\n- Reviewed timesheets for payroll\nEDUCATION\nMaster's, Financial Accounting, Oakridge Valley University, 2014\nBachelor's, Professional Accounting, Forest Ridge University, 2012\n• Completed coursework in financial controls\n• Studied fundamentals of documentation standards"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "00191",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.719,
+  "n_lines": 10,
+  "mean_score": 0.984,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SARACOHEN",
+      "score": 0.9984,
+      "box": [
+        115,
+        90,
+        343,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-247-307-6205 | sara.cohen@example.com",
+      "score": 0.9657,
+      "box": [
+        116,
+        151,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9826,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueWay Health Group, 2020.02–2023.01",
+      "score": 0.9832,
+      "box": [
+        116,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9548,
+      "box": [
+        126,
+        314,
+        387,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9918,
+      "box": [
+        126,
+        339,
+        437,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Technology, Northway University, 2023",
+      "score": 0.9794,
+      "box": [
+        115,
+        449,
+        666,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of adverse drug reactions",
+      "score": 0.9951,
+      "box": [
+        133,
+        474,
+        555,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient monitoring technologies",
+      "score": 0.9904,
+      "box": [
+        133,
+        498,
+        678,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "SARACOHEN\nAL, USA|+1-247-307-6205 | sara.cohen@example.com\nWORK HISTORY\nRegistered Nurses, TrueWay Health Group, 2020.02–2023.01\n- Prepared treatment rooms\n- Assisted with patient positioning\nEDUCATION\nBachelor's, Medical Technology, Northway University, 2023\n• Studied principles of adverse drug reactions\n• Completed coursework in patient monitoring technologies"
+}

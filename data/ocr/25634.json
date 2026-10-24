@@ -1,0 +1,187 @@
+{
+  "id": "25634",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.81,
+  "n_lines": 13,
+  "mean_score": 0.9795,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ERICA TRAN",
+      "score": 0.9513,
+      "box": [
+        115,
+        88,
+        326,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA|+1-558-418-2479 |erica.tran@example.com",
+      "score": 0.9783,
+      "box": [
+        115,
+        150,
+        630,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifePath Nursing Services, 2020.05–2023.01",
+      "score": 0.9807,
+      "box": [
+        115,
+        289,
+        714,
+        314
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.9828,
+      "box": [
+        126,
+        314,
+        426,
+        339
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9698,
+      "box": [
+        126,
+        339,
+        510,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindWay Care Center, 2017.08–2020.05",
+      "score": 0.973,
+      "box": [
+        115,
+        381,
+        679,
+        406
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9879,
+      "box": [
+        125,
+        406,
+        399,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with surgical prep",
+      "score": 0.983,
+      "box": [
+        126,
+        429,
+        390,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing, Crestline University, 2019",
+      "score": 0.9651,
+      "box": [
+        114,
+        539,
+        548,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient education",
+      "score": 0.982,
+      "box": [
+        132,
+        564,
+        538,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in fluid and electrolyte balance",
+      "score": 0.9953,
+      "box": [
+        135,
+        591,
+        647,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ERICA TRAN\nMA, USA|+1-558-418-2479 |erica.tran@example.com\nWORK HISTORY\nRegistered Nurses, LifePath Nursing Services, 2020.05–2023.01\n- Managed clinical data analysis\n- Directed nursing process improvements\nRegistered Nurses, KindWay Care Center, 2017.08–2020.05\n- Recorded patient vital signs\n- Assisted with surgical prep\nEDUCATION\nBachelor's, Nursing, Crestline University, 2019\n• Studied fundamentals of patient education\n• Completed coursework in fluid and electrolyte balance"
+}

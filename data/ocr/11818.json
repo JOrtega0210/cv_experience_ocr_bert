@@ -1,0 +1,252 @@
+{
+  "id": "11818",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.079,
+  "n_lines": 18,
+  "mean_score": 0.9779,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KEVIN LAWSON",
+      "score": 0.9745,
+      "box": [
+        116,
+        90,
+        379,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-203-354-9757 |kevin.lawson@example.com",
+      "score": 0.9792,
+      "box": [
+        115,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorBuild Co., 2019.01–2023.01",
+      "score": 0.9816,
+      "box": [
+        115,
+        290,
+        657,
+        313
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.969,
+      "box": [
+        127,
+        315,
+        372,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9876,
+      "box": [
+        127,
+        340,
+        488,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyHand Builders, 2014.12–2019.01",
+      "score": 0.9874,
+      "box": [
+        116,
+        382,
+        703,
+        405
+      ]
+    },
+    {
+      "text": "- Managed construction schedules",
+      "score": 0.9833,
+      "box": [
+        126,
+        407,
+        447,
+        430
+      ]
+    },
+    {
+      "text": "- Developed construction workflows",
+      "score": 0.9767,
+      "box": [
+        126,
+        432,
+        458,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronTrack Contractors, 2010.11–2014.12",
+      "score": 0.9757,
+      "box": [
+        115,
+        472,
+        711,
+        495
+      ]
+    },
+    {
+      "text": "- Performed site leveling tasks",
+      "score": 0.9555,
+      "box": [
+        124,
+        496,
+        410,
+        521
+      ]
+    },
+    {
+      "text": "- Installed roofing materials",
+      "score": 0.9848,
+      "box": [
+        125,
+        521,
+        380,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildRight Contractors, 2006.10–2010.11",
+      "score": 0.9693,
+      "box": [
+        114,
+        563,
+        716,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9678,
+      "box": [
+        126,
+        590,
+        426,
+        614
+      ]
+    },
+    {
+      "text": "- Followed safety procedures on site",
+      "score": 0.9771,
+      "box": [
+        126,
+        613,
+        464,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Technology, Fairfield High School, 2005",
+      "score": 0.9838,
+      "box": [
+        116,
+        725,
+        870,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic HVAC concepts",
+      "score": 0.9635,
+      "box": [
+        132,
+        747,
+        592,
+        773
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "KEVIN LAWSON\nFL, USA|+1-203-354-9757 |kevin.lawson@example.com\nWORK HISTORY\nConstruction Laborers, AnchorBuild Co., 2019.01–2023.01\n- Led operational planning\n- Reviewed compliance documentation\nConstruction Laborers, SteadyHand Builders, 2014.12–2019.01\n- Managed construction schedules\n- Developed construction workflows\nConstruction Laborers, IronTrack Contractors, 2010.11–2014.12\n- Performed site leveling tasks\n- Installed roofing materials\nConstruction Laborers, BuildRight Contractors, 2006.10–2010.11\n- Prepared scaffolding platforms\n- Followed safety procedures on site\nEDUCATION\nHigh school graduate/GED, Construction Technology, Fairfield High School, 2005\n• Completed coursework in basic HVAC concepts"
+}

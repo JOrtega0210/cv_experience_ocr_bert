@@ -1,0 +1,148 @@
+{
+  "id": "00818",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.936,
+  "n_lines": 10,
+  "mean_score": 0.9802,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RACHEL MOSES",
+      "score": 0.9723,
+      "box": [
+        116,
+        90,
+        387,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-401-964-4165|rachel.moses@example.com",
+      "score": 0.9566,
+      "box": [
+        114,
+        150,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9732,
+      "box": [
+        114,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Start School, 2020.07–2023.01",
+      "score": 0.9836,
+      "box": [
+        115,
+        290,
+        847,
+        313
+      ]
+    },
+    {
+      "text": "- Managed classroom supplies",
+      "score": 0.9856,
+      "box": [
+        126,
+        314,
+        413,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented basic classroom management procedures",
+      "score": 0.987,
+      "box": [
+        126,
+        339,
+        656,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Development, Canyon View University, 2022",
+      "score": 0.9746,
+      "box": [
+        115,
+        449,
+        691,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson reflection practices",
+      "score": 0.9828,
+      "box": [
+        133,
+        474,
+        629,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in student evaluation basics",
+      "score": 0.9881,
+      "box": [
+        135,
+        500,
+        623,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "RACHEL MOSES\nAL, USA|+1-401-964-4165|rachel.moses@example.com\nWORK HISTORY\nElementary Middle School Teachers, Discovery Start School, 2020.07–2023.01\n- Managed classroom supplies\n- Implemented basic classroom management procedures\nEDUCATION\nBachelor's, Child Development, Canyon View University, 2022\n• Completed coursework in lesson reflection practices\n• Completed coursework in student evaluation basics"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "15677",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.874,
+  "n_lines": 10,
+  "mean_score": 0.9869,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DARINPRICE",
+      "score": 0.9989,
+      "box": [
+        116,
+        90,
+        335,
+        121
+      ]
+    },
+    {
+      "text": "GA,USA|+1-506-677-6408|darin.price@example.com",
+      "score": 0.9839,
+      "box": [
+        115,
+        150,
+        639,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9751,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenArms Care Services, 2021.11–2022.06",
+      "score": 0.9917,
+      "box": [
+        116,
+        290,
+        713,
+        313
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.982,
+      "box": [
+        126,
+        315,
+        531,
+        338
+      ]
+    },
+    {
+      "text": "- Updated patient medical records",
+      "score": 0.9663,
+      "box": [
+        128,
+        341,
+        443,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Nursing, Riverbend University, 2007",
+      "score": 0.9852,
+      "box": [
+        116,
+        449,
+        638,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in prioritization in nursing",
+      "score": 0.995,
+      "box": [
+        133,
+        474,
+        598,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in enteral feeding basics",
+      "score": 0.9922,
+      "box": [
+        134,
+        499,
+        593,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "DARINPRICE\nGA,USA|+1-506-677-6408|darin.price@example.com\nWORK HISTORY\nRegistered Nurses, OpenArms Care Services, 2021.11–2022.06\n- Recorded medication administration times\n- Updated patient medical records\nEDUCATION\nAssociate's degree, Nursing, Riverbend University, 2007\n• Completed coursework in prioritization in nursing\n• Completed coursework in enteral feeding basics"
+}

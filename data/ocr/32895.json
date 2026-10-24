@@ -1,0 +1,239 @@
+{
+  "id": "32895",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.868,
+  "n_lines": 17,
+  "mean_score": 0.981,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JESSICA WONG",
+      "score": 0.9796,
+      "box": [
+        115,
+        88,
+        379,
+        122
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-472-27-1747 |jessica.wong@example.com",
+      "score": 0.9726,
+      "box": [
+        116,
+        151,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Financial, 2020.11–2023.01",
+      "score": 0.9883,
+      "box": [
+        115,
+        290,
+        724,
+        313
+      ]
+    },
+    {
+      "text": "-Directed financial reporting processes",
+      "score": 0.9763,
+      "box": [
+        125,
+        313,
+        491,
+        340
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9607,
+      "box": [
+        126,
+        339,
+        424,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Financial, 2017.12–2020.02",
+      "score": 0.9881,
+      "box": [
+        115,
+        382,
+        698,
+        405
+      ]
+    },
+    {
+      "text": "- Developed financial policies",
+      "score": 0.9818,
+      "box": [
+        125,
+        406,
+        400,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed internal controls",
+      "score": 0.9695,
+      "box": [
+        126,
+        431,
+        387,
+        453
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Fairview Financial Services, 2015.01–2017.04",
+      "score": 0.9891,
+      "box": [
+        115,
+        472,
+        753,
+        495
+      ]
+    },
+    {
+      "text": "- Updated accounting policies documentation",
+      "score": 0.9788,
+      "box": [
+        127,
+        498,
+        546,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9958,
+      "box": [
+        126,
+        521,
+        422,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Applied Accounting, Clearwood University, 2012",
+      "score": 0.9811,
+      "box": [
+        115,
+        632,
+        653,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Economic Studies, Pineview Ridge University, 2010",
+      "score": 0.9694,
+      "box": [
+        114,
+        656,
+        704,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit documentation",
+      "score": 0.9757,
+      "box": [
+        133,
+        682,
+        567,
+        705
+      ]
+    },
+    {
+      "text": "• Studied principles of managerial accounting",
+      "score": 0.9854,
+      "box": [
+        133,
+        708,
+        551,
+        731
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "JESSICA WONG\nNJ, USA|+1-472-27-1747 |jessica.wong@example.com\nWORK HISTORY\nAccountants Auditors, Balanced Path Financial, 2020.11–2023.01\n-Directed financial reporting processes\n- Designed audit methodologies\nAccountants Auditors, OpenBooks Financial, 2017.12–2020.02\n- Developed financial policies\n- Reviewed internal controls\nAccountants Auditors, Fairview Financial Services, 2015.01–2017.04\n- Updated accounting policies documentation\n- Assisted with regulatory filings\nEDUCATION\nMaster's, Applied Accounting, Clearwood University, 2012\nBachelor's, Economic Studies, Pineview Ridge University, 2010\n• Studied fundamentals of audit documentation\n• Studied principles of managerial accounting"
+}

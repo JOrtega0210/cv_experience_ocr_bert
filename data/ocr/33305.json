@@ -1,0 +1,148 @@
+{
+  "id": "33305",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.745,
+  "n_lines": 10,
+  "mean_score": 0.9807,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAMES BECK",
+      "score": 0.9762,
+      "box": [
+        115,
+        90,
+        338,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-355-438-7139 |james.beck@example.com",
+      "score": 0.9685,
+      "box": [
+        116,
+        151,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9817,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Advisors, 2020.03–2022.07",
+      "score": 0.9735,
+      "box": [
+        114,
+        289,
+        699,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedurs",
+      "score": 0.9883,
+      "box": [
+        125,
+        314,
+        507,
+        339
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.9674,
+      "box": [
+        126,
+        338,
+        415,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Services, Rockland University, 2013",
+      "score": 0.9762,
+      "box": [
+        114,
+        447,
+        649,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of assurance services",
+      "score": 0.99,
+      "box": [
+        132,
+        472,
+        558,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in data analysis for accounting",
+      "score": 0.987,
+      "box": [
+        133,
+        497,
+        647,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JAMES BECK\nNJ, USA|+1-355-438-7139 |james.beck@example.com\nWORK HISTORY\nAccountants Auditors, TrustLedger Advisors, 2020.03–2022.07\n- Assisted with monthly close procedurs\n- Verified financial transactions\nEDUCATION\nBachelor's, Financial Services, Rockland University, 2013\n• Studied fundamentals of assurance services\n• Completed coursework in data analysis for accounting"
+}

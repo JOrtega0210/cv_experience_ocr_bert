@@ -1,0 +1,174 @@
+{
+  "id": "26816",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.855,
+  "n_lines": 12,
+  "mean_score": 0.9777,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSHUA BRANCH",
+      "score": 0.9843,
+      "box": [
+        116,
+        90,
+        412,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-690-840-7820 |joshua.branch@example.com",
+      "score": 0.9703,
+      "box": [
+        116,
+        151,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronBuild Contractors, 2018.08–2021.03",
+      "score": 0.9722,
+      "box": [
+        115,
+        290,
+        704,
+        313
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.9722,
+      "box": [
+        126,
+        315,
+        435,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9838,
+      "box": [
+        126,
+        340,
+        487,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Frame Builders, 2014.12–2017.8",
+      "score": 0.9846,
+      "box": [
+        114,
+        381,
+        721,
+        405
+      ]
+    },
+    {
+      "text": "- Performed basic carpentry tasks",
+      "score": 0.9696,
+      "box": [
+        125,
+        405,
+        442,
+        431
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9407,
+      "box": [
+        125,
+        429,
+        332,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Equipment Technology, Skyview High School, 203",
+      "score": 0.9912,
+      "box": [
+        116,
+        540,
+        976,
+        563
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction mathematics",
+      "score": 0.9796,
+      "box": [
+        133,
+        566,
+        623,
+        586
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "JOSHUA BRANCH\nMI, USA|+1-690-840-7820 |joshua.branch@example.com\nWORK HISTORY\nConstruction Laborers, IronBuild Contractors, 2018.08–2021.03\n- Supervised high-risk operations\n- Reviewed compliance documentation\nConstruction Laborers, Unified Frame Builders, 2014.12–2017.8\n- Performed basic carpentry tasks\n- Secured site fencing\nEDUCATION\nHigh school graduate/GED, Construction Equipment Technology, Skyview High School, 203\n• Completed coursework in construction mathematics"
+}

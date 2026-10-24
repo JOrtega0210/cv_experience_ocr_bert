@@ -1,0 +1,265 @@
+{
+  "id": "55521",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.91,
+  "n_lines": 19,
+  "mean_score": 0.9817,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARK COX",
+      "score": 0.9346,
+      "box": [
+        115,
+        88,
+        301,
+        122
+      ]
+    },
+    {
+      "text": "UT, USA|+1-322-342-1532 |mark.cox@example.com",
+      "score": 0.9873,
+      "box": [
+        116,
+        151,
+        624,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongLine Construction, 2019.08–2023.01",
+      "score": 0.9889,
+      "box": [
+        114,
+        289,
+        731,
+        314
+      ]
+    },
+    {
+      "text": "- Managed large-scale installations",
+      "score": 0.9607,
+      "box": [
+        126,
+        314,
+        451,
+        337
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.9922,
+      "box": [
+        126,
+        339,
+        523,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueBuild Services, 2016.03–2019.08",
+      "score": 0.9889,
+      "box": [
+        115,
+        381,
+        683,
+        406
+      ]
+    },
+    {
+      "text": "- Managed subcontractor coordination",
+      "score": 0.987,
+      "box": [
+        126,
+        407,
+        481,
+        430
+      ]
+    },
+    {
+      "text": "- Developed construction workflows",
+      "score": 0.9843,
+      "box": [
+        125,
+        432,
+        457,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongForm Builders, 2012.10–2016.03",
+      "score": 0.9861,
+      "box": [
+        114,
+        471,
+        699,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared site reports",
+      "score": 0.9956,
+      "box": [
+        127,
+        499,
+        337,
+        520
+      ]
+    },
+    {
+      "text": "- Installed retaining structures",
+      "score": 0.9724,
+      "box": [
+        125,
+        521,
+        403,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidTrack Construction, 2009.05–2012.10",
+      "score": 0.9911,
+      "box": [
+        114,
+        563,
+        730,
+        588
+      ]
+    },
+    {
+      "text": "- Performed basic carpentry tasks",
+      "score": 0.9605,
+      "box": [
+        124,
+        588,
+        442,
+        614
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.9776,
+      "box": [
+        125,
+        613,
+        419,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Materials, Redfield University, 2011",
+      "score": 0.9893,
+      "box": [
+        114,
+        723,
+        676,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of site fencing",
+      "score": 0.9816,
+      "box": [
+        131,
+        747,
+        484,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in site logistics",
+      "score": 0.9898,
+      "box": [
+        133,
+        772,
+        502,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "MARK COX\nUT, USA|+1-322-342-1532 |mark.cox@example.com\nWORK HISTORY\nConstruction Laborers, StrongLine Construction, 2019.08–2023.01\n- Managed large-scale installations\n- Coordinated large-scale material logistics\nConstruction Laborers, TrueBuild Services, 2016.03–2019.08\n- Managed subcontractor coordination\n- Developed construction workflows\nConstruction Laborers, StrongForm Builders, 2012.10–2016.03\n- Prepared site reports\n- Installed retaining structures\nConstruction Laborers, SolidTrack Construction, 2009.05–2012.10\n- Performed basic carpentry tasks\n- Maintained tool storage areas\nEDUCATION\nBachelor's, Construction Materials, Redfield University, 2011\n• Studied fundamentals of site fencing\n• Completed coursework in site logistics"
+}

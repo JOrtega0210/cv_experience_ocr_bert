@@ -1,0 +1,278 @@
+{
+  "id": "04243",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.054,
+  "n_lines": 20,
+  "mean_score": 0.9854,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CHARISSA CHAN",
+      "score": 0.9747,
+      "box": [
+        116,
+        88,
+        400,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-488-462-8601 |charissa.chan@example.com",
+      "score": 0.9885,
+      "box": [
+        116,
+        151,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightCare Nursing, 2018.12–2023.01",
+      "score": 0.9896,
+      "box": [
+        116,
+        290,
+        652,
+        314
+      ]
+    },
+    {
+      "text": "- Designed clinical documentation standards",
+      "score": 0.9923,
+      "box": [
+        126,
+        315,
+        539,
+        338
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.9832,
+      "box": [
+        126,
+        339,
+        520,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Health Services, 2014.11–2018.12",
+      "score": 0.9815,
+      "box": [
+        115,
+        381,
+        730,
+        406
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9889,
+      "box": [
+        127,
+        407,
+        548,
+        430
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.9773,
+      "box": [
+        126,
+        430,
+        392,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Hands Health, 2010.09–2014.11",
+      "score": 0.9903,
+      "box": [
+        116,
+        472,
+        692,
+        496
+      ]
+    },
+    {
+      "text": "- Administered chemotherapy protocols",
+      "score": 0.9912,
+      "box": [
+        125,
+        496,
+        492,
+        521
+      ]
+    },
+    {
+      "text": "- Provided perioperative nursing care",
+      "score": 0.9755,
+      "box": [
+        126,
+        521,
+        472,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverPath Health Center, 2006.07–2010.09",
+      "score": 0.9903,
+      "box": [
+        116,
+        565,
+        697,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with diagnostic procedures",
+      "score": 0.9942,
+      "box": [
+        125,
+        589,
+        474,
+        614
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.984,
+      "box": [
+        125,
+        612,
+        480,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Public Health, Oakridge University, 2009",
+      "score": 0.9845,
+      "box": [
+        115,
+        725,
+        583,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Allied Health, Brighton University, 2007",
+      "score": 0.9704,
+      "box": [
+        114,
+        747,
+        588,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in medical terminology",
+      "score": 0.9777,
+      "box": [
+        132,
+        772,
+        575,
+        798
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of end-of-life care",
+      "score": 0.9913,
+      "box": [
+        132,
+        798,
+        518,
+        820
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "CHARISSA CHAN\nCA, USA|+1-488-462-8601 |charissa.chan@example.com\nWORK HISTORY\nRegistered Nurses, BrightCare Nursing, 2018.12–2023.01\n- Designed clinical documentation standards\n- Established nursing performance metrics\nRegistered Nurses, NewSpring Health Services, 2014.11–2018.12\n- Developed clinical performance dashboards\n- Led nursing process audits\nRegistered Nurses, Harmony Hands Health, 2010.09–2014.11\n- Administered chemotherapy protocols\n- Provided perioperative nursing care\nRegistered Nurses, EverPath Health Center, 2006.07–2010.09\n- Assisted with diagnostic procedures\n- Prepared medical equipment for use\nEDUCATION\nMaster's, Public Health, Oakridge University, 2009\nBachelor's, Allied Health, Brighton University, 2007\n• Completed coursework in medical terminology\n• Studied fundamentals of end-of-life care"
+}

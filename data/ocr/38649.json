@@ -1,0 +1,265 @@
+{
+  "id": "38649",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.938,
+  "n_lines": 19,
+  "mean_score": 0.9812,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SHANE MORRIS",
+      "score": 0.9874,
+      "box": [
+        115,
+        88,
+        379,
+        122
+      ]
+    },
+    {
+      "text": "NY, USA|+1-221-636-2269|shane.morris@example.com",
+      "score": 0.971,
+      "box": [
+        115,
+        150,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Balance Advisors, 2020.05–2023.01",
+      "score": 0.9892,
+      "box": [
+        115,
+        290,
+        748,
+        313
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9744,
+      "box": [
+        127,
+        315,
+        480,
+        338
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9715,
+      "box": [
+        126,
+        338,
+        495,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Financial Group, 2017.09–2020.05",
+      "score": 0.9911,
+      "box": [
+        114,
+        381,
+        756,
+        406
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9834,
+      "box": [
+        126,
+        406,
+        514,
+        432
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9764,
+      "box": [
+        126,
+        430,
+        495,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Financial, 2013.10–2016.06",
+      "score": 0.9772,
+      "box": [
+        114,
+        471,
+        741,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed budget performance",
+      "score": 0.9784,
+      "box": [
+        125,
+        496,
+        427,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared regulatory reports",
+      "score": 0.9504,
+      "box": [
+        126,
+        521,
+        398,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrueBalance Financial, 2009.12–2012.09",
+      "score": 0.9936,
+      "box": [
+        115,
+        565,
+        708,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.9896,
+      "box": [
+        126,
+        590,
+        410,
+        613
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.9862,
+      "box": [
+        125,
+        612,
+        362,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Analytics, Riverbend University, 2003",
+      "score": 0.9675,
+      "box": [
+        114,
+        723,
+        661,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting theory",
+      "score": 0.9806,
+      "box": [
+        132,
+        748,
+        555,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in general ledger accounting",
+      "score": 0.9897,
+      "box": [
+        134,
+        772,
+        628,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "SHANE MORRIS\nNY, USA|+1-221-636-2269|shane.morris@example.com\nWORK HISTORY\nAccountants Auditors, Accurate Balance Advisors, 2020.05–2023.01\n- Led accounting process optimization\n- Directed accounting training programs\nAccountants Auditors, AccuCount Financial Group, 2017.09–2020.05\n- Directed accounting operations planning\n- Directed accounting training programs\nAccountants Auditors, Balanced Books Financial, 2013.10–2016.06\n- Reviewed budget performance\n- Prepared regulatory reports\nAccountants Auditors, TrueBalance Financial, 2009.12–2012.09\n- Prepared audit confirmations\n- Recorded cash receipts\nEDUCATION\nBachelor's, Business Analytics, Riverbend University, 2003\n• Completed coursework in accounting theory\n• Completed coursework in general ledger accounting"
+}

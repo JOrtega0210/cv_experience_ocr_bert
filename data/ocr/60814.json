@@ -1,0 +1,187 @@
+{
+  "id": "60814",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.823,
+  "n_lines": 13,
+  "mean_score": 0.9791,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ROSE HAMILTON",
+      "score": 0.9828,
+      "box": [
+        116,
+        90,
+        399,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-536-711-5423|rose.hamilton@example.com",
+      "score": 0.9782,
+      "box": [
+        114,
+        150,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9788,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Advisors, 2020.09–2023.01",
+      "score": 0.9814,
+      "box": [
+        114,
+        289,
+        696,
+        313
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9537,
+      "box": [
+        125,
+        314,
+        527,
+        339
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9772,
+      "box": [
+        126,
+        339,
+        427,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Services, 2015.09–2018.02",
+      "score": 0.99,
+      "box": [
+        115,
+        382,
+        684,
+        405
+      ]
+    },
+    {
+      "text": "- Matched invoices to purchase orders",
+      "score": 0.9801,
+      "box": [
+        126,
+        407,
+        483,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared expense reports",
+      "score": 0.9631,
+      "box": [
+        126,
+        430,
+        384,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Auditing, Willowbrook University, 2006",
+      "score": 0.9824,
+      "box": [
+        115,
+        541,
+        581,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of consolidation accounting",
+      "score": 0.9825,
+      "box": [
+        132,
+        564,
+        608,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of financial review procedures",
+      "score": 0.9802,
+      "box": [
+        134,
+        591,
+        595,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ROSE HAMILTON\nWI, USA|+1-536-711-5423|rose.hamilton@example.com\nWORK HISTORY\nAccountants Auditors, FairBalance Advisors, 2020.09–2023.01\n- Designed financial accountability systems\n- Managed financial governance\nAccountants Auditors, EverCount Services, 2015.09–2018.02\n- Matched invoices to purchase orders\n- Prepared expense reports\nEDUCATION\nBachelor's, Auditing, Willowbrook University, 2006\n• Studied fundamentals of consolidation accounting\n• Studied principles of financial review procedures"
+}

@@ -1,0 +1,278 @@
+{
+  "id": "04608",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.123,
+  "n_lines": 20,
+  "mean_score": 0.9806,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BONNIE COFFEY",
+      "score": 0.9619,
+      "box": [
+        116,
+        90,
+        394,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-620-464-2719 |bonnie.coffey@example.com",
+      "score": 0.9762,
+      "box": [
+        117,
+        152,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9807,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, New Beginnings School, 2020.05–2023.01",
+      "score": 0.9908,
+      "box": [
+        116,
+        290,
+        856,
+        314
+      ]
+    },
+    {
+      "text": "-Directed instructional benchmarking",
+      "score": 0.9814,
+      "box": [
+        126,
+        315,
+        474,
+        339
+      ]
+    },
+    {
+      "text": "- Developed student performance metrics",
+      "score": 0.984,
+      "box": [
+        126,
+        339,
+        511,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Bridge School, 2017.09–2020.05",
+      "score": 0.9918,
+      "box": [
+        116,
+        382,
+        840,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented instructional improvement programs",
+      "score": 0.9849,
+      "box": [
+        126,
+        406,
+        601,
+        432
+      ]
+    },
+    {
+      "text": "-Directed instructional benchmarking",
+      "score": 0.9795,
+      "box": [
+        125,
+        429,
+        474,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Meadowbrook Academy, 2014.12–2017.09",
+      "score": 0.9796,
+      "box": [
+        115,
+        472,
+        861,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented project-based learning activities",
+      "score": 0.9701,
+      "box": [
+        127,
+        498,
+        561,
+        521
+      ]
+    },
+    {
+      "text": "- Managed instructional timelines",
+      "score": 0.9621,
+      "box": [
+        127,
+        522,
+        435,
+        545
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Steps School, 2012.03–2014.12",
+      "score": 0.9688,
+      "box": [
+        116,
+        565,
+        834,
+        588
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9763,
+      "box": [
+        126,
+        590,
+        395,
+        613
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.9913,
+      "box": [
+        127,
+        616,
+        411,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Education Preparation, Goldenview University, 2011",
+      "score": 0.9875,
+      "box": [
+        116,
+        726,
+        687,
+        745
+      ]
+    },
+    {
+      "text": "Bachelor's, Family and Child Studies, Stonebridge University, 2009",
+      "score": 0.9793,
+      "box": [
+        114,
+        747,
+        736,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of student engagement",
+      "score": 0.9887,
+      "box": [
+        133,
+        774,
+        534,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in mathematics education basics",
+      "score": 0.9773,
+      "box": [
+        134,
+        800,
+        668,
+        820
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "BONNIE COFFEY\nCA, USA|+1-620-464-2719 |bonnie.coffey@example.com\nWORK HISTORY\nElementary Middle School Teachers, New Beginnings School, 2020.05–2023.01\n-Directed instructional benchmarking\n- Developed student performance metrics\nElementary Middle School Teachers, Golden Bridge School, 2017.09–2020.05\n- Implemented instructional improvement programs\n-Directed instructional benchmarking\nElementary Middle School Teachers, Meadowbrook Academy, 2014.12–2017.09\n- Implemented project-based learning activities\n- Managed instructional timelines\nElementary Middle School Teachers, Golden Steps School, 2012.03–2014.12\n- Collected permission forms\n- Reviewed curriculum content\nEDUCATION\nMaster's, Education Preparation, Goldenview University, 2011\nBachelor's, Family and Child Studies, Stonebridge University, 2009\n• Studied principles of student engagement\n• Completed coursework in mathematics education basics"
+}

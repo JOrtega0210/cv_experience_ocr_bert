@@ -1,0 +1,148 @@
+{
+  "id": "02274",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.843,
+  "n_lines": 10,
+  "mean_score": 0.9812,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TATIANA CLINE",
+      "score": 0.9667,
+      "box": [
+        114,
+        90,
+        374,
+        121
+      ]
+    },
+    {
+      "text": "AR,USA|+1-500-602-4130 |tatiana.cline@example.com",
+      "score": 0.9882,
+      "box": [
+        116,
+        151,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9829,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Frontier Build Co., 2020.03–2023.01",
+      "score": 0.9818,
+      "box": [
+        115,
+        289,
+        668,
+        312
+      ]
+    },
+    {
+      "text": "- Applied basic sealants and adhesives",
+      "score": 0.9698,
+      "box": [
+        127,
+        315,
+        490,
+        338
+      ]
+    },
+    {
+      "text": "– Marked measurements on materials",
+      "score": 0.9681,
+      "box": [
+        127,
+        340,
+        475,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Quality Control, Northway University, 2018",
+      "score": 0.9801,
+      "box": [
+        115,
+        449,
+        742,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of load-bearing structures",
+      "score": 0.9908,
+      "box": [
+        132,
+        472,
+        555,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural basics",
+      "score": 0.9854,
+      "box": [
+        134,
+        499,
+        541,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "TATIANA CLINE\nAR,USA|+1-500-602-4130 |tatiana.cline@example.com\nWORK HISTORY\nConstruction Laborers, Frontier Build Co., 2020.03–2023.01\n- Applied basic sealants and adhesives\n– Marked measurements on materials\nEDUCATION\nBachelor's, Construction Quality Control, Northway University, 2018\n• Studied principles of load-bearing structures\n• Completed coursework in structural basics"
+}

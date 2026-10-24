@@ -1,0 +1,187 @@
+{
+  "id": "28406",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.773,
+  "n_lines": 13,
+  "mean_score": 0.98,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "YOEL PAYNE",
+      "score": 0.9744,
+      "box": [
+        113,
+        87,
+        334,
+        123
+      ]
+    },
+    {
+      "text": "MI, USA|+1-921-999-6294 |yoel.payne@example.com",
+      "score": 0.988,
+      "box": [
+        116,
+        151,
+        636,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9858,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Tech, 2020.12–2023.01",
+      "score": 0.9673,
+      "box": [
+        114,
+        288,
+        642,
+        313
+      ]
+    },
+    {
+      "text": "-Led technical audits",
+      "score": 0.9842,
+      "box": [
+        126,
+        314,
+        326,
+        336
+      ]
+    },
+    {
+      "text": "- Implemented performance optimization plans",
+      "score": 0.9922,
+      "box": [
+        126,
+        339,
+        559,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Corefield Labs, 2018.10–2020.12",
+      "score": 0.9849,
+      "box": [
+        116,
+        382,
+        630,
+        405
+      ]
+    },
+    {
+      "text": "- Implemented validation logic",
+      "score": 0.9935,
+      "box": [
+        126,
+        406,
+        406,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed API documentation",
+      "score": 0.9718,
+      "box": [
+        126,
+        432,
+        416,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Windridge University, 2021",
+      "score": 0.9518,
+      "box": [
+        115,
+        541,
+        473,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of compiler design",
+      "score": 0.964,
+      "box": [
+        132,
+        565,
+        525,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in exception management",
+      "score": 0.9834,
+      "box": [
+        134,
+        590,
+        608,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "YOEL PAYNE\nMI, USA|+1-921-999-6294 |yoel.payne@example.com\nWORK HISTORY\nSoftware Developers, Codecrest Tech, 2020.12–2023.01\n-Led technical audits\n- Implemented performance optimization plans\nSoftware Developers, Corefield Labs, 2018.10–2020.12\n- Implemented validation logic\n- Reviewed API documentation\nEDUCATION\nBachelor's, Windridge University, 2021\n• Studied fundamentals of compiler design\n• Completed coursework in exception management"
+}

@@ -1,0 +1,200 @@
+{
+  "id": "15813",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.956,
+  "n_lines": 14,
+  "mean_score": 0.9851,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AMBERGOULD",
+      "score": 0.998,
+      "box": [
+        116,
+        88,
+        371,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA|+1-752-430-3731|amber.gould@example.com",
+      "score": 0.9803,
+      "box": [
+        116,
+        151,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Horizons Academy, 2020.02–2023.01",
+      "score": 0.9914,
+      "box": [
+        115,
+        290,
+        878,
+        313
+      ]
+    },
+    {
+      "text": "- Designed instructional governance models",
+      "score": 0.976,
+      "box": [
+        126,
+        315,
+        536,
+        338
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.9722,
+      "box": [
+        126,
+        339,
+        431,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Grove School, 2017.03–2020.02",
+      "score": 0.9868,
+      "box": [
+        115,
+        381,
+        862,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared lesson summaries",
+      "score": 0.9874,
+      "box": [
+        125,
+        406,
+        403,
+        431
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9727,
+      "box": [
+        127,
+        432,
+        395,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Elementary Education Preparation, Westbrook University, 2020",
+      "score": 0.9815,
+      "box": [
+        115,
+        541,
+        792,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Child Studies, Briar Ridge University, 2018",
+      "score": 0.9833,
+      "box": [
+        115,
+        566,
+        696,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of early childhood education",
+      "score": 0.9927,
+      "box": [
+        133,
+        591,
+        579,
+        614
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication skills",
+      "score": 0.9843,
+      "box": [
+        134,
+        616,
+        693,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "AMBERGOULD\nGA, USA|+1-752-430-3731|amber.gould@example.com\nWORK HISTORY\nElementary Middle School Teachers, Future Horizons Academy, 2020.02–2023.01\n- Designed instructional governance models\n- Designed assessment systems\nElementary Middle School Teachers, Discovery Grove School, 2017.03–2020.02\n- Prepared lesson summaries\n- Collected permission forms\nEDUCATION\nMaster's, Elementary Education Preparation, Westbrook University, 2020\nBachelor's, Applied Child Studies, Briar Ridge University, 2018\n• Studied principles of early childhood education\n• Completed coursework in educational communication skills"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "00216",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.782,
+  "n_lines": 13,
+  "mean_score": 0.9848,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ERIN CHARLES",
+      "score": 0.9853,
+      "box": [
+        117,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-386-648-2880|erin.charles@example.com",
+      "score": 0.987,
+      "box": [
+        115,
+        150,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearwave Systems, 2021.02–2023.01",
+      "score": 0.996,
+      "box": [
+        116,
+        290,
+        679,
+        313
+      ]
+    },
+    {
+      "text": "- Defined engineering best practices",
+      "score": 0.9534,
+      "box": [
+        127,
+        315,
+        463,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9802,
+      "box": [
+        127,
+        340,
+        424,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudframe Software, 2016.06–2018.05",
+      "score": 0.9953,
+      "box": [
+        116,
+        382,
+        693,
+        405
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9809,
+      "box": [
+        126,
+        406,
+        447,
+        432
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.9846,
+      "box": [
+        126,
+        430,
+        375,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Plainview University, 2006",
+      "score": 0.9784,
+      "box": [
+        115,
+        541,
+        470,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of microservices architecture",
+      "score": 0.9868,
+      "box": [
+        133,
+        566,
+        585,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in database optimization",
+      "score": 0.9904,
+      "box": [
+        134,
+        591,
+        593,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ERIN CHARLES\nAL, USA|+1-386-648-2880|erin.charles@example.com\nWORK HISTORY\nSoftware Developers, Clearwave Systems, 2021.02–2023.01\n- Defined engineering best practices\n- Implemented core frameworks\nSoftware Developers, Cloudframe Software, 2016.06–2018.05\n- Implemented error handling logic\n- Resolved merge conflicts\nEDUCATION\nBachelor's, Plainview University, 2006\n• Studied principles of microservices architecture\n• Completed coursework in database optimization"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "28634",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.849,
+  "n_lines": 16,
+  "mean_score": 0.9844,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KENDALWARD",
+      "score": 0.9986,
+      "box": [
+        116,
+        90,
+        370,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-621-462-1604 |kendal.ward@example.com",
+      "score": 0.9828,
+      "box": [
+        115,
+        150,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeFrame Co., 2019.10–2023.01",
+      "score": 0.9825,
+      "box": [
+        115,
+        290,
+        660,
+        313
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.9927,
+      "box": [
+        126,
+        315,
+        476,
+        338
+      ]
+    },
+    {
+      "text": "- Directed equipment operations",
+      "score": 0.9673,
+      "box": [
+        126,
+        339,
+        426,
+        362
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Group, 2016.07–2019.10",
+      "score": 0.9787,
+      "box": [
+        115,
+        381,
+        675,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted site safety inspections",
+      "score": 0.976,
+      "box": [
+        125,
+        406,
+        453,
+        431
+      ]
+    },
+    {
+      "text": "- Performed masonry work",
+      "score": 0.9837,
+      "box": [
+        126,
+        429,
+        377,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterFrame Builders, 2010.07–2013.11",
+      "score": 0.9884,
+      "box": [
+        115,
+        472,
+        712,
+        495
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9852,
+      "box": [
+        125,
+        496,
+        492,
+        522
+      ]
+    },
+    {
+      "text": "–Mixed concrete and mortar",
+      "score": 0.9739,
+      "box": [
+        126,
+        522,
+        391,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Design, Stone Valley University, 2009",
+      "score": 0.9858,
+      "box": [
+        114,
+        631,
+        777,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in equipment maintenance basics",
+      "score": 0.9881,
+      "box": [
+        133,
+        656,
+        677,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in framing hardware usage",
+      "score": 0.9827,
+      "box": [
+        134,
+        681,
+        614,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "KENDALWARD\nMN, USA|+1-621-462-1604 |kendal.ward@example.com\nWORK HISTORY\nConstruction Laborers, PrimeFrame Co., 2019.10–2023.01\n- Developed site performance metrics\n- Directed equipment operations\nConstruction Laborers, Allied Build Group, 2016.07–2019.10\n- Conducted site safety inspections\n- Performed masonry work\nConstruction Laborers, MasterFrame Builders, 2010.07–2013.11\n- Performed basic sanding and painting\n–Mixed concrete and mortar\nEDUCATION\nAssociate's degree, Construction Design, Stone Valley University, 2009\n• Completed coursework in equipment maintenance basics\n• Completed coursework in framing hardware usage"
+}

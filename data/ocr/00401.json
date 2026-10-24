@@ -1,0 +1,148 @@
+{
+  "id": "00401",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.892,
+  "n_lines": 10,
+  "mean_score": 0.9768,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRYNN EVANS",
+      "score": 0.9566,
+      "box": [
+        116,
+        90,
+        361,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-695-978-3800 |brynn.evans@example.com",
+      "score": 0.9811,
+      "box": [
+        116,
+        151,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9821,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Horizons School, 2021.09–2023.01",
+      "score": 0.9772,
+      "box": [
+        116,
+        290,
+        853,
+        313
+      ]
+    },
+    {
+      "text": "- Recorded student progress data",
+      "score": 0.9629,
+      "box": [
+        125,
+        314,
+        442,
+        339
+      ]
+    },
+    {
+      "text": "- Maintained student folders",
+      "score": 0.9626,
+      "box": [
+        127,
+        340,
+        388,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Skills, Clearfield University, 2019",
+      "score": 0.9672,
+      "box": [
+        115,
+        449,
+        618,
+        472
+      ]
+    },
+    {
+      "text": "• Studied basic classroom management concepts",
+      "score": 0.9824,
+      "box": [
+        132,
+        472,
+        592,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of learning assessment",
+      "score": 0.9969,
+      "box": [
+        134,
+        499,
+        572,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "BRYNN EVANS\nAL, USA|+1-695-978-3800 |brynn.evans@example.com\nWORK HISTORY\nElementary Middle School Teachers, Sunny Horizons School, 2021.09–2023.01\n- Recorded student progress data\n- Maintained student folders\nEDUCATION\nBachelor's, Learning Skills, Clearfield University, 2019\n• Studied basic classroom management concepts\n• Studied fundamentals of learning assessment"
+}

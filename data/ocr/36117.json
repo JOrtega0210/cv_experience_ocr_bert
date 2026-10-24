@@ -1,0 +1,239 @@
+{
+  "id": "36117",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.888,
+  "n_lines": 17,
+  "mean_score": 0.9794,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SARAH PRUITT",
+      "score": 0.9781,
+      "box": [
+        115,
+        90,
+        368,
+        120
+      ]
+    },
+    {
+      "text": "NY, USA|+1-273-314-3620|sarah.pruitt@example.com",
+      "score": 0.9768,
+      "box": [
+        115,
+        150,
+        645,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Services, 2020.07–2023.01",
+      "score": 0.9783,
+      "box": [
+        114,
+        289,
+        714,
+        314
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9661,
+      "box": [
+        127,
+        315,
+        424,
+        338
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9747,
+      "box": [
+        126,
+        339,
+        555,
+        362
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearView Accounting, 2018.01–2020.07",
+      "score": 0.9712,
+      "box": [
+        114,
+        381,
+        704,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared cash flow statements",
+      "score": 0.9833,
+      "box": [
+        127,
+        406,
+        429,
+        430
+      ]
+    },
+    {
+      "text": "- Implemented accounting procedures",
+      "score": 0.9846,
+      "box": [
+        126,
+        431,
+        479,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Advisors, 2015.07–2018.01",
+      "score": 0.9925,
+      "box": [
+        115,
+        472,
+        705,
+        495
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9649,
+      "box": [
+        125,
+        497,
+        356,
+        522
+      ]
+    },
+    {
+      "text": "- Reconciled bank statements",
+      "score": 0.9735,
+      "box": [
+        126,
+        522,
+        404,
+        545
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Professional degree, Business Administration, Brighton University, 2016",
+      "score": 0.9854,
+      "box": [
+        114,
+        631,
+        783,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting Information Systems, Stonegate University, 2012",
+      "score": 0.9811,
+      "box": [
+        114,
+        656,
+        788,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in expense allocation",
+      "score": 0.9827,
+      "box": [
+        135,
+        684,
+        562,
+        704
+      ]
+    },
+    {
+      "text": "• Studied principles of business process analysis",
+      "score": 0.9728,
+      "box": [
+        132,
+        706,
+        585,
+        731
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "SARAH PRUITT\nNY, USA|+1-273-314-3620|sarah.pruitt@example.com\nWORK HISTORY\nAccountants Auditors, SteadyLedger Services, 2020.07–2023.01\n- Designed audit methodologies\n- Directed accounting system implementations\nAccountants Auditors, ClearView Accounting, 2018.01–2020.07\n- Prepared cash flow statements\n- Implemented accounting procedures\nAccountants Auditors, SteadyCount Advisors, 2015.07–2018.01\n- Prepared aging reports\n- Reconciled bank statements\nEDUCATION\nProfessional degree, Business Administration, Brighton University, 2016\nBachelor's, Accounting Information Systems, Stonegate University, 2012\n• Completed coursework in expense allocation\n• Studied principles of business process analysis"
+}

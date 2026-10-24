@@ -1,0 +1,148 @@
+{
+  "id": "48777",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.731,
+  "n_lines": 10,
+  "mean_score": 0.9848,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LETA FLOWERS",
+      "score": 0.9712,
+      "box": [
+        116,
+        90,
+        381,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-918-556-8534|leta.flowers@example.com",
+      "score": 0.9865,
+      "box": [
+        115,
+        150,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Care Center, 2021.01–2022.03",
+      "score": 0.9927,
+      "box": [
+        116,
+        290,
+        717,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with surgical prep",
+      "score": 0.9912,
+      "box": [
+        125,
+        313,
+        390,
+        341
+      ]
+    },
+    {
+      "text": "- Assisted with hygiene care",
+      "score": 0.9702,
+      "box": [
+        126,
+        339,
+        391,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Health, Bright Ridge University, 2018",
+      "score": 0.9697,
+      "box": [
+        115,
+        449,
+        641,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of emergency nursing",
+      "score": 0.9902,
+      "box": [
+        132,
+        472,
+        519,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in medical-surgical nursing",
+      "score": 0.9935,
+      "box": [
+        133,
+        497,
+        614,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "LETA FLOWERS\nTN, USA|+1-918-556-8534|leta.flowers@example.com\nWORK HISTORY\nRegistered Nurses, GentleHands Care Center, 2021.01–2022.03\n- Assisted with surgical prep\n- Assisted with hygiene care\nEDUCATION\nBachelor's, Clinical Health, Bright Ridge University, 2018\n• Studied principles of emergency nursing\n• Completed coursework in medical-surgical nursing"
+}

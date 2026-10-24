@@ -1,0 +1,161 @@
+{
+  "id": "59717",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.752,
+  "n_lines": 11,
+  "mean_score": 0.9806,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ADRIANKHAN",
+      "score": 0.9987,
+      "box": [
+        116,
+        90,
+        353,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-784-209-4792|adrian.khan@example.com",
+      "score": 0.9774,
+      "box": [
+        114,
+        150,
+        654,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9835,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Solutions, 2019.09–2020.08",
+      "score": 0.9857,
+      "box": [
+        115,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9813,
+      "box": [
+        127,
+        315,
+        414,
+        339
+      ]
+    },
+    {
+      "text": "- Refactored simple functions for readability",
+      "score": 0.9662,
+      "box": [
+        127,
+        340,
+        530,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Sunrise University, 2012",
+      "score": 0.9807,
+      "box": [
+        116,
+        450,
+        434,
+        470
+      ]
+    },
+    {
+      "text": "Bachelor's, Summit Ridge University, 2010",
+      "score": 0.9708,
+      "box": [
+        115,
+        474,
+        513,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of game development",
+      "score": 0.9579,
+      "box": [
+        133,
+        497,
+        558,
+        523
+      ]
+    },
+    {
+      "text": "• Studied principles of mutexes and semaphores",
+      "score": 0.9858,
+      "box": [
+        133,
+        523,
+        582,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "ADRIANKHAN\nWA, USA|+1-784-209-4792|adrian.khan@example.com\nWORK HISTORY\nSoftware Developers, Openwave Solutions, 2019.09–2020.08\n- Updated frontend stylesheets\n- Refactored simple functions for readability\nEDUCATION\nMaster's, Sunrise University, 2012\nBachelor's, Summit Ridge University, 2010\n• Studied fundamentals of game development\n• Studied principles of mutexes and semaphores"
+}

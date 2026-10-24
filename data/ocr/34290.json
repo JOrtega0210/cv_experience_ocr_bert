@@ -1,0 +1,187 @@
+{
+  "id": "34290",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.824,
+  "n_lines": 13,
+  "mean_score": 0.9804,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SHANDREKA STEVENS",
+      "score": 0.9764,
+      "box": [
+        116,
+        89,
+        496,
+        120
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-245-946-5558|shandreka.stevens@example.com",
+      "score": 0.9955,
+      "box": [
+        115,
+        150,
+        713,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9785,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, BlueLine Accounting, 2020.09–2023.01",
+      "score": 0.9868,
+      "box": [
+        114,
+        289,
+        689,
+        313
+      ]
+    },
+    {
+      "text": "-Directed accounting training programs",
+      "score": 0.9846,
+      "box": [
+        125,
+        314,
+        494,
+        339
+      ]
+    },
+    {
+      "text": "- Directed budget planning cycles",
+      "score": 0.9681,
+      "box": [
+        126,
+        339,
+        439,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Services, 2016.11–2019.03",
+      "score": 0.9954,
+      "box": [
+        115,
+        382,
+        696,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained supporting documentation",
+      "score": 0.9698,
+      "box": [
+        126,
+        407,
+        490,
+        430
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9829,
+      "box": [
+        126,
+        430,
+        413,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Management, Meadowcrest University, 2008",
+      "score": 0.9817,
+      "box": [
+        114,
+        539,
+        728,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of tax planning",
+      "score": 0.965,
+      "box": [
+        132,
+        564,
+        491,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial modeling basics",
+      "score": 0.9628,
+      "box": [
+        135,
+        591,
+        621,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "SHANDREKA STEVENS\nNJ, USA|+1-245-946-5558|shandreka.stevens@example.com\nWORK HISTORY\nAccountants Auditors, BlueLine Accounting, 2020.09–2023.01\n-Directed accounting training programs\n- Directed budget planning cycles\nAccountants Auditors, CoreLedger Services, 2016.11–2019.03\n- Maintained supporting documentation\n- Assisted with budget tracking\nEDUCATION\nBachelor's, Financial Management, Meadowcrest University, 2008\n• Studied fundamentals of tax planning\n• Completed coursework in financial modeling basics"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "00876",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.96,
+  "n_lines": 16,
+  "mean_score": 0.9811,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LAURA STEPHENS",
+      "score": 0.9725,
+      "box": [
+        116,
+        90,
+        424,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-355-437-1664 |laura.stephens@example.com",
+      "score": 0.9836,
+      "box": [
+        116,
+        152,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenSpring Care Services, 2020.10–2023.01",
+      "score": 0.9879,
+      "box": [
+        115,
+        289,
+        723,
+        314
+      ]
+    },
+    {
+      "text": "- Supervised multidisciplinary care teams",
+      "score": 0.9863,
+      "box": [
+        126,
+        314,
+        508,
+        339
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.9775,
+      "box": [
+        127,
+        340,
+        425,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueWay Nursing, 2018.06–2020.10",
+      "score": 0.9805,
+      "box": [
+        116,
+        382,
+        638,
+        406
+      ]
+    },
+    {
+      "text": "- Administered blood transfusions",
+      "score": 0.9981,
+      "box": [
+        126,
+        405,
+        440,
+        430
+      ]
+    },
+    {
+      "text": "- Conducted quality assurance checks",
+      "score": 0.9764,
+      "box": [
+        126,
+        431,
+        482,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellHands Nursing Group, 2013.05–2015.09",
+      "score": 0.9897,
+      "box": [
+        116,
+        473,
+        718,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored patient recovery",
+      "score": 0.9614,
+      "box": [
+        125,
+        496,
+        390,
+        523
+      ]
+    },
+    {
+      "text": "- Prepared patients for examinations",
+      "score": 0.9714,
+      "box": [
+        126,
+        521,
+        466,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Associate's degree, Biological Sciences, Goldenfield University, 2012",
+      "score": 0.985,
+      "box": [
+        115,
+        631,
+        758,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of community health nursing",
+      "score": 0.9761,
+      "box": [
+        132,
+        656,
+        617,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in neurologic nursing basics",
+      "score": 0.9667,
+      "box": [
+        136,
+        683,
+        624,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "LAURA STEPHENS\nAL, USA|+1-355-437-1664 |laura.stephens@example.com\nWORK HISTORY\nRegistered Nurses, OpenSpring Care Services, 2020.10–2023.01\n- Supervised multidisciplinary care teams\n- Led clinical governance efforts\nRegistered Nurses, TrueWay Nursing, 2018.06–2020.10\n- Administered blood transfusions\n- Conducted quality assurance checks\nRegistered Nurses, WellHands Nursing Group, 2013.05–2015.09\n- Monitored patient recovery\n- Prepared patients for examinations\nEDUCATION\nAssociate's degree, Biological Sciences, Goldenfield University, 2012\n• Studied fundamentals of community health nursing\n• Completed coursework in neurologic nursing basics"
+}

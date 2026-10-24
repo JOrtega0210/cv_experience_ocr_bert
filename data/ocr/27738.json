@@ -1,0 +1,265 @@
+{
+  "id": "27738",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.862,
+  "n_lines": 19,
+  "mean_score": 0.9768,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BEAU BRADLEY",
+      "score": 0.9557,
+      "box": [
+        114,
+        87,
+        386,
+        123
+      ]
+    },
+    {
+      "text": "MI, USA|+1-577-437-8940 | beau.bradley@example.com",
+      "score": 0.9805,
+      "box": [
+        116,
+        151,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netcore Solutions, 2020.05–2023.01",
+      "score": 0.9801,
+      "box": [
+        114,
+        288,
+        660,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9792,
+      "box": [
+        127,
+        315,
+        424,
+        338
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9855,
+      "box": [
+        126,
+        338,
+        451,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Labs, 2017.09–2020.05",
+      "score": 0.9906,
+      "box": [
+        115,
+        381,
+        614,
+        406
+      ]
+    },
+    {
+      "text": "- Designed high-availability systems",
+      "score": 0.9772,
+      "box": [
+        126,
+        406,
+        461,
+        432
+      ]
+    },
+    {
+      "text": "- Built core libraries",
+      "score": 0.9772,
+      "box": [
+        125,
+        429,
+        309,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Datapoint Solutions, 2015.01–2017.09",
+      "score": 0.9765,
+      "box": [
+        114,
+        471,
+        678,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented security controls",
+      "score": 0.9583,
+      "box": [
+        126,
+        498,
+        420,
+        521
+      ]
+    },
+    {
+      "text": "- Integrated analytics services",
+      "score": 0.9846,
+      "box": [
+        125,
+        521,
+        406,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Digital, 2012.04–2015.01",
+      "score": 0.9663,
+      "box": [
+        114,
+        563,
+        653,
+        589
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.986,
+      "box": [
+        124,
+        588,
+        443,
+        614
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9708,
+      "box": [
+        127,
+        616,
+        347,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearbrook University, 2015",
+      "score": 0.9684,
+      "box": [
+        114,
+        723,
+        484,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in query performance tuning",
+      "score": 0.949,
+      "box": [
+        132,
+        747,
+        626,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of concurrency",
+      "score": 0.9875,
+      "box": [
+        133,
+        772,
+        492,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "BEAU BRADLEY\nMI, USA|+1-577-437-8940 | beau.bradley@example.com\nWORK HISTORY\nSoftware Developers, Netcore Solutions, 2020.05–2023.01\n- Implemented core frameworks\n- Defined data governance policies\nSoftware Developers, Netline Labs, 2017.09–2020.05\n- Designed high-availability systems\n- Built core libraries\nSoftware Developers, Datapoint Solutions, 2015.01–2017.09\n- Implemented security controls\n- Integrated analytics services\nSoftware Developers, Codecrest Digital, 2012.04–2015.01\n- Handled basic deployment tasks\n- Created test data sets\nEDUCATION\nBachelor's, Clearbrook University, 2015\n• Completed coursework in query performance tuning\n• Studied fundamentals of concurrency"
+}

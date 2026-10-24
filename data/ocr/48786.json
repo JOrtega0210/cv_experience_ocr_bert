@@ -1,0 +1,226 @@
+{
+  "id": "48786",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.797,
+  "n_lines": 16,
+  "mean_score": 0.985,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "EBONY CHAN",
+      "score": 0.978,
+      "box": [
+        117,
+        90,
+        343,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-325-868-5289 |ebony.chan@example.com",
+      "score": 0.9769,
+      "box": [
+        115,
+        150,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9875,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Digital, 2020.04–2023.01",
+      "score": 0.9822,
+      "box": [
+        115,
+        289,
+        659,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented performance optimization plans",
+      "score": 0.9923,
+      "box": [
+        126,
+        314,
+        559,
+        339
+      ]
+    },
+    {
+      "text": "- Led refactoring initiatives",
+      "score": 0.9833,
+      "box": [
+        126,
+        339,
+        374,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Softfield Labs, 2016.11–2019.09",
+      "score": 0.9814,
+      "box": [
+        116,
+        382,
+        623,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented error handling frameworks",
+      "score": 0.979,
+      "box": [
+        127,
+        407,
+        510,
+        431
+      ]
+    },
+    {
+      "text": "- Handled load testing",
+      "score": 0.9789,
+      "box": [
+        126,
+        430,
+        333,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Netstream Software, 2013.07–2016.05",
+      "score": 0.9861,
+      "box": [
+        115,
+        471,
+        681,
+        496
+      ]
+    },
+    {
+      "text": "- Performed code formatting",
+      "score": 0.9863,
+      "box": [
+        125,
+        496,
+        389,
+        522
+      ]
+    },
+    {
+      "text": "- Assisted with Cl pipeline tasks",
+      "score": 0.9805,
+      "box": [
+        126,
+        521,
+        423,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Associate's degree, Skycrest University, 2009",
+      "score": 0.99,
+      "box": [
+        114,
+        631,
+        540,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of distributed systems",
+      "score": 0.9921,
+      "box": [
+        132,
+        656,
+        520,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of data modeling",
+      "score": 0.987,
+      "box": [
+        135,
+        682,
+        472,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "EBONY CHAN\nTN, USA|+1-325-868-5289 |ebony.chan@example.com\nWORK HISTORY\nSoftware Developers, Openwave Digital, 2020.04–2023.01\n- Implemented performance optimization plans\n- Led refactoring initiatives\nSoftware Developers, Softfield Labs, 2016.11–2019.09\n- Implemented error handling frameworks\n- Handled load testing\nSoftware Developers, Netstream Software, 2013.07–2016.05\n- Performed code formatting\n- Assisted with Cl pipeline tasks\nEDUCATION\nAssociate's degree, Skycrest University, 2009\n• Studied principles of distributed systems\n• Studied principles of data modeling"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "25817",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.73,
+  "n_lines": 10,
+  "mean_score": 0.9847,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LUIS CHUNG",
+      "score": 0.9564,
+      "box": [
+        116,
+        90,
+        326,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-950-619-2791 |luis.chung@example.com",
+      "score": 0.9816,
+      "box": [
+        115,
+        150,
+        637,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9829,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Solutions, 2019.07–201.12",
+      "score": 0.9817,
+      "box": [
+        115,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9774,
+      "box": [
+        126,
+        314,
+        437,
+        339
+      ]
+    },
+    {
+      "text": "- Updated documentation for implemented features",
+      "score": 0.9924,
+      "box": [
+        126,
+        339,
+        601,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Sagewood University, 2016",
+      "score": 0.9927,
+      "box": [
+        115,
+        449,
+        480,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of distributed systems",
+      "score": 0.9907,
+      "box": [
+        132,
+        472,
+        521,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in information retrieval",
+      "score": 0.9929,
+      "box": [
+        135,
+        500,
+        572,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "LUIS CHUNG\nMA, USA|+1-950-619-2791 |luis.chung@example.com\nWORK HISTORY\nSoftware Developers, Openwave Solutions, 2019.07–201.12\n- Reviewed test coverage reports\n- Updated documentation for implemented features\nEDUCATION\nBachelor's, Sagewood University, 2016\n• Studied principles of distributed systems\n• Completed coursework in information retrieval"
+}

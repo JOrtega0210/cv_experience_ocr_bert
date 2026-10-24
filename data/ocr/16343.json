@@ -1,0 +1,226 @@
+{
+  "id": "16343",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.961,
+  "n_lines": 16,
+  "mean_score": 0.981,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RIVKA DAY",
+      "score": 0.964,
+      "box": [
+        115,
+        88,
+        303,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA |+1-892-996-1802|rivka.day@example.com",
+      "score": 0.9747,
+      "box": [
+        116,
+        151,
+        626,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial, 2019.12–2023.01",
+      "score": 0.9871,
+      "box": [
+        114,
+        288,
+        727,
+        314
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9716,
+      "box": [
+        125,
+        314,
+        361,
+        339
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9852,
+      "box": [
+        126,
+        339,
+        528,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Services, 2015.04–2018.06",
+      "score": 0.9891,
+      "box": [
+        114,
+        381,
+        711,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted inventory valuation",
+      "score": 0.9862,
+      "box": [
+        125,
+        406,
+        423,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared tax returns",
+      "score": 0.9721,
+      "box": [
+        125,
+        430,
+        333,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Services Group, 2010.12–2014.02",
+      "score": 0.9678,
+      "box": [
+        114,
+        471,
+        795,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.974,
+      "box": [
+        125,
+        496,
+        420,
+        521
+      ]
+    },
+    {
+      "text": "- Verified transaction accuracy",
+      "score": 0.9866,
+      "box": [
+        126,
+        521,
+        411,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Professional Accounting, Skyview University, 2008",
+      "score": 0.9704,
+      "box": [
+        114,
+        631,
+        693,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounts receivable",
+      "score": 0.9886,
+      "box": [
+        133,
+        657,
+        574,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial data interpretation",
+      "score": 0.9942,
+      "box": [
+        134,
+        681,
+        639,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "RIVKA DAY\nGA, USA |+1-892-996-1802|rivka.day@example.com\nWORK HISTORY\nAccountants Auditors, Integrity Books Financial, 2019.12–2023.01\n- Designed tax strategies\n- Designed financial accountability systems\nAccountants Auditors, ClearBalance Services, 2015.04–2018.06\n- Conducted inventory valuation\n- Prepared tax returns\nAccountants Auditors, Integrity Ledger Services Group, 2010.12–2014.02\n- Assisted with forecasting data\n- Verified transaction accuracy\nEDUCATION\nBachelor's, Professional Accounting, Skyview University, 2008\n• Completed coursework in accounts receivable\n• Completed coursework in financial data interpretation"
+}

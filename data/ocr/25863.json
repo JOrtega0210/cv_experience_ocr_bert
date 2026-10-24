@@ -1,0 +1,265 @@
+{
+  "id": "25863",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.891,
+  "n_lines": 19,
+  "mean_score": 0.9796,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CHRISTOPHER VANG",
+      "score": 0.9492,
+      "box": [
+        117,
+        90,
+        465,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-901-244-3645 | christopher.vang@example.com",
+      "score": 0.976,
+      "box": [
+        116,
+        152,
+        698,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9905,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Software Developers, Opencrest Solutions, 2020.06–2023.01",
+      "score": 0.9806,
+      "box": [
+        115,
+        290,
+        683,
+        313
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9884,
+      "box": [
+        126,
+        315,
+        446,
+        338
+      ]
+    },
+    {
+      "text": "- Designed high-availability systems",
+      "score": 0.9776,
+      "box": [
+        126,
+        339,
+        461,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Clearfield Labs, 2017.10–2020.06",
+      "score": 0.9916,
+      "box": [
+        116,
+        382,
+        636,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed system design documents",
+      "score": 0.9895,
+      "box": [
+        127,
+        407,
+        480,
+        430
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9735,
+      "box": [
+        127,
+        432,
+        423,
+        454
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Technologies, 2015.02–2017.10",
+      "score": 0.9799,
+      "box": [
+        115,
+        471,
+        691,
+        496
+      ]
+    },
+    {
+      "text": "- Developed CI/CD scripts",
+      "score": 0.949,
+      "box": [
+        125,
+        496,
+        371,
+        522
+      ]
+    },
+    {
+      "text": "- Developed background jobs",
+      "score": 0.9754,
+      "box": [
+        126,
+        521,
+        401,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Solutions, 2009.12–2012.08",
+      "score": 0.977,
+      "box": [
+        114,
+        563,
+        688,
+        588
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.98,
+      "box": [
+        125,
+        589,
+        447,
+        614
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.991,
+      "box": [
+        126,
+        614,
+        462,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Brookside University, 203",
+      "score": 0.9661,
+      "box": [
+        114,
+        723,
+        474,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in software lifecycle models",
+      "score": 0.9898,
+      "box": [
+        133,
+        749,
+        620,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in database systems",
+      "score": 0.988,
+      "box": [
+        134,
+        774,
+        558,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "CHRISTOPHER VANG\nMA, USA|+1-901-244-3645 | christopher.vang@example.com\nWORK HISTORY\nSoftware Developers, Opencrest Solutions, 2020.06–2023.01\n- Designed caching infrastructures\n- Designed high-availability systems\nSoftware Developers, Clearfield Labs, 2017.10–2020.06\n- Reviewed system design documents\n- Implemented core frameworks\nSoftware Developers, Netline Technologies, 2015.02–2017.10\n- Developed CI/CD scripts\n- Developed background jobs\nSoftware Developers, Openwave Solutions, 2009.12–2012.08\n- Implemented error handling logic\n- Updated application dependencies\nEDUCATION\nBachelor's, Brookside University, 203\n• Completed coursework in software lifecycle models\n• Completed coursework in database systems"
+}

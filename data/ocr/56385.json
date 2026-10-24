@@ -1,0 +1,161 @@
+{
+  "id": "56385",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.8,
+  "n_lines": 11,
+  "mean_score": 0.984,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "WHITNEY EVANS",
+      "score": 0.9864,
+      "box": [
+        116,
+        90,
+        396,
+        120
+      ]
+    },
+    {
+      "text": "VA, USA|+1-576-681-2591 |whitney.evans@example.com",
+      "score": 0.9808,
+      "box": [
+        115,
+        150,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Bridge Academy, 2021.05–2022.05",
+      "score": 0.985,
+      "box": [
+        116,
+        290,
+        878,
+        313
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.9887,
+      "box": [
+        125,
+        313,
+        445,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9924,
+      "box": [
+        126,
+        339,
+        460,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Educational Assistance, Meadowcrest University, 2011",
+      "score": 0.9787,
+      "box": [
+        114,
+        447,
+        712,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Practice, Meadowway University, 2009",
+      "score": 0.9825,
+      "box": [
+        114,
+        472,
+        699,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of lesson coherence",
+      "score": 0.992,
+      "box": [
+        134,
+        499,
+        506,
+        522
+      ]
+    },
+    {
+      "text": "• Studied principles of differentiated instruction",
+      "score": 0.9546,
+      "box": [
+        135,
+        525,
+        562,
+        545
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "WHITNEY EVANS\nVA, USA|+1-576-681-2591 |whitney.evans@example.com\nWORK HISTORY\nElementary Middle School Teachers, Learning Bridge Academy, 2021.05–2022.05\n- Scheduled instructional activities\n- Assisted with science experiments\nEDUCATION\nMaster's, Educational Assistance, Meadowcrest University, 2011\nBachelor's, Educational Practice, Meadowway University, 2009\n• Studied principles of lesson coherence\n• Studied principles of differentiated instruction"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "01540",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.969,
+  "n_lines": 16,
+  "mean_score": 0.9814,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KAYLA LOWE",
+      "score": 0.9814,
+      "box": [
+        116,
+        90,
+        343,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-313-852-9182|kayla.lowe@example.com",
+      "score": 0.9942,
+      "box": [
+        116,
+        151,
+        636,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9847,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunSpring Nursing, 2020.04–2023.01",
+      "score": 0.9827,
+      "box": [
+        115,
+        289,
+        649,
+        314
+      ]
+    },
+    {
+      "text": "- Established clinical best practices",
+      "score": 0.9657,
+      "box": [
+        125,
+        313,
+        453,
+        338
+      ]
+    },
+    {
+      "text": "- Managed care delivery innovation",
+      "score": 0.9711,
+      "box": [
+        126,
+        339,
+        454,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Care Services, 2017.06–2020.04",
+      "score": 0.9876,
+      "box": [
+        115,
+        381,
+        729,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored patient response to treatments",
+      "score": 0.9879,
+      "box": [
+        126,
+        406,
+        523,
+        431
+      ]
+    },
+    {
+      "text": "- Administered complex medication regimens",
+      "score": 0.993,
+      "box": [
+        126,
+        430,
+        546,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeLife Health Group, 2014.08–2017.06",
+      "score": 0.9903,
+      "box": [
+        116,
+        473,
+        682,
+        496
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.9851,
+      "box": [
+        125,
+        496,
+        418,
+        522
+      ]
+    },
+    {
+      "text": "- Monitored patient pain levels",
+      "score": 0.9544,
+      "box": [
+        126,
+        521,
+        409,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Patient Services, Brighton University, 2015",
+      "score": 0.9709,
+      "box": [
+        115,
+        631,
+        620,
+        654
+      ]
+    },
+    {
+      "text": "• Completed coursework in fluid and electrolyte balance",
+      "score": 0.98,
+      "box": [
+        134,
+        658,
+        647,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of adverse drug reactions",
+      "score": 0.9749,
+      "box": [
+        134,
+        681,
+        554,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "KAYLA LOWE\nAZ, USA|+1-313-852-9182|kayla.lowe@example.com\nWORK HISTORY\nRegistered Nurses, SunSpring Nursing, 2020.04–2023.01\n- Established clinical best practices\n- Managed care delivery innovation\nRegistered Nurses, Compassion Care Services, 2017.06–2020.04\n- Monitored patient response to treatments\n- Administered complex medication regimens\nRegistered Nurses, SafeLife Health Group, 2014.08–2017.06\n- Provided post-procedure care\n- Monitored patient pain levels\nEDUCATION\nBachelor's, Patient Services, Brighton University, 2015\n• Completed coursework in fluid and electrolyte balance\n• Studied principles of adverse drug reactions"
+}

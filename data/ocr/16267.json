@@ -1,0 +1,187 @@
+{
+  "id": "16267",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.98,
+  "n_lines": 13,
+  "mean_score": 0.982,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JANE MULLINS",
+      "score": 0.9919,
+      "box": [
+        116,
+        90,
+        365,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-343-919-8629 |jane.mullins@example.com",
+      "score": 0.9728,
+      "box": [
+        116,
+        151,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.977,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Horizons Academy, 2020.09–2023.01",
+      "score": 0.987,
+      "box": [
+        114,
+        289,
+        878,
+        313
+      ]
+    },
+    {
+      "text": "- Directed assessment development eforts",
+      "score": 0.9813,
+      "box": [
+        126,
+        315,
+        526,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented long-term academic plans",
+      "score": 0.9831,
+      "box": [
+        126,
+        339,
+        508,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Oaks School, 2016.04–2018.08",
+      "score": 0.9817,
+      "box": [
+        116,
+        382,
+        816,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained classroom bulletin boards",
+      "score": 0.9639,
+      "box": [
+        126,
+        407,
+        486,
+        429
+      ]
+    },
+    {
+      "text": "- Distributed assessment rubrics",
+      "score": 0.9844,
+      "box": [
+        126,
+        431,
+        427,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Developmental Studies, Pinehaven University, 2015",
+      "score": 0.9871,
+      "box": [
+        114,
+        539,
+        706,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional sequencing",
+      "score": 0.9742,
+      "box": [
+        133,
+        565,
+        613,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom management techniques",
+      "score": 0.984,
+      "box": [
+        134,
+        590,
+        719,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JANE MULLINS\nGA, USA |+1-343-919-8629 |jane.mullins@example.com\nWORK HISTORY\nElementary Middle School Teachers, Future Horizons Academy, 2020.09–2023.01\n- Directed assessment development eforts\n- Implemented long-term academic plans\nElementary Middle School Teachers, Bright Oaks School, 2016.04–2018.08\n- Maintained classroom bulletin boards\n- Distributed assessment rubrics\nEDUCATION\nBachelor's, Developmental Studies, Pinehaven University, 2015\n• Completed coursework in instructional sequencing\n• Completed coursework in classroom management techniques"
+}

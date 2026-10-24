@@ -1,0 +1,187 @@
+{
+  "id": "03722",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.889,
+  "n_lines": 13,
+  "mean_score": 0.9797,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSHUA HUYNH",
+      "score": 0.9909,
+      "box": [
+        116,
+        90,
+        386,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-320-855-1523 |joshua.huynh@example.com",
+      "score": 0.992,
+      "box": [
+        117,
+        151,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9847,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpath Digital, 2018.03–2020.09",
+      "score": 0.97,
+      "box": [
+        115,
+        288,
+        645,
+        314
+      ]
+    },
+    {
+      "text": "-Built fault-tolerant systems",
+      "score": 0.9868,
+      "box": [
+        125,
+        313,
+        388,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9554,
+      "box": [
+        127,
+        340,
+        515,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Softbridge Tech, 2015.01–2017.08",
+      "score": 0.9928,
+      "box": [
+        115,
+        381,
+        644,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9683,
+      "box": [
+        126,
+        406,
+        447,
+        431
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9808,
+      "box": [
+        125,
+        431,
+        448,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Sunrise University, 2011",
+      "score": 0.9728,
+      "box": [
+        116,
+        542,
+        449,
+        562
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of API development",
+      "score": 0.9796,
+      "box": [
+        131,
+        564,
+        539,
+        589
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of domain-driven design",
+      "score": 0.9638,
+      "box": [
+        132,
+        590,
+        577,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JOSHUA HUYNH\nCA, USA|+1-320-855-1523 |joshua.huynh@example.com\nWORK HISTORY\nSoftware Developers, Flowpath Digital, 2018.03–2020.09\n-Built fault-tolerant systems\n- Implemented access control frameworks\nSoftware Developers, Softbridge Tech, 2015.01–2017.08\n- Implemented error handling logic\n- Performed basic APl integrations\nEDUCATION\nBachelor's, Sunrise University, 2011\n• Studied fundamentals of API development\n•Studied fundamentals of domain-driven design"
+}

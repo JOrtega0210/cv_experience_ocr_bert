@@ -1,0 +1,148 @@
+{
+  "id": "25349",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.72,
+  "n_lines": 10,
+  "mean_score": 0.9805,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DANIELLE HORNE",
+      "score": 0.9828,
+      "box": [
+        116,
+        90,
+        415,
+        120
+      ]
+    },
+    {
+      "text": "MA, USA| +1-769-227-9650 |danielle.horne@example.com",
+      "score": 0.9636,
+      "box": [
+        116,
+        152,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHands Nursing, 2018.09–2020.01",
+      "score": 0.9933,
+      "box": [
+        116,
+        290,
+        654,
+        313
+      ]
+    },
+    {
+      "text": "- Monitored patient recovery",
+      "score": 0.9579,
+      "box": [
+        126,
+        314,
+        390,
+        340
+      ]
+    },
+    {
+      "text": "- Maintained infection control protocols",
+      "score": 0.965,
+      "box": [
+        126,
+        339,
+        487,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Human Biology, Golden Meadow University, 2018",
+      "score": 0.9813,
+      "box": [
+        115,
+        449,
+        686,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of hematologic nursing basics",
+      "score": 0.9882,
+      "box": [
+        132,
+        472,
+        594,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of health screening",
+      "score": 0.9897,
+      "box": [
+        133,
+        499,
+        495,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "DANIELLE HORNE\nMA, USA| +1-769-227-9650 |danielle.horne@example.com\nWORK HISTORY\nRegistered Nurses, KindHands Nursing, 2018.09–2020.01\n- Monitored patient recovery\n- Maintained infection control protocols\nEDUCATION\nBachelor's, Human Biology, Golden Meadow University, 2018\n• Studied principles of hematologic nursing basics\n• Studied principles of health screening"
+}

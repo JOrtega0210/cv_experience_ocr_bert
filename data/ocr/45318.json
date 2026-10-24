@@ -1,0 +1,265 @@
+{
+  "id": "45318",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.853,
+  "n_lines": 19,
+  "mean_score": 0.9826,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DERREKVANCE",
+      "score": 0.9992,
+      "box": [
+        116,
+        90,
+        385,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-331-972-5127 |derrek.vance@example.com",
+      "score": 0.9824,
+      "box": [
+        115,
+        150,
+        661,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Solutions, 2019.11–2023.01",
+      "score": 0.9785,
+      "box": [
+        114,
+        288,
+        687,
+        314
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.982,
+      "box": [
+        126,
+        314,
+        431,
+        339
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.9941,
+      "box": [
+        126,
+        339,
+        469,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Stonebyte Labs, 2016.09–2019.11",
+      "score": 0.9723,
+      "box": [
+        116,
+        382,
+        640,
+        406
+      ]
+    },
+    {
+      "text": "- Led refactoring initiatives",
+      "score": 0.9847,
+      "box": [
+        128,
+        408,
+        374,
+        430
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9789,
+      "box": [
+        126,
+        431,
+        515,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudcrest Systems, 2013.07–2016.09",
+      "score": 0.9835,
+      "box": [
+        115,
+        471,
+        682,
+        496
+      ]
+    },
+    {
+      "text": "- Designed Ul workflows",
+      "score": 0.9737,
+      "box": [
+        127,
+        499,
+        354,
+        520
+      ]
+    },
+    {
+      "text": "- Developed data processing pipelines",
+      "score": 0.9864,
+      "box": [
+        126,
+        521,
+        482,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Brightsoft Solutions, 2010.04–2013.07",
+      "score": 0.9883,
+      "box": [
+        115,
+        563,
+        677,
+        588
+      ]
+    },
+    {
+      "text": "- Wrote command-line tools",
+      "score": 0.9765,
+      "box": [
+        125,
+        588,
+        386,
+        613
+      ]
+    },
+    {
+      "text": "- Implemented validation logic",
+      "score": 0.9914,
+      "box": [
+        126,
+        614,
+        406,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Aspen Grove University, 209",
+      "score": 0.9587,
+      "box": [
+        114,
+        723,
+        503,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of big data systems",
+      "score": 0.9698,
+      "box": [
+        132,
+        747,
+        499,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in full-stack development",
+      "score": 0.9879,
+      "box": [
+        134,
+        772,
+        598,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "DERREKVANCE\nPA, USA|+1-331-972-5127 |derrek.vance@example.com\nWORK HISTORY\nSoftware Developers, Openwave Solutions, 2019.11–2023.01\n- Led system reliability programs\n- Led backend platform development\nSoftware Developers, Stonebyte Labs, 2016.09–2019.11\n- Led refactoring initiatives\n- Implemented access control frameworks\nSoftware Developers, Cloudcrest Systems, 2013.07–2016.09\n- Designed Ul workflows\n- Developed data processing pipelines\nSoftware Developers, Brightsoft Solutions, 2010.04–2013.07\n- Wrote command-line tools\n- Implemented validation logic\nEDUCATION\nBachelor's, Aspen Grove University, 209\n• Studied principles of big data systems\n• Completed coursework in full-stack development"
+}

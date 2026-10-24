@@ -1,0 +1,226 @@
+{
+  "id": "35684",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.881,
+  "n_lines": 16,
+  "mean_score": 0.9817,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RACHEL MIDDLETON",
+      "score": 0.9776,
+      "box": [
+        116,
+        90,
+        465,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-439-696-7510|rachel.middleton@example.com",
+      "score": 0.9856,
+      "box": [
+        115,
+        150,
+        694,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9809,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Advisors, 2020.07–2023.01",
+      "score": 0.9885,
+      "box": [
+        115,
+        290,
+        707,
+        312
+      ]
+    },
+    {
+      "text": "- Designed financial modeling standards",
+      "score": 0.9645,
+      "box": [
+        127,
+        315,
+        501,
+        338
+      ]
+    },
+    {
+      "text": "- Developed accounting innovation plans",
+      "score": 0.9914,
+      "box": [
+        126,
+        339,
+        505,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Financial, 2016.11–2019.05",
+      "score": 0.984,
+      "box": [
+        114,
+        381,
+        715,
+        406
+      ]
+    },
+    {
+      "text": "- Analyzed cost structures",
+      "score": 0.9676,
+      "box": [
+        126,
+        406,
+        371,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted account reconciliations",
+      "score": 0.9898,
+      "box": [
+        127,
+        432,
+        459,
+        453
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Advisors, 2013.09–2016.04",
+      "score": 0.9776,
+      "box": [
+        114,
+        471,
+        716,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.9879,
+      "box": [
+        127,
+        498,
+        445,
+        521
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9799,
+      "box": [
+        126,
+        521,
+        371,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9992,
+      "box": [
+        117,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Organizational Management, Willow Ridge University, 2008",
+      "score": 0.9677,
+      "box": [
+        114,
+        631,
+        776,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in budgeting and forecasting",
+      "score": 0.9757,
+      "box": [
+        134,
+        658,
+        628,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in cost allocation methods",
+      "score": 0.99,
+      "box": [
+        135,
+        682,
+        608,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "RACHEL MIDDLETON\nNY, USA|+1-439-696-7510|rachel.middleton@example.com\nWORK HISTORY\nAccountants Auditors, Reliable Path Advisors, 2020.07–2023.01\n- Designed financial modeling standards\n- Developed accounting innovation plans\nAccountants Auditors, ClearBalance Financial, 2016.11–2019.05\n- Analyzed cost structures\n- Conducted account reconciliations\nAccountants Auditors, SteadyLedger Advisors, 2013.09–2016.04\n- Prepared account reconciliations\n- Compiled audit evidence\nEDUCATION\nBachelor's, Organizational Management, Willow Ridge University, 2008\n• Completed coursework in budgeting and forecasting\n• Completed coursework in cost allocation methods"
+}

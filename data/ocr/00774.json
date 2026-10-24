@@ -1,0 +1,148 @@
+{
+  "id": "00774",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.885,
+  "n_lines": 10,
+  "mean_score": 0.9819,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ISABELLE VALENTINE",
+      "score": 0.9797,
+      "box": [
+        115,
+        90,
+        481,
+        120
+      ]
+    },
+    {
+      "text": "AL, USA|+1-395-513-7474 |isabelle.valentine@example.com",
+      "score": 0.9813,
+      "box": [
+        116,
+        151,
+        697,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9773,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellBridge Medical Group, 2021.05–2023.01",
+      "score": 0.9643,
+      "box": [
+        115,
+        289,
+        716,
+        314
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.9903,
+      "box": [
+        126,
+        314,
+        527,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with diagnostic procedures",
+      "score": 0.9848,
+      "box": [
+        126,
+        339,
+        474,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Nursing Practice, Forestfield University, 2020",
+      "score": 0.9715,
+      "box": [
+        116,
+        449,
+        722,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of health screening",
+      "score": 0.9859,
+      "box": [
+        132,
+        472,
+        495,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic life support concepts",
+      "score": 0.9853,
+      "box": [
+        133,
+        498,
+        635,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ISABELLE VALENTINE\nAL, USA|+1-395-513-7474 |isabelle.valentine@example.com\nWORK HISTORY\nRegistered Nurses, WellBridge Medical Group, 2021.05–2023.01\n- Administered injections under supervision\n- Assisted with diagnostic procedures\nEDUCATION\nAssociate's degree, Nursing Practice, Forestfield University, 2020\n• Studied principles of health screening\n• Completed coursework in basic life support concepts"
+}

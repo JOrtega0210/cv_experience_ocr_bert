@@ -1,0 +1,161 @@
+{
+  "id": "46294",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.813,
+  "n_lines": 11,
+  "mean_score": 0.978,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ASHLEY VAUGHN",
+      "score": 0.9811,
+      "box": [
+        117,
+        90,
+        408,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-686-904-3111 |ashley.vaughn@example.com",
+      "score": 0.969,
+      "box": [
+        115,
+        150,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9746,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Meadow School, 2020.03–2023.01",
+      "score": 0.9603,
+      "box": [
+        116,
+        290,
+        835,
+        313
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9952,
+      "box": [
+        126,
+        314,
+        517,
+        339
+      ]
+    },
+    {
+      "text": "- Monitored independent work sessions",
+      "score": 0.9792,
+      "box": [
+        127,
+        339,
+        492,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Education Studies, Windfield University, 2021",
+      "score": 0.9701,
+      "box": [
+        115,
+        449,
+        626,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning and Teaching Studies, Skyview University, 2019",
+      "score": 0.9626,
+      "box": [
+        114,
+        472,
+        758,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic content planning",
+      "score": 0.9874,
+      "box": [
+        133,
+        498,
+        637,
+        523
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional objectives",
+      "score": 0.9804,
+      "box": [
+        133,
+        522,
+        589,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "ASHLEY VAUGHN\nPA, USA|+1-686-904-3111 |ashley.vaughn@example.com\nWORK HISTORY\nElementary Middle School Teachers, Little Meadow School, 2020.03–2023.01\n- Organized classroom learning resources\n- Monitored independent work sessions\nEDUCATION\nMaster's, Education Studies, Windfield University, 2021\nBachelor's, Learning and Teaching Studies, Skyview University, 2019\n• Completed coursework in academic content planning\n• Studied fundamentals of instructional objectives"
+}

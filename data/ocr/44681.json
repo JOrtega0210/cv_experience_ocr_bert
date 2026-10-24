@@ -1,0 +1,135 @@
+{
+  "id": "44681",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.747,
+  "n_lines": 9,
+  "mean_score": 0.9767,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ADEN COMBS",
+      "score": 0.9566,
+      "box": [
+        116,
+        90,
+        347,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-311-468-5833 |aden.combs@example.com",
+      "score": 0.9797,
+      "box": [
+        115,
+        150,
+        654,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9814,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueLine Builders, 2021.06–2023.01",
+      "score": 0.9665,
+      "box": [
+        115,
+        290,
+        671,
+        313
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9851,
+      "box": [
+        127,
+        315,
+        439,
+        339
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.9867,
+      "box": [
+        126,
+        339,
+        418,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Quality Control, Stonehaven High School, 2021",
+      "score": 0.9939,
+      "box": [
+        116,
+        449,
+        935,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic HVAC concepts",
+      "score": 0.9419,
+      "box": [
+        132,
+        474,
+        590,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "ADEN COMBS\nPA, USA|+1-311-468-5833 |aden.combs@example.com\nWORK HISTORY\nConstruction Laborers, TrueLine Builders, 2021.06–2023.01\n- Helped position heavy materials\n- Maintained tool storage areas\nEDUCATION\nHigh school graduate/GED, Construction Quality Control, Stonehaven High School, 2021\n• Completed coursework in basic HVAC concepts"
+}

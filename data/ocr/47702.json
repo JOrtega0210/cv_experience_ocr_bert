@@ -1,0 +1,200 @@
+{
+  "id": "47702",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.854,
+  "n_lines": 14,
+  "mean_score": 0.9862,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KARIE HARRELL",
+      "score": 0.9888,
+      "box": [
+        116,
+        90,
+        391,
+        120
+      ]
+    },
+    {
+      "text": "SC, USA|+1-633-560-6242 |karie.harrell@example.com",
+      "score": 0.9709,
+      "box": [
+        116,
+        151,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9768,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Grove School, 2020.05–2021.12",
+      "score": 0.99,
+      "box": [
+        115,
+        290,
+        812,
+        313
+      ]
+    },
+    {
+      "text": "- Led professional development planning",
+      "score": 0.9894,
+      "box": [
+        126,
+        314,
+        505,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented assessment policy frameworks",
+      "score": 0.9835,
+      "box": [
+        126,
+        339,
+        552,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Tree Academy, 2018.03–2019.10",
+      "score": 0.9813,
+      "box": [
+        115,
+        381,
+        870,
+        406
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.992,
+      "box": [
+        125,
+        406,
+        414,
+        432
+      ]
+    },
+    {
+      "text": "- Supervised transitions between lessons",
+      "score": 0.9959,
+      "box": [
+        126,
+        431,
+        509,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Education Basics, Oakridge Valley University, 2005",
+      "score": 0.977,
+      "box": [
+        115,
+        541,
+        681,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Basics, Heritage University, 2003",
+      "score": 0.9771,
+      "box": [
+        115,
+        566,
+        632,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson delivery techniques",
+      "score": 0.997,
+      "box": [
+        134,
+        590,
+        633,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of educational planning",
+      "score": 0.9897,
+      "box": [
+        134,
+        615,
+        532,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "KARIE HARRELL\nSC, USA|+1-633-560-6242 |karie.harrell@example.com\nWORK HISTORY\nElementary Middle School Teachers, Kind Grove School, 2020.05–2021.12\n- Led professional development planning\n- Implemented assessment policy frameworks\nElementary Middle School Teachers, Discovery Tree Academy, 2018.03–2019.10\n- Administered learning games\n- Supervised transitions between lessons\nEDUCATION\nMaster's, Education Basics, Oakridge Valley University, 2005\nBachelor's, Education Basics, Heritage University, 2003\n• Completed coursework in lesson delivery techniques\n• Studied principles of educational planning"
+}

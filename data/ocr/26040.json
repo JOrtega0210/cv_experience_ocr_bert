@@ -1,0 +1,148 @@
+{
+  "id": "26040",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.734,
+  "n_lines": 10,
+  "mean_score": 0.9824,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MICHAELA BARBER",
+      "score": 0.9792,
+      "box": [
+        117,
+        90,
+        446,
+        120
+      ]
+    },
+    {
+      "text": "MA, USA|+1-949-675-2205 |michaela.barber@example.com",
+      "score": 0.9741,
+      "box": [
+        116,
+        151,
+        692,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightloop Systems, 2020.11–2023.01",
+      "score": 0.9746,
+      "box": [
+        116,
+        290,
+        675,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with Cl pipeline tasks",
+      "score": 0.9661,
+      "box": [
+        127,
+        315,
+        423,
+        338
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9886,
+      "box": [
+        126,
+        339,
+        400,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Willow Creek University, 2023",
+      "score": 0.9787,
+      "box": [
+        115,
+        449,
+        503,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in full-stack development",
+      "score": 0.9902,
+      "box": [
+        133,
+        474,
+        598,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in data structures and algorithms",
+      "score": 0.9898,
+      "box": [
+        134,
+        499,
+        670,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "MICHAELA BARBER\nMA, USA|+1-949-675-2205 |michaela.barber@example.com\nWORK HISTORY\nSoftware Developers, Brightloop Systems, 2020.11–2023.01\n- Assisted with Cl pipeline tasks\n- Wrote configuration parsers\nEDUCATION\nBachelor's, Willow Creek University, 2023\n• Completed coursework in full-stack development\n• Completed coursework in data structures and algorithms"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "16635",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.836,
+  "n_lines": 10,
+  "mean_score": 0.9835,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CHRISTINE BASS",
+      "score": 0.9959,
+      "box": [
+        117,
+        90,
+        401,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-227-730-9216| christine.bass@example.com",
+      "score": 0.9626,
+      "box": [
+        116,
+        151,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleBridge Nursing, 2017.10–2020.09",
+      "score": 0.9923,
+      "box": [
+        116,
+        290,
+        675,
+        313
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9775,
+      "box": [
+        127,
+        315,
+        417,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared patients for examinations",
+      "score": 0.9726,
+      "box": [
+        126,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Management, Vista University, 2002",
+      "score": 0.9939,
+      "box": [
+        116,
+        449,
+        706,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of pain management",
+      "score": 0.9888,
+      "box": [
+        132,
+        472,
+        510,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of clinical decision making",
+      "score": 0.9684,
+      "box": [
+        131,
+        496,
+        597,
+        524
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "CHRISTINE BASS\nGA, USA |+1-227-730-9216| christine.bass@example.com\nWORK HISTORY\nRegistered Nurses, GentleBridge Nursing, 2017.10–2020.09\n- Checked medication dosages\n- Prepared patients for examinations\nEDUCATION\nAssociate's degree, Health Management, Vista University, 2002\n• Studied principles of pain management\n• Studied fundamentals of clinical decision making"
+}

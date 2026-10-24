@@ -1,0 +1,187 @@
+{
+  "id": "26293",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.813,
+  "n_lines": 13,
+  "mean_score": 0.9893,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SARAH PENNINGTON",
+      "score": 0.984,
+      "box": [
+        116,
+        90,
+        468,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-317-915-8330 |sarah.pennington@example.com",
+      "score": 0.9878,
+      "box": [
+        115,
+        150,
+        705,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9927,
+      "box": [
+        115,
+        242,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Care Center, 2021.02–2023.01",
+      "score": 0.9918,
+      "box": [
+        116,
+        289,
+        715,
+        312
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9917,
+      "box": [
+        126,
+        314,
+        571,
+        339
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.9797,
+      "box": [
+        127,
+        340,
+        455,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeHarbor Nursing, 2019.02–2021.02",
+      "score": 0.9849,
+      "box": [
+        116,
+        382,
+        660,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.9903,
+      "box": [
+        125,
+        406,
+        418,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.986,
+      "box": [
+        126,
+        431,
+        482,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Care Management, Stonecrest University, 2021",
+      "score": 0.9891,
+      "box": [
+        114,
+        539,
+        663,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of vital signs monitoring",
+      "score": 0.9893,
+      "box": [
+        132,
+        564,
+        574,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of trauma care",
+      "score": 0.9957,
+      "box": [
+        133,
+        591,
+        490,
+        613
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "SARAH PENNINGTON\nMA, USA|+1-317-915-8330 |sarah.pennington@example.com\nWORK HISTORY\nRegistered Nurses, GentleHands Care Center, 2021.02–2023.01\n- Implemented clinical decision support systems\n- Led nursing workflow optimization\nRegistered Nurses, SafeHarbor Nursing, 2019.02–2021.02\n- Assisted with feeding patients\n- Assisted with emergency procedures\nEDUCATION\nBachelor's, Care Management, Stonecrest University, 2021\n• Studied fundamentals of vital signs monitoring\n• Studied fundamentals of trauma care"
+}

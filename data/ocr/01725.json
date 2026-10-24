@@ -1,0 +1,161 @@
+{
+  "id": "01725",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.882,
+  "n_lines": 11,
+  "mean_score": 0.9842,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JANISSA INGRAM",
+      "score": 0.967,
+      "box": [
+        116,
+        90,
+        408,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-407-518-3807|janissa.ingram@example.com",
+      "score": 0.9821,
+      "box": [
+        116,
+        152,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9815,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearPath Medical Group, 2021.08–2023.01",
+      "score": 0.9923,
+      "box": [
+        116,
+        290,
+        708,
+        313
+      ]
+    },
+    {
+      "text": "- Collected laboratory specimens",
+      "score": 0.9824,
+      "box": [
+        126,
+        314,
+        434,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared medication trays",
+      "score": 0.9834,
+      "box": [
+        126,
+        338,
+        387,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Health Management, Pineview University, 2020",
+      "score": 0.9787,
+      "box": [
+        115,
+        449,
+        644,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Care Management, Bright Ridge University, 2018",
+      "score": 0.9767,
+      "box": [
+        114,
+        472,
+        680,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in case management basics",
+      "score": 0.9927,
+      "box": [
+        134,
+        499,
+        626,
+        522
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient safety culture",
+      "score": 0.9904,
+      "box": [
+        134,
+        524,
+        582,
+        547
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "JANISSA INGRAM\nAZ, USA|+1-407-518-3807|janissa.ingram@example.com\nWORK HISTORY\nRegistered Nurses, ClearPath Medical Group, 2021.08–2023.01\n- Collected laboratory specimens\n- Prepared medication trays\nEDUCATION\nMaster's, Health Management, Pineview University, 2020\nBachelor's, Care Management, Bright Ridge University, 2018\n• Completed coursework in case management basics\n• Completed coursework in patient safety culture"
+}

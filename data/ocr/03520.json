@@ -1,0 +1,226 @@
+{
+  "id": "03520",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.998,
+  "n_lines": 16,
+  "mean_score": 0.984,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ASHAWALKER",
+      "score": 0.9988,
+      "box": [
+        116,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-428-902-3624 | asha.walker@example.com",
+      "score": 0.9772,
+      "box": [
+        116,
+        151,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Bridge Academy, 2020.12–2023.01",
+      "score": 0.9809,
+      "box": [
+        116,
+        290,
+        876,
+        314
+      ]
+    },
+    {
+      "text": "- Directed curriculum revision cycles",
+      "score": 0.9855,
+      "box": [
+        126,
+        315,
+        463,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented curriculum governance structures",
+      "score": 0.9769,
+      "box": [
+        126,
+        339,
+        577,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Horizons School, 2018.11–2020.12",
+      "score": 0.9901,
+      "box": [
+        116,
+        382,
+        850,
+        406
+      ]
+    },
+    {
+      "text": "- Aligned lesson objectives with standards",
+      "score": 0.9875,
+      "box": [
+        127,
+        407,
+        517,
+        430
+      ]
+    },
+    {
+      "text": "- Reviewed assessment results",
+      "score": 0.9969,
+      "box": [
+        127,
+        431,
+        418,
+        453
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Learning Center, 2016.09–2018.11",
+      "score": 0.986,
+      "box": [
+        115,
+        472,
+        877,
+        496
+      ]
+    },
+    {
+      "text": "- Supervised classroom activities",
+      "score": 0.967,
+      "box": [
+        126,
+        498,
+        434,
+        521
+      ]
+    },
+    {
+      "text": "- Maintained classroom attendance and grading records",
+      "score": 0.9626,
+      "box": [
+        126,
+        521,
+        645,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Practice, Forestfield University, 2016",
+      "score": 0.9772,
+      "box": [
+        115,
+        632,
+        680,
+        654
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of academic support strategies",
+      "score": 0.9803,
+      "box": [
+        132,
+        656,
+        640,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of learner assessment",
+      "score": 0.9942,
+      "box": [
+        135,
+        682,
+        525,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ASHAWALKER\nCA, USA|+1-428-902-3624 | asha.walker@example.com\nWORK HISTORY\nElementary Middle School Teachers, Learning Bridge Academy, 2020.12–2023.01\n- Directed curriculum revision cycles\n- Implemented curriculum governance structures\nElementary Middle School Teachers, Bright Horizons School, 2018.11–2020.12\n- Aligned lesson objectives with standards\n- Reviewed assessment results\nElementary Middle School Teachers, Harmony Learning Center, 2016.09–2018.11\n- Supervised classroom activities\n- Maintained classroom attendance and grading records\nEDUCATION\nBachelor's, Educational Practice, Forestfield University, 2016\n• Studied fundamentals of academic support strategies\n• Studied principles of learner assessment"
+}

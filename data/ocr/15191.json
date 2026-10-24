@@ -1,0 +1,148 @@
+{
+  "id": "15191",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.889,
+  "n_lines": 10,
+  "mean_score": 0.9805,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "EMILY ATKINSON",
+      "score": 0.9888,
+      "box": [
+        117,
+        90,
+        404,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-510-966-6708|emily.atkinson@example.com",
+      "score": 0.9759,
+      "box": [
+        117,
+        151,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9795,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Steps School, 2021.05–2023.01",
+      "score": 0.9733,
+      "box": [
+        116,
+        290,
+        807,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed lesson objectives",
+      "score": 0.9937,
+      "box": [
+        126,
+        315,
+        400,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with small group instruction activities",
+      "score": 0.9437,
+      "box": [
+        127,
+        340,
+        565,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Child Studies, Aspen Grove University, 2022",
+      "score": 0.9798,
+      "box": [
+        115,
+        449,
+        713,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in student progress monitoring",
+      "score": 0.986,
+      "box": [
+        133,
+        474,
+        647,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom communication techniques",
+      "score": 0.9855,
+      "box": [
+        133,
+        498,
+        737,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "EMILY ATKINSON\nGA, USA|+1-510-966-6708|emily.atkinson@example.com\nWORK HISTORY\nElementary Middle School Teachers, Kind Steps School, 2021.05–2023.01\n- Reviewed lesson objectives\n- Assisted with small group instruction activities\nEDUCATION\nBachelor's, Applied Child Studies, Aspen Grove University, 2022\n• Completed coursework in student progress monitoring\n• Completed coursework in classroom communication techniques"
+}

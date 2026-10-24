@@ -1,0 +1,187 @@
+{
+  "id": "44559",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.787,
+  "n_lines": 13,
+  "mean_score": 0.9811,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TRENT DOYLE",
+      "score": 0.9811,
+      "box": [
+        115,
+        90,
+        354,
+        121
+      ]
+    },
+    {
+      "text": "OR, USA|+1-679-870-1001 |trent.doyle@example.com",
+      "score": 0.9746,
+      "box": [
+        116,
+        151,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9847,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openbyte Systems, 2021.03–2023.01",
+      "score": 0.9854,
+      "box": [
+        114,
+        288,
+        671,
+        314
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.958,
+      "box": [
+        125,
+        314,
+        448,
+        339
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9919,
+      "box": [
+        126,
+        339,
+        450,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Netstream Software, 2019.04–201.03",
+      "score": 0.9889,
+      "box": [
+        116,
+        382,
+        681,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained code repositories",
+      "score": 0.976,
+      "box": [
+        125,
+        406,
+        410,
+        431
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9803,
+      "box": [
+        126,
+        431,
+        448,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Bachelor's, Willowstone University, 2018",
+      "score": 0.9691,
+      "box": [
+        115,
+        541,
+        493,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of big data systems",
+      "score": 0.9709,
+      "box": [
+        132,
+        565,
+        498,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of refactoring techniques",
+      "score": 0.9943,
+      "box": [
+        132,
+        590,
+        584,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "TRENT DOYLE\nOR, USA|+1-679-870-1001 |trent.doyle@example.com\nWORK HISTORY\nSoftware Developers, Openbyte Systems, 2021.03–2023.01\n- Designed data storage strategies\n- Defined data governance policies\nSoftware Developers, Netstream Software, 2019.04–201.03\n- Maintained code repositories\n- Performed basic APl integrations\nEDUCATION\nBachelor's, Willowstone University, 2018\n• Studied principles of big data systems\n• Studied fundamentals of refactoring techniques"
+}

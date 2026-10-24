@@ -1,0 +1,148 @@
+{
+  "id": "27378",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.725,
+  "n_lines": 10,
+  "mean_score": 0.9828,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JILLIAN EDWARDS",
+      "score": 0.9903,
+      "box": [
+        116,
+        90,
+        426,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-492-281-5149| jllian.edwards@example.com",
+      "score": 0.9674,
+      "box": [
+        116,
+        151,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearBridge Health Group, 2021.06–2021.08",
+      "score": 0.9898,
+      "box": [
+        116,
+        290,
+        716,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobility",
+      "score": 0.96,
+      "box": [
+        127,
+        315,
+        409,
+        339
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9938,
+      "box": [
+        126,
+        339,
+        417,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Care Studies, Shady Grove University, 2013",
+      "score": 0.9791,
+      "box": [
+        114,
+        447,
+        780,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of wound care",
+      "score": 0.9832,
+      "box": [
+        133,
+        473,
+        450,
+        496
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing standards of practice",
+      "score": 0.9795,
+      "box": [
+        134,
+        499,
+        657,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JILLIAN EDWARDS\nMI, USA|+1-492-281-5149| jllian.edwards@example.com\nWORK HISTORY\nRegistered Nurses, ClearBridge Health Group, 2021.06–2021.08\n- Assisted with patient mobility\n- Checked medication dosages\nEDUCATION\nAssociate's degree, Health Care Studies, Shady Grove University, 2013\n• Studied principles of wound care\n• Completed coursework in nursing standards of practice"
+}

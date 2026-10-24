@@ -1,0 +1,252 @@
+{
+  "id": "26334",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.916,
+  "n_lines": 18,
+  "mean_score": 0.9795,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "GREG HESTER",
+      "score": 0.9855,
+      "box": [
+        117,
+        90,
+        361,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-559-202-5007 |greg.hester@example.com",
+      "score": 0.9826,
+      "box": [
+        115,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9877,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyStone Builders, 2019.10–2023.01",
+      "score": 0.9819,
+      "box": [
+        115,
+        290,
+        708,
+        313
+      ]
+    },
+    {
+      "text": "- Developed project risk assessments",
+      "score": 0.9747,
+      "box": [
+        127,
+        315,
+        476,
+        338
+      ]
+    },
+    {
+      "text": "- Managed large-scale installations",
+      "score": 0.9642,
+      "box": [
+        127,
+        340,
+        451,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureBuild Co., 2016.07–2019.10",
+      "score": 0.9892,
+      "box": [
+        116,
+        382,
+        637,
+        405
+      ]
+    },
+    {
+      "text": "- Developed construction workflows",
+      "score": 0.9906,
+      "box": [
+        126,
+        407,
+        458,
+        430
+      ]
+    },
+    {
+      "text": "- Directed site safety audits",
+      "score": 0.9805,
+      "box": [
+        125,
+        432,
+        380,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongCraft Construction, 2012.09–2015.12",
+      "score": 0.9798,
+      "box": [
+        115,
+        472,
+        737,
+        496
+      ]
+    },
+    {
+      "text": "- Installed drainage systems",
+      "score": 0.9886,
+      "box": [
+        125,
+        496,
+        391,
+        521
+      ]
+    },
+    {
+      "text": "- Constructed temporary structures",
+      "score": 0.9754,
+      "box": [
+        126,
+        521,
+        452,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureStep Contractors, 2008.01–2011.04",
+      "score": 0.9763,
+      "box": [
+        114,
+        563,
+        709,
+        588
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.9544,
+      "box": [
+        124,
+        588,
+        405,
+        613
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.9773,
+      "box": [
+        126,
+        613,
+        372,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Trades, Maplewood High School, 2004",
+      "score": 0.9903,
+      "box": [
+        116,
+        725,
+        859,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic site grading",
+      "score": 0.9533,
+      "box": [
+        132,
+        747,
+        552,
+        773
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "GREG HESTER\nMA, USA|+1-559-202-5007 |greg.hester@example.com\nWORK HISTORY\nConstruction Laborers, SteadyStone Builders, 2019.10–2023.01\n- Developed project risk assessments\n- Managed large-scale installations\nConstruction Laborers, SureBuild Co., 2016.07–2019.10\n- Developed construction workflows\n- Directed site safety audits\nConstruction Laborers, StrongCraft Construction, 2012.09–2015.12\n- Installed drainage systems\n- Constructed temporary structures\nConstruction Laborers, SureStep Contractors, 2008.01–2011.04\n- Installed insulation materials\n- Sorted building materials\nEDUCATION\nHigh school graduate/GED, Construction Trades, Maplewood High School, 2004\n• Completed coursework in basic site grading"
+}

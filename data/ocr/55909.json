@@ -1,0 +1,135 @@
+{
+  "id": "55909",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.755,
+  "n_lines": 9,
+  "mean_score": 0.9815,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOVANY DIXON",
+      "score": 0.9843,
+      "box": [
+        116,
+        90,
+        371,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-679-674-2732 |jovany.dixon@example.com",
+      "score": 0.9754,
+      "box": [
+        115,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9791,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Frame Builders, 2022.05–2023.01",
+      "score": 0.9935,
+      "box": [
+        116,
+        291,
+        739,
+        311
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9846,
+      "box": [
+        125,
+        314,
+        489,
+        339
+      ]
+    },
+    {
+      "text": "- Monitored material usage",
+      "score": 0.9665,
+      "box": [
+        126,
+        338,
+        379,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Civil Technology, Stonecrest High School, 2023",
+      "score": 0.9808,
+      "box": [
+        116,
+        449,
+        817,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction materials testing",
+      "score": 0.9708,
+      "box": [
+        132,
+        473,
+        658,
+        498
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "JOVANY DIXON\nVA, USA|+1-679-674-2732 |jovany.dixon@example.com\nWORK HISTORY\nConstruction Laborers, Precision Frame Builders, 2022.05–2023.01\n- Performed basic plumbing assistance\n- Monitored material usage\nEDUCATION\nHigh school graduate/GED, Civil Technology, Stonecrest High School, 2023\n• Completed coursework in construction materials testing"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "27389",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.744,
+  "n_lines": 10,
+  "mean_score": 0.9844,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ASHLEY SHERMAN",
+      "score": 0.9797,
+      "box": [
+        117,
+        90,
+        432,
+        120
+      ]
+    },
+    {
+      "text": "MI, USA|+1-315-932-2637| ashley.sherman@example.com",
+      "score": 0.9853,
+      "box": [
+        116,
+        152,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9749,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIPath Health Group, 2022.07–2023.01",
+      "score": 0.9624,
+      "box": [
+        116,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared intravenous solutions",
+      "score": 0.9821,
+      "box": [
+        127,
+        315,
+        431,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.9967,
+      "box": [
+        126,
+        339,
+        418,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Registered Nursing, Golden Meadow University, 2022",
+      "score": 0.9911,
+      "box": [
+        115,
+        449,
+        723,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical skills practice",
+      "score": 0.9884,
+      "box": [
+        133,
+        474,
+        582,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of sleep management in care",
+      "score": 0.9852,
+      "box": [
+        133,
+        497,
+        626,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ASHLEY SHERMAN\nMI, USA|+1-315-932-2637| ashley.sherman@example.com\nWORK HISTORY\nRegistered Nurses, WelIPath Health Group, 2022.07–2023.01\n- Prepared intravenous solutions\n- Assisted with feeding patients\nEDUCATION\nBachelor's, Registered Nursing, Golden Meadow University, 2022\n• Completed coursework in clinical skills practice\n• Studied fundamentals of sleep management in care"
+}

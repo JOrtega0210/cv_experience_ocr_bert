@@ -1,0 +1,148 @@
+{
+  "id": "59504",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.725,
+  "n_lines": 10,
+  "mean_score": 0.9847,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DOMINIC LIVINGSTON",
+      "score": 0.9853,
+      "box": [
+        117,
+        90,
+        475,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-847-558-2411|dominic.livingston@example.com",
+      "score": 0.9806,
+      "box": [
+        115,
+        150,
+        710,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softbridge Digital, 2019.07–2020.12",
+      "score": 0.9863,
+      "box": [
+        116,
+        290,
+        656,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with Cl pipeline tasks",
+      "score": 0.9817,
+      "box": [
+        126,
+        315,
+        424,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.9875,
+      "box": [
+        126,
+        339,
+        355,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Parkview University, 2018",
+      "score": 0.9784,
+      "box": [
+        114,
+        447,
+        466,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of responsive design",
+      "score": 0.9801,
+      "box": [
+        132,
+        472,
+        547,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in release management",
+      "score": 0.9835,
+      "box": [
+        133,
+        498,
+        586,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "DOMINIC LIVINGSTON\nWA, USA|+1-847-558-2411|dominic.livingston@example.com\nWORK HISTORY\nSoftware Developers, Softbridge Digital, 2019.07–2020.12\n- Assisted with Cl pipeline tasks\n- Reviewed error reports\nEDUCATION\nBachelor's, Parkview University, 2018\n• Studied fundamentals of responsive design\n• Completed coursework in release management"
+}

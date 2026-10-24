@@ -1,0 +1,187 @@
+{
+  "id": "46036",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.867,
+  "n_lines": 13,
+  "mean_score": 0.9819,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KANIN FORD",
+      "score": 0.9773,
+      "box": [
+        114,
+        87,
+        329,
+        123
+      ]
+    },
+    {
+      "text": "PA, USA|+1-237-501-4944|kanin.ford@example.com",
+      "score": 0.9765,
+      "box": [
+        115,
+        150,
+        631,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9776,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Grove School, 2020.05–2023.01",
+      "score": 0.9689,
+      "box": [
+        116,
+        290,
+        819,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented performance evaluation systems",
+      "score": 0.9836,
+      "box": [
+        126,
+        314,
+        569,
+        339
+      ]
+    },
+    {
+      "text": "- Established instructional best practices",
+      "score": 0.9837,
+      "box": [
+        126,
+        339,
+        502,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Field Academy, 2017.09–2020.05",
+      "score": 0.9904,
+      "box": [
+        115,
+        381,
+        835,
+        406
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9913,
+      "box": [
+        126,
+        406,
+        517,
+        432
+      ]
+    },
+    {
+      "text": "- Reviewed learning standards",
+      "score": 0.985,
+      "box": [
+        125,
+        430,
+        412,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, General Academic Studies, Brookfield University, 2020",
+      "score": 0.9678,
+      "box": [
+        114,
+        539,
+        732,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional review methods",
+      "score": 0.984,
+      "box": [
+        134,
+        566,
+        653,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of student assessment",
+      "score": 0.9807,
+      "box": [
+        134,
+        591,
+        529,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KANIN FORD\nPA, USA|+1-237-501-4944|kanin.ford@example.com\nWORK HISTORY\nElementary Middle School Teachers, Open Grove School, 2020.05–2023.01\n- Implemented performance evaluation systems\n- Established instructional best practices\nElementary Middle School Teachers, Bright Field Academy, 2017.09–2020.05\n- Organized classroom learning resources\n- Reviewed learning standards\nEDUCATION\nBachelor's, General Academic Studies, Brookfield University, 2020\n• Completed coursework in instructional review methods\n• Studied principles of student assessment"
+}

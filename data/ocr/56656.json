@@ -1,0 +1,278 @@
+{
+  "id": "56656",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.991,
+  "n_lines": 20,
+  "mean_score": 0.9817,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CHRISTINA PAUL",
+      "score": 0.9877,
+      "box": [
+        117,
+        90,
+        400,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-896-493-9368 |christina.paul@example.com",
+      "score": 0.9816,
+      "box": [
+        115,
+        150,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9799,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Minds School, 2020.07–2023.01",
+      "score": 0.9863,
+      "box": [
+        115,
+        289,
+        826,
+        314
+      ]
+    },
+    {
+      "text": "-Directed instructional planning processes",
+      "score": 0.9837,
+      "box": [
+        125,
+        314,
+        522,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented data analysis frameworks",
+      "score": 0.9735,
+      "box": [
+        127,
+        340,
+        504,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Hills School, 2018.01–2020.07",
+      "score": 0.984,
+      "box": [
+        115,
+        381,
+        814,
+        406
+      ]
+    },
+    {
+      "text": "- Established instructional review cycles",
+      "score": 0.9908,
+      "box": [
+        125,
+        406,
+        497,
+        431
+      ]
+    },
+    {
+      "text": "- Directed curriculum revision cycles",
+      "score": 0.9812,
+      "box": [
+        126,
+        430,
+        463,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Corner Academy, 2015.06–2018.01",
+      "score": 0.9811,
+      "box": [
+        114,
+        471,
+        879,
+        496
+      ]
+    },
+    {
+      "text": "- Conducted curriculum reviews",
+      "score": 0.9914,
+      "box": [
+        126,
+        497,
+        422,
+        519
+      ]
+    },
+    {
+      "text": "– Managed instructional timelines",
+      "score": 0.9569,
+      "box": [
+        127,
+        523,
+        435,
+        546
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Path School, 2012.11–2015.06",
+      "score": 0.9744,
+      "box": [
+        116,
+        565,
+        848,
+        588
+      ]
+    },
+    {
+      "text": "- Reviewed learning standards",
+      "score": 0.995,
+      "box": [
+        126,
+        590,
+        412,
+        613
+      ]
+    },
+    {
+      "text": "- Administered quizzes and short assessments",
+      "score": 0.9864,
+      "box": [
+        127,
+        615,
+        561,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Learning and Development, Lakeside University, 2012",
+      "score": 0.9585,
+      "box": [
+        115,
+        724,
+        707,
+        746
+      ]
+    },
+    {
+      "text": "Bachelor's, Foundational Education, Bright Ridge University, 2010",
+      "score": 0.972,
+      "box": [
+        114,
+        747,
+        727,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational skill building",
+      "score": 0.9774,
+      "box": [
+        134,
+        774,
+        614,
+        797
+      ]
+    },
+    {
+      "text": "• Studied principles of teaching effectiveness",
+      "score": 0.9934,
+      "box": [
+        133,
+        799,
+        548,
+        822
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "CHRISTINA PAUL\nVA, USA|+1-896-493-9368 |christina.paul@example.com\nWORK HISTORY\nElementary Middle School Teachers, Sunny Minds School, 2020.07–2023.01\n-Directed instructional planning processes\n- Implemented data analysis frameworks\nElementary Middle School Teachers, Caring Hills School, 2018.01–2020.07\n- Established instructional review cycles\n- Directed curriculum revision cycles\nElementary Middle School Teachers, Learning Corner Academy, 2015.06–2018.01\n- Conducted curriculum reviews\n– Managed instructional timelines\nElementary Middle School Teachers, Discovery Path School, 2012.11–2015.06\n- Reviewed learning standards\n- Administered quizzes and short assessments\nEDUCATION\nMaster's, Learning and Development, Lakeside University, 2012\nBachelor's, Foundational Education, Bright Ridge University, 2010\n• Completed coursework in educational skill building\n• Studied principles of teaching effectiveness"
+}

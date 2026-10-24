@@ -1,0 +1,148 @@
+{
+  "id": "11392",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.797,
+  "n_lines": 10,
+  "mean_score": 0.9801,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CODYYU",
+      "score": 0.9913,
+      "box": [
+        115,
+        88,
+        271,
+        123
+      ]
+    },
+    {
+      "text": "CT, USA|+1-464-836-7147 |cody.yu@example.com",
+      "score": 0.9925,
+      "box": [
+        116,
+        151,
+        612,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9852,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Tech, 2020.03–2023.01",
+      "score": 0.9891,
+      "box": [
+        116,
+        289,
+        619,
+        312
+      ]
+    },
+    {
+      "text": "- Monitored application logs",
+      "score": 0.9562,
+      "box": [
+        126,
+        314,
+        386,
+        340
+      ]
+    },
+    {
+      "text": "- Updated configuration files",
+      "score": 0.9842,
+      "box": [
+        126,
+        340,
+        389,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Hillview University, 2022",
+      "score": 0.987,
+      "box": [
+        115,
+        449,
+        452,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in software engineering",
+      "score": 0.9492,
+      "box": [
+        132,
+        473,
+        583,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of stack and heap usage",
+      "score": 0.9674,
+      "box": [
+        132,
+        497,
+        584,
+        524
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "CODYYU\nCT, USA|+1-464-836-7147 |cody.yu@example.com\nWORK HISTORY\nSoftware Developers, Softgrid Tech, 2020.03–2023.01\n- Monitored application logs\n- Updated configuration files\nEDUCATION\nBachelor's, Hillview University, 2022\n• Completed coursework in software engineering\n• Studied fundamentals of stack and heap usage"
+}

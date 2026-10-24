@@ -1,0 +1,239 @@
+{
+  "id": "24799",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.967,
+  "n_lines": 17,
+  "mean_score": 0.9848,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SARAMCCALL",
+      "score": 0.9991,
+      "box": [
+        115,
+        90,
+        362,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA| +1-521-529-7507 | sara.mccall@example.com",
+      "score": 0.9515,
+      "box": [
+        115,
+        150,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Bridge School, 2020.02–2023.01",
+      "score": 0.9715,
+      "box": [
+        116,
+        290,
+        826,
+        313
+      ]
+    },
+    {
+      "text": "- Led academic improvement programs",
+      "score": 0.9837,
+      "box": [
+        126,
+        314,
+        493,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented learning system upgrades",
+      "score": 0.9857,
+      "box": [
+        127,
+        339,
+        507,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Futures Academy, 2016.03–2019.02",
+      "score": 0.994,
+      "box": [
+        115,
+        381,
+        892,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared instructional pacing guides",
+      "score": 0.9753,
+      "box": [
+        126,
+        406,
+        479,
+        431
+      ]
+    },
+    {
+      "text": "- Developed homework policies",
+      "score": 0.9883,
+      "box": [
+        126,
+        430,
+        420,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Springs School, 2012.01–2014.12",
+      "score": 0.9877,
+      "box": [
+        115,
+        471,
+        865,
+        496
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9756,
+      "box": [
+        125,
+        496,
+        410,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9976,
+      "box": [
+        126,
+        521,
+        460,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, General Academic Studies, Oakridge University, 2005",
+      "score": 0.9811,
+      "box": [
+        115,
+        632,
+        706,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, General Academic Studies, Sunnyside University, 2003",
+      "score": 0.9884,
+      "box": [
+        114,
+        656,
+        737,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in child development fundamentals",
+      "score": 0.9894,
+      "box": [
+        135,
+        684,
+        688,
+        704
+      ]
+    },
+    {
+      "text": "• Studied principles of formative assessment",
+      "score": 0.9897,
+      "box": [
+        132,
+        706,
+        546,
+        731
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "SARAMCCALL\nMD, USA| +1-521-529-7507 | sara.mccall@example.com\nWORK HISTORY\nElementary Middle School Teachers, Bright Bridge School, 2020.02–2023.01\n- Led academic improvement programs\n- Implemented learning system upgrades\nElementary Middle School Teachers, Harmony Futures Academy, 2016.03–2019.02\n- Prepared instructional pacing guides\n- Developed homework policies\nElementary Middle School Teachers, Learning Springs School, 2012.01–2014.12\n- Provided math drill exercises\n- Assisted with science experiments\nEDUCATION\nMaster's, General Academic Studies, Oakridge University, 2005\nBachelor's, General Academic Studies, Sunnyside University, 2003\n• Completed coursework in child development fundamentals\n• Studied principles of formative assessment"
+}

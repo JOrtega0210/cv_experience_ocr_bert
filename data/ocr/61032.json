@@ -1,0 +1,148 @@
+{
+  "id": "61032",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.766,
+  "n_lines": 10,
+  "mean_score": 0.9778,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ISABELLA FULLER",
+      "score": 0.9865,
+      "box": [
+        115,
+        90,
+        426,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-553-899-8760|isabella.fuller@example.com",
+      "score": 0.9699,
+      "box": [
+        115,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9824,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellSpring Nursing Services, 2021.02–2023.01",
+      "score": 0.9676,
+      "box": [
+        115,
+        289,
+        739,
+        314
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9393,
+      "box": [
+        127,
+        315,
+        400,
+        339
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.993,
+      "box": [
+        128,
+        340,
+        415,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Systems, Greenway University, 2023",
+      "score": 0.9662,
+      "box": [
+        114,
+        448,
+        633,
+        473
+      ]
+    },
+    {
+      "text": "• Completed coursework in disaster nursing basics",
+      "score": 0.9825,
+      "box": [
+        133,
+        474,
+        602,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical reporting",
+      "score": 0.9924,
+      "box": [
+        133,
+        498,
+        540,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ISABELLA FULLER\nWI, USA|+1-553-899-8760|isabella.fuller@example.com\nWORK HISTORY\nRegistered Nurses, WellSpring Nursing Services, 2021.02–2023.01\n- Recorded patient vital signs\n- Checked patient identification\nEDUCATION\nBachelor's, Health Systems, Greenway University, 2023\n• Completed coursework in disaster nursing basics\n• Completed coursework in clinical reporting"
+}

@@ -1,0 +1,135 @@
+{
+  "id": "48169",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.768,
+  "n_lines": 9,
+  "mean_score": 0.9799,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ADRIAN GRAHAM",
+      "score": 0.9714,
+      "box": [
+        117,
+        90,
+        408,
+        121
+      ]
+    },
+    {
+      "text": "SD, USA|+1-584-369-4452 |adrian.graham@example.com",
+      "score": 0.9886,
+      "box": [
+        116,
+        152,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9806,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronFrame Construction, 2019.09–2021.2",
+      "score": 0.9932,
+      "box": [
+        116,
+        291,
+        727,
+        311
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9844,
+      "box": [
+        126,
+        315,
+        425,
+        338
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9737,
+      "box": [
+        126,
+        339,
+        426,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Site Management, Clearwater High School, 2016",
+      "score": 0.9733,
+      "box": [
+        116,
+        449,
+        952,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in building codes overview",
+      "score": 0.9559,
+      "box": [
+        132,
+        474,
+        611,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "ADRIAN GRAHAM\nSD, USA|+1-584-369-4452 |adrian.graham@example.com\nWORK HISTORY\nConstruction Laborers, IronFrame Construction, 2019.09–2021.2\n- Assisted with excavation tasks\n- Prepared scaffolding platforms\nEDUCATION\nHigh school graduate/GED, Construction Site Management, Clearwater High School, 2016\n• Completed coursework in building codes overview"
+}

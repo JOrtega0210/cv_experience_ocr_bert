@@ -1,0 +1,278 @@
+{
+  "id": "04994",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.047,
+  "n_lines": 20,
+  "mean_score": 0.9802,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "PRISCILLA HOWELL",
+      "score": 0.9757,
+      "box": [
+        116,
+        90,
+        448,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA|+1-713-846-6733 |priscilla.howell@example.com",
+      "score": 0.9832,
+      "box": [
+        117,
+        152,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9821,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Financial, 2020.05–202.01",
+      "score": 0.9793,
+      "box": [
+        114,
+        289,
+        728,
+        314
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.982,
+      "box": [
+        126,
+        314,
+        527,
+        339
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9821,
+      "box": [
+        127,
+        340,
+        477,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Financial, 2017.09–2020.05",
+      "score": 0.9909,
+      "box": [
+        115,
+        381,
+        698,
+        406
+      ]
+    },
+    {
+      "text": "- Led internal audit functions",
+      "score": 0.9803,
+      "box": [
+        126,
+        407,
+        392,
+        429
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.9729,
+      "box": [
+        126,
+        431,
+        456,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Group, 2014.01–2016.09",
+      "score": 0.9899,
+      "box": [
+        114,
+        471,
+        715,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared financial statements",
+      "score": 0.9656,
+      "box": [
+        126,
+        498,
+        419,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared consolidation entries",
+      "score": 0.9713,
+      "box": [
+        126,
+        521,
+        425,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Financial, 2010.08–2013.05",
+      "score": 0.9909,
+      "box": [
+        115,
+        565,
+        720,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9862,
+      "box": [
+        127,
+        591,
+        365,
+        612
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9682,
+      "box": [
+        127,
+        615,
+        369,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Financial Analysis, Goldenbrook University, 2008",
+      "score": 0.9753,
+      "box": [
+        115,
+        724,
+        659,
+        746
+      ]
+    },
+    {
+      "text": "Bachelor's, Commerce, Goldenview University, 206",
+      "score": 0.9749,
+      "box": [
+        114,
+        747,
+        605,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of information management",
+      "score": 0.9929,
+      "box": [
+        133,
+        774,
+        574,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting controls testing",
+      "score": 0.9611,
+      "box": [
+        134,
+        799,
+        635,
+        823
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "PRISCILLA HOWELL\nCA, USA|+1-713-846-6733 |priscilla.howell@example.com\nWORK HISTORY\nAccountants Auditors, Precise Ledger Financial, 2020.05–202.01\n- Designed financial accountability systems\n- Established financial quality controls\nAccountants Auditors, OpenBooks Financial, 2017.09–2020.05\n- Led internal audit functions\n- Developed audit quality standards\nAccountants Auditors, Precise Balance Group, 2014.01–2016.09\n- Prepared financial statements\n- Prepared consolidation entries\nAccountants Auditors, SteadyLedger Financial, 2010.08–2013.05\n- Prepared journal entries\n- Compiled audit evidence\nEDUCATION\nMaster's, Financial Analysis, Goldenbrook University, 2008\nBachelor's, Commerce, Goldenview University, 206\n• Studied principles of information management\n• Completed coursework in accounting controls testing"
+}

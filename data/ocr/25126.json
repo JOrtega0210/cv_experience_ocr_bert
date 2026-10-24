@@ -1,0 +1,187 @@
+{
+  "id": "25126",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.832,
+  "n_lines": 13,
+  "mean_score": 0.9823,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NAYELY BOONE",
+      "score": 0.9585,
+      "box": [
+        115,
+        88,
+        385,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA|+1-905-564-8772 |nayely.boone@example.com",
+      "score": 0.9786,
+      "box": [
+        115,
+        150,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9793,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, CareBridge Health Services, 2019.07–2021.07",
+      "score": 0.9906,
+      "box": [
+        116,
+        290,
+        734,
+        313
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9916,
+      "box": [
+        126,
+        314,
+        548,
+        337
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.9547,
+      "box": [
+        126,
+        338,
+        424,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, CareBridge Health Services, 2016.06–2018.06",
+      "score": 0.9822,
+      "box": [
+        116,
+        382,
+        732,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobility",
+      "score": 0.9926,
+      "box": [
+        125,
+        407,
+        408,
+        431
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.9842,
+      "box": [
+        127,
+        432,
+        452,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Health Sciences, Pinewood University, 2014",
+      "score": 0.9849,
+      "box": [
+        115,
+        541,
+        711,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of gastrointestinal nursing",
+      "score": 0.9884,
+      "box": [
+        132,
+        565,
+        556,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in communication in care teams",
+      "score": 0.9861,
+      "box": [
+        134,
+        591,
+        661,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "NAYELY BOONE\nMA, USA|+1-905-564-8772 |nayely.boone@example.com\nWORK HISTORY\nRegistered Nurses, CareBridge Health Services, 2019.07–2021.07\n- Developed clinical performance dashboards\n- Led infection control programs\nRegistered Nurses, CareBridge Health Services, 2016.06–2018.06\n- Assisted with patient mobility\n- Documented patient observations\nEDUCATION\nBachelor's, Applied Health Sciences, Pinewood University, 2014\n• Studied principles of gastrointestinal nursing\n• Completed coursework in communication in care teams"
+}

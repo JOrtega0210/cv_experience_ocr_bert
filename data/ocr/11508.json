@@ -1,0 +1,239 @@
+{
+  "id": "11508",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.958,
+  "n_lines": 17,
+  "mean_score": 0.9819,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSHUA DONALDSON",
+      "score": 0.9794,
+      "box": [
+        116,
+        90,
+        481,
+        121
+      ]
+    },
+    {
+      "text": "DE, USA|+1-453-741-3354 |joshua.donaldson@example.com",
+      "score": 0.988,
+      "box": [
+        116,
+        152,
+        705,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stoneframe Tech, 2020.10–2023.01",
+      "score": 0.9781,
+      "box": [
+        115,
+        288,
+        655,
+        313
+      ]
+    },
+    {
+      "text": "- Defined APl standards",
+      "score": 0.9832,
+      "box": [
+        127,
+        315,
+        351,
+        336
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9808,
+      "box": [
+        126,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstack Labs, 2018.07–2020.10",
+      "score": 0.993,
+      "box": [
+        116,
+        382,
+        646,
+        405
+      ]
+    },
+    {
+      "text": "- Designed application modules",
+      "score": 0.9797,
+      "box": [
+        127,
+        407,
+        422,
+        430
+      ]
+    },
+    {
+      "text": "- Handled schema migrations",
+      "score": 0.9822,
+      "box": [
+        126,
+        430,
+        402,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Corestack Tech, 2016.03–2018.07",
+      "score": 0.9927,
+      "box": [
+        116,
+        472,
+        643,
+        495
+      ]
+    },
+    {
+      "text": "- Optimized simple queries",
+      "score": 0.9729,
+      "box": [
+        126,
+        496,
+        378,
+        522
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9716,
+      "box": [
+        126,
+        520,
+        418,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Master's, North Ridge University, 2020",
+      "score": 0.9713,
+      "box": [
+        115,
+        632,
+        474,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Westview University, 2018",
+      "score": 0.9743,
+      "box": [
+        115,
+        657,
+        471,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in data structures implementation",
+      "score": 0.9814,
+      "box": [
+        133,
+        683,
+        674,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in containerization basics",
+      "score": 0.9777,
+      "box": [
+        132,
+        706,
+        600,
+        729
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "JOSHUA DONALDSON\nDE, USA|+1-453-741-3354 |joshua.donaldson@example.com\nWORK HISTORY\nSoftware Developers, Stoneframe Tech, 2020.10–2023.01\n- Defined APl standards\n- Implemented security architectures\nSoftware Developers, Clearstack Labs, 2018.07–2020.10\n- Designed application modules\n- Handled schema migrations\nSoftware Developers, Corestack Tech, 2016.03–2018.07\n- Optimized simple queries\n- Implemented logging features\nEDUCATION\nMaster's, North Ridge University, 2020\nBachelor's, Westview University, 2018\n• Completed coursework in data structures implementation\n• Completed coursework in containerization basics"
+}

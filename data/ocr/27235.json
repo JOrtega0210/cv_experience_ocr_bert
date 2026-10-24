@@ -1,0 +1,278 @@
+{
+  "id": "27235",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.879,
+  "n_lines": 20,
+  "mean_score": 0.981,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KYLE VILLEGAS",
+      "score": 0.9869,
+      "box": [
+        116,
+        90,
+        384,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-210-892-3286 |kyle.villegas@example.com",
+      "score": 0.9875,
+      "box": [
+        116,
+        151,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstone Systems, 2020.05–2023.01",
+      "score": 0.9807,
+      "box": [
+        115,
+        289,
+        681,
+        314
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9777,
+      "box": [
+        127,
+        315,
+        443,
+        338
+      ]
+    },
+    {
+      "text": "- Defined API governance models",
+      "score": 0.979,
+      "box": [
+        126,
+        339,
+        443,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightnode Systems, 2017.09–2020.05",
+      "score": 0.9811,
+      "box": [
+        115,
+        381,
+        683,
+        406
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9882,
+      "box": [
+        126,
+        406,
+        445,
+        431
+      ]
+    },
+    {
+      "text": "- Designed deployment strategies",
+      "score": 0.986,
+      "box": [
+        126,
+        430,
+        441,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Openline Digital, 2013.09–2016.05",
+      "score": 0.9892,
+      "box": [
+        114,
+        470,
+        645,
+        498
+      ]
+    },
+    {
+      "text": "- Implemented search features",
+      "score": 0.9881,
+      "box": [
+        126,
+        498,
+        414,
+        521
+      ]
+    },
+    {
+      "text": "-Built data visualization tools",
+      "score": 0.9814,
+      "box": [
+        126,
+        522,
+        399,
+        544
+      ]
+    },
+    {
+      "text": "Software Developers, Codewave Tech, 2010.04–2013.01",
+      "score": 0.9861,
+      "box": [
+        114,
+        563,
+        646,
+        588
+      ]
+    },
+    {
+      "text": "- Reviewed API documentation",
+      "score": 0.9535,
+      "box": [
+        126,
+        591,
+        416,
+        611
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.9672,
+      "box": [
+        126,
+        613,
+        495,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Fairhill University, 2008",
+      "score": 0.9574,
+      "box": [
+        116,
+        726,
+        424,
+        745
+      ]
+    },
+    {
+      "text": "Bachelor's, Summit University, 2006",
+      "score": 0.9894,
+      "box": [
+        114,
+        747,
+        452,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of responsive design",
+      "score": 0.9774,
+      "box": [
+        132,
+        772,
+        547,
+        797
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of deployment pipelines",
+      "score": 0.9779,
+      "box": [
+        133,
+        799,
+        575,
+        822
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "KYLE VILLEGAS\nMI, USA|+1-210-892-3286 |kyle.villegas@example.com\nWORK HISTORY\nSoftware Developers, Clearstone Systems, 2020.05–2023.01\n- Designed observability platforms\n- Defined API governance models\nSoftware Developers, Brightnode Systems, 2017.09–2020.05\n- Designed observability platforms\n- Designed deployment strategies\nSoftware Developers, Openline Digital, 2013.09–2016.05\n- Implemented search features\n-Built data visualization tools\nSoftware Developers, Codewave Tech, 2010.04–2013.01\n- Reviewed API documentation\n- Performed basic performance profiling\nEDUCATION\nMaster's, Fairhill University, 2008\nBachelor's, Summit University, 2006\n• Studied fundamentals of responsive design\n• Studied fundamentals of deployment pipelines"
+}

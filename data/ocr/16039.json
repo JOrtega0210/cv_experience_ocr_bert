@@ -1,0 +1,174 @@
+{
+  "id": "16039",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.931,
+  "n_lines": 12,
+  "mean_score": 0.9797,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DAVID SIMMONS",
+      "score": 0.976,
+      "box": [
+        116,
+        90,
+        391,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-577-724-9911 | david.simmons@example.com",
+      "score": 0.946,
+      "box": [
+        116,
+        151,
+        681,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongWay Construction, 2020.06–2022.3",
+      "score": 0.9802,
+      "box": [
+        114,
+        289,
+        734,
+        313
+      ]
+    },
+    {
+      "text": "- Supervised multiple work crews",
+      "score": 0.955,
+      "box": [
+        126,
+        315,
+        436,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed material specifications",
+      "score": 0.9882,
+      "box": [
+        125,
+        338,
+        445,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Build Group, 2017.06–2019.03",
+      "score": 0.9871,
+      "box": [
+        115,
+        381,
+        710,
+        406
+      ]
+    },
+    {
+      "text": "- Transported waste materials",
+      "score": 0.9748,
+      "box": [
+        125,
+        406,
+        406,
+        431
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.983,
+      "box": [
+        126,
+        430,
+        400,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Welding Technology, Clearview High School, 2007",
+      "score": 0.9933,
+      "box": [
+        116,
+        541,
+        845,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic plastering",
+      "score": 0.9887,
+      "box": [
+        133,
+        565,
+        534,
+        590
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "DAVID SIMMONS\nGA, USA |+1-577-724-9911 | david.simmons@example.com\nWORK HISTORY\nConstruction Laborers, StrongWay Construction, 2020.06–2022.3\n- Supervised multiple work crews\n- Reviewed material specifications\nConstruction Laborers, Precision Build Group, 2017.06–2019.03\n- Transported waste materials\n- Dug trenches for utility lines\nEDUCATION\nHigh school graduate/GED, Welding Technology, Clearview High School, 2007\n• Completed coursework in basic plastering"
+}

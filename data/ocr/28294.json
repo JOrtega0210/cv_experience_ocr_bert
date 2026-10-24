@@ -1,0 +1,174 @@
+{
+  "id": "28294",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.826,
+  "n_lines": 12,
+  "mean_score": 0.9845,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ZACHARIAH MANNING",
+      "score": 0.9878,
+      "box": [
+        115,
+        90,
+        484,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-992-792-6847|zachariah.manning@example.com",
+      "score": 0.9955,
+      "box": [
+        116,
+        151,
+        712,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Works, 2020.11–2023.01",
+      "score": 0.9835,
+      "box": [
+        115,
+        290,
+        657,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed workflow efficiency reports",
+      "score": 0.9593,
+      "box": [
+        125,
+        313,
+        484,
+        339
+      ]
+    },
+    {
+      "text": "- Supervised large structural repairs",
+      "score": 0.9875,
+      "box": [
+        126,
+        339,
+        460,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Services, 2018.08–2020.11",
+      "score": 0.9935,
+      "box": [
+        116,
+        382,
+        696,
+        405
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.9822,
+      "box": [
+        126,
+        405,
+        405,
+        430
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9693,
+      "box": [
+        125,
+        430,
+        440,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Facilities Maintenance, Brookstone High School, 2016",
+      "score": 0.9894,
+      "box": [
+        116,
+        541,
+        877,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction cost basics",
+      "score": 0.9829,
+      "box": [
+        133,
+        565,
+        610,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "ZACHARIAH MANNING\nMI, USA|+1-992-792-6847|zachariah.manning@example.com\nWORK HISTORY\nConstruction Laborers, Precision Works, 2020.11–2023.01\n- Reviewed workflow efficiency reports\n- Supervised large structural repairs\nConstruction Laborers, Allied Build Services, 2018.08–2020.11\n- Installed insulation materials\n- Installed basic flooring materials\nEDUCATION\nHigh school graduate/GED, Facilities Maintenance, Brookstone High School, 2016\n• Completed coursework in construction cost basics"
+}

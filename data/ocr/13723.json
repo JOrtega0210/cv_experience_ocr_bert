@@ -1,0 +1,226 @@
+{
+  "id": "13723",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.996,
+  "n_lines": 16,
+  "mean_score": 0.9781,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MICHAEL QUINN",
+      "score": 0.9679,
+      "box": [
+        116,
+        90,
+        388,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-623-645-2771 |michael.quinn@example.com",
+      "score": 0.9791,
+      "box": [
+        115,
+        150,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Financial Group, 2019.10–2023.01",
+      "score": 0.9834,
+      "box": [
+        114,
+        289,
+        755,
+        314
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9777,
+      "box": [
+        126,
+        314,
+        515,
+        339
+      ]
+    },
+    {
+      "text": "- Directed revenue recognition policies",
+      "score": 0.9834,
+      "box": [
+        127,
+        340,
+        484,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyBooks Group, 2015.01–2018.04",
+      "score": 0.9863,
+      "box": [
+        116,
+        382,
+        687,
+        406
+      ]
+    },
+    {
+      "text": "-Reviewed contract accounting",
+      "score": 0.9854,
+      "box": [
+        125,
+        406,
+        421,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared financial projections",
+      "score": 0.961,
+      "box": [
+        126,
+        430,
+        418,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Advisors, 2010.10–2014.02",
+      "score": 0.9855,
+      "box": [
+        114,
+        471,
+        737,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with compliance documentation",
+      "score": 0.9735,
+      "box": [
+        125,
+        496,
+        518,
+        521
+      ]
+    },
+    {
+      "text": "- Maintained supporting documentation",
+      "score": 0.9695,
+      "box": [
+        126,
+        521,
+        490,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting Information Systems, Granite Hill University, 2008",
+      "score": 0.9604,
+      "box": [
+        114,
+        631,
+        796,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit ethics",
+      "score": 0.9821,
+      "box": [
+        133,
+        657,
+        495,
+        680
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of tax planning",
+      "score": 0.9712,
+      "box": [
+        133,
+        681,
+        491,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "MICHAEL QUINN\nFL, USA|+1-623-645-2771 |michael.quinn@example.com\nWORK HISTORY\nAccountants Auditors, CoreBooks Financial Group, 2019.10–2023.01\n- Directed accounting operations planning\n- Directed revenue recognition policies\nAccountants Auditors, SteadyBooks Group, 2015.01–2018.04\n-Reviewed contract accounting\n- Prepared financial projections\nAccountants Auditors, Precise Balance Advisors, 2010.10–2014.02\n- Assisted with compliance documentation\n- Maintained supporting documentation\nEDUCATION\nBachelor's, Accounting Information Systems, Granite Hill University, 2008\n• Completed coursework in audit ethics\n• Studied fundamentals of tax planning"
+}

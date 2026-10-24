@@ -1,0 +1,174 @@
+{
+  "id": "35281",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.843,
+  "n_lines": 12,
+  "mean_score": 0.9798,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "FAREED HINTON",
+      "score": 0.9675,
+      "box": [
+        115,
+        90,
+        393,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-741-916-9075|fareed.hinton@example.com",
+      "score": 0.9952,
+      "box": [
+        115,
+        150,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9773,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Financial, 2019.10–2022.02",
+      "score": 0.9915,
+      "box": [
+        115,
+        290,
+        694,
+        313
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9836,
+      "box": [
+        127,
+        315,
+        513,
+        338
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9857,
+      "box": [
+        127,
+        340,
+        518,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Financial, 2016.02–2018.06",
+      "score": 0.9803,
+      "box": [
+        115,
+        382,
+        689,
+        405
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9831,
+      "box": [
+        126,
+        406,
+        372,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9442,
+      "box": [
+        126,
+        430,
+        356,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Business Technology, Fairmont High School, 2004",
+      "score": 0.976,
+      "box": [
+        116,
+        541,
+        846,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial accounting",
+      "score": 0.9746,
+      "box": [
+        134,
+        566,
+        572,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "FAREED HINTON\nNY, USA|+1-741-916-9075|fareed.hinton@example.com\nWORK HISTORY\nAccountants Auditors, SolidBooks Financial, 2019.10–2022.02\n- Designed financial control environments\n- Established financial reporting standards\nAccountants Auditors, EverCount Financial, 2016.02–2018.06\n- Compiled audit evidence\n- Prepared aging reports\nEDUCATION\nHigh school graduate/GED, Business Technology, Fairmont High School, 2004\n• Completed coursework in financial accounting"
+}

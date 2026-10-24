@@ -1,0 +1,148 @@
+{
+  "id": "03105",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.944,
+  "n_lines": 10,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOCELYNOCONNOR",
+      "score": 0.9994,
+      "box": [
+        117,
+        90,
+        459,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-715-559-6707 |jocelyn.oconnor@example.com",
+      "score": 0.992,
+      "box": [
+        117,
+        151,
+        687,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9712,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Meadow Academy, 2021.06–2023.01",
+      "score": 0.9795,
+      "box": [
+        116,
+        290,
+        873,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.9697,
+      "box": [
+        126,
+        315,
+        412,
+        337
+      ]
+    },
+    {
+      "text": "- Maintained classroom attendance and grading records",
+      "score": 0.9857,
+      "box": [
+        126,
+        339,
+        645,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Elementary Education Preparation, Willow Creek University, 2023",
+      "score": 0.9682,
+      "box": [
+        116,
+        449,
+        975,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom discipline strategies",
+      "score": 0.9904,
+      "box": [
+        133,
+        474,
+        672,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional improvement methods",
+      "score": 0.9839,
+      "box": [
+        134,
+        499,
+        713,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JOCELYNOCONNOR\nCA, USA|+1-715-559-6707 |jocelyn.oconnor@example.com\nWORK HISTORY\nElementary Middle School Teachers, Sunny Meadow Academy, 2021.06–2023.01\n- Reviewed curriculum content\n- Maintained classroom attendance and grading records\nEDUCATION\nSome college (no degree), Elementary Education Preparation, Willow Creek University, 2023\n• Completed coursework in classroom discipline strategies\n• Completed coursework in instructional improvement methods"
+}

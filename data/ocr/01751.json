@@ -1,0 +1,148 @@
+{
+  "id": "01751",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.848,
+  "n_lines": 10,
+  "mean_score": 0.9847,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DOMINIC MCCARTY",
+      "score": 0.991,
+      "box": [
+        117,
+        90,
+        440,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA |+1-706-323-6745|dominic.mccarty@example.com",
+      "score": 0.979,
+      "box": [
+        116,
+        152,
+        690,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9816,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Center, 2019.07–2022.06",
+      "score": 0.983,
+      "box": [
+        116,
+        290,
+        695,
+        313
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.9712,
+      "box": [
+        126,
+        313,
+        512,
+        339
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.9809,
+      "box": [
+        127,
+        340,
+        484,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Support, Stonewood University, 2007",
+      "score": 0.9829,
+      "box": [
+        115,
+        449,
+        643,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in rehabilitation nursing",
+      "score": 0.9852,
+      "box": [
+        133,
+        472,
+        582,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in medical-surgical nursing",
+      "score": 0.9936,
+      "box": [
+        133,
+        497,
+        614,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "DOMINIC MCCARTY\nAZ, USA |+1-706-323-6745|dominic.mccarty@example.com\nWORK HISTORY\nRegistered Nurses, Harmony Health Center, 2019.07–2022.06\n- Performed basic life support procedures\n- Administered prescribed medications\nEDUCATION\nBachelor's, Clinical Support, Stonewood University, 2007\n• Completed coursework in rehabilitation nursing\n• Completed coursework in medical-surgical nursing"
+}

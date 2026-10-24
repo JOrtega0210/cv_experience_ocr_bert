@@ -1,0 +1,135 @@
+{
+  "id": "54362",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.773,
+  "n_lines": 9,
+  "mean_score": 0.9832,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NATHAN EVANS",
+      "score": 0.9852,
+      "box": [
+        116,
+        90,
+        384,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-471-331-2496|nathan.evans@example.com",
+      "score": 0.9882,
+      "box": [
+        114,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeStone Contractors, 2022.12–2023.01",
+      "score": 0.9792,
+      "box": [
+        115,
+        289,
+        729,
+        312
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9727,
+      "box": [
+        127,
+        316,
+        424,
+        336
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.968,
+      "box": [
+        126,
+        339,
+        583,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Design, Larkspur High School, 2023",
+      "score": 0.9878,
+      "box": [
+        116,
+        449,
+        833,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic painting techniques",
+      "score": 0.9894,
+      "box": [
+        134,
+        474,
+        624,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "NATHAN EVANS\nTX, USA|+1-471-331-2496|nathan.evans@example.com\nWORK HISTORY\nConstruction Laborers, PrimeStone Contractors, 2022.12–2023.01\n- Assisted with excavation tasks\n- Assisted with basic electrical conduit placement\nEDUCATION\nHigh school graduate/GED, Construction Design, Larkspur High School, 2023\n• Completed coursework in basic painting techniques"
+}

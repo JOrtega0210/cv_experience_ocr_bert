@@ -1,0 +1,226 @@
+{
+  "id": "13710",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.98,
+  "n_lines": 16,
+  "mean_score": 0.9843,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "PATRINA HUDSON",
+      "score": 0.9757,
+      "box": [
+        115,
+        90,
+        421,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-419-503-2504 |patrina.hudson@example.com",
+      "score": 0.9778,
+      "box": [
+        115,
+        150,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeHands Health Group, 2020.08–2023.01",
+      "score": 0.9898,
+      "box": [
+        115,
+        289,
+        707,
+        314
+      ]
+    },
+    {
+      "text": "- Designed clinical care protocols",
+      "score": 0.9842,
+      "box": [
+        127,
+        315,
+        436,
+        338
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.962,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearBridge Health Group, 2017.09–2020.02",
+      "score": 0.9788,
+      "box": [
+        115,
+        381,
+        716,
+        406
+      ]
+    },
+    {
+      "text": "- Administered chemotherapy protocols",
+      "score": 0.9842,
+      "box": [
+        126,
+        406,
+        493,
+        431
+      ]
+    },
+    {
+      "text": "- Coordinated patient discharge planning",
+      "score": 0.9935,
+      "box": [
+        126,
+        430,
+        505,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassionate Path Medical, 2014.09–2017.03",
+      "score": 0.9782,
+      "box": [
+        116,
+        473,
+        746,
+        496
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9944,
+      "box": [
+        125,
+        496,
+        444,
+        521
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9912,
+      "box": [
+        126,
+        521,
+        399,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Associate's degree, Human Biology, Clear Spring University, 2001",
+      "score": 0.9635,
+      "box": [
+        114,
+        631,
+        727,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in palliative care basics",
+      "score": 0.9947,
+      "box": [
+        134,
+        658,
+        583,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in care plan development",
+      "score": 0.9978,
+      "box": [
+        134,
+        681,
+        602,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "PATRINA HUDSON\nFL, USA|+1-419-503-2504 |patrina.hudson@example.com\nWORK HISTORY\nRegistered Nurses, SafeHands Health Group, 2020.08–2023.01\n- Designed clinical care protocols\n- Directed nursing process improvements\nRegistered Nurses, ClearBridge Health Group, 2017.09–2020.02\n- Administered chemotherapy protocols\n- Coordinated patient discharge planning\nRegistered Nurses, Compassionate Path Medical, 2014.09–2017.03\n- Collected patient health histories\n- Recorded patient vital signs\nEDUCATION\nAssociate's degree, Human Biology, Clear Spring University, 2001\n• Completed coursework in palliative care basics\n• Completed coursework in care plan development"
+}

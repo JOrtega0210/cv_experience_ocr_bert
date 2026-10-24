@@ -1,0 +1,239 @@
+{
+  "id": "09277",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.95,
+  "n_lines": 17,
+  "mean_score": 0.9817,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "YAMIL KHAN",
+      "score": 0.9731,
+      "box": [
+        114,
+        87,
+        329,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-477-411-4820 |yamil.khan@example.com",
+      "score": 0.9813,
+      "box": [
+        117,
+        151,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Openfield Labs, 2020.03–2023.01",
+      "score": 0.9817,
+      "box": [
+        114,
+        289,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.9915,
+      "box": [
+        126,
+        314,
+        500,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9757,
+      "box": [
+        126,
+        339,
+        515,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudspring Systems, 2017.05–2020.03",
+      "score": 0.988,
+      "box": [
+        115,
+        381,
+        693,
+        406
+      ]
+    },
+    {
+      "text": "- Developed microservices",
+      "score": 0.9888,
+      "box": [
+        126,
+        407,
+        376,
+        430
+      ]
+    },
+    {
+      "text": "- Developed RESTful APIs",
+      "score": 0.9798,
+      "box": [
+        126,
+        432,
+        376,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Corefield Software, 2012.04–2015.03",
+      "score": 0.9932,
+      "box": [
+        116,
+        472,
+        668,
+        495
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.9743,
+      "box": [
+        124,
+        496,
+        376,
+        521
+      ]
+    },
+    {
+      "text": "- Monitored application logs",
+      "score": 0.9521,
+      "box": [
+        126,
+        521,
+        385,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Lakeview University, 2006",
+      "score": 0.9895,
+      "box": [
+        115,
+        631,
+        449,
+        654
+      ]
+    },
+    {
+      "text": "Bachelor's, Aspen Grove University, 2004",
+      "score": 0.9647,
+      "box": [
+        115,
+        657,
+        503,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in human-computer interaction basics",
+      "score": 0.9865,
+      "box": [
+        133,
+        683,
+        713,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in web development basics",
+      "score": 0.9865,
+      "box": [
+        133,
+        706,
+        618,
+        731
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "YAMIL KHAN\nCA, USA|+1-477-411-4820 |yamil.khan@example.com\nWORK HISTORY\nSoftware Developers, Openfield Labs, 2020.03–2023.01\n- Implemented infrastructure automation\n- Implemented access control frameworks\nSoftware Developers, Cloudspring Systems, 2017.05–2020.03\n- Developed microservices\n- Developed RESTful APIs\nSoftware Developers, Corefield Software, 2012.04–2015.03\n- Resolved merge conflicts\n- Monitored application logs\nEDUCATION\nMaster's, Lakeview University, 2006\nBachelor's, Aspen Grove University, 2004\n• Completed coursework in human-computer interaction basics\n• Completed coursework in web development basics"
+}

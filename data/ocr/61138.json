@@ -1,0 +1,278 @@
+{
+  "id": "61138",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.992,
+  "n_lines": 20,
+  "mean_score": 0.9805,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JESSICA ERICKSON",
+      "score": 0.9867,
+      "box": [
+        116,
+        90,
+        446,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-881-444-2860|jessica.erickson@example.com",
+      "score": 0.9825,
+      "box": [
+        115,
+        150,
+        685,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9786,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Financial Group, 2018.07–2023.01",
+      "score": 0.985,
+      "box": [
+        114,
+        288,
+        772,
+        314
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9775,
+      "box": [
+        127,
+        315,
+        488,
+        337
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9806,
+      "box": [
+        126,
+        339,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Group, 2014.01–2018.07",
+      "score": 0.9924,
+      "box": [
+        115,
+        381,
+        731,
+        406
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.9593,
+      "box": [
+        127,
+        407,
+        503,
+        430
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9747,
+      "box": [
+        126,
+        431,
+        524,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Advisors, 2009.07–2014.01",
+      "score": 0.9875,
+      "box": [
+        114,
+        471,
+        736,
+        496
+      ]
+    },
+    {
+      "text": "- Managed accounting system updates",
+      "score": 0.9711,
+      "box": [
+        127,
+        498,
+        488,
+        521
+      ]
+    },
+    {
+      "text": "- Performed revenue recognition analysis",
+      "score": 0.9836,
+      "box": [
+        126,
+        521,
+        510,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Services, 2005.01–2009.07",
+      "score": 0.9714,
+      "box": [
+        116,
+        566,
+        710,
+        586
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.9852,
+      "box": [
+        125,
+        588,
+        415,
+        613
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9608,
+      "box": [
+        126,
+        614,
+        356,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Financial Services, Evergreen University, 2007",
+      "score": 0.975,
+      "box": [
+        116,
+        726,
+        638,
+        745
+      ]
+    },
+    {
+      "text": "Bachelor's, Economics, Clearhaven University, 2005",
+      "score": 0.9827,
+      "box": [
+        114,
+        747,
+        602,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial accounting",
+      "score": 0.9896,
+      "box": [
+        134,
+        774,
+        572,
+        797
+      ]
+    },
+    {
+      "text": "• Studied principles of financial statement preparation",
+      "score": 0.9871,
+      "box": [
+        132,
+        798,
+        626,
+        822
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "JESSICA ERICKSON\nWI, USA|+1-881-444-2860|jessica.erickson@example.com\nWORK HISTORY\nAccountants Auditors, CoreBalance Financial Group, 2018.07–2023.01\n- Directed financial system architecture\n- Directed accounting operations planning\nAccountants Auditors, Reliable Accounts Group, 2014.01–2018.07\n- Directed strategic accounting initiatives\n- Developed regulatory reporting strategies\nAccountants Auditors, Balanced Books Advisors, 2009.07–2014.01\n- Managed accounting system updates\n- Performed revenue recognition analysis\nAccountants Auditors, Reliable Path Services, 2005.01–2009.07\n- Verified financial transactions\n- Prepared aging reports\nEDUCATION\nMaster's, Financial Services, Evergreen University, 2007\nBachelor's, Economics, Clearhaven University, 2005\n• Completed coursework in financial accounting\n• Studied principles of financial statement preparation"
+}

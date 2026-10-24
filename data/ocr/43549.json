@@ -1,0 +1,135 @@
+{
+  "id": "43549",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.728,
+  "n_lines": 9,
+  "mean_score": 0.9828,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRANDON SHAW",
+      "score": 0.9657,
+      "box": [
+        116,
+        90,
+        401,
+        121
+      ]
+    },
+    {
+      "text": "OK, USA |+1-953-640-6802| brandon.shaw@example.com",
+      "score": 0.9687,
+      "box": [
+        116,
+        151,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9821,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeStone Co., 2021.02–2021.09",
+      "score": 0.9886,
+      "box": [
+        115,
+        290,
+        656,
+        313
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9935,
+      "box": [
+        127,
+        316,
+        367,
+        336
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.979,
+      "box": [
+        126,
+        339,
+        435,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Facilities Maintenance, Windridge High School, 2007",
+      "score": 0.9783,
+      "box": [
+        116,
+        449,
+        865,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in surveying basics",
+      "score": 0.9905,
+      "box": [
+        133,
+        474,
+        544,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "BRANDON SHAW\nOK, USA |+1-953-640-6802| brandon.shaw@example.com\nWORK HISTORY\nConstruction Laborers, PrimeStone Co., 2021.02–2021.09\n- Installed basic formwork\n- Installed temporary site barriers\nEDUCATION\nHigh school graduate/GED, Facilities Maintenance, Windridge High School, 2007\n• Completed coursework in surveying basics"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "16180",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.807,
+  "n_lines": 10,
+  "mean_score": 0.9831,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LEIGHA BALLARD",
+      "score": 0.9917,
+      "box": [
+        116,
+        90,
+        415,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-829-510-8391 |leigha.ballard@example.com",
+      "score": 0.9678,
+      "box": [
+        116,
+        152,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9791,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Heart Nursing, 2020.01–2023.01",
+      "score": 0.9889,
+      "box": [
+        115,
+        289,
+        679,
+        314
+      ]
+    },
+    {
+      "text": "- Performed wound dressing changes",
+      "score": 0.9817,
+      "box": [
+        125,
+        313,
+        476,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobility",
+      "score": 0.9701,
+      "box": [
+        126,
+        339,
+        409,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Management, Bright Ridge University, 2019",
+      "score": 0.9902,
+      "box": [
+        114,
+        448,
+        696,
+        473
+      ]
+    },
+    {
+      "text": "• Studied principles of endocrine nursing",
+      "score": 0.9742,
+      "box": [
+        133,
+        474,
+        507,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing research basics",
+      "score": 0.9886,
+      "box": [
+        134,
+        499,
+        610,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "LEIGHA BALLARD\nGA, USA |+1-829-510-8391 |leigha.ballard@example.com\nWORK HISTORY\nRegistered Nurses, Helping Heart Nursing, 2020.01–2023.01\n- Performed wound dressing changes\n- Assisted with patient mobility\nEDUCATION\nBachelor's, Health Management, Bright Ridge University, 2019\n• Studied principles of endocrine nursing\n• Completed coursework in nursing research basics"
+}

@@ -1,0 +1,135 @@
+{
+  "id": "19645",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.754,
+  "n_lines": 9,
+  "mean_score": 0.9804,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARQUEL PITTMAN",
+      "score": 0.9892,
+      "box": [
+        117,
+        90,
+        444,
+        120
+      ]
+    },
+    {
+      "text": "IN, USA|+1-943-721-8686|marquel.pittman@example.com",
+      "score": 0.973,
+      "box": [
+        117,
+        152,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9735,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, PillarWorks, 2022.05–2023.01",
+      "score": 0.9762,
+      "box": [
+        116,
+        291,
+        612,
+        311
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.982,
+      "box": [
+        125,
+        314,
+        492,
+        339
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9763,
+      "box": [
+        126,
+        339,
+        406,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, HVAC Technology, Cedarfield High School, 2023",
+      "score": 0.9705,
+      "box": [
+        116,
+        449,
+        831,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in concrete curing methods",
+      "score": 0.9842,
+      "box": [
+        134,
+        474,
+        618,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "MARQUEL PITTMAN\nIN, USA|+1-943-721-8686|marquel.pittman@example.com\nWORK HISTORY\nConstruction Laborers, PillarWorks, 2022.05–2023.01\n- Performed basic sanding and painting\n- Installed temporary supports\nEDUCATION\nHigh school graduate/GED, HVAC Technology, Cedarfield High School, 2023\n• Completed coursework in concrete curing methods"
+}

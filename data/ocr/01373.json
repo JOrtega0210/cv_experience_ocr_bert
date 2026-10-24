@@ -1,0 +1,187 @@
+{
+  "id": "01373",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.009,
+  "n_lines": 13,
+  "mean_score": 0.9828,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DAVID BARTON",
+      "score": 0.9652,
+      "box": [
+        116,
+        90,
+        374,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-901-613-6193|david.barton@example.com",
+      "score": 0.9956,
+      "box": [
+        115,
+        151,
+        654,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9825,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Corner Academy, 2020.07–2023.01",
+      "score": 0.9841,
+      "box": [
+        116,
+        290,
+        879,
+        313
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.9815,
+      "box": [
+        127,
+        315,
+        505,
+        338
+      ]
+    },
+    {
+      "text": "- Led curriculum integration projects",
+      "score": 0.9832,
+      "box": [
+        126,
+        339,
+        461,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Futures Academy, 2018.01–2020.07",
+      "score": 0.9883,
+      "box": [
+        115,
+        381,
+        874,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented basic classroom management procedures",
+      "score": 0.9731,
+      "box": [
+        127,
+        408,
+        656,
+        431
+      ]
+    },
+    {
+      "text": "- Maintained classroom bulletin boards",
+      "score": 0.9846,
+      "box": [
+        126,
+        431,
+        486,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Basics, Parkview University, 2018",
+      "score": 0.9677,
+      "box": [
+        115,
+        541,
+        637,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of learning outcomes assessment",
+      "score": 0.9889,
+      "box": [
+        132,
+        565,
+        629,
+        588
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of language arts education",
+      "score": 0.9835,
+      "box": [
+        133,
+        590,
+        602,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "DAVID BARTON\nAZ, USA|+1-901-613-6193|david.barton@example.com\nWORK HISTORY\nElementary Middle School Teachers, Learning Corner Academy, 2020.07–2023.01\n- Designed systemic intervention models\n- Led curriculum integration projects\nElementary Middle School Teachers, Golden Futures Academy, 2018.01–2020.07\n- Implemented basic classroom management procedures\n- Maintained classroom bulletin boards\nEDUCATION\nBachelor's, Education Basics, Parkview University, 2018\n• Studied principles of learning outcomes assessment\n• Studied fundamentals of language arts education"
+}

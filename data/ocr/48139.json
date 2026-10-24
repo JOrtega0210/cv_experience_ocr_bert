@@ -1,0 +1,148 @@
+{
+  "id": "48139",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.778,
+  "n_lines": 10,
+  "mean_score": 0.981,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSEPH REED",
+      "score": 0.9558,
+      "box": [
+        116,
+        90,
+        354,
+        121
+      ]
+    },
+    {
+      "text": "SD, USA|+1-555-874-8494 |joseph.reed@example.com",
+      "score": 0.9869,
+      "box": [
+        116,
+        152,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9826,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorBuild Co., 2021.01–2023.01",
+      "score": 0.9877,
+      "box": [
+        116,
+        291,
+        656,
+        311
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9636,
+      "box": [
+        126,
+        315,
+        541,
+        338
+      ]
+    },
+    {
+      "text": "- Transported waste materials",
+      "score": 0.9943,
+      "box": [
+        126,
+        339,
+        405,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Industrial Maintenance, Northcrest University, 2023",
+      "score": 0.9813,
+      "box": [
+        115,
+        447,
+        842,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in concrete basics",
+      "score": 0.9843,
+      "box": [
+        132,
+        472,
+        535,
+        496
+      ]
+    },
+    {
+      "text": "• Studied principles of construction documentation",
+      "score": 0.9753,
+      "box": [
+        134,
+        498,
+        597,
+        521
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JOSEPH REED\nSD, USA|+1-555-874-8494 |joseph.reed@example.com\nWORK HISTORY\nConstruction Laborers, AnchorBuild Co., 2021.01–2023.01\n- Carried materials to designated work areas\n- Transported waste materials\nEDUCATION\nSome college (no degree), Industrial Maintenance, Northcrest University, 2023\n• Completed coursework in concrete basics\n• Studied principles of construction documentation"
+}

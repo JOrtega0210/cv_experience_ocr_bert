@@ -1,0 +1,135 @@
+{
+  "id": "16627",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.814,
+  "n_lines": 9,
+  "mean_score": 0.9834,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSHUA FELIX",
+      "score": 0.9938,
+      "box": [
+        116,
+        90,
+        362,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-627-479-7979|joshua.felix@example.com",
+      "score": 0.9648,
+      "box": [
+        116,
+        151,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Bridge Health, 2017.07–2020.06",
+      "score": 0.979,
+      "box": [
+        115,
+        289,
+        693,
+        314
+      ]
+    },
+    {
+      "text": "- Monitored patient intake and output",
+      "score": 0.9749,
+      "box": [
+        127,
+        315,
+        471,
+        339
+      ]
+    },
+    {
+      "text": "- Checked laboratory results",
+      "score": 0.9763,
+      "box": [
+        126,
+        339,
+        391,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Clinical Studies, Oakwood High School, 2015",
+      "score": 0.9854,
+      "box": [
+        116,
+        449,
+        797,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of health informatics",
+      "score": 0.9938,
+      "box": [
+        133,
+        474,
+        506,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "JOSHUA FELIX\nGA, USA |+1-627-479-7979|joshua.felix@example.com\nWORK HISTORY\nRegistered Nurses, Harmony Bridge Health, 2017.07–2020.06\n- Monitored patient intake and output\n- Checked laboratory results\nEDUCATION\nHigh school graduate/GED, Clinical Studies, Oakwood High School, 2015\n• Studied principles of health informatics"
+}

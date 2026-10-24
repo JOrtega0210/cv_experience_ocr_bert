@@ -1,0 +1,148 @@
+{
+  "id": "01767",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.865,
+  "n_lines": 10,
+  "mean_score": 0.9806,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HEATHER PUGH",
+      "score": 0.977,
+      "box": [
+        116,
+        90,
+        385,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA |+1-924-406-9620|heather.pugh@example.com",
+      "score": 0.9859,
+      "box": [
+        116,
+        152,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.983,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Learning Center, 2021.08–2022.06",
+      "score": 0.983,
+      "box": [
+        116,
+        290,
+        878,
+        313
+      ]
+    },
+    {
+      "text": "- Maintained lesson documentation",
+      "score": 0.9648,
+      "box": [
+        126,
+        315,
+        453,
+        337
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.9816,
+      "box": [
+        127,
+        340,
+        484,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Family and Child Studies, Riverbend University, 2011",
+      "score": 0.97,
+      "box": [
+        114,
+        447,
+        717,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of curriculum standards",
+      "score": 0.9822,
+      "box": [
+        133,
+        473,
+        536,
+        496
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson effectiveness analysis",
+      "score": 0.9794,
+      "box": [
+        134,
+        499,
+        658,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "HEATHER PUGH\nAZ, USA |+1-924-406-9620|heather.pugh@example.com\nWORK HISTORY\nElementary Middle School Teachers, Harmony Learning Center, 2021.08–2022.06\n- Maintained lesson documentation\n- Conducted reading practice sessions\nEDUCATION\nBachelor's, Family and Child Studies, Riverbend University, 2011\n• Studied principles of curriculum standards\n• Completed coursework in lesson effectiveness analysis"
+}

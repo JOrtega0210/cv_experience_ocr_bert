@@ -1,0 +1,187 @@
+{
+  "id": "26290",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.811,
+  "n_lines": 13,
+  "mean_score": 0.9841,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CANDICE HUNTER",
+      "score": 0.9918,
+      "box": [
+        117,
+        90,
+        418,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-711-909-3192 |candice.hunter@example.com",
+      "score": 0.9856,
+      "box": [
+        115,
+        150,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9791,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWay Nursing, 2019.09–2021.05",
+      "score": 0.9846,
+      "box": [
+        115,
+        289,
+        632,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.9902,
+      "box": [
+        126,
+        314,
+        516,
+        339
+      ]
+    },
+    {
+      "text": "- Directed nursing education initiatives",
+      "score": 0.9764,
+      "box": [
+        126,
+        339,
+        482,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeHands Health Group, 2017.04–2018.12",
+      "score": 0.9916,
+      "box": [
+        116,
+        383,
+        709,
+        406
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9819,
+      "box": [
+        125,
+        406,
+        417,
+        431
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9728,
+      "box": [
+        127,
+        432,
+        480,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing, Horizon University, 2015",
+      "score": 0.9574,
+      "box": [
+        115,
+        541,
+        537,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in integumentary system care",
+      "score": 0.9919,
+      "box": [
+        133,
+        565,
+        640,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of end-of-life care",
+      "score": 0.992,
+      "box": [
+        133,
+        591,
+        518,
+        613
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "CANDICE HUNTER\nMA, USA|+1-711-909-3192 |candice.hunter@example.com\nWORK HISTORY\nRegistered Nurses, SunWay Nursing, 2019.09–2021.05\n- Implemented patient monitoring systems\n- Directed nursing education initiatives\nRegistered Nurses, SafeHands Health Group, 2017.04–2018.12\n- Checked medication dosages\n- Provided patient education materials\nEDUCATION\nBachelor's, Nursing, Horizon University, 2015\n• Completed coursework in integumentary system care\n• Studied fundamentals of end-of-life care"
+}

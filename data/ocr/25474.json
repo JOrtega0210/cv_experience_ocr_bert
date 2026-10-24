@@ -1,0 +1,200 @@
+{
+  "id": "25474",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.803,
+  "n_lines": 14,
+  "mean_score": 0.9828,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CONNOR NICHOLSON",
+      "score": 0.9931,
+      "box": [
+        116,
+        88,
+        477,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA|+1-504-900-4853 |connor.nicholson@example.com",
+      "score": 0.9877,
+      "box": [
+        115,
+        150,
+        701,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstone Software, 2020.11–2023.01",
+      "score": 0.9919,
+      "box": [
+        115,
+        290,
+        684,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed system design documents",
+      "score": 0.9724,
+      "box": [
+        125,
+        313,
+        481,
+        339
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.95,
+      "box": [
+        125,
+        338,
+        368,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Skycore Software, 2018.08–2020.11",
+      "score": 0.9971,
+      "box": [
+        116,
+        382,
+        659,
+        405
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.9911,
+      "box": [
+        125,
+        407,
+        375,
+        430
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9803,
+      "box": [
+        125,
+        431,
+        443,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Skyline University, 2022",
+      "score": 0.9948,
+      "box": [
+        114,
+        539,
+        431,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Lakeview University, 2020",
+      "score": 0.9468,
+      "box": [
+        115,
+        566,
+        468,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in release management",
+      "score": 0.9827,
+      "box": [
+        133,
+        590,
+        586,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in requirements engineering",
+      "score": 0.9879,
+      "box": [
+        133,
+        615,
+        626,
+        641
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "CONNOR NICHOLSON\nMA, USA|+1-504-900-4853 |connor.nicholson@example.com\nWORK HISTORY\nSoftware Developers, Clearstone Software, 2020.11–2023.01\n- Reviewed system design documents\n- Built distributed systems\nSoftware Developers, Skycore Software, 2018.08–2020.11\n- Resolved merge conflicts\n- Handled basic deployment tasks\nEDUCATION\nMaster's, Skyline University, 2022\nBachelor's, Lakeview University, 2020\n• Completed coursework in release management\n• Completed coursework in requirements engineering"
+}

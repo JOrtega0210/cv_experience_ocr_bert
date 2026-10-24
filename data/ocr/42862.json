@@ -1,0 +1,174 @@
+{
+  "id": "42862",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.859,
+  "n_lines": 12,
+  "mean_score": 0.9792,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DAMONFARLEY",
+      "score": 0.9984,
+      "box": [
+        114,
+        87,
+        389,
+        123
+      ]
+    },
+    {
+      "text": "OH, USA|+1-546-777-7994 |damon.farley@example.com",
+      "score": 0.9767,
+      "box": [
+        116,
+        151,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Build Co., 2018.06–2021.04",
+      "score": 0.9503,
+      "box": [
+        115,
+        289,
+        673,
+        312
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.9337,
+      "box": [
+        125,
+        313,
+        444,
+        339
+      ]
+    },
+    {
+      "text": "- Directed project execution strategies",
+      "score": 0.9631,
+      "box": [
+        126,
+        339,
+        480,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyRise Builders, 2015.01–2017.12",
+      "score": 0.9894,
+      "box": [
+        116,
+        382,
+        695,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9935,
+      "box": [
+        126,
+        407,
+        424,
+        429
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.982,
+      "box": [
+        125,
+        431,
+        583,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Maintenance, Valley View High School, 2000",
+      "score": 0.9872,
+      "box": [
+        116,
+        541,
+        872,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of site preparation",
+      "score": 0.9937,
+      "box": [
+        133,
+        566,
+        485,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "DAMONFARLEY\nOH, USA|+1-546-777-7994 |damon.farley@example.com\nWORK HISTORY\nConstruction Laborers, Reliable Build Co., 2018.06–2021.04\n- Reviewed site inspection reports\n- Directed project execution strategies\nConstruction Laborers, SteadyRise Builders, 2015.01–2017.12\n- Assisted with excavation tasks\n- Assisted with basic electrical conduit placement\nEDUCATION\nHigh school graduate/GED, Building Maintenance, Valley View High School, 2000\n• Studied principles of site preparation"
+}

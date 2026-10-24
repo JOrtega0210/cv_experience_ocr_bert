@@ -1,0 +1,239 @@
+{
+  "id": "29403",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.823,
+  "n_lines": 17,
+  "mean_score": 0.9786,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DONATO LOGAN",
+      "score": 0.9754,
+      "box": [
+        116,
+        90,
+        394,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-761-617-3506|donato.logan@example.com",
+      "score": 0.9904,
+      "box": [
+        115,
+        150,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9882,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearline Software, 2020.09–2023.01",
+      "score": 0.9843,
+      "box": [
+        115,
+        290,
+        665,
+        313
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.9809,
+      "box": [
+        126,
+        313,
+        469,
+        339
+      ]
+    },
+    {
+      "text": "- Built core libraries",
+      "score": 0.982,
+      "box": [
+        125,
+        338,
+        309,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Skyline Software, 2018.05–2020.09",
+      "score": 0.974,
+      "box": [
+        115,
+        381,
+        651,
+        406
+      ]
+    },
+    {
+      "text": "- Designed data models",
+      "score": 0.9788,
+      "box": [
+        127,
+        408,
+        350,
+        429
+      ]
+    },
+    {
+      "text": "- Integrated third-party services",
+      "score": 0.9709,
+      "box": [
+        125,
+        430,
+        418,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Labs, 2015.12–2018.05",
+      "score": 0.9905,
+      "box": [
+        115,
+        471,
+        614,
+        496
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9612,
+      "box": [
+        124,
+        496,
+        562,
+        522
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.9707,
+      "box": [
+        127,
+        522,
+        376,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Master's, Forestfield University, 2015",
+      "score": 0.9752,
+      "box": [
+        115,
+        631,
+        460,
+        654
+      ]
+    },
+    {
+      "text": "Bachelor's, Woodview University, 2013",
+      "score": 0.9549,
+      "box": [
+        114,
+        656,
+        478,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of linear algebra",
+      "score": 0.987,
+      "box": [
+        132,
+        681,
+        469,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in project documentation",
+      "score": 0.9733,
+      "box": [
+        132,
+        706,
+        595,
+        731
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "DONATO LOGAN\nMN, USA|+1-761-617-3506|donato.logan@example.com\nWORK HISTORY\nSoftware Developers, Clearline Software, 2020.09–2023.01\n- Led backend platform development\n- Built core libraries\nSoftware Developers, Skyline Software, 2018.05–2020.09\n- Designed data models\n- Integrated third-party services\nSoftware Developers, Netline Labs, 2015.12–2018.05\n- Fixed software bugs identified through testing\n- Resolved merge conflicts\nEDUCATION\nMaster's, Forestfield University, 2015\nBachelor's, Woodview University, 2013\n• Studied principles of linear algebra\n• Completed coursework in project documentation"
+}

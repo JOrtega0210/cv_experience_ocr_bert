@@ -1,0 +1,148 @@
+{
+  "id": "26174",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.771,
+  "n_lines": 10,
+  "mean_score": 0.9811,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSHUA WHITE",
+      "score": 0.977,
+      "box": [
+        116,
+        90,
+        373,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-883-713-1644 |joshua.white@example.com",
+      "score": 0.9831,
+      "box": [
+        115,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIWay Nursing Services, 2019.02–2020.02",
+      "score": 0.9837,
+      "box": [
+        116,
+        290,
+        722,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9545,
+      "box": [
+        126,
+        314,
+        387,
+        339
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9881,
+      "box": [
+        126,
+        340,
+        410,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Health Information Management, Northwood University, 2009",
+      "score": 0.9787,
+      "box": [
+        116,
+        449,
+        935,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of population health",
+      "score": 0.9845,
+      "box": [
+        132,
+        472,
+        501,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of mental health nursing",
+      "score": 0.9789,
+      "box": [
+        133,
+        499,
+        540,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JOSHUA WHITE\nMA, USA|+1-883-713-1644 |joshua.white@example.com\nWORK HISTORY\nRegistered Nurses, WelIWay Nursing Services, 2019.02–2020.02\n- Prepared treatment rooms\n- Recorded shift handoff notes\nEDUCATION\nSome college (no degree), Health Information Management, Northwood University, 2009\n• Studied principles of population health\n• Studied principles of mental health nursing"
+}

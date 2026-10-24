@@ -1,0 +1,278 @@
+{
+  "id": "03354",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.166,
+  "n_lines": 20,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KATHERINE TRUONG",
+      "score": 0.9791,
+      "box": [
+        116,
+        90,
+        466,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-217-610-4637 |katherine.truong@example.com",
+      "score": 0.9846,
+      "box": [
+        117,
+        152,
+        692,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9793,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Field School, 2019.09–2023.01",
+      "score": 0.989,
+      "box": [
+        115,
+        289,
+        818,
+        314
+      ]
+    },
+    {
+      "text": "- Led professional development planning",
+      "score": 0.9879,
+      "box": [
+        126,
+        314,
+        505,
+        339
+      ]
+    },
+    {
+      "text": "- Established instructional leadership protocols",
+      "score": 0.9933,
+      "box": [
+        126,
+        339,
+        560,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Steps School, 2016.04–2019.09",
+      "score": 0.9927,
+      "box": [
+        115,
+        381,
+        833,
+        406
+      ]
+    },
+    {
+      "text": "- Developed district-aligned lesson frameworks",
+      "score": 0.9831,
+      "box": [
+        127,
+        407,
+        562,
+        430
+      ]
+    },
+    {
+      "text": "- Established instructional leadership protocols",
+      "score": 0.981,
+      "box": [
+        126,
+        431,
+        560,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Star Academy, 2012.11–2016.04",
+      "score": 0.9939,
+      "box": [
+        115,
+        471,
+        835,
+        496
+      ]
+    },
+    {
+      "text": "- Developed progress monitoring tools",
+      "score": 0.9809,
+      "box": [
+        126,
+        498,
+        482,
+        521
+      ]
+    },
+    {
+      "text": "- Administered standardized assessments",
+      "score": 0.9835,
+      "box": [
+        126,
+        521,
+        516,
+        546
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Field School, 2009.06–2012.11",
+      "score": 0.9701,
+      "box": [
+        116,
+        565,
+        799,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9769,
+      "box": [
+        126,
+        590,
+        416,
+        613
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9989,
+      "box": [
+        126,
+        615,
+        460,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        679,
+        266,
+        703
+      ]
+    },
+    {
+      "text": "Master's, Child and Youth Studies, Summit University, 2011",
+      "score": 0.9758,
+      "box": [
+        115,
+        725,
+        667,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, General Learning Studies, Clear Ridge University, 2009",
+      "score": 0.9728,
+      "box": [
+        114,
+        747,
+        739,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic content planning",
+      "score": 0.988,
+      "box": [
+        133,
+        772,
+        637,
+        798
+      ]
+    },
+    {
+      "text": "• Completed coursework in early literacy instruction",
+      "score": 0.9669,
+      "box": [
+        134,
+        799,
+        608,
+        822
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "KATHERINE TRUONG\nCA, USA|+1-217-610-4637 |katherine.truong@example.com\nWORK HISTORY\nElementary Middle School Teachers, Caring Field School, 2019.09–2023.01\n- Led professional development planning\n- Established instructional leadership protocols\nElementary Middle School Teachers, Golden Steps School, 2016.04–2019.09\n- Developed district-aligned lesson frameworks\n- Established instructional leadership protocols\nElementary Middle School Teachers, Future Star Academy, 2012.11–2016.04\n- Developed progress monitoring tools\n- Administered standardized assessments\nElementary Middle School Teachers, Kind Field School, 2009.06–2012.11\n- Prepared visual teaching aids\n- Assisted with science experiments\nEDUCATION\nMaster's, Child and Youth Studies, Summit University, 2011\nBachelor's, General Learning Studies, Clear Ridge University, 2009\n• Completed coursework in academic content planning\n• Completed coursework in early literacy instruction"
+}

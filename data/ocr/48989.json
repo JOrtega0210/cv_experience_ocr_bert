@@ -1,0 +1,148 @@
+{
+  "id": "48989",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.736,
+  "n_lines": 10,
+  "mean_score": 0.9818,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SYDNEY NELSON",
+      "score": 0.9754,
+      "box": [
+        116,
+        90,
+        405,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-774-238-9992 |sydney.nelson@example.com",
+      "score": 0.9893,
+      "box": [
+        115,
+        150,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9822,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Center, 2020.02–2023.01",
+      "score": 0.9872,
+      "box": [
+        116,
+        289,
+        692,
+        312
+      ]
+    },
+    {
+      "text": "- Assisted with hygiene care",
+      "score": 0.9848,
+      "box": [
+        127,
+        315,
+        390,
+        339
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9542,
+      "box": [
+        126,
+        339,
+        435,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Life Sciences, Forest Ridge University, 2023",
+      "score": 0.9652,
+      "box": [
+        115,
+        449,
+        636,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of hematologic nursing basics",
+      "score": 0.9909,
+      "box": [
+        132,
+        472,
+        594,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of hydration management",
+      "score": 0.9902,
+      "box": [
+        132,
+        498,
+        557,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "SYDNEY NELSON\nTN, USA|+1-774-238-9992 |sydney.nelson@example.com\nWORK HISTORY\nRegistered Nurses, Harmony Health Center, 2020.02–2023.01\n- Assisted with hygiene care\n- Monitored patient dietary needs\nEDUCATION\nBachelor's, Life Sciences, Forest Ridge University, 2023\n• Studied principles of hematologic nursing basics\n• Studied principles of hydration management"
+}

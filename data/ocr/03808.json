@@ -1,0 +1,187 @@
+{
+  "id": "03808",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.959,
+  "n_lines": 13,
+  "mean_score": 0.983,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SARAHCLINE",
+      "score": 0.999,
+      "box": [
+        114,
+        88,
+        346,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-878-739-9003|sarah.cline@example.com",
+      "score": 0.9819,
+      "box": [
+        115,
+        150,
+        642,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9828,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Group, 2018.11–2021.04",
+      "score": 0.9942,
+      "box": [
+        115,
+        290,
+        688,
+        312
+      ]
+    },
+    {
+      "text": "-Directed financial reporting processes",
+      "score": 0.9875,
+      "box": [
+        125,
+        314,
+        491,
+        339
+      ]
+    },
+    {
+      "text": "- Led cross-functional financial integration",
+      "score": 0.9661,
+      "box": [
+        126,
+        338,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Services, 2015.04–2017.09",
+      "score": 0.9867,
+      "box": [
+        115,
+        382,
+        692,
+        404
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9576,
+      "box": [
+        128,
+        408,
+        371,
+        429
+      ]
+    },
+    {
+      "text": "- Entered financial data into accounting systems",
+      "score": 0.9686,
+      "box": [
+        125,
+        430,
+        572,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        266,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting Information Systems, Havenwood University, 2010",
+      "score": 0.9859,
+      "box": [
+        114,
+        539,
+        802,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in governmental accounting basics",
+      "score": 0.9892,
+      "box": [
+        134,
+        566,
+        687,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of revenue cycle management",
+      "score": 0.9816,
+      "box": [
+        133,
+        590,
+        636,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "SARAHCLINE\nCA, USA|+1-878-739-9003|sarah.cline@example.com\nWORK HISTORY\nAccountants Auditors, ClearBalance Group, 2018.11–2021.04\n-Directed financial reporting processes\n- Led cross-functional financial integration\nAccountants Auditors, ClearBooks Services, 2015.04–2017.09\n- Compiled audit evidence\n- Entered financial data into accounting systems\nEDUCATION\nBachelor's, Accounting Information Systems, Havenwood University, 2010\n• Completed coursework in governmental accounting basics\n• Studied fundamentals of revenue cycle management"
+}

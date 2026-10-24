@@ -1,0 +1,174 @@
+{
+  "id": "14078",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.962,
+  "n_lines": 12,
+  "mean_score": 0.986,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NATHANIEL PATRICK",
+      "score": 0.9899,
+      "box": [
+        116,
+        90,
+        468,
+        120
+      ]
+    },
+    {
+      "text": "FL, USA|+1-463-753-9314 |nathaniel.patrick@example.com",
+      "score": 0.9909,
+      "box": [
+        116,
+        152,
+        689,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9787,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyRise Builders, 2019.10–2021.10",
+      "score": 0.976,
+      "box": [
+        115,
+        289,
+        695,
+        313
+      ]
+    },
+    {
+      "text": "- Developed construction workflows",
+      "score": 0.9889,
+      "box": [
+        126,
+        315,
+        458,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed and approved project plans",
+      "score": 0.992,
+      "box": [
+        126,
+        339,
+        490,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueBuild Group, 2016.10–2018.11",
+      "score": 0.9893,
+      "box": [
+        116,
+        382,
+        661,
+        405
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9812,
+      "box": [
+        125,
+        405,
+        492,
+        432
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.9717,
+      "box": [
+        126,
+        430,
+        399,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Fundamentals, Lakeside High School, 2013",
+      "score": 0.9862,
+      "box": [
+        116,
+        540,
+        903,
+        563
+      ]
+    },
+    {
+      "text": "• Studied principles of structural bracing",
+      "score": 0.988,
+      "box": [
+        133,
+        565,
+        501,
+        590
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "NATHANIEL PATRICK\nFL, USA|+1-463-753-9314 |nathaniel.patrick@example.com\nWORK HISTORY\nConstruction Laborers, SteadyRise Builders, 2019.10–2021.10\n- Developed construction workflows\n- Reviewed and approved project plans\nConstruction Laborers, TrueBuild Group, 2016.10–2018.11\n- Performed basic sanding and painting\n- Dug trenches for utility lines\nEDUCATION\nHigh school graduate/GED, Construction Fundamentals, Lakeside High School, 2013\n• Studied principles of structural bracing"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "41441",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.9,
+  "n_lines": 16,
+  "mean_score": 0.9843,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAZMIN WHEELER",
+      "score": 0.9644,
+      "box": [
+        116,
+        90,
+        418,
+        120
+      ]
+    },
+    {
+      "text": "OH, USA|+1-324-742-9225 |jazmin.wheeler@example.com",
+      "score": 0.9872,
+      "box": [
+        116,
+        151,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9792,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Co., 2021.01–2023.01",
+      "score": 0.9918,
+      "box": [
+        115,
+        290,
+        704,
+        313
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9846,
+      "box": [
+        126,
+        313,
+        505,
+        339
+      ]
+    },
+    {
+      "text": "- Directed financial reporting processes",
+      "score": 0.977,
+      "box": [
+        126,
+        338,
+        491,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Group, 2019.01–2021.01",
+      "score": 0.9864,
+      "box": [
+        115,
+        381,
+        670,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed balance sheet accounts",
+      "score": 0.9805,
+      "box": [
+        126,
+        407,
+        458,
+        429
+      ]
+    },
+    {
+      "text": "- Prepared working capital analysis",
+      "score": 0.9909,
+      "box": [
+        126,
+        431,
+        453,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Accounting, 2015.01–2017.01",
+      "score": 0.9772,
+      "box": [
+        114,
+        471,
+        734,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with compliance documentation",
+      "score": 0.9747,
+      "box": [
+        125,
+        496,
+        518,
+        521
+      ]
+    },
+    {
+      "text": "- Reconciled bank statements",
+      "score": 0.9949,
+      "box": [
+        127,
+        522,
+        404,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Accounting, Goldenridge University, 2010",
+      "score": 0.992,
+      "box": [
+        114,
+        631,
+        699,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting controls testing",
+      "score": 0.9758,
+      "box": [
+        134,
+        658,
+        635,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in strategic cost management",
+      "score": 0.993,
+      "box": [
+        135,
+        681,
+        640,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JAZMIN WHEELER\nOH, USA|+1-324-742-9225 |jazmin.wheeler@example.com\nWORK HISTORY\nAccountants Auditors, Reliable Accounts Co., 2021.01–2023.01\n- Established cost management systems\n- Directed financial reporting processes\nAccountants Auditors, ClearBooks Group, 2019.01–2021.01\n- Reviewed balance sheet accounts\n- Prepared working capital analysis\nAccountants Auditors, OpenBalance Accounting, 2015.01–2017.01\n- Assisted with compliance documentation\n- Reconciled bank statements\nEDUCATION\nBachelor's, Financial Accounting, Goldenridge University, 2010\n• Completed coursework in accounting controls testing\n• Completed coursework in strategic cost management"
+}

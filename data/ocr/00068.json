@@ -1,0 +1,239 @@
+{
+  "id": "00068",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.042,
+  "n_lines": 17,
+  "mean_score": 0.9841,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRANDIEGATES",
+      "score": 0.9987,
+      "box": [
+        116,
+        90,
+        394,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-352-246-4280 |brandie.gates@example.com",
+      "score": 0.9932,
+      "box": [
+        116,
+        152,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9869,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongWay Construction, 2020.12–2023.01",
+      "score": 0.9801,
+      "box": [
+        114,
+        289,
+        732,
+        314
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9731,
+      "box": [
+        127,
+        315,
+        458,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented workflow optimization",
+      "score": 0.9817,
+      "box": [
+        126,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongPoint Builders, 2018.11–2020.12",
+      "score": 0.9843,
+      "box": [
+        115,
+        381,
+        699,
+        406
+      ]
+    },
+    {
+      "text": "- Installed support beams",
+      "score": 0.9811,
+      "box": [
+        125,
+        406,
+        365,
+        431
+      ]
+    },
+    {
+      "text": "- Monitored safety compliance",
+      "score": 0.9725,
+      "box": [
+        126,
+        430,
+        408,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Build Co., 2015.01–2017.02",
+      "score": 0.984,
+      "box": [
+        116,
+        472,
+        664,
+        495
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.9928,
+      "box": [
+        125,
+        496,
+        441,
+        521
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.9589,
+      "box": [
+        127,
+        523,
+        399,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Construction Equipment Technology, Valley View University, 2010",
+      "score": 0.9846,
+      "box": [
+        114,
+        631,
+        818,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Operations, Goldenwood University, 2008",
+      "score": 0.9843,
+      "box": [
+        114,
+        656,
+        735,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural inspection basics",
+      "score": 0.9834,
+      "box": [
+        134,
+        683,
+        639,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction time management",
+      "score": 0.9918,
+      "box": [
+        133,
+        706,
+        675,
+        731
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "BRANDIEGATES\nAL, USA|+1-352-246-4280 |brandie.gates@example.com\nWORK HISTORY\nConstruction Laborers, StrongWay Construction, 2020.12–2023.01\n- Developed construction standards\n- Implemented workflow optimization\nConstruction Laborers, StrongPoint Builders, 2018.11–2020.12\n- Installed support beams\n- Monitored safety compliance\nConstruction Laborers, Unified Build Co., 2015.01–2017.02\n- Handled delivery documentation\n- Dug trenches for utility lines\nEDUCATION\nMaster's, Construction Equipment Technology, Valley View University, 2010\nBachelor's, Construction Operations, Goldenwood University, 2008\n• Completed coursework in structural inspection basics\n• Completed coursework in construction time management"
+}

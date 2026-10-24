@@ -1,0 +1,265 @@
+{
+  "id": "06900",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.049,
+  "n_lines": 19,
+  "mean_score": 0.982,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AUTUMNLE",
+      "score": 0.9991,
+      "box": [
+        116,
+        90,
+        316,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-666-407-5715|autumn.le@example.com",
+      "score": 0.9841,
+      "box": [
+        115,
+        150,
+        633,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9866,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Financial Group, 2020.03–2023.01",
+      "score": 0.9838,
+      "box": [
+        114,
+        288,
+        762,
+        314
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9762,
+      "box": [
+        126,
+        315,
+        424,
+        338
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9768,
+      "box": [
+        126,
+        339,
+        504,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Group, 2017.05–2020.03",
+      "score": 0.982,
+      "box": [
+        114,
+        381,
+        721,
+        406
+      ]
+    },
+    {
+      "text": "- Managed consolidation processes",
+      "score": 0.9705,
+      "box": [
+        125,
+        406,
+        458,
+        432
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.976,
+      "box": [
+        127,
+        432,
+        361,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Financial, 2014.07–2017.05",
+      "score": 0.9749,
+      "box": [
+        115,
+        472,
+        716,
+        496
+      ]
+    },
+    {
+      "text": "- Managed accounts receivable cycles",
+      "score": 0.9717,
+      "box": [
+        125,
+        496,
+        483,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared tax returns",
+      "score": 0.9678,
+      "box": [
+        125,
+        521,
+        333,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Services, 2011.09–2014.07",
+      "score": 0.9845,
+      "box": [
+        115,
+        565,
+        701,
+        588
+      ]
+    },
+    {
+      "text": "- Reviewed vendor payments",
+      "score": 0.985,
+      "box": [
+        124,
+        589,
+        400,
+        614
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.9837,
+      "box": [
+        126,
+        613,
+        410,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Operations, Goldenwood University, 2016",
+      "score": 0.9794,
+      "box": [
+        114,
+        723,
+        702,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of management reporting",
+      "score": 0.9817,
+      "box": [
+        132,
+        747,
+        589,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in international taxation basics",
+      "score": 0.9948,
+      "box": [
+        133,
+        772,
+        647,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "AUTUMNLE\nCA, USA|+1-666-407-5715|autumn.le@example.com\nWORK HISTORY\nAccountants Auditors, CoreLedger Financial Group, 2020.03–2023.01\n- Designed audit methodologies\n- Established cost management systems\nAccountants Auditors, Reliable Balance Group, 2017.05–2020.03\n- Managed consolidation processes\n- Designed tax strategies\nAccountants Auditors, OpenBalance Financial, 2014.07–2017.05\n- Managed accounts receivable cycles\n- Prepared tax returns\nAccountants Auditors, ClearLedger Services, 2011.09–2014.07\n- Reviewed vendor payments\n- Prepared audit confirmations\nEDUCATION\nBachelor's, Business Operations, Goldenwood University, 2016\n• Studied fundamentals of management reporting\n• Completed coursework in international taxation basics"
+}

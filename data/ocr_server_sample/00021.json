@@ -1,0 +1,226 @@
+{
+  "id": "00021",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.866,
+  "n_lines": 16,
+  "mean_score": 0.9793,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MOLLY CHRISTENSEN",
+      "score": 0.9891,
+      "box": [
+        116,
+        90,
+        483,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-309-950-6538 |molly.christensen@example.com",
+      "score": 0.9775,
+      "box": [
+        116,
+        152,
+        699,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueLife Care Group, 2020.12–2023.01",
+      "score": 0.9854,
+      "box": [
+        116,
+        290,
+        665,
+        314
+      ]
+    },
+    {
+      "text": "- Established clinical best practices",
+      "score": 0.9679,
+      "box": [
+        125,
+        313,
+        453,
+        339
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.9542,
+      "box": [
+        127,
+        340,
+        392,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightHands Nursing Services, 2018.03–2020.04",
+      "score": 0.9682,
+      "box": [
+        116,
+        382,
+        754,
+        406
+      ]
+    },
+    {
+      "text": "- Managed patient mobility programs",
+      "score": 0.9741,
+      "box": [
+        126,
+        406,
+        468,
+        432
+      ]
+    },
+    {
+      "text": "- Managed patient referrals",
+      "score": 0.9782,
+      "box": [
+        126,
+        430,
+        381,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverSpring Health Services, 2015.03–2017.05",
+      "score": 0.982,
+      "box": [
+        116,
+        472,
+        731,
+        496
+      ]
+    },
+    {
+      "text": "- Updated patient medical records",
+      "score": 0.9962,
+      "box": [
+        126,
+        498,
+        443,
+        521
+      ]
+    },
+    {
+      "text": "- Maintained infection control protocols",
+      "score": 0.9697,
+      "box": [
+        126,
+        521,
+        486,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Some college (no degree), Biological Sciences, Fairview University, 2013",
+      "score": 0.9775,
+      "box": [
+        115,
+        631,
+        794,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of emergency nursing",
+      "score": 0.9845,
+      "box": [
+        132,
+        656,
+        519,
+        682
+      ]
+    },
+    {
+      "text": "• Studied principles of gastrointestinal nursing",
+      "score": 0.981,
+      "box": [
+        133,
+        680,
+        556,
+        708
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "MOLLY CHRISTENSEN\nAL, USA|+1-309-950-6538 |molly.christensen@example.com\nWORK HISTORY\nRegistered Nurses, TrueLife Care Group, 2020.12–2023.01\n- Established clinical best practices\n- Led nursing process audits\nRegistered Nurses, BrightHands Nursing Services, 2018.03–2020.04\n- Managed patient mobility programs\n- Managed patient referrals\nRegistered Nurses, EverSpring Health Services, 2015.03–2017.05\n- Updated patient medical records\n- Maintained infection control protocols\nEDUCATION\nSome college (no degree), Biological Sciences, Fairview University, 2013\n• Studied principles of emergency nursing\n• Studied principles of gastrointestinal nursing"
+}

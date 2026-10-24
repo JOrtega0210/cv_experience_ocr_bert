@@ -1,0 +1,187 @@
+{
+  "id": "01441",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.915,
+  "n_lines": 13,
+  "mean_score": 0.9836,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KRISTINA RUSSO",
+      "score": 0.9921,
+      "box": [
+        116,
+        90,
+        404,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-736-998-5820|kristina.russo@example.com",
+      "score": 0.9929,
+      "box": [
+        116,
+        151,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9789,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Way Medical, 2020.07–2023.01",
+      "score": 0.9942,
+      "box": [
+        116,
+        290,
+        670,
+        313
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9889,
+      "box": [
+        126,
+        315,
+        474,
+        338
+      ]
+    },
+    {
+      "text": "- Developed nursing training programs",
+      "score": 0.9845,
+      "box": [
+        126,
+        339,
+        484,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHope Care Center, 2016.10–2019.04",
+      "score": 0.9822,
+      "box": [
+        115,
+        381,
+        687,
+        406
+      ]
+    },
+    {
+      "text": "-Provided catheter care",
+      "score": 0.993,
+      "box": [
+        125,
+        406,
+        353,
+        431
+      ]
+    },
+    {
+      "text": "- Monitored patient recovery",
+      "score": 0.9472,
+      "box": [
+        126,
+        430,
+        389,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Community Health, Hawthorne University, 2012",
+      "score": 0.9633,
+      "box": [
+        115,
+        540,
+        664,
+        563
+      ]
+    },
+    {
+      "text": "• Studied principles of continuity of care",
+      "score": 0.9907,
+      "box": [
+        133,
+        566,
+        499,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical reporting",
+      "score": 0.9802,
+      "box": [
+        133,
+        590,
+        539,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KRISTINA RUSSO\nAZ, USA|+1-736-998-5820|kristina.russo@example.com\nWORK HISTORY\nRegistered Nurses, Helping Way Medical, 2020.07–2023.01\n- Developed care quality benchmarks\n- Developed nursing training programs\nRegistered Nurses, NewHope Care Center, 2016.10–2019.04\n-Provided catheter care\n- Monitored patient recovery\nEDUCATION\nBachelor's, Community Health, Hawthorne University, 2012\n• Studied principles of continuity of care\n• Completed coursework in clinical reporting"
+}

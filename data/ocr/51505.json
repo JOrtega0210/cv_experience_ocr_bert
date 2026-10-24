@@ -1,0 +1,187 @@
+{
+  "id": "51505",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.764,
+  "n_lines": 13,
+  "mean_score": 0.9819,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DANIEL LYNCH",
+      "score": 0.9605,
+      "box": [
+        116,
+        90,
+        368,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-395-934-2320|daniel.lynch@example.com",
+      "score": 0.9849,
+      "box": [
+        115,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9868,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudstack Digital, 2021.04–2023.01",
+      "score": 0.9959,
+      "box": [
+        116,
+        290,
+        662,
+        313
+      ]
+    },
+    {
+      "text": "- Defined quality assurance frameworks",
+      "score": 0.9792,
+      "box": [
+        126,
+        315,
+        496,
+        338
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9756,
+      "box": [
+        126,
+        339,
+        409,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Tech, 2016.11–2018.08",
+      "score": 0.9954,
+      "box": [
+        116,
+        382,
+        625,
+        405
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.9668,
+      "box": [
+        125,
+        405,
+        332,
+        431
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.979,
+      "box": [
+        126,
+        432,
+        375,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Northway University, 2008",
+      "score": 0.9658,
+      "box": [
+        116,
+        541,
+        548,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of distributed systems",
+      "score": 0.9834,
+      "box": [
+        132,
+        565,
+        521,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of performance optimization",
+      "score": 0.9927,
+      "box": [
+        133,
+        591,
+        576,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "DANIEL LYNCH\nTX, USA|+1-395-934-2320|daniel.lynch@example.com\nWORK HISTORY\nSoftware Developers, Cloudstack Digital, 2021.04–2023.01\n- Defined quality assurance frameworks\n- Defined scalability roadmaps\nSoftware Developers, Flowline Tech, 2016.11–2018.08\n- Handled file uploads\n- Resolved merge conflicts\nEDUCATION\nAssociate's degree, Northway University, 2008\n• Studied principles of distributed systems\n• Studied principles of performance optimization"
+}

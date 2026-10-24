@@ -1,0 +1,187 @@
+{
+  "id": "29062",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.778,
+  "n_lines": 13,
+  "mean_score": 0.9836,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANTHONY VO",
+      "score": 0.9723,
+      "box": [
+        116,
+        90,
+        341,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA| +1-926-601-2897 |anthony.vo@example.com",
+      "score": 0.9737,
+      "box": [
+        115,
+        150,
+        647,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightline Systems, 2020.07–2023.01",
+      "score": 0.988,
+      "box": [
+        115,
+        290,
+        667,
+        313
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.9803,
+      "box": [
+        126,
+        315,
+        396,
+        338
+      ]
+    },
+    {
+      "text": "- Defined API standards",
+      "score": 0.9619,
+      "box": [
+        125,
+        338,
+        352,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Digital Meadow, 2017.12–2020.07",
+      "score": 0.9965,
+      "box": [
+        116,
+        382,
+        639,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with database queries",
+      "score": 0.9898,
+      "box": [
+        125,
+        406,
+        431,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9797,
+      "box": [
+        126,
+        432,
+        421,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, High Meadow University, 2015",
+      "score": 0.9752,
+      "box": [
+        115,
+        541,
+        510,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of documentation standards",
+      "score": 0.9932,
+      "box": [
+        133,
+        566,
+        577,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in real-time systems",
+      "score": 0.9919,
+      "box": [
+        133,
+        590,
+        554,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ANTHONY VO\nMN, USA| +1-926-601-2897 |anthony.vo@example.com\nWORK HISTORY\nSoftware Developers, Brightline Systems, 2020.07–2023.01\n- Designed scalable services\n- Defined API standards\nSoftware Developers, Digital Meadow, 2017.12–2020.07\n- Assisted with database queries\n- Implemented REST endpoints\nEDUCATION\nBachelor's, High Meadow University, 2015\n• Studied principles of documentation standards\n• Completed coursework in real-time systems"
+}

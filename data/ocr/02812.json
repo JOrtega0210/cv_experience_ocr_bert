@@ -1,0 +1,226 @@
+{
+  "id": "02812",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.945,
+  "n_lines": 16,
+  "mean_score": 0.9828,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LEWIS SUMMERS",
+      "score": 0.9795,
+      "box": [
+        116,
+        90,
+        404,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-446-558-9930 |lewis.summers@example.com",
+      "score": 0.9858,
+      "box": [
+        116,
+        150,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.981,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Bluepoint Digital, 2020.05–2023.01",
+      "score": 0.993,
+      "box": [
+        116,
+        290,
+        645,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented release management strategies",
+      "score": 0.9776,
+      "box": [
+        126,
+        314,
+        561,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9814,
+      "box": [
+        126,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Netwave Labs, 2017.09–2020.05",
+      "score": 0.9915,
+      "box": [
+        116,
+        382,
+        628,
+        405
+      ]
+    },
+    {
+      "text": "- Developed access control logic",
+      "score": 0.9506,
+      "box": [
+        125,
+        406,
+        431,
+        431
+      ]
+    },
+    {
+      "text": "- Developed background jobs",
+      "score": 0.9908,
+      "box": [
+        126,
+        430,
+        402,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Dataframe Solutions, 2013.11–2016.08",
+      "score": 0.9757,
+      "box": [
+        115,
+        471,
+        685,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with Cl pipeline tasks",
+      "score": 0.9804,
+      "box": [
+        125,
+        496,
+        423,
+        521
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9834,
+      "box": [
+        126,
+        521,
+        400,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Riverbend University, 2010",
+      "score": 0.9776,
+      "box": [
+        115,
+        632,
+        476,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in message queues",
+      "score": 0.9883,
+      "box": [
+        133,
+        656,
+        548,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in mobile application development",
+      "score": 0.9885,
+      "box": [
+        135,
+        683,
+        682,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "LEWIS SUMMERS\nCA, USA|+1-446-558-9930 |lewis.summers@example.com\nWORK HISTORY\nSoftware Developers, Bluepoint Digital, 2020.05–2023.01\n- Implemented release management strategies\n- Implemented security architectures\nSoftware Developers, Netwave Labs, 2017.09–2020.05\n- Developed access control logic\n- Developed background jobs\nSoftware Developers, Dataframe Solutions, 2013.11–2016.08\n- Assisted with Cl pipeline tasks\n- Wrote configuration parsers\nEDUCATION\nBachelor's, Riverbend University, 2010\n• Completed coursework in message queues\n• Completed coursework in mobile application development"
+}

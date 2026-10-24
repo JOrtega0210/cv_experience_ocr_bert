@@ -1,0 +1,226 @@
+{
+  "id": "57138",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.894,
+  "n_lines": 16,
+  "mean_score": 0.9798,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JANEEN WALSH",
+      "score": 0.959,
+      "box": [
+        116,
+        90,
+        386,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-766-727-2453 |janeen.walsh@example.com",
+      "score": 0.988,
+      "box": [
+        115,
+        150,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9794,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Horizons School, 2019.11–2023.01",
+      "score": 0.965,
+      "box": [
+        116,
+        290,
+        839,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented assessment policy frameworks",
+      "score": 0.9845,
+      "box": [
+        127,
+        315,
+        553,
+        338
+      ]
+    },
+    {
+      "text": "- Led academic improvement programs",
+      "score": 0.987,
+      "box": [
+        126,
+        339,
+        492,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Field School, 2016.08–2019.11",
+      "score": 0.9614,
+      "box": [
+        116,
+        382,
+        801,
+        405
+      ]
+    },
+    {
+      "text": "- Conducted curriculum reviews",
+      "score": 0.9901,
+      "box": [
+        126,
+        407,
+        422,
+        429
+      ]
+    },
+    {
+      "text": "- Designed reading intervention plans",
+      "score": 0.9864,
+      "box": [
+        126,
+        431,
+        474,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Futures Academy, 2013.05–2016.08",
+      "score": 0.9869,
+      "box": [
+        115,
+        471,
+        861,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9795,
+      "box": [
+        127,
+        498,
+        496,
+        521
+      ]
+    },
+    {
+      "text": "-Maintained lesson documentation",
+      "score": 0.9744,
+      "box": [
+        127,
+        522,
+        452,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Foundations, Fairmont University, 2016",
+      "score": 0.9723,
+      "box": [
+        114,
+        631,
+        705,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson delivery techniques",
+      "score": 0.9894,
+      "box": [
+        134,
+        658,
+        634,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional modeling",
+      "score": 0.9743,
+      "box": [
+        135,
+        681,
+        591,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JANEEN WALSH\nVA, USA|+1-766-727-2453 |janeen.walsh@example.com\nWORK HISTORY\nElementary Middle School Teachers, Little Horizons School, 2019.11–2023.01\n- Implemented assessment policy frameworks\n- Led academic improvement programs\nElementary Middle School Teachers, Little Field School, 2016.08–2019.11\n- Conducted curriculum reviews\n- Designed reading intervention plans\nElementary Middle School Teachers, Bright Futures Academy, 2013.05–2016.08\n- Implemented lesson pacing guidelines\n-Maintained lesson documentation\nEDUCATION\nBachelor's, Educational Foundations, Fairmont University, 2016\n• Completed coursework in lesson delivery techniques\n• Completed coursework in instructional modeling"
+}

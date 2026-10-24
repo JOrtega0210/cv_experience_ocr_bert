@@ -1,0 +1,265 @@
+{
+  "id": "47443",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.862,
+  "n_lines": 19,
+  "mean_score": 0.9802,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ATIYA NEAL",
+      "score": 0.951,
+      "box": [
+        116,
+        90,
+        319,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-580-949-6364|atiya.neal@example.com",
+      "score": 0.9843,
+      "box": [
+        116,
+        151,
+        630,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9865,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpoint Tech, 2019.11–2023.01",
+      "score": 0.9904,
+      "box": [
+        115,
+        288,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9796,
+      "box": [
+        125,
+        313,
+        410,
+        339
+      ]
+    },
+    {
+      "text": "- Designed deployment strategies",
+      "score": 0.9769,
+      "box": [
+        126,
+        339,
+        441,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Corestack Tech, 2016.09–2019.11",
+      "score": 0.9927,
+      "box": [
+        116,
+        382,
+        641,
+        405
+      ]
+    },
+    {
+      "text": "- Designed software development workflows",
+      "score": 0.9857,
+      "box": [
+        125,
+        406,
+        538,
+        431
+      ]
+    },
+    {
+      "text": "- Defined API governance models",
+      "score": 0.9815,
+      "box": [
+        126,
+        431,
+        442,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Bluefield Technologies, 2013.07–2016.09",
+      "score": 0.971,
+      "box": [
+        114,
+        471,
+        706,
+        496
+      ]
+    },
+    {
+      "text": "- Designed data models",
+      "score": 0.9791,
+      "box": [
+        127,
+        498,
+        350,
+        519
+      ]
+    },
+    {
+      "text": "- Handled schema migrations",
+      "score": 0.981,
+      "box": [
+        125,
+        521,
+        402,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudstack Labs, 2008.04–2011.07",
+      "score": 0.9734,
+      "box": [
+        114,
+        563,
+        651,
+        588
+      ]
+    },
+    {
+      "text": "- Maintained code repositories",
+      "score": 0.9614,
+      "box": [
+        124,
+        588,
+        410,
+        614
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9857,
+      "box": [
+        125,
+        613,
+        352,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Fairhill University, 202",
+      "score": 0.9694,
+      "box": [
+        114,
+        723,
+        444,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in code refactoring",
+      "score": 0.9856,
+      "box": [
+        133,
+        749,
+        538,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in schema design",
+      "score": 0.9892,
+      "box": [
+        133,
+        772,
+        530,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "ATIYA NEAL\nSC, USA|+1-580-949-6364|atiya.neal@example.com\nWORK HISTORY\nSoftware Developers, Flowpoint Tech, 2019.11–2023.01\n- Defined scalability roadmaps\n- Designed deployment strategies\nSoftware Developers, Corestack Tech, 2016.09–2019.11\n- Designed software development workflows\n- Defined API governance models\nSoftware Developers, Bluefield Technologies, 2013.07–2016.09\n- Designed data models\n- Handled schema migrations\nSoftware Developers, Cloudstack Labs, 2008.04–2011.07\n- Maintained code repositories\n- Wrote integration tests\nEDUCATION\nBachelor's, Fairhill University, 202\n• Completed coursework in code refactoring\n• Completed coursework in schema design"
+}

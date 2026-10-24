@@ -1,0 +1,278 @@
+{
+  "id": "03362",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.056,
+  "n_lines": 20,
+  "mean_score": 0.9803,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANITAWU",
+      "score": 0.9977,
+      "box": [
+        115,
+        88,
+        286,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-625-586-4305 |anita.wu@example.com",
+      "score": 0.9848,
+      "box": [
+        116,
+        151,
+        619,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9867,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Group, 2020.01–2023.01",
+      "score": 0.9897,
+      "box": [
+        115,
+        289,
+        687,
+        313
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.978,
+      "box": [
+        126,
+        314,
+        502,
+        339
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9483,
+      "box": [
+        126,
+        339,
+        428,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Accounting, 2017.01–2020.01",
+      "score": 0.9802,
+      "box": [
+        114,
+        381,
+        726,
+        406
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9806,
+      "box": [
+        126,
+        406,
+        495,
+        432
+      ]
+    },
+    {
+      "text": "- Established audit governance structures",
+      "score": 0.9944,
+      "box": [
+        126,
+        431,
+        513,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Services, 2014.01–2017.01",
+      "score": 0.9816,
+      "box": [
+        114,
+        471,
+        679,
+        495
+      ]
+    },
+    {
+      "text": "- Reviewed internal controls",
+      "score": 0.9514,
+      "box": [
+        125,
+        497,
+        387,
+        519
+      ]
+    },
+    {
+      "text": "- Prepared statutory filings",
+      "score": 0.9482,
+      "box": [
+        126,
+        521,
+        374,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Group, 2011.01–2014.01",
+      "score": 0.9863,
+      "box": [
+        115,
+        565,
+        663,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.9801,
+      "box": [
+        126,
+        589,
+        384,
+        614
+      ]
+    },
+    {
+      "text": "- Verified transaction accuracy",
+      "score": 0.9799,
+      "box": [
+        125,
+        613,
+        410,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Commerce, Springdale University, 2017",
+      "score": 0.9868,
+      "box": [
+        115,
+        725,
+        576,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Services, Hawthorne University, 2015",
+      "score": 0.9739,
+      "box": [
+        114,
+        747,
+        663,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in bank reconciliation",
+      "score": 0.9852,
+      "box": [
+        135,
+        775,
+        562,
+        795
+      ]
+    },
+    {
+      "text": "• Completed coursework in professional standards",
+      "score": 0.994,
+      "box": [
+        135,
+        800,
+        598,
+        820
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "ANITAWU\nCA, USA|+1-625-586-4305 |anita.wu@example.com\nWORK HISTORY\nAccountants Auditors, ClearBalance Group, 2020.01–2023.01\n- Led accounting transformation projects\n- Led audit planning governance\nAccountants Auditors, EverBalance Accounting, 2017.01–2020.01\n- Directed accounting training programs\n- Established audit governance structures\nAccountants Auditors, FairBooks Services, 2014.01–2017.01\n- Reviewed internal controls\n- Prepared statutory filings\nAccountants Auditors, CoreCount Group, 2011.01–2014.01\n- Prepared variance reports\n- Verified transaction accuracy\nEDUCATION\nMaster's, Commerce, Springdale University, 2017\nBachelor's, Financial Services, Hawthorne University, 2015\n• Completed coursework in bank reconciliation\n• Completed coursework in professional standards"
+}

@@ -1,0 +1,239 @@
+{
+  "id": "38412",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.88,
+  "n_lines": 17,
+  "mean_score": 0.9803,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANDREA BUSH",
+      "score": 0.9607,
+      "box": [
+        116,
+        90,
+        366,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-756-287-4284|andrea.bush@example.com",
+      "score": 0.9857,
+      "box": [
+        115,
+        150,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Co., 2020.12–2023.01",
+      "score": 0.9899,
+      "box": [
+        115,
+        290,
+        704,
+        313
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.985,
+      "box": [
+        125,
+        313,
+        433,
+        338
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9679,
+      "box": [
+        126,
+        338,
+        518,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Advisors Group, 2018.11–2020.12",
+      "score": 0.9781,
+      "box": [
+        114,
+        381,
+        772,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed budget performance",
+      "score": 0.9821,
+      "box": [
+        125,
+        406,
+        428,
+        431
+      ]
+    },
+    {
+      "text": "- Performed revenue recognition analysis",
+      "score": 0.9834,
+      "box": [
+        126,
+        429,
+        510,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Services, 2014.02–2016.04",
+      "score": 0.9817,
+      "box": [
+        115,
+        472,
+        701,
+        495
+      ]
+    },
+    {
+      "text": "- Filed financial documents",
+      "score": 0.9659,
+      "box": [
+        126,
+        497,
+        378,
+        519
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedures",
+      "score": 0.9737,
+      "box": [
+        126,
+        521,
+        507,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Forensic Accounting, Elmwood University, 2007",
+      "score": 0.9648,
+      "box": [
+        114,
+        631,
+        649,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Data Analytics, Clearstone University, 2005",
+      "score": 0.9909,
+      "box": [
+        114,
+        656,
+        627,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in risk assessment",
+      "score": 0.9835,
+      "box": [
+        133,
+        681,
+        541,
+        705
+      ]
+    },
+    {
+      "text": "• Completed coursework in supply chain accounting",
+      "score": 0.9877,
+      "box": [
+        133,
+        706,
+        612,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "ANDREA BUSH\nNY, USA|+1-756-287-4284|andrea.bush@example.com\nWORK HISTORY\nAccountants Auditors, Reliable Accounts Co., 2020.12–2023.01\n- Established accounting policies\n- Established financial reporting standards\nAccountants Auditors, SolidBalance Advisors Group, 2018.11–2020.12\n- Reviewed budget performance\n- Performed revenue recognition analysis\nAccountants Auditors, ClearLedger Services, 2014.02–2016.04\n- Filed financial documents\n- Assisted with monthly close procedures\nEDUCATION\nMaster's, Forensic Accounting, Elmwood University, 2007\nBachelor's, Data Analytics, Clearstone University, 2005\n• Completed coursework in risk assessment\n• Completed coursework in supply chain accounting"
+}

@@ -1,0 +1,265 @@
+{
+  "id": "08345",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.952,
+  "n_lines": 19,
+  "mean_score": 0.976,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BEAU KIM",
+      "score": 0.9644,
+      "box": [
+        115,
+        88,
+        285,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-660-921-3255 |beau.kim@example.com",
+      "score": 0.9788,
+      "box": [
+        116,
+        151,
+        625,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9483,
+      "box": [
+        114,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Labs, 2018.08–2023.01",
+      "score": 0.9784,
+      "box": [
+        114,
+        288,
+        624,
+        313
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9736,
+      "box": [
+        125,
+        313,
+        400,
+        338
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.9892,
+      "box": [
+        125,
+        338,
+        375,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Openline Digital, 2014.03–2018.08",
+      "score": 0.979,
+      "box": [
+        114,
+        380,
+        643,
+        406
+      ]
+    },
+    {
+      "text": "-Led architectural reviews",
+      "score": 0.9986,
+      "box": [
+        124,
+        405,
+        374,
+        430
+      ]
+    },
+    {
+      "text": "-Built core libraries",
+      "score": 0.9787,
+      "box": [
+        124,
+        429,
+        308,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudstone Software, 2009.10–2014.03",
+      "score": 0.9814,
+      "box": [
+        113,
+        469,
+        691,
+        497
+      ]
+    },
+    {
+      "text": "- Improved memory usage",
+      "score": 0.9699,
+      "box": [
+        124,
+        496,
+        375,
+        523
+      ]
+    },
+    {
+      "text": "- Implemented backend services",
+      "score": 0.9868,
+      "box": [
+        125,
+        521,
+        431,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Dataframe Labs, 2005.05–2009.10",
+      "score": 0.9815,
+      "box": [
+        114,
+        563,
+        645,
+        588
+      ]
+    },
+    {
+      "text": "- Maintained code repositories",
+      "score": 0.9704,
+      "box": [
+        124,
+        588,
+        410,
+        614
+      ]
+    },
+    {
+      "text": "- Wrote unit tests for application modules",
+      "score": 0.9725,
+      "box": [
+        125,
+        613,
+        507,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Crestline University, 2003",
+      "score": 0.9636,
+      "box": [
+        114,
+        723,
+        463,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in containerization basics",
+      "score": 0.9651,
+      "box": [
+        132,
+        748,
+        600,
+        771
+      ]
+    },
+    {
+      "text": "• Studied principles of operating systems",
+      "score": 0.9644,
+      "box": [
+        134,
+        774,
+        511,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "BEAU KIM\nCA, USA|+1-660-921-3255 |beau.kim@example.com\nWORK HISTORY\nSoftware Developers, Flowline Labs, 2018.08–2023.01\n- Led database design efforts\n- Led architectural reviews\nSoftware Developers, Openline Digital, 2014.03–2018.08\n-Led architectural reviews\n-Built core libraries\nSoftware Developers, Cloudstone Software, 2009.10–2014.03\n- Improved memory usage\n- Implemented backend services\nSoftware Developers, Dataframe Labs, 2005.05–2009.10\n- Maintained code repositories\n- Wrote unit tests for application modules\nEDUCATION\nBachelor's, Crestline University, 2003\n• Completed coursework in containerization basics\n• Studied principles of operating systems"
+}

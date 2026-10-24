@@ -1,0 +1,187 @@
+{
+  "id": "02253",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.995,
+  "n_lines": 13,
+  "mean_score": 0.9795,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KYLIE FARRELL",
+      "score": 0.9844,
+      "box": [
+        116,
+        90,
+        381,
+        120
+      ]
+    },
+    {
+      "text": "AR, USA|+1-210-605-8241 |kylie.farrell@example.com",
+      "score": 0.9543,
+      "box": [
+        115,
+        150,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9765,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Bridge School, 2021.03–2023.01",
+      "score": 0.9854,
+      "box": [
+        115,
+        290,
+        839,
+        313
+      ]
+    },
+    {
+      "text": "-Developed long-term instructional strategies",
+      "score": 0.9953,
+      "box": [
+        125,
+        314,
+        549,
+        339
+      ]
+    },
+    {
+      "text": "- Developed system-wide assessment tools",
+      "score": 0.9729,
+      "box": [
+        126,
+        339,
+        531,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Hearts Academy, 2019.05–2021.03",
+      "score": 0.9876,
+      "box": [
+        116,
+        382,
+        839,
+        405
+      ]
+    },
+    {
+      "text": "-Tracked student participation",
+      "score": 0.984,
+      "box": [
+        125,
+        405,
+        411,
+        431
+      ]
+    },
+    {
+      "text": "- Supervised classroom activities",
+      "score": 0.9948,
+      "box": [
+        126,
+        431,
+        433,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Some college (no degree), Foundations of Learning, Stonewood University, 2021",
+      "score": 0.9701,
+      "box": [
+        115,
+        539,
+        863,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom learning design",
+      "score": 0.9446,
+      "box": [
+        132,
+        565,
+        631,
+        590
+      ]
+    },
+    {
+      "text": "• Completed introductory coursework in educational psychology",
+      "score": 0.986,
+      "box": [
+        133,
+        590,
+        720,
+        616
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KYLIE FARRELL\nAR, USA|+1-210-605-8241 |kylie.farrell@example.com\nWORK HISTORY\nElementary Middle School Teachers, Golden Bridge School, 2021.03–2023.01\n-Developed long-term instructional strategies\n- Developed system-wide assessment tools\nElementary Middle School Teachers, Kind Hearts Academy, 2019.05–2021.03\n-Tracked student participation\n- Supervised classroom activities\nEDUCATION\nSome college (no degree), Foundations of Learning, Stonewood University, 2021\n• Completed coursework in classroom learning design\n• Completed introductory coursework in educational psychology"
+}

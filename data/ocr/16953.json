@@ -1,0 +1,226 @@
+{
+  "id": "16953",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.976,
+  "n_lines": 16,
+  "mean_score": 0.9835,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BROOKE BOYLE",
+      "score": 0.9916,
+      "box": [
+        117,
+        90,
+        390,
+        121
+      ]
+    },
+    {
+      "text": "ID, USA|+1-547-694-3396 |brooke.boyle@example.com",
+      "score": 0.9923,
+      "box": [
+        116,
+        152,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Care Center, 2020.09–2023.01",
+      "score": 0.9854,
+      "box": [
+        115,
+        289,
+        695,
+        314
+      ]
+    },
+    {
+      "text": "- Directed interdisciplinary workflow alignment",
+      "score": 0.9719,
+      "box": [
+        126,
+        314,
+        554,
+        339
+      ]
+    },
+    {
+      "text": "- Managed clinical risk assessments",
+      "score": 0.9762,
+      "box": [
+        126,
+        339,
+        463,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverPath Health Center, 2017.09–2020.01",
+      "score": 0.9887,
+      "box": [
+        116,
+        382,
+        694,
+        406
+      ]
+    },
+    {
+      "text": "- Managed patient referrals",
+      "score": 0.9407,
+      "box": [
+        127,
+        407,
+        380,
+        430
+      ]
+    },
+    {
+      "text": "- Conducted quality assurance checks",
+      "score": 0.9761,
+      "box": [
+        126,
+        431,
+        482,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeHands Health Group, 2014.05–2016.09",
+      "score": 0.9925,
+      "box": [
+        116,
+        472,
+        709,
+        496
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9883,
+      "box": [
+        125,
+        496,
+        480,
+        521
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.9742,
+      "box": [
+        126,
+        521,
+        416,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Operations, Riverstone University, 2004",
+      "score": 0.9826,
+      "box": [
+        114,
+        631,
+        712,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing standards of practice",
+      "score": 0.9959,
+      "box": [
+        134,
+        658,
+        657,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient safety culture",
+      "score": 0.9958,
+      "box": [
+        135,
+        683,
+        582,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "BROOKE BOYLE\nID, USA|+1-547-694-3396 |brooke.boyle@example.com\nWORK HISTORY\nRegistered Nurses, NewSpring Care Center, 2020.09–2023.01\n- Directed interdisciplinary workflow alignment\n- Managed clinical risk assessments\nRegistered Nurses, EverPath Health Center, 2017.09–2020.01\n- Managed patient referrals\n- Conducted quality assurance checks\nRegistered Nurses, SafeHands Health Group, 2014.05–2016.09\n- Provided patient education materials\n- Checked patient identification\nEDUCATION\nBachelor's, Health Care Operations, Riverstone University, 2004\n• Completed coursework in nursing standards of practice\n• Completed coursework in patient safety culture"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "00254",
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "PP-OCRv5_mobile_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.335,
+  "n_lines": 13,
+  "mean_score": 0.9846,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JACLYN LU",
+      "score": 0.9658,
+      "box": [
+        116,
+        91,
+        306,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA|+1-480-838-6942 |jaclyn.lu@example.com",
+      "score": 0.9745,
+      "box": [
+        118,
+        151,
+        611,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9921,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellWay Health Group, 2020.04–2023.01",
+      "score": 0.9753,
+      "box": [
+        115,
+        287,
+        688,
+        318
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.9883,
+      "box": [
+        126,
+        313,
+        569,
+        342
+      ]
+    },
+    {
+      "text": "- Developed patient safety programs",
+      "score": 0.9908,
+      "box": [
+        127,
+        338,
+        465,
+        370
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverHands Health Services, 2017.07–2020.04",
+      "score": 0.983,
+      "box": [
+        118,
+        383,
+        731,
+        407
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.9923,
+      "box": [
+        126,
+        407,
+        452,
+        433
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.9852,
+      "box": [
+        128,
+        432,
+        472,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        117,
+        494,
+        266,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Information Management, Silver Creek University, 2017",
+      "score": 0.9773,
+      "box": [
+        115,
+        539,
+        804,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in home health nursing basics",
+      "score": 0.9881,
+      "box": [
+        131,
+        566,
+        643,
+        592
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of end-of-life care",
+      "score": 0.9879,
+      "box": [
+        132,
+        590,
+        519,
+        616
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JACLYN LU\nAL, USA|+1-480-838-6942 |jaclyn.lu@example.com\nWORK HISTORY\nRegistered Nurses, WellWay Health Group, 2020.04–2023.01\n- Implemented evidence-based practice models\n- Developed patient safety programs\nRegistered Nurses, EverHands Health Services, 2017.07–2020.04\n- Documented patient observations\n- Assisted with respiratory treatments\nEDUCATION\nBachelor's, Health Information Management, Silver Creek University, 2017\n• Completed coursework in home health nursing basics\n• Studied fundamentals of end-of-life care"
+}

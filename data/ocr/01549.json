@@ -1,0 +1,148 @@
+{
+  "id": "01549",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.843,
+  "n_lines": 10,
+  "mean_score": 0.983,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KRISTIN TERRY",
+      "score": 0.98,
+      "box": [
+        116,
+        90,
+        375,
+        120
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-725-296-4705|kristin.terry@example.com",
+      "score": 0.9901,
+      "box": [
+        116,
+        151,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9827,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearSpring Health Group, 2022.02–2022.05",
+      "score": 0.9726,
+      "box": [
+        116,
+        290,
+        716,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobillity",
+      "score": 0.9778,
+      "box": [
+        126,
+        315,
+        409,
+        339
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9906,
+      "box": [
+        126,
+        339,
+        399,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Management, Clearwater University, 2003",
+      "score": 0.9643,
+      "box": [
+        114,
+        447,
+        681,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of mental health nursing",
+      "score": 0.9907,
+      "box": [
+        132,
+        472,
+        541,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of infection diseases nursing",
+      "score": 0.9828,
+      "box": [
+        132,
+        497,
+        619,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "KRISTIN TERRY\nAZ, USA|+1-725-296-4705|kristin.terry@example.com\nWORK HISTORY\nRegistered Nurses, ClearSpring Health Group, 2022.02–2022.05\n- Assisted with patient mobillity\n- Recorded patient vital signs\nEDUCATION\nBachelor's, Health Management, Clearwater University, 2003\n• Studied principles of mental health nursing\n• Studied fundamentals of infection diseases nursing"
+}

@@ -1,0 +1,265 @@
+{
+  "id": "58761",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.885,
+  "n_lines": 19,
+  "mean_score": 0.9813,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRUCE MCCLAIN",
+      "score": 0.9855,
+      "box": [
+        115,
+        87,
+        402,
+        123
+      ]
+    },
+    {
+      "text": "WA, USA|+1-648-643-2260|bruce.mcclain@example.com",
+      "score": 0.9804,
+      "box": [
+        114,
+        150,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9816,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, CareBridge Health Services, 2020.06–2023.01",
+      "score": 0.9932,
+      "box": [
+        116,
+        290,
+        732,
+        313
+      ]
+    },
+    {
+      "text": "- Managed patient safety reporting systems",
+      "score": 0.9555,
+      "box": [
+        126,
+        314,
+        530,
+        339
+      ]
+    },
+    {
+      "text": "- Managed patient outcome evaluation systems",
+      "score": 0.9688,
+      "box": [
+        127,
+        339,
+        567,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Hands Health, 2017.11–2020.06",
+      "score": 0.9914,
+      "box": [
+        116,
+        383,
+        668,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented care pathway frameworks",
+      "score": 0.9895,
+      "box": [
+        126,
+        406,
+        506,
+        431
+      ]
+    },
+    {
+      "text": "- Managed long-term care strategies",
+      "score": 0.9839,
+      "box": [
+        126,
+        431,
+        466,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearPath Health, 2014.05–2016.12",
+      "score": 0.9842,
+      "box": [
+        115,
+        471,
+        635,
+        496
+      ]
+    },
+    {
+      "text": "- Conducted clinical audits",
+      "score": 0.978,
+      "box": [
+        126,
+        497,
+        373,
+        519
+      ]
+    },
+    {
+      "text": "- Monitored respiratory therapy treatments",
+      "score": 0.9793,
+      "box": [
+        126,
+        522,
+        519,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Group, 2011.02–2013.10",
+      "score": 0.984,
+      "box": [
+        116,
+        565,
+        690,
+        588
+      ]
+    },
+    {
+      "text": "- Monitored oxygen therapy",
+      "score": 0.9746,
+      "box": [
+        125,
+        589,
+        384,
+        615
+      ]
+    },
+    {
+      "text": "- Monitored patient alarms",
+      "score": 0.9754,
+      "box": [
+        128,
+        616,
+        372,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Studies, Goldenbrook University, 2003",
+      "score": 0.9949,
+      "box": [
+        115,
+        725,
+        648,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in fatigue management basics",
+      "score": 0.9715,
+      "box": [
+        132,
+        748,
+        644,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of patient safety",
+      "score": 0.9741,
+      "box": [
+        134,
+        774,
+        466,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "BRUCE MCCLAIN\nWA, USA|+1-648-643-2260|bruce.mcclain@example.com\nWORK HISTORY\nRegistered Nurses, CareBridge Health Services, 2020.06–2023.01\n- Managed patient safety reporting systems\n- Managed patient outcome evaluation systems\nRegistered Nurses, Caring Hands Health, 2017.11–2020.06\n- Implemented care pathway frameworks\n- Managed long-term care strategies\nRegistered Nurses, ClearPath Health, 2014.05–2016.12\n- Conducted clinical audits\n- Monitored respiratory therapy treatments\nRegistered Nurses, Harmony Health Group, 2011.02–2013.10\n- Monitored oxygen therapy\n- Monitored patient alarms\nEDUCATION\nBachelor's, Health Studies, Goldenbrook University, 2003\n• Completed coursework in fatigue management basics\n• Studied principles of patient safety"
+}

@@ -1,0 +1,174 @@
+{
+  "id": "60153",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.848,
+  "n_lines": 12,
+  "mean_score": 0.9797,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSHUA WARREN",
+      "score": 0.9644,
+      "box": [
+        116,
+        90,
+        417,
+        121
+      ]
+    },
+    {
+      "text": "WV, USA|+1-705-972-5520|joshua.warren@example.com",
+      "score": 0.9795,
+      "box": [
+        115,
+        150,
+        677,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearForm Builders, 2020.10–2022.05",
+      "score": 0.9754,
+      "box": [
+        115,
+        289,
+        688,
+        312
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9782,
+      "box": [
+        125,
+        313,
+        477,
+        338
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9851,
+      "box": [
+        126,
+        339,
+        441,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeStone Co., 2018.05–2020.01",
+      "score": 0.9853,
+      "box": [
+        116,
+        382,
+        654,
+        405
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9541,
+      "box": [
+        125,
+        406,
+        540,
+        431
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9823,
+      "box": [
+        126,
+        431,
+        439,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Safety, Meadowridge High School, 2003",
+      "score": 0.9888,
+      "box": [
+        116,
+        541,
+        872,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural layout",
+      "score": 0.9814,
+      "box": [
+        134,
+        566,
+        538,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "JOSHUA WARREN\nWV, USA|+1-705-972-5520|joshua.warren@example.com\nWORK HISTORY\nConstruction Laborers, ClearForm Builders, 2020.10–2022.05\n- Reviewed material quality standards\n- Led complex demolition projects\nConstruction Laborers, PrimeStone Co., 2018.05–2020.01\n- Carried materials to designated work areas\n- Helped position heavy materials\nEDUCATION\nHigh school graduate/GED, Construction Safety, Meadowridge High School, 2003\n• Completed coursework in structural layout"
+}

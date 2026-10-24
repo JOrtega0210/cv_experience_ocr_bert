@@ -1,0 +1,226 @@
+{
+  "id": "61477",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.858,
+  "n_lines": 16,
+  "mean_score": 0.9815,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ROBERT POPE",
+      "score": 0.9895,
+      "box": [
+        116,
+        90,
+        362,
+        121
+      ]
+    },
+    {
+      "text": "WY, USA|+1-224-534-4350|robert.pope@example.com",
+      "score": 0.9839,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9858,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corefield Software, 2020.07–202.01",
+      "score": 0.9862,
+      "box": [
+        115,
+        289,
+        667,
+        314
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9861,
+      "box": [
+        126,
+        313,
+        438,
+        339
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.9754,
+      "box": [
+        126,
+        339,
+        431,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpoint Labs, 2017.12–2020.07",
+      "score": 0.9775,
+      "box": [
+        116,
+        382,
+        637,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented authentication workflows",
+      "score": 0.9789,
+      "box": [
+        126,
+        406,
+        496,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed pull requests",
+      "score": 0.9744,
+      "box": [
+        125,
+        430,
+        358,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Datagrid Labs, 2015.05–2017.12",
+      "score": 0.9883,
+      "box": [
+        116,
+        472,
+        627,
+        496
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9445,
+      "box": [
+        127,
+        498,
+        340,
+        522
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.9911,
+      "box": [
+        126,
+        521,
+        462,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Havenwood University, 2015",
+      "score": 0.9669,
+      "box": [
+        115,
+        631,
+        491,
+        654
+      ]
+    },
+    {
+      "text": "• Completed coursework in layered architecture",
+      "score": 0.9897,
+      "box": [
+        133,
+        657,
+        573,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in data structures and algorithms",
+      "score": 0.9874,
+      "box": [
+        134,
+        681,
+        670,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ROBERT POPE\nWY, USA|+1-224-534-4350|robert.pope@example.com\nWORK HISTORY\nSoftware Developers, Corefield Software, 2020.07–202.01\n- Led technical roadmap planning\n- Led system reliability programs\nSoftware Developers, Flowpoint Labs, 2017.12–2020.07\n- Implemented authentication workflows\n- Reviewed pull requests\nSoftware Developers, Datagrid Labs, 2015.05–2017.12\n- Updated routing logic\n- Updated application dependencies\nEDUCATION\nBachelor's, Havenwood University, 2015\n• Completed coursework in layered architecture\n• Completed coursework in data structures and algorithms"
+}

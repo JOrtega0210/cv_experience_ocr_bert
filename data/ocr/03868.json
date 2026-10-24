@@ -1,0 +1,239 @@
+{
+  "id": "03868",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.94,
+  "n_lines": 17,
+  "mean_score": 0.9795,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RICARDO WHITE",
+      "score": 0.9807,
+      "box": [
+        116,
+        90,
+        391,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-908-709-4210 |ricardo.white@example.com",
+      "score": 0.9905,
+      "box": [
+        117,
+        151,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9858,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightnode Software, 2020.04–2023.01",
+      "score": 0.9819,
+      "box": [
+        116,
+        290,
+        684,
+        313
+      ]
+    },
+    {
+      "text": "- Designed logging infrastructures",
+      "score": 0.98,
+      "box": [
+        126,
+        314,
+        443,
+        339
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.9747,
+      "box": [
+        126,
+        339,
+        431,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Codewave Tech, 2017.06–2020.04",
+      "score": 0.9897,
+      "box": [
+        115,
+        381,
+        648,
+        406
+      ]
+    },
+    {
+      "text": "- Developed access control logic",
+      "score": 0.9596,
+      "box": [
+        125,
+        406,
+        431,
+        432
+      ]
+    },
+    {
+      "text": "- Designed integration tests",
+      "score": 0.9728,
+      "box": [
+        126,
+        430,
+        384,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Skycore Technologies, 2013.03–2016.01",
+      "score": 0.9901,
+      "box": [
+        115,
+        471,
+        700,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented basic authentication logic",
+      "score": 0.9736,
+      "box": [
+        126,
+        498,
+        502,
+        522
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.9639,
+      "box": [
+        125,
+        521,
+        332,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Master's, Sunrise University, 2011",
+      "score": 0.9791,
+      "box": [
+        115,
+        632,
+        433,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Larkspur University, 2009",
+      "score": 0.9761,
+      "box": [
+        114,
+        656,
+        463,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of software metrics",
+      "score": 0.9694,
+      "box": [
+        132,
+        681,
+        530,
+        704
+      ]
+    },
+    {
+      "text": "• Completed coursework in pointer arithmetic basics",
+      "score": 0.984,
+      "box": [
+        135,
+        709,
+        613,
+        729
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "RICARDO WHITE\nCA, USA|+1-908-709-4210 |ricardo.white@example.com\nWORK HISTORY\nSoftware Developers, Brightnode Software, 2020.04–2023.01\n- Designed logging infrastructures\n- Led system reliability programs\nSoftware Developers, Codewave Tech, 2017.06–2020.04\n- Developed access control logic\n- Designed integration tests\nSoftware Developers, Skycore Technologies, 2013.03–2016.01\n- Implemented basic authentication logic\n- Handled file uploads\nEDUCATION\nMaster's, Sunrise University, 2011\nBachelor's, Larkspur University, 2009\n• Studied fundamentals of software metrics\n• Completed coursework in pointer arithmetic basics"
+}

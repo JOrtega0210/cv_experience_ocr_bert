@@ -1,0 +1,148 @@
+{
+  "id": "55855",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.748,
+  "n_lines": 10,
+  "mean_score": 0.9781,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SARAH DAVID",
+      "score": 0.9703,
+      "box": [
+        115,
+        90,
+        350,
+        121
+      ]
+    },
+    {
+      "text": "VT, USA|+1-360-789-3558|sarah.david@example.com",
+      "score": 0.9767,
+      "box": [
+        115,
+        150,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Path Academy, 2019.09–2022.04",
+      "score": 0.9854,
+      "box": [
+        116,
+        290,
+        856,
+        313
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9673,
+      "box": [
+        125,
+        313,
+        410,
+        338
+      ]
+    },
+    {
+      "text": "- Supported art instruction",
+      "score": 0.9713,
+      "box": [
+        127,
+        340,
+        370,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Instructional Studies, Forestview University, 2013",
+      "score": 0.9822,
+      "box": [
+        115,
+        449,
+        681,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in early literacy instruction",
+      "score": 0.9568,
+      "box": [
+        133,
+        474,
+        608,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of lesson coherence",
+      "score": 0.9886,
+      "box": [
+        132,
+        497,
+        506,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "SARAH DAVID\nVT, USA|+1-360-789-3558|sarah.david@example.com\nWORK HISTORY\nElementary Middle School Teachers, Growing Path Academy, 2019.09–2022.04\n- Provided math drill exercises\n- Supported art instruction\nEDUCATION\nBachelor's, Instructional Studies, Forestview University, 2013\n• Completed coursework in early literacy instruction\n• Studied principles of lesson coherence"
+}

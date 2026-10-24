@@ -1,0 +1,174 @@
+{
+  "id": "22298",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.794,
+  "n_lines": 12,
+  "mean_score": 0.9753,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JONATHAN WALTER",
+      "score": 0.97,
+      "box": [
+        116,
+        90,
+        455,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA|+1-267-370-1251 |jonathan.walter@example.com",
+      "score": 0.9809,
+      "box": [
+        115,
+        150,
+        681,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongCraft Construction, 2020.12–222.07",
+      "score": 0.9749,
+      "box": [
+        115,
+        290,
+        738,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.9597,
+      "box": [
+        126,
+        314,
+        532,
+        339
+      ]
+    },
+    {
+      "text": "- Developed construction workflows",
+      "score": 0.9732,
+      "box": [
+        127,
+        340,
+        458,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueBuild Co., 2018.09–2020.05",
+      "score": 0.9834,
+      "box": [
+        116,
+        382,
+        636,
+        405
+      ]
+    },
+    {
+      "text": "- Moved equipment between work zones",
+      "score": 0.9837,
+      "box": [
+        125,
+        406,
+        505,
+        431
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9492,
+      "box": [
+        126,
+        430,
+        415,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Carpentry, Willowview High School, 2005",
+      "score": 0.9556,
+      "box": [
+        115,
+        540,
+        759,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of vibration control",
+      "score": 0.9918,
+      "box": [
+        133,
+        566,
+        490,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "JONATHAN WALTER\nKY, USA|+1-267-370-1251 |jonathan.walter@example.com\nWORK HISTORY\nConstruction Laborers, StrongCraft Construction, 2020.12–222.07\n- Implemented safety compliance strategies\n- Developed construction workflows\nConstruction Laborers, TrueBuild Co., 2018.09–2020.05\n- Moved equipment between work zones\n- Set up workstations for crews\nEDUCATION\nHigh school graduate/GED, Carpentry, Willowview High School, 2005\n• Studied principles of vibration control"
+}

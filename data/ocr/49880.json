@@ -1,0 +1,187 @@
+{
+  "id": "49880",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.788,
+  "n_lines": 13,
+  "mean_score": 0.98,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SCOTT BEIL",
+      "score": 0.9485,
+      "box": [
+        114,
+        88,
+        318,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA|+1-305-475-5369|scott.beil@example.com",
+      "score": 0.9757,
+      "box": [
+        114,
+        150,
+        622,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.983,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Solutions, 2021.06–2023.01",
+      "score": 0.9763,
+      "box": [
+        114,
+        288,
+        695,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented data pipeline architectures",
+      "score": 0.9792,
+      "box": [
+        127,
+        315,
+        512,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9655,
+      "box": [
+        127,
+        340,
+        461,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Stoneframe Tech, 2017.02–2018.09",
+      "score": 0.9968,
+      "box": [
+        116,
+        382,
+        655,
+        405
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9974,
+      "box": [
+        127,
+        408,
+        351,
+        429
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9804,
+      "box": [
+        126,
+        430,
+        509,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Cedarview University, 2013",
+      "score": 0.9861,
+      "box": [
+        115,
+        539,
+        624,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in network security",
+      "score": 0.9683,
+      "box": [
+        132,
+        565,
+        540,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of programming languages",
+      "score": 0.985,
+      "box": [
+        133,
+        590,
+        567,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "SCOTT BEIL\nTX, USA|+1-305-475-5369|scott.beil@example.com\nWORK HISTORY\nSoftware Developers, Datastream Solutions, 2021.06–2023.01\n- Implemented data pipeline architectures\n- Implemented service orchestration\nSoftware Developers, Stoneframe Tech, 2017.02–2018.09\n- Wrote integration tests\n- Assisted with version control operations\nEDUCATION\nSome college (no degree), Cedarview University, 2013\n• Completed coursework in network security\n• Studied principles of programming languages"
+}

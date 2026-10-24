@@ -1,0 +1,226 @@
+{
+  "id": "09638",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.989,
+  "n_lines": 16,
+  "mean_score": 0.982,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MATTHEW GARRETT",
+      "score": 0.9767,
+      "box": [
+        117,
+        90,
+        460,
+        120
+      ]
+    },
+    {
+      "text": "CO, USA|+1-679-304-8374|matthew.garrett@example.com",
+      "score": 0.9836,
+      "box": [
+        117,
+        151,
+        689,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Financial, 2020.02–2023.01",
+      "score": 0.9815,
+      "box": [
+        115,
+        290,
+        679,
+        312
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9817,
+      "box": [
+        125,
+        314,
+        525,
+        339
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9867,
+      "box": [
+        126,
+        339,
+        361,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Advisors, 2017.03–2020.02",
+      "score": 0.9666,
+      "box": [
+        115,
+        382,
+        688,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted variance investigations",
+      "score": 0.9766,
+      "box": [
+        125,
+        406,
+        460,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared audit reports",
+      "score": 0.9634,
+      "box": [
+        126,
+        430,
+        350,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Services, 2014.04–2017.03",
+      "score": 0.9833,
+      "box": [
+        115,
+        472,
+        722,
+        495
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9877,
+      "box": [
+        125,
+        496,
+        456,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.991,
+      "box": [
+        127,
+        522,
+        404,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Associate's degree, Organizational Management, Clearbrook University, 013",
+      "score": 0.9836,
+      "box": [
+        114,
+        631,
+        836,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of professional responsibility",
+      "score": 0.9841,
+      "box": [
+        132,
+        656,
+        580,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in internal auditing",
+      "score": 0.9855,
+      "box": [
+        135,
+        683,
+        536,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "MATTHEW GARRETT\nCO, USA|+1-679-304-8374|matthew.garrett@example.com\nWORK HISTORY\nAccountants Auditors, FairCount Financial, 2020.02–2023.01\n- Developed regulatory reporting strategies\n- Designed tax strategies\nAccountants Auditors, SolidCount Advisors, 2017.03–2020.02\n- Conducted variance investigations\n- Prepared audit reports\nAccountants Auditors, Balanced Path Services, 2014.04–2017.03\n- Assisted with tax form preparation\n- Assisted with audit fieldwork\nEDUCATION\nAssociate's degree, Organizational Management, Clearbrook University, 013\n• Studied principles of professional responsibility\n• Completed coursework in internal auditing"
+}

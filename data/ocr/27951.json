@@ -1,0 +1,148 @@
+{
+  "id": "27951",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.708,
+  "n_lines": 10,
+  "mean_score": 0.9721,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SCOTT AHMED",
+      "score": 0.9558,
+      "box": [
+        115,
+        90,
+        362,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-570-944-2281 | scott.ahmed@example.com",
+      "score": 0.9773,
+      "box": [
+        116,
+        152,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9854,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Labs, 2020.06–2022.07",
+      "score": 0.9825,
+      "box": [
+        116,
+        290,
+        642,
+        313
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.9735,
+      "box": [
+        127,
+        315,
+        403,
+        339
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9358,
+      "box": [
+        126,
+        338,
+        340,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearstone University, 2015",
+      "score": 0.9826,
+      "box": [
+        115,
+        449,
+        482,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of data modeling",
+      "score": 0.9624,
+      "box": [
+        132,
+        472,
+        473,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of scalability concepts",
+      "score": 0.9667,
+      "box": [
+        132,
+        497,
+        558,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "SCOTT AHMED\nMI, USA|+1-570-944-2281 | scott.ahmed@example.com\nWORK HISTORY\nSoftware Developers, Corewave Labs, 2020.06–2022.07\n- Updated database schemas\n- Updated routing logic\nEDUCATION\nBachelor's, Clearstone University, 2015\n• Studied principles of data modeling\n• Studied fundamentals of scalability concepts"
+}

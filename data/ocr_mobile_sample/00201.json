@@ -1,0 +1,226 @@
+{
+  "id": "00201",
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "PP-OCRv5_mobile_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.367,
+  "n_lines": 16,
+  "mean_score": 0.9889,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AMANDA COMPTON",
+      "score": 0.9831,
+      "box": [
+        117,
+        90,
+        447,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA |+1-970-450-7246 |amanda.compton@example.com",
+      "score": 0.9827,
+      "box": [
+        116,
+        150,
+        698,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.991,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWay Care Group, 2019.11–2023.01",
+      "score": 0.9857,
+      "box": [
+        116,
+        288,
+        668,
+        318
+      ]
+    },
+    {
+      "text": "- Led patient experience improvement programs",
+      "score": 0.9907,
+      "box": [
+        126,
+        316,
+        573,
+        342
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.9947,
+      "box": [
+        127,
+        340,
+        520,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWay Nursing, 2016.09–2019.11",
+      "score": 0.9951,
+      "box": [
+        116,
+        381,
+        632,
+        410
+      ]
+    },
+    {
+      "text": "- Managed patient fall prevention measures",
+      "score": 0.9784,
+      "box": [
+        126,
+        408,
+        531,
+        434
+      ]
+    },
+    {
+      "text": "- Conducted comprehensive patient assessments",
+      "score": 0.9955,
+      "box": [
+        127,
+        432,
+        587,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverWell Health Services, 2013.06–2016.09",
+      "score": 0.9909,
+      "box": [
+        118,
+        474,
+        711,
+        498
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobility",
+      "score": 0.9785,
+      "box": [
+        127,
+        498,
+        409,
+        524
+      ]
+    },
+    {
+      "text": "- Prepared intravenous solutions",
+      "score": 0.9929,
+      "box": [
+        128,
+        521,
+        431,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Operations, Pioneer University, 2012",
+      "score": 0.9943,
+      "box": [
+        118,
+        633,
+        684,
+        657
+      ]
+    },
+    {
+      "text": "• Studied principles of teamwork in healthcare",
+      "score": 0.9864,
+      "box": [
+        131,
+        659,
+        559,
+        683
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient monitoring technologies",
+      "score": 0.9828,
+      "box": [
+        131,
+        681,
+        678,
+        710
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "AMANDA COMPTON\nAL, USA |+1-970-450-7246 |amanda.compton@example.com\nWORK HISTORY\nRegistered Nurses, SunWay Care Group, 2019.11–2023.01\n- Led patient experience improvement programs\n- Established nursing performance metrics\nRegistered Nurses, SunWay Nursing, 2016.09–2019.11\n- Managed patient fall prevention measures\n- Conducted comprehensive patient assessments\nRegistered Nurses, EverWell Health Services, 2013.06–2016.09\n- Assisted with patient mobility\n- Prepared intravenous solutions\nEDUCATION\nBachelor's, Health Care Operations, Pioneer University, 2012\n• Studied principles of teamwork in healthcare\n• Completed coursework in patient monitoring technologies"
+}

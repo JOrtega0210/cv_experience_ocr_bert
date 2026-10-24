@@ -1,0 +1,187 @@
+{
+  "id": "57585",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.813,
+  "n_lines": 13,
+  "mean_score": 0.9816,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TRAVIS PERRY",
+      "score": 0.9608,
+      "box": [
+        113,
+        87,
+        367,
+        123
+      ]
+    },
+    {
+      "text": "VA, USA|+1-277-365-2306|travis.perry@example.com",
+      "score": 0.9925,
+      "box": [
+        114,
+        150,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Advisors, 2021.03–2023.01",
+      "score": 0.9897,
+      "box": [
+        115,
+        289,
+        724,
+        313
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9692,
+      "box": [
+        126,
+        313,
+        453,
+        337
+      ]
+    },
+    {
+      "text": "- Managed consolidation processes",
+      "score": 0.9893,
+      "box": [
+        126,
+        339,
+        458,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Services, 2016.11–2018.09",
+      "score": 0.9845,
+      "box": [
+        115,
+        382,
+        737,
+        405
+      ]
+    },
+    {
+      "text": "- Performed data validation checks",
+      "score": 0.9938,
+      "box": [
+        126,
+        407,
+        451,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9843,
+      "box": [
+        125,
+        430,
+        365,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Quantitative Finance, Oakway University, 2014",
+      "score": 0.9806,
+      "box": [
+        115,
+        541,
+        660,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in cost accounting",
+      "score": 0.9604,
+      "box": [
+        132,
+        565,
+        534,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of nonprofit accounting",
+      "score": 0.9729,
+      "box": [
+        133,
+        590,
+        529,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "TRAVIS PERRY\nVA, USA|+1-277-365-2306|travis.perry@example.com\nWORK HISTORY\nAccountants Auditors, Precise Ledger Advisors, 2021.03–2023.01\n- Led financial data standardization\n- Managed consolidation processes\nAccountants Auditors, Precise Balance Services, 2016.11–2018.09\n- Performed data validation checks\n- Prepared journal entries\nEDUCATION\nBachelor's, Quantitative Finance, Oakway University, 2014\n• Completed coursework in cost accounting\n• Studied principles of nonprofit accounting"
+}

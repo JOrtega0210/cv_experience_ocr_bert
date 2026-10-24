@@ -1,0 +1,200 @@
+{
+  "id": "16815",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.974,
+  "n_lines": 14,
+  "mean_score": 0.9799,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CHRISTINE LAM",
+      "score": 0.987,
+      "box": [
+        116,
+        88,
+        382,
+        122
+      ]
+    },
+    {
+      "text": "HI, USA|+1-858-210-5592 |christine.lam@example.com",
+      "score": 0.9694,
+      "box": [
+        115,
+        150,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9757,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Hills School, 2021.04–2023.01",
+      "score": 0.9716,
+      "box": [
+        114,
+        289,
+        813,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented instructional improvement programs",
+      "score": 0.9776,
+      "box": [
+        125,
+        314,
+        600,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented curriculum governance structures",
+      "score": 0.9772,
+      "box": [
+        126,
+        339,
+        577,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Horizons School, 2019.06–2021.04",
+      "score": 0.9928,
+      "box": [
+        115,
+        381,
+        873,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.9776,
+      "box": [
+        125,
+        406,
+        399,
+        431
+      ]
+    },
+    {
+      "text": "- Delivered structured lessons in reading and mathematics",
+      "score": 0.9904,
+      "box": [
+        126,
+        430,
+        667,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9978,
+      "box": [
+        115,
+        493,
+        266,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Foundations of Learning, Southridge University, 2022",
+      "score": 0.9824,
+      "box": [
+        115,
+        541,
+        699,
+        565
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Skills, Willowhaven University, 2020",
+      "score": 0.9807,
+      "box": [
+        114,
+        565,
+        645,
+        589
+      ]
+    },
+    {
+      "text": "• Studied foundational learning strategies",
+      "score": 0.9633,
+      "box": [
+        132,
+        589,
+        514,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional pacing",
+      "score": 0.9745,
+      "box": [
+        132,
+        614,
+        557,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "CHRISTINE LAM\nHI, USA|+1-858-210-5592 |christine.lam@example.com\nWORK HISTORY\nElementary Middle School Teachers, Caring Hills School, 2021.04–2023.01\n- Implemented instructional improvement programs\n- Implemented curriculum governance structures\nElementary Middle School Teachers, Growing Horizons School, 2019.06–2021.04\n- Conducted spelling practice\n- Delivered structured lessons in reading and mathematics\nEDUCATION\nMaster's, Foundations of Learning, Southridge University, 2022\nBachelor's, Learning Skills, Willowhaven University, 2020\n• Studied foundational learning strategies\n• Studied fundamentals of instructional pacing"
+}

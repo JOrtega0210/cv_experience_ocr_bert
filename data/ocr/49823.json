@@ -1,0 +1,265 @@
+{
+  "id": "49823",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.886,
+  "n_lines": 19,
+  "mean_score": 0.9806,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JONATHAN PARK",
+      "score": 0.984,
+      "box": [
+        116,
+        90,
+        408,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-352-393-2626|jonathan.park@example.com",
+      "score": 0.9815,
+      "box": [
+        115,
+        150,
+        665,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9866,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudridge Tech, 2018.05–2023.01",
+      "score": 0.9832,
+      "box": [
+        115,
+        288,
+        648,
+        314
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9796,
+      "box": [
+        127,
+        315,
+        454,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented data pipeline architectures",
+      "score": 0.9936,
+      "box": [
+        126,
+        339,
+        512,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstack Labs, 2013.08–2018.05",
+      "score": 0.9923,
+      "box": [
+        115,
+        381,
+        651,
+        406
+      ]
+    },
+    {
+      "text": "- Defined quality assurance frameworks",
+      "score": 0.9782,
+      "box": [
+        127,
+        407,
+        496,
+        430
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.9748,
+      "box": [
+        127,
+        432,
+        541,
+        453
+      ]
+    },
+    {
+      "text": "Software Developers, Clearwave Tech, 2008.11–2013.08",
+      "score": 0.9868,
+      "box": [
+        116,
+        472,
+        647,
+        496
+      ]
+    },
+    {
+      "text": "- Integrated monitoring tools",
+      "score": 0.9825,
+      "box": [
+        126,
+        498,
+        391,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented error handling frameworks",
+      "score": 0.9712,
+      "box": [
+        126,
+        521,
+        511,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Tech, 2004.02–2008.11",
+      "score": 0.98,
+      "box": [
+        116,
+        564,
+        619,
+        587
+      ]
+    },
+    {
+      "text": "- Monitored application logs",
+      "score": 0.9707,
+      "box": [
+        126,
+        590,
+        385,
+        614
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9871,
+      "box": [
+        126,
+        615,
+        346,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Silverfield University, 2003",
+      "score": 0.949,
+      "box": [
+        114,
+        723,
+        472,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of collaborative development",
+      "score": 0.9585,
+      "box": [
+        132,
+        747,
+        623,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of modular design",
+      "score": 0.9927,
+      "box": [
+        133,
+        772,
+        484,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "JONATHAN PARK\nTX, USA|+1-352-393-2626|jonathan.park@example.com\nWORK HISTORY\nSoftware Developers, Cloudridge Tech, 2018.05–2023.01\n- Led performance tuning initiatives\n- Implemented data pipeline architectures\nSoftware Developers, Brightstack Labs, 2013.08–2018.05\n- Defined quality assurance frameworks\n- Defined technical documentation standards\nSoftware Developers, Clearwave Tech, 2008.11–2013.08\n- Integrated monitoring tools\n- Implemented error handling frameworks\nSoftware Developers, Softgrid Tech, 2004.02–2008.11\n- Monitored application logs\n- Created test data sets\nEDUCATION\nBachelor's, Silverfield University, 2003\n• Studied fundamentals of collaborative development\n• Studied principles of modular design"
+}

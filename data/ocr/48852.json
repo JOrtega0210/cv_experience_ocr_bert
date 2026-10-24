@@ -1,0 +1,265 @@
+{
+  "id": "48852",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.859,
+  "n_lines": 19,
+  "mean_score": 0.9846,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MICHAEL PROCTOR",
+      "score": 0.9684,
+      "box": [
+        117,
+        90,
+        446,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-328-830-1192 |michael.proctor@example.com",
+      "score": 0.9856,
+      "box": [
+        115,
+        150,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9923,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Solutions, 2020.07–2023.01",
+      "score": 0.994,
+      "box": [
+        116,
+        290,
+        687,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.9808,
+      "box": [
+        126,
+        314,
+        499,
+        337
+      ]
+    },
+    {
+      "text": "- Reviewed architectural proposals",
+      "score": 0.9916,
+      "box": [
+        126,
+        339,
+        450,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Skyfield Software, 2018.01–2020.07",
+      "score": 0.9713,
+      "box": [
+        115,
+        381,
+        657,
+        406
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.98,
+      "box": [
+        126,
+        407,
+        373,
+        429
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9861,
+      "box": [
+        126,
+        430,
+        447,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Corebyte Systems, 2015.07–2018.01",
+      "score": 0.9851,
+      "box": [
+        115,
+        471,
+        665,
+        496
+      ]
+    },
+    {
+      "text": "- Refactored legacy code",
+      "score": 0.9862,
+      "box": [
+        125,
+        496,
+        363,
+        521
+      ]
+    },
+    {
+      "text": "- Improved build processes",
+      "score": 0.986,
+      "box": [
+        126,
+        521,
+        380,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Softbridge Labs, 2013.01–2015.07",
+      "score": 0.9923,
+      "box": [
+        115,
+        563,
+        643,
+        588
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.9975,
+      "box": [
+        126,
+        590,
+        374,
+        613
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.9684,
+      "box": [
+        125,
+        613,
+        332,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Shoreline University, 2016",
+      "score": 0.9825,
+      "box": [
+        114,
+        723,
+        470,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in database systems",
+      "score": 0.9789,
+      "box": [
+        132,
+        748,
+        558,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of responsive design",
+      "score": 0.9808,
+      "box": [
+        133,
+        772,
+        547,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "MICHAEL PROCTOR\nTN, USA|+1-328-830-1192 |michael.proctor@example.com\nWORK HISTORY\nSoftware Developers, Openwave Solutions, 2020.07–2023.01\n- Implemented infrastructure automation\n- Reviewed architectural proposals\nSoftware Developers, Skyfield Software, 2018.01–2020.07\n- Led architectural reviews\n- Designed caching infrastructures\nSoftware Developers, Corebyte Systems, 2015.07–2018.01\n- Refactored legacy code\n- Improved build processes\nSoftware Developers, Softbridge Labs, 2013.01–2015.07\n- Updated localization files\n- Handled file uploads\nEDUCATION\nBachelor's, Shoreline University, 2016\n• Completed coursework in database systems\n• Studied fundamentals of responsive design"
+}

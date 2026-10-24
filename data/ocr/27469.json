@@ -1,0 +1,200 @@
+{
+  "id": "27469",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.78,
+  "n_lines": 14,
+  "mean_score": 0.9771,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRIAN REED",
+      "score": 0.9504,
+      "box": [
+        116,
+        90,
+        326,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-851-346-9092 |brian.reed@example.com",
+      "score": 0.9734,
+      "box": [
+        115,
+        150,
+        629,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9878,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netcrest Technologies, 2018.12–2021.08",
+      "score": 0.9868,
+      "box": [
+        115,
+        290,
+        704,
+        313
+      ]
+    },
+    {
+      "text": "-Defined data governance policies",
+      "score": 0.9792,
+      "box": [
+        124,
+        312,
+        451,
+        340
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.9823,
+      "box": [
+        126,
+        338,
+        374,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Silverwave Technologies, 2015.06–2018.03",
+      "score": 0.9854,
+      "box": [
+        115,
+        381,
+        727,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored application logs",
+      "score": 0.9538,
+      "box": [
+        125,
+        406,
+        386,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented validation logic",
+      "score": 0.9674,
+      "box": [
+        126,
+        430,
+        406,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Sunset Ridge University, 2004",
+      "score": 0.9883,
+      "box": [
+        115,
+        541,
+        488,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Southridge University, 202",
+      "score": 0.9794,
+      "box": [
+        115,
+        566,
+        483,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in cloud computing basics",
+      "score": 0.974,
+      "box": [
+        132,
+        590,
+        606,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of augmented reality",
+      "score": 0.9731,
+      "box": [
+        133,
+        615,
+        507,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "BRIAN REED\nMI, USA|+1-851-346-9092 |brian.reed@example.com\nWORK HISTORY\nSoftware Developers, Netcrest Technologies, 2018.12–2021.08\n-Defined data governance policies\n- Led architectural reviews\nSoftware Developers, Silverwave Technologies, 2015.06–2018.03\n- Monitored application logs\n- Implemented validation logic\nEDUCATION\nMaster's, Sunset Ridge University, 2004\nBachelor's, Southridge University, 202\n• Completed coursework in cloud computing basics\n• Studied principles of augmented reality"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "15099",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.017,
+  "n_lines": 16,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAELYN CALHOUN",
+      "score": 0.986,
+      "box": [
+        116,
+        90,
+        427,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-770-483-1938|jaelyn.calhoun@example.com",
+      "score": 0.9833,
+      "box": [
+        116,
+        151,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeHands Health Services, 2019.10–2023.01",
+      "score": 0.9907,
+      "box": [
+        116,
+        290,
+        720,
+        313
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.9617,
+      "box": [
+        125,
+        313,
+        423,
+        339
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.9717,
+      "box": [
+        127,
+        340,
+        392,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeBridge Health Group, 2016.07–2019.10",
+      "score": 0.9824,
+      "box": [
+        115,
+        381,
+        709,
+        406
+      ]
+    },
+    {
+      "text": "- Managed patient advocacy tasks",
+      "score": 0.978,
+      "box": [
+        125,
+        406,
+        446,
+        431
+      ]
+    },
+    {
+      "text": "- Provided end-of-life care",
+      "score": 0.9736,
+      "box": [
+        126,
+        430,
+        370,
+        454
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWay Care Group, 2013.04–2016.07",
+      "score": 0.9864,
+      "box": [
+        116,
+        472,
+        669,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9853,
+      "box": [
+        125,
+        496,
+        479,
+        522
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9783,
+      "box": [
+        126,
+        522,
+        529,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Information Management, Brookhaven University, 2013",
+      "score": 0.981,
+      "box": [
+        114,
+        631,
+        802,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of ostomy care",
+      "score": 0.9883,
+      "box": [
+        132,
+        656,
+        456,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of mobility assistance",
+      "score": 0.9889,
+      "box": [
+        134,
+        681,
+        554,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JAELYN CALHOUN\nGA, USA|+1-770-483-1938|jaelyn.calhoun@example.com\nWORK HISTORY\nRegistered Nurses, LifeHands Health Services, 2019.10–2023.01\n- Led infection control programs\n- Led nursing process audits\nRegistered Nurses, SafeBridge Health Group, 2016.07–2019.10\n- Managed patient advocacy tasks\n- Provided end-of-life care\nRegistered Nurses, SunWay Care Group, 2013.04–2016.07\n- Prepared medical equipment for use\n- Recorded medication administration times\nEDUCATION\nBachelor's, Health Information Management, Brookhaven University, 2013\n• Studied principles of ostomy care\n• Studied fundamentals of mobility assistance"
+}

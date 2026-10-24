@@ -1,0 +1,161 @@
+{
+  "id": "00737",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.963,
+  "n_lines": 11,
+  "mean_score": 0.981,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "PAIGECASE",
+      "score": 0.9979,
+      "box": [
+        114,
+        88,
+        326,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA|+1-888-908-1803|paige.case@example.com",
+      "score": 0.9858,
+      "box": [
+        116,
+        151,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9812,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Lake School, 2020.04–2023.01",
+      "score": 0.9786,
+      "box": [
+        116,
+        289,
+        810,
+        312
+      ]
+    },
+    {
+      "text": "-Recorded student feedback",
+      "score": 0.9667,
+      "box": [
+        126,
+        315,
+        397,
+        335
+      ]
+    },
+    {
+      "text": "- Assisted with small group instruction activities",
+      "score": 0.9607,
+      "box": [
+        127,
+        340,
+        565,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Education Basics, Larkspur University, 2022",
+      "score": 0.9742,
+      "box": [
+        115,
+        449,
+        616,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Foundations of Learning, Plainview University, 2020",
+      "score": 0.9763,
+      "box": [
+        114,
+        472,
+        706,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of science education",
+      "score": 0.9863,
+      "box": [
+        134,
+        500,
+        545,
+        520
+      ]
+    },
+    {
+      "text": "• Studied principles of classroom interaction",
+      "score": 0.9844,
+      "box": [
+        135,
+        525,
+        538,
+        545
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "PAIGECASE\nAL, USA|+1-888-908-1803|paige.case@example.com\nWORK HISTORY\nElementary Middle School Teachers, Bright Lake School, 2020.04–2023.01\n-Recorded student feedback\n- Assisted with small group instruction activities\nEDUCATION\nMaster's, Education Basics, Larkspur University, 2022\nBachelor's, Foundations of Learning, Plainview University, 2020\n• Studied fundamentals of science education\n• Studied principles of classroom interaction"
+}

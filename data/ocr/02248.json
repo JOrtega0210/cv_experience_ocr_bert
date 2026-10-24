@@ -1,0 +1,187 @@
+{
+  "id": "02248",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.995,
+  "n_lines": 13,
+  "mean_score": 0.9819,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DALTON MEADOWS",
+      "score": 0.9791,
+      "box": [
+        116,
+        90,
+        443,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-358-716-6428|dalton.meadows@example.com",
+      "score": 0.9923,
+      "box": [
+        115,
+        150,
+        693,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9773,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Meadow School, 2020.07–2023.01",
+      "score": 0.9824,
+      "box": [
+        115,
+        290,
+        842,
+        313
+      ]
+    },
+    {
+      "text": "- Established instructional best practices",
+      "score": 0.9722,
+      "box": [
+        125,
+        313,
+        502,
+        338
+      ]
+    },
+    {
+      "text": "- Developed student performance metrics",
+      "score": 0.9833,
+      "box": [
+        126,
+        339,
+        512,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Bridge School, 2018.01–2020.07",
+      "score": 0.9916,
+      "box": [
+        115,
+        381,
+        865,
+        406
+      ]
+    },
+    {
+      "text": "- Recorded student progress data",
+      "score": 0.9656,
+      "box": [
+        125,
+        406,
+        442,
+        431
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9743,
+      "box": [
+        126,
+        431,
+        398,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Foundations, Skyline University, 2018",
+      "score": 0.9829,
+      "box": [
+        114,
+        539,
+        666,
+        564
+      ]
+    },
+    {
+      "text": "• Studied foundational pedagogy concepts",
+      "score": 0.9876,
+      "box": [
+        132,
+        564,
+        525,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional modeling",
+      "score": 0.9776,
+      "box": [
+        135,
+        591,
+        591,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "DALTON MEADOWS\nAR, USA|+1-358-716-6428|dalton.meadows@example.com\nWORK HISTORY\nElementary Middle School Teachers, Open Meadow School, 2020.07–2023.01\n- Established instructional best practices\n- Developed student performance metrics\nElementary Middle School Teachers, Discovery Bridge School, 2018.01–2020.07\n- Recorded student progress data\n- Recorded student feedback\nEDUCATION\nBachelor's, Teaching Foundations, Skyline University, 2018\n• Studied foundational pedagogy concepts\n• Completed coursework in instructional modeling"
+}

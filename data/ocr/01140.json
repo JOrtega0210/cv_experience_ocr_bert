@@ -1,0 +1,226 @@
+{
+  "id": "01140",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.934,
+  "n_lines": 16,
+  "mean_score": 0.9813,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DIANA HOWE",
+      "score": 0.9642,
+      "box": [
+        116,
+        88,
+        338,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-746-348-1821|diana.howe@example.com",
+      "score": 0.9946,
+      "box": [
+        116,
+        151,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9871,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleBridge Nursing, 2020.11–2023.01",
+      "score": 0.9756,
+      "box": [
+        115,
+        289,
+        673,
+        314
+      ]
+    },
+    {
+      "text": "- Developed nursing training programs",
+      "score": 0.9541,
+      "box": [
+        125,
+        314,
+        484,
+        340
+      ]
+    },
+    {
+      "text": "- Designed clinical care protocols",
+      "score": 0.9812,
+      "box": [
+        126,
+        339,
+        436,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellHands Health Group, 2018.09–2020.11",
+      "score": 0.9697,
+      "box": [
+        115,
+        381,
+        705,
+        406
+      ]
+    },
+    {
+      "text": "- Managed pain control plans",
+      "score": 0.9646,
+      "box": [
+        126,
+        406,
+        399,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented patient education programs",
+      "score": 0.9855,
+      "box": [
+        126,
+        430,
+        522,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellHands Nursing Group, 2014.01–2016.03",
+      "score": 0.9908,
+      "box": [
+        116,
+        473,
+        718,
+        496
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9838,
+      "box": [
+        125,
+        496,
+        365,
+        522
+      ]
+    },
+    {
+      "text": "- Assisted with hygiene care",
+      "score": 0.9904,
+      "box": [
+        126,
+        521,
+        390,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Technology, Oakwood University, 2012",
+      "score": 0.9864,
+      "box": [
+        114,
+        631,
+        706,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing research basics",
+      "score": 0.987,
+      "box": [
+        134,
+        658,
+        610,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in maternal health nursing",
+      "score": 0.9861,
+      "box": [
+        135,
+        682,
+        607,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "DIANA HOWE\nAZ, USA|+1-746-348-1821|diana.howe@example.com\nWORK HISTORY\nRegistered Nurses, GentleBridge Nursing, 2020.11–2023.01\n- Developed nursing training programs\n- Designed clinical care protocols\nRegistered Nurses, WellHands Health Group, 2018.09–2020.11\n- Managed pain control plans\n- Implemented patient education programs\nRegistered Nurses, WellHands Nursing Group, 2014.01–2016.03\n- Recorded nursing notes\n- Assisted with hygiene care\nEDUCATION\nBachelor's, Health Care Technology, Oakwood University, 2012\n• Completed coursework in nursing research basics\n• Completed coursework in maternal health nursing"
+}

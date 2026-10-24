@@ -1,0 +1,161 @@
+{
+  "id": "02696",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.962,
+  "n_lines": 11,
+  "mean_score": 0.9786,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RAQUEL NASH",
+      "score": 0.9801,
+      "box": [
+        116,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-796-323-9074 |raquel.nash@example.com",
+      "score": 0.9871,
+      "box": [
+        117,
+        151,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9806,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Start School, 2019.12–2022.05",
+      "score": 0.9676,
+      "box": [
+        116,
+        289,
+        838,
+        312
+      ]
+    },
+    {
+      "text": "- Distributed instructional handouts",
+      "score": 0.9676,
+      "box": [
+        126,
+        314,
+        450,
+        338
+      ]
+    },
+    {
+      "text": "- Monitored independent work sessions",
+      "score": 0.9698,
+      "box": [
+        126,
+        339,
+        493,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Educational Support, Granite Hill University, 2015",
+      "score": 0.981,
+      "box": [
+        115,
+        449,
+        665,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Academic Support Studies, Oakridge Valley University, 2013",
+      "score": 0.976,
+      "box": [
+        115,
+        474,
+        786,
+        497
+      ]
+    },
+    {
+      "text": "• Studied basic classroom management concepts",
+      "score": 0.9814,
+      "box": [
+        133,
+        498,
+        592,
+        523
+      ]
+    },
+    {
+      "text": "• Completed coursework in introductory child psychology",
+      "score": 0.9753,
+      "box": [
+        134,
+        522,
+        656,
+        549
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "RAQUEL NASH\nCA, USA|+1-796-323-9074 |raquel.nash@example.com\nWORK HISTORY\nElementary Middle School Teachers, Learning Start School, 2019.12–2022.05\n- Distributed instructional handouts\n- Monitored independent work sessions\nEDUCATION\nMaster's, Educational Support, Granite Hill University, 2015\nBachelor's, Academic Support Studies, Oakridge Valley University, 2013\n• Studied basic classroom management concepts\n• Completed coursework in introductory child psychology"
+}

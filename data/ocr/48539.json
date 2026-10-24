@@ -1,0 +1,226 @@
+{
+  "id": "48539",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.861,
+  "n_lines": 16,
+  "mean_score": 0.9789,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LAUREN MIDDLETON",
+      "score": 0.9741,
+      "box": [
+        116,
+        90,
+        465,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-42-412-2214 |lauren.middleton@example.com",
+      "score": 0.9869,
+      "box": [
+        115,
+        150,
+        694,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9814,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearWay Medical Group, 2020.02–2023.01",
+      "score": 0.9813,
+      "box": [
+        115,
+        289,
+        707,
+        314
+      ]
+    },
+    {
+      "text": "- Directed nursing education initiatives",
+      "score": 0.9846,
+      "box": [
+        125,
+        314,
+        481,
+        337
+      ]
+    },
+    {
+      "text": "- Directed emergency response planning",
+      "score": 0.9591,
+      "box": [
+        126,
+        339,
+        505,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleBridge Nursing, 2017.03–2020.02",
+      "score": 0.9846,
+      "box": [
+        115,
+        381,
+        675,
+        406
+      ]
+    },
+    {
+      "text": "- Supervised medication administration",
+      "score": 0.9868,
+      "box": [
+        127,
+        407,
+        489,
+        430
+      ]
+    },
+    {
+      "text": "- Managed isolation procedures",
+      "score": 0.9838,
+      "box": [
+        126,
+        430,
+        422,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIWay Medical Group, 2014.04–2017.03",
+      "score": 0.9704,
+      "box": [
+        116,
+        473,
+        699,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored patient recovery",
+      "score": 0.9581,
+      "box": [
+        125,
+        496,
+        390,
+        523
+      ]
+    },
+    {
+      "text": "- Monitored patient skin condition",
+      "score": 0.9777,
+      "box": [
+        126,
+        521,
+        436,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, General Nursing, Willowgate University, 2012",
+      "score": 0.9796,
+      "box": [
+        114,
+        631,
+        724,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in healthcare law basics",
+      "score": 0.9861,
+      "box": [
+        132,
+        656,
+        589,
+        680
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of mobility assistance",
+      "score": 0.9682,
+      "box": [
+        133,
+        681,
+        554,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "LAUREN MIDDLETON\nTN, USA|+1-42-412-2214 |lauren.middleton@example.com\nWORK HISTORY\nRegistered Nurses, ClearWay Medical Group, 2020.02–2023.01\n- Directed nursing education initiatives\n- Directed emergency response planning\nRegistered Nurses, GentleBridge Nursing, 2017.03–2020.02\n- Supervised medication administration\n- Managed isolation procedures\nRegistered Nurses, WelIWay Medical Group, 2014.04–2017.03\n- Monitored patient recovery\n- Monitored patient skin condition\nEDUCATION\nAssociate's degree, General Nursing, Willowgate University, 2012\n• Completed coursework in healthcare law basics\n• Studied fundamentals of mobility assistance"
+}

@@ -1,0 +1,265 @@
+{
+  "id": "11161",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.025,
+  "n_lines": 19,
+  "mean_score": 0.9803,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "STEVENLIM",
+      "score": 0.9985,
+      "box": [
+        115,
+        90,
+        319,
+        121
+      ]
+    },
+    {
+      "text": "CT, USA|+1-266-653-4489 |steven.lim@example.com",
+      "score": 0.9794,
+      "box": [
+        116,
+        150,
+        634,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datawave Systems, 2020.05–2023.01",
+      "score": 0.9813,
+      "box": [
+        115,
+        289,
+        673,
+        314
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.9812,
+      "box": [
+        126,
+        313,
+        469,
+        339
+      ]
+    },
+    {
+      "text": "- Designed configuration management systems",
+      "score": 0.9884,
+      "box": [
+        127,
+        339,
+        566,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Software, 2017.09–2020.05",
+      "score": 0.9725,
+      "box": [
+        115,
+        381,
+        680,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented release management strategies",
+      "score": 0.9842,
+      "box": [
+        126,
+        406,
+        561,
+        431
+      ]
+    },
+    {
+      "text": "- Led cross-team technical alignment",
+      "score": 0.9657,
+      "box": [
+        126,
+        430,
+        471,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Corecrest Software, 2013.11–2016.08",
+      "score": 0.9862,
+      "box": [
+        115,
+        471,
+        675,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented feature flags",
+      "score": 0.9716,
+      "box": [
+        126,
+        498,
+        384,
+        522
+      ]
+    },
+    {
+      "text": "- Designed batch processing jobs",
+      "score": 0.9893,
+      "box": [
+        126,
+        521,
+        438,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Datacrest Software, 2010.06–2013.03",
+      "score": 0.9805,
+      "box": [
+        114,
+        563,
+        673,
+        588
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9691,
+      "box": [
+        125,
+        589,
+        346,
+        612
+      ]
+    },
+    {
+      "text": "- Reviewed code changes for syntax and logic issues",
+      "score": 0.9787,
+      "box": [
+        126,
+        613,
+        620,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Lakeview University, 2003",
+      "score": 0.9398,
+      "box": [
+        114,
+        723,
+        468,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of NoSQL systems",
+      "score": 0.9853,
+      "box": [
+        132,
+        747,
+        530,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in exception management",
+      "score": 0.9894,
+      "box": [
+        133,
+        772,
+        608,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "STEVENLIM\nCT, USA|+1-266-653-4489 |steven.lim@example.com\nWORK HISTORY\nSoftware Developers, Datawave Systems, 2020.05–2023.01\n- Led backend platform development\n- Designed configuration management systems\nSoftware Developers, Stonepath Software, 2017.09–2020.05\n- Implemented release management strategies\n- Led cross-team technical alignment\nSoftware Developers, Corecrest Software, 2013.11–2016.08\n- Implemented feature flags\n- Designed batch processing jobs\nSoftware Developers, Datacrest Software, 2010.06–2013.03\n- Created test data sets\n- Reviewed code changes for syntax and logic issues\nEDUCATION\nBachelor's, Lakeview University, 2003\n• Studied fundamentals of NoSQL systems\n• Completed coursework in exception management"
+}

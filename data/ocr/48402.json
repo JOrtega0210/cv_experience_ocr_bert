@@ -1,0 +1,148 @@
+{
+  "id": "48402",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.733,
+  "n_lines": 10,
+  "mean_score": 0.9837,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "OLGA STEPHENS",
+      "score": 0.9827,
+      "box": [
+        117,
+        90,
+        404,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-842-340-6707 |olga.stephens@example.com",
+      "score": 0.986,
+      "box": [
+        115,
+        150,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9828,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenLife Care Services, 2020.04–2021.07",
+      "score": 0.9838,
+      "box": [
+        116,
+        290,
+        697,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.9891,
+      "box": [
+        125,
+        314,
+        483,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared discharge instructions",
+      "score": 0.9608,
+      "box": [
+        126,
+        339,
+        436,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Public Health, Lakeview University, 2016",
+      "score": 0.9815,
+      "box": [
+        114,
+        447,
+        603,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient counseling",
+      "score": 0.9747,
+      "box": [
+        134,
+        474,
+        557,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in medical terminology",
+      "score": 0.9969,
+      "box": [
+        133,
+        496,
+        575,
+        524
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "OLGA STEPHENS\nTN, USA|+1-842-340-6707 |olga.stephens@example.com\nWORK HISTORY\nRegistered Nurses, OpenLife Care Services, 2020.04–2021.07\n- Assisted with emergency procedures\n- Prepared discharge instructions\nEDUCATION\nBachelor's, Public Health, Lakeview University, 2016\n• Completed coursework in patient counseling\n• Completed coursework in medical terminology"
+}

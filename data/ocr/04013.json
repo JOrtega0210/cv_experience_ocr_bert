@@ -1,0 +1,148 @@
+{
+  "id": "04013",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.807,
+  "n_lines": 10,
+  "mean_score": 0.9868,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ROBERT PERALTA",
+      "score": 0.9901,
+      "box": [
+        116,
+        90,
+        426,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA|+1-304-416-8091 |robert.peralta@example.com",
+      "score": 0.9836,
+      "box": [
+        117,
+        152,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentlePath Nursing, 2017.12–2020.12",
+      "score": 0.9842,
+      "box": [
+        116,
+        290,
+        658,
+        313
+      ]
+    },
+    {
+      "text": "-Prepared treatment rooms",
+      "score": 0.9879,
+      "box": [
+        125,
+        314,
+        387,
+        339
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.9921,
+      "box": [
+        126,
+        339,
+        471,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Pediatric Care, Timberline University, 2017",
+      "score": 0.9832,
+      "box": [
+        114,
+        447,
+        624,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of healthcare ethics",
+      "score": 0.9781,
+      "box": [
+        132,
+        472,
+        500,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of patient safety",
+      "score": 0.985,
+      "box": [
+        132,
+        499,
+        465,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ROBERT PERALTA\nCA, USA|+1-304-416-8091 |robert.peralta@example.com\nWORK HISTORY\nRegistered Nurses, GentlePath Nursing, 2017.12–2020.12\n-Prepared treatment rooms\n- Recorded patient weight and height\nEDUCATION\nBachelor's, Pediatric Care, Timberline University, 2017\n• Studied principles of healthcare ethics\n• Studied principles of patient safety"
+}

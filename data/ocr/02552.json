@@ -1,0 +1,148 @@
+{
+  "id": "02552",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.85,
+  "n_lines": 10,
+  "mean_score": 0.9859,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MADISON LAMBERT",
+      "score": 0.9729,
+      "box": [
+        116,
+        90,
+        448,
+        120
+      ]
+    },
+    {
+      "text": "AR, USA|+1-640-722-7902 |madison.lambert@example.com",
+      "score": 0.9907,
+      "box": [
+        116,
+        152,
+        695,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9813,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datapoint Labs, 2020.01–2023.01",
+      "score": 0.9897,
+      "box": [
+        116,
+        290,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9892,
+      "box": [
+        127,
+        315,
+        418,
+        339
+      ]
+    },
+    {
+      "text": "- Monitored application logs",
+      "score": 0.979,
+      "box": [
+        126,
+        339,
+        385,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Brightfield Ridge University, 2019",
+      "score": 0.9834,
+      "box": [
+        116,
+        449,
+        614,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in software lifecycle models",
+      "score": 0.9942,
+      "box": [
+        133,
+        474,
+        621,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in SQL and data querying",
+      "score": 0.98,
+      "box": [
+        133,
+        497,
+        604,
+        524
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "MADISON LAMBERT\nAR, USA|+1-640-722-7902 |madison.lambert@example.com\nWORK HISTORY\nSoftware Developers, Datapoint Labs, 2020.01–2023.01\n- Implemented logging features\n- Monitored application logs\nEDUCATION\nAssociate's degree, Brightfield Ridge University, 2019\n• Completed coursework in software lifecycle models\n• Completed coursework in SQL and data querying"
+}

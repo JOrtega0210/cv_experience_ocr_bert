@@ -1,0 +1,226 @@
+{
+  "id": "15873",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.968,
+  "n_lines": 16,
+  "mean_score": 0.9847,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JENNIFER MATHIS",
+      "score": 0.9865,
+      "box": [
+        116,
+        90,
+        420,
+        120
+      ]
+    },
+    {
+      "text": "GA, USA|+1-815-902-5602 |jennifer.mathis@example.com",
+      "score": 0.9919,
+      "box": [
+        117,
+        152,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9801,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Group, 2020.10–2023.01",
+      "score": 0.9817,
+      "box": [
+        114,
+        289,
+        673,
+        314
+      ]
+    },
+    {
+      "text": "-Directed financial system architecture",
+      "score": 0.9932,
+      "box": [
+        125,
+        314,
+        488,
+        338
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9843,
+      "box": [
+        127,
+        340,
+        512,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Group, 2017.10–2020.01",
+      "score": 0.9801,
+      "box": [
+        114,
+        381,
+        673,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed accounting estimates",
+      "score": 0.9787,
+      "box": [
+        126,
+        406,
+        437,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared working capital analysis",
+      "score": 0.9863,
+      "box": [
+        126,
+        431,
+        453,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Advisors, 2014.03–2016.06",
+      "score": 0.9892,
+      "box": [
+        115,
+        472,
+        712,
+        495
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9731,
+      "box": [
+        125,
+        496,
+        439,
+        521
+      ]
+    },
+    {
+      "text": "- Updated accounting policies documentation",
+      "score": 0.9633,
+      "box": [
+        128,
+        523,
+        546,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Public Accounting, Silverview University, 2013",
+      "score": 0.9822,
+      "box": [
+        115,
+        632,
+        653,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of financial planning",
+      "score": 0.9887,
+      "box": [
+        132,
+        656,
+        503,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in expense cycle management",
+      "score": 0.9966,
+      "box": [
+        135,
+        683,
+        650,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JENNIFER MATHIS\nGA, USA|+1-815-902-5602 |jennifer.mathis@example.com\nWORK HISTORY\nAccountants Auditors, AccuLedger Group, 2020.10–2023.01\n-Directed financial system architecture\n- Designed financial control environments\nAccountants Auditors, FairBalance Group, 2017.10–2020.01\n- Reviewed accounting estimates\n- Prepared working capital analysis\nAccountants Auditors, ClearBalance Advisors, 2014.03–2016.06\n- Reviewed timesheets for payroll\n- Updated accounting policies documentation\nEDUCATION\nBachelor's, Public Accounting, Silverview University, 2013\n• Studied principles of financial planning\n• Completed coursework in expense cycle management"
+}

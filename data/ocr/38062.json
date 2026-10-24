@@ -1,0 +1,161 @@
+{
+  "id": "38062",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.743,
+  "n_lines": 11,
+  "mean_score": 0.9835,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JIMIA CHURCH",
+      "score": 0.9711,
+      "box": [
+        116,
+        90,
+        360,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-352-676-8707 |jimia.church@example.com",
+      "score": 0.9792,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Group, 2020.04–2023.01",
+      "score": 0.9875,
+      "box": [
+        115,
+        290,
+        673,
+        313
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.9912,
+      "box": [
+        126,
+        315,
+        481,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed credit memos",
+      "score": 0.9832,
+      "box": [
+        126,
+        340,
+        364,
+        361
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Business Economics, Valley View University, 2019",
+      "score": 0.99,
+      "box": [
+        115,
+        449,
+        674,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Information Systems, Silver Creek University, 2017",
+      "score": 0.9809,
+      "box": [
+        114,
+        472,
+        697,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of microeconomics",
+      "score": 0.9857,
+      "box": [
+        134,
+        499,
+        493,
+        522
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial compliance basics",
+      "score": 0.9667,
+      "box": [
+        135,
+        524,
+        641,
+        547
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "JIMIA CHURCH\nNY, USA|+1-352-676-8707 |jimia.church@example.com\nWORK HISTORY\nAccountants Auditors, FairBalance Group, 2020.04–2023.01\n- Processed expense reimbursements\n- Reviewed credit memos\nEDUCATION\nMaster's, Business Economics, Valley View University, 2019\nBachelor's, Information Systems, Silver Creek University, 2017\n• Studied principles of microeconomics\n• Completed coursework in financial compliance basics"
+}

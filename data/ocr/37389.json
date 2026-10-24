@@ -1,0 +1,200 @@
+{
+  "id": "37389",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.842,
+  "n_lines": 14,
+  "mean_score": 0.9809,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JASON KIRK",
+      "score": 0.9844,
+      "box": [
+        116,
+        90,
+        324,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-936-718-9900 |jason.kirk@example.com",
+      "score": 0.9848,
+      "box": [
+        115,
+        150,
+        629,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9778,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Services, 2021.06–2023.01",
+      "score": 0.9939,
+      "box": [
+        115,
+        289,
+        691,
+        313
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9679,
+      "box": [
+        125,
+        313,
+        505,
+        339
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9544,
+      "box": [
+        126,
+        339,
+        525,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Accounting, 2019.11–2021.06",
+      "score": 0.9843,
+      "box": [
+        114,
+        381,
+        728,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9794,
+      "box": [
+        125,
+        406,
+        440,
+        431
+      ]
+    },
+    {
+      "text": "- Maintained vendor records",
+      "score": 0.983,
+      "box": [
+        126,
+        432,
+        390,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Financial Accounting, Skyview University, 223",
+      "score": 0.9652,
+      "box": [
+        115,
+        541,
+        642,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Operations Management, Amber Hills University, 2022",
+      "score": 0.9851,
+      "box": [
+        114,
+        565,
+        729,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in supply chain accounting",
+      "score": 0.9905,
+      "box": [
+        133,
+        590,
+        612,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit planning",
+      "score": 0.9842,
+      "box": [
+        134,
+        615,
+        519,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "JASON KIRK\nNY, USA|+1-936-718-9900 |jason.kirk@example.com\nWORK HISTORY\nAccountants Auditors, ClearBooks Services, 2021.06–2023.01\n- Established cost management systems\n- Developed regulatory reporting strategies\nAccountants Auditors, EverBalance Accounting, 2019.11–2021.06\n- Reviewed timesheets for payroll\n- Maintained vendor records\nEDUCATION\nMaster's, Financial Accounting, Skyview University, 223\nBachelor's, Operations Management, Amber Hills University, 2022\n• Completed coursework in supply chain accounting\n• Completed coursework in audit planning"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "11480",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.898,
+  "n_lines": 13,
+  "mean_score": 0.9866,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JACOBWALL",
+      "score": 0.999,
+      "box": [
+        114,
+        88,
+        342,
+        122
+      ]
+    },
+    {
+      "text": "DE, USA|+1-298-568-1465 |jacob.wall@example.com",
+      "score": 0.9734,
+      "box": [
+        116,
+        151,
+        633,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.983,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skybridge Software, 2020.11–2022.06",
+      "score": 0.9862,
+      "box": [
+        115,
+        288,
+        677,
+        314
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.9828,
+      "box": [
+        125,
+        313,
+        542,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9669,
+      "box": [
+        127,
+        340,
+        515,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Corelink Software, 2018.09–2020.05",
+      "score": 0.9933,
+      "box": [
+        116,
+        382,
+        661,
+        405
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.9818,
+      "box": [
+        127,
+        408,
+        404,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9937,
+      "box": [
+        126,
+        431,
+        604,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearhaven University, 2015",
+      "score": 0.9961,
+      "box": [
+        115,
+        541,
+        489,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in microprocessor programming",
+      "score": 0.9742,
+      "box": [
+        134,
+        566,
+        659,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in data structures implementation",
+      "score": 0.9972,
+      "box": [
+        135,
+        591,
+        674,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JACOBWALL\nDE, USA|+1-298-568-1465 |jacob.wall@example.com\nWORK HISTORY\nSoftware Developers, Skybridge Software, 2020.11–2022.06\n- Defined technical documentation standards\n- Implemented access control frameworks\nSoftware Developers, Corelink Software, 2018.09–2020.05\n- Updated database schemas\n- Implemented basic features in existing codebases\nEDUCATION\nBachelor's, Clearhaven University, 2015\n• Completed coursework in microprocessor programming\n• Completed coursework in data structures implementation"
+}

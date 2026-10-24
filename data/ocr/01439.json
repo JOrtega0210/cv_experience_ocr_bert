@@ -1,0 +1,148 @@
+{
+  "id": "01439",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.859,
+  "n_lines": 10,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JANE BEST",
+      "score": 0.9815,
+      "box": [
+        115,
+        90,
+        307,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-337-405-4393|jane.best@example.com",
+      "score": 0.9958,
+      "box": [
+        116,
+        151,
+        623,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9802,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewWay Health Group, 2021.07–2023.01",
+      "score": 0.9908,
+      "box": [
+        116,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.976,
+      "box": [
+        127,
+        315,
+        478,
+        339
+      ]
+    },
+    {
+      "text": "- Performed blood glucose testing",
+      "score": 0.9741,
+      "box": [
+        126,
+        339,
+        442,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health and Human Services, Fairmont University, 2023",
+      "score": 0.9788,
+      "box": [
+        114,
+        447,
+        735,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in fluid and electrolyte balance",
+      "score": 0.9839,
+      "box": [
+        134,
+        474,
+        648,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing standards of practice",
+      "score": 0.9785,
+      "box": [
+        134,
+        499,
+        657,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JANE BEST\nAZ, USA|+1-337-405-4393|jane.best@example.com\nWORK HISTORY\nRegistered Nurses, NewWay Health Group, 2021.07–2023.01\n- Prepared medical equipment for use\n- Performed blood glucose testing\nEDUCATION\nBachelor's, Health and Human Services, Fairmont University, 2023\n• Completed coursework in fluid and electrolyte balance\n• Completed coursework in nursing standards of practice"
+}

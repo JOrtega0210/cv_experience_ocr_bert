@@ -1,0 +1,161 @@
+{
+  "id": "56450",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.82,
+  "n_lines": 11,
+  "mean_score": 0.9785,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "STACIE WILLIAMS",
+      "score": 0.9727,
+      "box": [
+        116,
+        90,
+        414,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-251-587-4700|stacie.williams@example.com",
+      "score": 0.9774,
+      "box": [
+        114,
+        150,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9803,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Steps Academy, 2021.10–2023.01",
+      "score": 0.9923,
+      "box": [
+        115,
+        290,
+        832,
+        313
+      ]
+    },
+    {
+      "text": "- Conducted group reading activities",
+      "score": 0.9487,
+      "box": [
+        127,
+        315,
+        463,
+        338
+      ]
+    },
+    {
+      "text": "- Supervised transitions between lessons",
+      "score": 0.9797,
+      "box": [
+        127,
+        340,
+        509,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Educational Practice, Sunrise University, 2022",
+      "score": 0.9694,
+      "box": [
+        116,
+        450,
+        634,
+        470
+      ]
+    },
+    {
+      "text": "Bachelor's, Youth Studies, Brookwood University, 220",
+      "score": 0.9664,
+      "box": [
+        114,
+        472,
+        627,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of differentiated instruction",
+      "score": 0.9917,
+      "box": [
+        135,
+        500,
+        563,
+        520
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational assessment tools",
+      "score": 0.9864,
+      "box": [
+        136,
+        525,
+        669,
+        545
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "STACIE WILLIAMS\nVA, USA|+1-251-587-4700|stacie.williams@example.com\nWORK HISTORY\nElementary Middle School Teachers, Little Steps Academy, 2021.10–2023.01\n- Conducted group reading activities\n- Supervised transitions between lessons\nEDUCATION\nMaster's, Educational Practice, Sunrise University, 2022\nBachelor's, Youth Studies, Brookwood University, 220\n• Studied principles of differentiated instruction\n• Completed coursework in foundational assessment tools"
+}

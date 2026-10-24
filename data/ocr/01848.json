@@ -1,0 +1,226 @@
+{
+  "id": "01848",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.95,
+  "n_lines": 16,
+  "mean_score": 0.985,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LORIE SNYDER",
+      "score": 0.9687,
+      "box": [
+        115,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-819-982-7858| lorie.snyder@example.com",
+      "score": 0.9877,
+      "box": [
+        116,
+        151,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunLife Nursing Services, 2020.12–2023.01",
+      "score": 0.9913,
+      "box": [
+        116,
+        290,
+        708,
+        313
+      ]
+    },
+    {
+      "text": "- Managed patient outcome evaluation systems",
+      "score": 0.986,
+      "box": [
+        126,
+        314,
+        566,
+        339
+      ]
+    },
+    {
+      "text": "- Supervised multidisciplinary care teams",
+      "score": 0.9877,
+      "box": [
+        126,
+        339,
+        508,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Care Center, 2017.04–2019.05",
+      "score": 0.9858,
+      "box": [
+        115,
+        381,
+        680,
+        406
+      ]
+    },
+    {
+      "text": "- Provided catheter and ostomy care",
+      "score": 0.9651,
+      "box": [
+        125,
+        405,
+        466,
+        432
+      ]
+    },
+    {
+      "text": "- Provided pediatric nursing care",
+      "score": 0.9889,
+      "box": [
+        126,
+        430,
+        431,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Life Nursing, 2014.04–2016.05",
+      "score": 0.9902,
+      "box": [
+        116,
+        473,
+        664,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9716,
+      "box": [
+        125,
+        496,
+        435,
+        521
+      ]
+    },
+    {
+      "text": "- Collected laboratory specimens",
+      "score": 0.9943,
+      "box": [
+        126,
+        521,
+        434,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Studies, Riverbend University, 2009",
+      "score": 0.9882,
+      "box": [
+        115,
+        632,
+        630,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in human anatomy and physiology",
+      "score": 0.9874,
+      "box": [
+        133,
+        656,
+        683,
+        683
+      ]
+    },
+    {
+      "text": "• Completed coursework in geriatric nursing",
+      "score": 0.9817,
+      "box": [
+        135,
+        683,
+        537,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "LORIE SNYDER\nAZ, USA|+1-819-982-7858| lorie.snyder@example.com\nWORK HISTORY\nRegistered Nurses, SunLife Nursing Services, 2020.12–2023.01\n- Managed patient outcome evaluation systems\n- Supervised multidisciplinary care teams\nRegistered Nurses, Harmony Care Center, 2017.04–2019.05\n- Provided catheter and ostomy care\n- Provided pediatric nursing care\nRegistered Nurses, Helping Life Nursing, 2014.04–2016.05\n- Monitored patient dietary needs\n- Collected laboratory specimens\nEDUCATION\nBachelor's, Clinical Studies, Riverbend University, 2009\n• Completed coursework in human anatomy and physiology\n• Completed coursework in geriatric nursing"
+}

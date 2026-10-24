@@ -1,0 +1,239 @@
+{
+  "id": "14130",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.031,
+  "n_lines": 17,
+  "mean_score": 0.983,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SHAWNGORDON",
+      "score": 0.9993,
+      "box": [
+        116,
+        90,
+        403,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-504-285-3053 |shawn.gordon@example.com",
+      "score": 0.9711,
+      "box": [
+        115,
+        150,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9839,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Hands Health Services, 2020.06–2023.01",
+      "score": 0.987,
+      "box": [
+        115,
+        289,
+        777,
+        314
+      ]
+    },
+    {
+      "text": "- Supervised multidisciplinary care teams",
+      "score": 0.9866,
+      "box": [
+        126,
+        314,
+        509,
+        339
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9598,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Nest Nursing, 2016.08–2019.04",
+      "score": 0.9779,
+      "box": [
+        115,
+        381,
+        664,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with emergency interventions",
+      "score": 0.9977,
+      "box": [
+        126,
+        406,
+        497,
+        431
+      ]
+    },
+    {
+      "text": "- Educated patients on treatment plans",
+      "score": 0.9824,
+      "box": [
+        126,
+        431,
+        488,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIWay Medical Group, 2013.01–2015.09",
+      "score": 0.9759,
+      "box": [
+        116,
+        473,
+        699,
+        496
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9903,
+      "box": [
+        125,
+        496,
+        480,
+        521
+      ]
+    },
+    {
+      "text": "- Maintained infection control protocols",
+      "score": 0.9675,
+      "box": [
+        126,
+        521,
+        486,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Health Care Technology, Crestview University, 2012",
+      "score": 0.9809,
+      "box": [
+        114,
+        631,
+        691,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Education, Rockland University, 2010",
+      "score": 0.9907,
+      "box": [
+        115,
+        658,
+        638,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient-centered care",
+      "score": 0.9723,
+      "box": [
+        135,
+        684,
+        586,
+        704
+      ]
+    },
+    {
+      "text": "• Studied principles of patient identification",
+      "score": 0.9881,
+      "box": [
+        132,
+        706,
+        526,
+        731
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "SHAWNGORDON\nFL, USA|+1-504-285-3053 |shawn.gordon@example.com\nWORK HISTORY\nRegistered Nurses, Harmony Hands Health Services, 2020.06–2023.01\n- Supervised multidisciplinary care teams\n- Directed nursing process improvements\nRegistered Nurses, Caring Nest Nursing, 2016.08–2019.04\n- Assisted with emergency interventions\n- Educated patients on treatment plans\nRegistered Nurses, WelIWay Medical Group, 2013.01–2015.09\n- Provided patient education materials\n- Maintained infection control protocols\nEDUCATION\nMaster's, Health Care Technology, Crestview University, 2012\nBachelor's, Health Education, Rockland University, 2010\n• Completed coursework in patient-centered care\n• Studied principles of patient identification"
+}

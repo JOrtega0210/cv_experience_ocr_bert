@@ -1,0 +1,135 @@
+{
+  "id": "50190",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.747,
+  "n_lines": 9,
+  "mean_score": 0.9853,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SHANE MERRITT",
+      "score": 0.9913,
+      "box": [
+        116,
+        90,
+        394,
+        120
+      ]
+    },
+    {
+      "text": "TX, USA|+1-915-358-7252 |shane.merritt@example.com",
+      "score": 0.9806,
+      "box": [
+        114,
+        150,
+        661,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9827,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronStone Contractors, 2019.08–2022.02",
+      "score": 0.9866,
+      "box": [
+        115,
+        290,
+        713,
+        313
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9881,
+      "box": [
+        125,
+        314,
+        540,
+        337
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.9675,
+      "box": [
+        127,
+        340,
+        405,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Methods, Greenwood High School, 2016",
+      "score": 0.9873,
+      "box": [
+        116,
+        449,
+        876,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of site drainage",
+      "score": 0.9846,
+      "box": [
+        133,
+        474,
+        461,
+        498
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "SHANE MERRITT\nTX, USA|+1-915-358-7252 |shane.merritt@example.com\nWORK HISTORY\nConstruction Laborers, IronStone Contractors, 2019.08–2022.02\n- Carried materials to designated work areas\n- Installed insulation materials\nEDUCATION\nHigh school graduate/GED, Construction Methods, Greenwood High School, 2016\n• Studied principles of site drainage"
+}

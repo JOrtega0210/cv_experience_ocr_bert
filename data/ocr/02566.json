@@ -1,0 +1,226 @@
+{
+  "id": "02566",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.966,
+  "n_lines": 16,
+  "mean_score": 0.9775,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RYAN ZIMMERMAN",
+      "score": 0.964,
+      "box": [
+        116,
+        90,
+        430,
+        120
+      ]
+    },
+    {
+      "text": "AR, USA|+1-266-773-8334 |ryan.zimmerman@example.com",
+      "score": 0.9779,
+      "box": [
+        116,
+        152,
+        697,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleLife Health, 2019.11–2023.01",
+      "score": 0.9815,
+      "box": [
+        116,
+        290,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.9841,
+      "box": [
+        127,
+        315,
+        520,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.9643,
+      "box": [
+        127,
+        339,
+        517,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHands Nursing, 2016.09–2019.11",
+      "score": 0.9837,
+      "box": [
+        116,
+        382,
+        654,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored patient response to treatments",
+      "score": 0.9528,
+      "box": [
+        125,
+        406,
+        522,
+        431
+      ]
+    },
+    {
+      "text": "- Interpreted laboratory results",
+      "score": 0.982,
+      "box": [
+        126,
+        430,
+        410,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIPath Medical Group, 2011.08–2014.10",
+      "score": 0.9888,
+      "box": [
+        116,
+        472,
+        701,
+        496
+      ]
+    },
+    {
+      "text": "- Collected laboratory specimens",
+      "score": 0.9824,
+      "box": [
+        125,
+        496,
+        434,
+        522
+      ]
+    },
+    {
+      "text": "- Monitored patient alarms",
+      "score": 0.9625,
+      "box": [
+        126,
+        521,
+        372,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9977,
+      "box": [
+        115,
+        585,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Associate's degree, Applied Health Sciences, Clearstone University, 2005",
+      "score": 0.9894,
+      "box": [
+        114,
+        631,
+        800,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of pain management",
+      "score": 0.9755,
+      "box": [
+        132,
+        656,
+        510,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of fall prevention",
+      "score": 0.9723,
+      "box": [
+        133,
+        681,
+        471,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "RYAN ZIMMERMAN\nAR, USA|+1-266-773-8334 |ryan.zimmerman@example.com\nWORK HISTORY\nRegistered Nurses, GentleLife Health, 2019.11–2023.01\n- Established nursing performance metrics\n- Implemented patient monitoring systems\nRegistered Nurses, KindHands Nursing, 2016.09–2019.11\n- Monitored patient response to treatments\n- Interpreted laboratory results\nRegistered Nurses, WelIPath Medical Group, 2011.08–2014.10\n- Collected laboratory specimens\n- Monitored patient alarms\nEDUCATION\nAssociate's degree, Applied Health Sciences, Clearstone University, 2005\n• Studied principles of pain management\n• Studied principles of fall prevention"
+}

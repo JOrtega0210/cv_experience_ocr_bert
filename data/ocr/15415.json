@@ -1,0 +1,148 @@
+{
+  "id": "15415",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.894,
+  "n_lines": 10,
+  "mean_score": 0.9794,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TYRIN MCGEE",
+      "score": 0.9703,
+      "box": [
+        115,
+        90,
+        350,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-893-896-4736|tyrin.mcgee@example.com",
+      "score": 0.9698,
+      "box": [
+        116,
+        151,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9825,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Field Academy, 2022.06–2023.01",
+      "score": 0.9745,
+      "box": [
+        116,
+        290,
+        834,
+        313
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9747,
+      "box": [
+        126,
+        313,
+        410,
+        338
+      ]
+    },
+    {
+      "text": "- Set up classroom technology tools",
+      "score": 0.9763,
+      "box": [
+        126,
+        339,
+        460,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, General Academic Studies, Woodcrest University, 2020",
+      "score": 0.9653,
+      "box": [
+        114,
+        447,
+        740,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of classroom engagement",
+      "score": 0.9909,
+      "box": [
+        132,
+        472,
+        598,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of student comprehension",
+      "score": 0.9906,
+      "box": [
+        133,
+        499,
+        558,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "TYRIN MCGEE\nGA, USA |+1-893-896-4736|tyrin.mcgee@example.com\nWORK HISTORY\nElementary Middle School Teachers, Bright Field Academy, 2022.06–2023.01\n- Provided math drill exercises\n- Set up classroom technology tools\nEDUCATION\nBachelor's, General Academic Studies, Woodcrest University, 2020\n• Studied fundamentals of classroom engagement\n• Studied principles of student comprehension"
+}

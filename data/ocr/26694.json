@@ -1,0 +1,200 @@
+{
+  "id": "26694",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.808,
+  "n_lines": 14,
+  "mean_score": 0.9804,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JONATHAN MCCLURE",
+      "score": 0.9705,
+      "box": [
+        117,
+        89,
+        479,
+        120
+      ]
+    },
+    {
+      "text": "MA, USA|+1-396-330-8244 |jonathan.mcclure@example.com",
+      "score": 0.9846,
+      "box": [
+        115,
+        150,
+        702,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9789,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleCare Health, 2020.12–2023.01",
+      "score": 0.9897,
+      "box": [
+        116,
+        290,
+        647,
+        313
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9885,
+      "box": [
+        126,
+        315,
+        474,
+        338
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9605,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueWay Nursing, 2018.10–2020.12",
+      "score": 0.9717,
+      "box": [
+        115,
+        381,
+        638,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobility",
+      "score": 0.9845,
+      "box": [
+        125,
+        406,
+        409,
+        431
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9934,
+      "box": [
+        126,
+        430,
+        399,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Public Health, Brookridge University, 2017",
+      "score": 0.9657,
+      "box": [
+        115,
+        540,
+        598,
+        563
+      ]
+    },
+    {
+      "text": "Bachelor's, Allied Health, Riverdale University, 2015",
+      "score": 0.9607,
+      "box": [
+        115,
+        566,
+        600,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing standards of practice",
+      "score": 0.9961,
+      "box": [
+        134,
+        592,
+        657,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of clinical supervision",
+      "score": 0.9824,
+      "box": [
+        134,
+        616,
+        552,
+        638
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "JONATHAN MCCLURE\nMA, USA|+1-396-330-8244 |jonathan.mcclure@example.com\nWORK HISTORY\nRegistered Nurses, GentleCare Health, 2020.12–2023.01\n- Developed care quality benchmarks\n- Directed nursing process improvements\nRegistered Nurses, TrueWay Nursing, 2018.10–2020.12\n- Assisted with patient mobility\n- Recorded patient vital signs\nEDUCATION\nMaster's, Public Health, Brookridge University, 2017\nBachelor's, Allied Health, Riverdale University, 2015\n• Completed coursework in nursing standards of practice\n• Studied fundamentals of clinical supervision"
+}

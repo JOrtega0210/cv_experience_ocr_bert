@@ -1,0 +1,265 @@
+{
+  "id": "61076",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.95,
+  "n_lines": 19,
+  "mean_score": 0.9797,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LISA VINCENT",
+      "score": 0.9599,
+      "box": [
+        116,
+        90,
+        351,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-985-895-7285|lisa.vincent@example.com",
+      "score": 0.986,
+      "box": [
+        115,
+        150,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightBridge Health Services, 2019.02–2023.01",
+      "score": 0.9797,
+      "box": [
+        115,
+        289,
+        741,
+        314
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.9736,
+      "box": [
+        126,
+        313,
+        424,
+        339
+      ]
+    },
+    {
+      "text": "- Established quality assurance systems",
+      "score": 0.9872,
+      "box": [
+        126,
+        339,
+        500,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Hands Care, 2015.03–2019.02",
+      "score": 0.9835,
+      "box": [
+        115,
+        381,
+        664,
+        406
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.9915,
+      "box": [
+        126,
+        407,
+        455,
+        430
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9591,
+      "box": [
+        126,
+        430,
+        510,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHands Nursing, 2010.08–2014.07",
+      "score": 0.9708,
+      "box": [
+        116,
+        473,
+        654,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed diagnostic imaging results",
+      "score": 0.9572,
+      "box": [
+        125,
+        496,
+        479,
+        521
+      ]
+    },
+    {
+      "text": "- Provided wound care management",
+      "score": 0.9748,
+      "box": [
+        126,
+        521,
+        467,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverPath Nursing Services, 2006.02–2010.02",
+      "score": 0.9838,
+      "box": [
+        116,
+        565,
+        726,
+        589
+      ]
+    },
+    {
+      "text": "- Prepared patients for examinations",
+      "score": 0.9705,
+      "box": [
+        127,
+        590,
+        466,
+        613
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9951,
+      "box": [
+        126,
+        615,
+        531,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Management, Silverwood University, 202",
+      "score": 0.9745,
+      "box": [
+        114,
+        723,
+        683,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of health screening",
+      "score": 0.9891,
+      "box": [
+        132,
+        747,
+        495,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in metabolic disorders basics",
+      "score": 0.9949,
+      "box": [
+        134,
+        772,
+        635,
+        796
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "LISA VINCENT\nWI, USA|+1-985-895-7285|lisa.vincent@example.com\nWORK HISTORY\nRegistered Nurses, BrightBridge Health Services, 2019.02–2023.01\n- Led infection control programs\n- Established quality assurance systems\nRegistered Nurses, Helping Hands Care, 2015.03–2019.02\n- Led nursing workflow optimization\n- Directed nursing process improvements\nRegistered Nurses, KindHands Nursing, 2010.08–2014.07\n- Reviewed diagnostic imaging results\n- Provided wound care management\nRegistered Nurses, EverPath Nursing Services, 2006.02–2010.02\n- Prepared patients for examinations\n- Recorded medication administration times\nEDUCATION\nBachelor's, Health Management, Silverwood University, 202\n• Studied principles of health screening\n• Completed coursework in metabolic disorders basics"
+}

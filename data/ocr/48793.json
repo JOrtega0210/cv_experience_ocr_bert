@@ -1,0 +1,148 @@
+{
+  "id": "48793",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.743,
+  "n_lines": 10,
+  "mean_score": 0.976,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MADALYN BRYAN",
+      "score": 0.978,
+      "box": [
+        116,
+        90,
+        413,
+        120
+      ]
+    },
+    {
+      "text": "TN, USA|+1-582-761-8399 |madalyn.bryan@example.com",
+      "score": 0.976,
+      "box": [
+        116,
+        151,
+        677,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9819,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHands Health Group, 2022.03–2023.01",
+      "score": 0.9854,
+      "box": [
+        115,
+        289,
+        706,
+        314
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9609,
+      "box": [
+        127,
+        315,
+        444,
+        338
+      ]
+    },
+    {
+      "text": "- Monitored patient pain levels",
+      "score": 0.965,
+      "box": [
+        126,
+        339,
+        409,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Geriatric Care, Fairmont University, 222",
+      "score": 0.9712,
+      "box": [
+        115,
+        449,
+        606,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in delegation principles",
+      "score": 0.9627,
+      "box": [
+        132,
+        473,
+        580,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of vital signs monitoring",
+      "score": 0.9807,
+      "box": [
+        133,
+        497,
+        574,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "MADALYN BRYAN\nTN, USA|+1-582-761-8399 |madalyn.bryan@example.com\nWORK HISTORY\nRegistered Nurses, NewHands Health Group, 2022.03–2023.01\n- Collected patient health histories\n- Monitored patient pain levels\nEDUCATION\nBachelor's, Geriatric Care, Fairmont University, 222\n• Completed coursework in delegation principles\n• Studied fundamentals of vital signs monitoring"
+}

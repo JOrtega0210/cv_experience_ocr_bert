@@ -1,0 +1,148 @@
+{
+  "id": "27332",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.735,
+  "n_lines": 10,
+  "mean_score": 0.9824,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ROBIN LINDSEY",
+      "score": 0.9497,
+      "box": [
+        116,
+        90,
+        381,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-690-976-6543 |robin.lindsey@example.com",
+      "score": 0.9857,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9825,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Path Nursing, 2021.09–2021.11",
+      "score": 0.9859,
+      "box": [
+        116,
+        290,
+        662,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.9879,
+      "box": [
+        125,
+        314,
+        483,
+        339
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.9863,
+      "box": [
+        126,
+        339,
+        418,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Community Health, Prairie View University, 2006",
+      "score": 0.9719,
+      "box": [
+        115,
+        449,
+        676,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in perioperative care",
+      "score": 0.9897,
+      "box": [
+        133,
+        474,
+        557,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of patient identification",
+      "score": 0.986,
+      "box": [
+        135,
+        500,
+        526,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ROBIN LINDSEY\nMI, USA|+1-690-976-6543 |robin.lindsey@example.com\nWORK HISTORY\nRegistered Nurses, Caring Path Nursing, 2021.09–2021.11\n- Assisted with emergency procedures\n- Provided post-procedure care\nEDUCATION\nBachelor's, Community Health, Prairie View University, 2006\n• Completed coursework in perioperative care\n• Studied principles of patient identification"
+}

@@ -1,0 +1,200 @@
+{
+  "id": "25675",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.814,
+  "n_lines": 14,
+  "mean_score": 0.9837,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LOREN NGUYEN",
+      "score": 0.9804,
+      "box": [
+        116,
+        90,
+        388,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-374-816-4722 | loren.nguyen@example.com",
+      "score": 0.9792,
+      "box": [
+        115,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonefield Software, 2020.06–2023.01",
+      "score": 0.9879,
+      "box": [
+        115,
+        290,
+        675,
+        313
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9937,
+      "box": [
+        126,
+        315,
+        451,
+        338
+      ]
+    },
+    {
+      "text": "- Designed high-availability systems",
+      "score": 0.9813,
+      "box": [
+        126,
+        339,
+        461,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Openfield Labs, 2017.11–2020.06",
+      "score": 0.9789,
+      "box": [
+        115,
+        381,
+        637,
+        406
+      ]
+    },
+    {
+      "text": "- Optimized simple queries",
+      "score": 0.9911,
+      "box": [
+        125,
+        406,
+        377,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9849,
+      "box": [
+        125,
+        430,
+        436,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Autumn Ridge University, 2019",
+      "score": 0.9725,
+      "box": [
+        115,
+        541,
+        495,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Parkview University, 2017",
+      "score": 0.9911,
+      "box": [
+        115,
+        565,
+        466,
+        588
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of cybersecurity",
+      "score": 0.9707,
+      "box": [
+        132,
+        590,
+        502,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in SQL and data querying",
+      "score": 0.9764,
+      "box": [
+        133,
+        615,
+        603,
+        641
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "LOREN NGUYEN\nMA, USA|+1-374-816-4722 | loren.nguyen@example.com\nWORK HISTORY\nSoftware Developers, Stonefield Software, 2020.06–2023.01\n- Defined data governance policies\n- Designed high-availability systems\nSoftware Developers, Openfield Labs, 2017.11–2020.06\n- Optimized simple queries\n- Reviewed test coverage reports\nEDUCATION\nMaster's, Autumn Ridge University, 2019\nBachelor's, Parkview University, 2017\n• Studied fundamentals of cybersecurity\n• Completed coursework in SQL and data querying"
+}

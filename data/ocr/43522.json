@@ -1,0 +1,239 @@
+{
+  "id": "43522",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.938,
+  "n_lines": 17,
+  "mean_score": 0.9816,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ELANA MILLER",
+      "score": 0.9871,
+      "box": [
+        117,
+        90,
+        366,
+        121
+      ]
+    },
+    {
+      "text": "OK, USA|+1-846-808-2232|elana.miller@example.com",
+      "score": 0.9569,
+      "box": [
+        115,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9796,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Advisors, 2020.07–2023.01",
+      "score": 0.9923,
+      "box": [
+        115,
+        290,
+        704,
+        312
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9728,
+      "box": [
+        126,
+        314,
+        495,
+        339
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9807,
+      "box": [
+        126,
+        339,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Fairview Financial Services, 2017.12–2020.07",
+      "score": 0.9716,
+      "box": [
+        114,
+        381,
+        753,
+        406
+      ]
+    },
+    {
+      "text": "- Supervised junior accountants",
+      "score": 0.9947,
+      "box": [
+        126,
+        406,
+        423,
+        431
+      ]
+    },
+    {
+      "text": "- Managed accounts receivable cycles",
+      "score": 0.9809,
+      "box": [
+        126,
+        431,
+        482,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Services, 2013.11–2016.06",
+      "score": 0.988,
+      "box": [
+        115,
+        471,
+        739,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with internal control testing",
+      "score": 0.9877,
+      "box": [
+        125,
+        496,
+        474,
+        522
+      ]
+    },
+    {
+      "text": "- Updated fixed asset registers",
+      "score": 0.9731,
+      "box": [
+        127,
+        522,
+        413,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Enterprise Management, Canyon View University, 205",
+      "score": 0.9859,
+      "box": [
+        114,
+        631,
+        720,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Commerce, Willowstone University, 2003",
+      "score": 0.9754,
+      "box": [
+        115,
+        658,
+        606,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of managerial accounting",
+      "score": 0.9822,
+      "box": [
+        133,
+        681,
+        551,
+        707
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial accounting",
+      "score": 0.9787,
+      "box": [
+        133,
+        706,
+        572,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "ELANA MILLER\nOK, USA|+1-846-808-2232|elana.miller@example.com\nWORK HISTORY\nAccountants Auditors, CoreBalance Advisors, 2020.07–2023.01\n- Directed accounting training programs\n- Directed accounting operations planning\nAccountants Auditors, Fairview Financial Services, 2017.12–2020.07\n- Supervised junior accountants\n- Managed accounts receivable cycles\nAccountants Auditors, Accurate Ledger Services, 2013.11–2016.06\n- Assisted with internal control testing\n- Updated fixed asset registers\nEDUCATION\nMaster's, Enterprise Management, Canyon View University, 205\nBachelor's, Commerce, Willowstone University, 2003\n• Studied principles of managerial accounting\n• Completed coursework in financial accounting"
+}

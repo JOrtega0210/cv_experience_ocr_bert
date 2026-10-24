@@ -1,0 +1,213 @@
+{
+  "id": "46605",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.848,
+  "n_lines": 15,
+  "mean_score": 0.9834,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KARIM NORRIS",
+      "score": 0.9948,
+      "box": [
+        116,
+        90,
+        367,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-974-775-2936|karim.norris@example.com",
+      "score": 0.9907,
+      "box": [
+        115,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Workline Builders, 2020.01–2023.01",
+      "score": 0.9907,
+      "box": [
+        115,
+        290,
+        669,
+        313
+      ]
+    },
+    {
+      "text": "- Supervised multiple work crews",
+      "score": 0.961,
+      "box": [
+        126,
+        315,
+        436,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9762,
+      "box": [
+        125,
+        338,
+        477,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearTrack Construction, 2017.01–2020.01",
+      "score": 0.9952,
+      "box": [
+        116,
+        382,
+        732,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared structural joints",
+      "score": 0.9856,
+      "box": [
+        125,
+        406,
+        375,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed installation quality",
+      "score": 0.9662,
+      "box": [
+        125,
+        429,
+        405,
+        458
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidLine Contractors, 2012.04–2015.04",
+      "score": 0.9876,
+      "box": [
+        116,
+        472,
+        708,
+        495
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9857,
+      "box": [
+        125,
+        496,
+        424,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with roofing material handling",
+      "score": 0.9553,
+      "box": [
+        127,
+        523,
+        498,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Coordination, Riverbend High School, 2011",
+      "score": 0.9916,
+      "box": [
+        116,
+        632,
+        900,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of site access planning",
+      "score": 0.9857,
+      "box": [
+        132,
+        656,
+        529,
+        681
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "KARIM NORRIS\nPA, USA|+1-974-775-2936|karim.norris@example.com\nWORK HISTORY\nConstruction Laborers, Workline Builders, 2020.01–2023.01\n- Supervised multiple work crews\n- Reviewed material quality standards\nConstruction Laborers, ClearTrack Construction, 2017.01–2020.01\n- Prepared structural joints\n- Reviewed installation quality\nConstruction Laborers, SolidLine Contractors, 2012.04–2015.04\n- Followed blueprint instructions\n- Assisted with roofing material handling\nEDUCATION\nHigh school graduate/GED, Construction Coordination, Riverbend High School, 2011\n• Studied principles of site access planning"
+}

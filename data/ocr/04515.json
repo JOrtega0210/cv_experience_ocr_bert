@@ -1,0 +1,265 @@
+{
+  "id": "04515",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.113,
+  "n_lines": 19,
+  "mean_score": 0.9816,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DEANNA KIM",
+      "score": 0.9572,
+      "box": [
+        116,
+        90,
+        332,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-502-637-4562 |deanna.kim@example.com",
+      "score": 0.9823,
+      "box": [
+        117,
+        151,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellBridge Health Group, 2019.04–2023.01",
+      "score": 0.9561,
+      "box": [
+        115,
+        289,
+        705,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented care pathway frameworks",
+      "score": 0.9785,
+      "box": [
+        127,
+        315,
+        506,
+        338
+      ]
+    },
+    {
+      "text": "- Established quality assurance systems",
+      "score": 0.9867,
+      "box": [
+        126,
+        339,
+        500,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Hands Health Services, 2015.07–2019.04",
+      "score": 0.9826,
+      "box": [
+        115,
+        381,
+        779,
+        406
+      ]
+    },
+    {
+      "text": "- Developed nursing training programs",
+      "score": 0.9887,
+      "box": [
+        126,
+        406,
+        484,
+        432
+      ]
+    },
+    {
+      "text": "- Managed clinical compliance programs",
+      "score": 0.9895,
+      "box": [
+        126,
+        430,
+        503,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearSpring Health Group, 2011.03–2014.12",
+      "score": 0.9793,
+      "box": [
+        114,
+        470,
+        717,
+        498
+      ]
+    },
+    {
+      "text": "- Managed patient advocacy tasks",
+      "score": 0.9613,
+      "box": [
+        125,
+        498,
+        445,
+        521
+      ]
+    },
+    {
+      "text": "-Documented clinical care activities",
+      "score": 0.9969,
+      "box": [
+        125,
+        521,
+        461,
+        545
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverLife Health Services, 2006.06–2010.03",
+      "score": 0.9842,
+      "box": [
+        116,
+        565,
+        704,
+        588
+      ]
+    },
+    {
+      "text": "- Checked laboratory results",
+      "score": 0.9765,
+      "box": [
+        125,
+        590,
+        391,
+        613
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.9834,
+      "box": [
+        127,
+        615,
+        527,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Support Services, Meadowland University, 2003",
+      "score": 0.9851,
+      "box": [
+        115,
+        725,
+        736,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in therapeutic communication",
+      "score": 0.9837,
+      "box": [
+        133,
+        749,
+        638,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of chronic disease management",
+      "score": 0.9949,
+      "box": [
+        133,
+        774,
+        615,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "DEANNA KIM\nCA, USA|+1-502-637-4562 |deanna.kim@example.com\nWORK HISTORY\nRegistered Nurses, WellBridge Health Group, 2019.04–2023.01\n- Implemented care pathway frameworks\n- Established quality assurance systems\nRegistered Nurses, Harmony Hands Health Services, 2015.07–2019.04\n- Developed nursing training programs\n- Managed clinical compliance programs\nRegistered Nurses, ClearSpring Health Group, 2011.03–2014.12\n- Managed patient advocacy tasks\n-Documented clinical care activities\nRegistered Nurses, EverLife Health Services, 2006.06–2010.03\n- Checked laboratory results\n- Administered injections under supervision\nEDUCATION\nBachelor's, Health Support Services, Meadowland University, 2003\n• Completed coursework in therapeutic communication\n• Studied principles of chronic disease management"
+}

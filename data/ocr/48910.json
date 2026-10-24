@@ -1,0 +1,226 @@
+{
+  "id": "48910",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.842,
+  "n_lines": 16,
+  "mean_score": 0.9807,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TIA NOVAK",
+      "score": 0.9467,
+      "box": [
+        114,
+        88,
+        304,
+        122
+      ]
+    },
+    {
+      "text": "TN, USA|+1-224-855-7443 |tia.novak@example.com",
+      "score": 0.9738,
+      "box": [
+        115,
+        150,
+        624,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9788,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunBridge Nursing, 2020.08–2023.01",
+      "score": 0.9914,
+      "box": [
+        116,
+        290,
+        649,
+        313
+      ]
+    },
+    {
+      "text": "- Developed nursing training programs",
+      "score": 0.9858,
+      "box": [
+        126,
+        314,
+        484,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9817,
+      "box": [
+        126,
+        339,
+        571,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Hands Care, 2018.02–2020.08",
+      "score": 0.9831,
+      "box": [
+        115,
+        381,
+        709,
+        406
+      ]
+    },
+    {
+      "text": "- Managed patient referrals",
+      "score": 0.9431,
+      "box": [
+        127,
+        407,
+        381,
+        430
+      ]
+    },
+    {
+      "text": "- Administered blood transfusions",
+      "score": 0.9963,
+      "box": [
+        127,
+        432,
+        439,
+        453
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenHands Nursing Services, 2013.04–2015.10",
+      "score": 0.9866,
+      "box": [
+        116,
+        473,
+        751,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9893,
+      "box": [
+        125,
+        496,
+        514,
+        522
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobility",
+      "score": 0.972,
+      "box": [
+        127,
+        523,
+        409,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Care, Northcrest University, 2007",
+      "score": 0.9807,
+      "box": [
+        115,
+        632,
+        680,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of safety protocols",
+      "score": 0.9916,
+      "box": [
+        132,
+        656,
+        489,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of continuity of care",
+      "score": 0.9911,
+      "box": [
+        133,
+        681,
+        499,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "TIA NOVAK\nTN, USA|+1-224-855-7443 |tia.novak@example.com\nWORK HISTORY\nRegistered Nurses, SunBridge Nursing, 2020.08–2023.01\n- Developed nursing training programs\n- Implemented clinical decision support systems\nRegistered Nurses, Compassion Hands Care, 2018.02–2020.08\n- Managed patient referrals\n- Administered blood transfusions\nRegistered Nurses, OpenHands Nursing Services, 2013.04–2015.10\n- Assisted with physical therapy exercises\n- Assisted with patient mobility\nEDUCATION\nAssociate's degree, Health Care, Northcrest University, 2007\n• Studied principles of safety protocols\n• Studied principles of continuity of care"
+}

@@ -1,0 +1,265 @@
+{
+  "id": "36791",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.912,
+  "n_lines": 19,
+  "mean_score": 0.9788,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NICO SHELTON",
+      "score": 0.9727,
+      "box": [
+        114,
+        87,
+        372,
+        123
+      ]
+    },
+    {
+      "text": "NY, USA|+1-388-680-7045|nico.shelton@example.com",
+      "score": 0.9861,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9817,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Summit Accounting Services, 2020.02–2023.01",
+      "score": 0.9735,
+      "box": [
+        114,
+        289,
+        764,
+        314
+      ]
+    },
+    {
+      "text": "-Led internal audit functions",
+      "score": 0.9815,
+      "box": [
+        125,
+        313,
+        393,
+        338
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.951,
+      "box": [
+        126,
+        339,
+        525,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Advisors, 2017.03–2020.02",
+      "score": 0.9754,
+      "box": [
+        114,
+        381,
+        687,
+        406
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9683,
+      "box": [
+        126,
+        407,
+        436,
+        430
+      ]
+    },
+    {
+      "text": "- Led internal audit functions",
+      "score": 0.9925,
+      "box": [
+        126,
+        432,
+        392,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Financial, 2014.04–2017.03",
+      "score": 0.964,
+      "box": [
+        114,
+        471,
+        693,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared financial statements",
+      "score": 0.9797,
+      "box": [
+        125,
+        496,
+        419,
+        521
+      ]
+    },
+    {
+      "text": "- Conducted internal audits",
+      "score": 0.9718,
+      "box": [
+        126,
+        522,
+        379,
+        544
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Accounting, 2011.05–2014.04",
+      "score": 0.9924,
+      "box": [
+        115,
+        565,
+        708,
+        588
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.996,
+      "box": [
+        126,
+        590,
+        453,
+        613
+      ]
+    },
+    {
+      "text": "-Maintained chart of accounts",
+      "score": 0.9632,
+      "box": [
+        126,
+        615,
+        408,
+        635
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Organizational Management, Harvest University, 2013",
+      "score": 0.9738,
+      "box": [
+        114,
+        723,
+        727,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in cost accounting",
+      "score": 0.9831,
+      "box": [
+        134,
+        749,
+        535,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in environmental accounting basics",
+      "score": 0.9907,
+      "box": [
+        135,
+        774,
+        692,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "NICO SHELTON\nNY, USA|+1-388-680-7045|nico.shelton@example.com\nWORK HISTORY\nAccountants Auditors, Summit Accounting Services, 2020.02–2023.01\n-Led internal audit functions\n- Developed regulatory reporting strategies\nAccountants Auditors, FairLedger Advisors, 2017.03–2020.02\n- Developed financial risk models\n- Led internal audit functions\nAccountants Auditors, CoreBooks Financial, 2014.04–2017.03\n- Prepared financial statements\n- Conducted internal audits\nAccountants Auditors, EverCount Accounting, 2011.05–2014.04\n- Reviewed expense classifications\n-Maintained chart of accounts\nEDUCATION\nBachelor's, Organizational Management, Harvest University, 2013\n• Completed coursework in cost accounting\n• Completed coursework in environmental accounting basics"
+}

@@ -1,0 +1,265 @@
+{
+  "id": "61361",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.963,
+  "n_lines": 19,
+  "mean_score": 0.9845,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MELISSA CLEMENTS",
+      "score": 0.9908,
+      "box": [
+        117,
+        90,
+        459,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-886-759-1303|melissa.clements@example.com",
+      "score": 0.9905,
+      "box": [
+        115,
+        150,
+        698,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9816,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Advisors, 2019.08–2023.01",
+      "score": 0.9812,
+      "box": [
+        115,
+        290,
+        686,
+        312
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9467,
+      "box": [
+        126,
+        314,
+        525,
+        339
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9874,
+      "box": [
+        126,
+        339,
+        424,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Advisors, 2016.03–2019.08",
+      "score": 0.9863,
+      "box": [
+        115,
+        381,
+        710,
+        406
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9859,
+      "box": [
+        126,
+        406,
+        547,
+        432
+      ]
+    },
+    {
+      "text": "- Directed revenue recognition policies",
+      "score": 0.9729,
+      "box": [
+        126,
+        431,
+        484,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Services, 2012.10–2016.03",
+      "score": 0.9748,
+      "box": [
+        114,
+        471,
+        696,
+        496
+      ]
+    },
+    {
+      "text": "-Reviewed contract accounting",
+      "score": 0.9841,
+      "box": [
+        125,
+        496,
+        421,
+        522
+      ]
+    },
+    {
+      "text": "- Reviewed budget performance",
+      "score": 0.9843,
+      "box": [
+        126,
+        521,
+        427,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Accounting, 2007.08–2011.02",
+      "score": 0.9947,
+      "box": [
+        115,
+        565,
+        728,
+        588
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9861,
+      "box": [
+        126,
+        590,
+        418,
+        613
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.9877,
+      "box": [
+        126,
+        614,
+        409,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Organizational Management, Larkspur University, 2003",
+      "score": 0.9917,
+      "box": [
+        116,
+        725,
+        815,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in governmental accounting basics",
+      "score": 0.9877,
+      "box": [
+        133,
+        749,
+        687,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of enterprise systems",
+      "score": 0.9916,
+      "box": [
+        134,
+        773,
+        553,
+        796
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "MELISSA CLEMENTS\nWI, USA|+1-886-759-1303|melissa.clements@example.com\nWORK HISTORY\nAccountants Auditors, AccuCount Advisors, 2019.08–2023.01\n- Developed regulatory reporting strategies\n- Designed audit methodologies\nAccountants Auditors, Reliable Path Advisors, 2016.03–2019.08\n- Established compliance monitoring systems\n- Directed revenue recognition policies\nAccountants Auditors, CoreLedger Services, 2012.10–2016.03\n-Reviewed contract accounting\n- Reviewed budget performance\nAccountants Auditors, EverBalance Accounting, 2007.08–2011.02\n- Processed journal corrections\n- Prepared audit confirmations\nEDUCATION\nAssociate's degree, Organizational Management, Larkspur University, 2003\n• Completed coursework in governmental accounting basics\n• Studied fundamentals of enterprise systems"
+}

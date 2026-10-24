@@ -1,0 +1,135 @@
+{
+  "id": "48592",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.751,
+  "n_lines": 9,
+  "mean_score": 0.9824,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSEPH SELLERS",
+      "score": 0.977,
+      "box": [
+        116,
+        90,
+        417,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-246-801-3787 |joseph.sellers@example.com",
+      "score": 0.9845,
+      "box": [
+        115,
+        150,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9805,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Durable Works, 2021.01–2023.01",
+      "score": 0.9885,
+      "box": [
+        116,
+        291,
+        644,
+        311
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9682,
+      "box": [
+        127,
+        315,
+        439,
+        338
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.974,
+      "box": [
+        126,
+        339,
+        426,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Maintenance, Cloverfield High School, 2019",
+      "score": 0.985,
+      "box": [
+        116,
+        449,
+        863,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic sealant application",
+      "score": 0.9852,
+      "box": [
+        133,
+        474,
+        617,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "JOSEPH SELLERS\nTN, USA|+1-246-801-3787 |joseph.sellers@example.com\nWORK HISTORY\nConstruction Laborers, Durable Works, 2021.01–2023.01\n- Helped position heavy materials\n- Prepared scaffolding platforms\nEDUCATION\nHigh school graduate/GED, Building Maintenance, Cloverfield High School, 2019\n• Completed coursework in basic sealant application"
+}

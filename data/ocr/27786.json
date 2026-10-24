@@ -1,0 +1,187 @@
+{
+  "id": "27786",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.807,
+  "n_lines": 13,
+  "mean_score": 0.9788,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SAVANNAH CONLEY",
+      "score": 0.9734,
+      "box": [
+        116,
+        90,
+        456,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-572-923-7902 |savannah.conley@example.com",
+      "score": 0.9775,
+      "box": [
+        115,
+        150,
+        691,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.98,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellWay Medical Group, 2020.09–2023.01",
+      "score": 0.9681,
+      "box": [
+        115,
+        289,
+        698,
+        314
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9816,
+      "box": [
+        125,
+        314,
+        510,
+        339
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.9803,
+      "box": [
+        126,
+        339,
+        458,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWay Nursing, 2017.02–2019.07",
+      "score": 0.9876,
+      "box": [
+        116,
+        382,
+        632,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with surgical prep",
+      "score": 0.9822,
+      "box": [
+        125,
+        405,
+        390,
+        432
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9854,
+      "box": [
+        126,
+        431,
+        409,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Public Health, Maplewood University, 2010",
+      "score": 0.9735,
+      "box": [
+        114,
+        539,
+        623,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of nursing communication",
+      "score": 0.9806,
+      "box": [
+        132,
+        564,
+        594,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of fall prevention",
+      "score": 0.956,
+      "box": [
+        134,
+        591,
+        472,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "SAVANNAH CONLEY\nMI, USA|+1-572-923-7902 |savannah.conley@example.com\nWORK HISTORY\nRegistered Nurses, WellWay Medical Group, 2020.09–2023.01\n- Directed nursing process improvements\n- Developed patient care algorithms\nRegistered Nurses, SunWay Nursing, 2017.02–2019.07\n- Assisted with surgical prep\n- Recorded shift handoff notes\nEDUCATION\nBachelor's, Public Health, Maplewood University, 2010\n• Studied fundamentals of nursing communication\n• Studied principles of fall prevention"
+}

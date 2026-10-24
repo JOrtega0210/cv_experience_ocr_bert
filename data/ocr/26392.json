@@ -1,0 +1,265 @@
+{
+  "id": "26392",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.857,
+  "n_lines": 19,
+  "mean_score": 0.9815,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "STEVEN REID",
+      "score": 0.9652,
+      "box": [
+        115,
+        90,
+        341,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-984-247-8949 |steven.reid@example.com",
+      "score": 0.9869,
+      "box": [
+        115,
+        150,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skyline Digital, 2019.01–2023.01",
+      "score": 0.9874,
+      "box": [
+        115,
+        289,
+        626,
+        314
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.9827,
+      "box": [
+        127,
+        315,
+        469,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented performance optimization plans",
+      "score": 0.9802,
+      "box": [
+        127,
+        339,
+        559,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Tech, 2015.01–2019.01",
+      "score": 0.9777,
+      "box": [
+        115,
+        381,
+        624,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9808,
+      "box": [
+        126,
+        406,
+        466,
+        431
+      ]
+    },
+    {
+      "text": "- Defined quality assurance frameworks",
+      "score": 0.9794,
+      "box": [
+        127,
+        432,
+        496,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Stonebyte Labs, 2011.01–2015.01",
+      "score": 0.9782,
+      "box": [
+        116,
+        472,
+        639,
+        496
+      ]
+    },
+    {
+      "text": "- Improved system reliability",
+      "score": 0.9676,
+      "box": [
+        126,
+        498,
+        388,
+        522
+      ]
+    },
+    {
+      "text": "- Implemented authentication workflows",
+      "score": 0.9894,
+      "box": [
+        126,
+        521,
+        496,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Systems, 2006.12–2011.01",
+      "score": 0.992,
+      "box": [
+        116,
+        565,
+        657,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with Cl pipeline tasks",
+      "score": 0.9752,
+      "box": [
+        126,
+        590,
+        423,
+        614
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.9911,
+      "box": [
+        128,
+        616,
+        374,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Redwood University, 2007",
+      "score": 0.9754,
+      "box": [
+        114,
+        723,
+        470,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of compiler design",
+      "score": 0.9723,
+      "box": [
+        132,
+        747,
+        525,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of user interface development",
+      "score": 0.9826,
+      "box": [
+        132,
+        772,
+        631,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "STEVEN REID\nMA, USA|+1-984-247-8949 |steven.reid@example.com\nWORK HISTORY\nSoftware Developers, Skyline Digital, 2019.01–2023.01\n- Led backend platform development\n- Implemented performance optimization plans\nSoftware Developers, Flowline Tech, 2015.01–2019.01\n- Implemented security architectures\n- Defined quality assurance frameworks\nSoftware Developers, Stonebyte Labs, 2011.01–2015.01\n- Improved system reliability\n- Implemented authentication workflows\nSoftware Developers, Flowline Systems, 2006.12–2011.01\n- Assisted with Cl pipeline tasks\n- Updated localization files\nEDUCATION\nBachelor's, Redwood University, 2007\n• Studied fundamentals of compiler design\n• Studied fundamentals of user interface development"
+}

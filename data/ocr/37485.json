@@ -1,0 +1,239 @@
+{
+  "id": "37485",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.884,
+  "n_lines": 17,
+  "mean_score": 0.9812,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RACHEL STANTON",
+      "score": 0.9793,
+      "box": [
+        116,
+        90,
+        429,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-867-553-7409|rachel.stanton@example.com",
+      "score": 0.9848,
+      "box": [
+        115,
+        150,
+        672,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9835,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Financial, 2019.10–2023.01",
+      "score": 0.9669,
+      "box": [
+        115,
+        290,
+        689,
+        312
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.9864,
+      "box": [
+        127,
+        315,
+        457,
+        338
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9743,
+      "box": [
+        126,
+        339,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Group, 2016.07–2019.10",
+      "score": 0.9779,
+      "box": [
+        114,
+        381,
+        689,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed balance sheet accounts",
+      "score": 0.9826,
+      "box": [
+        126,
+        407,
+        458,
+        429
+      ]
+    },
+    {
+      "text": "- Managed general ledger maintenance",
+      "score": 0.9826,
+      "box": [
+        126,
+        431,
+        494,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ExactCount Services, 2013.03–2016.07",
+      "score": 0.9823,
+      "box": [
+        115,
+        472,
+        694,
+        495
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9805,
+      "box": [
+        125,
+        496,
+        511,
+        521
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9822,
+      "box": [
+        126,
+        521,
+        413,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Finance, Northcrest University, 2014",
+      "score": 0.9808,
+      "box": [
+        115,
+        632,
+        545,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Auditing, Meadowview University, 2012",
+      "score": 0.955,
+      "box": [
+        115,
+        657,
+        588,
+        680
+      ]
+    },
+    {
+      "text": "• Studied principles of nonprofit accounting",
+      "score": 0.9919,
+      "box": [
+        132,
+        681,
+        530,
+        707
+      ]
+    },
+    {
+      "text": "• Studied principles of corporate finance",
+      "score": 0.99,
+      "box": [
+        133,
+        708,
+        503,
+        731
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "RACHEL STANTON\nNY, USA|+1-867-553-7409|rachel.stanton@example.com\nWORK HISTORY\nAccountants Auditors, SolidCount Financial, 2019.10–2023.01\n- Developed audit quality standards\n- Developed long-term financial strategies\nAccountants Auditors, ClearBalance Group, 2016.07–2019.10\n- Reviewed balance sheet accounts\n- Managed general ledger maintenance\nAccountants Auditors, ExactCount Services, 2013.03–2016.07\n- Maintained accounting software records\n- Tracked budget expenditures\nEDUCATION\nMaster's, Finance, Northcrest University, 2014\nBachelor's, Auditing, Meadowview University, 2012\n• Studied principles of nonprofit accounting\n• Studied principles of corporate finance"
+}

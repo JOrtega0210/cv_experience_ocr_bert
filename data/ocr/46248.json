@@ -1,0 +1,278 @@
+{
+  "id": "46248",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.986,
+  "n_lines": 20,
+  "mean_score": 0.9812,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KIMBERLYCOBB",
+      "score": 0.9981,
+      "box": [
+        116,
+        90,
+        400,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-918-980-3130|kimberly.cobb@example.com",
+      "score": 0.9887,
+      "box": [
+        115,
+        150,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9799,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Minds School, 2018.12–2023.01",
+      "score": 0.9759,
+      "box": [
+        115,
+        289,
+        817,
+        313
+      ]
+    },
+    {
+      "text": "- Led instructional design reviews",
+      "score": 0.9742,
+      "box": [
+        125,
+        314,
+        438,
+        337
+      ]
+    },
+    {
+      "text": "- Designed learning analytics frameworks",
+      "score": 0.9773,
+      "box": [
+        127,
+        340,
+        511,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Meadow Academy, 2014.11–2018.12",
+      "score": 0.9942,
+      "box": [
+        115,
+        381,
+        900,
+        406
+      ]
+    },
+    {
+      "text": "- Led curriculum integration projects",
+      "score": 0.9709,
+      "box": [
+        125,
+        406,
+        461,
+        431
+      ]
+    },
+    {
+      "text": "- Led curriculum alignment initiatives",
+      "score": 0.9722,
+      "box": [
+        126,
+        430,
+        466,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Riverside Learning Center, 2010.10–2014.11",
+      "score": 0.9855,
+      "box": [
+        114,
+        471,
+        879,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared instructional pacing guides",
+      "score": 0.9742,
+      "box": [
+        126,
+        498,
+        479,
+        521
+      ]
+    },
+    {
+      "text": "- Analyzed student performance data",
+      "score": 0.9841,
+      "box": [
+        126,
+        521,
+        472,
+        547
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Bridge Academy, 2006.08–2010.10",
+      "score": 0.9724,
+      "box": [
+        116,
+        565,
+        857,
+        588
+      ]
+    },
+    {
+      "text": "- Delivered structured lectures",
+      "score": 0.9855,
+      "box": [
+        126,
+        590,
+        409,
+        612
+      ]
+    },
+    {
+      "text": "- Supported individual student learning activities",
+      "score": 0.9886,
+      "box": [
+        126,
+        614,
+        570,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Basic Child Development, Pine Valley University, 2011",
+      "score": 0.984,
+      "box": [
+        115,
+        725,
+        710,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Foundations, Forest Hill University, 2009",
+      "score": 0.9579,
+      "box": [
+        115,
+        749,
+        716,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of early math instruction",
+      "score": 0.9718,
+      "box": [
+        132,
+        772,
+        578,
+        796
+      ]
+    },
+    {
+      "text": "• Studied principles of academic progress tracking",
+      "score": 0.9892,
+      "box": [
+        133,
+        799,
+        596,
+        823
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "KIMBERLYCOBB\nPA, USA|+1-918-980-3130|kimberly.cobb@example.com\nWORK HISTORY\nElementary Middle School Teachers, Open Minds School, 2018.12–2023.01\n- Led instructional design reviews\n- Designed learning analytics frameworks\nElementary Middle School Teachers, Harmony Meadow Academy, 2014.11–2018.12\n- Led curriculum integration projects\n- Led curriculum alignment initiatives\nElementary Middle School Teachers, Riverside Learning Center, 2010.10–2014.11\n- Prepared instructional pacing guides\n- Analyzed student performance data\nElementary Middle School Teachers, Future Bridge Academy, 2006.08–2010.10\n- Delivered structured lectures\n- Supported individual student learning activities\nEDUCATION\nMaster's, Basic Child Development, Pine Valley University, 2011\nBachelor's, Educational Foundations, Forest Hill University, 2009\n• Studied fundamentals of early math instruction\n• Studied principles of academic progress tracking"
+}

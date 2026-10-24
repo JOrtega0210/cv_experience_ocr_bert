@@ -1,0 +1,148 @@
+{
+  "id": "14553",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.908,
+  "n_lines": 10,
+  "mean_score": 0.9814,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SKYLERWILKINSON",
+      "score": 0.9991,
+      "box": [
+        116,
+        90,
+        453,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-695-237-5953 |skyler.wilkinson@example.com",
+      "score": 0.9757,
+      "box": [
+        117,
+        152,
+        687,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.983,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmRise Construction, 2022.03–2023.01",
+      "score": 0.9819,
+      "box": [
+        115,
+        290,
+        713,
+        313
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9668,
+      "box": [
+        127,
+        315,
+        435,
+        338
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.967,
+      "box": [
+        126,
+        339,
+        555,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Technology, Summit Ridge University, 2023",
+      "score": 0.9835,
+      "box": [
+        116,
+        449,
+        897,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic plastering",
+      "score": 0.9669,
+      "box": [
+        132,
+        473,
+        534,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of material recycling",
+      "score": 0.992,
+      "box": [
+        133,
+        497,
+        504,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "SKYLERWILKINSON\nGA, USA |+1-695-237-5953 |skyler.wilkinson@example.com\nWORK HISTORY\nConstruction Laborers, FirmRise Construction, 2022.03–2023.01\n- Installed temporary site barriers\n- Prepared tools and equipment for daily tasks\nEDUCATION\nSome college (no degree), Construction Technology, Summit Ridge University, 2023\n• Completed coursework in basic plastering\n• Studied principles of material recycling"
+}

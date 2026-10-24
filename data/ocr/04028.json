@@ -1,0 +1,187 @@
+{
+  "id": "04028",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.892,
+  "n_lines": 13,
+  "mean_score": 0.9862,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ORLANDOMCCARTY",
+      "score": 0.9976,
+      "box": [
+        115,
+        87,
+        464,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA|+1-274-565-4361 |orlando.mccarty@example.com",
+      "score": 0.9883,
+      "box": [
+        116,
+        150,
+        690,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Clearwave Tech, 2020.10–2023.01",
+      "score": 0.9776,
+      "box": [
+        114,
+        288,
+        645,
+        313
+      ]
+    },
+    {
+      "text": "- Defined code review processes",
+      "score": 0.9824,
+      "box": [
+        125,
+        313,
+        434,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented data pipeline architectures",
+      "score": 0.988,
+      "box": [
+        126,
+        339,
+        512,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightline Software, 2016.07–2018.11",
+      "score": 0.9949,
+      "box": [
+        116,
+        382,
+        670,
+        405
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.9843,
+      "box": [
+        126,
+        408,
+        403,
+        431
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9817,
+      "box": [
+        125,
+        431,
+        443,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Goldenview University, 2007",
+      "score": 0.9699,
+      "box": [
+        115,
+        541,
+        491,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of refactoring techniques",
+      "score": 0.9839,
+      "box": [
+        132,
+        564,
+        585,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of version control systems",
+      "score": 0.9936,
+      "box": [
+        133,
+        590,
+        561,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ORLANDOMCCARTY\nCA, USA|+1-274-565-4361 |orlando.mccarty@example.com\nWORK HISTORY\nSoftware Developers, Clearwave Tech, 2020.10–2023.01\n- Defined code review processes\n- Implemented data pipeline architectures\nSoftware Developers, Brightline Software, 2016.07–2018.11\n- Updated database schemas\n- Handled basic deployment tasks\nEDUCATION\nBachelor's, Goldenview University, 2007\n• Studied fundamentals of refactoring techniques\n• Studied principles of version control systems"
+}

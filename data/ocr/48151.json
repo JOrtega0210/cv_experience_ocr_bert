@@ -1,0 +1,148 @@
+{
+  "id": "48151",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.75,
+  "n_lines": 10,
+  "mean_score": 0.9763,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RANDALL BERRY",
+      "score": 0.9856,
+      "box": [
+        116,
+        90,
+        407,
+        120
+      ]
+    },
+    {
+      "text": "SD, USA|+1-376-863-9292 |randall.berry@example.com",
+      "score": 0.9695,
+      "box": [
+        116,
+        151,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9823,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewWay Health Group, 2020.04–2022.03",
+      "score": 0.9874,
+      "box": [
+        116,
+        290,
+        689,
+        313
+      ]
+    },
+    {
+      "text": "– Monitored patient pain levels",
+      "score": 0.9697,
+      "box": [
+        127,
+        315,
+        409,
+        338
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9571,
+      "box": [
+        126,
+        339,
+        435,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Sciences, Woodcrest University, 2007",
+      "score": 0.9723,
+      "box": [
+        115,
+        449,
+        654,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in immunization practices",
+      "score": 0.9628,
+      "box": [
+        132,
+        472,
+        602,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of intravenous therapy",
+      "score": 0.9782,
+      "box": [
+        133,
+        496,
+        562,
+        524
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "RANDALL BERRY\nSD, USA|+1-376-863-9292 |randall.berry@example.com\nWORK HISTORY\nRegistered Nurses, NewWay Health Group, 2020.04–2022.03\n– Monitored patient pain levels\n- Monitored patient dietary needs\nEDUCATION\nBachelor's, Medical Sciences, Woodcrest University, 2007\n• Completed coursework in immunization practices\n• Studied fundamentals of intravenous therapy"
+}

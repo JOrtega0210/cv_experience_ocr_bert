@@ -1,0 +1,187 @@
+{
+  "id": "15978",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.91,
+  "n_lines": 13,
+  "mean_score": 0.9837,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARKUS COBB",
+      "score": 0.9613,
+      "box": [
+        116,
+        90,
+        371,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-246-782-5803|markus.cobb@example.com",
+      "score": 0.9815,
+      "box": [
+        116,
+        151,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindSpring Care Center, 2020.03–2022.04",
+      "score": 0.9858,
+      "box": [
+        116,
+        290,
+        697,
+        313
+      ]
+    },
+    {
+      "text": "- Designed clinical documentation standards",
+      "score": 0.9934,
+      "box": [
+        126,
+        315,
+        539,
+        338
+      ]
+    },
+    {
+      "text": "- Established clinical best practices",
+      "score": 0.99,
+      "box": [
+        126,
+        339,
+        453,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueLife Nursing, 2017.01–2019.02",
+      "score": 0.9821,
+      "box": [
+        115,
+        381,
+        630,
+        406
+      ]
+    },
+    {
+      "text": "- Performed wound dressing changes",
+      "score": 0.9816,
+      "box": [
+        125,
+        405,
+        476,
+        432
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.987,
+      "box": [
+        126,
+        431,
+        527,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing, Amber Hills University, 2014",
+      "score": 0.9791,
+      "box": [
+        114,
+        539,
+        572,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of tracheostomy care",
+      "score": 0.9816,
+      "box": [
+        132,
+        564,
+        551,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in maternal health nursing",
+      "score": 0.9855,
+      "box": [
+        134,
+        591,
+        607,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "MARKUS COBB\nGA, USA |+1-246-782-5803|markus.cobb@example.com\nWORK HISTORY\nRegistered Nurses, KindSpring Care Center, 2020.03–2022.04\n- Designed clinical documentation standards\n- Established clinical best practices\nRegistered Nurses, TrueLife Nursing, 2017.01–2019.02\n- Performed wound dressing changes\n- Administered injections under supervision\nEDUCATION\nBachelor's, Nursing, Amber Hills University, 2014\n• Studied fundamentals of tracheostomy care\n• Completed coursework in maternal health nursing"
+}

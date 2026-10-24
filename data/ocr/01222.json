@@ -1,0 +1,226 @@
+{
+  "id": "01222",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.009,
+  "n_lines": 16,
+  "mean_score": 0.9849,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MELLISSA GRIFFITH",
+      "score": 0.9856,
+      "box": [
+        117,
+        90,
+        449,
+        120
+      ]
+    },
+    {
+      "text": "AZ, USA |+1-212-624-8377|mellissa.griffith@example.com",
+      "score": 0.9808,
+      "box": [
+        116,
+        152,
+        677,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9785,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenWay Nursing Services, 2019.11–2023.01",
+      "score": 0.9911,
+      "box": [
+        115,
+        289,
+        731,
+        314
+      ]
+    },
+    {
+      "text": "- Managed clinical compliance programs",
+      "score": 0.9814,
+      "box": [
+        126,
+        314,
+        502,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.9826,
+      "box": [
+        127,
+        339,
+        568,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueHands Care Center, 2015.12–2019.02",
+      "score": 0.9959,
+      "box": [
+        117,
+        384,
+        698,
+        404
+      ]
+    },
+    {
+      "text": "- Provided rehabilitation nursing care",
+      "score": 0.9962,
+      "box": [
+        126,
+        406,
+        470,
+        431
+      ]
+    },
+    {
+      "text": "- Coordinated patient discharge planning",
+      "score": 0.9933,
+      "box": [
+        126,
+        430,
+        505,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearBridge Nursing Services, 2011.07–2014.10",
+      "score": 0.9894,
+      "box": [
+        117,
+        473,
+        749,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored patient skin condition",
+      "score": 0.9696,
+      "box": [
+        125,
+        496,
+        437,
+        521
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9733,
+      "box": [
+        127,
+        523,
+        443,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Associate's degree, Life Sciences, Willowview University, 2009",
+      "score": 0.9663,
+      "box": [
+        114,
+        631,
+        698,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of patient identification",
+      "score": 0.9788,
+      "box": [
+        132,
+        656,
+        527,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in perioperative care",
+      "score": 0.9968,
+      "box": [
+        135,
+        683,
+        556,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "MELLISSA GRIFFITH\nAZ, USA |+1-212-624-8377|mellissa.griffith@example.com\nWORK HISTORY\nRegistered Nurses, OpenWay Nursing Services, 2019.11–2023.01\n- Managed clinical compliance programs\n- Implemented evidence-based practice models\nRegistered Nurses, TrueHands Care Center, 2015.12–2019.02\n- Provided rehabilitation nursing care\n- Coordinated patient discharge planning\nRegistered Nurses, ClearBridge Nursing Services, 2011.07–2014.10\n- Monitored patient skin condition\n- Collected patient health histories\nEDUCATION\nAssociate's degree, Life Sciences, Willowview University, 2009\n• Studied principles of patient identification\n• Completed coursework in perioperative care"
+}

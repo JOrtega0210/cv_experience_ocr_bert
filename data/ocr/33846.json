@@ -1,0 +1,278 @@
+{
+  "id": "33846",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.929,
+  "n_lines": 20,
+  "mean_score": 0.9828,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARK HOLLAND",
+      "score": 0.9928,
+      "box": [
+        116,
+        90,
+        390,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-932-333-2966|mark.holland@example.com",
+      "score": 0.9774,
+      "box": [
+        116,
+        151,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Services, 2020.03–2023.01",
+      "score": 0.9877,
+      "box": [
+        115,
+        289,
+        675,
+        312
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.9753,
+      "box": [
+        127,
+        315,
+        485,
+        338
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9802,
+      "box": [
+        126,
+        339,
+        556,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Group, 2017.05–2020.03",
+      "score": 0.9881,
+      "box": [
+        115,
+        381,
+        701,
+        406
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9823,
+      "box": [
+        126,
+        406,
+        428,
+        431
+      ]
+    },
+    {
+      "text": "- Led cross-functional financial integration",
+      "score": 0.981,
+      "box": [
+        126,
+        430,
+        514,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Advisors Group, 2014.07–2017.5",
+      "score": 0.979,
+      "box": [
+        114,
+        471,
+        741,
+        496
+      ]
+    },
+    {
+      "text": "- Managed accounts receivable cycles",
+      "score": 0.9892,
+      "box": [
+        126,
+        498,
+        483,
+        521
+      ]
+    },
+    {
+      "text": "- Developed audit plans",
+      "score": 0.9664,
+      "box": [
+        126,
+        521,
+        349,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Balance Advisors, 2011.08–2014.07",
+      "score": 0.9844,
+      "box": [
+        116,
+        566,
+        749,
+        586
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.969,
+      "box": [
+        125,
+        589,
+        356,
+        614
+      ]
+    },
+    {
+      "text": "- Prepared supporting schedules",
+      "score": 0.983,
+      "box": [
+        127,
+        615,
+        431,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Financial Accounting, Larkspur University, 2011",
+      "score": 0.9828,
+      "box": [
+        115,
+        725,
+        646,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Corporate Finance, Redfield University, 2009",
+      "score": 0.9723,
+      "box": [
+        114,
+        747,
+        642,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of sampling techniques",
+      "score": 0.9934,
+      "box": [
+        133,
+        774,
+        532,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in professional standards",
+      "score": 0.988,
+      "box": [
+        133,
+        799,
+        600,
+        822
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "MARK HOLLAND\nNJ, USA|+1-932-333-2966|mark.holland@example.com\nWORK HISTORY\nAccountants Auditors, FairCount Services, 2020.03–2023.01\n- Designed financial policy frameworks\n- Directed accounting system implementations\nAccountants Auditors, Integrity Books Group, 2017.05–2020.03\n- Managed financial governance\n- Led cross-functional financial integration\nAccountants Auditors, FairCount Advisors Group, 2014.07–2017.5\n- Managed accounts receivable cycles\n- Developed audit plans\nAccountants Auditors, Accurate Balance Advisors, 2011.08–2014.07\n- Prepared aging reports\n- Prepared supporting schedules\nEDUCATION\nMaster's, Financial Accounting, Larkspur University, 2011\nBachelor's, Corporate Finance, Redfield University, 2009\n• Studied principles of sampling techniques\n• Completed coursework in professional standards"
+}

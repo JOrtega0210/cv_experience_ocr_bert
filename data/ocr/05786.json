@@ -1,0 +1,187 @@
+{
+  "id": "05786",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.907,
+  "n_lines": 13,
+  "mean_score": 0.984,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MASON COX",
+      "score": 0.975,
+      "box": [
+        115,
+        88,
+        326,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-463-821-9203|mason.cox@example.com",
+      "score": 0.9899,
+      "box": [
+        115,
+        150,
+        642,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Services, 2020.11–2023.01",
+      "score": 0.9855,
+      "box": [
+        114,
+        289,
+        685,
+        313
+      ]
+    },
+    {
+      "text": "-Led cross-functional financial integration",
+      "score": 0.9957,
+      "box": [
+        125,
+        313,
+        515,
+        338
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.992,
+      "box": [
+        126,
+        339,
+        433,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Group, 2018.09–2020.11",
+      "score": 0.9879,
+      "box": [
+        115,
+        382,
+        713,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9617,
+      "box": [
+        126,
+        406,
+        356,
+        432
+      ]
+    },
+    {
+      "text": "- Maintained chart of accounts",
+      "score": 0.962,
+      "box": [
+        126,
+        431,
+        409,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Analysis, Edgewood University, 2017",
+      "score": 0.9789,
+      "box": [
+        115,
+        541,
+        658,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of microeconomics",
+      "score": 0.9908,
+      "box": [
+        133,
+        566,
+        493,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of internal controls",
+      "score": 0.9885,
+      "box": [
+        134,
+        592,
+        526,
+        612
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "MASON COX\nCA, USA|+1-463-821-9203|mason.cox@example.com\nWORK HISTORY\nAccountants Auditors, CoreCount Services, 2020.11–2023.01\n-Led cross-functional financial integration\n- Established accounting policies\nAccountants Auditors, Precise Balance Group, 2018.09–2020.11\n- Prepared aging reports\n- Maintained chart of accounts\nEDUCATION\nBachelor's, Financial Analysis, Edgewood University, 2017\n• Studied principles of microeconomics\n• Studied fundamentals of internal controls"
+}

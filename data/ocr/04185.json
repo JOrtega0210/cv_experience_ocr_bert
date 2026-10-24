@@ -1,0 +1,239 @@
+{
+  "id": "04185",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.938,
+  "n_lines": 17,
+  "mean_score": 0.9791,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DAVIDCHOI",
+      "score": 0.9918,
+      "box": [
+        114,
+        86,
+        317,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA|+1-674-355-5539 |david.choi@example.com",
+      "score": 0.985,
+      "box": [
+        117,
+        151,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Silverstack Solutions, 2020.08–2023.01",
+      "score": 0.9809,
+      "box": [
+        116,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9484,
+      "box": [
+        127,
+        315,
+        454,
+        339
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9898,
+      "box": [
+        126,
+        339,
+        439,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Tech, 2018.02–2020.08",
+      "score": 0.9756,
+      "box": [
+        115,
+        381,
+        625,
+        406
+      ]
+    },
+    {
+      "text": "- Optimized database queries",
+      "score": 0.9854,
+      "box": [
+        126,
+        406,
+        403,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented search features",
+      "score": 0.9743,
+      "box": [
+        126,
+        432,
+        412,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Skywave Tech, 2013.12–2016.06",
+      "score": 0.9873,
+      "box": [
+        116,
+        472,
+        631,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9722,
+      "box": [
+        126,
+        498,
+        421,
+        522
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.9769,
+      "box": [
+        127,
+        523,
+        403,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9693,
+      "box": [
+        115,
+        585,
+        267,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Bright Ridge University, 2008",
+      "score": 0.9759,
+      "box": [
+        114,
+        631,
+        477,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Cedar Valley University, 2006",
+      "score": 0.9881,
+      "box": [
+        115,
+        658,
+        501,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of image processing",
+      "score": 0.9729,
+      "box": [
+        132,
+        681,
+        505,
+        707
+      ]
+    },
+    {
+      "text": "• Completed coursework in microprocessor programming",
+      "score": 0.9845,
+      "box": [
+        131,
+        705,
+        660,
+        734
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "DAVIDCHOI\nCA, USA|+1-674-355-5539 |david.choi@example.com\nWORK HISTORY\nSoftware Developers, Silverstack Solutions, 2020.08–2023.01\n- Led performance tuning initiatives\n- Led technical roadmap planning\nSoftware Developers, Flowline Tech, 2018.02–2020.08\n- Optimized database queries\n- Implemented search features\nSoftware Developers, Skywave Tech, 2013.12–2016.06\n- Implemented REST endpoints\n- Updated database schemas\nEDUCATION\nMaster's, Bright Ridge University, 2008\nBachelor's, Cedar Valley University, 2006\n• Studied principles of image processing\n• Completed coursework in microprocessor programming"
+}

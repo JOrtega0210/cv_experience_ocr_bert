@@ -1,0 +1,226 @@
+{
+  "id": "45321",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.895,
+  "n_lines": 16,
+  "mean_score": 0.9803,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ROBERT LEE",
+      "score": 0.9707,
+      "box": [
+        116,
+        90,
+        334,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-49-615-1107 |robert.lee@example.com",
+      "score": 0.978,
+      "box": [
+        115,
+        150,
+        628,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.98,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Minds School, 2020.07–2023.01",
+      "score": 0.9666,
+      "box": [
+        116,
+        290,
+        829,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented instructional improvement programs",
+      "score": 0.9635,
+      "box": [
+        126,
+        314,
+        600,
+        340
+      ]
+    },
+    {
+      "text": "- Established data reporting standards",
+      "score": 0.9684,
+      "box": [
+        127,
+        340,
+        482,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Bridge School, 2017.12–2020.07",
+      "score": 0.9838,
+      "box": [
+        116,
+        382,
+        840,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented classroom routines",
+      "score": 0.9833,
+      "box": [
+        126,
+        406,
+        445,
+        431
+      ]
+    },
+    {
+      "text": "- Created instructional units",
+      "score": 0.9953,
+      "box": [
+        127,
+        432,
+        384,
+        454
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Horizons Academy, 2015.05–2017.12",
+      "score": 0.992,
+      "box": [
+        115,
+        471,
+        900,
+        496
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9865,
+      "box": [
+        125,
+        496,
+        459,
+        521
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.98,
+      "box": [
+        127,
+        522,
+        517,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Developmental Studies, Greenridge University, 2018",
+      "score": 0.988,
+      "box": [
+        115,
+        632,
+        712,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in student progress monitoring",
+      "score": 0.9696,
+      "box": [
+        133,
+        657,
+        646,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom workflow organization",
+      "score": 0.9801,
+      "box": [
+        135,
+        681,
+        690,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ROBERT LEE\nPA, USA|+1-49-615-1107 |robert.lee@example.com\nWORK HISTORY\nElementary Middle School Teachers, Caring Minds School, 2020.07–2023.01\n- Implemented instructional improvement programs\n- Established data reporting standards\nElementary Middle School Teachers, Golden Bridge School, 2017.12–2020.07\n- Implemented classroom routines\n- Created instructional units\nElementary Middle School Teachers, Learning Horizons Academy, 2015.05–2017.12\n- Recorded behavioral observations\n- Organized classroom learning resources\nEDUCATION\nBachelor's, Developmental Studies, Greenridge University, 2018\n• Completed coursework in student progress monitoring\n• Completed coursework in classroom workflow organization"
+}

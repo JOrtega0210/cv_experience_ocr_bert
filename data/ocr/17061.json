@@ -1,0 +1,239 @@
+{
+  "id": "17061",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.991,
+  "n_lines": 17,
+  "mean_score": 0.9767,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "COURTNEY LAMB",
+      "score": 0.9635,
+      "box": [
+        117,
+        90,
+        411,
+        121
+      ]
+    },
+    {
+      "text": "ID, USA|+1-834-686-3979 |courtney.lamb@example.com",
+      "score": 0.9751,
+      "box": [
+        117,
+        152,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightBridge Health Services, 2020.09–2023.01",
+      "score": 0.9906,
+      "box": [
+        116,
+        290,
+        741,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.9828,
+      "box": [
+        127,
+        315,
+        569,
+        338
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.9528,
+      "box": [
+        126,
+        338,
+        424,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenBridge Care Services, 2018.05–2020.09",
+      "score": 0.9838,
+      "box": [
+        115,
+        381,
+        724,
+        406
+      ]
+    },
+    {
+      "text": "- Managed care for chronic conditions",
+      "score": 0.9165,
+      "box": [
+        127,
+        407,
+        479,
+        430
+      ]
+    },
+    {
+      "text": "- Monitored fluid and electrolyte balance",
+      "score": 0.9723,
+      "box": [
+        126,
+        431,
+        499,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Way Care, 2016.01–2018.05",
+      "score": 0.9959,
+      "box": [
+        116,
+        472,
+        636,
+        496
+      ]
+    },
+    {
+      "text": "- Maintained supply inventory",
+      "score": 0.9745,
+      "box": [
+        125,
+        496,
+        401,
+        522
+      ]
+    },
+    {
+      "text": "- Collected laboratory specimens",
+      "score": 0.9953,
+      "box": [
+        126,
+        521,
+        434,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Medical Technology, North Ridge University, 2015",
+      "score": 0.9721,
+      "box": [
+        114,
+        631,
+        672,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care, Clearfield Ridge University, 2013",
+      "score": 0.9876,
+      "box": [
+        114,
+        656,
+        653,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in sterile technique",
+      "score": 0.99,
+      "box": [
+        133,
+        683,
+        541,
+        706
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of interdisciplinary care",
+      "score": 0.9661,
+      "box": [
+        132,
+        706,
+        570,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "COURTNEY LAMB\nID, USA|+1-834-686-3979 |courtney.lamb@example.com\nWORK HISTORY\nRegistered Nurses, BrightBridge Health Services, 2020.09–2023.01\n- Implemented evidence-based practice models\n- Led infection control programs\nRegistered Nurses, OpenBridge Care Services, 2018.05–2020.09\n- Managed care for chronic conditions\n- Monitored fluid and electrolyte balance\nRegistered Nurses, Caring Way Care, 2016.01–2018.05\n- Maintained supply inventory\n- Collected laboratory specimens\nEDUCATION\nMaster's, Medical Technology, North Ridge University, 2015\nBachelor's, Health Care, Clearfield Ridge University, 2013\n• Completed coursework in sterile technique\n• Studied fundamentals of interdisciplinary care"
+}

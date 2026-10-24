@@ -1,0 +1,226 @@
+{
+  "id": "27153",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.868,
+  "n_lines": 16,
+  "mean_score": 0.9815,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KARLA JOHNSON",
+      "score": 0.9681,
+      "box": [
+        116,
+        90,
+        410,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-493-487-3698|karla.johnson@example.com",
+      "score": 0.9951,
+      "box": [
+        116,
+        152,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9775,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenBridge Nursing Services, 2020.06–2023.01",
+      "score": 0.9915,
+      "box": [
+        115,
+        289,
+        749,
+        314
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.9757,
+      "box": [
+        126,
+        314,
+        391,
+        337
+      ]
+    },
+    {
+      "text": "- Managed patient outcome evaluation systems",
+      "score": 0.9678,
+      "box": [
+        127,
+        339,
+        567,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellHands Medical Group, 2017.10–2020.06",
+      "score": 0.9592,
+      "box": [
+        115,
+        381,
+        718,
+        406
+      ]
+    },
+    {
+      "text": "- Administered complex medication regimens",
+      "score": 0.9845,
+      "box": [
+        126,
+        406,
+        546,
+        432
+      ]
+    },
+    {
+      "text": "- Administered chemotherapy protocols",
+      "score": 0.9837,
+      "box": [
+        126,
+        431,
+        492,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWell Nursing Services, 2015.02–2017.10",
+      "score": 0.9761,
+      "box": [
+        116,
+        473,
+        716,
+        496
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.9897,
+      "box": [
+        125,
+        496,
+        527,
+        521
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9777,
+      "box": [
+        126,
+        521,
+        480,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Biological Sciences, Springdale University, 2019",
+      "score": 0.9808,
+      "box": [
+        115,
+        632,
+        673,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in nonpharmacologic pain relief",
+      "score": 0.9873,
+      "box": [
+        134,
+        658,
+        657,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in transition of care basics",
+      "score": 0.9904,
+      "box": [
+        135,
+        682,
+        609,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "KARLA JOHNSON\nMI, USA|+1-493-487-3698|karla.johnson@example.com\nWORK HISTORY\nRegistered Nurses, OpenBridge Nursing Services, 2020.06–2023.01\n- Led nursing process audits\n- Managed patient outcome evaluation systems\nRegistered Nurses, WellHands Medical Group, 2017.10–2020.06\n- Administered complex medication regimens\n- Administered chemotherapy protocols\nRegistered Nurses, SunWell Nursing Services, 2015.02–2017.10\n- Administered injections under supervision\n- Provided patient education materials\nEDUCATION\nBachelor's, Biological Sciences, Springdale University, 2019\n• Completed coursework in nonpharmacologic pain relief\n• Completed coursework in transition of care basics"
+}

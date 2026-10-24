@@ -1,0 +1,135 @@
+{
+  "id": "47263",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.745,
+  "n_lines": 9,
+  "mean_score": 0.9797,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ALLISON WATSON",
+      "score": 0.9736,
+      "box": [
+        117,
+        90,
+        422,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-560-667-4903 |allison.watson@example.com",
+      "score": 0.9736,
+      "box": [
+        116,
+        152,
+        672,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9803,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenSpring Care Services, 2019.06–2020.05",
+      "score": 0.97,
+      "box": [
+        116,
+        290,
+        725,
+        313
+      ]
+    },
+    {
+      "text": "– Monitored patient skin condition",
+      "score": 0.9722,
+      "box": [
+        127,
+        315,
+        437,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9731,
+      "box": [
+        126,
+        339,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Health Technology, Goldenview High School, 2016",
+      "score": 0.9849,
+      "box": [
+        116,
+        449,
+        848,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in medication administration",
+      "score": 0.9912,
+      "box": [
+        133,
+        474,
+        626,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "ALLISON WATSON\nSC, USA|+1-560-667-4903 |allison.watson@example.com\nWORK HISTORY\nRegistered Nurses, OpenSpring Care Services, 2019.06–2020.05\n– Monitored patient skin condition\n- Assisted with physical therapy exercises\nEDUCATION\nHigh school graduate/GED, Health Technology, Goldenview High School, 2016\n• Completed coursework in medication administration"
+}

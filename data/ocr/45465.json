@@ -1,0 +1,226 @@
+{
+  "id": "45465",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.857,
+  "n_lines": 16,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JACOB NASH",
+      "score": 0.9786,
+      "box": [
+        116,
+        90,
+        340,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-438-869-5332 |jacob.nash@example.com",
+      "score": 0.9816,
+      "box": [
+        115,
+        150,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Financial, 2019.12–2023.01",
+      "score": 0.9806,
+      "box": [
+        115,
+        290,
+        682,
+        313
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9884,
+      "box": [
+        126,
+        314,
+        556,
+        339
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9936,
+      "box": [
+        126,
+        339,
+        547,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Financial Group, 2016.11–2019.12",
+      "score": 0.9821,
+      "box": [
+        114,
+        381,
+        783,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared consolidation entries",
+      "score": 0.9899,
+      "box": [
+        127,
+        407,
+        426,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared cash flow statements",
+      "score": 0.9816,
+      "box": [
+        126,
+        430,
+        429,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenLedger Accounting, 2013.09–2016.11",
+      "score": 0.9812,
+      "box": [
+        115,
+        472,
+        724,
+        496
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.9743,
+      "box": [
+        127,
+        498,
+        436,
+        522
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.977,
+      "box": [
+        126,
+        521,
+        362,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Government Accounting, Shoreline University, 2011",
+      "score": 0.9723,
+      "box": [
+        114,
+        631,
+        704,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of hedge accounting",
+      "score": 0.9698,
+      "box": [
+        132,
+        656,
+        507,
+        682
+      ]
+    },
+    {
+      "text": "• Studied principles of fixed asset accounting",
+      "score": 0.9841,
+      "box": [
+        135,
+        683,
+        548,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JACOB NASH\nPA, USA|+1-438-869-5332 |jacob.nash@example.com\nWORK HISTORY\nAccountants Auditors, OpenPath Financial, 2019.12–2023.01\n- Directed accounting system implementations\n- Established compliance monitoring systems\nAccountants Auditors, SteadyLedger Financial Group, 2016.11–2019.12\n- Prepared consolidation entries\n- Prepared cash flow statements\nAccountants Auditors, OpenLedger Accounting, 2013.09–2016.11\n- Updated general ledger records\n- Recorded cash receipts\nEDUCATION\nBachelor's, Government Accounting, Shoreline University, 2011\n• Studied principles of hedge accounting\n• Studied principles of fixed asset accounting"
+}

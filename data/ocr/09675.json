@@ -1,0 +1,226 @@
+{
+  "id": "09675",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.937,
+  "n_lines": 16,
+  "mean_score": 0.9827,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAMES FOLEY",
+      "score": 0.9878,
+      "box": [
+        116,
+        90,
+        354,
+        121
+      ]
+    },
+    {
+      "text": "CO, USA | +1-916-817-1386 |james.foley@example.com",
+      "score": 0.9722,
+      "box": [
+        117,
+        151,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9858,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datagrid Digital, 2020.12–2023.01",
+      "score": 0.9893,
+      "box": [
+        115,
+        289,
+        637,
+        314
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.9637,
+      "box": [
+        126,
+        314,
+        431,
+        340
+      ]
+    },
+    {
+      "text": "- Implemented data pipeline architectures",
+      "score": 0.9878,
+      "box": [
+        126,
+        339,
+        512,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Stoneframe Tech, 2018.11–2020.12",
+      "score": 0.9957,
+      "box": [
+        116,
+        382,
+        657,
+        405
+      ]
+    },
+    {
+      "text": "- Handled load testing",
+      "score": 0.9595,
+      "box": [
+        125,
+        406,
+        333,
+        432
+      ]
+    },
+    {
+      "text": "- Designed service interfaces",
+      "score": 0.987,
+      "box": [
+        126,
+        430,
+        399,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Digital, 2016.10–2018.11",
+      "score": 0.9812,
+      "box": [
+        116,
+        472,
+        654,
+        496
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.9957,
+      "box": [
+        125,
+        496,
+        502,
+        522
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9826,
+      "box": [
+        127,
+        523,
+        478,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Pioneer University, 2017",
+      "score": 0.9767,
+      "box": [
+        115,
+        631,
+        453,
+        654
+      ]
+    },
+    {
+      "text": "• Completed coursework in stream processing basics",
+      "score": 0.9769,
+      "box": [
+        134,
+        658,
+        624,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of programming languages",
+      "score": 0.9825,
+      "box": [
+        134,
+        681,
+        567,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JAMES FOLEY\nCO, USA | +1-916-817-1386 |james.foley@example.com\nWORK HISTORY\nSoftware Developers, Datagrid Digital, 2020.12–2023.01\n- Led system reliability programs\n- Implemented data pipeline architectures\nSoftware Developers, Stoneframe Tech, 2018.11–2020.12\n- Handled load testing\n- Designed service interfaces\nSoftware Developers, Stonepath Digital, 2016.10–2018.11\n- Wrote scripts for data processing tasks\n- Assisted with system documentation\nEDUCATION\nBachelor's, Pioneer University, 2017\n• Completed coursework in stream processing basics\n• Studied principles of programming languages"
+}

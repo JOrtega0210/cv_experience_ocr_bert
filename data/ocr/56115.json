@@ -1,0 +1,148 @@
+{
+  "id": "56115",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.768,
+  "n_lines": 10,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LYRIC THOMAS",
+      "score": 0.9795,
+      "box": [
+        115,
+        88,
+        374,
+        122
+      ]
+    },
+    {
+      "text": "VA, USA|+1-387-412-6158|lyric.thomas@example.com",
+      "score": 0.9877,
+      "box": [
+        115,
+        150,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9816,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Path Academy, 2021.11–2023.01",
+      "score": 0.982,
+      "box": [
+        116,
+        290,
+        838,
+        313
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.9778,
+      "box": [
+        127,
+        316,
+        519,
+        339
+      ]
+    },
+    {
+      "text": "- Delivered structured lessons in reading and mathematics",
+      "score": 0.9905,
+      "box": [
+        126,
+        339,
+        667,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Liberal Arts, Forestview University, 2021",
+      "score": 0.9866,
+      "box": [
+        116,
+        449,
+        676,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of classroom interaction",
+      "score": 0.9808,
+      "box": [
+        132,
+        473,
+        539,
+        496
+      ]
+    },
+    {
+      "text": "• Completed coursework in literacy development",
+      "score": 0.9733,
+      "box": [
+        133,
+        497,
+        582,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "LYRIC THOMAS\nVA, USA|+1-387-412-6158|lyric.thomas@example.com\nWORK HISTORY\nElementary Middle School Teachers, Future Path Academy, 2021.11–2023.01\n- Supported standardized testing sessions\n- Delivered structured lessons in reading and mathematics\nEDUCATION\nAssociate's degree, Liberal Arts, Forestview University, 2021\n• Studied principles of classroom interaction\n• Completed coursework in literacy development"
+}

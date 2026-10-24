@@ -1,0 +1,265 @@
+{
+  "id": "49243",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.87,
+  "n_lines": 19,
+  "mean_score": 0.9823,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JEREMY NOLAN",
+      "score": 0.9919,
+      "box": [
+        115,
+        88,
+        385,
+        122
+      ]
+    },
+    {
+      "text": "TN, USA|+1-936-829-1724 |jeremy.nolan@example.com",
+      "score": 0.9844,
+      "box": [
+        115,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9892,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Tech, 2019.11–2023.01",
+      "score": 0.9929,
+      "box": [
+        115,
+        290,
+        638,
+        313
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9687,
+      "box": [
+        125,
+        312,
+        368,
+        339
+      ]
+    },
+    {
+      "text": "- Defined APl governance models",
+      "score": 0.958,
+      "box": [
+        126,
+        339,
+        443,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Nextwave Systems, 2016.09–2019.11",
+      "score": 0.9891,
+      "box": [
+        115,
+        381,
+        673,
+        406
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9826,
+      "box": [
+        125,
+        405,
+        409,
+        432
+      ]
+    },
+    {
+      "text": "- Led technical audits",
+      "score": 0.9975,
+      "box": [
+        127,
+        433,
+        326,
+        453
+      ]
+    },
+    {
+      "text": "Software Developers, Skybyte Solutions, 2013.07–2016.09",
+      "score": 0.9864,
+      "box": [
+        115,
+        471,
+        662,
+        496
+      ]
+    },
+    {
+      "text": "-Built feature management systems",
+      "score": 0.9835,
+      "box": [
+        124,
+        496,
+        463,
+        522
+      ]
+    },
+    {
+      "text": "- Developed Cl/CD scripts",
+      "score": 0.9576,
+      "box": [
+        125,
+        521,
+        371,
+        548
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Digital, 2008.03–2011.06",
+      "score": 0.9786,
+      "box": [
+        115,
+        563,
+        651,
+        589
+      ]
+    },
+    {
+      "text": "- Wrote utility scripts",
+      "score": 0.9638,
+      "box": [
+        124,
+        588,
+        318,
+        615
+      ]
+    },
+    {
+      "text": "-Performed code formatting",
+      "score": 0.9897,
+      "box": [
+        126,
+        613,
+        389,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Riverfield University, 2003",
+      "score": 0.986,
+      "box": [
+        115,
+        723,
+        612,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of dependency injection",
+      "score": 0.9755,
+      "box": [
+        131,
+        747,
+        538,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of software documentation",
+      "score": 0.9901,
+      "box": [
+        135,
+        775,
+        563,
+        795
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "JEREMY NOLAN\nTN, USA|+1-936-829-1724 |jeremy.nolan@example.com\nWORK HISTORY\nSoftware Developers, Codepath Tech, 2019.11–2023.01\n- Built distributed systems\n- Defined APl governance models\nSoftware Developers, Nextwave Systems, 2016.09–2019.11\n- Defined scalability roadmaps\n- Led technical audits\nSoftware Developers, Skybyte Solutions, 2013.07–2016.09\n-Built feature management systems\n- Developed Cl/CD scripts\nSoftware Developers, Codepath Digital, 2008.03–2011.06\n- Wrote utility scripts\n-Performed code formatting\nEDUCATION\nSome college (no degree), Riverfield University, 2003\n• Studied principles of dependency injection\n• Studied principles of software documentation"
+}

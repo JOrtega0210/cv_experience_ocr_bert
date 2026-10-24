@@ -1,0 +1,148 @@
+{
+  "id": "00430",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.844,
+  "n_lines": 10,
+  "mean_score": 0.9821,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DANIELLE JENKINS",
+      "score": 0.9899,
+      "box": [
+        117,
+        90,
+        440,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA |+1-832-398-9695 | danielle.jenkins@example.com",
+      "score": 0.974,
+      "box": [
+        116,
+        152,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightWell Health Services, 2021.06–2023.01",
+      "score": 0.9866,
+      "box": [
+        116,
+        290,
+        721,
+        313
+      ]
+    },
+    {
+      "text": "- Collected laboratory specimens",
+      "score": 0.9779,
+      "box": [
+        126,
+        314,
+        434,
+        339
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9749,
+      "box": [
+        127,
+        340,
+        480,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health and Wellness, Brightfield University, 2020",
+      "score": 0.9577,
+      "box": [
+        115,
+        449,
+        677,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of health screening",
+      "score": 0.9853,
+      "box": [
+        132,
+        472,
+        494,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of emergency nursing",
+      "score": 0.9914,
+      "box": [
+        133,
+        497,
+        519,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "DANIELLE JENKINS\nAL, USA |+1-832-398-9695 | danielle.jenkins@example.com\nWORK HISTORY\nRegistered Nurses, BrightWell Health Services, 2021.06–2023.01\n- Collected laboratory specimens\n- Provided patient education materials\nEDUCATION\nBachelor's, Health and Wellness, Brightfield University, 2020\n• Studied principles of health screening\n• Studied principles of emergency nursing"
+}

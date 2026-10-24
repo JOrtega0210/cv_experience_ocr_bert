@@ -1,0 +1,187 @@
+{
+  "id": "26739",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.821,
+  "n_lines": 13,
+  "mean_score": 0.9811,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRYSON KOCH",
+      "score": 0.9708,
+      "box": [
+        115,
+        88,
+        370,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA|+1-251-761-2520 |bryson.koch@example.com",
+      "score": 0.9834,
+      "box": [
+        115,
+        150,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeStone Group, 2021.05–2023.01",
+      "score": 0.9884,
+      "box": [
+        114,
+        289,
+        679,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed material specifications",
+      "score": 0.9814,
+      "box": [
+        125,
+        313,
+        446,
+        338
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9836,
+      "box": [
+        127,
+        340,
+        458,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidCraft Construction, 2019.08–2021.05",
+      "score": 0.9798,
+      "box": [
+        116,
+        382,
+        723,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9698,
+      "box": [
+        126,
+        407,
+        484,
+        429
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9794,
+      "box": [
+        126,
+        431,
+        509,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Methods, Riverwood University, 2022",
+      "score": 0.9762,
+      "box": [
+        116,
+        541,
+        837,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of fire safety in construction",
+      "score": 0.9794,
+      "box": [
+        132,
+        564,
+        610,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of load handling",
+      "score": 0.9798,
+      "box": [
+        134,
+        591,
+        465,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "BRYSON KOCH\nMI, USA|+1-251-761-2520 |bryson.koch@example.com\nWORK HISTORY\nConstruction Laborers, PrimeStone Group, 2021.05–2023.01\n- Reviewed material specifications\n- Developed construction standards\nConstruction Laborers, SolidCraft Construction, 2019.08–2021.05\n- Maintained cleanliness of work areas\n- Operated hand tools for assembly tasks\nEDUCATION\nSome college (no degree), Construction Methods, Riverwood University, 2022\n• Studied fundamentals of fire safety in construction\n• Studied principles of load handling"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "04488",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.006,
+  "n_lines": 16,
+  "mean_score": 0.9791,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KEVIN PARRA",
+      "score": 0.9867,
+      "box": [
+        116,
+        90,
+        348,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA|+1-766-865-4112 |kevin.parra@example.com",
+      "score": 0.9793,
+      "box": [
+        117,
+        151,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9792,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Services, 2020.05–2023.01",
+      "score": 0.9753,
+      "box": [
+        114,
+        289,
+        737,
+        314
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.98,
+      "box": [
+        127,
+        315,
+        480,
+        338
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9511,
+      "box": [
+        126,
+        339,
+        524,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Accounting, 2017.08–2020.05",
+      "score": 0.9819,
+      "box": [
+        114,
+        381,
+        728,
+        406
+      ]
+    },
+    {
+      "text": "- Developed financial models",
+      "score": 0.976,
+      "box": [
+        125,
+        407,
+        397,
+        430
+      ]
+    },
+    {
+      "text": "- Managed fixed asset accounting",
+      "score": 0.9633,
+      "box": [
+        127,
+        432,
+        441,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Group, 2013.01–2015.10",
+      "score": 0.9771,
+      "box": [
+        114,
+        471,
+        682,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with financial statement preparation",
+      "score": 0.9899,
+      "box": [
+        125,
+        496,
+        555,
+        521
+      ]
+    },
+    {
+      "text": "- Performed data validation checks",
+      "score": 0.9957,
+      "box": [
+        127,
+        522,
+        450,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting and Auditing, Lakeview University, 2011",
+      "score": 0.952,
+      "box": [
+        114,
+        631,
+        703,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting information systems",
+      "score": 0.9827,
+      "box": [
+        134,
+        658,
+        681,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in trial balance preparation",
+      "score": 0.9969,
+      "box": [
+        134,
+        681,
+        613,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "KEVIN PARRA\nCA, USA|+1-766-865-4112 |kevin.parra@example.com\nWORK HISTORY\nAccountants Auditors, Accurate Ledger Services, 2020.05–2023.01\n- Led accounting process optimization\n- Developed regulatory reporting strategies\nAccountants Auditors, EverBalance Accounting, 2017.08–2020.05\n- Developed financial models\n- Managed fixed asset accounting\nAccountants Auditors, EverBalance Group, 2013.01–2015.10\n- Assisted with financial statement preparation\n- Performed data validation checks\nEDUCATION\nBachelor's, Accounting and Auditing, Lakeview University, 2011\n• Completed coursework in accounting information systems\n• Completed coursework in trial balance preparation"
+}

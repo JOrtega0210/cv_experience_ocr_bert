@@ -1,0 +1,187 @@
+{
+  "id": "40189",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.845,
+  "n_lines": 13,
+  "mean_score": 0.9805,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SKYLER PARRISH",
+      "score": 0.9654,
+      "box": [
+        116,
+        90,
+        414,
+        121
+      ]
+    },
+    {
+      "text": "NC, USA|+1-396-960-8035|skyler.parrish@example.com",
+      "score": 0.967,
+      "box": [
+        115,
+        150,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9783,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Advisors, 2021.05–2023.01",
+      "score": 0.9798,
+      "box": [
+        115,
+        290,
+        686,
+        312
+      ]
+    },
+    {
+      "text": "- Developed financial analytics frameworks",
+      "score": 0.9885,
+      "box": [
+        126,
+        315,
+        525,
+        338
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9628,
+      "box": [
+        126,
+        339,
+        424,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Financial, 2019.09–2021.05",
+      "score": 0.9775,
+      "box": [
+        114,
+        381,
+        681,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9745,
+      "box": [
+        126,
+        406,
+        365,
+        431
+      ]
+    },
+    {
+      "text": "- Updated accounting policies documentation",
+      "score": 0.9784,
+      "box": [
+        126,
+        431,
+        546,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Quantitative Finance, Oakridge Valley University, 2023",
+      "score": 0.9892,
+      "box": [
+        114,
+        539,
+        731,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounts receivable",
+      "score": 0.9973,
+      "box": [
+        134,
+        566,
+        574,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of business analytics",
+      "score": 0.9897,
+      "box": [
+        133,
+        590,
+        511,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "SKYLER PARRISH\nNC, USA|+1-396-960-8035|skyler.parrish@example.com\nWORK HISTORY\nAccountants Auditors, AccuCount Advisors, 2021.05–2023.01\n- Developed financial analytics frameworks\n- Designed audit methodologies\nAccountants Auditors, FairCount Financial, 2019.09–2021.05\n- Prepared journal entries\n- Updated accounting policies documentation\nEDUCATION\nBachelor's, Quantitative Finance, Oakridge Valley University, 2023\n• Completed coursework in accounts receivable\n• Studied principles of business analytics"
+}

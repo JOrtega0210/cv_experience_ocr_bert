@@ -1,0 +1,161 @@
+{
+  "id": "02185",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.969,
+  "n_lines": 11,
+  "mean_score": 0.985,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KRISTIN ADKINS",
+      "score": 0.986,
+      "box": [
+        116,
+        90,
+        389,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-606-897-2415 |kristin.adkins@example.com",
+      "score": 0.9783,
+      "box": [
+        116,
+        152,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9814,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Start Academy, 2022.01–2022.05",
+      "score": 0.9849,
+      "box": [
+        115,
+        290,
+        862,
+        313
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9917,
+      "box": [
+        126,
+        315,
+        459,
+        338
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.9926,
+      "box": [
+        128,
+        341,
+        443,
+        361
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Instructional Studies, Goldenview University, 2007",
+      "score": 0.9797,
+      "box": [
+        115,
+        449,
+        671,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Child Studies, Silverton University, 2005",
+      "score": 0.9714,
+      "box": [
+        114,
+        472,
+        672,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional consistency",
+      "score": 0.9824,
+      "box": [
+        133,
+        496,
+        606,
+        523
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational data basics",
+      "score": 0.9876,
+      "box": [
+        136,
+        525,
+        607,
+        545
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "KRISTIN ADKINS\nAR, USA|+1-606-897-2415 |kristin.adkins@example.com\nWORK HISTORY\nElementary Middle School Teachers, Learning Start Academy, 2022.01–2022.05\n- Recorded behavioral observations\n- Scheduled instructional activities\nEDUCATION\nMaster's, Instructional Studies, Goldenview University, 2007\nBachelor's, Applied Child Studies, Silverton University, 2005\n• Studied fundamentals of instructional consistency\n• Completed coursework in educational data basics"
+}

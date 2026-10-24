@@ -1,0 +1,200 @@
+{
+  "id": "16093",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.93,
+  "n_lines": 14,
+  "mean_score": 0.983,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JASLYN DUNN",
+      "score": 0.9871,
+      "box": [
+        116,
+        90,
+        355,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-612-302-8567 |jaslyn.dunn@example.com",
+      "score": 0.9744,
+      "box": [
+        116,
+        151,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindWay Nursing Services, 2021.04–2023.01",
+      "score": 0.9825,
+      "box": [
+        116,
+        290,
+        721,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.9809,
+      "box": [
+        127,
+        315,
+        568,
+        338
+      ]
+    },
+    {
+      "text": "- Directed clinical training standards",
+      "score": 0.9671,
+      "box": [
+        126,
+        339,
+        460,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIBridge Health Group, 2019.06–2021.04",
+      "score": 0.9777,
+      "box": [
+        116,
+        383,
+        706,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with surgical prep",
+      "score": 0.9943,
+      "box": [
+        125,
+        404,
+        390,
+        434
+      ]
+    },
+    {
+      "text": "- Assisted with hygiene care",
+      "score": 0.9781,
+      "box": [
+        126,
+        430,
+        390,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Nursing Studies, Brightfield Ridge University, 2021",
+      "score": 0.9878,
+      "box": [
+        115,
+        541,
+        672,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Technology, Goldenview University, 2019",
+      "score": 0.988,
+      "box": [
+        114,
+        565,
+        727,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of time management in care",
+      "score": 0.9692,
+      "box": [
+        132,
+        590,
+        578,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in enteral feeding basics",
+      "score": 0.9915,
+      "box": [
+        134,
+        616,
+        593,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "JASLYN DUNN\nGA, USA |+1-612-302-8567 |jaslyn.dunn@example.com\nWORK HISTORY\nRegistered Nurses, KindWay Nursing Services, 2021.04–2023.01\n- Implemented evidence-based practice models\n- Directed clinical training standards\nRegistered Nurses, WelIBridge Health Group, 2019.06–2021.04\n- Assisted with surgical prep\n- Assisted with hygiene care\nEDUCATION\nMaster's, Nursing Studies, Brightfield Ridge University, 2021\nBachelor's, Health Care Technology, Goldenview University, 2019\n• Studied principles of time management in care\n• Completed coursework in enteral feeding basics"
+}

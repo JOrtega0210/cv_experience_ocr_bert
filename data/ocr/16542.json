@@ -1,0 +1,226 @@
+{
+  "id": "16542",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.984,
+  "n_lines": 16,
+  "mean_score": 0.9854,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CRYSTAL SHERMAN",
+      "score": 0.9854,
+      "box": [
+        117,
+        90,
+        452,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-652-507-7780 |crystal.sherman@example.com",
+      "score": 0.9888,
+      "box": [
+        117,
+        152,
+        690,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Health Services, 2020.08–2023.01",
+      "score": 0.9891,
+      "box": [
+        115,
+        289,
+        728,
+        314
+      ]
+    },
+    {
+      "text": "- Directed interdisciplinary workflow alignment",
+      "score": 0.9824,
+      "box": [
+        126,
+        313,
+        554,
+        339
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.9849,
+      "box": [
+        128,
+        340,
+        455,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHands Care Center, 2018.02–2020.08",
+      "score": 0.9791,
+      "box": [
+        115,
+        381,
+        697,
+        406
+      ]
+    },
+    {
+      "text": "- Provided pediatric nursing care",
+      "score": 0.991,
+      "box": [
+        126,
+        406,
+        431,
+        431
+      ]
+    },
+    {
+      "text": "- Supervised clinical documentation",
+      "score": 0.9918,
+      "box": [
+        126,
+        431,
+        457,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Touch Health, 2015.08–2018.02",
+      "score": 0.9844,
+      "box": [
+        116,
+        473,
+        667,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9845,
+      "box": [
+        125,
+        497,
+        479,
+        522
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9793,
+      "box": [
+        126,
+        521,
+        444,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9965,
+      "box": [
+        115,
+        585,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Sciences, Clearwater University, 2019",
+      "score": 0.988,
+      "box": [
+        114,
+        631,
+        656,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of continuity of care",
+      "score": 0.984,
+      "box": [
+        132,
+        656,
+        500,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient mobility",
+      "score": 0.9729,
+      "box": [
+        133,
+        681,
+        518,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "CRYSTAL SHERMAN\nGA, USA|+1-652-507-7780 |crystal.sherman@example.com\nWORK HISTORY\nRegistered Nurses, NewSpring Health Services, 2020.08–2023.01\n- Directed interdisciplinary workflow alignment\n- Led nursing workflow optimization\nRegistered Nurses, KindHands Care Center, 2018.02–2020.08\n- Provided pediatric nursing care\n- Supervised clinical documentation\nRegistered Nurses, Caring Touch Health, 2015.08–2018.02\n- Prepared medical equipment for use\n- Collected patient health histories\nEDUCATION\nBachelor's, Medical Sciences, Clearwater University, 2019\n• Studied principles of continuity of care\n• Studied fundamentals of patient mobility"
+}

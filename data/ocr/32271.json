@@ -1,0 +1,278 @@
+{
+  "id": "32271",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.892,
+  "n_lines": 20,
+  "mean_score": 0.9832,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CORYLEE",
+      "score": 0.9958,
+      "box": [
+        115,
+        88,
+        291,
+        122
+      ]
+    },
+    {
+      "text": "NV, USA|+1-981-371-2311|cory.lee@example.com",
+      "score": 0.971,
+      "box": [
+        115,
+        150,
+        615,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9871,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Solutions, 2020.06–2023.01",
+      "score": 0.9802,
+      "box": [
+        114,
+        288,
+        695,
+        313
+      ]
+    },
+    {
+      "text": "- Designed logging infrastructures",
+      "score": 0.9761,
+      "box": [
+        126,
+        315,
+        443,
+        338
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9835,
+      "box": [
+        126,
+        339,
+        444,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Software, 2017.11–2020.06",
+      "score": 0.987,
+      "box": [
+        115,
+        381,
+        679,
+        406
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9912,
+      "box": [
+        126,
+        406,
+        447,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented disaster recovery plans",
+      "score": 0.9914,
+      "box": [
+        126,
+        431,
+        482,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Bluepoint Digital, 2015.03–2017.11",
+      "score": 0.9892,
+      "box": [
+        116,
+        472,
+        645,
+        496
+      ]
+    },
+    {
+      "text": "- Developed microservices",
+      "score": 0.9678,
+      "box": [
+        125,
+        496,
+        376,
+        521
+      ]
+    },
+    {
+      "text": "- Wrote automated tests",
+      "score": 0.9609,
+      "box": [
+        126,
+        522,
+        352,
+        544
+      ]
+    },
+    {
+      "text": "Software Developers, Stoneframe Software, 2012.07–2015.03",
+      "score": 0.991,
+      "box": [
+        114,
+        563,
+        693,
+        588
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.987,
+      "box": [
+        126,
+        590,
+        340,
+        614
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.984,
+      "box": [
+        126,
+        613,
+        448,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Willow Ridge University, 2013",
+      "score": 0.9509,
+      "box": [
+        115,
+        724,
+        482,
+        746
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearwood University, 2011",
+      "score": 0.9954,
+      "box": [
+        115,
+        748,
+        480,
+        771
+      ]
+    },
+    {
+      "text": "• Studied principles of versioning strategies",
+      "score": 0.9934,
+      "box": [
+        133,
+        774,
+        533,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in accessibility standards",
+      "score": 0.9814,
+      "box": [
+        133,
+        799,
+        598,
+        822
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "CORYLEE\nNV, USA|+1-981-371-2311|cory.lee@example.com\nWORK HISTORY\nSoftware Developers, Datastream Solutions, 2020.06–2023.01\n- Designed logging infrastructures\n- Designed observability platforms\nSoftware Developers, Corewave Software, 2017.11–2020.06\n- Designed caching infrastructures\n- Implemented disaster recovery plans\nSoftware Developers, Bluepoint Digital, 2015.03–2017.11\n- Developed microservices\n- Wrote automated tests\nSoftware Developers, Stoneframe Software, 2012.07–2015.03\n- Updated routing logic\n- Performed basic APl integrations\nEDUCATION\nMaster's, Willow Ridge University, 2013\nBachelor's, Clearwood University, 2011\n• Studied principles of versioning strategies\n• Completed coursework in accessibility standards"
+}

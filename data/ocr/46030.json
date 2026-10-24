@@ -1,0 +1,148 @@
+{
+  "id": "46030",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.785,
+  "n_lines": 10,
+  "mean_score": 0.9815,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SIANNA EATON",
+      "score": 0.9776,
+      "box": [
+        116,
+        90,
+        373,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-205-919-3440 |sianna.eaton@example.com",
+      "score": 0.9791,
+      "box": [
+        115,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9794,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Start School, 2021.10–2023.01",
+      "score": 0.9799,
+      "box": [
+        116,
+        290,
+        810,
+        313
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9757,
+      "box": [
+        126,
+        314,
+        517,
+        340
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.982,
+      "box": [
+        126,
+        339,
+        413,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Education, Golden Meadow University, 221",
+      "score": 0.9798,
+      "box": [
+        115,
+        449,
+        710,
+        472
+      ]
+    },
+    {
+      "text": "• Completed introductory coursework in educational psychology",
+      "score": 0.974,
+      "box": [
+        132,
+        473,
+        720,
+        499
+      ]
+    },
+    {
+      "text": "• Studied principles of learning outcomes assessment",
+      "score": 0.9896,
+      "box": [
+        133,
+        498,
+        630,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "SIANNA EATON\nPA, USA|+1-205-919-3440 |sianna.eaton@example.com\nWORK HISTORY\nElementary Middle School Teachers, Bright Start School, 2021.10–2023.01\n- Organized classroom learning resources\n- Administered learning games\nEDUCATION\nBachelor's, Applied Education, Golden Meadow University, 221\n• Completed introductory coursework in educational psychology\n• Studied principles of learning outcomes assessment"
+}

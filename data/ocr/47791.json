@@ -1,0 +1,213 @@
+{
+  "id": "47791",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.841,
+  "n_lines": 15,
+  "mean_score": 0.9843,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JILL MACK",
+      "score": 0.9935,
+      "box": [
+        115,
+        88,
+        299,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA|+1-358-479-7251 |jll.mack@example.com",
+      "score": 0.9601,
+      "box": [
+        116,
+        151,
+        616,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueSpring Nursing, 2019.11–2023.01",
+      "score": 0.9846,
+      "box": [
+        115,
+        289,
+        655,
+        314
+      ]
+    },
+    {
+      "text": "- Established clinical evaluation protocols",
+      "score": 0.982,
+      "box": [
+        125,
+        313,
+        510,
+        339
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.9725,
+      "box": [
+        127,
+        339,
+        459,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeLife Health Group, 2016.09–2019.11",
+      "score": 0.9856,
+      "box": [
+        116,
+        382,
+        681,
+        406
+      ]
+    },
+    {
+      "text": "- Provided rehabilitation nursing care",
+      "score": 0.9767,
+      "box": [
+        125,
+        405,
+        470,
+        432
+      ]
+    },
+    {
+      "text": "- Supervised junior nursing staff",
+      "score": 0.9834,
+      "box": [
+        126,
+        430,
+        424,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewPath Nursing Group, 2011.08–2014.11",
+      "score": 0.9935,
+      "box": [
+        116,
+        472,
+        701,
+        496
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.9859,
+      "box": [
+        125,
+        496,
+        512,
+        522
+      ]
+    },
+    {
+      "text": "- Performed wound dressing changes",
+      "score": 0.99,
+      "box": [
+        126,
+        521,
+        476,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Biomedical Sciences, Seabreeze High School, 1997",
+      "score": 0.9866,
+      "box": [
+        116,
+        632,
+        858,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of clinical supervision",
+      "score": 0.9874,
+      "box": [
+        132,
+        656,
+        553,
+        681
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "JILL MACK\nSC, USA|+1-358-479-7251 |jll.mack@example.com\nWORK HISTORY\nRegistered Nurses, TrueSpring Nursing, 2019.11–2023.01\n- Established clinical evaluation protocols\n- Developed patient care algorithms\nRegistered Nurses, SafeLife Health Group, 2016.09–2019.11\n- Provided rehabilitation nursing care\n- Supervised junior nursing staff\nRegistered Nurses, NewPath Nursing Group, 2011.08–2014.11\n- Performed basic life support procedures\n- Performed wound dressing changes\nEDUCATION\nHigh school graduate/GED, Biomedical Sciences, Seabreeze High School, 1997\n• Studied fundamentals of clinical supervision"
+}

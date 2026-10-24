@@ -1,0 +1,200 @@
+{
+  "id": "44748",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.817,
+  "n_lines": 14,
+  "mean_score": 0.9853,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAMISON HESS",
+      "score": 0.9927,
+      "box": [
+        116,
+        90,
+        370,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-560-382-2333 |jamison.hess@example.com",
+      "score": 0.9819,
+      "box": [
+        115,
+        150,
+        662,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9833,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Group, 2020.05–2023.01",
+      "score": 0.9927,
+      "box": [
+        115,
+        289,
+        664,
+        312
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9775,
+      "box": [
+        125,
+        313,
+        323,
+        340
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9795,
+      "box": [
+        126,
+        339,
+        502,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Services, 2017.09–2020.05",
+      "score": 0.9851,
+      "box": [
+        114,
+        381,
+        716,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with financial statement preparation",
+      "score": 0.9873,
+      "box": [
+        125,
+        406,
+        555,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.976,
+      "box": [
+        126,
+        432,
+        404,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Business Economics, Maple Ridge University, 2018",
+      "score": 0.9859,
+      "box": [
+        114,
+        539,
+        684,
+        565
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Analysis, Driftwood University, 2016",
+      "score": 0.9917,
+      "box": [
+        115,
+        566,
+        648,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of depreciation methods",
+      "score": 0.9704,
+      "box": [
+        133,
+        591,
+        579,
+        614
+      ]
+    },
+    {
+      "text": "• Completed coursework in segment reporting",
+      "score": 0.9925,
+      "box": [
+        133,
+        615,
+        557,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "JAMISON HESS\nPA, USA|+1-560-382-2333 |jamison.hess@example.com\nWORK HISTORY\nAccountants Auditors, CoreBooks Group, 2020.05–2023.01\n- Led audit programs\n- Led accounting transformation projects\nAccountants Auditors, SteadyLedger Services, 2017.09–2020.05\n- Assisted with financial statement preparation\n- Assisted with audit fieldwork\nEDUCATION\nMaster's, Business Economics, Maple Ridge University, 2018\nBachelor's, Financial Analysis, Driftwood University, 2016\n• Studied fundamentals of depreciation methods\n• Completed coursework in segment reporting"
+}

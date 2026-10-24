@@ -1,0 +1,187 @@
+{
+  "id": "46440",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.801,
+  "n_lines": 13,
+  "mean_score": 0.9815,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KELLIE WATTS",
+      "score": 0.9784,
+      "box": [
+        116,
+        90,
+        365,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-958-210-7979 |kellie.watts@example.com",
+      "score": 0.9736,
+      "box": [
+        115,
+        150,
+        642,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9797,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Heart Nursing, 2020.12–2023.01",
+      "score": 0.9863,
+      "box": [
+        115,
+        289,
+        679,
+        314
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.9757,
+      "box": [
+        126,
+        313,
+        425,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9789,
+      "box": [
+        127,
+        340,
+        456,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearBridge Nursing Services, 2018.11–2020.12",
+      "score": 0.9732,
+      "box": [
+        115,
+        381,
+        749,
+        406
+      ]
+    },
+    {
+      "text": "- Checked laboratory results",
+      "score": 0.9837,
+      "box": [
+        126,
+        407,
+        391,
+        430
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9685,
+      "box": [
+        127,
+        432,
+        480,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Studies, Foxwood University, 2016",
+      "score": 0.9903,
+      "box": [
+        115,
+        541,
+        665,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of infection control",
+      "score": 0.9864,
+      "box": [
+        133,
+        566,
+        489,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of sleep management in care",
+      "score": 0.9861,
+      "box": [
+        132,
+        590,
+        625,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KELLIE WATTS\nPA, USA|+1-958-210-7979 |kellie.watts@example.com\nWORK HISTORY\nRegistered Nurses, Helping Heart Nursing, 2020.12–2023.01\n- Led clinical governance efforts\n- Implemented care standardization\nRegistered Nurses, ClearBridge Nursing Services, 2018.11–2020.12\n- Checked laboratory results\n- Provided patient education materials\nEDUCATION\nBachelor's, Health Care Studies, Foxwood University, 2016\n• Studied principles of infection control\n• Studied fundamentals of sleep management in care"
+}

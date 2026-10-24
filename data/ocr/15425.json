@@ -1,0 +1,226 @@
+{
+  "id": "15425",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.936,
+  "n_lines": 16,
+  "mean_score": 0.9786,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SANDY KIRBY",
+      "score": 0.9634,
+      "box": [
+        115,
+        90,
+        349,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-777-799-7656 | sandy.kirby@example.com",
+      "score": 0.9655,
+      "box": [
+        117,
+        151,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeSpring Medical Services, 2019.12–2023.01",
+      "score": 0.9698,
+      "box": [
+        115,
+        289,
+        732,
+        314
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.9876,
+      "box": [
+        127,
+        315,
+        392,
+        338
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9729,
+      "box": [
+        127,
+        340,
+        474,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleSpring Health, 2016.05–2019.06",
+      "score": 0.9834,
+      "box": [
+        115,
+        381,
+        664,
+        406
+      ]
+    },
+    {
+      "text": "- Administered chemotherapy protocols",
+      "score": 0.9921,
+      "box": [
+        125,
+        406,
+        492,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed care plan outcomes",
+      "score": 0.9786,
+      "box": [
+        126,
+        430,
+        423,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearWay Health Group, 2012.09–2015.11",
+      "score": 0.9877,
+      "box": [
+        116,
+        472,
+        695,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9824,
+      "box": [
+        125,
+        496,
+        372,
+        523
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9603,
+      "box": [
+        126,
+        521,
+        435,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Assisting, Oakfield University, 2010",
+      "score": 0.977,
+      "box": [
+        115,
+        632,
+        630,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of pediatric nursing",
+      "score": 0.97,
+      "box": [
+        132,
+        656,
+        532,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in medication safety",
+      "score": 0.9818,
+      "box": [
+        135,
+        683,
+        551,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "SANDY KIRBY\nGA, USA|+1-777-799-7656 | sandy.kirby@example.com\nWORK HISTORY\nRegistered Nurses, LifeSpring Medical Services, 2019.12–2023.01\n- Led nursing process audits\n- Developed care quality benchmarks\nRegistered Nurses, GentleSpring Health, 2016.05–2019.06\n- Administered chemotherapy protocols\n- Reviewed care plan outcomes\nRegistered Nurses, ClearWay Health Group, 2012.09–2015.11\n- Prepared sterile supplies\n- Monitored patient dietary needs\nEDUCATION\nBachelor's, Medical Assisting, Oakfield University, 2010\n• Studied fundamentals of pediatric nursing\n• Completed coursework in medication safety"
+}

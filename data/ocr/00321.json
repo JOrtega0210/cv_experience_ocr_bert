@@ -1,0 +1,148 @@
+{
+  "id": "00321",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.822,
+  "n_lines": 10,
+  "mean_score": 0.983,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CODY COOK",
+      "score": 0.9688,
+      "box": [
+        117,
+        90,
+        324,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-420-246-6784 |cody.cook@example.com",
+      "score": 0.9892,
+      "box": [
+        116,
+        152,
+        631,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softpeak Technologies, 2019.12–2022.01",
+      "score": 0.9831,
+      "box": [
+        116,
+        290,
+        708,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9798,
+      "box": [
+        125,
+        314,
+        436,
+        339
+      ]
+    },
+    {
+      "text": "- Monitored application logs",
+      "score": 0.9787,
+      "box": [
+        126,
+        339,
+        385,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Oakway University, 2017",
+      "score": 0.9779,
+      "box": [
+        116,
+        449,
+        601,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of database design",
+      "score": 0.9896,
+      "box": [
+        132,
+        472,
+        495,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of responsive design",
+      "score": 0.9797,
+      "box": [
+        133,
+        497,
+        547,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "CODY COOK\nAL, USA|+1-420-246-6784 |cody.cook@example.com\nWORK HISTORY\nSoftware Developers, Softpeak Technologies, 2019.12–2022.01\n- Reviewed test coverage reports\n- Monitored application logs\nEDUCATION\nSome college (no degree), Oakway University, 2017\n• Studied principles of database design\n• Studied fundamentals of responsive design"
+}

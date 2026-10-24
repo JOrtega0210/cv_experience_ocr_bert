@@ -1,0 +1,265 @@
+{
+  "id": "40829",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.94,
+  "n_lines": 19,
+  "mean_score": 0.9784,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "THOMAS MERRITT",
+      "score": 0.9866,
+      "box": [
+        115,
+        90,
+        421,
+        120
+      ]
+    },
+    {
+      "text": "NC, USA|+1-890-212-5020|thomas.merritt@example.com",
+      "score": 0.9873,
+      "box": [
+        116,
+        151,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Financial, 2019.04–2023.01",
+      "score": 0.9754,
+      "box": [
+        114,
+        289,
+        699,
+        314
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9693,
+      "box": [
+        126,
+        313,
+        530,
+        339
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9706,
+      "box": [
+        126,
+        339,
+        518,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Financial, 2015.07–2019.04",
+      "score": 0.9939,
+      "box": [
+        115,
+        381,
+        694,
+        406
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9764,
+      "box": [
+        126,
+        406,
+        530,
+        431
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9745,
+      "box": [
+        126,
+        431,
+        479,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Advisors, 2011.09–2015.07",
+      "score": 0.9571,
+      "box": [
+        113,
+        470,
+        733,
+        498
+      ]
+    },
+    {
+      "text": "- Managed monthly close processes",
+      "score": 0.9715,
+      "box": [
+        125,
+        497,
+        463,
+        522
+      ]
+    },
+    {
+      "text": "- Conducted variance investigations",
+      "score": 0.977,
+      "box": [
+        126,
+        521,
+        460,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Co., 2007.11–2011.09",
+      "score": 0.9834,
+      "box": [
+        115,
+        564,
+        694,
+        587
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9693,
+      "box": [
+        125,
+        589,
+        356,
+        614
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.983,
+      "box": [
+        125,
+        613,
+        420,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Services, Meadowcrest University, 2006",
+      "score": 0.9682,
+      "box": [
+        114,
+        723,
+        686,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of variance analysis",
+      "score": 0.9771,
+      "box": [
+        132,
+        747,
+        539,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of information management",
+      "score": 0.9842,
+      "box": [
+        134,
+        774,
+        574,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "THOMAS MERRITT\nNC, USA|+1-890-212-5020|thomas.merritt@example.com\nWORK HISTORY\nAccountants Auditors, AccuLedger Financial, 2019.04–2023.01\n- Established reporting automation systems\n- Established financial reporting standards\nAccountants Auditors, SolidBooks Financial, 2015.07–2019.04\n- Established reporting automation systems\n- Led accounting process optimization\nAccountants Auditors, Reliable Ledger Advisors, 2011.09–2015.07\n- Managed monthly close processes\n- Conducted variance investigations\nAccountants Auditors, Reliable Balance Co., 2007.11–2011.09\n- Prepared aging reports\n- Reconciled subsidiary ledgers\nEDUCATION\nBachelor's, Financial Services, Meadowcrest University, 2006\n• Studied fundamentals of variance analysis\n• Studied principles of information management"
+}

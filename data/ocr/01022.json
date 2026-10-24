@@ -1,0 +1,187 @@
+{
+  "id": "01022",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.002,
+  "n_lines": 13,
+  "mean_score": 0.9814,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ELIZABETH GARRETT",
+      "score": 0.973,
+      "box": [
+        117,
+        90,
+        476,
+        120
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-738-467-1898|elizabeth.garrett@example.com",
+      "score": 0.9688,
+      "box": [
+        116,
+        151,
+        689,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9918,
+      "box": [
+        115,
+        242,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Bridge Academy, 2018.05–2020.12",
+      "score": 0.974,
+      "box": [
+        114,
+        289,
+        874,
+        314
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.9821,
+      "box": [
+        126,
+        315,
+        534,
+        338
+      ]
+    },
+    {
+      "text": "- Directed program effectiveness studies",
+      "score": 0.9776,
+      "box": [
+        126,
+        339,
+        503,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Futures Learning, 2014.12–2017.08",
+      "score": 0.9885,
+      "box": [
+        115,
+        381,
+        855,
+        406
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9816,
+      "box": [
+        126,
+        407,
+        398,
+        429
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.9958,
+      "box": [
+        126,
+        431,
+        518,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Applied Education, Elm Ridge University, 2008",
+      "score": 0.976,
+      "box": [
+        115,
+        539,
+        736,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in interactive learning methods",
+      "score": 0.9843,
+      "box": [
+        134,
+        566,
+        650,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic curriculum planning",
+      "score": 0.9674,
+      "box": [
+        133,
+        590,
+        625,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ELIZABETH GARRETT\nAZ, USA|+1-738-467-1898|elizabeth.garrett@example.com\nWORK HISTORY\nElementary Middle School Teachers, Growing Bridge Academy, 2018.05–2020.12\n- Developed instructional evaluation metrics\n- Directed program effectiveness studies\nElementary Middle School Teachers, Bright Futures Learning, 2014.12–2017.08\n- Recorded student feedback\n- Supported standardized testing sessions\nEDUCATION\nAssociate's degree, Applied Education, Elm Ridge University, 2008\n• Completed coursework in interactive learning methods\n• Completed coursework in basic curriculum planning"
+}

@@ -1,0 +1,239 @@
+{
+  "id": "05156",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.99,
+  "n_lines": 17,
+  "mean_score": 0.978,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ALYSSATRAN",
+      "score": 0.9981,
+      "box": [
+        115,
+        88,
+        357,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-500-621-3080 |alyssa.tran@example.com",
+      "score": 0.967,
+      "box": [
+        116,
+        151,
+        642,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Advisors, 2020.04–2023.01",
+      "score": 0.9877,
+      "box": [
+        114,
+        289,
+        693,
+        313
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.9767,
+      "box": [
+        127,
+        315,
+        485,
+        338
+      ]
+    },
+    {
+      "text": "- Directed accounting leadership initiatives",
+      "score": 0.978,
+      "box": [
+        126,
+        339,
+        520,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Financial Group, 2017.07–2020.04",
+      "score": 0.9815,
+      "box": [
+        114,
+        381,
+        755,
+        406
+      ]
+    },
+    {
+      "text": "- Developed internal audit programs",
+      "score": 0.9819,
+      "box": [
+        125,
+        406,
+        461,
+        432
+      ]
+    },
+    {
+      "text": "- Developed financial policies",
+      "score": 0.9778,
+      "box": [
+        125,
+        430,
+        400,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2014.10–2017.07",
+      "score": 0.9767,
+      "box": [
+        115,
+        472,
+        714,
+        496
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9804,
+      "box": [
+        125,
+        497,
+        549,
+        519
+      ]
+    },
+    {
+      "text": "- Prepared expense reports",
+      "score": 0.9634,
+      "box": [
+        126,
+        521,
+        384,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Economics, Goldenview University, 2017",
+      "score": 0.9772,
+      "box": [
+        115,
+        631,
+        585,
+        654
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Accounting, Valley View University, 2015",
+      "score": 0.9691,
+      "box": [
+        114,
+        656,
+        693,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit evidence",
+      "score": 0.9789,
+      "box": [
+        133,
+        682,
+        513,
+        704
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of tax planning",
+      "score": 0.9478,
+      "box": [
+        132,
+        706,
+        491,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "ALYSSATRAN\nCA, USA|+1-500-621-3080 |alyssa.tran@example.com\nWORK HISTORY\nAccountants Auditors, OpenBooks Advisors, 2020.04–2023.01\n- Designed financial policy frameworks\n- Directed accounting leadership initiatives\nAccountants Auditors, SolidCount Financial Group, 2017.07–2020.04\n- Developed internal audit programs\n- Developed financial policies\nAccountants Auditors, Balanced Books Group, 2014.10–2017.07\n- Processed accounts receivable transactions\n- Prepared expense reports\nEDUCATION\nMaster's, Economics, Goldenview University, 2017\nBachelor's, Financial Accounting, Valley View University, 2015\n• Studied fundamentals of audit evidence\n• Studied fundamentals of tax planning"
+}

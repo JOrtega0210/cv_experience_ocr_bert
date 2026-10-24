@@ -1,0 +1,265 @@
+{
+  "id": "51194",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.878,
+  "n_lines": 19,
+  "mean_score": 0.9791,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JACKIE MCKAY",
+      "score": 0.9805,
+      "box": [
+        114,
+        87,
+        375,
+        123
+      ]
+    },
+    {
+      "text": "TX, USA|+1-868-812-5443 |jackie.mckay@example.com",
+      "score": 0.9765,
+      "box": [
+        115,
+        150,
+        658,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9896,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Digital, 2018.12–2023.01",
+      "score": 0.991,
+      "box": [
+        115,
+        288,
+        649,
+        313
+      ]
+    },
+    {
+      "text": "- Defined API standards",
+      "score": 0.9688,
+      "box": [
+        125,
+        313,
+        352,
+        338
+      ]
+    },
+    {
+      "text": "- Built fault-tolerant systems",
+      "score": 0.9668,
+      "box": [
+        126,
+        338,
+        388,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Softstack Digital, 2014.10–2018.12",
+      "score": 0.9806,
+      "box": [
+        115,
+        381,
+        646,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9802,
+      "box": [
+        126,
+        406,
+        466,
+        431
+      ]
+    },
+    {
+      "text": "- Designed deployment strategies",
+      "score": 0.9842,
+      "box": [
+        126,
+        430,
+        441,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Ironleaf Tech, 2010.08–2014.10",
+      "score": 0.9868,
+      "box": [
+        114,
+        471,
+        619,
+        496
+      ]
+    },
+    {
+      "text": "- Handled load testing",
+      "score": 0.9603,
+      "box": [
+        124,
+        496,
+        333,
+        522
+      ]
+    },
+    {
+      "text": "- Improved code coverage",
+      "score": 0.9713,
+      "box": [
+        126,
+        521,
+        372,
+        549
+      ]
+    },
+    {
+      "text": "Software Developers, Clearline Software, 2006.06–2010.08",
+      "score": 0.9882,
+      "box": [
+        115,
+        563,
+        667,
+        588
+      ]
+    },
+    {
+      "text": "- Reviewed code changes for syntax and logic issues",
+      "score": 0.9787,
+      "box": [
+        125,
+        589,
+        621,
+        614
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9865,
+      "box": [
+        126,
+        615,
+        347,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, North Ridge University, 2005",
+      "score": 0.9644,
+      "box": [
+        115,
+        725,
+        493,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in parallel computing",
+      "score": 0.9585,
+      "box": [
+        132,
+        748,
+        558,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in computer programming fundamentals",
+      "score": 0.9917,
+      "box": [
+        134,
+        772,
+        736,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "JACKIE MCKAY\nTX, USA|+1-868-812-5443 |jackie.mckay@example.com\nWORK HISTORY\nSoftware Developers, Codepath Digital, 2018.12–2023.01\n- Defined API standards\n- Built fault-tolerant systems\nSoftware Developers, Softstack Digital, 2014.10–2018.12\n- Implemented security architectures\n- Designed deployment strategies\nSoftware Developers, Ironleaf Tech, 2010.08–2014.10\n- Handled load testing\n- Improved code coverage\nSoftware Developers, Clearline Software, 2006.06–2010.08\n- Reviewed code changes for syntax and logic issues\n- Created test data sets\nEDUCATION\nBachelor's, North Ridge University, 2005\n• Completed coursework in parallel computing\n• Completed coursework in computer programming fundamentals"
+}

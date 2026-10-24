@@ -1,0 +1,252 @@
+{
+  "id": "60194",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.931,
+  "n_lines": 18,
+  "mean_score": 0.9817,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ALYSSA DEJESUS",
+      "score": 0.9747,
+      "box": [
+        117,
+        90,
+        418,
+        121
+      ]
+    },
+    {
+      "text": "WV, USA|+1-920-993-1168|alyssa.dejesus@example.com",
+      "score": 0.966,
+      "box": [
+        115,
+        150,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9875,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueBuild Group, 2020.06–2023.01",
+      "score": 0.9796,
+      "box": [
+        115,
+        290,
+        660,
+        314
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9732,
+      "box": [
+        126,
+        314,
+        393,
+        338
+      ]
+    },
+    {
+      "text": "- Directed training programs for crews",
+      "score": 0.9742,
+      "box": [
+        126,
+        339,
+        478,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureStep Builders, 2017.10–2020.06",
+      "score": 0.9776,
+      "box": [
+        115,
+        381,
+        677,
+        406
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.991,
+      "box": [
+        126,
+        407,
+        458,
+        430
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.9865,
+      "box": [
+        126,
+        432,
+        448,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongLine Builders, 2014.03–2016.11",
+      "score": 0.9868,
+      "box": [
+        115,
+        472,
+        689,
+        496
+      ]
+    },
+    {
+      "text": "- Installed mechanical supports",
+      "score": 0.9851,
+      "box": [
+        125,
+        496,
+        418,
+        522
+      ]
+    },
+    {
+      "text": "- Installed plumbing fixtures",
+      "score": 0.9775,
+      "box": [
+        126,
+        521,
+        384,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearPoint Builders, 2010.10–2013.06",
+      "score": 0.9797,
+      "box": [
+        114,
+        563,
+        687,
+        588
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.991,
+      "box": [
+        125,
+        588,
+        361,
+        615
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.99,
+      "box": [
+        126,
+        613,
+        503,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Trades, Goldenwood High School, 2005",
+      "score": 0.9857,
+      "box": [
+        116,
+        725,
+        827,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction site security",
+      "score": 0.9658,
+      "box": [
+        132,
+        747,
+        618,
+        773
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "ALYSSA DEJESUS\nWV, USA|+1-920-993-1168|alyssa.dejesus@example.com\nWORK HISTORY\nConstruction Laborers, TrueBuild Group, 2020.06–2023.01\n- Directed project scheduling\n- Directed training programs for crews\nConstruction Laborers, SureStep Builders, 2017.10–2020.06\n- Developed construction standards\n- Led cross-functional coordination\nConstruction Laborers, StrongLine Builders, 2014.03–2016.11\n- Installed mechanical supports\n- Installed plumbing fixtures\nConstruction Laborers, ClearPoint Builders, 2010.10–2013.06\n- Installed safety signage\n- Handled power tools under supervision\nEDUCATION\nHigh school graduate/GED, Building Trades, Goldenwood High School, 2005\n• Completed coursework in construction site security"
+}

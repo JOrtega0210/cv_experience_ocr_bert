@@ -1,0 +1,187 @@
+{
+  "id": "31628",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.807,
+  "n_lines": 13,
+  "mean_score": 0.9794,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NICHOLAS BARNES",
+      "score": 0.9804,
+      "box": [
+        116,
+        90,
+        442,
+        121
+      ]
+    },
+    {
+      "text": "NE, USA|+1-626-678-8524|nicholas.barnes@example.com",
+      "score": 0.9885,
+      "box": [
+        115,
+        150,
+        687,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonefield Software, 2019.10–2022.03",
+      "score": 0.9864,
+      "box": [
+        116,
+        290,
+        677,
+        313
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9826,
+      "box": [
+        126,
+        314,
+        444,
+        339
+      ]
+    },
+    {
+      "text": "- Built fault-tolerant systems",
+      "score": 0.9765,
+      "box": [
+        126,
+        339,
+        388,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Stoneframe Software, 2015.10–2018.04",
+      "score": 0.9944,
+      "box": [
+        116,
+        382,
+        693,
+        405
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9309,
+      "box": [
+        126,
+        406,
+        447,
+        432
+      ]
+    },
+    {
+      "text": "- Updated configuration files",
+      "score": 0.9931,
+      "box": [
+        126,
+        433,
+        389,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Associate's degree, Greenwood University, 2012",
+      "score": 0.9746,
+      "box": [
+        116,
+        541,
+        569,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in quality assurance",
+      "score": 0.9538,
+      "box": [
+        132,
+        565,
+        553,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of algorithm complexity",
+      "score": 0.9867,
+      "box": [
+        133,
+        590,
+        532,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "NICHOLAS BARNES\nNE, USA|+1-626-678-8524|nicholas.barnes@example.com\nWORK HISTORY\nSoftware Developers, Stonefield Software, 2019.10–2022.03\n- Designed observability platforms\n- Built fault-tolerant systems\nSoftware Developers, Stoneframe Software, 2015.10–2018.04\n- Implemented error handling logic\n- Updated configuration files\nEDUCATION\nAssociate's degree, Greenwood University, 2012\n• Completed coursework in quality assurance\n• Studied principles of algorithm complexity"
+}

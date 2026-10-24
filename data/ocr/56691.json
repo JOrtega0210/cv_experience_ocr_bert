@@ -1,0 +1,148 @@
+{
+  "id": "56691",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.772,
+  "n_lines": 10,
+  "mean_score": 0.978,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KAILIE MCCARTY",
+      "score": 0.9782,
+      "box": [
+        116,
+        90,
+        405,
+        120
+      ]
+    },
+    {
+      "text": "VA, USA|+1-282-405-8184 |kailie.mccarty@example.com",
+      "score": 0.9777,
+      "box": [
+        115,
+        150,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.981,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Meadowbrook Academy, 2020.03–2023.01",
+      "score": 0.9808,
+      "box": [
+        116,
+        290,
+        860,
+        313
+      ]
+    },
+    {
+      "text": "- Set up classroom technology tools",
+      "score": 0.971,
+      "box": [
+        127,
+        315,
+        460,
+        338
+      ]
+    },
+    {
+      "text": "- Followed standard instructional schedules",
+      "score": 0.976,
+      "box": [
+        126,
+        339,
+        529,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Support, Clearwater University, 2019",
+      "score": 0.9713,
+      "box": [
+        115,
+        449,
+        681,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of educational research basics",
+      "score": 0.9947,
+      "box": [
+        133,
+        473,
+        602,
+        496
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional goal setting",
+      "score": 0.9504,
+      "box": [
+        132,
+        497,
+        603,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "KAILIE MCCARTY\nVA, USA|+1-282-405-8184 |kailie.mccarty@example.com\nWORK HISTORY\nElementary Middle School Teachers, Meadowbrook Academy, 2020.03–2023.01\n- Set up classroom technology tools\n- Followed standard instructional schedules\nEDUCATION\nBachelor's, Educational Support, Clearwater University, 2019\n• Studied principles of educational research basics\n• Studied fundamentals of instructional goal setting"
+}

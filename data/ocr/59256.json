@@ -1,0 +1,265 @@
+{
+  "id": "59256",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.925,
+  "n_lines": 19,
+  "mean_score": 0.979,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "WILLIAM ALLEN",
+      "score": 0.9865,
+      "box": [
+        116,
+        90,
+        381,
+        120
+      ]
+    },
+    {
+      "text": "WA, USA|+1-858-930-8354|william.allen@example.com",
+      "score": 0.9706,
+      "box": [
+        114,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9794,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Financial, 2020.01–2023.01",
+      "score": 0.9874,
+      "box": [
+        115,
+        289,
+        714,
+        313
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.989,
+      "box": [
+        126,
+        313,
+        494,
+        339
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.9537,
+      "box": [
+        127,
+        339,
+        478,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Advisors, 2016.12–2020.01",
+      "score": 0.9951,
+      "box": [
+        115,
+        381,
+        707,
+        406
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9881,
+      "box": [
+        126,
+        406,
+        467,
+        431
+      ]
+    },
+    {
+      "text": "- Developed financial performance metrics",
+      "score": 0.9754,
+      "box": [
+        126,
+        431,
+        520,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Financial Group, 2013.11–2016.12",
+      "score": 0.9547,
+      "box": [
+        113,
+        470,
+        764,
+        498
+      ]
+    },
+    {
+      "text": "- Conducted account reconciliations",
+      "score": 0.9742,
+      "box": [
+        127,
+        497,
+        459,
+        519
+      ]
+    },
+    {
+      "text": "– Managed accounting system updates",
+      "score": 0.9728,
+      "box": [
+        127,
+        523,
+        487,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Services, 2008.09–2011.10",
+      "score": 0.9722,
+      "box": [
+        116,
+        565,
+        742,
+        588
+      ]
+    },
+    {
+      "text": "-Maintained supporting documentation",
+      "score": 0.9787,
+      "box": [
+        125,
+        589,
+        489,
+        612
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.9829,
+      "box": [
+        127,
+        614,
+        414,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Corporate Finance, Cloverfield University, 2006",
+      "score": 0.9708,
+      "box": [
+        115,
+        724,
+        663,
+        746
+      ]
+    },
+    {
+      "text": "• Studied principles of hedge accounting",
+      "score": 0.9922,
+      "box": [
+        133,
+        749,
+        506,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit planning techniques",
+      "score": 0.9795,
+      "box": [
+        135,
+        774,
+        625,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "WILLIAM ALLEN\nWA, USA|+1-858-930-8354|william.allen@example.com\nWORK HISTORY\nAccountants Auditors, OpenBalance Financial, 2020.01–2023.01\n- Established financial data governance\n- Led regulatory compliance initiatives\nAccountants Auditors, SolidBalance Advisors, 2016.12–2020.01\n- Developed internal control systems\n- Developed financial performance metrics\nAccountants Auditors, CoreLedger Financial Group, 2013.11–2016.12\n- Conducted account reconciliations\n– Managed accounting system updates\nAccountants Auditors, Integrity Balance Services, 2008.09–2011.10\n-Maintained supporting documentation\n- Verified financial transactions\nEDUCATION\nBachelor's, Corporate Finance, Cloverfield University, 2006\n• Studied principles of hedge accounting\n• Completed coursework in audit planning techniques"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "02063",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.98,
+  "n_lines": 13,
+  "mean_score": 0.9799,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HEATHER BRYAN",
+      "score": 0.9863,
+      "box": [
+        116,
+        90,
+        408,
+        120
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-445-391-2884 |heather.bryan@example.com",
+      "score": 0.9653,
+      "box": [
+        115,
+        151,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9784,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Stars Academy, 2018.12–221.02",
+      "score": 0.9824,
+      "box": [
+        114,
+        289,
+        863,
+        314
+      ]
+    },
+    {
+      "text": "- Led instructional leadership initiatives",
+      "score": 0.9709,
+      "box": [
+        125,
+        313,
+        488,
+        338
+      ]
+    },
+    {
+      "text": "- Established instructional best practices",
+      "score": 0.9847,
+      "box": [
+        126,
+        339,
+        502,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Start School, 2015.12–2018.02",
+      "score": 0.9785,
+      "box": [
+        116,
+        382,
+        799,
+        405
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.9588,
+      "box": [
+        125,
+        406,
+        399,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared instructional materials and worksheets",
+      "score": 0.988,
+      "box": [
+        125,
+        431,
+        588,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Academic Support Studies, Brookstone University, 2012",
+      "score": 0.9751,
+      "box": [
+        114,
+        539,
+        744,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom workflow organization",
+      "score": 0.9899,
+      "box": [
+        134,
+        566,
+        691,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational technology basics",
+      "score": 0.9818,
+      "box": [
+        133,
+        590,
+        668,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "HEATHER BRYAN\nAZ, USA|+1-445-391-2884 |heather.bryan@example.com\nWORK HISTORY\nElementary Middle School Teachers, Growing Stars Academy, 2018.12–221.02\n- Led instructional leadership initiatives\n- Established instructional best practices\nElementary Middle School Teachers, Kind Start School, 2015.12–2018.02\n- Conducted spelling practice\n- Prepared instructional materials and worksheets\nEDUCATION\nBachelor's, Academic Support Studies, Brookstone University, 2012\n• Completed coursework in classroom workflow organization\n• Completed coursework in educational technology basics"
+}

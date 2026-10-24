@@ -1,0 +1,226 @@
+{
+  "id": "01847",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.934,
+  "n_lines": 16,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CHRISTOPHER WHEELER",
+      "score": 0.9892,
+      "box": [
+        117,
+        90,
+        536,
+        120
+      ]
+    },
+    {
+      "text": "AZ, USA |+1-914-387-4047 | christopher.wheeler@example.com",
+      "score": 0.9747,
+      "box": [
+        116,
+        152,
+        721,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9799,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Digital, 2020.04–2023.01",
+      "score": 0.9869,
+      "box": [
+        116,
+        290,
+        649,
+        313
+      ]
+    },
+    {
+      "text": "- Designed high-availability systems",
+      "score": 0.9644,
+      "box": [
+        126,
+        314,
+        461,
+        339
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9919,
+      "box": [
+        126,
+        339,
+        450,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Technologies, 2016.10–2019.08",
+      "score": 0.9925,
+      "box": [
+        115,
+        381,
+        697,
+        406
+      ]
+    },
+    {
+      "text": "- Improved application performance",
+      "score": 0.9892,
+      "box": [
+        126,
+        406,
+        458,
+        431
+      ]
+    },
+    {
+      "text": "- Developed background jobs",
+      "score": 0.9889,
+      "box": [
+        126,
+        430,
+        401,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Brightfield Digital, 2013.06–2016.04",
+      "score": 0.9789,
+      "box": [
+        116,
+        472,
+        653,
+        496
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.968,
+      "box": [
+        125,
+        496,
+        347,
+        521
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9849,
+      "box": [
+        126,
+        521,
+        448,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Greenway University, 2005",
+      "score": 0.9764,
+      "box": [
+        116,
+        632,
+        477,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of programming languages",
+      "score": 0.9835,
+      "box": [
+        132,
+        656,
+        567,
+        682
+      ]
+    },
+    {
+      "text": "• Studied principles of mutexes and semaphores",
+      "score": 0.9922,
+      "box": [
+        135,
+        683,
+        582,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "CHRISTOPHER WHEELER\nAZ, USA |+1-914-387-4047 | christopher.wheeler@example.com\nWORK HISTORY\nSoftware Developers, Clearpath Digital, 2020.04–2023.01\n- Designed high-availability systems\n- Defined data governance policies\nSoftware Developers, Netfield Technologies, 2016.10–2019.08\n- Improved application performance\n- Developed background jobs\nSoftware Developers, Brightfield Digital, 2013.06–2016.04\n- Created test data sets\n- Performed basic APl integrations\nEDUCATION\nBachelor's, Greenway University, 2005\n• Studied principles of programming languages\n• Studied principles of mutexes and semaphores"
+}

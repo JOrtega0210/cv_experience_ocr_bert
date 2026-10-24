@@ -1,0 +1,200 @@
+{
+  "id": "16399",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.951,
+  "n_lines": 14,
+  "mean_score": 0.9819,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DANIEL BLAKE",
+      "score": 0.9691,
+      "box": [
+        116,
+        90,
+        367,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-457-331-3623|daniel.blake@example.com",
+      "score": 0.982,
+      "box": [
+        115,
+        150,
+        654,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9789,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Steps Academy, 2020.05–2023.01",
+      "score": 0.9762,
+      "box": [
+        116,
+        290,
+        842,
+        313
+      ]
+    },
+    {
+      "text": "- Designed performance monitoring systems",
+      "score": 0.992,
+      "box": [
+        126,
+        314,
+        539,
+        339
+      ]
+    },
+    {
+      "text": "- Directed instructional benchmarking",
+      "score": 0.9847,
+      "box": [
+        126,
+        339,
+        474,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Field Academy, 2017.08–2020.05",
+      "score": 0.9846,
+      "box": [
+        115,
+        381,
+        848,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.979,
+      "box": [
+        125,
+        406,
+        399,
+        431
+      ]
+    },
+    {
+      "text": "- Supported art instruction",
+      "score": 0.9654,
+      "box": [
+        126,
+        430,
+        370,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Master's, Learning Foundations, Sagewood University, 2017",
+      "score": 0.9791,
+      "box": [
+        115,
+        541,
+        674,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Skills, Pineview Ridge University, 2015",
+      "score": 0.9893,
+      "box": [
+        115,
+        566,
+        673,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of formative assessment",
+      "score": 0.9772,
+      "box": [
+        132,
+        590,
+        545,
+        613
+      ]
+    },
+    {
+      "text": "• Studied principles of learning outcomes assessment",
+      "score": 0.9896,
+      "box": [
+        133,
+        615,
+        630,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "DANIEL BLAKE\nGA, USA|+1-457-331-3623|daniel.blake@example.com\nWORK HISTORY\nElementary Middle School Teachers, Bright Steps Academy, 2020.05–2023.01\n- Designed performance monitoring systems\n- Directed instructional benchmarking\nElementary Middle School Teachers, Golden Field Academy, 2017.08–2020.05\n- Conducted spelling practice\n- Supported art instruction\nEDUCATION\nMaster's, Learning Foundations, Sagewood University, 2017\nBachelor's, Learning Skills, Pineview Ridge University, 2015\n• Studied principles of formative assessment\n• Studied principles of learning outcomes assessment"
+}

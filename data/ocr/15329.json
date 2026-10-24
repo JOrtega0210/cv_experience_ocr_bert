@@ -1,0 +1,200 @@
+{
+  "id": "15329",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.961,
+  "n_lines": 14,
+  "mean_score": 0.9832,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "REX SOLOMON",
+      "score": 0.9742,
+      "box": [
+        116,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-727-924-7013|rex.solomon@example.com",
+      "score": 0.9845,
+      "box": [
+        116,
+        151,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.979,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Star School, 2020.11–2023.01",
+      "score": 0.9812,
+      "box": [
+        115,
+        290,
+        804,
+        313
+      ]
+    },
+    {
+      "text": "- Designed performance monitoring systems",
+      "score": 0.973,
+      "box": [
+        125,
+        314,
+        539,
+        339
+      ]
+    },
+    {
+      "text": "- Developed student performance metics",
+      "score": 0.9823,
+      "box": [
+        127,
+        340,
+        512,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Path School, 2016.07–2018.10",
+      "score": 0.9821,
+      "box": [
+        115,
+        382,
+        800,
+        405
+      ]
+    },
+    {
+      "text": "- Supervised classroom activities",
+      "score": 0.9889,
+      "box": [
+        126,
+        407,
+        434,
+        430
+      ]
+    },
+    {
+      "text": "- Supervised transitions between lessons",
+      "score": 0.9959,
+      "box": [
+        126,
+        431,
+        509,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, General Studies, Sunset Ridge University, 2011",
+      "score": 0.9945,
+      "box": [
+        115,
+        541,
+        647,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Studies, Redwood University, 2009",
+      "score": 0.9646,
+      "box": [
+        115,
+        566,
+        605,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of instructional alignment",
+      "score": 0.9812,
+      "box": [
+        132,
+        590,
+        551,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of content delivery",
+      "score": 0.9857,
+      "box": [
+        133,
+        615,
+        487,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "REX SOLOMON\nGA, USA |+1-727-924-7013|rex.solomon@example.com\nWORK HISTORY\nElementary Middle School Teachers, Bright Star School, 2020.11–2023.01\n- Designed performance monitoring systems\n- Developed student performance metics\nElementary Middle School Teachers, Little Path School, 2016.07–2018.10\n- Supervised classroom activities\n- Supervised transitions between lessons\nEDUCATION\nMaster's, General Studies, Sunset Ridge University, 2011\nBachelor's, Child Studies, Redwood University, 2009\n• Studied principles of instructional alignment\n• Studied principles of content delivery"
+}

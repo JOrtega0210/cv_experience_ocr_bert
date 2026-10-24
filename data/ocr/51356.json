@@ -1,0 +1,265 @@
+{
+  "id": "51356",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.894,
+  "n_lines": 19,
+  "mean_score": 0.978,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TAYLOR RAMSEY",
+      "score": 0.9822,
+      "box": [
+        114,
+        90,
+        409,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-361-922-6740|taylor.ramsey@example.com",
+      "score": 0.9815,
+      "box": [
+        115,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9829,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Tech, 2020.07–2023.01",
+      "score": 0.9657,
+      "box": [
+        114,
+        288,
+        642,
+        313
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.9758,
+      "box": [
+        125,
+        314,
+        395,
+        337
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9875,
+      "box": [
+        126,
+        339,
+        438,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Softnode Systems, 2018.01–2020.07",
+      "score": 0.9675,
+      "box": [
+        115,
+        381,
+        665,
+        406
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.9857,
+      "box": [
+        127,
+        407,
+        396,
+        430
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9538,
+      "box": [
+        126,
+        430,
+        410,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Openframe Digital 2015.06–2018.01",
+      "score": 0.9798,
+      "box": [
+        115,
+        471,
+        662,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed pull requests",
+      "score": 0.9763,
+      "box": [
+        125,
+        496,
+        359,
+        522
+      ]
+    },
+    {
+      "text": "- Implemented logging frameworks",
+      "score": 0.9634,
+      "box": [
+        126,
+        521,
+        449,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Corecrest Software, 2011.05–2013.12",
+      "score": 0.9642,
+      "box": [
+        114,
+        563,
+        676,
+        588
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.9828,
+      "box": [
+        126,
+        590,
+        376,
+        613
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9898,
+      "box": [
+        127,
+        615,
+        418,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Fieldstone University, 2006",
+      "score": 0.9725,
+      "box": [
+        115,
+        724,
+        557,
+        746
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of software maintenance",
+      "score": 0.994,
+      "box": [
+        132,
+        747,
+        583,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in RESTful services",
+      "score": 0.9781,
+      "box": [
+        135,
+        775,
+        549,
+        795
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "TAYLOR RAMSEY\nTX, USA|+1-361-922-6740|taylor.ramsey@example.com\nWORK HISTORY\nSoftware Developers, Codecrest Tech, 2020.07–2023.01\n- Designed scalable services\n- Led technical roadmap planning\nSoftware Developers, Softnode Systems, 2018.01–2020.07\n- Designed scalable services\n- Defined scalability roadmaps\nSoftware Developers, Openframe Digital 2015.06–2018.01\n- Reviewed pull requests\n- Implemented logging frameworks\nSoftware Developers, Corecrest Software, 2011.05–2013.12\n- Resolved merge conflicts\n- Implemented logging features\nEDUCATION\nAssociate's degree, Fieldstone University, 2006\n• Studied fundamentals of software maintenance\n• Completed coursework in RESTful services"
+}

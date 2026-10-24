@@ -1,0 +1,252 @@
+{
+  "id": "49030",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.939,
+  "n_lines": 18,
+  "mean_score": 0.9728,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KENDRA OLSEN",
+      "score": 0.9697,
+      "box": [
+        116,
+        90,
+        386,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-967-915-9265 |kendra.olsen@example.com",
+      "score": 0.9784,
+      "box": [
+        115,
+        150,
+        659,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyBuild Co., 2020.05–2023.01",
+      "score": 0.9683,
+      "box": [
+        114,
+        288,
+        656,
+        314
+      ]
+    },
+    {
+      "text": "- Reviewed workflow efficiency reports",
+      "score": 0.9716,
+      "box": [
+        125,
+        313,
+        484,
+        339
+      ]
+    },
+    {
+      "text": "- Managed workforce allocation",
+      "score": 0.9599,
+      "box": [
+        127,
+        340,
+        420,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildStone Co., 2017.09–2020.05",
+      "score": 0.9845,
+      "box": [
+        116,
+        382,
+        648,
+        406
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.956,
+      "box": [
+        125,
+        405,
+        407,
+        431
+      ]
+    },
+    {
+      "text": "- Directed site construction operations",
+      "score": 0.98,
+      "box": [
+        125,
+        431,
+        479,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextBuild Contractors, 2014.05–2017.01",
+      "score": 0.9821,
+      "box": [
+        115,
+        472,
+        710,
+        496
+      ]
+    },
+    {
+      "text": "- Conducted site safety inspections",
+      "score": 0.975,
+      "box": [
+        125,
+        496,
+        453,
+        521
+      ]
+    },
+    {
+      "text": "- Performed masonry work",
+      "score": 0.9792,
+      "box": [
+        125,
+        521,
+        377,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Craft Co., 2010.10–2013.07",
+      "score": 0.9509,
+      "box": [
+        114,
+        563,
+        649,
+        588
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.9429,
+      "box": [
+        126,
+        590,
+        400,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9491,
+      "box": [
+        125,
+        613,
+        416,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, General Construction, Silverwood High School, 2003",
+      "score": 0.9949,
+      "box": [
+        116,
+        725,
+        864,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site inspections",
+      "score": 0.9818,
+      "box": [
+        132,
+        747,
+        555,
+        772
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "KENDRA OLSEN\nTN, USA|+1-967-915-9265 |kendra.olsen@example.com\nWORK HISTORY\nConstruction Laborers, SteadyBuild Co., 2020.05–2023.01\n- Reviewed workflow efficiency reports\n- Managed workforce allocation\nConstruction Laborers, BuildStone Co., 2017.09–2020.05\n- Established site layout plans\n- Directed site construction operations\nConstruction Laborers, NextBuild Contractors, 2014.05–2017.01\n- Conducted site safety inspections\n- Performed masonry work\nConstruction Laborers, Allied Craft Co., 2010.10–2013.07\n- Dug trenches for utility lines\n- Assisted with framing support\nEDUCATION\nHigh school graduate/GED, General Construction, Silverwood High School, 2003\n• Studied fundamentals of job site inspections"
+}

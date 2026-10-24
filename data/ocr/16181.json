@@ -1,0 +1,226 @@
+{
+  "id": "16181",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.968,
+  "n_lines": 16,
+  "mean_score": 0.9782,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SHARON MOSLEY",
+      "score": 0.981,
+      "box": [
+        116,
+        90,
+        415,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-629-247-1347 | sharon.mosley@example.com",
+      "score": 0.9641,
+      "box": [
+        116,
+        152,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelILife Medical Group, 2020.04–2023.01",
+      "score": 0.9667,
+      "box": [
+        115,
+        289,
+        690,
+        314
+      ]
+    },
+    {
+      "text": "- Managed clinical risk assessments",
+      "score": 0.9762,
+      "box": [
+        126,
+        315,
+        464,
+        338
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9871,
+      "box": [
+        126,
+        339,
+        474,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindPath Care Center, 2016.04–2019.01",
+      "score": 0.9862,
+      "box": [
+        115,
+        381,
+        678,
+        406
+      ]
+    },
+    {
+      "text": "- Managed patient referrals",
+      "score": 0.9391,
+      "box": [
+        127,
+        407,
+        380,
+        430
+      ]
+    },
+    {
+      "text": "- Administered complex medication regimens",
+      "score": 0.992,
+      "box": [
+        126,
+        430,
+        546,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearLife Health Group, 2012.11–2015.08",
+      "score": 0.9898,
+      "box": [
+        116,
+        473,
+        689,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9568,
+      "box": [
+        125,
+        496,
+        435,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with specimen labeling",
+      "score": 0.9839,
+      "box": [
+        126,
+        521,
+        437,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Services, Brookstone University, 2008",
+      "score": 0.9799,
+      "box": [
+        114,
+        631,
+        724,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of fall prevention",
+      "score": 0.9738,
+      "box": [
+        133,
+        657,
+        472,
+        680
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of care coordination",
+      "score": 0.9901,
+      "box": [
+        134,
+        682,
+        539,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "SHARON MOSLEY\nGA, USA |+1-629-247-1347 | sharon.mosley@example.com\nWORK HISTORY\nRegistered Nurses, WelILife Medical Group, 2020.04–2023.01\n- Managed clinical risk assessments\n- Developed care quality benchmarks\nRegistered Nurses, KindPath Care Center, 2016.04–2019.01\n- Managed patient referrals\n- Administered complex medication regimens\nRegistered Nurses, ClearLife Health Group, 2012.11–2015.08\n- Monitored patient dietary needs\n- Assisted with specimen labeling\nEDUCATION\nAssociate's degree, Health Services, Brookstone University, 2008\n• Studied principles of fall prevention\n• Studied fundamentals of care coordination"
+}

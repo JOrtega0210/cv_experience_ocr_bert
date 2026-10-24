@@ -1,0 +1,226 @@
+{
+  "id": "24959",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.874,
+  "n_lines": 16,
+  "mean_score": 0.9814,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANGELA LEBLANC",
+      "score": 0.988,
+      "box": [
+        117,
+        90,
+        428,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA| +1-669-282-2309 |angela.leblanc@example.com",
+      "score": 0.9697,
+      "box": [
+        115,
+        150,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9858,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightPath Nursing Services, 2020.04–2023.01",
+      "score": 0.9785,
+      "box": [
+        115,
+        289,
+        735,
+        314
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9824,
+      "box": [
+        125,
+        313,
+        510,
+        339
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.9534,
+      "box": [
+        126,
+        338,
+        424,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueWay Health Group, 2015.03–2017.12",
+      "score": 0.9881,
+      "box": [
+        115,
+        381,
+        690,
+        406
+      ]
+    },
+    {
+      "text": "- Provided pediatric nursing care",
+      "score": 0.9908,
+      "box": [
+        126,
+        406,
+        431,
+        431
+      ]
+    },
+    {
+      "text": "- Coordinated interdisciplinary care",
+      "score": 0.9858,
+      "box": [
+        126,
+        430,
+        452,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewPath Nursing Group, 2011.10–214.07",
+      "score": 0.9816,
+      "box": [
+        116,
+        473,
+        702,
+        496
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.9878,
+      "box": [
+        125,
+        496,
+        418,
+        522
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.9967,
+      "box": [
+        126,
+        521,
+        420,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Rehabilitation Sciences, Summit University, 205",
+      "score": 0.9645,
+      "box": [
+        114,
+        631,
+        680,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic nursing principles",
+      "score": 0.9697,
+      "box": [
+        133,
+        656,
+        607,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of trauma care",
+      "score": 0.9806,
+      "box": [
+        134,
+        682,
+        490,
+        704
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ANGELA LEBLANC\nMD, USA| +1-669-282-2309 |angela.leblanc@example.com\nWORK HISTORY\nRegistered Nurses, BrightPath Nursing Services, 2020.04–2023.01\n- Directed nursing process improvements\n- Led infection control programs\nRegistered Nurses, TrueWay Health Group, 2015.03–2017.12\n- Provided pediatric nursing care\n- Coordinated interdisciplinary care\nRegistered Nurses, NewPath Nursing Group, 2011.10–214.07\n- Provided post-procedure care\n- Assisted with patient transfers\nEDUCATION\nBachelor's, Rehabilitation Sciences, Summit University, 205\n• Completed coursework in basic nursing principles\n• Studied fundamentals of trauma care"
+}

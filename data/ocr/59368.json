@@ -1,0 +1,148 @@
+{
+  "id": "59368",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.784,
+  "n_lines": 10,
+  "mean_score": 0.9781,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "WENDY RUSSO",
+      "score": 0.978,
+      "box": [
+        116,
+        90,
+        370,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-829-984-4737|wendy.russo@example.com",
+      "score": 0.9736,
+      "box": [
+        114,
+        150,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9712,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Safe Harbor Academy, 2021.10–2022.07",
+      "score": 0.9767,
+      "box": [
+        116,
+        290,
+        843,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented basic literacy lessons",
+      "score": 0.9553,
+      "box": [
+        126,
+        314,
+        466,
+        339
+      ]
+    },
+    {
+      "text": "- Supervised transitions between lessons",
+      "score": 0.9825,
+      "box": [
+        127,
+        340,
+        509,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Studies, Summit Ridge University, 2004",
+      "score": 0.9734,
+      "box": [
+        115,
+        449,
+        685,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic education law concepts",
+      "score": 0.9793,
+      "box": [
+        132,
+        473,
+        660,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of educational research basics",
+      "score": 0.9925,
+      "box": [
+        135,
+        500,
+        600,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "WENDY RUSSO\nWA, USA|+1-829-984-4737|wendy.russo@example.com\nWORK HISTORY\nElementary Middle School Teachers, Safe Harbor Academy, 2021.10–2022.07\n- Implemented basic literacy lessons\n- Supervised transitions between lessons\nEDUCATION\nBachelor's, Teaching Studies, Summit Ridge University, 2004\n• Completed coursework in basic education law concepts\n• Studied principles of educational research basics"
+}

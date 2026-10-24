@@ -1,0 +1,148 @@
+{
+  "id": "31179",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.77,
+  "n_lines": 10,
+  "mean_score": 0.9761,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AMARION FLYNN",
+      "score": 0.9772,
+      "box": [
+        117,
+        90,
+        398,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA |+1-708-488-1693 | amarion.flynn@example.com",
+      "score": 0.955,
+      "box": [
+        116,
+        151,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9828,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmTrack Construction, 2021.03–2023.01",
+      "score": 0.9837,
+      "box": [
+        115,
+        290,
+        724,
+        313
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9664,
+      "box": [
+        126,
+        314,
+        331,
+        338
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9797,
+      "box": [
+        127,
+        340,
+        541,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Materials, Willow Ridge University, 2023",
+      "score": 0.9668,
+      "box": [
+        116,
+        449,
+        863,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of material recycling",
+      "score": 0.9916,
+      "box": [
+        132,
+        472,
+        504,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic siding installation",
+      "score": 0.959,
+      "box": [
+        134,
+        499,
+        603,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "AMARION FLYNN\nMO, USA |+1-708-488-1693 | amarion.flynn@example.com\nWORK HISTORY\nConstruction Laborers, FirmTrack Construction, 2021.03–2023.01\n- Secured site fencing\n- Carried materials to designated work areas\nEDUCATION\nSome college (no degree), Construction Materials, Willow Ridge University, 2023\n• Studied principles of material recycling\n• Completed coursework in basic siding installation"
+}

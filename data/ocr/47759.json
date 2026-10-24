@@ -1,0 +1,226 @@
+{
+  "id": "47759",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.857,
+  "n_lines": 16,
+  "mean_score": 0.9826,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KELSI NELSON",
+      "score": 0.962,
+      "box": [
+        116,
+        90,
+        365,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-744-325-4676 |kelsi.nelson@example.com",
+      "score": 0.974,
+      "box": [
+        116,
+        151,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearSpring Health Group, 2020.01–2023.01",
+      "score": 0.9837,
+      "box": [
+        115,
+        289,
+        714,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented care pathway frameworks",
+      "score": 0.9786,
+      "box": [
+        127,
+        315,
+        506,
+        338
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9874,
+      "box": [
+        127,
+        340,
+        548,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleLife Health, 2017.01–2020.01",
+      "score": 0.9913,
+      "box": [
+        116,
+        382,
+        636,
+        405
+      ]
+    },
+    {
+      "text": "- Monitored fluid and electrolyte balance",
+      "score": 0.9777,
+      "box": [
+        125,
+        406,
+        499,
+        431
+      ]
+    },
+    {
+      "text": "- Provided perioperative nursing care",
+      "score": 0.9891,
+      "box": [
+        126,
+        431,
+        472,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenArms Care Services, 2012.10–2015.11",
+      "score": 0.9907,
+      "box": [
+        115,
+        471,
+        711,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.987,
+      "box": [
+        125,
+        496,
+        418,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.9838,
+      "box": [
+        126,
+        521,
+        420,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Services, Pinewood University, 007",
+      "score": 0.9671,
+      "box": [
+        115,
+        632,
+        710,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of nursing assessment",
+      "score": 0.9867,
+      "box": [
+        132,
+        656,
+        529,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in health promotion",
+      "score": 0.9792,
+      "box": [
+        135,
+        683,
+        545,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "KELSI NELSON\nSC, USA|+1-744-325-4676 |kelsi.nelson@example.com\nWORK HISTORY\nRegistered Nurses, ClearSpring Health Group, 2020.01–2023.01\n- Implemented care pathway frameworks\n- Developed clinical performance dashboards\nRegistered Nurses, GentleLife Health, 2017.01–2020.01\n- Monitored fluid and electrolyte balance\n- Provided perioperative nursing care\nRegistered Nurses, OpenArms Care Services, 2012.10–2015.11\n- Assisted with feeding patients\n- Assisted with patient transfers\nEDUCATION\nAssociate's degree, Health Services, Pinewood University, 007\n• Studied principles of nursing assessment\n• Completed coursework in health promotion"
+}

@@ -1,0 +1,252 @@
+{
+  "id": "32357",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.915,
+  "n_lines": 18,
+  "mean_score": 0.9862,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "QUINN ODOM",
+      "score": 0.9892,
+      "box": [
+        117,
+        90,
+        339,
+        121
+      ]
+    },
+    {
+      "text": "NV, USA|+1-530-922-2947|quinn.odom@example.com",
+      "score": 0.9887,
+      "box": [
+        115,
+        150,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Financial, 2020.02–2023.01",
+      "score": 0.9834,
+      "box": [
+        115,
+        289,
+        712,
+        312
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9854,
+      "box": [
+        125,
+        314,
+        517,
+        339
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.9865,
+      "box": [
+        126,
+        338,
+        433,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Group, 2017.03–2020.02",
+      "score": 0.9783,
+      "box": [
+        114,
+        381,
+        674,
+        406
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9862,
+      "box": [
+        125,
+        404,
+        323,
+        432
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9874,
+      "box": [
+        125,
+        432,
+        435,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Group, 2012.07–2015.06",
+      "score": 0.973,
+      "box": [
+        115,
+        472,
+        685,
+        496
+      ]
+    },
+    {
+      "text": "- Developed financial models",
+      "score": 0.9888,
+      "box": [
+        127,
+        499,
+        398,
+        519
+      ]
+    },
+    {
+      "text": "- Reviewed audit workpapers",
+      "score": 0.9787,
+      "box": [
+        126,
+        521,
+        399,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Accounting, 2008.11–2011.11",
+      "score": 0.9912,
+      "box": [
+        115,
+        565,
+        707,
+        588
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.9922,
+      "box": [
+        126,
+        590,
+        481,
+        613
+      ]
+    },
+    {
+      "text": "- Updated accounting policies documentation",
+      "score": 0.9817,
+      "box": [
+        127,
+        615,
+        546,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, General Business, Meadowland High School, 1997",
+      "score": 0.9845,
+      "box": [
+        116,
+        725,
+        848,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in expense allocation",
+      "score": 0.9908,
+      "box": [
+        133,
+        749,
+        562,
+        772
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "QUINN ODOM\nNV, USA|+1-530-922-2947|quinn.odom@example.com\nWORK HISTORY\nAccountants Auditors, ClearBalance Financial, 2020.02–2023.01\n- Directed enterprise accounting platforms\n- Established accounting policies\nAccountants Auditors, CoreLedger Group, 2017.03–2020.02\n- Led audit programs\n- Developed financial risk models\nAccountants Auditors, CoreBalance Group, 2012.07–2015.06\n- Developed financial models\n- Reviewed audit workpapers\nAccountants Auditors, EverCount Accounting, 2008.11–2011.11\n- Processed expense reimbursements\n- Updated accounting policies documentation\nEDUCATION\nHigh school graduate/GED, General Business, Meadowland High School, 1997\n• Completed coursework in expense allocation"
+}

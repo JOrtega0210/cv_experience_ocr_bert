@@ -1,0 +1,174 @@
+{
+  "id": "21028",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.829,
+  "n_lines": 12,
+  "mean_score": 0.9817,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRANDON BURNETT",
+      "score": 0.9732,
+      "box": [
+        117,
+        90,
+        458,
+        121
+      ]
+    },
+    {
+      "text": "IA, USA|+1-725-804-7460 |brandon.burnett@example.com",
+      "score": 0.982,
+      "box": [
+        115,
+        150,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Build Group, 2019.08–2022.07",
+      "score": 0.9853,
+      "box": [
+        115,
+        290,
+        710,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.9592,
+      "box": [
+        125,
+        314,
+        444,
+        339
+      ]
+    },
+    {
+      "text": "- Directed installation methodologies",
+      "score": 0.9811,
+      "box": [
+        126,
+        338,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildWell Contractors, 2016.03–2019.02",
+      "score": 0.9712,
+      "box": [
+        116,
+        382,
+        709,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9951,
+      "box": [
+        126,
+        407,
+        425,
+        430
+      ]
+    },
+    {
+      "text": "- Assisted with site cleanup and debris removal",
+      "score": 0.9719,
+      "box": [
+        127,
+        432,
+        565,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Drafting, Goldenview High School, 2005",
+      "score": 0.9914,
+      "box": [
+        116,
+        541,
+        870,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of site drainage",
+      "score": 0.9875,
+      "box": [
+        132,
+        565,
+        461,
+        590
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "BRANDON BURNETT\nIA, USA|+1-725-804-7460 |brandon.burnett@example.com\nWORK HISTORY\nConstruction Laborers, Precision Build Group, 2019.08–2022.07\n- Reviewed site inspection reports\n- Directed installation methodologies\nConstruction Laborers, BuildWell Contractors, 2016.03–2019.02\n- Assisted with excavation tasks\n- Assisted with site cleanup and debris removal\nEDUCATION\nHigh school graduate/GED, Construction Drafting, Goldenview High School, 2005\n• Studied principles of site drainage"
+}

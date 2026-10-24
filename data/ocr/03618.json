@@ -1,0 +1,239 @@
+{
+  "id": "03618",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.044,
+  "n_lines": 17,
+  "mean_score": 0.9816,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JENNIFER BARTLETT",
+      "score": 0.9832,
+      "box": [
+        116,
+        90,
+        468,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA|+1-790-480-8288 |jennifer.bartlett@example.com",
+      "score": 0.9919,
+      "box": [
+        117,
+        151,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9802,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Services, 2020.05–2023.01",
+      "score": 0.9648,
+      "box": [
+        114,
+        289,
+        720,
+        313
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9856,
+      "box": [
+        126,
+        314,
+        467,
+        339
+      ]
+    },
+    {
+      "text": "- Developed financial performance metrics",
+      "score": 0.991,
+      "box": [
+        126,
+        339,
+        520,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Advisors, 2017.09–2020.05",
+      "score": 0.9772,
+      "box": [
+        114,
+        381,
+        706,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted risk assessments",
+      "score": 0.9761,
+      "box": [
+        126,
+        407,
+        409,
+        429
+      ]
+    },
+    {
+      "text": "- Prepared working capital analysis",
+      "score": 0.9765,
+      "box": [
+        126,
+        431,
+        452,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Financial Group, 2013.09–2016.06",
+      "score": 0.9864,
+      "box": [
+        114,
+        471,
+        756,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.9831,
+      "box": [
+        125,
+        498,
+        444,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed account balances",
+      "score": 0.9742,
+      "box": [
+        126,
+        522,
+        402,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Accounting and Finance, Willowhaven University, 208",
+      "score": 0.9666,
+      "box": [
+        114,
+        631,
+        715,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Organizational Management, Highland University, 2006",
+      "score": 0.9901,
+      "box": [
+        115,
+        657,
+        736,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in business law basics",
+      "score": 0.9756,
+      "box": [
+        135,
+        684,
+        573,
+        704
+      ]
+    },
+    {
+      "text": "• Studied principles of cost management",
+      "score": 0.9849,
+      "box": [
+        133,
+        706,
+        509,
+        731
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "JENNIFER BARTLETT\nCA, USA|+1-790-480-8288 |jennifer.bartlett@example.com\nWORK HISTORY\nAccountants Auditors, Integrity Count Services, 2020.05–2023.01\n- Developed internal control systems\n- Developed financial performance metrics\nAccountants Auditors, SteadyCount Advisors, 2017.09–2020.05\n- Conducted risk assessments\n- Prepared working capital analysis\nAccountants Auditors, SolidCount Financial Group, 2013.09–2016.06\n- Prepared account reconciliations\n- Reviewed account balances\nEDUCATION\nMaster's, Accounting and Finance, Willowhaven University, 208\nBachelor's, Organizational Management, Highland University, 2006\n• Completed coursework in business law basics\n• Studied principles of cost management"
+}

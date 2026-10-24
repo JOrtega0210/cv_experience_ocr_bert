@@ -1,0 +1,148 @@
+{
+  "id": "15280",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.843,
+  "n_lines": 10,
+  "mean_score": 0.985,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ESMERALDA KENNEDY",
+      "score": 0.9882,
+      "box": [
+        117,
+        90,
+        502,
+        120
+      ]
+    },
+    {
+      "text": "GA, USA|+1-996-562-6935 |esmeralda.kennedy@example.com",
+      "score": 0.9867,
+      "box": [
+        117,
+        152,
+        725,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9785,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Hands Health, 2022.03–2023.01",
+      "score": 0.9774,
+      "box": [
+        116,
+        290,
+        668,
+        313
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9817,
+      "box": [
+        127,
+        315,
+        480,
+        338
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.981,
+      "box": [
+        126,
+        339,
+        417,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Mental Health Studies, Parkview University, 2022",
+      "score": 0.9773,
+      "box": [
+        115,
+        449,
+        681,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of continuity of care",
+      "score": 0.9913,
+      "box": [
+        132,
+        472,
+        500,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of musculoskeletal nursing",
+      "score": 0.9892,
+      "box": [
+        132,
+        497,
+        602,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ESMERALDA KENNEDY\nGA, USA|+1-996-562-6935 |esmeralda.kennedy@example.com\nWORK HISTORY\nRegistered Nurses, Caring Hands Health, 2022.03–2023.01\n- Provided patient education materials\n- Checked medication dosages\nEDUCATION\nBachelor's, Mental Health Studies, Parkview University, 2022\n• Studied principles of continuity of care\n• Studied fundamentals of musculoskeletal nursing"
+}

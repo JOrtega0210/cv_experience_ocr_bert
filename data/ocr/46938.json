@@ -1,0 +1,187 @@
+{
+  "id": "46938",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.812,
+  "n_lines": 13,
+  "mean_score": 0.9831,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MELISSA VAUGHAN",
+      "score": 0.9864,
+      "box": [
+        117,
+        90,
+        444,
+        120
+      ]
+    },
+    {
+      "text": "PA, USA|+1-309-467-2532 |melissa.vaughan@example.com",
+      "score": 0.983,
+      "box": [
+        115,
+        150,
+        697,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9865,
+      "box": [
+        115,
+        241,
+        315,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightNest Health Services, 2019.04–2021.10",
+      "score": 0.9873,
+      "box": [
+        116,
+        290,
+        725,
+        313
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.9837,
+      "box": [
+        126,
+        315,
+        426,
+        338
+      ]
+    },
+    {
+      "text": "- Developed interdisciplinary care strategies",
+      "score": 0.979,
+      "box": [
+        126,
+        339,
+        534,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearLife Health Group, 2015.09–2018.04",
+      "score": 0.9923,
+      "box": [
+        116,
+        383,
+        690,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9722,
+      "box": [
+        126,
+        406,
+        514,
+        431
+      ]
+    },
+    {
+      "text": "- Updated patient medical records",
+      "score": 0.9964,
+      "box": [
+        126,
+        431,
+        443,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Biomedical Sciences, Horizon University, 202",
+      "score": 0.9859,
+      "box": [
+        116,
+        540,
+        735,
+        563
+      ]
+    },
+    {
+      "text": "• Completed coursework in first aid principles",
+      "score": 0.9481,
+      "box": [
+        132,
+        565,
+        551,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of ostomy care",
+      "score": 0.9808,
+      "box": [
+        132,
+        590,
+        456,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "MELISSA VAUGHAN\nPA, USA|+1-309-467-2532 |melissa.vaughan@example.com\nWORK HISTORY\nRegistered Nurses, BrightNest Health Services, 2019.04–2021.10\n- Managed clinical data analysis\n- Developed interdisciplinary care strategies\nRegistered Nurses, ClearLife Health Group, 2015.09–2018.04\n- Assisted with physical therapy exercises\n- Updated patient medical records\nEDUCATION\nAssociate's degree, Biomedical Sciences, Horizon University, 202\n• Completed coursework in first aid principles\n• Studied principles of ostomy care"
+}

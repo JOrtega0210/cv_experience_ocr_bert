@@ -1,0 +1,239 @@
+{
+  "id": "39711",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.912,
+  "n_lines": 17,
+  "mean_score": 0.979,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DRITON FIELDS",
+      "score": 0.9726,
+      "box": [
+        116,
+        90,
+        375,
+        121
+      ]
+    },
+    {
+      "text": "NC, USA|+1-748-312-9088|driton.fields@example.com",
+      "score": 0.9855,
+      "box": [
+        115,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9805,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Financial, 2020.12–2023.01",
+      "score": 0.98,
+      "box": [
+        114,
+        289,
+        692,
+        313
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9684,
+      "box": [
+        125,
+        313,
+        478,
+        338
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9496,
+      "box": [
+        126,
+        339,
+        525,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Financial Group, 2018.11–2020.12",
+      "score": 0.988,
+      "box": [
+        114,
+        381,
+        765,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared audit reports",
+      "score": 0.9649,
+      "box": [
+        126,
+        406,
+        350,
+        431
+      ]
+    },
+    {
+      "text": "- Managed fixed asset accounting",
+      "score": 0.9693,
+      "box": [
+        126,
+        430,
+        442,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Group, 2016.10–2018.11",
+      "score": 0.9678,
+      "box": [
+        115,
+        472,
+        668,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.9942,
+      "box": [
+        127,
+        499,
+        357,
+        520
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9777,
+      "box": [
+        126,
+        521,
+        456,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Business Studies, Ridgeway University, 2016",
+      "score": 0.9842,
+      "box": [
+        115,
+        631,
+        625,
+        654
+      ]
+    },
+    {
+      "text": "Bachelor's, International Business, Elmwood Ridge University, 2014",
+      "score": 0.9831,
+      "box": [
+        114,
+        656,
+        744,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit documentation",
+      "score": 0.9845,
+      "box": [
+        134,
+        682,
+        566,
+        704
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial disclosure",
+      "score": 0.9939,
+      "box": [
+        133,
+        706,
+        566,
+        730
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "DRITON FIELDS\nNC, USA|+1-748-312-9088|driton.fields@example.com\nWORK HISTORY\nAccountants Auditors, CoreBooks Financial, 2020.12–2023.01\n- Established financial quality controls\n- Developed regulatory reporting strategies\nAccountants Auditors, FairBalance Financial Group, 2018.11–2020.12\n- Prepared audit reports\n- Managed fixed asset accounting\nAccountants Auditors, ClearCount Group, 2016.10–2018.11\n- Prepared trial balances\n- Assisted with tax form preparation\nEDUCATION\nMaster's, Business Studies, Ridgeway University, 2016\nBachelor's, International Business, Elmwood Ridge University, 2014\n• Studied fundamentals of audit documentation\n• Completed coursework in financial disclosure"
+}

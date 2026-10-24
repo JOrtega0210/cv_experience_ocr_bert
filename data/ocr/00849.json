@@ -1,0 +1,148 @@
+{
+  "id": "00849",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.874,
+  "n_lines": 10,
+  "mean_score": 0.9834,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KAYLA RYAN",
+      "score": 0.9801,
+      "box": [
+        116,
+        90,
+        337,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-798-797-2232 |kayla.ryan@example.com",
+      "score": 0.9662,
+      "box": [
+        116,
+        150,
+        632,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9826,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearHands Health Group, 2021.08–2023.01",
+      "score": 0.9891,
+      "box": [
+        116,
+        290,
+        714,
+        313
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.9874,
+      "box": [
+        127,
+        315,
+        418,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.9835,
+      "box": [
+        126,
+        339,
+        483,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Applied Health Sciences, Prairie View University, 2023",
+      "score": 0.9866,
+      "box": [
+        115,
+        447,
+        808,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in medication safety",
+      "score": 0.9708,
+      "box": [
+        132,
+        472,
+        552,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in cardiovascular nursing basics",
+      "score": 0.9891,
+      "box": [
+        134,
+        499,
+        663,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "KAYLA RYAN\nAL, USA|+1-798-797-2232 |kayla.ryan@example.com\nWORK HISTORY\nRegistered Nurses, ClearHands Health Group, 2021.08–2023.01\n- Provided post-procedure care\n- Assisted with emergency procedures\nEDUCATION\nAssociate's degree, Applied Health Sciences, Prairie View University, 2023\n• Completed coursework in medication safety\n• Completed coursework in cardiovascular nursing basics"
+}

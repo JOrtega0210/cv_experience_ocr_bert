@@ -1,0 +1,239 @@
+{
+  "id": "28149",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.827,
+  "n_lines": 17,
+  "mean_score": 0.9812,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JIMMY HUYNH",
+      "score": 0.9728,
+      "box": [
+        116,
+        90,
+        352,
+        120
+      ]
+    },
+    {
+      "text": "MI, USA|+1-953-640-6661 | jimmy.huynh@example.com",
+      "score": 0.9732,
+      "box": [
+        115,
+        150,
+        653,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Digital, 2020.05–2023.01",
+      "score": 0.9871,
+      "box": [
+        115,
+        288,
+        653,
+        314
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9805,
+      "box": [
+        126,
+        315,
+        380,
+        338
+      ]
+    },
+    {
+      "text": "- Designed software development workflows",
+      "score": 0.9907,
+      "box": [
+        126,
+        339,
+        538,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Digital, 2017.09–2020.05",
+      "score": 0.987,
+      "box": [
+        115,
+        381,
+        651,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented error handling frameworks",
+      "score": 0.9839,
+      "box": [
+        127,
+        407,
+        510,
+        431
+      ]
+    },
+    {
+      "text": "- Developed RESTful APIs",
+      "score": 0.9807,
+      "box": [
+        126,
+        432,
+        376,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Corelink Software, 2014.12–2017.09",
+      "score": 0.9818,
+      "box": [
+        115,
+        471,
+        661,
+        496
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.985,
+      "box": [
+        126,
+        498,
+        403,
+        521
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.9791,
+      "box": [
+        126,
+        521,
+        501,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Master's, Horizon University, 2019",
+      "score": 0.9748,
+      "box": [
+        115,
+        632,
+        436,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Hillside University, 217",
+      "score": 0.9545,
+      "box": [
+        115,
+        656,
+        448,
+        679
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of APl development",
+      "score": 0.9705,
+      "box": [
+        132,
+        681,
+        539,
+        706
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of refactoring techniques",
+      "score": 0.9936,
+      "box": [
+        131,
+        706,
+        584,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "JIMMY HUYNH\nMI, USA|+1-953-640-6661 | jimmy.huynh@example.com\nWORK HISTORY\nSoftware Developers, Codecrest Digital, 2020.05–2023.01\n- Defined coding standards\n- Designed software development workflows\nSoftware Developers, Clearpath Digital, 2017.09–2020.05\n- Implemented error handling frameworks\n- Developed RESTful APIs\nSoftware Developers, Corelink Software, 2014.12–2017.09\n- Updated database schemas\n- Wrote scripts for data processing tasks\nEDUCATION\nMaster's, Horizon University, 2019\nBachelor's, Hillside University, 217\n• Studied fundamentals of APl development\n• Studied fundamentals of refactoring techniques"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "30475",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.819,
+  "n_lines": 16,
+  "mean_score": 0.9797,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NATHANAEL MAXWELL",
+      "score": 0.9887,
+      "box": [
+        116,
+        90,
+        503,
+        120
+      ]
+    },
+    {
+      "text": "MO, USA|+1-642-876-2243|nathanael.maxwell@example.com",
+      "score": 0.9761,
+      "box": [
+        115,
+        150,
+        719,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9812,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Datapath Solutions, 2020.08–2023.01",
+      "score": 0.9876,
+      "box": [
+        116,
+        290,
+        671,
+        313
+      ]
+    },
+    {
+      "text": "- Designed Cl/CD frameworks",
+      "score": 0.9683,
+      "box": [
+        126,
+        315,
+        407,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented performance optimization plans",
+      "score": 0.9919,
+      "box": [
+        126,
+        339,
+        559,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Softline Digital, 2018.03–2020.08",
+      "score": 0.953,
+      "box": [
+        115,
+        381,
+        629,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented security controls",
+      "score": 0.979,
+      "box": [
+        126,
+        406,
+        420,
+        431
+      ]
+    },
+    {
+      "text": "- Optimized database queries",
+      "score": 0.9853,
+      "box": [
+        126,
+        430,
+        403,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Datafield Systems, 2015.10–2018.03",
+      "score": 0.985,
+      "box": [
+        115,
+        471,
+        665,
+        496
+      ]
+    },
+    {
+      "text": "- Wrote command-line tools",
+      "score": 0.9577,
+      "box": [
+        126,
+        497,
+        385,
+        519
+      ]
+    },
+    {
+      "text": "– Maintained code repositories",
+      "score": 0.9683,
+      "box": [
+        125,
+        521,
+        409,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Oakwood University, 2018",
+      "score": 0.9768,
+      "box": [
+        115,
+        632,
+        470,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of mutexes and semaphores",
+      "score": 0.9901,
+      "box": [
+        132,
+        656,
+        582,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of race condition handling",
+      "score": 0.9871,
+      "box": [
+        133,
+        681,
+        592,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "NATHANAEL MAXWELL\nMO, USA|+1-642-876-2243|nathanael.maxwell@example.com\nWORK HISTORY\nSoftware Developers, Datapath Solutions, 2020.08–2023.01\n- Designed Cl/CD frameworks\n- Implemented performance optimization plans\nSoftware Developers, Softline Digital, 2018.03–2020.08\n- Implemented security controls\n- Optimized database queries\nSoftware Developers, Datafield Systems, 2015.10–2018.03\n- Wrote command-line tools\n– Maintained code repositories\nEDUCATION\nBachelor's, Oakwood University, 2018\n• Studied principles of mutexes and semaphores\n• Studied fundamentals of race condition handling"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "55241",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.832,
+  "n_lines": 13,
+  "mean_score": 0.9856,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JACKSON RUSH",
+      "score": 0.9812,
+      "box": [
+        115,
+        88,
+        387,
+        122
+      ]
+    },
+    {
+      "text": "UT, USA|+1-458-646-9389 |jackson.rush@example.com",
+      "score": 0.9869,
+      "box": [
+        116,
+        151,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureBuild Co., 2020.10–2023.01",
+      "score": 0.9725,
+      "box": [
+        115,
+        289,
+        635,
+        312
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.9918,
+      "box": [
+        126,
+        315,
+        476,
+        338
+      ]
+    },
+    {
+      "text": "- Directed construction audits",
+      "score": 0.9816,
+      "box": [
+        126,
+        339,
+        399,
+        361
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextStep Construction, 2018.06–2020.10",
+      "score": 0.9927,
+      "box": [
+        116,
+        382,
+        717,
+        405
+      ]
+    },
+    {
+      "text": "- Installed simple fixtures",
+      "score": 0.9882,
+      "box": [
+        125,
+        406,
+        360,
+        431
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.9916,
+      "box": [
+        126,
+        431,
+        480,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Drafting, Harvest University, 2023",
+      "score": 0.9685,
+      "box": [
+        115,
+        539,
+        803,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural reinforcement methods",
+      "score": 0.9908,
+      "box": [
+        133,
+        565,
+        693,
+        588
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction site signage",
+      "score": 0.9847,
+      "box": [
+        133,
+        590,
+        619,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JACKSON RUSH\nUT, USA|+1-458-646-9389 |jackson.rush@example.com\nWORK HISTORY\nConstruction Laborers, SureBuild Co., 2020.10–2023.01\n- Developed site performance metrics\n- Directed construction audits\nConstruction Laborers, NextStep Construction, 2018.06–2020.10\n- Installed simple fixtures\n- Supported crew leaders during tasks\nEDUCATION\nSome college (no degree), Construction Drafting, Harvest University, 2023\n• Completed coursework in structural reinforcement methods\n• Completed coursework in construction site signage"
+}

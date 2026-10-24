@@ -1,0 +1,265 @@
+{
+  "id": "08615",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.024,
+  "n_lines": 19,
+  "mean_score": 0.9843,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "PATRICK STANTON",
+      "score": 0.9673,
+      "box": [
+        114,
+        88,
+        439,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-456-450-6002 |patrick.stanton@example.com",
+      "score": 0.9833,
+      "box": [
+        116,
+        151,
+        677,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Financial, 2020.03–2023.01",
+      "score": 0.9914,
+      "box": [
+        115,
+        290,
+        724,
+        313
+      ]
+    },
+    {
+      "text": "-Led internal audit functions",
+      "score": 0.9824,
+      "box": [
+        125,
+        313,
+        393,
+        338
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9805,
+      "box": [
+        126,
+        338,
+        490,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Group, 2017.05–2020.03",
+      "score": 0.9875,
+      "box": [
+        115,
+        381,
+        710,
+        406
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9877,
+      "box": [
+        126,
+        406,
+        547,
+        431
+      ]
+    },
+    {
+      "text": "- Led cross-functional financial integration",
+      "score": 0.9877,
+      "box": [
+        126,
+        429,
+        514,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Financial, 2014.06–2017.05",
+      "score": 0.9906,
+      "box": [
+        114,
+        471,
+        725,
+        496
+      ]
+    },
+    {
+      "text": "- Developed budget forecasts",
+      "score": 0.9599,
+      "box": [
+        125,
+        496,
+        403,
+        521
+      ]
+    },
+    {
+      "text": "- Conducted account reconciliations",
+      "score": 0.9837,
+      "box": [
+        126,
+        522,
+        459,
+        544
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Balance Advisors, 2010.05–2013.04",
+      "score": 0.9909,
+      "box": [
+        114,
+        563,
+        750,
+        587
+      ]
+    },
+    {
+      "text": "- Filed financial documents",
+      "score": 0.983,
+      "box": [
+        126,
+        589,
+        378,
+        612
+      ]
+    },
+    {
+      "text": "- Reviewed billing statements",
+      "score": 0.9858,
+      "box": [
+        127,
+        615,
+        402,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Operations Management, Oakfield University, 2006",
+      "score": 0.9707,
+      "box": [
+        114,
+        723,
+        699,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in business law basics",
+      "score": 0.99,
+      "box": [
+        133,
+        749,
+        574,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting theory",
+      "score": 0.9939,
+      "box": [
+        134,
+        773,
+        554,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "PATRICK STANTON\nCA, USA|+1-456-450-6002 |patrick.stanton@example.com\nWORK HISTORY\nAccountants Auditors, Balanced Path Financial, 2020.03–2023.01\n-Led internal audit functions\n- Directed financial system architecture\nAccountants Auditors, Reliable Ledger Group, 2017.05–2020.03\n- Established compliance monitoring systems\n- Led cross-functional financial integration\nAccountants Auditors, Balanced Path Financial, 2014.06–2017.05\n- Developed budget forecasts\n- Conducted account reconciliations\nAccountants Auditors, Accurate Balance Advisors, 2010.05–2013.04\n- Filed financial documents\n- Reviewed billing statements\nEDUCATION\nBachelor's, Operations Management, Oakfield University, 2006\n• Completed coursework in business law basics\n• Completed coursework in accounting theory"
+}

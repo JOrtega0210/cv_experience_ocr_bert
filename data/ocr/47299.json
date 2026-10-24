@@ -1,0 +1,239 @@
+{
+  "id": "47299",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.871,
+  "n_lines": 17,
+  "mean_score": 0.9845,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARIA MERRITT",
+      "score": 0.9851,
+      "box": [
+        116,
+        90,
+        386,
+        120
+      ]
+    },
+    {
+      "text": "SC, USA|+1-588-663-8133|maria.merritt@example.com",
+      "score": 0.9806,
+      "box": [
+        116,
+        151,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9847,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Services, 2020.01–2023.01",
+      "score": 0.9883,
+      "box": [
+        115,
+        289,
+        711,
+        314
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9861,
+      "box": [
+        127,
+        315,
+        510,
+        338
+      ]
+    },
+    {
+      "text": "- Directed interdisciplinary workflow alignment",
+      "score": 0.975,
+      "box": [
+        126,
+        339,
+        553,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueLife Nursing, 2017.01–2020.01",
+      "score": 0.9825,
+      "box": [
+        115,
+        381,
+        629,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored infusion pump settings",
+      "score": 0.9787,
+      "box": [
+        125,
+        405,
+        449,
+        432
+      ]
+    },
+    {
+      "text": "- Managed geriatric care plans",
+      "score": 0.9869,
+      "box": [
+        126,
+        430,
+        412,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Life Nursing, 2012.12–2016.01",
+      "score": 0.9926,
+      "box": [
+        116,
+        472,
+        652,
+        496
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9895,
+      "box": [
+        125,
+        496,
+        480,
+        521
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9852,
+      "box": [
+        127,
+        522,
+        530,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Biomedical Sciences, Cedar Ridge University, 2006",
+      "score": 0.9792,
+      "box": [
+        114,
+        631,
+        684,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Allied Health, Hillcrest University, 2004",
+      "score": 0.9734,
+      "box": [
+        114,
+        656,
+        585,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing standards of practice",
+      "score": 0.9765,
+      "box": [
+        134,
+        683,
+        656,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in transition of care basics",
+      "score": 0.9936,
+      "box": [
+        133,
+        706,
+        609,
+        730
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "MARIA MERRITT\nSC, USA|+1-588-663-8133|maria.merritt@example.com\nWORK HISTORY\nRegistered Nurses, Harmony Health Services, 2020.01–2023.01\n- Directed nursing process improvements\n- Directed interdisciplinary workflow alignment\nRegistered Nurses, TrueLife Nursing, 2017.01–2020.01\n- Monitored infusion pump settings\n- Managed geriatric care plans\nRegistered Nurses, Caring Life Nursing, 2012.12–2016.01\n- Provided patient education materials\n- Recorded medication administration times\nEDUCATION\nMaster's, Biomedical Sciences, Cedar Ridge University, 2006\nBachelor's, Allied Health, Hillcrest University, 2004\n• Completed coursework in nursing standards of practice\n• Completed coursework in transition of care basics"
+}

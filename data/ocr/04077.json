@@ -1,0 +1,174 @@
+{
+  "id": "04077",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.907,
+  "n_lines": 12,
+  "mean_score": 0.9853,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DALECARR",
+      "score": 0.9987,
+      "box": [
+        116,
+        90,
+        315,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-638-623-2452 |dale.carr@example.com",
+      "score": 0.9784,
+      "box": [
+        116,
+        150,
+        623,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9835,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Bridge Care, 2021.01–2021.02",
+      "score": 0.9883,
+      "box": [
+        116,
+        290,
+        709,
+        313
+      ]
+    },
+    {
+      "text": "- Monitored patient recovery",
+      "score": 0.9589,
+      "box": [
+        126,
+        314,
+        390,
+        340
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.991,
+      "box": [
+        126,
+        339,
+        417,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Doctorate, Health Care Operations, Riverwood University, 2014",
+      "score": 0.9872,
+      "box": [
+        115,
+        449,
+        705,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Patient Services, Bayside University, 209",
+      "score": 0.9734,
+      "box": [
+        115,
+        474,
+        618,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in medication safety",
+      "score": 0.9888,
+      "box": [
+        133,
+        498,
+        551,
+        523
+      ]
+    },
+    {
+      "text": "• Studied principles of emergency nursing",
+      "score": 0.9924,
+      "box": [
+        133,
+        522,
+        519,
+        548
+      ]
+    },
+    {
+      "text": "• Studied principles of hydration management",
+      "score": 0.9848,
+      "box": [
+        132,
+        548,
+        556,
+        573
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "DALECARR\nCA, USA|+1-638-623-2452 |dale.carr@example.com\nWORK HISTORY\nRegistered Nurses, Compassion Bridge Care, 2021.01–2021.02\n- Monitored patient recovery\n- Checked medication dosages\nEDUCATION\nDoctorate, Health Care Operations, Riverwood University, 2014\nBachelor's, Patient Services, Bayside University, 209\n• Completed coursework in medication safety\n• Studied principles of emergency nursing\n• Studied principles of hydration management"
+}

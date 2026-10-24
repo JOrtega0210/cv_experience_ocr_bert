@@ -1,0 +1,265 @@
+{
+  "id": "11088",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.028,
+  "n_lines": 19,
+  "mean_score": 0.9816,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOHN ARELLANO",
+      "score": 0.9659,
+      "box": [
+        116,
+        90,
+        406,
+        121
+      ]
+    },
+    {
+      "text": "CT, USA|+1-963-632-1010 | john.arellano@example.com",
+      "score": 0.9697,
+      "box": [
+        116,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9852,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openpoint Tech, 2020.03–2023.01",
+      "score": 0.9936,
+      "box": [
+        116,
+        290,
+        644,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.9835,
+      "box": [
+        126,
+        314,
+        538,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented data pipeline architectures",
+      "score": 0.9882,
+      "box": [
+        126,
+        339,
+        512,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightscale Labs, 2017.05–220.03",
+      "score": 0.983,
+      "box": [
+        115,
+        381,
+        651,
+        406
+      ]
+    },
+    {
+      "text": "- Built fault-tolerant systems",
+      "score": 0.9725,
+      "box": [
+        125,
+        406,
+        388,
+        431
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.988,
+      "box": [
+        126,
+        430,
+        400,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Software, 2014.07–2017.05",
+      "score": 0.9829,
+      "box": [
+        115,
+        471,
+        680,
+        496
+      ]
+    },
+    {
+      "text": "- Improved application performance",
+      "score": 0.9856,
+      "box": [
+        125,
+        498,
+        457,
+        521
+      ]
+    },
+    {
+      "text": "- Designed documentation templates",
+      "score": 0.9866,
+      "box": [
+        126,
+        521,
+        469,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Brightway Systems, 2011.08–2014.07",
+      "score": 0.9671,
+      "box": [
+        115,
+        562,
+        674,
+        590
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9877,
+      "box": [
+        125,
+        589,
+        562,
+        614
+      ]
+    },
+    {
+      "text": "- Implemented basic authentication logic",
+      "score": 0.9801,
+      "box": [
+        126,
+        614,
+        502,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Silverwood University, 2010",
+      "score": 0.9628,
+      "box": [
+        115,
+        725,
+        483,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in accessibility standards",
+      "score": 0.9841,
+      "box": [
+        133,
+        749,
+        598,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in web development basics",
+      "score": 0.9852,
+      "box": [
+        135,
+        774,
+        618,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "JOHN ARELLANO\nCT, USA|+1-963-632-1010 | john.arellano@example.com\nWORK HISTORY\nSoftware Developers, Openpoint Tech, 2020.03–2023.01\n- Implemented long-term maintenance plans\n- Implemented data pipeline architectures\nSoftware Developers, Brightscale Labs, 2017.05–220.03\n- Built fault-tolerant systems\n- Led database design efforts\nSoftware Developers, Stonepath Software, 2014.07–2017.05\n- Improved application performance\n- Designed documentation templates\nSoftware Developers, Brightway Systems, 2011.08–2014.07\n- Fixed software bugs identified through testing\n- Implemented basic authentication logic\nEDUCATION\nBachelor's, Silverwood University, 2010\n• Completed coursework in accessibility standards\n• Completed coursework in web development basics"
+}

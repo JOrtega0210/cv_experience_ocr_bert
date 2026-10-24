@@ -1,0 +1,226 @@
+{
+  "id": "14014",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.966,
+  "n_lines": 16,
+  "mean_score": 0.9812,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KAYLA HOUSE",
+      "score": 0.99,
+      "box": [
+        116,
+        90,
+        361,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-997-535-7708|kayla.house@example.com",
+      "score": 0.9777,
+      "box": [
+        115,
+        150,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueLife Nursing, 2020.05–2023.01",
+      "score": 0.9845,
+      "box": [
+        115,
+        289,
+        628,
+        314
+      ]
+    },
+    {
+      "text": "- Managed nursing unit operations",
+      "score": 0.9827,
+      "box": [
+        126,
+        314,
+        447,
+        339
+      ]
+    },
+    {
+      "text": "- Managed clinical resource planning",
+      "score": 0.9719,
+      "box": [
+        127,
+        339,
+        468,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightCare Clinics, 2017.09–2020.05",
+      "score": 0.9729,
+      "box": [
+        115,
+        381,
+        642,
+        406
+      ]
+    },
+    {
+      "text": "- Provided perioperative nursing care",
+      "score": 0.9693,
+      "box": [
+        125,
+        406,
+        472,
+        431
+      ]
+    },
+    {
+      "text": "- Documented clinical care activities",
+      "score": 0.98,
+      "box": [
+        126,
+        432,
+        460,
+        453
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Care Center, 2015.01–2017.09",
+      "score": 0.9823,
+      "box": [
+        116,
+        473,
+        679,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with surgical prep",
+      "score": 0.9848,
+      "box": [
+        125,
+        496,
+        390,
+        523
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9787,
+      "box": [
+        126,
+        521,
+        531,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health and Human Services, Clearhaven University, 2019",
+      "score": 0.9828,
+      "box": [
+        114,
+        631,
+        760,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of infection prevention",
+      "score": 0.9829,
+      "box": [
+        132,
+        656,
+        523,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of patient identification",
+      "score": 0.975,
+      "box": [
+        135,
+        682,
+        526,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "KAYLA HOUSE\nFL, USA|+1-997-535-7708|kayla.house@example.com\nWORK HISTORY\nRegistered Nurses, TrueLife Nursing, 2020.05–2023.01\n- Managed nursing unit operations\n- Managed clinical resource planning\nRegistered Nurses, BrightCare Clinics, 2017.09–2020.05\n- Provided perioperative nursing care\n- Documented clinical care activities\nRegistered Nurses, Harmony Care Center, 2015.01–2017.09\n- Assisted with surgical prep\n- Recorded medication administration times\nEDUCATION\nBachelor's, Health and Human Services, Clearhaven University, 2019\n• Studied principles of infection prevention\n• Studied principles of patient identification"
+}

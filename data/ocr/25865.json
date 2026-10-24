@@ -1,0 +1,187 @@
+{
+  "id": "25865",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.799,
+  "n_lines": 13,
+  "mean_score": 0.9828,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MICHAEL NORTON",
+      "score": 0.99,
+      "box": [
+        116,
+        90,
+        425,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-285-934-2436 |michael.norton@example.com",
+      "score": 0.985,
+      "box": [
+        115,
+        150,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9798,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Openline Digital, 2021.06–2023.01",
+      "score": 0.9754,
+      "box": [
+        114,
+        288,
+        642,
+        314
+      ]
+    },
+    {
+      "text": "- Led platform migrations",
+      "score": 0.9786,
+      "box": [
+        126,
+        313,
+        361,
+        339
+      ]
+    },
+    {
+      "text": "- Designed event-driven architectures",
+      "score": 0.9803,
+      "box": [
+        127,
+        340,
+        477,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Corefield Software, 2018.07–2020.03",
+      "score": 0.996,
+      "box": [
+        116,
+        382,
+        668,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9763,
+      "box": [
+        126,
+        407,
+        478,
+        430
+      ]
+    },
+    {
+      "text": "- Assisted with database queries",
+      "score": 0.9831,
+      "box": [
+        126,
+        430,
+        431,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Lakewood University, 2015",
+      "score": 0.9651,
+      "box": [
+        115,
+        541,
+        477,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in calculus for computing",
+      "score": 0.9833,
+      "box": [
+        134,
+        566,
+        596,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in pointer arithmetic basics",
+      "score": 0.9855,
+      "box": [
+        134,
+        590,
+        613,
+        613
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "MICHAEL NORTON\nMA, USA|+1-285-934-2436 |michael.norton@example.com\nWORK HISTORY\nSoftware Developers, Openline Digital, 2021.06–2023.01\n- Led platform migrations\n- Designed event-driven architectures\nSoftware Developers, Corefield Software, 2018.07–2020.03\n- Assisted with system documentation\n- Assisted with database queries\nEDUCATION\nBachelor's, Lakewood University, 2015\n• Completed coursework in calculus for computing\n• Completed coursework in pointer arithmetic basics"
+}

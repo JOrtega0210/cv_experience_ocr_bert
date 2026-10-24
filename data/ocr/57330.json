@@ -1,0 +1,148 @@
+{
+  "id": "57330",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.748,
+  "n_lines": 10,
+  "mean_score": 0.9841,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANNAKALE",
+      "score": 0.9994,
+      "box": [
+        116,
+        90,
+        316,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-820-555-5203|annaka.le@example.com",
+      "score": 0.9896,
+      "box": [
+        114,
+        150,
+        630,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9839,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Group, 2020.10–2023.01",
+      "score": 0.9728,
+      "box": [
+        114,
+        289,
+        663,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed credit memos",
+      "score": 0.9803,
+      "box": [
+        127,
+        316,
+        366,
+        337
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9712,
+      "box": [
+        126,
+        339,
+        365,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Administrative Studies, Cedarview University, 2023",
+      "score": 0.9847,
+      "box": [
+        116,
+        449,
+        777,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of corporate finance",
+      "score": 0.9844,
+      "box": [
+        132,
+        472,
+        503,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of nonprofit accounting",
+      "score": 0.9759,
+      "box": [
+        132,
+        497,
+        529,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ANNAKALE\nVA, USA|+1-820-555-5203|annaka.le@example.com\nWORK HISTORY\nAccountants Auditors, CoreCount Group, 2020.10–2023.01\n- Reviewed credit memos\n- Prepared journal entries\nEDUCATION\nAssociate's degree, Administrative Studies, Cedarview University, 2023\n• Studied principles of corporate finance\n• Studied principles of nonprofit accounting"
+}

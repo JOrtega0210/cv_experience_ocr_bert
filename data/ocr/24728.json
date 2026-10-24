@@ -1,0 +1,135 @@
+{
+  "id": "24728",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.723,
+  "n_lines": 9,
+  "mean_score": 0.9839,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TRACY WELLS",
+      "score": 0.9729,
+      "box": [
+        115,
+        90,
+        360,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA|+1-994-435-5596 |tracy.wells@example.com",
+      "score": 0.9651,
+      "box": [
+        116,
+        151,
+        642,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.982,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindPath Care Center, 2020.10–2023.01",
+      "score": 0.9915,
+      "box": [
+        116,
+        290,
+        679,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9905,
+      "box": [
+        126,
+        314,
+        438,
+        339
+      ]
+    },
+    {
+      "text": "- Monitored patient intake and output",
+      "score": 0.9676,
+      "box": [
+        126,
+        339,
+        470,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Clinical Nursing, Pinefield High School, 2018",
+      "score": 0.99,
+      "box": [
+        116,
+        449,
+        790,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient confidentiality",
+      "score": 0.9973,
+      "box": [
+        133,
+        474,
+        584,
+        498
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "TRACY WELLS\nMD, USA|+1-994-435-5596 |tracy.wells@example.com\nWORK HISTORY\nRegistered Nurses, KindPath Care Center, 2020.10–2023.01\n- Assisted with patient positioning\n- Monitored patient intake and output\nEDUCATION\nHigh school graduate/GED, Clinical Nursing, Pinefield High School, 2018\n• Completed coursework in patient confidentiality"
+}

@@ -1,0 +1,200 @@
+{
+  "id": "61185",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.836,
+  "n_lines": 14,
+  "mean_score": 0.983,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MILTON JORDAN",
+      "score": 0.9855,
+      "box": [
+        116,
+        90,
+        397,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-883-543-1293|milton.jordan@example.com",
+      "score": 0.9817,
+      "box": [
+        115,
+        150,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Advisors, 2020.10–2023.01",
+      "score": 0.9933,
+      "box": [
+        115,
+        290,
+        678,
+        312
+      ]
+    },
+    {
+      "text": "- Designed budgeting methodologies",
+      "score": 0.9764,
+      "box": [
+        126,
+        314,
+        469,
+        339
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9755,
+      "box": [
+        126,
+        339,
+        424,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Financial, 2017.07–2019.10",
+      "score": 0.9733,
+      "box": [
+        115,
+        382,
+        695,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9791,
+      "box": [
+        125,
+        405,
+        423,
+        432
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.9886,
+      "box": [
+        125,
+        430,
+        420,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Auditing, Clearway University, 2009",
+      "score": 0.9621,
+      "box": [
+        115,
+        541,
+        537,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Economic Studies, Crestwood University, 2007",
+      "score": 0.9826,
+      "box": [
+        114,
+        564,
+        660,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of internal controls",
+      "score": 0.9886,
+      "box": [
+        134,
+        592,
+        526,
+        612
+      ]
+    },
+    {
+      "text": "• Completed coursework in ethics in business",
+      "score": 0.99,
+      "box": [
+        133,
+        615,
+        553,
+        638
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "MILTON JORDAN\nWI, USA|+1-883-543-1293|milton.jordan@example.com\nWORK HISTORY\nAccountants Auditors, FairBooks Advisors, 2020.10–2023.01\n- Designed budgeting methodologies\n- Designed audit methodologies\nAccountants Auditors, ClearCount Financial, 2017.07–2019.10\n- Assisted with regulatory filings\n- Reconciled subsidiary ledgers\nEDUCATION\nMaster's, Auditing, Clearway University, 2009\nBachelor's, Economic Studies, Crestwood University, 2007\n• Studied fundamentals of internal controls\n• Completed coursework in ethics in business"
+}

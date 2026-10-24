@@ -1,0 +1,187 @@
+{
+  "id": "15880",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.928,
+  "n_lines": 13,
+  "mean_score": 0.9786,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "VIVIAN WALTON",
+      "score": 0.9773,
+      "box": [
+        115,
+        88,
+        386,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA|+1-749-275-2958 |vivian.walton@example.com",
+      "score": 0.9672,
+      "box": [
+        117,
+        151,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverSpring Health Services, 2019.12–2021.11",
+      "score": 0.9907,
+      "box": [
+        116,
+        290,
+        729,
+        313
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.983,
+      "box": [
+        125,
+        313,
+        471,
+        338
+      ]
+    },
+    {
+      "text": "- Developed patient safety programs",
+      "score": 0.9721,
+      "box": [
+        127,
+        339,
+        466,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearBridge Nursing Services, 2016.08–2018.07",
+      "score": 0.9782,
+      "box": [
+        115,
+        381,
+        749,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9544,
+      "box": [
+        126,
+        406,
+        372,
+        433
+      ]
+    },
+    {
+      "text": "- Monitored patient alarms",
+      "score": 0.9698,
+      "box": [
+        126,
+        430,
+        372,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Health Sciences, Silverfield University, 2015",
+      "score": 0.9825,
+      "box": [
+        114,
+        540,
+        709,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient discharge planning",
+      "score": 0.9729,
+      "box": [
+        132,
+        565,
+        632,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of ostomy care",
+      "score": 0.9898,
+      "box": [
+        132,
+        589,
+        457,
+        616
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "VIVIAN WALTON\nGA, USA|+1-749-275-2958 |vivian.walton@example.com\nWORK HISTORY\nRegistered Nurses, EverSpring Health Services, 2019.12–2021.11\n- Established care delivery standards\n- Developed patient safety programs\nRegistered Nurses, ClearBridge Nursing Services, 2016.08–2018.07\n- Prepared sterile supplies\n- Monitored patient alarms\nEDUCATION\nBachelor's, Applied Health Sciences, Silverfield University, 2015\n• Completed coursework in patient discharge planning\n• Studied principles of ostomy care"
+}

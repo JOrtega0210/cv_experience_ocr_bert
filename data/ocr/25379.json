@@ -1,0 +1,226 @@
+{
+  "id": "25379",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.842,
+  "n_lines": 16,
+  "mean_score": 0.9821,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LEANN WOODARD",
+      "score": 0.9847,
+      "box": [
+        116,
+        90,
+        422,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-264-307-2111 |leann.woodard@example.com",
+      "score": 0.9857,
+      "box": [
+        115,
+        150,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9816,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Way Health, 2020.02–2023.01",
+      "score": 0.9883,
+      "box": [
+        115,
+        289,
+        672,
+        314
+      ]
+    },
+    {
+      "text": "- Directed clinical training standards",
+      "score": 0.9697,
+      "box": [
+        126,
+        315,
+        460,
+        338
+      ]
+    },
+    {
+      "text": "- Managed nursing unit operations",
+      "score": 0.9758,
+      "box": [
+        126,
+        339,
+        447,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Hands Health, 2016.07–2019.06",
+      "score": 0.9941,
+      "box": [
+        115,
+        381,
+        693,
+        406
+      ]
+    },
+    {
+      "text": "- Interpreted laboratory results",
+      "score": 0.9929,
+      "box": [
+        126,
+        406,
+        410,
+        431
+      ]
+    },
+    {
+      "text": "- Monitored patient response to treatments",
+      "score": 0.9754,
+      "box": [
+        126,
+        430,
+        522,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleBridge Health, 2012.06–2015.05",
+      "score": 0.9844,
+      "box": [
+        116,
+        473,
+        664,
+        496
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.968,
+      "box": [
+        124,
+        496,
+        365,
+        522
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9603,
+      "box": [
+        126,
+        521,
+        399,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Operations, Cloverfield University, 2006",
+      "score": 0.9925,
+      "box": [
+        114,
+        631,
+        711,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of quality assurance in care",
+      "score": 0.9654,
+      "box": [
+        132,
+        656,
+        610,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of surgical nursing",
+      "score": 0.9955,
+      "box": [
+        134,
+        681,
+        524,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "LEANN WOODARD\nMA, USA|+1-264-307-2111 |leann.woodard@example.com\nWORK HISTORY\nRegistered Nurses, Harmony Way Health, 2020.02–2023.01\n- Directed clinical training standards\n- Managed nursing unit operations\nRegistered Nurses, Harmony Hands Health, 2016.07–2019.06\n- Interpreted laboratory results\n- Monitored patient response to treatments\nRegistered Nurses, GentleBridge Health, 2012.06–2015.05\n- Recorded nursing notes\n- Recorded patient vital signs\nEDUCATION\nBachelor's, Health Care Operations, Cloverfield University, 2006\n• Studied fundamentals of quality assurance in care\n• Studied fundamentals of surgical nursing"
+}

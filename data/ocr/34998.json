@@ -1,0 +1,187 @@
+{
+  "id": "34998",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.817,
+  "n_lines": 13,
+  "mean_score": 0.9785,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LUKAS WALLER",
+      "score": 0.9755,
+      "box": [
+        116,
+        90,
+        385,
+        121
+      ]
+    },
+    {
+      "text": "NM, USA|+1-850-856-5332 |lukas.waller@example.com",
+      "score": 0.9751,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9779,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Ledger Co., 2021.07–2023.01",
+      "score": 0.9849,
+      "box": [
+        114,
+        289,
+        695,
+        314
+      ]
+    },
+    {
+      "text": "-Directed accounting system implementations",
+      "score": 0.9949,
+      "box": [
+        125,
+        314,
+        556,
+        339
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9842,
+      "box": [
+        127,
+        340,
+        512,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Group, 2019.12–2021.07",
+      "score": 0.9666,
+      "box": [
+        114,
+        381,
+        710,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9843,
+      "box": [
+        126,
+        407,
+        405,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.9702,
+      "box": [
+        126,
+        431,
+        436,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Administrative Studies, Riverfield University, 2017",
+      "score": 0.9526,
+      "box": [
+        115,
+        540,
+        685,
+        563
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of professional writing",
+      "score": 0.9804,
+      "box": [
+        132,
+        565,
+        557,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in ethics in business",
+      "score": 0.9765,
+      "box": [
+        134,
+        590,
+        553,
+        613
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "LUKAS WALLER\nNM, USA|+1-850-856-5332 |lukas.waller@example.com\nWORK HISTORY\nAccountants Auditors, Balanced Ledger Co., 2021.07–2023.01\n-Directed accounting system implementations\n- Designed financial control environments\nAccountants Auditors, Reliable Ledger Group, 2019.12–2021.07\n- Assisted with audit fieldwork\n- Prepared basic financial reports\nEDUCATION\nBachelor's, Administrative Studies, Riverfield University, 2017\n• Studied fundamentals of professional writing\n• Completed coursework in ethics in business"
+}

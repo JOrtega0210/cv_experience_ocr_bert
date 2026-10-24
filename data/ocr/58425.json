@@ -1,0 +1,252 @@
+{
+  "id": "58425",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.952,
+  "n_lines": 18,
+  "mean_score": 0.9769,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TARYN ANDRADE",
+      "score": 0.984,
+      "box": [
+        114,
+        90,
+        410,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-226-584-9169|taryn.andrade@example.com",
+      "score": 0.9797,
+      "box": [
+        114,
+        150,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Group, 2019.07–2023.01",
+      "score": 0.9736,
+      "box": [
+        114,
+        289,
+        700,
+        314
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9647,
+      "box": [
+        126,
+        313,
+        518,
+        338
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.9555,
+      "box": [
+        126,
+        339,
+        485,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrueLedger Advisors, 2016.01–2019.07",
+      "score": 0.9916,
+      "box": [
+        115,
+        381,
+        694,
+        406
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9862,
+      "box": [
+        126,
+        406,
+        556,
+        431
+      ]
+    },
+    {
+      "text": "- Directed budget planning cycles",
+      "score": 0.9718,
+      "box": [
+        126,
+        431,
+        439,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Advisors, 2011.11–2015.06",
+      "score": 0.9618,
+      "box": [
+        115,
+        472,
+        689,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared cash flow statements",
+      "score": 0.9769,
+      "box": [
+        125,
+        498,
+        429,
+        521
+      ]
+    },
+    {
+      "text": "- Conducted variance investigations",
+      "score": 0.9678,
+      "box": [
+        126,
+        521,
+        459,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Financial, 2007.10–2011.05",
+      "score": 0.9779,
+      "box": [
+        115,
+        564,
+        683,
+        587
+      ]
+    },
+    {
+      "text": "- Updated fixed asset registers",
+      "score": 0.959,
+      "box": [
+        126,
+        589,
+        412,
+        613
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.9809,
+      "box": [
+        126,
+        613,
+        415,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Administrative Studies, Pinefield High School, 2005",
+      "score": 0.9895,
+      "box": [
+        116,
+        725,
+        851,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in business law basics",
+      "score": 0.9794,
+      "box": [
+        134,
+        750,
+        573,
+        770
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "TARYN ANDRADE\nWA, USA|+1-226-584-9169|taryn.andrade@example.com\nWORK HISTORY\nAccountants Auditors, Integrity Books Group, 2019.07–2023.01\n- Established financial reporting standards\n- Designed financial policy frameworks\nAccountants Auditors, TrueLedger Advisors, 2016.01–2019.07\n- Directed accounting system implementations\n- Directed budget planning cycles\nAccountants Auditors, SolidCount Advisors, 2011.11–2015.06\n- Prepared cash flow statements\n- Conducted variance investigations\nAccountants Auditors, FairBooks Financial, 2007.10–2011.05\n- Updated fixed asset registers\n- Verified financial transactions\nEDUCATION\nHigh school graduate/GED, Administrative Studies, Pinefield High School, 2005\n• Completed coursework in business law basics"
+}

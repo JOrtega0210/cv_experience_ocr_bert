@@ -1,0 +1,239 @@
+{
+  "id": "38438",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.898,
+  "n_lines": 17,
+  "mean_score": 0.9809,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "WILLIAM POTTER",
+      "score": 0.9773,
+      "box": [
+        116,
+        90,
+        406,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-871-771-9439|william.potter@example.com",
+      "score": 0.9757,
+      "box": [
+        115,
+        150,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9785,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Advisors, 2020.04–2023.01",
+      "score": 0.9865,
+      "box": [
+        115,
+        290,
+        709,
+        312
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9825,
+      "box": [
+        126,
+        314,
+        528,
+        339
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.9765,
+      "box": [
+        127,
+        340,
+        486,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Advisors, 2017.06–2020.04",
+      "score": 0.9831,
+      "box": [
+        114,
+        381,
+        696,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted account reconciliations",
+      "score": 0.9707,
+      "box": [
+        127,
+        407,
+        459,
+        429
+      ]
+    },
+    {
+      "text": "- Managed general ledger maintenance",
+      "score": 0.9865,
+      "box": [
+        126,
+        430,
+        494,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Services, 2013.01–2015.11",
+      "score": 0.979,
+      "box": [
+        114,
+        471,
+        700,
+        496
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9769,
+      "box": [
+        125,
+        496,
+        490,
+        521
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.9742,
+      "box": [
+        126,
+        521,
+        420,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Business Analytics, Northview University, 2005",
+      "score": 0.9721,
+      "box": [
+        114,
+        631,
+        641,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Auditing, Elm Ridge University, 2003",
+      "score": 0.9836,
+      "box": [
+        115,
+        658,
+        565,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in contribution margin analysis",
+      "score": 0.9976,
+      "box": [
+        134,
+        683,
+        647,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in payroll accounting",
+      "score": 0.9756,
+      "box": [
+        133,
+        706,
+        558,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "WILLIAM POTTER\nNY, USA|+1-871-771-9439|william.potter@example.com\nWORK HISTORY\nAccountants Auditors, ClearBalance Advisors, 2020.04–2023.01\n- Designed financial accountability systems\n- Designed financial policy frameworks\nAccountants Auditors, CoreLedger Advisors, 2017.06–2020.04\n- Conducted account reconciliations\n- Managed general ledger maintenance\nAccountants Auditors, ClearLedger Services, 2013.01–2015.11\n- Processed accounts payable invoices\n- Reconciled subsidiary ledgers\nEDUCATION\nMaster's, Business Analytics, Northview University, 2005\nBachelor's, Auditing, Elm Ridge University, 2003\n• Completed coursework in contribution margin analysis\n• Completed coursework in payroll accounting"
+}

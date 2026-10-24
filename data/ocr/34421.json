@@ -1,0 +1,161 @@
+{
+  "id": "34421",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.77,
+  "n_lines": 11,
+  "mean_score": 0.9787,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MICHEAL CRAIG",
+      "score": 0.9758,
+      "box": [
+        116,
+        90,
+        387,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-906-951-9570|micheal.craig@example.com",
+      "score": 0.9794,
+      "box": [
+        116,
+        151,
+        660,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9832,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Services, 2020.12–2023.01",
+      "score": 0.9844,
+      "box": [
+        114,
+        289,
+        731,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared expense reports",
+      "score": 0.964,
+      "box": [
+        126,
+        314,
+        384,
+        339
+      ]
+    },
+    {
+      "text": "– Maintained accounting software records",
+      "score": 0.9658,
+      "box": [
+        127,
+        340,
+        511,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Accounting and Finance, Oakview University, 2022",
+      "score": 0.9697,
+      "box": [
+        114,
+        447,
+        678,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting and Finance, Meadowland University, 2020",
+      "score": 0.9675,
+      "box": [
+        114,
+        472,
+        735,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in data visualization basics",
+      "score": 0.9863,
+      "box": [
+        135,
+        500,
+        614,
+        520
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of journal entries",
+      "score": 0.9904,
+      "box": [
+        133,
+        522,
+        510,
+        547
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "MICHEAL CRAIG\nNJ, USA|+1-906-951-9570|micheal.craig@example.com\nWORK HISTORY\nAccountants Auditors, Reliable Ledger Services, 2020.12–2023.01\n- Prepared expense reports\n– Maintained accounting software records\nEDUCATION\nMaster's, Accounting and Finance, Oakview University, 2022\nBachelor's, Accounting and Finance, Meadowland University, 2020\n• Completed coursework in data visualization basics\n• Studied fundamentals of journal entries"
+}

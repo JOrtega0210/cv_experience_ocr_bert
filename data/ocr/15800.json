@@ -1,0 +1,148 @@
+{
+  "id": "15800",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.876,
+  "n_lines": 10,
+  "mean_score": 0.966,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TYE BOOKER",
+      "score": 0.9458,
+      "box": [
+        115,
+        90,
+        339,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-547-636-5249|tye.booker@example.com",
+      "score": 0.9743,
+      "box": [
+        116,
+        151,
+        640,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9806,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Harbor School, 2020.12–2023.01",
+      "score": 0.9831,
+      "box": [
+        115,
+        290,
+        819,
+        313
+      ]
+    },
+    {
+      "text": "- Tracked student participation",
+      "score": 0.961,
+      "box": [
+        126,
+        313,
+        411,
+        339
+      ]
+    },
+    {
+      "text": "- Maintained classroom bulletin boards",
+      "score": 0.9496,
+      "box": [
+        127,
+        340,
+        487,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Practice, Riverbend University, 2021",
+      "score": 0.958,
+      "box": [
+        114,
+        447,
+        676,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom collaboration",
+      "score": 0.9604,
+      "box": [
+        133,
+        475,
+        607,
+        495
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional facilitation",
+      "score": 0.9485,
+      "box": [
+        132,
+        498,
+        589,
+        521
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "TYE BOOKER\nGA, USA |+1-547-636-5249|tye.booker@example.com\nWORK HISTORY\nElementary Middle School Teachers, Little Harbor School, 2020.12–2023.01\n- Tracked student participation\n- Maintained classroom bulletin boards\nEDUCATION\nBachelor's, Educational Practice, Riverbend University, 2021\n• Completed coursework in classroom collaboration\n• Studied fundamentals of instructional facilitation"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "01682",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.918,
+  "n_lines": 16,
+  "mean_score": 0.9841,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSEPH WANG",
+      "score": 0.9749,
+      "box": [
+        116,
+        90,
+        368,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-819-933-1833|joseph.wang@example.com",
+      "score": 0.996,
+      "box": [
+        116,
+        151,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstack Labs, 2020.02–2023.01",
+      "score": 0.9916,
+      "box": [
+        115,
+        290,
+        649,
+        313
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.9826,
+      "box": [
+        126,
+        314,
+        431,
+        339
+      ]
+    },
+    {
+      "text": "- Designed logging infrastructures",
+      "score": 0.9928,
+      "box": [
+        126,
+        339,
+        442,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Flowstack Digital, 2016.07–2019.06",
+      "score": 0.9711,
+      "box": [
+        115,
+        381,
+        653,
+        406
+      ]
+    },
+    {
+      "text": "-Built frontend components",
+      "score": 0.9936,
+      "box": [
+        125,
+        406,
+        386,
+        431
+      ]
+    },
+    {
+      "text": "- Integrated analytics services",
+      "score": 0.9875,
+      "box": [
+        126,
+        430,
+        406,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Openframe Labs, 2012.07–2015.07",
+      "score": 0.9692,
+      "box": [
+        116,
+        472,
+        651,
+        496
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.9594,
+      "box": [
+        127,
+        498,
+        462,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.9965,
+      "box": [
+        127,
+        522,
+        423,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Stonehaven University, 2003",
+      "score": 0.9729,
+      "box": [
+        115,
+        632,
+        493,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in inversion of control",
+      "score": 0.9897,
+      "box": [
+        134,
+        657,
+        565,
+        680
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of API development",
+      "score": 0.983,
+      "box": [
+        133,
+        681,
+        539,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JOSEPH WANG\nAZ, USA|+1-819-933-1833|joseph.wang@example.com\nWORK HISTORY\nSoftware Developers, Brightstack Labs, 2020.02–2023.01\n- Led system reliability programs\n- Designed logging infrastructures\nSoftware Developers, Flowstack Digital, 2016.07–2019.06\n-Built frontend components\n- Integrated analytics services\nSoftware Developers, Openframe Labs, 2012.07–2015.07\n- Updated application dependencies\n- Assisted with build automation\nEDUCATION\nBachelor's, Stonehaven University, 2003\n• Completed coursework in inversion of control\n• Studied fundamentals of API development"
+}

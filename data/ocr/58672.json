@@ -1,0 +1,187 @@
+{
+  "id": "58672",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.81,
+  "n_lines": 13,
+  "mean_score": 0.982,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KAITLYNN HARRELL",
+      "score": 0.9697,
+      "box": [
+        116,
+        90,
+        454,
+        120
+      ]
+    },
+    {
+      "text": "WA, USA|+1-945-207-5175 |kaitlynn.harrell@example.com",
+      "score": 0.9818,
+      "box": [
+        116,
+        152,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9797,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenSpring Care Services, 2020.09–2023.01",
+      "score": 0.9905,
+      "box": [
+        115,
+        289,
+        723,
+        314
+      ]
+    },
+    {
+      "text": "-Directed nursing operations planning",
+      "score": 0.9972,
+      "box": [
+        125,
+        313,
+        481,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9822,
+      "box": [
+        127,
+        340,
+        457,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIWay Nursing Services, 2018.05–2020.09",
+      "score": 0.9794,
+      "box": [
+        116,
+        383,
+        721,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored patient skin condition",
+      "score": 0.9827,
+      "box": [
+        126,
+        407,
+        436,
+        430
+      ]
+    },
+    {
+      "text": "- Assisted with hygiene care",
+      "score": 0.9772,
+      "box": [
+        126,
+        430,
+        390,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Associate's degree, Allied Health, EImwood Ridge University, 2016",
+      "score": 0.9543,
+      "box": [
+        115,
+        540,
+        735,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of trauma care",
+      "score": 0.9866,
+      "box": [
+        133,
+        565,
+        490,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of hydration management",
+      "score": 0.986,
+      "box": [
+        132,
+        590,
+        556,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KAITLYNN HARRELL\nWA, USA|+1-945-207-5175 |kaitlynn.harrell@example.com\nWORK HISTORY\nRegistered Nurses, OpenSpring Care Services, 2020.09–2023.01\n-Directed nursing operations planning\n- Implemented care standardization\nRegistered Nurses, WelIWay Nursing Services, 2018.05–2020.09\n- Monitored patient skin condition\n- Assisted with hygiene care\nEDUCATION\nAssociate's degree, Allied Health, EImwood Ridge University, 2016\n• Studied fundamentals of trauma care\n• Studied principles of hydration management"
+}

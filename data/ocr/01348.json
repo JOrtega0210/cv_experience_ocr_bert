@@ -1,0 +1,252 @@
+{
+  "id": "01348",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.022,
+  "n_lines": 18,
+  "mean_score": 0.9814,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JARED SHELTON",
+      "score": 0.964,
+      "box": [
+        116,
+        90,
+        401,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-766-217-9128 |jared.shelton@example.com",
+      "score": 0.9871,
+      "box": [
+        116,
+        151,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellPath Medical Group, 2020.08–2023.01",
+      "score": 0.9671,
+      "box": [
+        115,
+        289,
+        699,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.9905,
+      "box": [
+        126,
+        314,
+        517,
+        339
+      ]
+    },
+    {
+      "text": "- Developed patient safety metrics",
+      "score": 0.9791,
+      "box": [
+        126,
+        339,
+        445,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellBridge Medical Group, 2018.02–2020.08",
+      "score": 0.9715,
+      "box": [
+        115,
+        381,
+        718,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted patient safety checks",
+      "score": 0.9768,
+      "box": [
+        125,
+        407,
+        443,
+        430
+      ]
+    },
+    {
+      "text": "- Performed advanced wound assessments",
+      "score": 0.9897,
+      "box": [
+        126,
+        429,
+        531,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Health, 2012.08–2015.02",
+      "score": 0.9865,
+      "box": [
+        116,
+        472,
+        664,
+        495
+      ]
+    },
+    {
+      "text": "- Prepared intravenous solutions",
+      "score": 0.9888,
+      "box": [
+        127,
+        499,
+        430,
+        519
+      ]
+    },
+    {
+      "text": "- Collected laboratory specimens",
+      "score": 0.995,
+      "box": [
+        126,
+        521,
+        434,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Doctorate, Health Information Management, Cedar Valley University, 2011",
+      "score": 0.9738,
+      "box": [
+        114,
+        631,
+        802,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Administration, Meadowridge University, 2006",
+      "score": 0.9741,
+      "box": [
+        114,
+        656,
+        717,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of time management in care",
+      "score": 0.9944,
+      "box": [
+        133,
+        681,
+        578,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing ethics",
+      "score": 0.9489,
+      "box": [
+        132,
+        706,
+        518,
+        731
+      ]
+    },
+    {
+      "text": "• Studied principles of health informatics",
+      "score": 0.994,
+      "box": [
+        135,
+        733,
+        505,
+        753
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "JARED SHELTON\nAZ, USA|+1-766-217-9128 |jared.shelton@example.com\nWORK HISTORY\nRegistered Nurses, WellPath Medical Group, 2020.08–2023.01\n- Implemented patient monitoring systems\n- Developed patient safety metrics\nRegistered Nurses, WellBridge Medical Group, 2018.02–2020.08\n- Conducted patient safety checks\n- Performed advanced wound assessments\nRegistered Nurses, GentleHands Health, 2012.08–2015.02\n- Prepared intravenous solutions\n- Collected laboratory specimens\nEDUCATION\nDoctorate, Health Information Management, Cedar Valley University, 2011\nBachelor's, Health Administration, Meadowridge University, 2006\n• Studied principles of time management in care\n• Completed coursework in nursing ethics\n• Studied principles of health informatics"
+}

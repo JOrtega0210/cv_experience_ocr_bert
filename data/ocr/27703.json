@@ -1,0 +1,187 @@
+{
+  "id": "27703",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.884,
+  "n_lines": 13,
+  "mean_score": 0.9811,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JULIA STEELE",
+      "score": 0.9638,
+      "box": [
+        116,
+        90,
+        354,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-827-757-7152 |julia.steele@example.com",
+      "score": 0.9686,
+      "box": [
+        116,
+        151,
+        634,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9777,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Path School, 2020.10–2023.01",
+      "score": 0.9758,
+      "box": [
+        114,
+        289,
+        815,
+        314
+      ]
+    },
+    {
+      "text": "- Developed instructional innovation plans",
+      "score": 0.9851,
+      "box": [
+        125,
+        314,
+        516,
+        339
+      ]
+    },
+    {
+      "text": "- Developed data-driven teaching models",
+      "score": 0.9858,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Way Academy, 2016.04–2018.08",
+      "score": 0.9821,
+      "box": [
+        115,
+        381,
+        858,
+        406
+      ]
+    },
+    {
+      "text": "- Supervised classroom activities",
+      "score": 0.9901,
+      "box": [
+        126,
+        406,
+        434,
+        431
+      ]
+    },
+    {
+      "text": "-Tracked student participation",
+      "score": 0.9822,
+      "box": [
+        125,
+        430,
+        411,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Child and Youth Studies, Ridgeway University, 2014",
+      "score": 0.9838,
+      "box": [
+        115,
+        541,
+        709,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of student comprehension",
+      "score": 0.9791,
+      "box": [
+        133,
+        566,
+        559,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom structure planning",
+      "score": 0.982,
+      "box": [
+        133,
+        590,
+        655,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JULIA STEELE\nMI, USA|+1-827-757-7152 |julia.steele@example.com\nWORK HISTORY\nElementary Middle School Teachers, Caring Path School, 2020.10–2023.01\n- Developed instructional innovation plans\n- Developed data-driven teaching models\nElementary Middle School Teachers, Learning Way Academy, 2016.04–2018.08\n- Supervised classroom activities\n-Tracked student participation\nEDUCATION\nBachelor's, Child and Youth Studies, Ridgeway University, 2014\n• Studied principles of student comprehension\n• Completed coursework in classroom structure planning"
+}

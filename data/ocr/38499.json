@@ -1,0 +1,148 @@
+{
+  "id": "38499",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.775,
+  "n_lines": 10,
+  "mean_score": 0.9861,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CADEN BLACKWELL",
+      "score": 0.9739,
+      "box": [
+        117,
+        90,
+        457,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-495-219-8176|caden.blackwell@example.com",
+      "score": 0.9885,
+      "box": [
+        115,
+        150,
+        689,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Advisors, 2022.01–2023.01",
+      "score": 0.9938,
+      "box": [
+        115,
+        289,
+        704,
+        312
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9881,
+      "box": [
+        125,
+        314,
+        550,
+        338
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.9848,
+      "box": [
+        127,
+        340,
+        445,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Investment Management, Cedarview University, 2023",
+      "score": 0.9878,
+      "box": [
+        115,
+        449,
+        721,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting case analysis",
+      "score": 0.9781,
+      "box": [
+        134,
+        474,
+        621,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in data analysis for accounting",
+      "score": 0.9876,
+      "box": [
+        133,
+        498,
+        647,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "CADEN BLACKWELL\nNY, USA|+1-495-219-8176|caden.blackwell@example.com\nWORK HISTORY\nAccountants Auditors, SteadyCount Advisors, 2022.01–2023.01\n- Processed accounts receivable transactions\n- Prepared account reconciliations\nEDUCATION\nBachelor's, Investment Management, Cedarview University, 2023\n• Completed coursework in accounting case analysis\n• Completed coursework in data analysis for accounting"
+}

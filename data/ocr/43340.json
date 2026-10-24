@@ -1,0 +1,239 @@
+{
+  "id": "43340",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.926,
+  "n_lines": 17,
+  "mean_score": 0.9764,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "PATRICKBARRETT",
+      "score": 0.9994,
+      "box": [
+        115,
+        90,
+        436,
+        120
+      ]
+    },
+    {
+      "text": "OH, USA|+1-212-553-9325 |patrick.barrett@example.com",
+      "score": 0.9743,
+      "box": [
+        117,
+        151,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9808,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Advisors, 2020.06–2023.01",
+      "score": 0.9753,
+      "box": [
+        114,
+        289,
+        710,
+        313
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9768,
+      "box": [
+        126,
+        313,
+        494,
+        339
+      ]
+    },
+    {
+      "text": "-Led accounting process optimization",
+      "score": 0.9341,
+      "box": [
+        127,
+        339,
+        478,
+        362
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Group, 2016.12–2019.08",
+      "score": 0.9803,
+      "box": [
+        114,
+        381,
+        682,
+        406
+      ]
+    },
+    {
+      "text": "- Coordinated audit schedules",
+      "score": 0.9675,
+      "box": [
+        126,
+        407,
+        407,
+        429
+      ]
+    },
+    {
+      "text": "- Prepared cost allocation models",
+      "score": 0.9657,
+      "box": [
+        127,
+        432,
+        440,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Advisors, 2013.04–2015.12",
+      "score": 0.9821,
+      "box": [
+        115,
+        472,
+        691,
+        495
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9789,
+      "box": [
+        125,
+        496,
+        382,
+        522
+      ]
+    },
+    {
+      "text": "- Reviewed vendor payments",
+      "score": 0.9876,
+      "box": [
+        126,
+        521,
+        400,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, International Business, Riverstone University, 2004",
+      "score": 0.9848,
+      "box": [
+        115,
+        632,
+        680,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Management, Brighton University, 2002",
+      "score": 0.9574,
+      "box": [
+        114,
+        656,
+        682,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in pension accounting basics",
+      "score": 0.9835,
+      "box": [
+        135,
+        684,
+        632,
+        704
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit software tools",
+      "score": 0.9713,
+      "box": [
+        133,
+        707,
+        558,
+        729
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "PATRICKBARRETT\nOH, USA|+1-212-553-9325 |patrick.barrett@example.com\nWORK HISTORY\nAccountants Auditors, OpenBalance Advisors, 2020.06–2023.01\n- Established financial data governance\n-Led accounting process optimization\nAccountants Auditors, EverBalance Group, 2016.12–2019.08\n- Coordinated audit schedules\n- Prepared cost allocation models\nAccountants Auditors, SolidBooks Advisors, 2013.04–2015.12\n- Reviewed ledger postings\n- Reviewed vendor payments\nEDUCATION\nMaster's, International Business, Riverstone University, 2004\nBachelor's, Financial Management, Brighton University, 2002\n• Completed coursework in pension accounting basics\n• Studied fundamentals of audit software tools"
+}

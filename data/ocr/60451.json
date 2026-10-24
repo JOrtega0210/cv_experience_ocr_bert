@@ -1,0 +1,148 @@
+{
+  "id": "60451",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.792,
+  "n_lines": 10,
+  "mean_score": 0.988,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HAYLEYGLENN",
+      "score": 0.9991,
+      "box": [
+        116,
+        90,
+        380,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-912-918-1827|hayley.glenn@example.com",
+      "score": 0.9841,
+      "box": [
+        115,
+        150,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9761,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Nursing, 2019.05–2022.04",
+      "score": 0.9913,
+      "box": [
+        116,
+        290,
+        675,
+        313
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9853,
+      "box": [
+        126,
+        314,
+        529,
+        338
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.9873,
+      "box": [
+        126,
+        339,
+        471,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Services Administration, Crestline University, 2016",
+      "score": 0.9874,
+      "box": [
+        116,
+        449,
+        838,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of patient safety",
+      "score": 0.98,
+      "box": [
+        132,
+        472,
+        466,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in diagnostic testing basics",
+      "score": 0.9912,
+      "box": [
+        134,
+        499,
+        616,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "HAYLEYGLENN\nWI, USA|+1-912-918-1827|hayley.glenn@example.com\nWORK HISTORY\nRegistered Nurses, GentleHands Nursing, 2019.05–2022.04\n- Recorded medication administration times\n- Recorded patient weight and height\nEDUCATION\nAssociate's degree, Health Services Administration, Crestline University, 2016\n• Studied principles of patient safety\n• Completed coursework in diagnostic testing basics"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "08759",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.922,
+  "n_lines": 16,
+  "mean_score": 0.9836,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DANIEL ESTES",
+      "score": 0.984,
+      "box": [
+        116,
+        90,
+        361,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-308-494-8266 |daniel.estes@example.com",
+      "score": 0.9797,
+      "box": [
+        116,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9856,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datacore Labs, 2020.11–2023.01",
+      "score": 0.9734,
+      "box": [
+        114,
+        288,
+        631,
+        313
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.975,
+      "box": [
+        125,
+        313,
+        368,
+        339
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.9915,
+      "box": [
+        126,
+        338,
+        543,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Softline Digital, 2018.09–2020.11",
+      "score": 0.9717,
+      "box": [
+        116,
+        382,
+        629,
+        406
+      ]
+    },
+    {
+      "text": "- Designed batch processing jobs",
+      "score": 0.9878,
+      "box": [
+        126,
+        406,
+        439,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented logging frameworks",
+      "score": 0.9771,
+      "box": [
+        126,
+        431,
+        449,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Datawave Digital, 2014.05–2016.07",
+      "score": 0.9843,
+      "box": [
+        116,
+        472,
+        653,
+        496
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9801,
+      "box": [
+        127,
+        498,
+        415,
+        521
+      ]
+    },
+    {
+      "text": "- Refactored simple functions for readability",
+      "score": 0.986,
+      "box": [
+        126,
+        521,
+        530,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Some college (no degree), Woodcrest University, 2010",
+      "score": 0.9835,
+      "box": [
+        116,
+        632,
+        624,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in deadlock prevention",
+      "score": 0.9853,
+      "box": [
+        133,
+        657,
+        576,
+        680
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of collaborative development",
+      "score": 0.9943,
+      "box": [
+        133,
+        681,
+        623,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "DANIEL ESTES\nCA, USA|+1-308-494-8266 |daniel.estes@example.com\nWORK HISTORY\nSoftware Developers, Datacore Labs, 2020.11–2023.01\n- Built distributed systems\n- Defined technical documentation standards\nSoftware Developers, Softline Digital, 2018.09–2020.11\n- Designed batch processing jobs\n- Implemented logging frameworks\nSoftware Developers, Datawave Digital, 2014.05–2016.07\n- Updated frontend stylesheets\n- Refactored simple functions for readability\nEDUCATION\nSome college (no degree), Woodcrest University, 2010\n• Completed coursework in deadlock prevention\n• Studied fundamentals of collaborative development"
+}

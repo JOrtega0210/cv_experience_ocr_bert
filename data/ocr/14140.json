@@ -1,0 +1,226 @@
+{
+  "id": "14140",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.925,
+  "n_lines": 16,
+  "mean_score": 0.9823,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LISA SPARKS",
+      "score": 0.9846,
+      "box": [
+        116,
+        90,
+        343,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-275-655-8492|lisa.sparks@example.com",
+      "score": 0.978,
+      "box": [
+        115,
+        150,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9867,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearPath Medical Group, 2020.09–2023.01",
+      "score": 0.9877,
+      "box": [
+        115,
+        289,
+        708,
+        314
+      ]
+    },
+    {
+      "text": "– Managed care delivery innovation",
+      "score": 0.9579,
+      "box": [
+        127,
+        315,
+        454,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.9846,
+      "box": [
+        126,
+        339,
+        517,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunPath Nursing, 2018.04–2020.09",
+      "score": 0.9879,
+      "box": [
+        116,
+        382,
+        632,
+        406
+      ]
+    },
+    {
+      "text": "- Interpreted laboratory results",
+      "score": 0.9783,
+      "box": [
+        125,
+        406,
+        410,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted clinical audits",
+      "score": 0.9738,
+      "box": [
+        127,
+        433,
+        373,
+        454
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafePath Health Services, 2013.07–2015.12",
+      "score": 0.9814,
+      "box": [
+        115,
+        471,
+        714,
+        496
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.9855,
+      "box": [
+        125,
+        496,
+        512,
+        522
+      ]
+    },
+    {
+      "text": "- Assisted with hygiene care",
+      "score": 0.9879,
+      "box": [
+        126,
+        521,
+        390,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Nursing Studies, Highpoint University, 2002",
+      "score": 0.9751,
+      "box": [
+        115,
+        632,
+        707,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of nursing communication",
+      "score": 0.9932,
+      "box": [
+        132,
+        656,
+        594,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of infusion pump use",
+      "score": 0.9744,
+      "box": [
+        133,
+        681,
+        549,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "LISA SPARKS\nFL, USA|+1-275-655-8492|lisa.sparks@example.com\nWORK HISTORY\nRegistered Nurses, ClearPath Medical Group, 2020.09–2023.01\n– Managed care delivery innovation\n- Implemented patient monitoring systems\nRegistered Nurses, SunPath Nursing, 2018.04–2020.09\n- Interpreted laboratory results\n- Conducted clinical audits\nRegistered Nurses, SafePath Health Services, 2013.07–2015.12\n- Performed basic life support procedures\n- Assisted with hygiene care\nEDUCATION\nAssociate's degree, Nursing Studies, Highpoint University, 2002\n• Studied fundamentals of nursing communication\n• Studied fundamentals of infusion pump use"
+}

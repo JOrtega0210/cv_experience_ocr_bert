@@ -1,0 +1,239 @@
+{
+  "id": "39671",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.922,
+  "n_lines": 17,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "EMILY COFFEY",
+      "score": 0.9799,
+      "box": [
+        117,
+        90,
+        366,
+        121
+      ]
+    },
+    {
+      "text": "NC, USA|+1-434-524-5486|emily.coffey@example.com",
+      "score": 0.9931,
+      "box": [
+        116,
+        151,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial Group, 2020.07–2023.01",
+      "score": 0.9823,
+      "box": [
+        114,
+        289,
+        790,
+        314
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9743,
+      "box": [
+        127,
+        315,
+        556,
+        338
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9804,
+      "box": [
+        126,
+        339,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Group, 2016.12–2019.06",
+      "score": 0.9823,
+      "box": [
+        115,
+        382,
+        674,
+        406
+      ]
+    },
+    {
+      "text": "- Developed internal audit programs",
+      "score": 0.9902,
+      "box": [
+        126,
+        406,
+        461,
+        432
+      ]
+    },
+    {
+      "text": "- Supervised junior accountants",
+      "score": 0.9931,
+      "box": [
+        126,
+        430,
+        422,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Financial Group, 2013.08–2016.02",
+      "score": 0.9799,
+      "box": [
+        114,
+        471,
+        765,
+        496
+      ]
+    },
+    {
+      "text": "- Entered financial data into accounting systems",
+      "score": 0.9776,
+      "box": [
+        124,
+        496,
+        573,
+        522
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9742,
+      "box": [
+        126,
+        521,
+        356,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Forensic Accounting, Crestline University, 2010",
+      "score": 0.9815,
+      "box": [
+        115,
+        632,
+        645,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Planning, Willowbrook University, 2008",
+      "score": 0.9635,
+      "box": [
+        114,
+        656,
+        676,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of tax planning",
+      "score": 0.9846,
+      "box": [
+        132,
+        681,
+        491,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in risk assessment",
+      "score": 0.9817,
+      "box": [
+        133,
+        706,
+        540,
+        731
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "EMILY COFFEY\nNC, USA|+1-434-524-5486|emily.coffey@example.com\nWORK HISTORY\nAccountants Auditors, Integrity Books Financial Group, 2020.07–2023.01\n- Directed accounting system implementations\n- Directed accounting operations planning\nAccountants Auditors, SolidLedger Group, 2016.12–2019.06\n- Developed internal audit programs\n- Supervised junior accountants\nAccountants Auditors, FairBalance Financial Group, 2013.08–2016.02\n- Entered financial data into accounting systems\n- Prepared aging reports\nEDUCATION\nMaster's, Forensic Accounting, Crestline University, 2010\nBachelor's, Financial Planning, Willowbrook University, 2008\n• Studied fundamentals of tax planning\n• Completed coursework in risk assessment"
+}

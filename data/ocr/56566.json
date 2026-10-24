@@ -1,0 +1,161 @@
+{
+  "id": "56566",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.826,
+  "n_lines": 11,
+  "mean_score": 0.9848,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TIFFANY BARNETT",
+      "score": 0.99,
+      "box": [
+        116,
+        90,
+        429,
+        120
+      ]
+    },
+    {
+      "text": "VA, USA|+1-953-353-1886 |tiffany.barnett@example.com",
+      "score": 0.9708,
+      "box": [
+        115,
+        150,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9731,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Minds School, 2021.10–2023.01",
+      "score": 0.9826,
+      "box": [
+        116,
+        290,
+        845,
+        313
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.9854,
+      "box": [
+        126,
+        314,
+        399,
+        339
+      ]
+    },
+    {
+      "text": "-Maintained lesson documentation",
+      "score": 0.9768,
+      "box": [
+        127,
+        340,
+        452,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Learning Skills, Rosewood University, 2021",
+      "score": 0.9935,
+      "box": [
+        115,
+        449,
+        607,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Skills, Clearfield Ridge University, 2019",
+      "score": 0.9848,
+      "box": [
+        115,
+        474,
+        677,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in student evaluation basics",
+      "score": 0.9872,
+      "box": [
+        135,
+        500,
+        623,
+        520
+      ]
+    },
+    {
+      "text": "• Studied principles of differentiated instruction",
+      "score": 0.9899,
+      "box": [
+        135,
+        525,
+        563,
+        545
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "TIFFANY BARNETT\nVA, USA|+1-953-353-1886 |tiffany.barnett@example.com\nWORK HISTORY\nElementary Middle School Teachers, Growing Minds School, 2021.10–2023.01\n- Conducted spelling practice\n-Maintained lesson documentation\nEDUCATION\nMaster's, Learning Skills, Rosewood University, 2021\nBachelor's, Learning Skills, Clearfield Ridge University, 2019\n• Completed coursework in student evaluation basics\n• Studied principles of differentiated instruction"
+}

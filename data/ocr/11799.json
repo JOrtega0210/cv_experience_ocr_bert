@@ -1,0 +1,148 @@
+{
+  "id": "11799",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.861,
+  "n_lines": 10,
+  "mean_score": 0.9826,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RANDY CHARLES",
+      "score": 0.9669,
+      "box": [
+        116,
+        90,
+        408,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-840-915-8646 |randy.charles@example.com",
+      "score": 0.988,
+      "box": [
+        116,
+        152,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9822,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureBuild Co., 2021.07–2021.11",
+      "score": 0.975,
+      "box": [
+        114,
+        289,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.9808,
+      "box": [
+        126,
+        314,
+        556,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9928,
+      "box": [
+        126,
+        339,
+        425,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), HVAC Technology, Larkspur University, 2001",
+      "score": 0.9779,
+      "box": [
+        116,
+        449,
+        788,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic HVAC concepts",
+      "score": 0.9838,
+      "box": [
+        133,
+        474,
+        591,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of vibration control",
+      "score": 0.9802,
+      "box": [
+        135,
+        500,
+        489,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "RANDY CHARLES\nFL, USA|+1-840-915-8646 |randy.charles@example.com\nWORK HISTORY\nConstruction Laborers, SureBuild Co., 2021.07–2021.11\n- Stacked and organized construction supplies\n- Assisted with concrete pouring\nEDUCATION\nSome college (no degree), HVAC Technology, Larkspur University, 2001\n• Completed coursework in basic HVAC concepts\n• Studied principles of vibration control"
+}

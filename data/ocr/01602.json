@@ -1,0 +1,265 @@
+{
+  "id": "01602",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.052,
+  "n_lines": 19,
+  "mean_score": 0.9821,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DANIEL DUNLAP",
+      "score": 0.9793,
+      "box": [
+        116,
+        90,
+        391,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-435-748-6318|daniel.dunlap@example.com",
+      "score": 0.9931,
+      "box": [
+        116,
+        151,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9789,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Bridge Care, 2020.07–2023.01",
+      "score": 0.9756,
+      "box": [
+        115,
+        289,
+        652,
+        314
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9876,
+      "box": [
+        127,
+        315,
+        548,
+        338
+      ]
+    },
+    {
+      "text": "- Managed patient outcome evaluation systems",
+      "score": 0.9685,
+      "box": [
+        127,
+        339,
+        567,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIWay Nursing Services, 2017.12–2020.07",
+      "score": 0.9801,
+      "box": [
+        116,
+        383,
+        721,
+        406
+      ]
+    },
+    {
+      "text": "- Managed clinical risk assessments",
+      "score": 0.9721,
+      "box": [
+        127,
+        407,
+        464,
+        430
+      ]
+    },
+    {
+      "text": "- Directed care delivery improvements",
+      "score": 0.9655,
+      "box": [
+        126,
+        430,
+        480,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelISpring Nursing Services, 2015.05–2017.12",
+      "score": 0.9872,
+      "box": [
+        116,
+        473,
+        740,
+        497
+      ]
+    },
+    {
+      "text": "- Interpreted laboratory results",
+      "score": 0.979,
+      "box": [
+        125,
+        498,
+        409,
+        521
+      ]
+    },
+    {
+      "text": "- Supervised medication administration",
+      "score": 0.986,
+      "box": [
+        127,
+        523,
+        489,
+        546
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Hands Care, 2012.10–2015.05",
+      "score": 0.9864,
+      "box": [
+        116,
+        565,
+        655,
+        588
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.993,
+      "box": [
+        125,
+        589,
+        527,
+        614
+      ]
+    },
+    {
+      "text": "- Maintained infection control protocols",
+      "score": 0.9738,
+      "box": [
+        126,
+        614,
+        486,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Sciences, Springdale University, 2017",
+      "score": 0.9941,
+      "box": [
+        115,
+        725,
+        643,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of nursing communication",
+      "score": 0.981,
+      "box": [
+        132,
+        747,
+        594,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of pediatric nursing",
+      "score": 0.9802,
+      "box": [
+        133,
+        772,
+        531,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "DANIEL DUNLAP\nAZ, USA|+1-435-748-6318|daniel.dunlap@example.com\nWORK HISTORY\nRegistered Nurses, Caring Bridge Care, 2020.07–2023.01\n- Developed clinical performance dashboards\n- Managed patient outcome evaluation systems\nRegistered Nurses, WelIWay Nursing Services, 2017.12–2020.07\n- Managed clinical risk assessments\n- Directed care delivery improvements\nRegistered Nurses, WelISpring Nursing Services, 2015.05–2017.12\n- Interpreted laboratory results\n- Supervised medication administration\nRegistered Nurses, Caring Hands Care, 2012.10–2015.05\n- Administered injections under supervision\n- Maintained infection control protocols\nEDUCATION\nBachelor's, Health Sciences, Springdale University, 2017\n• Studied fundamentals of nursing communication\n• Studied fundamentals of pediatric nursing"
+}

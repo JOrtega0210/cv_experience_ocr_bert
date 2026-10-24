@@ -1,0 +1,200 @@
+{
+  "id": "60688",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.845,
+  "n_lines": 14,
+  "mean_score": 0.9811,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "YULISA MORTON",
+      "score": 0.9718,
+      "box": [
+        114,
+        87,
+        400,
+        123
+      ]
+    },
+    {
+      "text": "WI, USA|+1-994-864-7055|yulisa.morton@example.com",
+      "score": 0.9832,
+      "box": [
+        115,
+        150,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueWay Health Group, 2020.12–2023.01",
+      "score": 0.9752,
+      "box": [
+        115,
+        289,
+        688,
+        314
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.9898,
+      "box": [
+        126,
+        315,
+        455,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented care pathway frameworks",
+      "score": 0.9846,
+      "box": [
+        126,
+        339,
+        506,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, TruePath Health Services, 2018.11–2020.12",
+      "score": 0.9852,
+      "box": [
+        115,
+        382,
+        714,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9705,
+      "box": [
+        125,
+        406,
+        387,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared patients for examinations",
+      "score": 0.9728,
+      "box": [
+        126,
+        432,
+        466,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Geriatric Care, Windfield University, 2022",
+      "score": 0.9727,
+      "box": [
+        115,
+        541,
+        590,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Services, Woodcrest University, 2020",
+      "score": 0.9842,
+      "box": [
+        114,
+        565,
+        638,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient counseling",
+      "score": 0.975,
+      "box": [
+        134,
+        591,
+        557,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of infection control",
+      "score": 0.987,
+      "box": [
+        134,
+        616,
+        489,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "YULISA MORTON\nWI, USA|+1-994-864-7055|yulisa.morton@example.com\nWORK HISTORY\nRegistered Nurses, TrueWay Health Group, 2020.12–2023.01\n- Led nursing workflow optimization\n- Implemented care pathway frameworks\nRegistered Nurses, TruePath Health Services, 2018.11–2020.12\n- Prepared treatment rooms\n- Prepared patients for examinations\nEDUCATION\nMaster's, Geriatric Care, Windfield University, 2022\nBachelor's, Health Services, Woodcrest University, 2020\n• Completed coursework in patient counseling\n• Studied principles of infection control"
+}

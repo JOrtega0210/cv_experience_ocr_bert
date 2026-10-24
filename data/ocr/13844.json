@@ -1,0 +1,187 @@
+{
+  "id": "13844",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.92,
+  "n_lines": 13,
+  "mean_score": 0.9842,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NORMA MASON",
+      "score": 0.9845,
+      "box": [
+        114,
+        88,
+        380,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA|+1-978-240-9135|norma.mason@example.com",
+      "score": 0.9883,
+      "box": [
+        115,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightCare Nursing, 2021.04–2023.01",
+      "score": 0.9694,
+      "box": [
+        116,
+        290,
+        652,
+        314
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.979,
+      "box": [
+        127,
+        315,
+        456,
+        338
+      ]
+    },
+    {
+      "text": "- Established clinical evaluation protocols",
+      "score": 0.9904,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverPath Nursing Services, 2019.07–2021.04",
+      "score": 0.9688,
+      "box": [
+        115,
+        381,
+        725,
+        406
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9974,
+      "box": [
+        126,
+        407,
+        443,
+        430
+      ]
+    },
+    {
+      "text": "- Updated patient medical records",
+      "score": 0.9957,
+      "box": [
+        126,
+        431,
+        443,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Support Services, Bright Ridge University, 2021",
+      "score": 0.974,
+      "box": [
+        115,
+        541,
+        731,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of quality assurance in care",
+      "score": 0.9768,
+      "box": [
+        132,
+        564,
+        611,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of stress management in care",
+      "score": 0.9875,
+      "box": [
+        132,
+        590,
+        630,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "NORMA MASON\nFL, USA|+1-978-240-9135|norma.mason@example.com\nWORK HISTORY\nRegistered Nurses, BrightCare Nursing, 2021.04–2023.01\n- Led nursing workflow optimization\n- Established clinical evaluation protocols\nRegistered Nurses, EverPath Nursing Services, 2019.07–2021.04\n- Collected patient health histories\n- Updated patient medical records\nEDUCATION\nBachelor's, Health Support Services, Bright Ridge University, 2021\n• Studied fundamentals of quality assurance in care\n• Studied fundamentals of stress management in care"
+}

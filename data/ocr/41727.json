@@ -1,0 +1,161 @@
+{
+  "id": "41727",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.801,
+  "n_lines": 11,
+  "mean_score": 0.9824,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KAILEE DOUGHERTY",
+      "score": 0.9847,
+      "box": [
+        116,
+        90,
+        462,
+        120
+      ]
+    },
+    {
+      "text": "OH, USA | +1-274-599-3616 |kailee.dougherty@example.com",
+      "score": 0.9715,
+      "box": [
+        117,
+        152,
+        697,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9749,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, PrimeLedger Group, 2020.07–2023.01",
+      "score": 0.98,
+      "box": [
+        114,
+        289,
+        682,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with financial statement preparation",
+      "score": 0.9879,
+      "box": [
+        125,
+        314,
+        555,
+        339
+      ]
+    },
+    {
+      "text": "- Maintained vendor records",
+      "score": 0.9808,
+      "box": [
+        126,
+        339,
+        389,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, General Business, Parkview University, 2023",
+      "score": 0.9751,
+      "box": [
+        115,
+        449,
+        623,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Analytics, Summit University, 2023",
+      "score": 0.9738,
+      "box": [
+        115,
+        474,
+        637,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of transfer pricing",
+      "score": 0.9915,
+      "box": [
+        133,
+        497,
+        480,
+        523
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of business performance analysis",
+      "score": 0.9874,
+      "box": [
+        133,
+        523,
+        665,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "KAILEE DOUGHERTY\nOH, USA | +1-274-599-3616 |kailee.dougherty@example.com\nWORK HISTORY\nAccountants Auditors, PrimeLedger Group, 2020.07–2023.01\n- Assisted with financial statement preparation\n- Maintained vendor records\nEDUCATION\nMaster's, General Business, Parkview University, 2023\nBachelor's, Business Analytics, Summit University, 2023\n• Studied principles of transfer pricing\n• Studied fundamentals of business performance analysis"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "16753",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.951,
+  "n_lines": 16,
+  "mean_score": 0.9826,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MOLLY TANG",
+      "score": 0.9847,
+      "box": [
+        116,
+        90,
+        339,
+        121
+      ]
+    },
+    {
+      "text": "HI, USA|+1-608-566-1004|molly.tang@example.com",
+      "score": 0.9768,
+      "box": [
+        115,
+        150,
+        628,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9801,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellBridge Health Group, 2020.07–2023.01",
+      "score": 0.9745,
+      "box": [
+        115,
+        289,
+        705,
+        314
+      ]
+    },
+    {
+      "text": "- Designed clinical documentation standards",
+      "score": 0.9753,
+      "box": [
+        127,
+        315,
+        539,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.9828,
+      "box": [
+        126,
+        339,
+        517,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Way Care, 2016.01–2018.07",
+      "score": 0.9904,
+      "box": [
+        116,
+        382,
+        644,
+        406
+      ]
+    },
+    {
+      "text": "- Coordinated interdisciplinary care",
+      "score": 0.9933,
+      "box": [
+        126,
+        405,
+        453,
+        432
+      ]
+    },
+    {
+      "text": "- Monitored cardiac telemetry",
+      "score": 0.9689,
+      "box": [
+        126,
+        430,
+        401,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafePath Health Services, 2012.10–2015.04",
+      "score": 0.9876,
+      "box": [
+        116,
+        472,
+        714,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9939,
+      "box": [
+        125,
+        496,
+        438,
+        522
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9709,
+      "box": [
+        126,
+        521,
+        479,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Sciences, Lakewood University, 211",
+      "score": 0.9794,
+      "box": [
+        114,
+        631,
+        648,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of health records management",
+      "score": 0.9813,
+      "box": [
+        133,
+        658,
+        603,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient counseling",
+      "score": 0.9833,
+      "box": [
+        135,
+        683,
+        557,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "MOLLY TANG\nHI, USA|+1-608-566-1004|molly.tang@example.com\nWORK HISTORY\nRegistered Nurses, WellBridge Health Group, 2020.07–2023.01\n- Designed clinical documentation standards\n- Implemented patient monitoring systems\nRegistered Nurses, Helping Way Care, 2016.01–2018.07\n- Coordinated interdisciplinary care\n- Monitored cardiac telemetry\nRegistered Nurses, SafePath Health Services, 2012.10–2015.04\n- Assisted with patient positioning\n- Provided patient education materials\nEDUCATION\nBachelor's, Medical Sciences, Lakewood University, 211\n• Studied principles of health records management\n• Completed coursework in patient counseling"
+}

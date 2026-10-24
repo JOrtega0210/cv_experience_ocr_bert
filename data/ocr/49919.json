@@ -1,0 +1,148 @@
+{
+  "id": "49919",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.722,
+  "n_lines": 10,
+  "mean_score": 0.982,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DAVID SULLIVAN",
+      "score": 0.9687,
+      "box": [
+        116,
+        90,
+        399,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-821-294-4908|david.sullivan@example.com",
+      "score": 0.9877,
+      "box": [
+        115,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearwave Digital, 2018.08–2020.10",
+      "score": 0.993,
+      "box": [
+        116,
+        290,
+        659,
+        313
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.9901,
+      "box": [
+        126,
+        314,
+        495,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9655,
+      "box": [
+        126,
+        339,
+        447,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearwater University, 2007",
+      "score": 0.9824,
+      "box": [
+        115,
+        449,
+        482,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of error handling",
+      "score": 0.9689,
+      "box": [
+        132,
+        472,
+        507,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of artificial intelligence",
+      "score": 0.9815,
+      "box": [
+        133,
+        499,
+        560,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "DAVID SULLIVAN\nTX, USA|+1-821-294-4908|david.sullivan@example.com\nWORK HISTORY\nSoftware Developers, Clearwave Digital, 2018.08–2020.10\n- Performed basic performance profiling\n- Implemented error handling logic\nEDUCATION\nBachelor's, Clearwater University, 2007\n• Studied fundamentals of error handling\n• Studied fundamentals of artificial intelligence"
+}

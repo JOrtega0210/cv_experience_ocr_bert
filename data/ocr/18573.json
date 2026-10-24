@@ -1,0 +1,226 @@
+{
+  "id": "18573",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.013,
+  "n_lines": 16,
+  "mean_score": 0.9834,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DEVINLANDRY",
+      "score": 0.9992,
+      "box": [
+        116,
+        90,
+        368,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-407-206-6043 |devin.landry@example.com",
+      "score": 0.9859,
+      "box": [
+        116,
+        151,
+        642,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildCraft Co., 2020.03–2023.01",
+      "score": 0.973,
+      "box": [
+        114,
+        289,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Supervised large structural repairs",
+      "score": 0.9915,
+      "box": [
+        127,
+        315,
+        460,
+        338
+      ]
+    },
+    {
+      "text": "- Managed subcontractor coordination",
+      "score": 0.9789,
+      "box": [
+        127,
+        340,
+        480,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronLine Contractors, 2017.04–2020.3",
+      "score": 0.9778,
+      "box": [
+        114,
+        381,
+        697,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared cost estimates",
+      "score": 0.9848,
+      "box": [
+        126,
+        407,
+        367,
+        429
+      ]
+    },
+    {
+      "text": "- Constructed temporary structures",
+      "score": 0.9922,
+      "box": [
+        126,
+        431,
+        452,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureBuild Group, 2014.05–2017.04",
+      "score": 0.9928,
+      "box": [
+        116,
+        472,
+        663,
+        495
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.9894,
+      "box": [
+        125,
+        496,
+        556,
+        521
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9751,
+      "box": [
+        126,
+        521,
+        440,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Operations, Willowcrest University, 2017",
+      "score": 0.9707,
+      "box": [
+        115,
+        631,
+        867,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction logistics planning",
+      "score": 0.9666,
+      "box": [
+        132,
+        656,
+        666,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic siding installation",
+      "score": 0.9728,
+      "box": [
+        134,
+        681,
+        603,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "DEVINLANDRY\nIL, USA|+1-407-206-6043 |devin.landry@example.com\nWORK HISTORY\nConstruction Laborers, BuildCraft Co., 2020.03–2023.01\n- Supervised large structural repairs\n- Managed subcontractor coordination\nConstruction Laborers, IronLine Contractors, 2017.04–2020.3\n- Prepared cost estimates\n- Constructed temporary structures\nConstruction Laborers, SureBuild Group, 2014.05–2017.04\n- Stacked and organized construction supplies\n- Installed basic flooring materials\nEDUCATION\nSome college (no degree), Construction Operations, Willowcrest University, 2017\n• Completed coursework in construction logistics planning\n• Completed coursework in basic siding installation"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "26567",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.775,
+  "n_lines": 10,
+  "mean_score": 0.9765,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MALIA TANNER",
+      "score": 0.9653,
+      "box": [
+        116,
+        90,
+        371,
+        120
+      ]
+    },
+    {
+      "text": "MA, USA|+1-222-542-8482 |malia.tanner@example.com",
+      "score": 0.962,
+      "box": [
+        116,
+        152,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.982,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Corner Academy, 2022.01–2023.01",
+      "score": 0.9905,
+      "box": [
+        116,
+        289,
+        878,
+        312
+      ]
+    },
+    {
+      "text": "- Assisted with small group instruction activities",
+      "score": 0.9813,
+      "box": [
+        126,
+        315,
+        565,
+        338
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.9782,
+      "box": [
+        126,
+        339,
+        399,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Studies, Cedarfield University, 2023",
+      "score": 0.978,
+      "box": [
+        114,
+        447,
+        656,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic tutoring methods",
+      "score": 0.947,
+      "box": [
+        132,
+        474,
+        599,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of student assessment",
+      "score": 0.9823,
+      "box": [
+        133,
+        497,
+        529,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "MALIA TANNER\nMA, USA|+1-222-542-8482 |malia.tanner@example.com\nWORK HISTORY\nElementary Middle School Teachers, Learning Corner Academy, 2022.01–2023.01\n- Assisted with small group instruction activities\n- Conducted spelling practice\nEDUCATION\nBachelor's, Education Studies, Cedarfield University, 2023\n• Completed coursework in basic tutoring methods\n• Studied principles of student assessment"
+}

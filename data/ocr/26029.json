@@ -1,0 +1,174 @@
+{
+  "id": "26029",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.799,
+  "n_lines": 12,
+  "mean_score": 0.9823,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ROMEO SHEPHERD",
+      "score": 0.9838,
+      "box": [
+        116,
+        90,
+        439,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-719-327-7791 |romeo.shepherd@example.com",
+      "score": 0.9863,
+      "box": [
+        116,
+        151,
+        695,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9781,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Brightway Systems, 2021.05–2023.01",
+      "score": 0.9691,
+      "box": [
+        114,
+        289,
+        672,
+        314
+      ]
+    },
+    {
+      "text": "- Designed high-availability systems",
+      "score": 0.9789,
+      "box": [
+        126,
+        314,
+        461,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9813,
+      "box": [
+        126,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Solutions, 2019.09–2021.05",
+      "score": 0.9826,
+      "box": [
+        115,
+        381,
+        688,
+        407
+      ]
+    },
+    {
+      "text": "- Refactored simple functions for readability",
+      "score": 0.9744,
+      "box": [
+        127,
+        407,
+        530,
+        431
+      ]
+    },
+    {
+      "text": "- Updated documentation for implemented features",
+      "score": 0.9829,
+      "box": [
+        127,
+        433,
+        601,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Larkspur High School, 2020",
+      "score": 0.9844,
+      "box": [
+        115,
+        540,
+        634,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of algorithm complexity",
+      "score": 0.9874,
+      "box": [
+        133,
+        565,
+        532,
+        590
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "ROMEO SHEPHERD\nMA, USA|+1-719-327-7791 |romeo.shepherd@example.com\nWORK HISTORY\nSoftware Developers, Brightway Systems, 2021.05–2023.01\n- Designed high-availability systems\n- Implemented security architectures\nSoftware Developers, Openwave Solutions, 2019.09–2021.05\n- Refactored simple functions for readability\n- Updated documentation for implemented features\nEDUCATION\nHigh school graduate/GED, Larkspur High School, 2020\n• Studied principles of algorithm complexity"
+}

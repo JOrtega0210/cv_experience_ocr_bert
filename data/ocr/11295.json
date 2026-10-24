@@ -1,0 +1,148 @@
+{
+  "id": "11295",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.857,
+  "n_lines": 10,
+  "mean_score": 0.9743,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LAUREN DICKSON",
+      "score": 0.9662,
+      "box": [
+        116,
+        90,
+        421,
+        121
+      ]
+    },
+    {
+      "text": "CT, USA|+1-333-564-9879 |lauren.dickson@example.com",
+      "score": 0.9773,
+      "box": [
+        116,
+        150,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9794,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Advisors, 2020.02–2023.01",
+      "score": 0.9839,
+      "box": [
+        115,
+        290,
+        720,
+        313
+      ]
+    },
+    {
+      "text": "- Performed data validation checks",
+      "score": 0.9699,
+      "box": [
+        125,
+        313,
+        451,
+        338
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9095,
+      "box": [
+        127,
+        340,
+        372,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Administrative Studies, Skyview University, 2022",
+      "score": 0.9839,
+      "box": [
+        114,
+        447,
+        676,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in contribution margin analysis",
+      "score": 0.9851,
+      "box": [
+        133,
+        474,
+        648,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting process improvement",
+      "score": 0.9896,
+      "box": [
+        133,
+        498,
+        696,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "LAUREN DICKSON\nCT, USA|+1-333-564-9879 |lauren.dickson@example.com\nWORK HISTORY\nAccountants Auditors, Balanced Path Advisors, 2020.02–2023.01\n- Performed data validation checks\n- Compiled audit evidence\nEDUCATION\nBachelor's, Administrative Studies, Skyview University, 2022\n• Completed coursework in contribution margin analysis\n• Completed coursework in accounting process improvement"
+}

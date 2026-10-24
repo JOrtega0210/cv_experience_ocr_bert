@@ -1,0 +1,187 @@
+{
+  "id": "28455",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.77,
+  "n_lines": 13,
+  "mean_score": 0.9849,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANTHONY ELLISON",
+      "score": 0.9968,
+      "box": [
+        117,
+        90,
+        438,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-391-829-5397 |anthony.ellison@example.com",
+      "score": 0.9882,
+      "box": [
+        116,
+        152,
+        683,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.982,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Corepath Solutions, 2020.11–2023.01",
+      "score": 0.9931,
+      "box": [
+        116,
+        290,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.983,
+      "box": [
+        125,
+        313,
+        374,
+        338
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9775,
+      "box": [
+        126,
+        339,
+        454,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Skywave Tech, 2018.09–2020.11",
+      "score": 0.9791,
+      "box": [
+        116,
+        382,
+        631,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented validation logic",
+      "score": 0.9943,
+      "box": [
+        126,
+        406,
+        406,
+        432
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.9606,
+      "box": [
+        125,
+        430,
+        355,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Ironwood University, 223",
+      "score": 0.981,
+      "box": [
+        115,
+        541,
+        467,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in information retrieval",
+      "score": 0.9923,
+      "box": [
+        133,
+        566,
+        573,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of build systems",
+      "score": 0.9781,
+      "box": [
+        132,
+        589,
+        506,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ANTHONY ELLISON\nMN, USA|+1-391-829-5397 |anthony.ellison@example.com\nWORK HISTORY\nSoftware Developers, Corepath Solutions, 2020.11–2023.01\n- Led architectural reviews\n- Led performance tuning initiatives\nSoftware Developers, Skywave Tech, 2018.09–2020.11\n- Implemented validation logic\n- Reviewed error reports\nEDUCATION\nBachelor's, Ironwood University, 223\n• Completed coursework in information retrieval\n• Studied fundamentals of build systems"
+}

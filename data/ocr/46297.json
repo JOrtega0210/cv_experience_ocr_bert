@@ -1,0 +1,252 @@
+{
+  "id": "46297",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.855,
+  "n_lines": 18,
+  "mean_score": 0.9815,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRIAN HERMAN",
+      "score": 0.9602,
+      "box": [
+        116,
+        90,
+        380,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-743-327-7524 |brian.herman@example.com",
+      "score": 0.9854,
+      "box": [
+        115,
+        150,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9918,
+      "box": [
+        116,
+        243,
+        316,
+        267
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Labs, 2019.03–2023.01",
+      "score": 0.9809,
+      "box": [
+        114,
+        288,
+        640,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.9746,
+      "box": [
+        126,
+        315,
+        500,
+        338
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.9848,
+      "box": [
+        127,
+        340,
+        395,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Coreline Tech, 2015.04–2019.3",
+      "score": 0.9844,
+      "box": [
+        114,
+        381,
+        626,
+        406
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.976,
+      "box": [
+        125,
+        407,
+        395,
+        430
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9737,
+      "box": [
+        127,
+        432,
+        423,
+        454
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Digital, 2009.07–2013.06",
+      "score": 0.9832,
+      "box": [
+        116,
+        472,
+        651,
+        496
+      ]
+    },
+    {
+      "text": "- Built notification systems",
+      "score": 0.9669,
+      "box": [
+        125,
+        497,
+        371,
+        520
+      ]
+    },
+    {
+      "text": "- Built feature management systems",
+      "score": 0.9585,
+      "box": [
+        126,
+        521,
+        463,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Netcrest Technologies, 2005.02–2009.01",
+      "score": 0.9932,
+      "box": [
+        115,
+        563,
+        702,
+        588
+      ]
+    },
+    {
+      "text": "- Updated configuration fies",
+      "score": 0.9867,
+      "box": [
+        126,
+        589,
+        390,
+        614
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9869,
+      "box": [
+        127,
+        615,
+        421,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Oakview High School, 1999",
+      "score": 0.9931,
+      "box": [
+        116,
+        725,
+        633,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of caching strategies",
+      "score": 0.9878,
+      "box": [
+        132,
+        747,
+        510,
+        773
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "BRIAN HERMAN\nPA, USA|+1-743-327-7524 |brian.herman@example.com\nWORK HISTORY\nSoftware Developers, Corewave Labs, 2019.03–2023.01\n- Implemented infrastructure automation\n- Designed scalable services\nSoftware Developers, Coreline Tech, 2015.04–2019.3\n- Designed scalable services\n- Implemented core frameworks\nSoftware Developers, Clearpath Digital, 2009.07–2013.06\n- Built notification systems\n- Built feature management systems\nSoftware Developers, Netcrest Technologies, 2005.02–2009.01\n- Updated configuration fies\n- Implemented REST endpoints\nEDUCATION\nHigh school graduate/GED, Oakview High School, 1999\n• Studied principles of caching strategies"
+}

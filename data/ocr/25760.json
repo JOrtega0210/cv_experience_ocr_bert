@@ -1,0 +1,148 @@
+{
+  "id": "25760",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.72,
+  "n_lines": 10,
+  "mean_score": 0.9807,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRETT WELLS",
+      "score": 0.962,
+      "box": [
+        116,
+        90,
+        356,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-754-739-2916 |brett.wells@example.com",
+      "score": 0.982,
+      "box": [
+        115,
+        150,
+        637,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Riverstone Digital, 2019.05–2021.12",
+      "score": 0.9953,
+      "box": [
+        116,
+        290,
+        660,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed API documentation",
+      "score": 0.9694,
+      "box": [
+        126,
+        315,
+        417,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with database queries",
+      "score": 0.9839,
+      "box": [
+        126,
+        339,
+        431,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Morningstar University, 2002",
+      "score": 0.9669,
+      "box": [
+        115,
+        449,
+        492,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of software development",
+      "score": 0.9928,
+      "box": [
+        133,
+        474,
+        547,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in parallel computing",
+      "score": 0.9717,
+      "box": [
+        133,
+        498,
+        558,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "BRETT WELLS\nMA, USA|+1-754-739-2916 |brett.wells@example.com\nWORK HISTORY\nSoftware Developers, Riverstone Digital, 2019.05–2021.12\n- Reviewed API documentation\n- Assisted with database queries\nEDUCATION\nBachelor's, Morningstar University, 2002\n• Studied principles of software development\n• Completed coursework in parallel computing"
+}

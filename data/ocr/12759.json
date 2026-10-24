@@ -1,0 +1,174 @@
+{
+  "id": "12759",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.95,
+  "n_lines": 12,
+  "mean_score": 0.9798,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JESSE BEST",
+      "score": 0.9874,
+      "box": [
+        114,
+        88,
+        327,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA|+1-549-864-5463 |jesse.best@example.com",
+      "score": 0.9789,
+      "box": [
+        115,
+        150,
+        630,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Services, 2019.05–2022.04",
+      "score": 0.9836,
+      "box": [
+        114,
+        289,
+        695,
+        313
+      ]
+    },
+    {
+      "text": "-Directed quality assurance programs",
+      "score": 0.9904,
+      "box": [
+        125,
+        314,
+        482,
+        340
+      ]
+    },
+    {
+      "text": "- Developed project risk assessments",
+      "score": 0.9527,
+      "box": [
+        126,
+        339,
+        476,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerBuild Group, 2015.03–2018.02",
+      "score": 0.9702,
+      "box": [
+        115,
+        381,
+        682,
+        406
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9671,
+      "box": [
+        125,
+        405,
+        485,
+        431
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.9851,
+      "box": [
+        126,
+        431,
+        556,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Surveying Technology, Clearview High School, 1999",
+      "score": 0.9763,
+      "box": [
+        116,
+        541,
+        862,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic formwork",
+      "score": 0.9841,
+      "box": [
+        135,
+        567,
+        530,
+        587
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "JESSE BEST\nFL, USA|+1-549-864-5463 |jesse.best@example.com\nWORK HISTORY\nConstruction Laborers, PrimeBuild Services, 2019.05–2022.04\n-Directed quality assurance programs\n- Developed project risk assessments\nConstruction Laborers, CornerBuild Group, 2015.03–2018.02\n- Maintained cleanliness of work areas\n- Stacked and organized construction supplies\nEDUCATION\nHigh school graduate/GED, Surveying Technology, Clearview High School, 1999\n• Completed coursework in basic formwork"
+}

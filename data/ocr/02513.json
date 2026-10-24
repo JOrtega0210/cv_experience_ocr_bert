@@ -1,0 +1,148 @@
+{
+  "id": "02513",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.853,
+  "n_lines": 10,
+  "mean_score": 0.9868,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CHRISTINA MAYS",
+      "score": 0.9815,
+      "box": [
+        117,
+        90,
+        406,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-909-294-1536 |christina.mays@example.com",
+      "score": 0.9795,
+      "box": [
+        116,
+        152,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9827,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Health Services, 2021.12–2023.01",
+      "score": 0.9897,
+      "box": [
+        116,
+        290,
+        728,
+        313
+      ]
+    },
+    {
+      "text": "-Maintained supply inventory",
+      "score": 0.9847,
+      "box": [
+        125,
+        314,
+        402,
+        340
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9884,
+      "box": [
+        126,
+        339,
+        479,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Biological Sciences, Rockland University, 2023",
+      "score": 0.9821,
+      "box": [
+        114,
+        447,
+        659,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in sterile technique",
+      "score": 0.9929,
+      "box": [
+        133,
+        473,
+        542,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical pharmacology",
+      "score": 0.9875,
+      "box": [
+        133,
+        496,
+        588,
+        524
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "CHRISTINA MAYS\nAR, USA|+1-909-294-1536 |christina.mays@example.com\nWORK HISTORY\nRegistered Nurses, NewSpring Health Services, 2021.12–2023.01\n-Maintained supply inventory\n- Prepared medical equipment for use\nEDUCATION\nBachelor's, Biological Sciences, Rockland University, 2023\n• Completed coursework in sterile technique\n• Completed coursework in clinical pharmacology"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "46333",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.731,
+  "n_lines": 10,
+  "mean_score": 0.9761,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAEDEN WIGGINS",
+      "score": 0.9656,
+      "box": [
+        116,
+        90,
+        412,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-567-948-2179 |jaeden.wiggins@example.com",
+      "score": 0.98,
+      "box": [
+        115,
+        150,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftTrack Builders, 2022.04–2023.01",
+      "score": 0.9821,
+      "box": [
+        115,
+        290,
+        685,
+        313
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.959,
+      "box": [
+        127,
+        315,
+        416,
+        338
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9485,
+      "box": [
+        126,
+        339,
+        424,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Planning, Crossfield University, 2021",
+      "score": 0.9738,
+      "box": [
+        114,
+        447,
+        688,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction measurement tools",
+      "score": 0.9855,
+      "box": [
+        132,
+        472,
+        674,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural layout",
+      "score": 0.9845,
+      "box": [
+        134,
+        499,
+        538,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JAEDEN WIGGINS\nPA, USA|+1-567-948-2179 |jaeden.wiggins@example.com\nWORK HISTORY\nConstruction Laborers, CraftTrack Builders, 2022.04–2023.01\n- Set up workstations for crews\n- Followed blueprint instructions\nEDUCATION\nBachelor's, Construction Planning, Crossfield University, 2021\n• Studied fundamentals of construction measurement tools\n• Completed coursework in structural layout"
+}

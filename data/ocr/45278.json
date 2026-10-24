@@ -1,0 +1,226 @@
+{
+  "id": "45278",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.816,
+  "n_lines": 16,
+  "mean_score": 0.9789,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HUGH MCINTYRE",
+      "score": 0.9621,
+      "box": [
+        116,
+        90,
+        401,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-692-294-2301 |hugh.mcintyre@example.com",
+      "score": 0.9698,
+      "box": [
+        115,
+        150,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Software, 2020.10–2023.01",
+      "score": 0.9834,
+      "box": [
+        115,
+        289,
+        678,
+        314
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9643,
+      "box": [
+        125,
+        312,
+        368,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9784,
+      "box": [
+        127,
+        340,
+        461,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstone Software, 2017.04–2019.08",
+      "score": 0.9918,
+      "box": [
+        115,
+        381,
+        686,
+        406
+      ]
+    },
+    {
+      "text": "- Integrated analytics services",
+      "score": 0.977,
+      "box": [
+        127,
+        407,
+        407,
+        430
+      ]
+    },
+    {
+      "text": "- Developed data processing pipelines",
+      "score": 0.9897,
+      "box": [
+        126,
+        431,
+        482,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Corestack Tech, 2013.12–2016.04",
+      "score": 0.9933,
+      "box": [
+        116,
+        472,
+        643,
+        495
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.943,
+      "box": [
+        127,
+        498,
+        340,
+        522
+      ]
+    },
+    {
+      "text": "- Assisted with Cl pipeline tasks",
+      "score": 0.9791,
+      "box": [
+        126,
+        521,
+        423,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Brightfield University, 204",
+      "score": 0.9692,
+      "box": [
+        115,
+        632,
+        474,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in query performance tuning",
+      "score": 0.9909,
+      "box": [
+        133,
+        658,
+        626,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in database optimization",
+      "score": 0.9855,
+      "box": [
+        135,
+        683,
+        593,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "HUGH MCINTYRE\nPA, USA|+1-692-294-2301 |hugh.mcintyre@example.com\nWORK HISTORY\nSoftware Developers, Stonepath Software, 2020.10–2023.01\n- Built distributed systems\n- Implemented service orchestration\nSoftware Developers, Clearstone Software, 2017.04–2019.08\n- Integrated analytics services\n- Developed data processing pipelines\nSoftware Developers, Corestack Tech, 2013.12–2016.04\n- Updated routing logic\n- Assisted with Cl pipeline tasks\nEDUCATION\nBachelor's, Brightfield University, 204\n• Completed coursework in query performance tuning\n• Completed coursework in database optimization"
+}

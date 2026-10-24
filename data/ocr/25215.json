@@ -1,0 +1,278 @@
+{
+  "id": "25215",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.001,
+  "n_lines": 20,
+  "mean_score": 0.9779,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ZACHARY MOYER",
+      "score": 0.9789,
+      "box": [
+        115,
+        90,
+        413,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-449-400-9628|zachary.moyer@example.com",
+      "score": 0.9528,
+      "box": [
+        116,
+        152,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9807,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Start School, 2020.03–2023.01",
+      "score": 0.9795,
+      "box": [
+        116,
+        289,
+        846,
+        313
+      ]
+    },
+    {
+      "text": "- Established curriculum evaluation protocols",
+      "score": 0.9645,
+      "box": [
+        125,
+        313,
+        544,
+        338
+      ]
+    },
+    {
+      "text": "- Developed long-term instructional strategies",
+      "score": 0.9845,
+      "box": [
+        126,
+        339,
+        550,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Horizons Academy, 2017.05–2020.03",
+      "score": 0.987,
+      "box": [
+        115,
+        381,
+        886,
+        406
+      ]
+    },
+    {
+      "text": "- Directed assessment development efforts",
+      "score": 0.9863,
+      "box": [
+        125,
+        406,
+        526,
+        431
+      ]
+    },
+    {
+      "text": "- Led instructional technology integration",
+      "score": 0.9808,
+      "box": [
+        126,
+        431,
+        504,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Tree Academy, 2012.08–2015.06",
+      "score": 0.9867,
+      "box": [
+        114,
+        471,
+        856,
+        496
+      ]
+    },
+    {
+      "text": "- Developed homework policies",
+      "score": 0.9704,
+      "box": [
+        126,
+        498,
+        420,
+        521
+      ]
+    },
+    {
+      "text": "- Evaluated student portfolios",
+      "score": 0.9677,
+      "box": [
+        126,
+        521,
+        400,
+        546
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Stars Academy, 2009.03–2012.02",
+      "score": 0.9831,
+      "box": [
+        116,
+        565,
+        863,
+        588
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9835,
+      "box": [
+        126,
+        591,
+        398,
+        611
+      ]
+    },
+    {
+      "text": "- Maintained classroom bulletin boards",
+      "score": 0.968,
+      "box": [
+        127,
+        616,
+        486,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        679,
+        266,
+        703
+      ]
+    },
+    {
+      "text": "Master's, Youth Studies, Brightfield Ridge University, 2005",
+      "score": 0.9625,
+      "box": [
+        115,
+        725,
+        657,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Foundations, Meadowcrest University, 2003",
+      "score": 0.9719,
+      "box": [
+        115,
+        749,
+        718,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of teaching strategy selection",
+      "score": 0.9866,
+      "box": [
+        133,
+        774,
+        625,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional review methods",
+      "score": 0.984,
+      "box": [
+        135,
+        800,
+        652,
+        820
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "ZACHARY MOYER\nMA, USA|+1-449-400-9628|zachary.moyer@example.com\nWORK HISTORY\nElementary Middle School Teachers, Discovery Start School, 2020.03–2023.01\n- Established curriculum evaluation protocols\n- Developed long-term instructional strategies\nElementary Middle School Teachers, Golden Horizons Academy, 2017.05–2020.03\n- Directed assessment development efforts\n- Led instructional technology integration\nElementary Middle School Teachers, Growing Tree Academy, 2012.08–2015.06\n- Developed homework policies\n- Evaluated student portfolios\nElementary Middle School Teachers, Growing Stars Academy, 2009.03–2012.02\n- Recorded student feedback\n- Maintained classroom bulletin boards\nEDUCATION\nMaster's, Youth Studies, Brightfield Ridge University, 2005\nBachelor's, Learning Foundations, Meadowcrest University, 2003\n• Studied fundamentals of teaching strategy selection\n• Completed coursework in instructional review methods"
+}

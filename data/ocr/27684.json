@@ -1,0 +1,187 @@
+{
+  "id": "27684",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.864,
+  "n_lines": 13,
+  "mean_score": 0.9821,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AMBERSIMS",
+      "score": 0.9988,
+      "box": [
+        115,
+        88,
+        333,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA|+1-378-501-9538|amber.sims@example.com",
+      "score": 0.9836,
+      "box": [
+        115,
+        150,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.977,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Star Academy, 2020.09–2023.01",
+      "score": 0.9816,
+      "box": [
+        115,
+        290,
+        854,
+        313
+      ]
+    },
+    {
+      "text": "- Designed performance monitoring systems",
+      "score": 0.9717,
+      "box": [
+        125,
+        314,
+        539,
+        339
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9668,
+      "box": [
+        127,
+        340,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Horizons School, 2016.08–2018.12",
+      "score": 0.992,
+      "box": [
+        115,
+        381,
+        850,
+        406
+      ]
+    },
+    {
+      "text": "- Supervised transitions between lessons",
+      "score": 0.9845,
+      "box": [
+        125,
+        406,
+        510,
+        431
+      ]
+    },
+    {
+      "text": "- Maintained student folders",
+      "score": 0.975,
+      "box": [
+        126,
+        432,
+        388,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Foundations, Cloverfield University, 2010",
+      "score": 0.9728,
+      "box": [
+        114,
+        539,
+        693,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom structure planning",
+      "score": 0.9919,
+      "box": [
+        133,
+        565,
+        655,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional evaluation",
+      "score": 0.9741,
+      "box": [
+        134,
+        591,
+        603,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "AMBERSIMS\nMI, USA|+1-378-501-9538|amber.sims@example.com\nWORK HISTORY\nElementary Middle School Teachers, Learning Star Academy, 2020.09–2023.01\n- Designed performance monitoring systems\n- Developed learning progression models\nElementary Middle School Teachers, Bright Horizons School, 2016.08–2018.12\n- Supervised transitions between lessons\n- Maintained student folders\nEDUCATION\nBachelor's, Learning Foundations, Cloverfield University, 2010\n• Completed coursework in classroom structure planning\n• Completed coursework in instructional evaluation"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "05639",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.931,
+  "n_lines": 13,
+  "mean_score": 0.9833,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CARLI PHELPS",
+      "score": 0.9935,
+      "box": [
+        117,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-834-216-7945 |carli.phelps@example.com",
+      "score": 0.9831,
+      "box": [
+        117,
+        151,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.983,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Services, 2021.02–2023.01",
+      "score": 0.9958,
+      "box": [
+        115,
+        290,
+        711,
+        313
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9832,
+      "box": [
+        125,
+        314,
+        467,
+        339
+      ]
+    },
+    {
+      "text": "- Directed financial reporting processes",
+      "score": 0.9615,
+      "box": [
+        126,
+        338,
+        491,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Advisors, 2019.02–2021.02",
+      "score": 0.988,
+      "box": [
+        114,
+        381,
+        695,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedures",
+      "score": 0.9885,
+      "box": [
+        125,
+        406,
+        507,
+        431
+      ]
+    },
+    {
+      "text": "- Maintained supporting documentation",
+      "score": 0.9516,
+      "box": [
+        126,
+        431,
+        490,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Management Information Systems, Forestfield University, 218",
+      "score": 0.9856,
+      "box": [
+        114,
+        540,
+        808,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of social responsibility reporting",
+      "score": 0.9777,
+      "box": [
+        132,
+        565,
+        610,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of financial reporting",
+      "score": 0.9928,
+      "box": [
+        132,
+        590,
+        544,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "CARLI PHELPS\nCA, USA|+1-834-216-7945 |carli.phelps@example.com\nWORK HISTORY\nAccountants Auditors, OpenBalance Services, 2021.02–2023.01\n- Developed internal control systems\n- Directed financial reporting processes\nAccountants Auditors, OpenBooks Advisors, 2019.02–2021.02\n- Assisted with monthly close procedures\n- Maintained supporting documentation\nEDUCATION\nBachelor's, Management Information Systems, Forestfield University, 218\n• Studied principles of social responsibility reporting\n• Studied fundamentals of financial reporting"
+}

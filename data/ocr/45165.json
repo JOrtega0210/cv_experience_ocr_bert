@@ -1,0 +1,226 @@
+{
+  "id": "45165",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.858,
+  "n_lines": 16,
+  "mean_score": 0.9797,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JESSICA ALEXANDER",
+      "score": 0.9876,
+      "box": [
+        116,
+        90,
+        477,
+        120
+      ]
+    },
+    {
+      "text": "PA, USA|+1-385-520-4477 |jessica.alexander@example.com",
+      "score": 0.9882,
+      "box": [
+        115,
+        150,
+        701,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Advisors, 2020.08–2023.01",
+      "score": 0.9845,
+      "box": [
+        114,
+        289,
+        731,
+        314
+      ]
+    },
+    {
+      "text": "- Developed accounting innovation plans",
+      "score": 0.9735,
+      "box": [
+        127,
+        315,
+        505,
+        338
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9881,
+      "box": [
+        126,
+        338,
+        494,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Co., 2018.03–200.08",
+      "score": 0.9787,
+      "box": [
+        115,
+        381,
+        676,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared working capital analysis",
+      "score": 0.9752,
+      "box": [
+        126,
+        406,
+        453,
+        431
+      ]
+    },
+    {
+      "text": "- Supervised junior accountants",
+      "score": 0.9905,
+      "box": [
+        126,
+        430,
+        422,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearView Accounting, 2014.08–2017.01",
+      "score": 0.9547,
+      "box": [
+        115,
+        472,
+        702,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9603,
+      "box": [
+        125,
+        497,
+        356,
+        522
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.9677,
+      "box": [
+        126,
+        521,
+        436,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Finance, Crossfield University, 2008",
+      "score": 0.9804,
+      "box": [
+        116,
+        632,
+        635,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of continuous auditing",
+      "score": 0.9822,
+      "box": [
+        133,
+        656,
+        521,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in management information systems",
+      "score": 0.9782,
+      "box": [
+        134,
+        682,
+        702,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JESSICA ALEXANDER\nPA, USA|+1-385-520-4477 |jessica.alexander@example.com\nWORK HISTORY\nAccountants Auditors, Reliable Ledger Advisors, 2020.08–2023.01\n- Developed accounting innovation plans\n- Established financial data governance\nAccountants Auditors, Integrity Books Co., 2018.03–200.08\n- Prepared working capital analysis\n- Supervised junior accountants\nAccountants Auditors, ClearView Accounting, 2014.08–2017.01\n- Prepared aging reports\n- Prepared basic financial reports\nEDUCATION\nBachelor's, Applied Finance, Crossfield University, 2008\n• Studied principles of continuous auditing\n• Completed coursework in management information systems"
+}

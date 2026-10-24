@@ -1,0 +1,226 @@
+{
+  "id": "26807",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.844,
+  "n_lines": 16,
+  "mean_score": 0.9816,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TAMIKAYATES",
+      "score": 0.9989,
+      "box": [
+        114,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-761-456-4600|tamika.yates@example.com",
+      "score": 0.9859,
+      "box": [
+        116,
+        152,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9848,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Bridge Health, 2020.03–2023.01",
+      "score": 0.9819,
+      "box": [
+        115,
+        289,
+        691,
+        314
+      ]
+    },
+    {
+      "text": "- Directed clinical quality improvement initiatives",
+      "score": 0.9591,
+      "box": [
+        127,
+        315,
+        572,
+        339
+      ]
+    },
+    {
+      "text": "- Managed clinical compliance programs",
+      "score": 0.9734,
+      "box": [
+        127,
+        339,
+        502,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Hands Nursing, 2016.05–2019.04",
+      "score": 0.9848,
+      "box": [
+        115,
+        381,
+        690,
+        406
+      ]
+    },
+    {
+      "text": "- Managed care for chronic conditions",
+      "score": 0.9705,
+      "box": [
+        127,
+        407,
+        478,
+        430
+      ]
+    },
+    {
+      "text": "- Conducted patient safety checks",
+      "score": 0.9831,
+      "box": [
+        126,
+        431,
+        444,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverLife Health Services, 2012.12–2015.11",
+      "score": 0.9824,
+      "box": [
+        116,
+        473,
+        703,
+        496
+      ]
+    },
+    {
+      "text": "- Collected laboratory specimens",
+      "score": 0.9811,
+      "box": [
+        125,
+        496,
+        435,
+        522
+      ]
+    },
+    {
+      "text": "- Maintained infection control protocols",
+      "score": 0.9699,
+      "box": [
+        126,
+        521,
+        486,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Support, Oakridge University, 2006",
+      "score": 0.9832,
+      "box": [
+        114,
+        631,
+        623,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of telemetry basics",
+      "score": 0.9796,
+      "box": [
+        133,
+        658,
+        493,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical reasoning",
+      "score": 0.9877,
+      "box": [
+        135,
+        683,
+        548,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "TAMIKAYATES\nMI, USA|+1-761-456-4600|tamika.yates@example.com\nWORK HISTORY\nRegistered Nurses, Harmony Bridge Health, 2020.03–2023.01\n- Directed clinical quality improvement initiatives\n- Managed clinical compliance programs\nRegistered Nurses, Helping Hands Nursing, 2016.05–2019.04\n- Managed care for chronic conditions\n- Conducted patient safety checks\nRegistered Nurses, EverLife Health Services, 2012.12–2015.11\n- Collected laboratory specimens\n- Maintained infection control protocols\nEDUCATION\nBachelor's, Clinical Support, Oakridge University, 2006\n• Studied principles of telemetry basics\n• Completed coursework in clinical reasoning"
+}

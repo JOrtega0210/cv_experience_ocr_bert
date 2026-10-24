@@ -1,0 +1,187 @@
+{
+  "id": "51459",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.806,
+  "n_lines": 13,
+  "mean_score": 0.9855,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "STANLEY REEVES",
+      "score": 0.9914,
+      "box": [
+        116,
+        90,
+        419,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-752-877-1621 | stanley.reeves@example.com",
+      "score": 0.9703,
+      "box": [
+        115,
+        150,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9927,
+      "box": [
+        115,
+        242,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Solutions, 2020.03–2023.01",
+      "score": 0.9746,
+      "box": [
+        114,
+        288,
+        695,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9795,
+      "box": [
+        127,
+        315,
+        424,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.9839,
+      "box": [
+        126,
+        339,
+        498,
+        362
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstone Software, 2016.03–2019.02",
+      "score": 0.9948,
+      "box": [
+        116,
+        382,
+        686,
+        405
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.9892,
+      "box": [
+        125,
+        406,
+        374,
+        431
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.9815,
+      "box": [
+        126,
+        431,
+        501,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Greenwood Ridge University, 212",
+      "score": 0.9822,
+      "box": [
+        115,
+        539,
+        692,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in frontend frameworks basics",
+      "score": 0.9862,
+      "box": [
+        134,
+        566,
+        644,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in code refactoring",
+      "score": 0.9873,
+      "box": [
+        134,
+        590,
+        539,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "STANLEY REEVES\nTX, USA|+1-752-877-1621 | stanley.reeves@example.com\nWORK HISTORY\nSoftware Developers, Datastream Solutions, 2020.03–2023.01\n- Implemented core frameworks\n- Implemented infrastructure automation\nSoftware Developers, Clearstone Software, 2016.03–2019.02\n- Updated localization files\n- Wrote scripts for data processing tasks\nEDUCATION\nSome college (no degree), Greenwood Ridge University, 212\n• Completed coursework in frontend frameworks basics\n• Completed coursework in code refactoring"
+}

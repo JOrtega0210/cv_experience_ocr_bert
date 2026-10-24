@@ -1,0 +1,161 @@
+{
+  "id": "15579",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.945,
+  "n_lines": 11,
+  "mean_score": 0.9827,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SIERRA HALEY",
+      "score": 0.9451,
+      "box": [
+        116,
+        90,
+        368,
+        120
+      ]
+    },
+    {
+      "text": "GA, USA |+1-599-695-6053|sierra.haley@example.com",
+      "score": 0.9674,
+      "box": [
+        116,
+        151,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9796,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Minds School, 2021.12–2023.01",
+      "score": 0.9882,
+      "box": [
+        115,
+        290,
+        809,
+        313
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9946,
+      "box": [
+        127,
+        316,
+        398,
+        336
+      ]
+    },
+    {
+      "text": "- Reviewed lesson objectives",
+      "score": 0.9833,
+      "box": [
+        127,
+        340,
+        400,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Professional degree, Teaching Studies, Meadowfield University, 2023",
+      "score": 0.9904,
+      "box": [
+        114,
+        447,
+        760,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Studies, Goldenfield University, 2023",
+      "score": 0.9906,
+      "box": [
+        114,
+        472,
+        622,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of learning outcomes assessment",
+      "score": 0.9895,
+      "box": [
+        134,
+        499,
+        630,
+        522
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of academic support strategies",
+      "score": 0.9826,
+      "box": [
+        133,
+        523,
+        639,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "SIERRA HALEY\nGA, USA |+1-599-695-6053|sierra.haley@example.com\nWORK HISTORY\nElementary Middle School Teachers, Kind Minds School, 2021.12–2023.01\n- Recorded student feedback\n- Reviewed lesson objectives\nEDUCATION\nProfessional degree, Teaching Studies, Meadowfield University, 2023\nBachelor's, Child Studies, Goldenfield University, 2023\n• Studied principles of learning outcomes assessment\n• Studied fundamentals of academic support strategies"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "09884",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.84,
+  "n_lines": 10,
+  "mean_score": 0.9708,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "GABRIEL GRIMES",
+      "score": 0.969,
+      "box": [
+        117,
+        90,
+        410,
+        121
+      ]
+    },
+    {
+      "text": "CO, USA | +1-680-516-1568|gabriel.grimes@example.com",
+      "score": 0.9674,
+      "box": [
+        117,
+        151,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9811,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Digital, 2020.09–2023.01",
+      "score": 0.9823,
+      "box": [
+        116,
+        290,
+        649,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented Ul components based on design specs",
+      "score": 0.9745,
+      "box": [
+        126,
+        314,
+        628,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9719,
+      "box": [
+        126,
+        339,
+        437,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Willowgate University, 2020",
+      "score": 0.9122,
+      "box": [
+        115,
+        449,
+        482,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in configuration management",
+      "score": 0.9697,
+      "box": [
+        132,
+        473,
+        637,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in database optimization",
+      "score": 0.9812,
+      "box": [
+        134,
+        499,
+        593,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "GABRIEL GRIMES\nCO, USA | +1-680-516-1568|gabriel.grimes@example.com\nWORK HISTORY\nSoftware Developers, Codepath Digital, 2020.09–2023.01\n- Implemented Ul components based on design specs\n- Reviewed test coverage reports\nEDUCATION\nBachelor's, Willowgate University, 2020\n• Completed coursework in configuration management\n• Completed coursework in database optimization"
+}

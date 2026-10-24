@@ -1,0 +1,265 @@
+{
+  "id": "51140",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.874,
+  "n_lines": 19,
+  "mean_score": 0.9797,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "REBECCA CHOI",
+      "score": 0.9668,
+      "box": [
+        116,
+        90,
+        377,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-833-768-8015 |rebecca.choi@example.com",
+      "score": 0.9746,
+      "box": [
+        115,
+        150,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowfield Labs, 2019.04–2023.01",
+      "score": 0.9898,
+      "box": [
+        114,
+        288,
+        629,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented data pipeline architectures",
+      "score": 0.9791,
+      "box": [
+        127,
+        315,
+        512,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9803,
+      "box": [
+        127,
+        340,
+        424,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Netcrest Technologies, 2015.07–2019.04",
+      "score": 0.9914,
+      "box": [
+        114,
+        380,
+        705,
+        408
+      ]
+    },
+    {
+      "text": "- Developed system monitoring strategies",
+      "score": 0.9734,
+      "box": [
+        126,
+        406,
+        513,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9756,
+      "box": [
+        126,
+        431,
+        461,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpoint Labs, 2011.09–2015.07",
+      "score": 0.9485,
+      "box": [
+        115,
+        472,
+        636,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented security controls",
+      "score": 0.9702,
+      "box": [
+        126,
+        498,
+        420,
+        521
+      ]
+    },
+    {
+      "text": "- Developed configuration management tools",
+      "score": 0.9771,
+      "box": [
+        125,
+        521,
+        544,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Skycore Software, 2007.11–011.09",
+      "score": 0.9849,
+      "box": [
+        114,
+        563,
+        660,
+        588
+      ]
+    },
+    {
+      "text": "- Wrote command-line tools",
+      "score": 0.9838,
+      "box": [
+        124,
+        588,
+        386,
+        613
+      ]
+    },
+    {
+      "text": "- Implemented Ul components based on design specs",
+      "score": 0.9834,
+      "box": [
+        125,
+        612,
+        628,
+        641
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Briar Ridge University, 2008",
+      "score": 0.973,
+      "box": [
+        114,
+        723,
+        486,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of modular design",
+      "score": 0.9844,
+      "box": [
+        132,
+        747,
+        484,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in distributed databases",
+      "score": 0.9933,
+      "box": [
+        133,
+        772,
+        588,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "REBECCA CHOI\nTX, USA|+1-833-768-8015 |rebecca.choi@example.com\nWORK HISTORY\nSoftware Developers, Flowfield Labs, 2019.04–2023.01\n- Implemented data pipeline architectures\n- Implemented core frameworks\nSoftware Developers, Netcrest Technologies, 2015.07–2019.04\n- Developed system monitoring strategies\n- Implemented service orchestration\nSoftware Developers, Flowpoint Labs, 2011.09–2015.07\n- Implemented security controls\n- Developed configuration management tools\nSoftware Developers, Skycore Software, 2007.11–011.09\n- Wrote command-line tools\n- Implemented Ul components based on design specs\nEDUCATION\nBachelor's, Briar Ridge University, 2008\n• Studied principles of modular design\n• Completed coursework in distributed databases"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "14440",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.977,
+  "n_lines": 16,
+  "mean_score": 0.9859,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DAQUAN NASH",
+      "score": 0.9641,
+      "box": [
+        116,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-275-974-2989 |daquan.nash@example.com",
+      "score": 0.9875,
+      "box": [
+        116,
+        151,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9866,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenLife Care Services, 2020.10–2023.01",
+      "score": 0.9956,
+      "box": [
+        116,
+        289,
+        695,
+        312
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.9889,
+      "box": [
+        126,
+        313,
+        425,
+        338
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.9756,
+      "box": [
+        126,
+        339,
+        455,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewWay Care Center, 2018.07–2020.10",
+      "score": 0.9752,
+      "box": [
+        115,
+        381,
+        679,
+        406
+      ]
+    },
+    {
+      "text": "- Managed intravenous therapy",
+      "score": 0.9771,
+      "box": [
+        125,
+        405,
+        418,
+        432
+      ]
+    },
+    {
+      "text": "- Managed isolation procedures",
+      "score": 0.9836,
+      "box": [
+        126,
+        430,
+        422,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Touch Health, 2016.03–2018.07",
+      "score": 0.9955,
+      "box": [
+        116,
+        472,
+        667,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9899,
+      "box": [
+        126,
+        498,
+        479,
+        521
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.9846,
+      "box": [
+        126,
+        521,
+        471,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Systems, High Meadow University, 2014",
+      "score": 0.992,
+      "box": [
+        115,
+        632,
+        667,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing workflow management",
+      "score": 0.9862,
+      "box": [
+        133,
+        658,
+        673,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of care coordination",
+      "score": 0.993,
+      "box": [
+        134,
+        682,
+        540,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "DAQUAN NASH\nFL, USA|+1-275-974-2989 |daquan.nash@example.com\nWORK HISTORY\nRegistered Nurses, OpenLife Care Services, 2020.10–2023.01\n- Led clinical governance efforts\n- Led nursing workflow optimization\nRegistered Nurses, NewWay Care Center, 2018.07–2020.10\n- Managed intravenous therapy\n- Managed isolation procedures\nRegistered Nurses, Caring Touch Health, 2016.03–2018.07\n- Prepared medical equipment for use\n- Recorded patient weight and height\nEDUCATION\nBachelor's, Health Systems, High Meadow University, 2014\n• Completed coursework in nursing workflow management\n• Studied fundamentals of care coordination"
+}

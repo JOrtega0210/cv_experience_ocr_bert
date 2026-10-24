@@ -1,0 +1,200 @@
+{
+  "id": "20353",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.847,
+  "n_lines": 14,
+  "mean_score": 0.9834,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MICHAELOCONNELL",
+      "score": 0.9984,
+      "box": [
+        117,
+        89,
+        465,
+        120
+      ]
+    },
+    {
+      "text": "IN, USA|+1-602-548-4861 |michael.oconnell@example.com",
+      "score": 0.9844,
+      "box": [
+        116,
+        150,
+        688,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9788,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Financial Group, 2020.06–2023.01",
+      "score": 0.9817,
+      "box": [
+        114,
+        289,
+        762,
+        314
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.983,
+      "box": [
+        126,
+        314,
+        527,
+        339
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9664,
+      "box": [
+        127,
+        340,
+        479,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearPath Financial, 2017.11–2020.06",
+      "score": 0.9841,
+      "box": [
+        114,
+        381,
+        682,
+        405
+      ]
+    },
+    {
+      "text": "- Verified transaction accuracy",
+      "score": 0.9744,
+      "box": [
+        125,
+        405,
+        411,
+        432
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9827,
+      "box": [
+        126,
+        430,
+        417,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Statistics, Brookridge University, 2016",
+      "score": 0.9732,
+      "box": [
+        115,
+        541,
+        559,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Accounting, Golden Meadow University, 2014",
+      "score": 0.9937,
+      "box": [
+        115,
+        566,
+        724,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in business communication",
+      "score": 0.9955,
+      "box": [
+        134,
+        591,
+        619,
+        614
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of operations management",
+      "score": 0.973,
+      "box": [
+        133,
+        614,
+        606,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "MICHAELOCONNELL\nIN, USA|+1-602-548-4861 |michael.oconnell@example.com\nWORK HISTORY\nAccountants Auditors, CoreLedger Financial Group, 2020.06–2023.01\n- Designed financial accountability systems\n- Led accounting process optimization\nAccountants Auditors, ClearPath Financial, 2017.11–2020.06\n- Verified transaction accuracy\n- Processed journal corrections\nEDUCATION\nMaster's, Statistics, Brookridge University, 2016\nBachelor's, Applied Accounting, Golden Meadow University, 2014\n• Completed coursework in business communication\n• Studied fundamentals of operations management"
+}

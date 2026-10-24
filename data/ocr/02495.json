@@ -1,0 +1,148 @@
+{
+  "id": "02495",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.838,
+  "n_lines": 10,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRYANTANNER",
+      "score": 0.9991,
+      "box": [
+        116,
+        90,
+        385,
+        120
+      ]
+    },
+    {
+      "text": "AR, USA|+1-267-872-7520 |bryan.tanner@example.com",
+      "score": 0.9801,
+      "box": [
+        116,
+        152,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmWay Construction, 2020.08–2023.01",
+      "score": 0.9879,
+      "box": [
+        115,
+        290,
+        713,
+        313
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9641,
+      "box": [
+        126,
+        315,
+        424,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9941,
+      "box": [
+        126,
+        339,
+        425,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Technology, Clearview University, 2021",
+      "score": 0.9777,
+      "box": [
+        116,
+        449,
+        792,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of roofing methods",
+      "score": 0.9613,
+      "box": [
+        132,
+        472,
+        529,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of site drainage",
+      "score": 0.989,
+      "box": [
+        134,
+        499,
+        462,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "BRYANTANNER\nAR, USA|+1-267-872-7520 |bryan.tanner@example.com\nWORK HISTORY\nConstruction Laborers, FirmWay Construction, 2020.08–2023.01\n- Followed blueprint instructions\n- Assisted with concrete pouring\nEDUCATION\nAssociate's degree, Construction Technology, Clearview University, 2021\n• Studied fundamentals of roofing methods\n• Studied principles of site drainage"
+}

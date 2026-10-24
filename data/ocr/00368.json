@@ -1,0 +1,187 @@
+{
+  "id": "00368",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.912,
+  "n_lines": 13,
+  "mean_score": 0.9817,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KIANNA MCCARTY",
+      "score": 0.9678,
+      "box": [
+        116,
+        90,
+        425,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-543-293-8189|kianna.mccarty@example.com",
+      "score": 0.9863,
+      "box": [
+        116,
+        151,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.982,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleBridge Nursing, 2020.10–2023.01",
+      "score": 0.9773,
+      "box": [
+        115,
+        289,
+        673,
+        314
+      ]
+    },
+    {
+      "text": "– Managed clinical data analysis",
+      "score": 0.9533,
+      "box": [
+        127,
+        315,
+        426,
+        338
+      ]
+    },
+    {
+      "text": "- Directed care delivery improvements",
+      "score": 0.9792,
+      "box": [
+        126,
+        339,
+        480,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeBridge Health Group, 2018.07–2020.10",
+      "score": 0.9851,
+      "box": [
+        115,
+        381,
+        709,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.9938,
+      "box": [
+        125,
+        406,
+        420,
+        431
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9648,
+      "box": [
+        126,
+        432,
+        410,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Management, Brookwood University, 2019",
+      "score": 0.9848,
+      "box": [
+        115,
+        541,
+        736,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in medical-surgical nursing",
+      "score": 0.9918,
+      "box": [
+        133,
+        565,
+        614,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in documentation standards",
+      "score": 0.9977,
+      "box": [
+        135,
+        591,
+        624,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KIANNA MCCARTY\nAL, USA|+1-543-293-8189|kianna.mccarty@example.com\nWORK HISTORY\nRegistered Nurses, GentleBridge Nursing, 2020.10–2023.01\n– Managed clinical data analysis\n- Directed care delivery improvements\nRegistered Nurses, SafeBridge Health Group, 2018.07–2020.10\n- Assisted with patient transfers\n- Recorded shift handoff notes\nEDUCATION\nBachelor's, Health Care Management, Brookwood University, 2019\n• Completed coursework in medical-surgical nursing\n• Completed coursework in documentation standards"
+}

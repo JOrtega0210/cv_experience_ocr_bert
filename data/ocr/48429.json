@@ -1,0 +1,200 @@
+{
+  "id": "48429",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.867,
+  "n_lines": 14,
+  "mean_score": 0.9819,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JESSICA BLACKBURN",
+      "score": 0.9818,
+      "box": [
+        116,
+        90,
+        483,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-690-458-8991 |jessica.blackburn@example.com",
+      "score": 0.9839,
+      "box": [
+        115,
+        150,
+        700,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9778,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Path School, 2020.08–2023.01",
+      "score": 0.9665,
+      "box": [
+        116,
+        290,
+        815,
+        313
+      ]
+    },
+    {
+      "text": "- Led instructional technology integration",
+      "score": 0.969,
+      "box": [
+        126,
+        314,
+        504,
+        339
+      ]
+    },
+    {
+      "text": "- Led academic improvement programs",
+      "score": 0.9773,
+      "box": [
+        126,
+        339,
+        493,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Grove Academy, 2018.02–2020.08",
+      "score": 0.9884,
+      "box": [
+        115,
+        381,
+        853,
+        406
+      ]
+    },
+    {
+      "text": "- Supported individual student learning activities",
+      "score": 0.9697,
+      "box": [
+        127,
+        408,
+        571,
+        431
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9881,
+      "box": [
+        126,
+        431,
+        409,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Education Preparation, Clearwater University, 2016",
+      "score": 0.9811,
+      "box": [
+        115,
+        541,
+        682,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Support Studies, Stonefield University, 2014",
+      "score": 0.9846,
+      "box": [
+        115,
+        566,
+        721,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in mathematics education basics",
+      "score": 0.9956,
+      "box": [
+        134,
+        590,
+        668,
+        613
+      ]
+    },
+    {
+      "text": "• Studied principles of student participation",
+      "score": 0.9842,
+      "box": [
+        134,
+        616,
+        528,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "JESSICA BLACKBURN\nTN, USA|+1-690-458-8991 |jessica.blackburn@example.com\nWORK HISTORY\nElementary Middle School Teachers, Caring Path School, 2020.08–2023.01\n- Led instructional technology integration\n- Led academic improvement programs\nElementary Middle School Teachers, Future Grove Academy, 2018.02–2020.08\n- Supported individual student learning activities\n- Provided math drill exercises\nEDUCATION\nMaster's, Education Preparation, Clearwater University, 2016\nBachelor's, Learning Support Studies, Stonefield University, 2014\n• Completed coursework in mathematics education basics\n• Studied principles of student participation"
+}

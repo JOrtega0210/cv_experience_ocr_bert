@@ -1,0 +1,226 @@
+{
+  "id": "24597",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.839,
+  "n_lines": 16,
+  "mean_score": 0.9841,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CELESTE FARLEY",
+      "score": 0.9917,
+      "box": [
+        117,
+        90,
+        416,
+        120
+      ]
+    },
+    {
+      "text": "MD, USA|+1-370-962-3975 |celeste.farley@example.com",
+      "score": 0.9903,
+      "box": [
+        116,
+        151,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9829,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleBridge Health, 2021.01–2023.01",
+      "score": 0.9917,
+      "box": [
+        116,
+        290,
+        662,
+        313
+      ]
+    },
+    {
+      "text": "- Directed clinical quality improvement initiatives",
+      "score": 0.9742,
+      "box": [
+        125,
+        313,
+        572,
+        338
+      ]
+    },
+    {
+      "text": "- Designed clinical care protocols",
+      "score": 0.9805,
+      "box": [
+        126,
+        339,
+        436,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Care Center, 2019.01–2021.01",
+      "score": 0.9893,
+      "box": [
+        116,
+        382,
+        716,
+        405
+      ]
+    },
+    {
+      "text": "- Provided end-of-life care",
+      "score": 0.9764,
+      "box": [
+        126,
+        405,
+        370,
+        430
+      ]
+    },
+    {
+      "text": "- Reviewed care plan outcomes",
+      "score": 0.9796,
+      "box": [
+        126,
+        430,
+        423,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverSpring Health Services, 2017.01–2019.01",
+      "score": 0.9783,
+      "box": [
+        116,
+        472,
+        729,
+        496
+      ]
+    },
+    {
+      "text": "- Provided catheter care",
+      "score": 0.978,
+      "box": [
+        126,
+        497,
+        353,
+        520
+      ]
+    },
+    {
+      "text": "- Checked laboratory results",
+      "score": 0.9782,
+      "box": [
+        126,
+        521,
+        391,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Services, Hillview University, 2017",
+      "score": 0.9763,
+      "box": [
+        115,
+        631,
+        610,
+        654
+      ]
+    },
+    {
+      "text": "• Studied principles of blood transfusion basics",
+      "score": 0.9895,
+      "box": [
+        132,
+        656,
+        566,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of mental health nursing",
+      "score": 0.9897,
+      "box": [
+        135,
+        682,
+        541,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "CELESTE FARLEY\nMD, USA|+1-370-962-3975 |celeste.farley@example.com\nWORK HISTORY\nRegistered Nurses, GentleBridge Health, 2021.01–2023.01\n- Directed clinical quality improvement initiatives\n- Designed clinical care protocols\nRegistered Nurses, GentleHands Care Center, 2019.01–2021.01\n- Provided end-of-life care\n- Reviewed care plan outcomes\nRegistered Nurses, EverSpring Health Services, 2017.01–2019.01\n- Provided catheter care\n- Checked laboratory results\nEDUCATION\nBachelor's, Health Services, Hillview University, 2017\n• Studied principles of blood transfusion basics\n• Studied principles of mental health nursing"
+}

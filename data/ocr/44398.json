@@ -1,0 +1,226 @@
+{
+  "id": "44398",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.878,
+  "n_lines": 16,
+  "mean_score": 0.9783,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SAMANTHA AYERS",
+      "score": 0.9829,
+      "box": [
+        116,
+        90,
+        434,
+        120
+      ]
+    },
+    {
+      "text": "OR, USA|+1-612-527-3500| samantha.ayers@example.com",
+      "score": 0.9869,
+      "box": [
+        117,
+        151,
+        691,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverTrust Accounting, 2020.10–2023.01",
+      "score": 0.9834,
+      "box": [
+        115,
+        290,
+        697,
+        312
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.9661,
+      "box": [
+        126,
+        314,
+        502,
+        338
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.9558,
+      "box": [
+        127,
+        340,
+        478,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Group, 2018.07–2020.10",
+      "score": 0.9875,
+      "box": [
+        115,
+        382,
+        667,
+        405
+      ]
+    },
+    {
+      "text": "- Developed audit plans",
+      "score": 0.9721,
+      "box": [
+        125,
+        406,
+        350,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared audit reports",
+      "score": 0.9634,
+      "box": [
+        126,
+        430,
+        350,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Financial, 2016.03–2018.07",
+      "score": 0.9788,
+      "box": [
+        115,
+        472,
+        695,
+        495
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9732,
+      "box": [
+        125,
+        496,
+        422,
+        522
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9718,
+      "box": [
+        126,
+        521,
+        418,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Corporate Finance, North Ridge University, 2017",
+      "score": 0.971,
+      "box": [
+        114,
+        631,
+        677,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of assurance services",
+      "score": 0.9885,
+      "box": [
+        132,
+        656,
+        558,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of accounting standards",
+      "score": 0.9858,
+      "box": [
+        134,
+        681,
+        540,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "SAMANTHA AYERS\nOR, USA|+1-612-527-3500| samantha.ayers@example.com\nWORK HISTORY\nAccountants Auditors, EverTrust Accounting, 2020.10–2023.01\n- Directed strategic accounting initiatives\n- Led regulatory compliance initiatives\nAccountants Auditors, TrustCount Group, 2018.07–2020.10\n- Developed audit plans\n- Prepared audit reports\nAccountants Auditors, ClearCount Financial, 2016.03–2018.07\n- Assisted with regulatory filings\n- Processed journal corrections\nEDUCATION\nBachelor's, Corporate Finance, North Ridge University, 2017\n• Studied fundamentals of assurance services\n• Studied principles of accounting standards"
+}

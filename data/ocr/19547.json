@@ -1,0 +1,265 @@
+{
+  "id": "19547",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.935,
+  "n_lines": 19,
+  "mean_score": 0.9834,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JESSICA HENSON",
+      "score": 0.9882,
+      "box": [
+        115,
+        88,
+        415,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA|+1-465-956-5335 |jessica.henson@example.com",
+      "score": 0.9869,
+      "box": [
+        116,
+        152,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9865,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Advisors, 2020.03–2023.01",
+      "score": 0.9775,
+      "box": [
+        115,
+        290,
+        752,
+        313
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9835,
+      "box": [
+        125,
+        313,
+        517,
+        338
+      ]
+    },
+    {
+      "text": "- Led internal audit functions",
+      "score": 0.9885,
+      "box": [
+        126,
+        338,
+        393,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Services, 2017.05–2020.03",
+      "score": 0.9866,
+      "box": [
+        114,
+        381,
+        696,
+        406
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9642,
+      "box": [
+        125,
+        405,
+        518,
+        431
+      ]
+    },
+    {
+      "text": "- Led internal audit functions",
+      "score": 0.9832,
+      "box": [
+        126,
+        432,
+        392,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Group, 2013.08–2016.07",
+      "score": 0.9782,
+      "box": [
+        115,
+        472,
+        667,
+        496
+      ]
+    },
+    {
+      "text": "- Developed budget forecasts",
+      "score": 0.9753,
+      "box": [
+        125,
+        496,
+        403,
+        521
+      ]
+    },
+    {
+      "text": "- Managed accounting system updates",
+      "score": 0.9783,
+      "box": [
+        126,
+        521,
+        488,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Advisors, 2009.10–2012.09",
+      "score": 0.9843,
+      "box": [
+        114,
+        563,
+        680,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared expense reports",
+      "score": 0.9864,
+      "box": [
+        125,
+        589,
+        384,
+        614
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.9875,
+      "box": [
+        125,
+        613,
+        481,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Investment Management, Pine Valley University, 204",
+      "score": 0.9739,
+      "box": [
+        114,
+        723,
+        727,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of internal controls",
+      "score": 0.9908,
+      "box": [
+        133,
+        748,
+        526,
+        770
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial modeling basics",
+      "score": 0.9849,
+      "box": [
+        134,
+        772,
+        622,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "JESSICA HENSON\nIL, USA|+1-465-956-5335 |jessica.henson@example.com\nWORK HISTORY\nAccountants Auditors, Reliable Accounts Advisors, 2020.03–2023.01\n- Directed enterprise accounting platforms\n- Led internal audit functions\nAccountants Auditors, CoreLedger Services, 2017.05–2020.03\n- Established financial reporting standards\n- Led internal audit functions\nAccountants Auditors, TrustCount Group, 2013.08–2016.07\n- Developed budget forecasts\n- Managed accounting system updates\nAccountants Auditors, OpenPath Advisors, 2009.10–2012.09\n- Prepared expense reports\n- Processed expense reimbursements\nEDUCATION\nBachelor's, Investment Management, Pine Valley University, 204\n• Studied fundamentals of internal controls\n• Completed coursework in financial modeling basics"
+}

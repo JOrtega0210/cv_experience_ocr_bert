@@ -1,0 +1,213 @@
+{
+  "id": "59469",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.815,
+  "n_lines": 15,
+  "mean_score": 0.9816,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ERICLIN",
+      "score": 0.997,
+      "box": [
+        116,
+        89,
+        263,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA |+1-469-589-3503|eric.lin@example.com",
+      "score": 0.9605,
+      "box": [
+        115,
+        151,
+        607,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightpoint Systems, 2020.09–2023.01",
+      "score": 0.9716,
+      "box": [
+        114,
+        289,
+        680,
+        314
+      ]
+    },
+    {
+      "text": "- Designed logging infrastructures",
+      "score": 0.9814,
+      "box": [
+        126,
+        315,
+        442,
+        339
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9782,
+      "box": [
+        126,
+        339,
+        410,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Software, 2018.05–2020.09",
+      "score": 0.9831,
+      "box": [
+        115,
+        380,
+        656,
+        405
+      ]
+    },
+    {
+      "text": "- Wrote automated tests",
+      "score": 0.978,
+      "box": [
+        125,
+        405,
+        353,
+        430
+      ]
+    },
+    {
+      "text": "- Implemented search features",
+      "score": 0.9726,
+      "box": [
+        126,
+        432,
+        412,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Solutions, 2015.12–2018.05",
+      "score": 0.99,
+      "box": [
+        116,
+        472,
+        695,
+        496
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9733,
+      "box": [
+        126,
+        498,
+        339,
+        522
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.9925,
+      "box": [
+        126,
+        521,
+        462,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Meadowridge High School, 2016",
+      "score": 0.992,
+      "box": [
+        116,
+        632,
+        679,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in data structures implementation",
+      "score": 0.9681,
+      "box": [
+        132,
+        656,
+        675,
+        681
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "ERICLIN\nWA, USA |+1-469-589-3503|eric.lin@example.com\nWORK HISTORY\nSoftware Developers, Brightpoint Systems, 2020.09–2023.01\n- Designed logging infrastructures\n- Defined scalability roadmaps\nSoftware Developers, Netfield Software, 2018.05–2020.09\n- Wrote automated tests\n- Implemented search features\nSoftware Developers, Datastream Solutions, 2015.12–2018.05\n- Updated routing logic\n- Updated application dependencies\nEDUCATION\nHigh school graduate/GED, Meadowridge High School, 2016\n• Completed coursework in data structures implementation"
+}

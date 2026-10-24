@@ -1,0 +1,226 @@
+{
+  "id": "01430",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.902,
+  "n_lines": 16,
+  "mean_score": 0.9862,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSHUA PAYNE",
+      "score": 0.9834,
+      "box": [
+        116,
+        90,
+        382,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA |+1-407-727-1701 | joshua.payne@example.com",
+      "score": 0.9663,
+      "box": [
+        116,
+        152,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9869,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corepath Solutions, 2020.10–2023.01",
+      "score": 0.9922,
+      "box": [
+        116,
+        290,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "- Designed software development workflows",
+      "score": 0.9848,
+      "box": [
+        127,
+        315,
+        538,
+        338
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.996,
+      "box": [
+        127,
+        340,
+        373,
+        362
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Tech, 2018.06–2020.10",
+      "score": 0.9918,
+      "box": [
+        116,
+        382,
+        625,
+        405
+      ]
+    },
+    {
+      "text": "- Designed integration tests",
+      "score": 0.9744,
+      "box": [
+        126,
+        406,
+        384,
+        431
+      ]
+    },
+    {
+      "text": "- Developed access control logic",
+      "score": 0.9831,
+      "box": [
+        126,
+        431,
+        431,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstream Labs, 2016.02–2018.06",
+      "score": 0.9916,
+      "box": [
+        115,
+        471,
+        666,
+        496
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9746,
+      "box": [
+        125,
+        496,
+        448,
+        522
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9855,
+      "box": [
+        128,
+        523,
+        414,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Greenfield University, 2016",
+      "score": 0.9923,
+      "box": [
+        115,
+        632,
+        478,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in deadlock prevention",
+      "score": 0.987,
+      "box": [
+        134,
+        658,
+        576,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of computer networks",
+      "score": 0.9902,
+      "box": [
+        133,
+        681,
+        555,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JOSHUA PAYNE\nAZ, USA |+1-407-727-1701 | joshua.payne@example.com\nWORK HISTORY\nSoftware Developers, Corepath Solutions, 2020.10–2023.01\n- Designed software development workflows\n- Led architectural reviews\nSoftware Developers, Flowline Tech, 2018.06–2020.10\n- Designed integration tests\n- Developed access control logic\nSoftware Developers, Brightstream Labs, 2016.02–2018.06\n- Performed basic APl integrations\n- Updated frontend stylesheets\nEDUCATION\nBachelor's, Greenfield University, 2016\n• Completed coursework in deadlock prevention\n• Studied fundamentals of computer networks"
+}

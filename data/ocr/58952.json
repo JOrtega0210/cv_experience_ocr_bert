@@ -1,0 +1,200 @@
+{
+  "id": "58952",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.833,
+  "n_lines": 14,
+  "mean_score": 0.9842,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MATTHEW MILES",
+      "score": 0.9849,
+      "box": [
+        116,
+        90,
+        401,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-350-883-7582|matthew.miles@example.com",
+      "score": 0.9831,
+      "box": [
+        114,
+        150,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Grove School, 2021.01–2023.01",
+      "score": 0.9862,
+      "box": [
+        115,
+        290,
+        860,
+        313
+      ]
+    },
+    {
+      "text": "- Designed learning analytics frameworks",
+      "score": 0.9837,
+      "box": [
+        126,
+        315,
+        510,
+        338
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.9847,
+      "box": [
+        127,
+        340,
+        505,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Horizons School, 2017.10–2019.11",
+      "score": 0.9904,
+      "box": [
+        115,
+        381,
+        872,
+        406
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.9663,
+      "box": [
+        126,
+        407,
+        444,
+        430
+      ]
+    },
+    {
+      "text": "- Maintained student folders",
+      "score": 0.9742,
+      "box": [
+        126,
+        432,
+        388,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Liberal Arts, High Meadow University, 2007",
+      "score": 0.9856,
+      "box": [
+        115,
+        541,
+        608,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Development, Riverwood University, 2005",
+      "score": 0.9903,
+      "box": [
+        114,
+        564,
+        667,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of learner assessment",
+      "score": 0.9787,
+      "box": [
+        133,
+        590,
+        524,
+        614
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom facilitation",
+      "score": 0.9886,
+      "box": [
+        134,
+        616,
+        583,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "MATTHEW MILES\nWA, USA|+1-350-883-7582|matthew.miles@example.com\nWORK HISTORY\nElementary Middle School Teachers, Discovery Grove School, 2021.01–2023.01\n- Designed learning analytics frameworks\n- Designed systemic intervention models\nElementary Middle School Teachers, Growing Horizons School, 2017.10–2019.11\n- Scheduled instructional activities\n- Maintained student folders\nEDUCATION\nMaster's, Liberal Arts, High Meadow University, 2007\nBachelor's, Child Development, Riverwood University, 2005\n• Studied principles of learner assessment\n• Completed coursework in classroom facilitation"
+}

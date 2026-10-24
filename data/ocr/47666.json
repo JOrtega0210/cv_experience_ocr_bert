@@ -1,0 +1,239 @@
+{
+  "id": "47666",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.879,
+  "n_lines": 17,
+  "mean_score": 0.9831,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CURTIS BALL",
+      "score": 0.984,
+      "box": [
+        117,
+        90,
+        341,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-605-250-9334|curtis.ball@example.com",
+      "score": 0.9824,
+      "box": [
+        116,
+        151,
+        629,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9833,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeHands Nursing Services, 2020.01–2023.01",
+      "score": 0.965,
+      "box": [
+        115,
+        289,
+        732,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.9829,
+      "box": [
+        127,
+        315,
+        568,
+        338
+      ]
+    },
+    {
+      "text": "- Established quality assurance systems",
+      "score": 0.9865,
+      "box": [
+        126,
+        339,
+        500,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIHands Health Group, 2017.01–2020.01",
+      "score": 0.9778,
+      "box": [
+        116,
+        383,
+        704,
+        406
+      ]
+    },
+    {
+      "text": "-Monitored cardiac telemetry",
+      "score": 0.9946,
+      "box": [
+        125,
+        406,
+        400,
+        431
+      ]
+    },
+    {
+      "text": "- Monitored patient response to treatments",
+      "score": 0.973,
+      "box": [
+        126,
+        430,
+        522,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHands Health Group, 2011.06–2014.06",
+      "score": 0.9929,
+      "box": [
+        116,
+        473,
+        708,
+        496
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9749,
+      "box": [
+        126,
+        496,
+        530,
+        521
+      ]
+    },
+    {
+      "text": "- Performed wound dressing changes",
+      "score": 0.9915,
+      "box": [
+        126,
+        521,
+        476,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, General Nursing, Cedar Ridge University, 2006",
+      "score": 0.9708,
+      "box": [
+        114,
+        631,
+        643,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Practical Nursing, Rosewood University, 2004",
+      "score": 0.977,
+      "box": [
+        114,
+        656,
+        649,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of infection control",
+      "score": 0.9834,
+      "box": [
+        132,
+        681,
+        489,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in acute care nursing",
+      "score": 0.9943,
+      "box": [
+        133,
+        706,
+        560,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "CURTIS BALL\nSC, USA|+1-605-250-9334|curtis.ball@example.com\nWORK HISTORY\nRegistered Nurses, LifeHands Nursing Services, 2020.01–2023.01\n- Implemented evidence-based practice models\n- Established quality assurance systems\nRegistered Nurses, WelIHands Health Group, 2017.01–2020.01\n-Monitored cardiac telemetry\n- Monitored patient response to treatments\nRegistered Nurses, NewHands Health Group, 2011.06–2014.06\n- Recorded medication administration times\n- Performed wound dressing changes\nEDUCATION\nMaster's, General Nursing, Cedar Ridge University, 2006\nBachelor's, Practical Nursing, Rosewood University, 2004\n• Studied principles of infection control\n• Completed coursework in acute care nursing"
+}

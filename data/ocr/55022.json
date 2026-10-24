@@ -1,0 +1,135 @@
+{
+  "id": "55022",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.735,
+  "n_lines": 9,
+  "mean_score": 0.9791,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JADEN MENDOZA",
+      "score": 0.9695,
+      "box": [
+        116,
+        90,
+        410,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-428-716-2468 |jaden.mendoza@example.com",
+      "score": 0.9809,
+      "box": [
+        114,
+        150,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9847,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorBuild Services, 2021.04–2023.01",
+      "score": 0.9595,
+      "box": [
+        115,
+        290,
+        705,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9599,
+      "box": [
+        125,
+        313,
+        417,
+        339
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.9955,
+      "box": [
+        126,
+        339,
+        481,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Drafting, Oakview High School, 2022",
+      "score": 0.9885,
+      "box": [
+        116,
+        449,
+        840,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of tool usage",
+      "score": 0.975,
+      "box": [
+        132,
+        472,
+        475,
+        498
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "JADEN MENDOZA\nTX, USA|+1-428-716-2468 |jaden.mendoza@example.com\nWORK HISTORY\nConstruction Laborers, AnchorBuild Services, 2021.04–2023.01\n- Assisted with framing support\n- Supported crew leaders during tasks\nEDUCATION\nHigh school graduate/GED, Construction Drafting, Oakview High School, 2022\n• Studied fundamentals of tool usage"
+}

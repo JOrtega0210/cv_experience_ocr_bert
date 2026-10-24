@@ -1,0 +1,148 @@
+{
+  "id": "14344",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.824,
+  "n_lines": 10,
+  "mean_score": 0.9814,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ROBERTO COLLIER",
+      "score": 0.9771,
+      "box": [
+        116,
+        90,
+        441,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-926-477-6092|roberto.collier@example.com",
+      "score": 0.9809,
+      "box": [
+        115,
+        150,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9835,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleWay Health, 2020.05–2021.07",
+      "score": 0.981,
+      "box": [
+        116,
+        290,
+        645,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9545,
+      "box": [
+        126,
+        314,
+        387,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9781,
+      "box": [
+        126,
+        339,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Nursing Studies, Windridge University, 2018",
+      "score": 0.9899,
+      "box": [
+        116,
+        449,
+        713,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of oxygen therapy",
+      "score": 0.9883,
+      "box": [
+        132,
+        472,
+        484,
+        499
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of quality assurance in care",
+      "score": 0.9817,
+      "box": [
+        133,
+        499,
+        610,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ROBERTO COLLIER\nFL, USA|+1-926-477-6092|roberto.collier@example.com\nWORK HISTORY\nRegistered Nurses, GentleWay Health, 2020.05–2021.07\n- Prepared treatment rooms\n- Assisted with physical therapy exercises\nEDUCATION\nAssociate's degree, Nursing Studies, Windridge University, 2018\n• Studied principles of oxygen therapy\n• Studied fundamentals of quality assurance in care"
+}

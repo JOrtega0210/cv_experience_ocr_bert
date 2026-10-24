@@ -1,0 +1,148 @@
+{
+  "id": "02540",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.916,
+  "n_lines": 10,
+  "mean_score": 0.9821,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TAYLOR TRUONG",
+      "score": 0.9773,
+      "box": [
+        114,
+        90,
+        409,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-798-956-9609|taylor.truong@example.com",
+      "score": 0.979,
+      "box": [
+        115,
+        150,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9788,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Lake School, 2020.03–2023.01",
+      "score": 0.9805,
+      "box": [
+        116,
+        290,
+        811,
+        313
+      ]
+    },
+    {
+      "text": "- Conducted group reading activities",
+      "score": 0.9596,
+      "box": [
+        127,
+        315,
+        463,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented basic classroom management procedures",
+      "score": 0.9868,
+      "box": [
+        126,
+        339,
+        656,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Elementary Education Preparation, Sunfield University, 2021",
+      "score": 0.9759,
+      "box": [
+        115,
+        449,
+        784,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in social-emotional learning basics",
+      "score": 0.9907,
+      "box": [
+        133,
+        474,
+        685,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of special education awareness",
+      "score": 0.994,
+      "box": [
+        132,
+        497,
+        647,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "TAYLOR TRUONG\nAR, USA|+1-798-956-9609|taylor.truong@example.com\nWORK HISTORY\nElementary Middle School Teachers, Bright Lake School, 2020.03–2023.01\n- Conducted group reading activities\n- Implemented basic classroom management procedures\nEDUCATION\nBachelor's, Elementary Education Preparation, Sunfield University, 2021\n• Completed coursework in social-emotional learning basics\n• Studied fundamentals of special education awareness"
+}

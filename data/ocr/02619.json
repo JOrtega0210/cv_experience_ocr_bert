@@ -1,0 +1,148 @@
+{
+  "id": "02619",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.895,
+  "n_lines": 10,
+  "mean_score": 0.9797,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ALEXANDRIA LU",
+      "score": 0.9808,
+      "box": [
+        117,
+        90,
+        391,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-391-675-9015 |alexandria.lu@example.com",
+      "score": 0.9632,
+      "box": [
+        117,
+        152,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenSpring Care Services, 2019.06–2021.11",
+      "score": 0.9845,
+      "box": [
+        116,
+        290,
+        724,
+        313
+      ]
+    },
+    {
+      "text": "-Provided catheter care",
+      "score": 0.9928,
+      "box": [
+        125,
+        312,
+        354,
+        339
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9442,
+      "box": [
+        127,
+        340,
+        410,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Health Information Management, Brookside University, 2014",
+      "score": 0.9853,
+      "box": [
+        116,
+        449,
+        927,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of community health nursing",
+      "score": 0.9724,
+      "box": [
+        132,
+        472,
+        616,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of disease prevention",
+      "score": 0.9917,
+      "box": [
+        133,
+        499,
+        516,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ALEXANDRIA LU\nCA, USA|+1-391-675-9015 |alexandria.lu@example.com\nWORK HISTORY\nRegistered Nurses, OpenSpring Care Services, 2019.06–2021.11\n-Provided catheter care\n- Recorded shift handoff notes\nEDUCATION\nSome college (no degree), Health Information Management, Brookside University, 2014\n• Studied fundamentals of community health nursing\n• Studied principles of disease prevention"
+}

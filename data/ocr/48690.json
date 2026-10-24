@@ -1,0 +1,265 @@
+{
+  "id": "48690",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.935,
+  "n_lines": 19,
+  "mean_score": 0.9824,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ELIZABETH ZIMMERMAN",
+      "score": 0.9872,
+      "box": [
+        117,
+        90,
+        522,
+        120
+      ]
+    },
+    {
+      "text": "TN, USA|+1-635-253-3387 |elizabeth.zimmerman@example.com",
+      "score": 0.9851,
+      "box": [
+        115,
+        150,
+        738,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenWay Care Services, 2019.01–2023.01",
+      "score": 0.9882,
+      "box": [
+        116,
+        290,
+        704,
+        313
+      ]
+    },
+    {
+      "text": "- Developed staffing allocation models",
+      "score": 0.9697,
+      "box": [
+        127,
+        315,
+        482,
+        338
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.9855,
+      "box": [
+        126,
+        339,
+        426,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHope Care Center, 2015.01–2019.01",
+      "score": 0.9901,
+      "box": [
+        116,
+        383,
+        685,
+        406
+      ]
+    },
+    {
+      "text": "- Developed interdisciplinary care strategies",
+      "score": 0.9774,
+      "box": [
+        126,
+        406,
+        534,
+        432
+      ]
+    },
+    {
+      "text": "- Managed clinical compliance programs",
+      "score": 0.9894,
+      "box": [
+        126,
+        430,
+        503,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Nursing Services, 2010.12–2015.01",
+      "score": 0.9881,
+      "box": [
+        116,
+        473,
+        723,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored infusion pump settings",
+      "score": 0.9563,
+      "box": [
+        125,
+        496,
+        450,
+        522
+      ]
+    },
+    {
+      "text": "- Managed intravenous therapy",
+      "score": 0.9765,
+      "box": [
+        126,
+        521,
+        419,
+        548
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelISpring Nursing Services, 2006.11–2010.12",
+      "score": 0.979,
+      "box": [
+        116,
+        565,
+        741,
+        589
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9693,
+      "box": [
+        125,
+        588,
+        417,
+        615
+      ]
+    },
+    {
+      "text": "- Collected laboratory spcimens",
+      "score": 0.9935,
+      "box": [
+        126,
+        614,
+        434,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Services Administration, Havenwood University, 2004",
+      "score": 0.9767,
+      "box": [
+        114,
+        723,
+        787,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient discharge planning",
+      "score": 0.9872,
+      "box": [
+        133,
+        748,
+        632,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in fluid and electrolyte balance",
+      "score": 0.9875,
+      "box": [
+        135,
+        774,
+        648,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "ELIZABETH ZIMMERMAN\nTN, USA|+1-635-253-3387 |elizabeth.zimmerman@example.com\nWORK HISTORY\nRegistered Nurses, OpenWay Care Services, 2019.01–2023.01\n- Developed staffing allocation models\n- Managed clinical data analysis\nRegistered Nurses, NewHope Care Center, 2015.01–2019.01\n- Developed interdisciplinary care strategies\n- Managed clinical compliance programs\nRegistered Nurses, Harmony Nursing Services, 2010.12–2015.01\n- Monitored infusion pump settings\n- Managed intravenous therapy\nRegistered Nurses, WelISpring Nursing Services, 2006.11–2010.12\n- Checked medication dosages\n- Collected laboratory spcimens\nEDUCATION\nBachelor's, Health Services Administration, Havenwood University, 2004\n• Completed coursework in patient discharge planning\n• Completed coursework in fluid and electrolyte balance"
+}

@@ -1,0 +1,265 @@
+{
+  "id": "09168",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.019,
+  "n_lines": 19,
+  "mean_score": 0.9774,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSHUA KHAN",
+      "score": 0.9837,
+      "box": [
+        116,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-299-656-9601 |joshua.khan@example.com",
+      "score": 0.9799,
+      "box": [
+        117,
+        151,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skyfield Software, 2019.04–2023.01",
+      "score": 0.9777,
+      "box": [
+        114,
+        288,
+        656,
+        313
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9808,
+      "box": [
+        126,
+        315,
+        443,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9523,
+      "box": [
+        127,
+        340,
+        515,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Corefield Software, 2015.06–2019.04",
+      "score": 0.9856,
+      "box": [
+        115,
+        380,
+        669,
+        406
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.9836,
+      "box": [
+        125,
+        405,
+        542,
+        430
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9911,
+      "box": [
+        126,
+        431,
+        454,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Skyfield Tech, 2011.08–2015.06",
+      "score": 0.9598,
+      "box": [
+        116,
+        472,
+        620,
+        496
+      ]
+    },
+    {
+      "text": "- Built notification systems",
+      "score": 0.9856,
+      "box": [
+        125,
+        497,
+        371,
+        520
+      ]
+    },
+    {
+      "text": "- Improved system reliability",
+      "score": 0.9535,
+      "box": [
+        126,
+        521,
+        388,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudstone Software, 2007.10–2011.08",
+      "score": 0.9897,
+      "box": [
+        115,
+        563,
+        690,
+        588
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9869,
+      "box": [
+        125,
+        588,
+        562,
+        614
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.9824,
+      "box": [
+        126,
+        613,
+        502,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Plainview University, 2006",
+      "score": 0.9642,
+      "box": [
+        115,
+        725,
+        470,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in scripting languages",
+      "score": 0.9461,
+      "box": [
+        132,
+        748,
+        569,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of big data systems",
+      "score": 0.9845,
+      "box": [
+        133,
+        773,
+        498,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "JOSHUA KHAN\nCA, USA|+1-299-656-9601 |joshua.khan@example.com\nWORK HISTORY\nSoftware Developers, Skyfield Software, 2019.04–2023.01\n- Designed observability platforms\n- Implemented access control frameworks\nSoftware Developers, Corefield Software, 2015.06–2019.04\n- Defined technical documentation standards\n- Led performance tuning initiatives\nSoftware Developers, Skyfield Tech, 2011.08–2015.06\n- Built notification systems\n- Improved system reliability\nSoftware Developers, Cloudstone Software, 2007.10–2011.08\n- Fixed software bugs identified through testing\n- Wrote scripts for data processing tasks\nEDUCATION\nBachelor's, Plainview University, 2006\n• Completed coursework in scripting languages\n• Studied principles of big data systems"
+}

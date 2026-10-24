@@ -1,0 +1,200 @@
+{
+  "id": "16421",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.956,
+  "n_lines": 14,
+  "mean_score": 0.981,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BLAKE WOOD",
+      "score": 0.9573,
+      "box": [
+        114,
+        87,
+        351,
+        123
+      ]
+    },
+    {
+      "text": "GA,USA|+1-835-459-2598|blake.wood@example.com",
+      "score": 0.9792,
+      "box": [
+        115,
+        150,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Rising Stars School, 2021.03–2023.01",
+      "score": 0.9871,
+      "box": [
+        115,
+        289,
+        818,
+        314
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.9817,
+      "box": [
+        125,
+        313,
+        535,
+        338
+      ]
+    },
+    {
+      "text": "- Led professional development planning",
+      "score": 0.9917,
+      "box": [
+        126,
+        339,
+        505,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Field Academy, 2019.05–2021.03",
+      "score": 0.9911,
+      "box": [
+        115,
+        381,
+        835,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted group reading activitties",
+      "score": 0.9693,
+      "box": [
+        126,
+        407,
+        462,
+        431
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.9979,
+      "box": [
+        127,
+        432,
+        443,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Youth Development, Willow Creek University, 2020",
+      "score": 0.98,
+      "box": [
+        114,
+        539,
+        679,
+        565
+      ]
+    },
+    {
+      "text": "Bachelor's, Liberal Arts, Clearwood University, 2018",
+      "score": 0.9757,
+      "box": [
+        115,
+        566,
+        599,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of differentiated instruction",
+      "score": 0.9579,
+      "box": [
+        133,
+        591,
+        564,
+        614
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of early math instruction",
+      "score": 0.9836,
+      "box": [
+        134,
+        616,
+        577,
+        638
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "BLAKE WOOD\nGA,USA|+1-835-459-2598|blake.wood@example.com\nWORK HISTORY\nElementary Middle School Teachers, Rising Stars School, 2021.03–2023.01\n- Established learning outcome benchmarks\n- Led professional development planning\nElementary Middle School Teachers, Bright Field Academy, 2019.05–2021.03\n- Conducted group reading activitties\n- Scheduled instructional activities\nEDUCATION\nMaster's, Youth Development, Willow Creek University, 2020\nBachelor's, Liberal Arts, Clearwood University, 2018\n• Studied principles of differentiated instruction\n• Studied fundamentals of early math instruction"
+}

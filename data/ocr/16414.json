@@ -1,0 +1,187 @@
+{
+  "id": "16414",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.913,
+  "n_lines": 13,
+  "mean_score": 0.9761,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ETHAN DAY",
+      "score": 0.9788,
+      "box": [
+        116,
+        90,
+        314,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-573-976-1145 |ethan.day@example.com",
+      "score": 0.9665,
+      "box": [
+        117,
+        151,
+        634,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Group, 2020.11–2023.01",
+      "score": 0.9686,
+      "box": [
+        114,
+        289,
+        698,
+        314
+      ]
+    },
+    {
+      "text": "- Directed budget planning cycles",
+      "score": 0.9774,
+      "box": [
+        125,
+        314,
+        439,
+        339
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.9634,
+      "box": [
+        126,
+        339,
+        486,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Accounting, 2018.08–2020.11",
+      "score": 0.9835,
+      "box": [
+        114,
+        381,
+        717,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.9856,
+      "box": [
+        126,
+        407,
+        410,
+        430
+      ]
+    },
+    {
+      "text": "- Reviewed vendor payments",
+      "score": 0.9651,
+      "box": [
+        125,
+        430,
+        400,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Finance, Willowbrook University, 2022",
+      "score": 0.9548,
+      "box": [
+        115,
+        541,
+        658,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial compliance basics",
+      "score": 0.9876,
+      "box": [
+        133,
+        566,
+        641,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in regulatory reporting",
+      "score": 0.9739,
+      "box": [
+        133,
+        590,
+        571,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ETHAN DAY\nGA, USA|+1-573-976-1145 |ethan.day@example.com\nWORK HISTORY\nAccountants Auditors, Integrity Count Group, 2020.11–2023.01\n- Directed budget planning cycles\n- Designed financial oversight systems\nAccountants Auditors, OpenBooks Accounting, 2018.08–2020.11\n- Prepared audit confirmations\n- Reviewed vendor payments\nEDUCATION\nAssociate's degree, Finance, Willowbrook University, 2022\n• Completed coursework in financial compliance basics\n• Completed coursework in regulatory reporting"
+}

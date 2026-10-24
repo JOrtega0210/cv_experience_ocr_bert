@@ -1,0 +1,187 @@
+{
+  "id": "08566",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.924,
+  "n_lines": 13,
+  "mean_score": 0.9837,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JEAN LAM",
+      "score": 0.9612,
+      "box": [
+        115,
+        88,
+        290,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-299-381-9741 |jean.lam@example.com",
+      "score": 0.9908,
+      "box": [
+        117,
+        150,
+        620,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9788,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Group, 2021.04–2023.01",
+      "score": 0.9719,
+      "box": [
+        114,
+        289,
+        698,
+        313
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9756,
+      "box": [
+        125,
+        313,
+        494,
+        339
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.9856,
+      "box": [
+        126,
+        339,
+        478,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Financial Group, 2019.06–221.04",
+      "score": 0.9803,
+      "box": [
+        114,
+        381,
+        763,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9926,
+      "box": [
+        127,
+        408,
+        404,
+        428
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.9953,
+      "box": [
+        126,
+        431,
+        436,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Administration, Harborview University, 2018",
+      "score": 0.9888,
+      "box": [
+        114,
+        539,
+        721,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting software applications",
+      "score": 0.9859,
+      "box": [
+        133,
+        565,
+        691,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of break-even analysis",
+      "score": 0.9833,
+      "box": [
+        133,
+        590,
+        564,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JEAN LAM\nCA, USA|+1-299-381-9741 |jean.lam@example.com\nWORK HISTORY\nAccountants Auditors, Integrity Count Group, 2021.04–2023.01\n- Established financial data governance\n- Led regulatory compliance initiatives\nAccountants Auditors, CoreLedger Financial Group, 2019.06–221.04\n- Assisted with audit fieldwork\n- Updated general ledger records\nEDUCATION\nBachelor's, Business Administration, Harborview University, 2018\n• Completed coursework in accounting software applications\n• Studied fundamentals of break-even analysis"
+}

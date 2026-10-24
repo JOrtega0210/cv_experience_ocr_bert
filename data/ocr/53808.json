@@ -1,0 +1,174 @@
+{
+  "id": "53808",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.847,
+  "n_lines": 12,
+  "mean_score": 0.9813,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANSONVO",
+      "score": 0.9975,
+      "box": [
+        115,
+        88,
+        298,
+        123
+      ]
+    },
+    {
+      "text": "TX, USA|+1-793-423-6016 |anson.vo@example.com",
+      "score": 0.9671,
+      "box": [
+        114,
+        150,
+        624,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.982,
+      "box": [
+        114,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorLine Builders, 2020.11–2023.01",
+      "score": 0.9752,
+      "box": [
+        115,
+        290,
+        694,
+        313
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.9887,
+      "box": [
+        126,
+        315,
+        476,
+        338
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9661,
+      "box": [
+        126,
+        339,
+        394,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearStone Construction, 2016.07–2018.09",
+      "score": 0.9802,
+      "box": [
+        115,
+        382,
+        736,
+        405
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9867,
+      "box": [
+        126,
+        408,
+        367,
+        428
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9703,
+      "box": [
+        125,
+        430,
+        406,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Site Management, Lakewood High School, 2006",
+      "score": 0.9859,
+      "box": [
+        116,
+        541,
+        946,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction planning",
+      "score": 0.9777,
+      "box": [
+        132,
+        564,
+        576,
+        590
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "ANSONVO\nTX, USA|+1-793-423-6016 |anson.vo@example.com\nWORK HISTORY\nConstruction Laborers, AnchorLine Builders, 2020.11–2023.01\n- Developed site performance metrics\n- Directed project scheduling\nConstruction Laborers, ClearStone Construction, 2016.07–2018.09\n- Installed basic formwork\n- Installed temporary supports\nEDUCATION\nHigh school graduate/GED, Construction Site Management, Lakewood High School, 2006\n• Studied fundamentals of construction planning"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "05280",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.953,
+  "n_lines": 16,
+  "mean_score": 0.9774,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "GAGE CHUNG",
+      "score": 0.9676,
+      "box": [
+        117,
+        90,
+        348,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-521-622-6318|gage.chung@example.com",
+      "score": 0.9835,
+      "box": [
+        117,
+        151,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9872,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Group, 2020.10–2023.01",
+      "score": 0.9833,
+      "box": [
+        114,
+        289,
+        667,
+        313
+      ]
+    },
+    {
+      "text": "- Developed financial performance metrics",
+      "score": 0.9807,
+      "box": [
+        127,
+        315,
+        520,
+        338
+      ]
+    },
+    {
+      "text": "- Managed financial compliance programs",
+      "score": 0.9812,
+      "box": [
+        126,
+        339,
+        517,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Services, 2018.07–2020.10",
+      "score": 0.9806,
+      "box": [
+        114,
+        381,
+        743,
+        406
+      ]
+    },
+    {
+      "text": "- Developed financial policies",
+      "score": 0.9678,
+      "box": [
+        125,
+        406,
+        400,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared statutory filings",
+      "score": 0.9424,
+      "box": [
+        126,
+        430,
+        374,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Advisors Group, 2013.06–2015.09",
+      "score": 0.9785,
+      "box": [
+        114,
+        471,
+        741,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.9867,
+      "box": [
+        125,
+        496,
+        358,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with financial statement preparation",
+      "score": 0.9917,
+      "box": [
+        126,
+        521,
+        555,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Planning, Willowhaven University, 2013",
+      "score": 0.9642,
+      "box": [
+        114,
+        631,
+        680,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit risk modeling",
+      "score": 0.9863,
+      "box": [
+        134,
+        658,
+        563,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting controls testing",
+      "score": 0.957,
+      "box": [
+        135,
+        683,
+        635,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "GAGE CHUNG\nCA, USA|+1-521-622-6318|gage.chung@example.com\nWORK HISTORY\nAccountants Auditors, ClearCount Group, 2020.10–2023.01\n- Developed financial performance metrics\n- Managed financial compliance programs\nAccountants Auditors, Reliable Balance Services, 2018.07–2020.10\n- Developed financial policies\n- Prepared statutory filings\nAccountants Auditors, FairCount Advisors Group, 2013.06–2015.09\n- Prepared trial balances\n- Assisted with financial statement preparation\nEDUCATION\nBachelor's, Financial Planning, Willowhaven University, 2013\n• Completed coursework in audit risk modeling\n• Completed coursework in accounting controls testing"
+}

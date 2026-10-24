@@ -1,0 +1,265 @@
+{
+  "id": "29278",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.88,
+  "n_lines": 19,
+  "mean_score": 0.9822,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AMY BROOKS",
+      "score": 0.9537,
+      "box": [
+        116,
+        90,
+        348,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-220-608-7324 |amy.brooks@example.com",
+      "score": 0.9804,
+      "box": [
+        115,
+        150,
+        653,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonebyte Tech, 2019.06–2023.01",
+      "score": 0.9897,
+      "box": [
+        116,
+        290,
+        641,
+        313
+      ]
+    },
+    {
+      "text": "- Designed high-availability systems",
+      "score": 0.9768,
+      "box": [
+        126,
+        314,
+        461,
+        339
+      ]
+    },
+    {
+      "text": "- Designed deployment strategies",
+      "score": 0.9813,
+      "box": [
+        126,
+        339,
+        441,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Digital, 2015.10–2019.06",
+      "score": 0.9844,
+      "box": [
+        115,
+        381,
+        626,
+        406
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9903,
+      "box": [
+        126,
+        406,
+        447,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed architectural proposals",
+      "score": 0.9733,
+      "box": [
+        126,
+        431,
+        449,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Datacrest Software, 2012.02–2015.10",
+      "score": 0.9902,
+      "box": [
+        115,
+        471,
+        674,
+        496
+      ]
+    },
+    {
+      "text": "- Managed deployment pipelines",
+      "score": 0.9681,
+      "box": [
+        126,
+        498,
+        431,
+        521
+      ]
+    },
+    {
+      "text": "- Improved code coverage",
+      "score": 0.9796,
+      "box": [
+        126,
+        521,
+        373,
+        548
+      ]
+    },
+    {
+      "text": "Software Developers, Silverwave Technologies, 2008.06–2012.02",
+      "score": 0.9811,
+      "box": [
+        115,
+        563,
+        728,
+        589
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.9895,
+      "box": [
+        125,
+        588,
+        495,
+        614
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9814,
+      "box": [
+        126,
+        614,
+        422,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Oakridge University, 2009",
+      "score": 0.986,
+      "box": [
+        115,
+        725,
+        466,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in software architecture",
+      "score": 0.9912,
+      "box": [
+        134,
+        750,
+        582,
+        770
+      ]
+    },
+    {
+      "text": "• Completed coursework in software engineering",
+      "score": 0.9818,
+      "box": [
+        134,
+        772,
+        583,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "AMY BROOKS\nMN, USA|+1-220-608-7324 |amy.brooks@example.com\nWORK HISTORY\nSoftware Developers, Stonebyte Tech, 2019.06–2023.01\n- Designed high-availability systems\n- Designed deployment strategies\nSoftware Developers, Netline Digital, 2015.10–2019.06\n- Designed caching infrastructures\n- Reviewed architectural proposals\nSoftware Developers, Datacrest Software, 2012.02–2015.10\n- Managed deployment pipelines\n- Improved code coverage\nSoftware Developers, Silverwave Technologies, 2008.06–2012.02\n- Performed basic performance profiling\n- Implemented REST endpoints\nEDUCATION\nBachelor's, Oakridge University, 2009\n• Completed coursework in software architecture\n• Completed coursework in software engineering"
+}

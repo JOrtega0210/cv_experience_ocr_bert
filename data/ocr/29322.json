@@ -1,0 +1,187 @@
+{
+  "id": "29322",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.853,
+  "n_lines": 13,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSEPH GARDNER",
+      "score": 0.9782,
+      "box": [
+        114,
+        87,
+        433,
+        123
+      ]
+    },
+    {
+      "text": "MN, USA|+1-754-279-2646|joseph.gardner@example.com",
+      "score": 0.9928,
+      "box": [
+        115,
+        150,
+        684,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Stone Builders, 2021.01–2023.01",
+      "score": 0.9901,
+      "box": [
+        115,
+        290,
+        733,
+        312
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.9838,
+      "box": [
+        125,
+        313,
+        439,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented workflow optimization",
+      "score": 0.9617,
+      "box": [
+        127,
+        340,
+        466,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextLine Construction, 2017.08–2019.8",
+      "score": 0.9893,
+      "box": [
+        116,
+        382,
+        713,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9808,
+      "box": [
+        126,
+        407,
+        425,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.9677,
+      "box": [
+        126,
+        431,
+        555,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Mechanical Technology, Crossfield University, 2009",
+      "score": 0.9734,
+      "box": [
+        115,
+        539,
+        848,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic excavation methods",
+      "score": 0.9867,
+      "box": [
+        134,
+        567,
+        628,
+        587
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of site leveling",
+      "score": 0.9852,
+      "box": [
+        133,
+        591,
+        488,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JOSEPH GARDNER\nMN, USA|+1-754-279-2646|joseph.gardner@example.com\nWORK HISTORY\nConstruction Laborers, Precision Stone Builders, 2021.01–2023.01\n- Reviewed engineering drawings\n- Implemented workflow optimization\nConstruction Laborers, NextLine Construction, 2017.08–2019.8\n- Assisted with excavation tasks\n- Prepared tools and equipment for daily tasks\nEDUCATION\nSome college (no degree), Mechanical Technology, Crossfield University, 2009\n• Completed coursework in basic excavation methods\n• Studied fundamentals of site leveling"
+}

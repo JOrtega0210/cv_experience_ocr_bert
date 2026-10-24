@@ -1,0 +1,200 @@
+{
+  "id": "15027",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.967,
+  "n_lines": 14,
+  "mean_score": 0.9841,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ALEXODOM",
+      "score": 0.9958,
+      "box": [
+        115,
+        88,
+        322,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA |+1-282-597-1687|alex.odom@example.com",
+      "score": 0.9821,
+      "box": [
+        116,
+        151,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Financial Group, 2019.11–2022.03",
+      "score": 0.9823,
+      "box": [
+        114,
+        289,
+        765,
+        313
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.983,
+      "box": [
+        126,
+        313,
+        453,
+        337
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9673,
+      "box": [
+        126,
+        338,
+        489,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Financial, 2016.04–2018.09",
+      "score": 0.9863,
+      "box": [
+        115,
+        382,
+        714,
+        405
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.9808,
+      "box": [
+        127,
+        408,
+        436,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed vendor payments",
+      "score": 0.9653,
+      "box": [
+        125,
+        430,
+        400,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Financial Management, Clear Ridge University, 2015",
+      "score": 0.9828,
+      "box": [
+        114,
+        539,
+        696,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting and Finance, Windfield University, 2013",
+      "score": 0.9857,
+      "box": [
+        114,
+        565,
+        702,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in payroll accounting",
+      "score": 0.9937,
+      "box": [
+        134,
+        590,
+        557,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in spreadsheet applications",
+      "score": 0.9898,
+      "box": [
+        134,
+        615,
+        619,
+        638
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "ALEXODOM\nGA, USA |+1-282-597-1687|alex.odom@example.com\nWORK HISTORY\nAccountants Auditors, FairBalance Financial Group, 2019.11–2022.03\n- Led financial data standardization\n- Directed financial system architecture\nAccountants Auditors, Reliable Path Financial, 2016.04–2018.09\n- Updated general ledger records\n- Reviewed vendor payments\nEDUCATION\nMaster's, Financial Management, Clear Ridge University, 2015\nBachelor's, Accounting and Finance, Windfield University, 2013\n• Completed coursework in payroll accounting\n• Completed coursework in spreadsheet applications"
+}

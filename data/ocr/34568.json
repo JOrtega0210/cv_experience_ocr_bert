@@ -1,0 +1,187 @@
+{
+  "id": "34568",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.802,
+  "n_lines": 13,
+  "mean_score": 0.9806,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARYAM CANTRELL",
+      "score": 0.9856,
+      "box": [
+        116,
+        90,
+        457,
+        120
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-531-372-8879|maryam.cantrell@example.com",
+      "score": 0.9764,
+      "box": [
+        116,
+        151,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.98,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Group, 2021.01–2023.01",
+      "score": 0.9872,
+      "box": [
+        114,
+        289,
+        667,
+        313
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9733,
+      "box": [
+        127,
+        315,
+        450,
+        338
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9803,
+      "box": [
+        126,
+        339,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Financial, 2018.12–2021.01",
+      "score": 0.9829,
+      "box": [
+        114,
+        381,
+        692,
+        405
+      ]
+    },
+    {
+      "text": "- Recorded payroll entries",
+      "score": 0.9356,
+      "box": [
+        126,
+        408,
+        367,
+        429
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.9941,
+      "box": [
+        126,
+        430,
+        422,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        266,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting and Auditing, Windermere University, 2023",
+      "score": 0.9697,
+      "box": [
+        114,
+        539,
+        731,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in trial balance preparation",
+      "score": 0.99,
+      "box": [
+        134,
+        566,
+        613,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in business mathematics",
+      "score": 0.9944,
+      "box": [
+        134,
+        591,
+        596,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "MARYAM CANTRELL\nNJ, USA|+1-531-372-8879|maryam.cantrell@example.com\nWORK HISTORY\nAccountants Auditors, ClearCount Group, 2021.01–2023.01\n- Designed accounting frameworks\n- Directed accounting operations planning\nAccountants Auditors, TrustCount Financial, 2018.12–2021.01\n- Recorded payroll entries\n- Assisted with inventory counts\nEDUCATION\nBachelor's, Accounting and Auditing, Windermere University, 2023\n• Completed coursework in trial balance preparation\n• Completed coursework in business mathematics"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "45309",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.752,
+  "n_lines": 10,
+  "mean_score": 0.984,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JESSICA MORGAN",
+      "score": 0.9867,
+      "box": [
+        116,
+        90,
+        423,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-302-773-2202 |jessica.morgan@example.com",
+      "score": 0.9813,
+      "box": [
+        115,
+        150,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9823,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Financial, 2020.04–2020.11",
+      "score": 0.9951,
+      "box": [
+        116,
+        291,
+        706,
+        311
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.9746,
+      "box": [
+        127,
+        315,
+        358,
+        339
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9805,
+      "box": [
+        126,
+        339,
+        371,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Management Information Systems, Silverfield University, 2016",
+      "score": 0.9765,
+      "box": [
+        115,
+        449,
+        800,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in nonprofit financial management",
+      "score": 0.9855,
+      "box": [
+        133,
+        474,
+        681,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of forensic accounting",
+      "score": 0.9793,
+      "box": [
+        133,
+        497,
+        559,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JESSICA MORGAN\nPA, USA|+1-302-773-2202 |jessica.morgan@example.com\nWORK HISTORY\nAccountants Auditors, EverBalance Financial, 2020.04–2020.11\n- Prepared trial balances\n- Compiled audit evidence\nEDUCATION\nBachelor's, Management Information Systems, Silverfield University, 2016\n• Completed coursework in nonprofit financial management\n• Studied fundamentals of forensic accounting"
+}

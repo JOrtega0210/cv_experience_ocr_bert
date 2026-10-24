@@ -1,0 +1,148 @@
+{
+  "id": "02050",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.813,
+  "n_lines": 10,
+  "mean_score": 0.9872,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ISABELLE HUFF",
+      "score": 0.9957,
+      "box": [
+        115,
+        90,
+        382,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-552-600-4676|isabelle.huff@example.com",
+      "score": 0.9749,
+      "box": [
+        115,
+        152,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corefield Software, 2022.05–2023.01",
+      "score": 0.9918,
+      "box": [
+        116,
+        290,
+        667,
+        313
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9887,
+      "box": [
+        127,
+        315,
+        501,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9904,
+      "box": [
+        126,
+        339,
+        479,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Amber Hills University, 2023",
+      "score": 0.9903,
+      "box": [
+        115,
+        449,
+        488,
+        472
+      ]
+    },
+    {
+      "text": "•Completed coursework in schema design",
+      "score": 0.9695,
+      "box": [
+        132,
+        473,
+        530,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of software reliability",
+      "score": 0.9875,
+      "box": [
+        133,
+        497,
+        507,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ISABELLE HUFF\nAZ, USA|+1-552-600-4676|isabelle.huff@example.com\nWORK HISTORY\nSoftware Developers, Corefield Software, 2022.05–2023.01\n- Configured development environments\n- Assisted with system documentation\nEDUCATION\nBachelor's, Amber Hills University, 2023\n•Completed coursework in schema design\n• Studied principles of software reliability"
+}

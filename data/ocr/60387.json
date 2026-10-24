@@ -1,0 +1,226 @@
+{
+  "id": "60387",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.886,
+  "n_lines": 16,
+  "mean_score": 0.9773,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HANNAH NORTON",
+      "score": 0.963,
+      "box": [
+        116,
+        90,
+        417,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-695-453-2755|hannah.norton@example.com",
+      "score": 0.9779,
+      "box": [
+        115,
+        150,
+        672,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9813,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Care Group, 2020.06–2023.01",
+      "score": 0.9725,
+      "box": [
+        115,
+        289,
+        673,
+        314
+      ]
+    },
+    {
+      "text": "- Managed patient safety reporting systems",
+      "score": 0.9578,
+      "box": [
+        126,
+        314,
+        530,
+        339
+      ]
+    },
+    {
+      "text": "- Directed patient care coordination",
+      "score": 0.9616,
+      "box": [
+        126,
+        339,
+        454,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenCare Nursing Services, 2016.01–2018.08",
+      "score": 0.9727,
+      "box": [
+        116,
+        383,
+        735,
+        406
+      ]
+    },
+    {
+      "text": "- Managed pain control plans",
+      "score": 0.9682,
+      "box": [
+        126,
+        406,
+        399,
+        431
+      ]
+    },
+    {
+      "text": "- Coordinated patient follow-ups",
+      "score": 0.9799,
+      "box": [
+        126,
+        430,
+        425,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHands Care Center, 2012.05–2015.01",
+      "score": 0.9869,
+      "box": [
+        116,
+        472,
+        695,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobility",
+      "score": 0.9908,
+      "box": [
+        125,
+        496,
+        409,
+        522
+      ]
+    },
+    {
+      "text": "- Monitored patient intake and output",
+      "score": 0.9638,
+      "box": [
+        126,
+        521,
+        470,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Registered Nursing, Silverfield University, 2009",
+      "score": 0.9884,
+      "box": [
+        115,
+        632,
+        662,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of mental health nursing",
+      "score": 0.9888,
+      "box": [
+        132,
+        656,
+        541,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in sterile technique",
+      "score": 0.985,
+      "box": [
+        135,
+        683,
+        541,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "HANNAH NORTON\nWI, USA|+1-695-453-2755|hannah.norton@example.com\nWORK HISTORY\nRegistered Nurses, Harmony Care Group, 2020.06–2023.01\n- Managed patient safety reporting systems\n- Directed patient care coordination\nRegistered Nurses, OpenCare Nursing Services, 2016.01–2018.08\n- Managed pain control plans\n- Coordinated patient follow-ups\nRegistered Nurses, KindHands Care Center, 2012.05–2015.01\n- Assisted with patient mobility\n- Monitored patient intake and output\nEDUCATION\nBachelor's, Registered Nursing, Silverfield University, 2009\n• Studied principles of mental health nursing\n• Completed coursework in sterile technique"
+}

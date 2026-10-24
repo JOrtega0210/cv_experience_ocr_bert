@@ -1,0 +1,200 @@
+{
+  "id": "15400",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.96,
+  "n_lines": 14,
+  "mean_score": 0.9821,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TAYLOR HART",
+      "score": 0.9772,
+      "box": [
+        114,
+        90,
+        358,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-841-759-9909|taylor.hart@example.com",
+      "score": 0.9778,
+      "box": [
+        116,
+        151,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9834,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Horizons School, 2020.05–2023.01",
+      "score": 0.9736,
+      "box": [
+        116,
+        290,
+        886,
+        313
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.9927,
+      "box": [
+        126,
+        315,
+        533,
+        338
+      ]
+    },
+    {
+      "text": "- Led instructional technology integration",
+      "score": 0.9866,
+      "box": [
+        126,
+        339,
+        504,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, ClearView Academy, 2017.09–2020.05",
+      "score": 0.9579,
+      "box": [
+        116,
+        382,
+        824,
+        405
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.9811,
+      "box": [
+        126,
+        406,
+        518,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9851,
+      "box": [
+        125,
+        430,
+        416,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Basic Education Studies, Crestline University, 2018",
+      "score": 0.9836,
+      "box": [
+        114,
+        539,
+        682,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Support, Silverview University, 2016",
+      "score": 0.9738,
+      "box": [
+        114,
+        564,
+        675,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom management techniques",
+      "score": 0.9915,
+      "box": [
+        134,
+        590,
+        718,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom collaboration",
+      "score": 0.9867,
+      "box": [
+        135,
+        616,
+        609,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "TAYLOR HART\nGA, USA |+1-841-759-9909|taylor.hart@example.com\nWORK HISTORY\nElementary Middle School Teachers, Discovery Horizons School, 2020.05–2023.01\n- Developed instructional evaluation metrics\n- Led instructional technology integration\nElementary Middle School Teachers, ClearView Academy, 2017.09–2020.05\n- Supported standardized testing sessions\n- Prepared visual teaching aids\nEDUCATION\nMaster's, Basic Education Studies, Crestline University, 2018\nBachelor's, Educational Support, Silverview University, 2016\n• Completed coursework in classroom management techniques\n• Completed coursework in classroom collaboration"
+}

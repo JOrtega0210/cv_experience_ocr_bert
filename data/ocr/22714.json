@@ -1,0 +1,187 @@
+{
+  "id": "22714",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.878,
+  "n_lines": 13,
+  "mean_score": 0.9827,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TYQUON REYNOLDS",
+      "score": 0.9779,
+      "box": [
+        115,
+        90,
+        455,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA|+1-741-746-4015|tyquon.reynolds@example.com",
+      "score": 0.9909,
+      "box": [
+        115,
+        150,
+        687,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9822,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardRock Construction, 2021.04–2023.01",
+      "score": 0.989,
+      "box": [
+        115,
+        290,
+        723,
+        313
+      ]
+    },
+    {
+      "text": "- Supervised multiple work crews",
+      "score": 0.9639,
+      "box": [
+        126,
+        315,
+        436,
+        338
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9679,
+      "box": [
+        126,
+        339,
+        465,
+        362
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmCraft Construction, 2019.06–2021.04",
+      "score": 0.984,
+      "box": [
+        114,
+        381,
+        719,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.9846,
+      "box": [
+        125,
+        406,
+        555,
+        431
+      ]
+    },
+    {
+      "text": "- Loaded and unloaded construction materials",
+      "score": 0.9881,
+      "box": [
+        126,
+        432,
+        553,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9978,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Services, Willow Creek University, 2021",
+      "score": 0.9712,
+      "box": [
+        114,
+        539,
+        795,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in building layout techniques",
+      "score": 0.9868,
+      "box": [
+        133,
+        565,
+        629,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of scaffolding assembly",
+      "score": 0.9904,
+      "box": [
+        132,
+        590,
+        573,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "TYQUON REYNOLDS\nKY, USA|+1-741-746-4015|tyquon.reynolds@example.com\nWORK HISTORY\nConstruction Laborers, HardRock Construction, 2021.04–2023.01\n- Supervised multiple work crews\n- Directed site optimization initiatives\nConstruction Laborers, FirmCraft Construction, 2019.06–2021.04\n- Prepared tools and equipment for daily tasks\n- Loaded and unloaded construction materials\nEDUCATION\nAssociate's degree, Construction Services, Willow Creek University, 2021\n• Completed coursework in building layout techniques\n• Studied fundamentals of scaffolding assembly"
+}

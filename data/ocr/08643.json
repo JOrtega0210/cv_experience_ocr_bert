@@ -1,0 +1,148 @@
+{
+  "id": "08643",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.884,
+  "n_lines": 10,
+  "mean_score": 0.9821,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ELIZABETH LLOYD",
+      "score": 0.9808,
+      "box": [
+        117,
+        90,
+        428,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-528-307-5972 |elizabeth.lloyd@example.com",
+      "score": 0.9772,
+      "box": [
+        117,
+        151,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9788,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Services, 2020.09–2022.04",
+      "score": 0.9751,
+      "box": [
+        114,
+        289,
+        727,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9843,
+      "box": [
+        127,
+        315,
+        453,
+        338
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9951,
+      "box": [
+        127,
+        340,
+        549,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting Practice, Fairfield University, 2006",
+      "score": 0.9661,
+      "box": [
+        115,
+        449,
+        651,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in data visualization basics",
+      "score": 0.981,
+      "box": [
+        133,
+        475,
+        613,
+        495
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of sustainability accounting basics",
+      "score": 0.984,
+      "box": [
+        133,
+        497,
+        670,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ELIZABETH LLOYD\nCA, USA|+1-528-307-5972 |elizabeth.lloyd@example.com\nWORK HISTORY\nAccountants Auditors, Precise Ledger Services, 2020.09–2022.04\n- Reviewed expense classifications\n- Processed accounts receivable transactions\nEDUCATION\nBachelor's, Accounting Practice, Fairfield University, 2006\n• Completed coursework in data visualization basics\n• Studied fundamentals of sustainability accounting basics"
+}

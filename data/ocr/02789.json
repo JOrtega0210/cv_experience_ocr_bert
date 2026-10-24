@@ -1,0 +1,213 @@
+{
+  "id": "02789",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.939,
+  "n_lines": 15,
+  "mean_score": 0.985,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LILYANN FRYE",
+      "score": 0.9798,
+      "box": [
+        116,
+        90,
+        361,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA|+1-971-258-3859 |lilyann.frye@example.com",
+      "score": 0.9901,
+      "box": [
+        117,
+        151,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenLife Care Services, 2020.04–2023.01",
+      "score": 0.9739,
+      "box": [
+        116,
+        289,
+        694,
+        312
+      ]
+    },
+    {
+      "text": "- Managed long-term care strategies",
+      "score": 0.9804,
+      "box": [
+        126,
+        314,
+        466,
+        339
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9769,
+      "box": [
+        127,
+        340,
+        548,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Nursing, 2017.06–2020.04",
+      "score": 0.9848,
+      "box": [
+        115,
+        381,
+        675,
+        406
+      ]
+    },
+    {
+      "text": "- Managed geriatric care plans",
+      "score": 0.9891,
+      "box": [
+        126,
+        406,
+        412,
+        431
+      ]
+    },
+    {
+      "text": "- Developed patient care plans",
+      "score": 0.9886,
+      "box": [
+        126,
+        430,
+        413,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Bridge Nursing, 2011.09–2014.07",
+      "score": 0.9871,
+      "box": [
+        116,
+        472,
+        690,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9888,
+      "box": [
+        125,
+        496,
+        514,
+        522
+      ]
+    },
+    {
+      "text": "- Prepared intravenous solutions",
+      "score": 0.9721,
+      "box": [
+        126,
+        521,
+        431,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Nursing, Westbrook High School, 2006",
+      "score": 0.9921,
+      "box": [
+        116,
+        632,
+        737,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of disease prevention",
+      "score": 0.9866,
+      "box": [
+        132,
+        656,
+        517,
+        681
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "LILYANN FRYE\nCA, USA|+1-971-258-3859 |lilyann.frye@example.com\nWORK HISTORY\nRegistered Nurses, OpenLife Care Services, 2020.04–2023.01\n- Managed long-term care strategies\n- Developed clinical performance dashboards\nRegistered Nurses, GentleHands Nursing, 2017.06–2020.04\n- Managed geriatric care plans\n- Developed patient care plans\nRegistered Nurses, Helping Bridge Nursing, 2011.09–2014.07\n- Assisted with physical therapy exercises\n- Prepared intravenous solutions\nEDUCATION\nHigh school graduate/GED, Nursing, Westbrook High School, 2006\n• Studied principles of disease prevention"
+}

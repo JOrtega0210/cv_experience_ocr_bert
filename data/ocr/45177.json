@@ -1,0 +1,226 @@
+{
+  "id": "45177",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.859,
+  "n_lines": 16,
+  "mean_score": 0.9784,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOANN HOLLAND",
+      "score": 0.9851,
+      "box": [
+        116,
+        90,
+        407,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-558-364-6967 |joann.holland@example.com",
+      "score": 0.9797,
+      "box": [
+        115,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Accounts, 2020.10–2023.01",
+      "score": 0.9803,
+      "box": [
+        114,
+        289,
+        664,
+        314
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9723,
+      "box": [
+        126,
+        314,
+        495,
+        339
+      ]
+    },
+    {
+      "text": "- Designed budgeting methodologies",
+      "score": 0.9787,
+      "box": [
+        126,
+        339,
+        469,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Advisors, 2018.07–2020.10",
+      "score": 0.982,
+      "box": [
+        114,
+        381,
+        706,
+        406
+      ]
+    },
+    {
+      "text": "- Analyzed cost structures",
+      "score": 0.9547,
+      "box": [
+        127,
+        406,
+        370,
+        431
+      ]
+    },
+    {
+      "text": "- Performed revenue recognition analysis",
+      "score": 0.9929,
+      "box": [
+        126,
+        430,
+        510,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Financial Group, 2016.04–2018.07",
+      "score": 0.9907,
+      "box": [
+        114,
+        471,
+        809,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.9749,
+      "box": [
+        127,
+        498,
+        445,
+        521
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9655,
+      "box": [
+        126,
+        521,
+        510,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Finance, Cedar Ridge University, 2015",
+      "score": 0.9775,
+      "box": [
+        115,
+        632,
+        585,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of employee benefit accounting",
+      "score": 0.9569,
+      "box": [
+        132,
+        656,
+        642,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in bank reconciliation",
+      "score": 0.9798,
+      "box": [
+        135,
+        681,
+        563,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JOANN HOLLAND\nPA, USA|+1-558-364-6967 |joann.holland@example.com\nWORK HISTORY\nAccountants Auditors, Integrity Accounts, 2020.10–2023.01\n- Directed accounting training programs\n- Designed budgeting methodologies\nAccountants Auditors, SteadyCount Advisors, 2018.07–2020.10\n- Analyzed cost structures\n- Performed revenue recognition analysis\nAccountants Auditors, Reliable Balance Financial Group, 2016.04–2018.07\n- Prepared account reconciliations\n- Maintained accounting software records\nEDUCATION\nBachelor's, Finance, Cedar Ridge University, 2015\n• Studied fundamentals of employee benefit accounting\n• Completed coursework in bank reconciliation"
+}

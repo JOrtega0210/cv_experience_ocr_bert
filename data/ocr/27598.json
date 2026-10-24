@@ -1,0 +1,148 @@
+{
+  "id": "27598",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.756,
+  "n_lines": 10,
+  "mean_score": 0.984,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MICHAEL WHITNEY",
+      "score": 0.9859,
+      "box": [
+        117,
+        90,
+        434,
+        120
+      ]
+    },
+    {
+      "text": "MI, USA|+1-763-997-9901 | michael.whitney@example.com",
+      "score": 0.9632,
+      "box": [
+        116,
+        152,
+        684,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeNest Nursing Services, 2019.08–2021.01",
+      "score": 0.991,
+      "box": [
+        116,
+        290,
+        714,
+        313
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.9884,
+      "box": [
+        126,
+        314,
+        418,
+        339
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9742,
+      "box": [
+        126,
+        339,
+        435,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Health Technology, Goldenfield University, 2010",
+      "score": 0.9831,
+      "box": [
+        116,
+        449,
+        815,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in fluid and electrolyte balance",
+      "score": 0.9833,
+      "box": [
+        133,
+        474,
+        648,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing ethics",
+      "score": 0.9882,
+      "box": [
+        133,
+        499,
+        517,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "MICHAEL WHITNEY\nMI, USA|+1-763-997-9901 | michael.whitney@example.com\nWORK HISTORY\nRegistered Nurses, LifeNest Nursing Services, 2019.08–2021.01\n- Provided post-procedure care\n- Monitored patient dietary needs\nEDUCATION\nSome college (no degree), Health Technology, Goldenfield University, 2010\n• Completed coursework in fluid and electrolyte balance\n• Completed coursework in nursing ethics"
+}

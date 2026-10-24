@@ -1,0 +1,265 @@
+{
+  "id": "44916",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.904,
+  "n_lines": 19,
+  "mean_score": 0.9791,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RYAN STOKES",
+      "score": 0.9776,
+      "box": [
+        116,
+        90,
+        360,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-278-261-6215 |ryan.stokes@example.com",
+      "score": 0.9695,
+      "box": [
+        115,
+        150,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Bluebeam Construction, 2019.02–2023.01",
+      "score": 0.9886,
+      "box": [
+        115,
+        290,
+        724,
+        313
+      ]
+    },
+    {
+      "text": "- Developed cost estimation models",
+      "score": 0.9763,
+      "box": [
+        126,
+        315,
+        460,
+        338
+      ]
+    },
+    {
+      "text": "- Managed multi-phase projects",
+      "score": 0.9815,
+      "box": [
+        126,
+        339,
+        423,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueFrame Construction, 2015.02–2019.02",
+      "score": 0.9912,
+      "box": [
+        115,
+        381,
+        735,
+        406
+      ]
+    },
+    {
+      "text": "- Developed project risk assessments",
+      "score": 0.9504,
+      "box": [
+        126,
+        406,
+        476,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented workflow optimization",
+      "score": 0.97,
+      "box": [
+        126,
+        431,
+        467,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, Hardline Builders, 2011.02–2015.02",
+      "score": 0.9778,
+      "box": [
+        115,
+        472,
+        667,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared cost estimates",
+      "score": 0.9799,
+      "box": [
+        127,
+        499,
+        367,
+        520
+      ]
+    },
+    {
+      "text": "- Aligned structural components",
+      "score": 0.9906,
+      "box": [
+        126,
+        521,
+        423,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildLine Co., 2007.02–2011.02",
+      "score": 0.9624,
+      "box": [
+        114,
+        563,
+        633,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9664,
+      "box": [
+        125,
+        589,
+        426,
+        614
+      ]
+    },
+    {
+      "text": "- Set up ladders and basic scaffolding",
+      "score": 0.9789,
+      "box": [
+        127,
+        615,
+        476,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Some college (no degree), General Construction, Cedar Valley University, 2009",
+      "score": 0.9888,
+      "box": [
+        115,
+        723,
+        852,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of wall systems",
+      "score": 0.9789,
+      "box": [
+        131,
+        747,
+        498,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in concrete curing methods",
+      "score": 0.9911,
+      "box": [
+        134,
+        772,
+        618,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "RYAN STOKES\nPA, USA|+1-278-261-6215 |ryan.stokes@example.com\nWORK HISTORY\nConstruction Laborers, Bluebeam Construction, 2019.02–2023.01\n- Developed cost estimation models\n- Managed multi-phase projects\nConstruction Laborers, TrueFrame Construction, 2015.02–2019.02\n- Developed project risk assessments\n- Implemented workflow optimization\nConstruction Laborers, Hardline Builders, 2011.02–2015.02\n- Prepared cost estimates\n- Aligned structural components\nConstruction Laborers, BuildLine Co., 2007.02–2011.02\n- Prepared scaffolding platforms\n- Set up ladders and basic scaffolding\nEDUCATION\nSome college (no degree), General Construction, Cedar Valley University, 2009\n• Studied fundamentals of wall systems\n• Completed coursework in concrete curing methods"
+}

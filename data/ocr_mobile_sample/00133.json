@@ -1,0 +1,148 @@
+{
+  "id": "00133",
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "PP-OCRv5_mobile_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.279,
+  "n_lines": 10,
+  "mean_score": 0.9861,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ELIZABETH BRADFORD",
+      "score": 0.9828,
+      "box": [
+        118,
+        91,
+        505,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA| +1-624-901-1183 |elizabeth.bradford@example.com",
+      "score": 0.9809,
+      "box": [
+        118,
+        152,
+        704,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9938,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleCare Health, 2019.01–2022.01",
+      "score": 0.9828,
+      "box": [
+        115,
+        287,
+        648,
+        316
+      ]
+    },
+    {
+      "text": "- Checked laboratory results",
+      "score": 0.9817,
+      "box": [
+        125,
+        312,
+        392,
+        342
+      ]
+    },
+    {
+      "text": "- Assisted with hygiene care",
+      "score": 0.9893,
+      "box": [
+        126,
+        338,
+        391,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Associate's degree, Applied Health Sciences, Pine Valley University, 2014",
+      "score": 0.9731,
+      "box": [
+        117,
+        448,
+        803,
+        475
+      ]
+    },
+    {
+      "text": "• Completed coursework in therapeutic communication",
+      "score": 0.9894,
+      "box": [
+        131,
+        475,
+        639,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of intravenous therapy",
+      "score": 0.9889,
+      "box": [
+        131,
+        495,
+        563,
+        527
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ELIZABETH BRADFORD\nAL, USA| +1-624-901-1183 |elizabeth.bradford@example.com\nWORK HISTORY\nRegistered Nurses, GentleCare Health, 2019.01–2022.01\n- Checked laboratory results\n- Assisted with hygiene care\nEDUCATION\nAssociate's degree, Applied Health Sciences, Pine Valley University, 2014\n• Completed coursework in therapeutic communication\n• Studied fundamentals of intravenous therapy"
+}

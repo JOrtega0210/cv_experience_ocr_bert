@@ -1,0 +1,187 @@
+{
+  "id": "09598",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.889,
+  "n_lines": 13,
+  "mean_score": 0.9798,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "STEPHEN NOLAN",
+      "score": 0.9829,
+      "box": [
+        116,
+        90,
+        405,
+        121
+      ]
+    },
+    {
+      "text": "CO, USA | +1-332-782-1785 | stephen.nolan@example.com",
+      "score": 0.9622,
+      "box": [
+        117,
+        151,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstream Labs, 2018.07–2021.02",
+      "score": 0.9892,
+      "box": [
+        115,
+        290,
+        666,
+        313
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.965,
+      "box": [
+        126,
+        314,
+        431,
+        340
+      ]
+    },
+    {
+      "text": "- Designed Cl/CD frameworks",
+      "score": 0.9704,
+      "box": [
+        126,
+        339,
+        407,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Stoneframe Tech, 2015.06–2018.01",
+      "score": 0.9974,
+      "box": [
+        116,
+        382,
+        655,
+        405
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9806,
+      "box": [
+        125,
+        406,
+        444,
+        431
+      ]
+    },
+    {
+      "text": "- Handled input sanitization",
+      "score": 0.9475,
+      "box": [
+        127,
+        432,
+        382,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Stonegate University, 2003",
+      "score": 0.9807,
+      "box": [
+        115,
+        541,
+        476,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of operating systems",
+      "score": 0.9887,
+      "box": [
+        132,
+        565,
+        511,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in software project management",
+      "score": 0.9882,
+      "box": [
+        133,
+        590,
+        665,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "STEPHEN NOLAN\nCO, USA | +1-332-782-1785 | stephen.nolan@example.com\nWORK HISTORY\nSoftware Developers, Brightstream Labs, 2018.07–2021.02\n- Led system reliability programs\n- Designed Cl/CD frameworks\nSoftware Developers, Stoneframe Tech, 2015.06–2018.01\n- Handled basic deployment tasks\n- Handled input sanitization\nEDUCATION\nBachelor's, Stonegate University, 2003\n• Studied principles of operating systems\n• Completed coursework in software project management"
+}

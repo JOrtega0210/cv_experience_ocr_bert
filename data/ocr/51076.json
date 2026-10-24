@@ -1,0 +1,226 @@
+{
+  "id": "51076",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.826,
+  "n_lines": 16,
+  "mean_score": 0.9826,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HOLLY MACDONALD",
+      "score": 0.9814,
+      "box": [
+        116,
+        90,
+        458,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-314-757-2260|holly.macdonald@example.com",
+      "score": 0.9789,
+      "box": [
+        115,
+        150,
+        689,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9865,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowcrest Tech, 2020.07–2023.01",
+      "score": 0.9847,
+      "box": [
+        115,
+        290,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9767,
+      "box": [
+        126,
+        315,
+        400,
+        338
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.9802,
+      "box": [
+        127,
+        340,
+        543,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Skycore Technologies, 2018.01–2020.07",
+      "score": 0.9854,
+      "box": [
+        115,
+        381,
+        702,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented backend services",
+      "score": 0.9906,
+      "box": [
+        126,
+        407,
+        431,
+        430
+      ]
+    },
+    {
+      "text": "- Designed data models",
+      "score": 0.9894,
+      "box": [
+        126,
+        432,
+        350,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Brightcode Solutions, 2012.08–2015.03",
+      "score": 0.9948,
+      "box": [
+        116,
+        472,
+        688,
+        495
+      ]
+    },
+    {
+      "text": "- Wrote utility scripts",
+      "score": 0.9584,
+      "box": [
+        125,
+        496,
+        318,
+        522
+      ]
+    },
+    {
+      "text": "- Reviewed API documentation",
+      "score": 0.9634,
+      "box": [
+        126,
+        522,
+        417,
+        545
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Riverside University, 2011",
+      "score": 0.9791,
+      "box": [
+        116,
+        631,
+        610,
+        654
+      ]
+    },
+    {
+      "text": "• Completed coursework in inversion of control",
+      "score": 0.98,
+      "box": [
+        133,
+        657,
+        566,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in performance benchmarking",
+      "score": 0.9932,
+      "box": [
+        134,
+        681,
+        642,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "HOLLY MACDONALD\nTX, USA|+1-314-757-2260|holly.macdonald@example.com\nWORK HISTORY\nSoftware Developers, Flowcrest Tech, 2020.07–2023.01\n- Led database design efforts\n- Defined technical documentation standards\nSoftware Developers, Skycore Technologies, 2018.01–2020.07\n- Implemented backend services\n- Designed data models\nSoftware Developers, Brightcode Solutions, 2012.08–2015.03\n- Wrote utility scripts\n- Reviewed API documentation\nEDUCATION\nSome college (no degree), Riverside University, 2011\n• Completed coursework in inversion of control\n• Completed coursework in performance benchmarking"
+}

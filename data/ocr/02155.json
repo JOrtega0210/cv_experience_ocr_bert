@@ -1,0 +1,187 @@
+{
+  "id": "02155",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.899,
+  "n_lines": 13,
+  "mean_score": 0.9816,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LACRETIA WALTERS",
+      "score": 0.9708,
+      "box": [
+        116,
+        90,
+        461,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-593-468-1752 | lacretia.walters@example.com",
+      "score": 0.9727,
+      "box": [
+        116,
+        152,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverHands Health Group, 2020.06–2023.01",
+      "score": 0.9835,
+      "box": [
+        115,
+        289,
+        707,
+        314
+      ]
+    },
+    {
+      "text": "- Supervised multidisciplinary care teams",
+      "score": 0.9696,
+      "box": [
+        125,
+        314,
+        508,
+        339
+      ]
+    },
+    {
+      "text": "- Led nursing audit programs",
+      "score": 0.9886,
+      "box": [
+        126,
+        339,
+        397,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWay Care Group, 2017.11–2020.06",
+      "score": 0.9816,
+      "box": [
+        115,
+        381,
+        669,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9689,
+      "box": [
+        125,
+        406,
+        387,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.995,
+      "box": [
+        126,
+        432,
+        419,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Bachelor's, Patient Care, Valley View University, 2017",
+      "score": 0.984,
+      "box": [
+        115,
+        541,
+        618,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of tracheostomy care",
+      "score": 0.9812,
+      "box": [
+        132,
+        564,
+        551,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of continuity of care",
+      "score": 0.9791,
+      "box": [
+        134,
+        591,
+        499,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "LACRETIA WALTERS\nAR, USA|+1-593-468-1752 | lacretia.walters@example.com\nWORK HISTORY\nRegistered Nurses, EverHands Health Group, 2020.06–2023.01\n- Supervised multidisciplinary care teams\n- Led nursing audit programs\nRegistered Nurses, SunWay Care Group, 2017.11–2020.06\n- Prepared treatment rooms\n- Assisted with patient transfers\nEDUCATION\nBachelor's, Patient Care, Valley View University, 2017\n• Studied fundamentals of tracheostomy care\n• Studied principles of continuity of care"
+}

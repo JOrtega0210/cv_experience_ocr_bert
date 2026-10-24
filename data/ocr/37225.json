@@ -1,0 +1,161 @@
+{
+  "id": "37225",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.827,
+  "n_lines": 11,
+  "mean_score": 0.9802,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KYLE PATEL",
+      "score": 0.9801,
+      "box": [
+        116,
+        90,
+        326,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-291-728-1666|kyle.patel@example.com",
+      "score": 0.9911,
+      "box": [
+        115,
+        150,
+        629,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9738,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Financial, 2021.08–2022.03",
+      "score": 0.979,
+      "box": [
+        115,
+        290,
+        713,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9636,
+      "box": [
+        126,
+        314,
+        365,
+        338
+      ]
+    },
+    {
+      "text": "- Compiled financial schedules",
+      "score": 0.9856,
+      "box": [
+        127,
+        340,
+        413,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Data Analytics, Crestline University, 2012",
+      "score": 0.9761,
+      "box": [
+        115,
+        449,
+        591,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Management Information Systems, Clearfield Ridge University, 2010",
+      "score": 0.966,
+      "box": [
+        114,
+        472,
+        859,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in business communication",
+      "score": 0.9861,
+      "box": [
+        133,
+        498,
+        619,
+        522
+      ]
+    },
+    {
+      "text": "• Completed coursework in intangible asset accounting",
+      "score": 0.9823,
+      "box": [
+        134,
+        524,
+        640,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "KYLE PATEL\nNY, USA|+1-291-728-1666|kyle.patel@example.com\nWORK HISTORY\nAccountants Auditors, Reliable Path Financial, 2021.08–2022.03\n- Prepared journal entries\n- Compiled financial schedules\nEDUCATION\nMaster's, Data Analytics, Crestline University, 2012\nBachelor's, Management Information Systems, Clearfield Ridge University, 2010\n• Completed coursework in business communication\n• Completed coursework in intangible asset accounting"
+}

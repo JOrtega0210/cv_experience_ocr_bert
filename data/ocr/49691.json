@@ -1,0 +1,148 @@
+{
+  "id": "49691",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.748,
+  "n_lines": 10,
+  "mean_score": 0.9839,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ELIAS WOLFE",
+      "score": 0.9805,
+      "box": [
+        116,
+        88,
+        348,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA|+1-262-737-5793|elias.wolfe@example.com",
+      "score": 0.9817,
+      "box": [
+        115,
+        150,
+        636,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9833,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureLine Construction, 2022.07–2023.01",
+      "score": 0.9884,
+      "box": [
+        115,
+        290,
+        713,
+        313
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9671,
+      "box": [
+        126,
+        314,
+        331,
+        338
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.986,
+      "box": [
+        127,
+        339,
+        474,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Welding Technology, Rolling Hills University, 2023",
+      "score": 0.9753,
+      "box": [
+        116,
+        449,
+        833,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in building layout techniques",
+      "score": 0.9869,
+      "box": [
+        133,
+        474,
+        629,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of environmental safety",
+      "score": 0.9908,
+      "box": [
+        133,
+        497,
+        534,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ELIAS WOLFE\nTX, USA|+1-262-737-5793|elias.wolfe@example.com\nWORK HISTORY\nConstruction Laborers, SureLine Construction, 2022.07–2023.01\n- Secured site fencing\n- Marked measurements on materials\nEDUCATION\nSome college (no degree), Welding Technology, Rolling Hills University, 2023\n• Completed coursework in building layout techniques\n• Studied principles of environmental safety"
+}

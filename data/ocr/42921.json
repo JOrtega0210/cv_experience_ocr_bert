@@ -1,0 +1,161 @@
+{
+  "id": "42921",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.792,
+  "n_lines": 11,
+  "mean_score": 0.9806,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JESSICA HART",
+      "score": 0.9829,
+      "box": [
+        116,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "OH, USA|+1-211-316-6699 |jessica.hart@example.com",
+      "score": 0.9642,
+      "box": [
+        116,
+        151,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Advisors, 2019.10–2021.11",
+      "score": 0.9898,
+      "box": [
+        115,
+        290,
+        705,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed billing statements",
+      "score": 0.9684,
+      "box": [
+        125,
+        314,
+        402,
+        339
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9863,
+      "box": [
+        126,
+        338,
+        413,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Risk Management, Redfield University, 2012",
+      "score": 0.9794,
+      "box": [
+        114,
+        447,
+        620,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Administrative Studies, Willow Creek University, 2010",
+      "score": 0.9712,
+      "box": [
+        114,
+        472,
+        721,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of valuation methods",
+      "score": 0.9841,
+      "box": [
+        135,
+        500,
+        548,
+        520
+      ]
+    },
+    {
+      "text": "• Studied principles of operational auditing",
+      "score": 0.9773,
+      "box": [
+        134,
+        524,
+        523,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "JESSICA HART\nOH, USA|+1-211-316-6699 |jessica.hart@example.com\nWORK HISTORY\nAccountants Auditors, SteadyCount Advisors, 2019.10–2021.11\n- Reviewed billing statements\n- Tracked budget expenditures\nEDUCATION\nMaster's, Risk Management, Redfield University, 2012\nBachelor's, Administrative Studies, Willow Creek University, 2010\n• Studied fundamentals of valuation methods\n• Studied principles of operational auditing"
+}

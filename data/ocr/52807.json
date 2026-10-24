@@ -1,0 +1,148 @@
+{
+  "id": "52807",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.747,
+  "n_lines": 10,
+  "mean_score": 0.9791,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HAYDEN BAILEY",
+      "score": 0.9825,
+      "box": [
+        116,
+        90,
+        392,
+        120
+      ]
+    },
+    {
+      "text": "TX, USA|+1-299-710-4048|hayden.bailey@example.com",
+      "score": 0.9806,
+      "box": [
+        115,
+        150,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Craft Co., 2019.08–2022.07",
+      "score": 0.9675,
+      "box": [
+        115,
+        290,
+        649,
+        313
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9741,
+      "box": [
+        126,
+        314,
+        406,
+        339
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9619,
+      "box": [
+        126,
+        339,
+        440,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Concrete Technology, Elm Valley University, 2016",
+      "score": 0.9796,
+      "box": [
+        115,
+        447,
+        832,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of scaffold safety",
+      "score": 0.9795,
+      "box": [
+        131,
+        472,
+        512,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction time management",
+      "score": 0.9829,
+      "box": [
+        134,
+        499,
+        674,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "HAYDEN BAILEY\nTX, USA|+1-299-710-4048|hayden.bailey@example.com\nWORK HISTORY\nConstruction Laborers, Allied Craft Co., 2019.08–2022.07\n- Installed temporary supports\n- Installed basic flooring materials\nEDUCATION\nSome college (no degree), Concrete Technology, Elm Valley University, 2016\n• Studied fundamentals of scaffold safety\n• Completed coursework in construction time management"
+}

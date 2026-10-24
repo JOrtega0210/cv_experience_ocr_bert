@@ -1,0 +1,187 @@
+{
+  "id": "02169",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.988,
+  "n_lines": 13,
+  "mean_score": 0.9868,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AXELGREER",
+      "score": 0.998,
+      "box": [
+        116,
+        90,
+        335,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-320-838-6505|axel.greer@example.com",
+      "score": 0.9879,
+      "box": [
+        115,
+        150,
+        634,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.982,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmFrame Builders, 2021.06–2023.01",
+      "score": 0.9721,
+      "box": [
+        115,
+        290,
+        690,
+        313
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9892,
+      "box": [
+        126,
+        315,
+        458,
+        338
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.9957,
+      "box": [
+        126,
+        339,
+        435,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidFrame Construction, 2019.11–2021.06",
+      "score": 0.9777,
+      "box": [
+        114,
+        381,
+        738,
+        405
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9943,
+      "box": [
+        127,
+        409,
+        509,
+        429
+      ]
+    },
+    {
+      "text": "- Loaded and unloaded construction materials",
+      "score": 0.9864,
+      "box": [
+        126,
+        432,
+        552,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9978,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Industrial Maintenance, Elmwood University, 2023",
+      "score": 0.9844,
+      "box": [
+        115,
+        539,
+        831,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction materials storage",
+      "score": 0.9698,
+      "box": [
+        132,
+        565,
+        668,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site documentation",
+      "score": 0.9936,
+      "box": [
+        132,
+        590,
+        588,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "AXELGREER\nAR, USA|+1-320-838-6505|axel.greer@example.com\nWORK HISTORY\nConstruction Laborers, FirmFrame Builders, 2021.06–2023.01\n- Developed construction standards\n- Supervised high-risk operations\nConstruction Laborers, SolidFrame Construction, 2019.11–2021.06\n- Operated hand tools for assembly tasks\n- Loaded and unloaded construction materials\nEDUCATION\nSome college (no degree), Industrial Maintenance, Elmwood University, 2023\n• Completed coursework in construction materials storage\n• Studied fundamentals of job site documentation"
+}

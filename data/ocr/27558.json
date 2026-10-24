@@ -1,0 +1,213 @@
+{
+  "id": "27558",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.862,
+  "n_lines": 15,
+  "mean_score": 0.9782,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HUNTER PHILLIPS",
+      "score": 0.9766,
+      "box": [
+        116,
+        90,
+        416,
+        120
+      ]
+    },
+    {
+      "text": "MI, USA|+1-883-591-6094 |hunter.phillips@example.com",
+      "score": 0.9863,
+      "box": [
+        116,
+        151,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidEdge Construction, 2020.08–2023.01",
+      "score": 0.9818,
+      "box": [
+        115,
+        290,
+        725,
+        313
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.9792,
+      "box": [
+        126,
+        315,
+        462,
+        338
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.968,
+      "box": [
+        126,
+        339,
+        478,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildStone Group, 2018.02–2020.08",
+      "score": 0.966,
+      "box": [
+        115,
+        381,
+        673,
+        406
+      ]
+    },
+    {
+      "text": "- Managed waste disposal operations",
+      "score": 0.9743,
+      "box": [
+        125,
+        406,
+        475,
+        431
+      ]
+    },
+    {
+      "text": "- Performed site leveling tasks",
+      "score": 0.9587,
+      "box": [
+        125,
+        429,
+        410,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmLine Builders, 2015.08–2018.02",
+      "score": 0.9941,
+      "box": [
+        116,
+        472,
+        671,
+        495
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.971,
+      "box": [
+        125,
+        496,
+        416,
+        521
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9937,
+      "box": [
+        126,
+        521,
+        492,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Services, Riverview High School, 2015",
+      "score": 0.9869,
+      "box": [
+        116,
+        632,
+        859,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic plastering",
+      "score": 0.953,
+      "box": [
+        132,
+        656,
+        534,
+        681
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "HUNTER PHILLIPS\nMI, USA|+1-883-591-6094 |hunter.phillips@example.com\nWORK HISTORY\nConstruction Laborers, SolidEdge Construction, 2020.08–2023.01\n- Designed site logistics frameworks\n- Designed construction staging plans\nConstruction Laborers, BuildStone Group, 2018.02–2020.08\n- Managed waste disposal operations\n- Performed site leveling tasks\nConstruction Laborers, FirmLine Builders, 2015.08–2018.02\n- Set up workstations for crews\n- Assembled prefabricated components\nEDUCATION\nHigh school graduate/GED, Construction Services, Riverview High School, 2015\n• Completed coursework in basic plastering"
+}

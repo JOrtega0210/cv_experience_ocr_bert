@@ -1,0 +1,135 @@
+{
+  "id": "47220",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.73,
+  "n_lines": 9,
+  "mean_score": 0.984,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "WILLIAM SHEPHERD",
+      "score": 0.9727,
+      "box": [
+        116,
+        90,
+        454,
+        120
+      ]
+    },
+    {
+      "text": "SC, USA|+1-873-696-1827 |william.shepherd@example.com",
+      "score": 0.9861,
+      "box": [
+        116,
+        151,
+        696,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9826,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skyline Software, 2021.03–2023.01",
+      "score": 0.9886,
+      "box": [
+        116,
+        290,
+        650,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9926,
+      "box": [
+        126,
+        315,
+        479,
+        339
+      ]
+    },
+    {
+      "text": "- Debugged runtime errors",
+      "score": 0.9862,
+      "box": [
+        126,
+        339,
+        375,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Vista High School, 2021",
+      "score": 0.9857,
+      "box": [
+        116,
+        449,
+        598,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in real-time systems",
+      "score": 0.9632,
+      "box": [
+        132,
+        473,
+        554,
+        498
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "WILLIAM SHEPHERD\nSC, USA|+1-873-696-1827 |william.shepherd@example.com\nWORK HISTORY\nSoftware Developers, Skyline Software, 2021.03–2023.01\n- Assisted with system documentation\n- Debugged runtime errors\nEDUCATION\nHigh school graduate/GED, Vista High School, 2021\n• Completed coursework in real-time systems"
+}

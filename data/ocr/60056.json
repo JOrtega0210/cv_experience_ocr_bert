@@ -1,0 +1,187 @@
+{
+  "id": "60056",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.879,
+  "n_lines": 13,
+  "mean_score": 0.9791,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "STEPHANIE CANTRELL",
+      "score": 0.9742,
+      "box": [
+        116,
+        90,
+        498,
+        120
+      ]
+    },
+    {
+      "text": "WV, USA|+1-357-878-2305|stephanie.cantrell@example.com",
+      "score": 0.9617,
+      "box": [
+        115,
+        150,
+        710,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9783,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Horizons Academy, 2020.04–2021.11",
+      "score": 0.9862,
+      "box": [
+        114,
+        289,
+        878,
+        313
+      ]
+    },
+    {
+      "text": "-Directed academic intervention strategies",
+      "score": 0.9611,
+      "box": [
+        125,
+        314,
+        525,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented long-term academic plans",
+      "score": 0.9809,
+      "box": [
+        126,
+        339,
+        507,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Tree Academy, 2017.12–2019.07",
+      "score": 0.9893,
+      "box": [
+        115,
+        381,
+        856,
+        406
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9736,
+      "box": [
+        126,
+        407,
+        409,
+        429
+      ]
+    },
+    {
+      "text": "- Collected student assignments",
+      "score": 0.979,
+      "box": [
+        126,
+        430,
+        427,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Services, Sunfield University, 2010",
+      "score": 0.9751,
+      "box": [
+        115,
+        541,
+        646,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic instructional coaching",
+      "score": 0.9839,
+      "box": [
+        133,
+        565,
+        643,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of lesson planning",
+      "score": 0.9869,
+      "box": [
+        133,
+        590,
+        486,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "STEPHANIE CANTRELL\nWV, USA|+1-357-878-2305|stephanie.cantrell@example.com\nWORK HISTORY\nElementary Middle School Teachers, Future Horizons Academy, 2020.04–2021.11\n-Directed academic intervention strategies\n- Implemented long-term academic plans\nElementary Middle School Teachers, Growing Tree Academy, 2017.12–2019.07\n- Provided math drill exercises\n- Collected student assignments\nEDUCATION\nBachelor's, Education Services, Sunfield University, 2010\n• Completed coursework in basic instructional coaching\n• Studied principles of lesson planning"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "58388",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.803,
+  "n_lines": 13,
+  "mean_score": 0.9808,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DEANNE HARRIS",
+      "score": 0.9879,
+      "box": [
+        116,
+        90,
+        397,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-494-401-3104|deanne.harris@example.com",
+      "score": 0.9716,
+      "box": [
+        114,
+        150,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9801,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenLife Care Services, 2020.09–2023.01",
+      "score": 0.9677,
+      "box": [
+        116,
+        289,
+        694,
+        312
+      ]
+    },
+    {
+      "text": "- Developed patient safety metrics",
+      "score": 0.9804,
+      "box": [
+        126,
+        315,
+        445,
+        338
+      ]
+    },
+    {
+      "text": "-Directed patient care coordination",
+      "score": 0.9734,
+      "box": [
+        126,
+        339,
+        453,
+        362
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindWay Nursing Services, 2017.01–2019.06",
+      "score": 0.9859,
+      "box": [
+        116,
+        383,
+        722,
+        406
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.9785,
+      "box": [
+        126,
+        407,
+        415,
+        430
+      ]
+    },
+    {
+      "text": "- Monitored oxygen therapy",
+      "score": 0.9654,
+      "box": [
+        126,
+        430,
+        384,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Sciences, Oakridge Valley University, 2015",
+      "score": 0.9886,
+      "box": [
+        114,
+        539,
+        702,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in metabolic disorders basics",
+      "score": 0.9843,
+      "box": [
+        134,
+        566,
+        635,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in pathophysiology",
+      "score": 0.988,
+      "box": [
+        134,
+        590,
+        540,
+        616
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "DEANNE HARRIS\nWA, USA|+1-494-401-3104|deanne.harris@example.com\nWORK HISTORY\nRegistered Nurses, OpenLife Care Services, 2020.09–2023.01\n- Developed patient safety metrics\n-Directed patient care coordination\nRegistered Nurses, KindWay Nursing Services, 2017.01–2019.06\n- Checked patient identification\n- Monitored oxygen therapy\nEDUCATION\nBachelor's, Medical Sciences, Oakridge Valley University, 2015\n• Completed coursework in metabolic disorders basics\n• Completed coursework in pathophysiology"
+}

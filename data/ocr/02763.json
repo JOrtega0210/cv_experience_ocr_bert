@@ -1,0 +1,226 @@
+{
+  "id": "02763",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.946,
+  "n_lines": 16,
+  "mean_score": 0.9798,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "REGINA LOGAN",
+      "score": 0.973,
+      "box": [
+        116,
+        90,
+        379,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-543-737-9020 |regina.logan@example.com",
+      "score": 0.9899,
+      "box": [
+        117,
+        151,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TruePath Health Services, 2019.11–2023.01",
+      "score": 0.9833,
+      "box": [
+        115,
+        289,
+        712,
+        314
+      ]
+    },
+    {
+      "text": "- Managed clinical workflow redesign",
+      "score": 0.9798,
+      "box": [
+        126,
+        314,
+        470,
+        339
+      ]
+    },
+    {
+      "text": "- Established clinical evaluation protocols",
+      "score": 0.9896,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleBridge Health, 2015.04–2018.06",
+      "score": 0.9869,
+      "box": [
+        116,
+        383,
+        663,
+        406
+      ]
+    },
+    {
+      "text": "- Managed patient mobility programs",
+      "score": 0.9864,
+      "box": [
+        126,
+        406,
+        468,
+        432
+      ]
+    },
+    {
+      "text": "- Managed patient referrals",
+      "score": 0.9781,
+      "box": [
+        126,
+        430,
+        381,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, TruePath Health Services, 2011.06–2014.09",
+      "score": 0.9832,
+      "box": [
+        116,
+        472,
+        714,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored patient skin condition",
+      "score": 0.9778,
+      "box": [
+        125,
+        496,
+        436,
+        521
+      ]
+    },
+    {
+      "text": "- Maintained supply inventory",
+      "score": 0.9604,
+      "box": [
+        126,
+        521,
+        401,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9724,
+      "box": [
+        115,
+        585,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, General Nursing, Silver Ridge University, 207",
+      "score": 0.9709,
+      "box": [
+        114,
+        631,
+        657,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient counseling",
+      "score": 0.97,
+      "box": [
+        132,
+        657,
+        556,
+        680
+      ]
+    },
+    {
+      "text": "• Studied principles of pain management",
+      "score": 0.9888,
+      "box": [
+        134,
+        681,
+        510,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "REGINA LOGAN\nCA, USA|+1-543-737-9020 |regina.logan@example.com\nWORK HISTORY\nRegistered Nurses, TruePath Health Services, 2019.11–2023.01\n- Managed clinical workflow redesign\n- Established clinical evaluation protocols\nRegistered Nurses, GentleBridge Health, 2015.04–2018.06\n- Managed patient mobility programs\n- Managed patient referrals\nRegistered Nurses, TruePath Health Services, 2011.06–2014.09\n- Monitored patient skin condition\n- Maintained supply inventory\nEDUCATION\nBachelor's, General Nursing, Silver Ridge University, 207\n• Completed coursework in patient counseling\n• Studied principles of pain management"
+}

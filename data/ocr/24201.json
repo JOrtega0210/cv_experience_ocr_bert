@@ -1,0 +1,226 @@
+{
+  "id": "24201",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.921,
+  "n_lines": 16,
+  "mean_score": 0.9812,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOAN THORNTON",
+      "score": 0.9911,
+      "box": [
+        116,
+        90,
+        410,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA|+1-607-913-7521 |joan.thornton@example.com",
+      "score": 0.9843,
+      "box": [
+        115,
+        150,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Horizons Academy, 2020.02–2023.01",
+      "score": 0.986,
+      "box": [
+        116,
+        289,
+        883,
+        312
+      ]
+    },
+    {
+      "text": "-Directed instructional benchmarking",
+      "score": 0.9677,
+      "box": [
+        126,
+        315,
+        473,
+        339
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.9894,
+      "box": [
+        126,
+        339,
+        431,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Field School, 2017.03–2020.02",
+      "score": 0.9659,
+      "box": [
+        116,
+        382,
+        799,
+        405
+      ]
+    },
+    {
+      "text": "- Administered standardized assessments",
+      "score": 0.987,
+      "box": [
+        127,
+        407,
+        516,
+        429
+      ]
+    },
+    {
+      "text": "- Implemented formative assessment strategies",
+      "score": 0.9676,
+      "box": [
+        127,
+        433,
+        568,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Field School, 2012.12–2015.12",
+      "score": 0.9816,
+      "box": [
+        116,
+        472,
+        820,
+        496
+      ]
+    },
+    {
+      "text": "- Collected student assignments",
+      "score": 0.9658,
+      "box": [
+        125,
+        496,
+        427,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed homework assignments",
+      "score": 0.9824,
+      "box": [
+        126,
+        521,
+        458,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Basic Child Development, Autumn Ridge University, 2003",
+      "score": 0.9781,
+      "box": [
+        115,
+        631,
+        901,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of instructional alignment",
+      "score": 0.9809,
+      "box": [
+        132,
+        656,
+        551,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of student engagement",
+      "score": 0.9877,
+      "box": [
+        135,
+        683,
+        533,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JOAN THORNTON\nMD, USA|+1-607-913-7521 |joan.thornton@example.com\nWORK HISTORY\nElementary Middle School Teachers, Golden Horizons Academy, 2020.02–2023.01\n-Directed instructional benchmarking\n- Designed assessment systems\nElementary Middle School Teachers, Kind Field School, 2017.03–2020.02\n- Administered standardized assessments\n- Implemented formative assessment strategies\nElementary Middle School Teachers, Caring Field School, 2012.12–2015.12\n- Collected student assignments\n- Reviewed homework assignments\nEDUCATION\nSome college (no degree), Basic Child Development, Autumn Ridge University, 2003\n• Studied principles of instructional alignment\n• Studied principles of student engagement"
+}

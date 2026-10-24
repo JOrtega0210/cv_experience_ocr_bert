@@ -1,0 +1,187 @@
+{
+  "id": "44600",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.787,
+  "n_lines": 13,
+  "mean_score": 0.9841,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ALEXANDERCHEN",
+      "score": 0.9988,
+      "box": [
+        117,
+        90,
+        430,
+        120
+      ]
+    },
+    {
+      "text": "OR, USA | +1-681-838-9179|alexander.chen@example.com",
+      "score": 0.9801,
+      "box": [
+        117,
+        151,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9798,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Softbridge Digital, 2021.04–2023.01",
+      "score": 0.9919,
+      "box": [
+        116,
+        290,
+        653,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9698,
+      "box": [
+        127,
+        315,
+        466,
+        338
+      ]
+    },
+    {
+      "text": "- Designed configuration management systems",
+      "score": 0.9896,
+      "box": [
+        126,
+        339,
+        566,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Softbridge Tech, 2019.07–2021.04",
+      "score": 0.9925,
+      "box": [
+        116,
+        382,
+        644,
+        405
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.9717,
+      "box": [
+        127,
+        408,
+        462,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9777,
+      "box": [
+        126,
+        430,
+        421,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Bachelor's, Riverstone Ridge University, 2022",
+      "score": 0.9849,
+      "box": [
+        115,
+        540,
+        541,
+        563
+      ]
+    },
+    {
+      "text": "• Completed coursework in model-view-controller pattern",
+      "score": 0.9867,
+      "box": [
+        133,
+        565,
+        658,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in real-time systems",
+      "score": 0.9705,
+      "box": [
+        134,
+        590,
+        553,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ALEXANDERCHEN\nOR, USA | +1-681-838-9179|alexander.chen@example.com\nWORK HISTORY\nSoftware Developers, Softbridge Digital, 2021.04–2023.01\n- Implemented security architectures\n- Designed configuration management systems\nSoftware Developers, Softbridge Tech, 2019.07–2021.04\n- Updated application dependencies\n- Implemented REST endpoints\nEDUCATION\nBachelor's, Riverstone Ridge University, 2022\n• Completed coursework in model-view-controller pattern\n• Completed coursework in real-time systems"
+}

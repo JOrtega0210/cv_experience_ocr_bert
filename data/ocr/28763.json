@@ -1,0 +1,252 @@
+{
+  "id": "28763",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.972,
+  "n_lines": 18,
+  "mean_score": 0.9806,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LUIS LOZANO",
+      "score": 0.9662,
+      "box": [
+        114,
+        88,
+        346,
+        122
+      ]
+    },
+    {
+      "text": "MN, USA|+1-489-945-9102|luis.lozano@example.com",
+      "score": 0.9889,
+      "box": [
+        115,
+        150,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Track Builders, 2019.04–2023.01",
+      "score": 0.9836,
+      "box": [
+        115,
+        290,
+        711,
+        313
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.9908,
+      "box": [
+        127,
+        315,
+        435,
+        338
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9738,
+      "box": [
+        127,
+        340,
+        458,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerWay Construction, 2015.07–2019.04",
+      "score": 0.9785,
+      "box": [
+        115,
+        381,
+        737,
+        406
+      ]
+    },
+    {
+      "text": "- Designed site safety protocols",
+      "score": 0.9801,
+      "box": [
+        125,
+        406,
+        422,
+        431
+      ]
+    },
+    {
+      "text": "- Directed construction audits",
+      "score": 0.9771,
+      "box": [
+        126,
+        432,
+        400,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmStone Construction, 2011.09–2015.07",
+      "score": 0.9711,
+      "box": [
+        115,
+        472,
+        728,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared and poured concrete forms",
+      "score": 0.967,
+      "box": [
+        126,
+        498,
+        483,
+        521
+      ]
+    },
+    {
+      "text": "- Managed waste disposal operations",
+      "score": 0.9886,
+      "box": [
+        126,
+        521,
+        475,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongWay Construction, 2007.11–2011.09",
+      "score": 0.9758,
+      "box": [
+        116,
+        565,
+        735,
+        588
+      ]
+    },
+    {
+      "text": "- Moved equipment between work zones",
+      "score": 0.9718,
+      "box": [
+        126,
+        590,
+        504,
+        613
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9765,
+      "box": [
+        126,
+        614,
+        406,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Quality Control, Sagewood High School, 2008",
+      "score": 0.9865,
+      "box": [
+        116,
+        725,
+        924,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic concrete reinforcement",
+      "score": 0.9904,
+      "box": [
+        134,
+        750,
+        658,
+        770
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "LUIS LOZANO\nMN, USA|+1-489-945-9102|luis.lozano@example.com\nWORK HISTORY\nConstruction Laborers, Unified Track Builders, 2019.04–2023.01\n- Supervised high-risk operations\n- Developed construction standards\nConstruction Laborers, CornerWay Construction, 2015.07–2019.04\n- Designed site safety protocols\n- Directed construction audits\nConstruction Laborers, FirmStone Construction, 2011.09–2015.07\n- Prepared and poured concrete forms\n- Managed waste disposal operations\nConstruction Laborers, StrongWay Construction, 2007.11–2011.09\n- Moved equipment between work zones\n- Installed temporary supports\nEDUCATION\nHigh school graduate/GED, Construction Quality Control, Sagewood High School, 2008\n• Completed coursework in basic concrete reinforcement"
+}

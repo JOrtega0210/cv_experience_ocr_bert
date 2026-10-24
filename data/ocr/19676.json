@@ -1,0 +1,135 @@
+{
+  "id": "19676",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.742,
+  "n_lines": 9,
+  "mean_score": 0.978,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "OLIVIA MORTON",
+      "score": 0.9671,
+      "box": [
+        117,
+        90,
+        388,
+        121
+      ]
+    },
+    {
+      "text": "IN, USA|+1-820-614-4045|olivia.morton@example.com",
+      "score": 0.9716,
+      "box": [
+        117,
+        152,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.982,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Durable Works, 2021.05–2023.01",
+      "score": 0.9767,
+      "box": [
+        115,
+        290,
+        645,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9575,
+      "box": [
+        125,
+        313,
+        417,
+        339
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9829,
+      "box": [
+        126,
+        339,
+        439,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Surveying Technology, Silverton High School, 2019",
+      "score": 0.9877,
+      "box": [
+        116,
+        449,
+        852,
+        473
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic site surveying",
+      "score": 0.9776,
+      "box": [
+        132,
+        473,
+        571,
+        498
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "OLIVIA MORTON\nIN, USA|+1-820-614-4045|olivia.morton@example.com\nWORK HISTORY\nConstruction Laborers, Durable Works, 2021.05–2023.01\n- Assisted with framing support\n- Helped position heavy materials\nEDUCATION\nHigh school graduate/GED, Surveying Technology, Silverton High School, 2019\n• Completed coursework in basic site surveying"
+}

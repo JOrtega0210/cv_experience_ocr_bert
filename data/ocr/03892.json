@@ -1,0 +1,226 @@
+{
+  "id": "03892",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.013,
+  "n_lines": 16,
+  "mean_score": 0.9831,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "STEPHANIE BARNES",
+      "score": 0.9712,
+      "box": [
+        116,
+        90,
+        459,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-247-954-4040 |stephanie.barnes@example.com",
+      "score": 0.9943,
+      "box": [
+        117,
+        151,
+        701,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9815,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Grove Academy, 2020.02–2023.01",
+      "score": 0.9733,
+      "box": [
+        115,
+        289,
+        846,
+        314
+      ]
+    },
+    {
+      "text": "- Led curriculum alignment initiatives",
+      "score": 0.9529,
+      "box": [
+        127,
+        315,
+        467,
+        338
+      ]
+    },
+    {
+      "text": "- Directed cross-grade curriculum alignment",
+      "score": 0.9735,
+      "box": [
+        126,
+        339,
+        535,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Tree School, 2017.03–2020.02",
+      "score": 0.9778,
+      "box": [
+        116,
+        382,
+        818,
+        405
+      ]
+    },
+    {
+      "text": "- Analyzed assessment trends",
+      "score": 0.9878,
+      "box": [
+        126,
+        406,
+        410,
+        431
+      ]
+    },
+    {
+      "text": "- Designed math assessments",
+      "score": 0.9929,
+      "box": [
+        126,
+        430,
+        411,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Horizons Academy, 2011.03–2014.03",
+      "score": 0.9931,
+      "box": [
+        115,
+        471,
+        900,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared daily instructional agendas",
+      "score": 0.9885,
+      "box": [
+        126,
+        498,
+        479,
+        521
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.9975,
+      "box": [
+        126,
+        521,
+        413,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Readiness, Summit Ridge University, 2005",
+      "score": 0.9724,
+      "box": [
+        114,
+        631,
+        737,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of student comprehension",
+      "score": 0.9868,
+      "box": [
+        134,
+        658,
+        559,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in reading fluency strategies",
+      "score": 0.9873,
+      "box": [
+        135,
+        683,
+        626,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "STEPHANIE BARNES\nCA, USA|+1-247-954-4040 |stephanie.barnes@example.com\nWORK HISTORY\nElementary Middle School Teachers, Bright Grove Academy, 2020.02–2023.01\n- Led curriculum alignment initiatives\n- Directed cross-grade curriculum alignment\nElementary Middle School Teachers, Caring Tree School, 2017.03–2020.02\n- Analyzed assessment trends\n- Designed math assessments\nElementary Middle School Teachers, Learning Horizons Academy, 2011.03–2014.03\n- Prepared daily instructional agendas\n- Administered learning games\nEDUCATION\nBachelor's, Educational Readiness, Summit Ridge University, 2005\n• Studied principles of student comprehension\n• Completed coursework in reading fluency strategies"
+}

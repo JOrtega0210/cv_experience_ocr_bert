@@ -1,0 +1,135 @@
+{
+  "id": "29469",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.719,
+  "n_lines": 9,
+  "mean_score": 0.9816,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TOMMY MAY",
+      "score": 0.9809,
+      "box": [
+        114,
+        90,
+        327,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-623-635-7450|tommy.may@example.com",
+      "score": 0.99,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeTrack Builders, 2020.11–2023.01",
+      "score": 0.9733,
+      "box": [
+        115,
+        290,
+        695,
+        313
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9681,
+      "box": [
+        126,
+        314,
+        510,
+        339
+      ]
+    },
+    {
+      "text": "- Mixed concrete and mortar",
+      "score": 0.9717,
+      "box": [
+        126,
+        340,
+        391,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Structural Technology, Fieldstone High School, 2021",
+      "score": 0.9955,
+      "box": [
+        116,
+        449,
+        862,
+        473
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site layout",
+      "score": 0.9725,
+      "box": [
+        132,
+        472,
+        508,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "TOMMY MAY\nMN, USA|+1-623-635-7450|tommy.may@example.com\nWORK HISTORY\nConstruction Laborers, PrimeTrack Builders, 2020.11–2023.01\n- Operated hand tools for assembly tasks\n- Mixed concrete and mortar\nEDUCATION\nHigh school graduate/GED, Structural Technology, Fieldstone High School, 2021\n• Studied fundamentals of job site layout"
+}

@@ -1,0 +1,174 @@
+{
+  "id": "30513",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.828,
+  "n_lines": 12,
+  "mean_score": 0.9858,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JUSTIN SANTIAGO",
+      "score": 0.9861,
+      "box": [
+        116,
+        90,
+        423,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA |+1-407-612-2556 |justin.santiago@example.com",
+      "score": 0.9786,
+      "box": [
+        116,
+        151,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyHand Builders, 2021.06–2023.01",
+      "score": 0.9801,
+      "box": [
+        114,
+        289,
+        703,
+        313
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.9787,
+      "box": [
+        126,
+        315,
+        462,
+        338
+      ]
+    },
+    {
+      "text": "- Developed structural reinforcement plans",
+      "score": 0.9885,
+      "box": [
+        126,
+        339,
+        522,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Stone Builders, 2019.10–2021.06",
+      "score": 0.9864,
+      "box": [
+        116,
+        382,
+        714,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9949,
+      "box": [
+        125,
+        406,
+        425,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9869,
+      "box": [
+        126,
+        429,
+        424,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Services, Rockland High School, 2020",
+      "score": 0.9854,
+      "box": [
+        116,
+        541,
+        854,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of wall systems",
+      "score": 0.9813,
+      "box": [
+        132,
+        564,
+        498,
+        590
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "JUSTIN SANTIAGO\nMO, USA |+1-407-612-2556 |justin.santiago@example.com\nWORK HISTORY\nConstruction Laborers, SteadyHand Builders, 2021.06–2023.01\n- Designed site logistics frameworks\n- Developed structural reinforcement plans\nConstruction Laborers, Unified Stone Builders, 2019.10–2021.06\n- Assisted with concrete pouring\n- Assisted with excavation tasks\nEDUCATION\nHigh school graduate/GED, Construction Services, Rockland High School, 2020\n• Studied fundamentals of wall systems"
+}

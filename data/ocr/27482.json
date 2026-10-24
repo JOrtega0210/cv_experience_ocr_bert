@@ -1,0 +1,135 @@
+{
+  "id": "27482",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.767,
+  "n_lines": 9,
+  "mean_score": 0.9792,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRIANSELLERS",
+      "score": 0.9983,
+      "box": [
+        116,
+        90,
+        387,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-999-348-8247 | brian.sellers@example.com",
+      "score": 0.9763,
+      "box": [
+        116,
+        151,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9796,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftTrack Builders, 2022.03–2023.01",
+      "score": 0.9751,
+      "box": [
+        115,
+        290,
+        685,
+        313
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.98,
+      "box": [
+        127,
+        315,
+        510,
+        338
+      ]
+    },
+    {
+      "text": "– Marked measurements on materials",
+      "score": 0.9642,
+      "box": [
+        127,
+        340,
+        475,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Materials, Brightfield Ridge High School, 2021",
+      "score": 0.9784,
+      "box": [
+        116,
+        449,
+        924,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction materials testing",
+      "score": 0.9623,
+      "box": [
+        133,
+        474,
+        658,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "BRIANSELLERS\nMI, USA|+1-999-348-8247 | brian.sellers@example.com\nWORK HISTORY\nConstruction Laborers, CraftTrack Builders, 2022.03–2023.01\n- Operated hand tools for assembly tasks\n– Marked measurements on materials\nEDUCATION\nHigh school graduate/GED, Construction Materials, Brightfield Ridge High School, 2021\n• Completed coursework in construction materials testing"
+}

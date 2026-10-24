@@ -1,0 +1,226 @@
+{
+  "id": "57023",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.896,
+  "n_lines": 16,
+  "mean_score": 0.9831,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ROY LUCERO",
+      "score": 0.9628,
+      "box": [
+        115,
+        90,
+        341,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-754-956-8274|roy.lucero@example.com",
+      "score": 0.9798,
+      "box": [
+        114,
+        150,
+        631,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Frontier Build Co., 2021.01–2023.01",
+      "score": 0.9826,
+      "box": [
+        115,
+        290,
+        669,
+        313
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.9918,
+      "box": [
+        126,
+        315,
+        476,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed structural integrity assessments",
+      "score": 0.9825,
+      "box": [
+        126,
+        339,
+        532,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureStone Construction, 2017.03–2019.04",
+      "score": 0.9943,
+      "box": [
+        116,
+        382,
+        730,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared cost estimates",
+      "score": 0.9614,
+      "box": [
+        127,
+        408,
+        367,
+        429
+      ]
+    },
+    {
+      "text": "- Prepared construction schedules",
+      "score": 0.9815,
+      "box": [
+        127,
+        432,
+        446,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftLine Construction, 2013.11–2015.12",
+      "score": 0.9864,
+      "box": [
+        115,
+        472,
+        716,
+        495
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.9805,
+      "box": [
+        127,
+        499,
+        511,
+        519
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9937,
+      "box": [
+        126,
+        521,
+        492,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Mechanical Technology, Riverstone Ridge University, 2007",
+      "score": 0.9809,
+      "box": [
+        115,
+        631,
+        916,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural reinforcement methods",
+      "score": 0.9911,
+      "box": [
+        133,
+        657,
+        695,
+        680
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of concrete finishing",
+      "score": 0.977,
+      "box": [
+        133,
+        681,
+        541,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ROY LUCERO\nVA, USA|+1-754-956-8274|roy.lucero@example.com\nWORK HISTORY\nConstruction Laborers, Frontier Build Co., 2021.01–2023.01\n- Developed site performance metrics\n- Reviewed structural integrity assessments\nConstruction Laborers, SureStone Construction, 2017.03–2019.04\n- Prepared cost estimates\n- Prepared construction schedules\nConstruction Laborers, CraftLine Construction, 2013.11–2015.12\n- Prepared surfaces for construction work\n- Assembled prefabricated components\nEDUCATION\nSome college (no degree), Mechanical Technology, Riverstone Ridge University, 2007\n• Completed coursework in structural reinforcement methods\n• Studied fundamentals of concrete finishing"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "30578",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.819,
+  "n_lines": 16,
+  "mean_score": 0.983,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ADAMCONLEY",
+      "score": 0.9976,
+      "box": [
+        114,
+        87,
+        369,
+        123
+      ]
+    },
+    {
+      "text": "MO, USA|+1-259-445-9959|adam.conley@example.com",
+      "score": 0.9848,
+      "box": [
+        115,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9872,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datagrid Labs, 2019.12–2023.01",
+      "score": 0.9866,
+      "box": [
+        116,
+        290,
+        625,
+        313
+      ]
+    },
+    {
+      "text": "- Defined APl governance models",
+      "score": 0.9735,
+      "box": [
+        127,
+        315,
+        442,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented release management strategies",
+      "score": 0.972,
+      "box": [
+        126,
+        339,
+        561,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Digital, 2016.05–2019.06",
+      "score": 0.9879,
+      "box": [
+        116,
+        382,
+        655,
+        406
+      ]
+    },
+    {
+      "text": "- Integrated analytics services",
+      "score": 0.9917,
+      "box": [
+        126,
+        406,
+        406,
+        431
+      ]
+    },
+    {
+      "text": "- Improved APl performance",
+      "score": 0.9785,
+      "box": [
+        126,
+        430,
+        392,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Skybridge Software, 2012.09–2015.10",
+      "score": 0.9835,
+      "box": [
+        115,
+        471,
+        677,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with container setup",
+      "score": 0.9845,
+      "box": [
+        125,
+        496,
+        414,
+        522
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9473,
+      "box": [
+        128,
+        523,
+        340,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Crestview University, 204",
+      "score": 0.9692,
+      "box": [
+        115,
+        631,
+        617,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in numerical methods",
+      "score": 0.9884,
+      "box": [
+        133,
+        657,
+        566,
+        680
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of software metrics",
+      "score": 0.9969,
+      "box": [
+        134,
+        682,
+        531,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ADAMCONLEY\nMO, USA|+1-259-445-9959|adam.conley@example.com\nWORK HISTORY\nSoftware Developers, Datagrid Labs, 2019.12–2023.01\n- Defined APl governance models\n- Implemented release management strategies\nSoftware Developers, Stonepath Digital, 2016.05–2019.06\n- Integrated analytics services\n- Improved APl performance\nSoftware Developers, Skybridge Software, 2012.09–2015.10\n- Assisted with container setup\n- Updated routing logic\nEDUCATION\nSome college (no degree), Crestview University, 204\n• Completed coursework in numerical methods\n• Studied fundamentals of software metrics"
+}

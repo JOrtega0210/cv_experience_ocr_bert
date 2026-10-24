@@ -1,0 +1,148 @@
+{
+  "id": "00278",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.871,
+  "n_lines": 10,
+  "mean_score": 0.9814,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANDREWCASEY",
+      "score": 0.9973,
+      "box": [
+        117,
+        90,
+        393,
+        120
+      ]
+    },
+    {
+      "text": "AL, USA|+1-974-448-5660 |andrew.casey@example.com",
+      "score": 0.9888,
+      "box": [
+        116,
+        152,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Path School, 2019.07–2022.07",
+      "score": 0.9778,
+      "box": [
+        116,
+        290,
+        818,
+        313
+      ]
+    },
+    {
+      "text": "- Supported art instruction",
+      "score": 0.9704,
+      "box": [
+        127,
+        315,
+        370,
+        339
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9632,
+      "box": [
+        126,
+        339,
+        395,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Instructional Support, Rolling Hills University, 27",
+      "score": 0.9632,
+      "box": [
+        115,
+        449,
+        693,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of cooperative learning",
+      "score": 0.9874,
+      "box": [
+        132,
+        472,
+        530,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson reflection practices",
+      "score": 0.9837,
+      "box": [
+        134,
+        499,
+        629,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ANDREWCASEY\nAL, USA|+1-974-448-5660 |andrew.casey@example.com\nWORK HISTORY\nElementary Middle School Teachers, Caring Path School, 2019.07–2022.07\n- Supported art instruction\n- Collected permission forms\nEDUCATION\nBachelor's, Instructional Support, Rolling Hills University, 27\n• Studied principles of cooperative learning\n• Completed coursework in lesson reflection practices"
+}

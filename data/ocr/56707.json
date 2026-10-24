@@ -1,0 +1,200 @@
+{
+  "id": "56707",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.848,
+  "n_lines": 14,
+  "mean_score": 0.9857,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "STEPHEN DELGADO",
+      "score": 0.9802,
+      "box": [
+        116,
+        90,
+        451,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-712-891-6000 |stephen.delgado@example.com",
+      "score": 0.9889,
+      "box": [
+        115,
+        150,
+        694,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9773,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Advisors, 2020.04–2023.01",
+      "score": 0.9898,
+      "box": [
+        115,
+        290,
+        678,
+        312
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9711,
+      "box": [
+        125,
+        314,
+        525,
+        339
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9762,
+      "box": [
+        126,
+        339,
+        427,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Financial, 2015.01–2017.11",
+      "score": 0.9857,
+      "box": [
+        115,
+        381,
+        686,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with compliance documentation",
+      "score": 0.9981,
+      "box": [
+        126,
+        407,
+        518,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.9813,
+      "box": [
+        125,
+        431,
+        446,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Accounting and Auditing, Brookhaven University, 2009",
+      "score": 0.9905,
+      "box": [
+        114,
+        539,
+        711,
+        565
+      ]
+    },
+    {
+      "text": "Bachelor's, Taxation, Southridge University, 2007",
+      "score": 0.9802,
+      "box": [
+        115,
+        566,
+        575,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of variance analysis",
+      "score": 0.9932,
+      "box": [
+        132,
+        590,
+        539,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting theory",
+      "score": 0.9898,
+      "box": [
+        133,
+        615,
+        554,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "STEPHEN DELGADO\nVA, USA|+1-712-891-6000 |stephen.delgado@example.com\nWORK HISTORY\nAccountants Auditors, OpenPath Advisors, 2020.04–2023.01\n- Developed regulatory reporting strategies\n- Managed financial governance\nAccountants Auditors, EverCount Financial, 2015.01–2017.11\n- Assisted with compliance documentation\n- Prepared account reconciliations\nEDUCATION\nMaster's, Accounting and Auditing, Brookhaven University, 2009\nBachelor's, Taxation, Southridge University, 2007\n• Studied fundamentals of variance analysis\n• Completed coursework in accounting theory"
+}

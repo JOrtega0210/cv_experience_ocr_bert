@@ -1,0 +1,200 @@
+{
+  "id": "28581",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.785,
+  "n_lines": 14,
+  "mean_score": 0.9797,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DANIEL BRADFORD",
+      "score": 0.9824,
+      "box": [
+        116,
+        90,
+        443,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-903-439-6659|daniel.bradford@example.com",
+      "score": 0.9904,
+      "box": [
+        115,
+        150,
+        683,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9872,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Software, 2020.03–2023.01",
+      "score": 0.9857,
+      "box": [
+        115,
+        290,
+        671,
+        313
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9705,
+      "box": [
+        125,
+        314,
+        448,
+        339
+      ]
+    },
+    {
+      "text": "- Led platform migrations",
+      "score": 0.9715,
+      "box": [
+        126,
+        339,
+        361,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Labs, 2015.08–2018.07",
+      "score": 0.9864,
+      "box": [
+        115,
+        382,
+        656,
+        405
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9732,
+      "box": [
+        125,
+        406,
+        400,
+        432
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9608,
+      "box": [
+        125,
+        430,
+        364,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Fieldview University, 2012",
+      "score": 0.9836,
+      "box": [
+        115,
+        541,
+        451,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Autumn Ridge University, 210",
+      "score": 0.9767,
+      "box": [
+        115,
+        565,
+        513,
+        588
+      ]
+    },
+    {
+      "text": "• Completed coursework in full-stack development",
+      "score": 0.9857,
+      "box": [
+        133,
+        590,
+        598,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of refactoring techniques",
+      "score": 0.963,
+      "box": [
+        133,
+        615,
+        585,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "DANIEL BRADFORD\nMN, USA|+1-903-439-6659|daniel.bradford@example.com\nWORK HISTORY\nSoftware Developers, Codefield Software, 2020.03–2023.01\n- Designed data storage strategies\n- Led platform migrations\nSoftware Developers, Datastream Labs, 2015.08–2018.07\n- Wrote configuration parsers\n- Handled feature toggles\nEDUCATION\nMaster's, Fieldview University, 2012\nBachelor's, Autumn Ridge University, 210\n• Completed coursework in full-stack development\n• Studied fundamentals of refactoring techniques"
+}

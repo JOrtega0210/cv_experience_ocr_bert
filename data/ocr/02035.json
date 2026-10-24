@@ -1,0 +1,187 @@
+{
+  "id": "02035",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.959,
+  "n_lines": 13,
+  "mean_score": 0.9814,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SAIGE PECK",
+      "score": 0.9657,
+      "box": [
+        115,
+        90,
+        325,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-767-487-4344| saige.peck@example.com",
+      "score": 0.9861,
+      "box": [
+        116,
+        151,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9824,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWay Nursing, 2021.04–2023.01",
+      "score": 0.9804,
+      "box": [
+        115,
+        289,
+        630,
+        314
+      ]
+    },
+    {
+      "text": "-Directed interdisciplinary workflow alignment",
+      "score": 0.9817,
+      "box": [
+        125,
+        313,
+        554,
+        339
+      ]
+    },
+    {
+      "text": "- Led patient experience improvement programs",
+      "score": 0.9826,
+      "box": [
+        127,
+        339,
+        574,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenSpring Care Services, 2019.07–2021.04",
+      "score": 0.9942,
+      "box": [
+        115,
+        381,
+        724,
+        406
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9868,
+      "box": [
+        125,
+        406,
+        399,
+        431
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9675,
+      "box": [
+        126,
+        430,
+        409,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Operations, Southridge University, 2022",
+      "score": 0.98,
+      "box": [
+        114,
+        540,
+        713,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient advocacy",
+      "score": 0.9804,
+      "box": [
+        132,
+        565,
+        536,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic life support concepts",
+      "score": 0.9731,
+      "box": [
+        134,
+        590,
+        635,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "SAIGE PECK\nAZ, USA|+1-767-487-4344| saige.peck@example.com\nWORK HISTORY\nRegistered Nurses, SunWay Nursing, 2021.04–2023.01\n-Directed interdisciplinary workflow alignment\n- Led patient experience improvement programs\nRegistered Nurses, OpenSpring Care Services, 2019.07–2021.04\n- Recorded patient vital signs\n- Recorded shift handoff notes\nEDUCATION\nBachelor's, Health Care Operations, Southridge University, 2022\n• Studied fundamentals of patient advocacy\n• Completed coursework in basic life support concepts"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "11086",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.956,
+  "n_lines": 16,
+  "mean_score": 0.985,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CODY MCLAUGHLIN",
+      "score": 0.9913,
+      "box": [
+        117,
+        90,
+        447,
+        121
+      ]
+    },
+    {
+      "text": "CT, USA |+1-920-924-7106|cody.mclaughlin@example.com",
+      "score": 0.9872,
+      "box": [
+        117,
+        152,
+        690,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowstack Tech, 2020.07–2023.01",
+      "score": 0.989,
+      "box": [
+        116,
+        290,
+        640,
+        313
+      ]
+    },
+    {
+      "text": "- Designed software development workflows",
+      "score": 0.9893,
+      "box": [
+        126,
+        314,
+        538,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9813,
+      "box": [
+        126,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Systems, 2017.12–2020.07",
+      "score": 0.9871,
+      "box": [
+        116,
+        382,
+        673,
+        406
+      ]
+    },
+    {
+      "text": "- Handled schema migrations",
+      "score": 0.9772,
+      "box": [
+        125,
+        405,
+        402,
+        431
+      ]
+    },
+    {
+      "text": "- Improved code coverage",
+      "score": 0.9836,
+      "box": [
+        126,
+        430,
+        373,
+        458
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Technologies, 2014.02–2016.09",
+      "score": 0.993,
+      "box": [
+        115,
+        471,
+        697,
+        496
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.9677,
+      "box": [
+        127,
+        498,
+        404,
+        521
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9673,
+      "box": [
+        126,
+        521,
+        448,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Some college (no degree), Greenway University, 2012",
+      "score": 0.9814,
+      "box": [
+        115,
+        631,
+        621,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of test-driven development",
+      "score": 0.9912,
+      "box": [
+        132,
+        656,
+        566,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of microservices architecture",
+      "score": 0.988,
+      "box": [
+        135,
+        683,
+        583,
+        703
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "CODY MCLAUGHLIN\nCT, USA |+1-920-924-7106|cody.mclaughlin@example.com\nWORK HISTORY\nSoftware Developers, Flowstack Tech, 2020.07–2023.01\n- Designed software development workflows\n- Implemented security architectures\nSoftware Developers, Clearpath Systems, 2017.12–2020.07\n- Handled schema migrations\n- Improved code coverage\nSoftware Developers, Netfield Technologies, 2014.02–2016.09\n- Updated database schemas\n- Performed basic APl integrations\nEDUCATION\nSome college (no degree), Greenway University, 2012\n• Studied principles of test-driven development\n• Studied principles of microservices architecture"
+}

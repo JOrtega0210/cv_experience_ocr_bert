@@ -1,0 +1,278 @@
+{
+  "id": "33000",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.936,
+  "n_lines": 20,
+  "mean_score": 0.9787,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARSHALL WILEY",
+      "score": 0.9856,
+      "box": [
+        116,
+        90,
+        421,
+        120
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-965-906-3944 |marshall.wiley@example.com",
+      "score": 0.9741,
+      "box": [
+        116,
+        151,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9802,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Advisors, 2018.03–2023.01",
+      "score": 0.9859,
+      "box": [
+        114,
+        289,
+        710,
+        313
+      ]
+    },
+    {
+      "text": "- Directed revenue recognition policies",
+      "score": 0.9834,
+      "box": [
+        127,
+        315,
+        484,
+        338
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9688,
+      "box": [
+        128,
+        340,
+        479,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Advisors, 2013.05–2018.03",
+      "score": 0.9885,
+      "box": [
+        115,
+        381,
+        688,
+        406
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9853,
+      "box": [
+        127,
+        407,
+        512,
+        430
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.978,
+      "box": [
+        125,
+        431,
+        478,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Advisors, 2008.07–2013.05",
+      "score": 0.9699,
+      "box": [
+        114,
+        471,
+        697,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared financial projections",
+      "score": 0.9728,
+      "box": [
+        126,
+        498,
+        418,
+        521
+      ]
+    },
+    {
+      "text": "- Conducted variance investigations",
+      "score": 0.9664,
+      "box": [
+        126,
+        521,
+        459,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Advisors, 2003.08–2008.07",
+      "score": 0.9871,
+      "box": [
+        115,
+        565,
+        733,
+        588
+      ]
+    },
+    {
+      "text": "- Maintained chart of accounts",
+      "score": 0.9652,
+      "box": [
+        125,
+        590,
+        410,
+        613
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9932,
+      "box": [
+        127,
+        615,
+        453,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Professional degree, Business Administration, Riverway University, 2011",
+      "score": 0.9792,
+      "box": [
+        114,
+        723,
+        789,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Administrative Studies, Pinecrest University, 2007",
+      "score": 0.9766,
+      "box": [
+        114,
+        747,
+        686,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in internal reporting systems",
+      "score": 0.9484,
+      "box": [
+        132,
+        772,
+        628,
+        798
+      ]
+    },
+    {
+      "text": "• Completed coursework in business taxation",
+      "score": 0.9872,
+      "box": [
+        133,
+        799,
+        551,
+        822
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "MARSHALL WILEY\nNJ, USA|+1-965-906-3944 |marshall.wiley@example.com\nWORK HISTORY\nAccountants Auditors, ClearBalance Advisors, 2018.03–2023.01\n- Directed revenue recognition policies\n- Led accounting process optimization\nAccountants Auditors, SolidCount Advisors, 2013.05–2018.03\n- Designed financial control environments\n- Established financial quality controls\nAccountants Auditors, FairBalance Advisors, 2008.07–2013.05\n- Prepared financial projections\n- Conducted variance investigations\nAccountants Auditors, Reliable Ledger Advisors, 2003.08–2008.07\n- Maintained chart of accounts\n- Reviewed expense classifications\nEDUCATION\nProfessional degree, Business Administration, Riverway University, 2011\nBachelor's, Administrative Studies, Pinecrest University, 2007\n• Completed coursework in internal reporting systems\n• Completed coursework in business taxation"
+}

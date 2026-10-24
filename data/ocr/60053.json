@@ -1,0 +1,226 @@
+{
+  "id": "60053",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.871,
+  "n_lines": 16,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANNABECK",
+      "score": 0.9965,
+      "box": [
+        115,
+        88,
+        321,
+        122
+      ]
+    },
+    {
+      "text": "WV, USA|+1-952-655-6846|anna.beck@example.com",
+      "score": 0.9721,
+      "box": [
+        114,
+        150,
+        642,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9858,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Financial, 2020.01–2023.01",
+      "score": 0.9912,
+      "box": [
+        115,
+        290,
+        713,
+        313
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9863,
+      "box": [
+        126,
+        314,
+        361,
+        339
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.9766,
+      "box": [
+        126,
+        339,
+        503,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Services, 2017.01–2020.01",
+      "score": 0.9718,
+      "box": [
+        114,
+        381,
+        685,
+        406
+      ]
+    },
+    {
+      "text": "- Managed accounts receivable cycles",
+      "score": 0.991,
+      "box": [
+        126,
+        406,
+        483,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared cost allocation models",
+      "score": 0.9896,
+      "box": [
+        126,
+        432,
+        439,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Financial, 2014.01–2017.01",
+      "score": 0.97,
+      "box": [
+        115,
+        472,
+        723,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9746,
+      "box": [
+        126,
+        497,
+        405,
+        520
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.9831,
+      "box": [
+        126,
+        521,
+        420,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Management, Woodview University, 2013",
+      "score": 0.9834,
+      "box": [
+        114,
+        631,
+        701,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of revenue cycle management",
+      "score": 0.9848,
+      "box": [
+        132,
+        656,
+        636,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial controls",
+      "score": 0.964,
+      "box": [
+        137,
+        684,
+        544,
+        704
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ANNABECK\nWV, USA|+1-952-655-6846|anna.beck@example.com\nWORK HISTORY\nAccountants Auditors, ClearBalance Financial, 2020.01–2023.01\n- Designed tax strategies\n- Directed strategic accounting initiatives\nAccountants Auditors, FairLedger Services, 2017.01–2020.01\n- Managed accounts receivable cycles\n- Prepared cost allocation models\nAccountants Auditors, Integrity Count Financial, 2014.01–2017.01\n- Assisted with audit fieldwork\n- Reconciled subsidiary ledgers\nEDUCATION\nBachelor's, Business Management, Woodview University, 2013\n• Studied fundamentals of revenue cycle management\n• Completed coursework in financial controls"
+}

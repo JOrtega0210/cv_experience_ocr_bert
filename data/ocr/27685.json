@@ -1,0 +1,187 @@
+{
+  "id": "27685",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.879,
+  "n_lines": 13,
+  "mean_score": 0.9817,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ZACHARY KIRK",
+      "score": 0.9762,
+      "box": [
+        115,
+        90,
+        373,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-710-282-4612 |zachary.kirk@example.com",
+      "score": 0.9674,
+      "box": [
+        115,
+        150,
+        646,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9763,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Path School, 2018.07–2021.03",
+      "score": 0.9805,
+      "box": [
+        116,
+        289,
+        833,
+        312
+      ]
+    },
+    {
+      "text": "- Established curriculum evaluation protocols",
+      "score": 0.981,
+      "box": [
+        125,
+        313,
+        544,
+        338
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.9729,
+      "box": [
+        126,
+        339,
+        431,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Meadow Academy, 2015.04–2018.01",
+      "score": 0.9895,
+      "box": [
+        115,
+        381,
+        873,
+        406
+      ]
+    },
+    {
+      "text": "- Supported individual student learning activities",
+      "score": 0.9833,
+      "box": [
+        126,
+        406,
+        571,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9944,
+      "box": [
+        126,
+        431,
+        496,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9978,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Child Studies, Shoreline University, 2012",
+      "score": 0.9711,
+      "box": [
+        114,
+        539,
+        683,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication",
+      "score": 0.989,
+      "box": [
+        133,
+        566,
+        642,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in introductory child psychology",
+      "score": 0.9832,
+      "box": [
+        133,
+        590,
+        656,
+        616
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ZACHARY KIRK\nMI, USA|+1-710-282-4612 |zachary.kirk@example.com\nWORK HISTORY\nElementary Middle School Teachers, Growing Path School, 2018.07–2021.03\n- Established curriculum evaluation protocols\n- Designed assessment systems\nElementary Middle School Teachers, Sunny Meadow Academy, 2015.04–2018.01\n- Supported individual student learning activities\n- Implemented lesson pacing guidelines\nEDUCATION\nAssociate's degree, Child Studies, Shoreline University, 2012\n• Completed coursework in educational communication\n• Completed coursework in introductory child psychology"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "00889",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.995,
+  "n_lines": 16,
+  "mean_score": 0.9837,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NICOLE OLSON",
+      "score": 0.9594,
+      "box": [
+        114,
+        87,
+        374,
+        123
+      ]
+    },
+    {
+      "text": "AK, USA|+1-405-582-3718 |nicole.olson@example.com",
+      "score": 0.9804,
+      "box": [
+        115,
+        150,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.983,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightLife Health Services, 2020.12–2023.01",
+      "score": 0.9868,
+      "box": [
+        115,
+        289,
+        714,
+        314
+      ]
+    },
+    {
+      "text": "- Developed patient safety metrics",
+      "score": 0.9796,
+      "box": [
+        126,
+        315,
+        445,
+        338
+      ]
+    },
+    {
+      "text": "- Directed interdisciplinary workflow alignment",
+      "score": 0.9739,
+      "box": [
+        126,
+        339,
+        554,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunPath Care Group, 2018.11–2020.12",
+      "score": 0.9908,
+      "box": [
+        115,
+        381,
+        671,
+        406
+      ]
+    },
+    {
+      "text": "- Administered complex medication regimens",
+      "score": 0.9933,
+      "box": [
+        126,
+        406,
+        546,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with emergency interventions",
+      "score": 0.9869,
+      "box": [
+        126,
+        431,
+        497,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, CareBridge Health Services, 2016.09–2018.11",
+      "score": 0.9895,
+      "box": [
+        116,
+        472,
+        732,
+        496
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.9901,
+      "box": [
+        125,
+        496,
+        527,
+        521
+      ]
+    },
+    {
+      "text": "- Monitored patient intake and output",
+      "score": 0.9669,
+      "box": [
+        126,
+        521,
+        470,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing Practice, Northcrest University, 2015",
+      "score": 0.9892,
+      "box": [
+        114,
+        631,
+        642,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient mobility",
+      "score": 0.9836,
+      "box": [
+        132,
+        656,
+        519,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of conflict resolution basics",
+      "score": 0.9874,
+      "box": [
+        134,
+        682,
+        606,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "NICOLE OLSON\nAK, USA|+1-405-582-3718 |nicole.olson@example.com\nWORK HISTORY\nRegistered Nurses, BrightLife Health Services, 2020.12–2023.01\n- Developed patient safety metrics\n- Directed interdisciplinary workflow alignment\nRegistered Nurses, SunPath Care Group, 2018.11–2020.12\n- Administered complex medication regimens\n- Assisted with emergency interventions\nRegistered Nurses, CareBridge Health Services, 2016.09–2018.11\n- Administered injections under supervision\n- Monitored patient intake and output\nEDUCATION\nBachelor's, Nursing Practice, Northcrest University, 2015\n• Studied fundamentals of patient mobility\n• Studied fundamentals of conflict resolution basics"
+}

@@ -1,0 +1,265 @@
+{
+  "id": "12897",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.054,
+  "n_lines": 19,
+  "mean_score": 0.9852,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CLEVELAND KIRK",
+      "score": 0.9891,
+      "box": [
+        117,
+        90,
+        413,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-585-720-9236 |cleveland.kirk@example.com",
+      "score": 0.9834,
+      "box": [
+        115,
+        150,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkStone Contractors, 2020.06–202.01",
+      "score": 0.9726,
+      "box": [
+        114,
+        288,
+        724,
+        313
+      ]
+    },
+    {
+      "text": "- Directed site construction operations",
+      "score": 0.9819,
+      "box": [
+        126,
+        315,
+        480,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.9868,
+      "box": [
+        126,
+        338,
+        444,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Craft Co., 2017.11–2020.06",
+      "score": 0.9916,
+      "box": [
+        116,
+        382,
+        649,
+        405
+      ]
+    },
+    {
+      "text": "- Developed construction workflows",
+      "score": 0.991,
+      "box": [
+        126,
+        407,
+        458,
+        430
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.9766,
+      "box": [
+        126,
+        430,
+        531,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeWay Construction, 2015.04–2017.11",
+      "score": 0.9862,
+      "box": [
+        116,
+        472,
+        725,
+        496
+      ]
+    },
+    {
+      "text": "- Installed foundation elements",
+      "score": 0.9885,
+      "box": [
+        126,
+        497,
+        414,
+        519
+      ]
+    },
+    {
+      "text": "- Managed waste disposal operations",
+      "score": 0.9848,
+      "box": [
+        126,
+        521,
+        474,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmBase Builders, 2009.09–2012.04",
+      "score": 0.9807,
+      "box": [
+        114,
+        563,
+        679,
+        588
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.9779,
+      "box": [
+        125,
+        588,
+        441,
+        613
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.9845,
+      "box": [
+        127,
+        613,
+        474,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Foundations, Rolling Hills University, 2001",
+      "score": 0.9854,
+      "box": [
+        115,
+        723,
+        881,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of foundation systems",
+      "score": 0.9894,
+      "box": [
+        132,
+        748,
+        558,
+        771
+      ]
+    },
+    {
+      "text": "• Completed coursework in concrete curing methods",
+      "score": 0.985,
+      "box": [
+        134,
+        772,
+        618,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "CLEVELAND KIRK\nFL, USA|+1-585-720-9236 |cleveland.kirk@example.com\nWORK HISTORY\nConstruction Laborers, WorkStone Contractors, 2020.06–202.01\n- Directed site construction operations\n- Reviewed site inspection reports\nConstruction Laborers, Allied Craft Co., 2017.11–2020.06\n- Developed construction workflows\n- Implemented safety compliance strategies\nConstruction Laborers, PrimeWay Construction, 2015.04–2017.11\n- Installed foundation elements\n- Managed waste disposal operations\nConstruction Laborers, FirmBase Builders, 2009.09–2012.04\n- Handled delivery documentation\n- Marked measurements on materials\nEDUCATION\nSome college (no degree), Construction Foundations, Rolling Hills University, 2001\n• Studied fundamentals of foundation systems\n• Completed coursework in concrete curing methods"
+}

@@ -1,0 +1,265 @@
+{
+  "id": "36415",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.906,
+  "n_lines": 19,
+  "mean_score": 0.9818,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ROBERT WOOD",
+      "score": 0.9761,
+      "box": [
+        116,
+        90,
+        376,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-660-240-6401|robert.wood@example.com",
+      "score": 0.9727,
+      "box": [
+        115,
+        150,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Financial, 2020.03–2023.01",
+      "score": 0.9906,
+      "box": [
+        115,
+        290,
+        713,
+        313
+      ]
+    },
+    {
+      "text": "- Led internal audit functions",
+      "score": 0.9818,
+      "box": [
+        127,
+        313,
+        392,
+        338
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9808,
+      "box": [
+        126,
+        338,
+        515,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Financial, 2017.05–2020.03",
+      "score": 0.9848,
+      "box": [
+        114,
+        381,
+        693,
+        406
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9783,
+      "box": [
+        126,
+        406,
+        428,
+        431
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9904,
+      "box": [
+        127,
+        432,
+        553,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Advisors, 2013.07–2016.06",
+      "score": 0.9834,
+      "box": [
+        114,
+        471,
+        698,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared tax compliance filings",
+      "score": 0.9884,
+      "box": [
+        125,
+        496,
+        433,
+        522
+      ]
+    },
+    {
+      "text": "- Developed audit plans",
+      "score": 0.9634,
+      "box": [
+        125,
+        521,
+        349,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Advisors, 2009.02–2012.01",
+      "score": 0.9969,
+      "box": [
+        115,
+        565,
+        707,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared supporting schedules",
+      "score": 0.9727,
+      "box": [
+        126,
+        590,
+        432,
+        613
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.9689,
+      "box": [
+        126,
+        613,
+        436,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting, Shoreline University, 202",
+      "score": 0.9765,
+      "box": [
+        114,
+        723,
+        585,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in expense allocation",
+      "score": 0.991,
+      "box": [
+        133,
+        749,
+        562,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in ethics in business",
+      "score": 0.9734,
+      "box": [
+        133,
+        772,
+        555,
+        796
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "ROBERT WOOD\nNY, USA|+1-660-240-6401|robert.wood@example.com\nWORK HISTORY\nAccountants Auditors, ClearBalance Financial, 2020.03–2023.01\n- Led internal audit functions\n- Directed accounting operations planning\nAccountants Auditors, TrustCount Financial, 2017.05–2020.03\n- Managed financial governance\n- Designed financial documentation standards\nAccountants Auditors, TrustLedger Advisors, 2013.07–2016.06\n- Prepared tax compliance filings\n- Developed audit plans\nAccountants Auditors, SolidBalance Advisors, 2009.02–2012.01\n- Prepared supporting schedules\n- Prepared basic financial reports\nEDUCATION\nBachelor's, Accounting, Shoreline University, 202\n• Completed coursework in expense allocation\n• Completed coursework in ethics in business"
+}

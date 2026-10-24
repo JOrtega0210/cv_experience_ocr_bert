@@ -1,0 +1,226 @@
+{
+  "id": "60039",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.878,
+  "n_lines": 16,
+  "mean_score": 0.984,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HEIDI AVERY",
+      "score": 0.9662,
+      "box": [
+        116,
+        90,
+        333,
+        121
+      ]
+    },
+    {
+      "text": "WV, USA|+1-436-707-7555|heidi.avery@example.com",
+      "score": 0.9897,
+      "box": [
+        115,
+        150,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9807,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueLife Nursing, 2020.11–2023.01",
+      "score": 0.9858,
+      "box": [
+        115,
+        289,
+        628,
+        314
+      ]
+    },
+    {
+      "text": "- Managed clinical resource planning",
+      "score": 0.9706,
+      "box": [
+        126,
+        314,
+        468,
+        339
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9884,
+      "box": [
+        127,
+        339,
+        548,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Care Group, 2018.02–2020.04",
+      "score": 0.9761,
+      "box": [
+        115,
+        381,
+        706,
+        406
+      ]
+    },
+    {
+      "text": "- Managed intravenous therapy",
+      "score": 0.9833,
+      "box": [
+        126,
+        406,
+        419,
+        432
+      ]
+    },
+    {
+      "text": "- Managed patient advocacy tasks",
+      "score": 0.9896,
+      "box": [
+        126,
+        431,
+        447,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewWay Health Group, 2014.10–2017.01",
+      "score": 0.9864,
+      "box": [
+        116,
+        472,
+        687,
+        496
+      ]
+    },
+    {
+      "text": "- Performed blood glucose testing",
+      "score": 0.9861,
+      "box": [
+        125,
+        496,
+        442,
+        522
+      ]
+    },
+    {
+      "text": "- Checked laboratory results",
+      "score": 0.9774,
+      "box": [
+        126,
+        521,
+        391,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Information Management, Northwood University, 2006",
+      "score": 0.9826,
+      "box": [
+        114,
+        631,
+        793,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in perioperative care",
+      "score": 0.986,
+      "box": [
+        134,
+        658,
+        557,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of telemetry basics",
+      "score": 0.9965,
+      "box": [
+        134,
+        681,
+        492,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "HEIDI AVERY\nWV, USA|+1-436-707-7555|heidi.avery@example.com\nWORK HISTORY\nRegistered Nurses, TrueLife Nursing, 2020.11–2023.01\n- Managed clinical resource planning\n- Developed clinical performance dashboards\nRegistered Nurses, Compassion Care Group, 2018.02–2020.04\n- Managed intravenous therapy\n- Managed patient advocacy tasks\nRegistered Nurses, NewWay Health Group, 2014.10–2017.01\n- Performed blood glucose testing\n- Checked laboratory results\nEDUCATION\nBachelor's, Health Information Management, Northwood University, 2006\n• Completed coursework in perioperative care\n• Studied principles of telemetry basics"
+}

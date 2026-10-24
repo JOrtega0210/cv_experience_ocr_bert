@@ -1,0 +1,226 @@
+{
+  "id": "15785",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.984,
+  "n_lines": 16,
+  "mean_score": 0.9802,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MONIQUE HILL",
+      "score": 0.9874,
+      "box": [
+        116,
+        90,
+        361,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-315-823-8832 |monique.hill@example.com",
+      "score": 0.9658,
+      "box": [
+        117,
+        151,
+        654,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9856,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueBridge Nursing Services, 2021.01–2023.01",
+      "score": 0.9839,
+      "box": [
+        116,
+        290,
+        741,
+        313
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.9827,
+      "box": [
+        126,
+        314,
+        426,
+        339
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.9524,
+      "box": [
+        126,
+        338,
+        424,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearHands Nursing Group, 2017.11–2019.12",
+      "score": 0.9735,
+      "box": [
+        115,
+        381,
+        727,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted patient safety checks",
+      "score": 0.9811,
+      "box": [
+        126,
+        406,
+        444,
+        431
+      ]
+    },
+    {
+      "text": "- Administered blood transfusions",
+      "score": 0.9913,
+      "box": [
+        127,
+        432,
+        439,
+        453
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIBridge Health Group, 2014.12–2017.01",
+      "score": 0.9745,
+      "box": [
+        116,
+        472,
+        704,
+        496
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9827,
+      "box": [
+        125,
+        496,
+        365,
+        522
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9736,
+      "box": [
+        126,
+        521,
+        514,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Care Operations, High Meadow University, 2013",
+      "score": 0.9824,
+      "box": [
+        115,
+        631,
+        818,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in pathophysiology",
+      "score": 0.9889,
+      "box": [
+        133,
+        656,
+        540,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in nonpharmacologic pain relief",
+      "score": 0.978,
+      "box": [
+        135,
+        682,
+        657,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "MONIQUE HILL\nGA, USA|+1-315-823-8832 |monique.hill@example.com\nWORK HISTORY\nRegistered Nurses, TrueBridge Nursing Services, 2021.01–2023.01\n- Managed clinical data analysis\n- Led infection control programs\nRegistered Nurses, ClearHands Nursing Group, 2017.11–2019.12\n- Conducted patient safety checks\n- Administered blood transfusions\nRegistered Nurses, WelIBridge Health Group, 2014.12–2017.01\n- Recorded nursing notes\n- Assisted with physical therapy exercises\nEDUCATION\nAssociate's degree, Health Care Operations, High Meadow University, 2013\n• Completed coursework in pathophysiology\n• Completed coursework in nonpharmacologic pain relief"
+}

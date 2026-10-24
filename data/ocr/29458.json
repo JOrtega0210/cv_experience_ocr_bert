@@ -1,0 +1,239 @@
+{
+  "id": "29458",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.817,
+  "n_lines": 17,
+  "mean_score": 0.9831,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LISA SHAH",
+      "score": 0.9743,
+      "box": [
+        115,
+        88,
+        299,
+        122
+      ]
+    },
+    {
+      "text": "MN, USA|+1-584-770-4635 |lisa.shah@example.com",
+      "score": 0.9818,
+      "box": [
+        115,
+        150,
+        627,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9865,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonebyte Labs, 2019.12–2023.01",
+      "score": 0.9894,
+      "box": [
+        116,
+        289,
+        639,
+        312
+      ]
+    },
+    {
+      "text": "- Designed deployment strategies",
+      "score": 0.9733,
+      "box": [
+        126,
+        314,
+        441,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.9758,
+      "box": [
+        127,
+        340,
+        500,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Opencrest Solutions, 2016.11–2019.12",
+      "score": 0.9908,
+      "box": [
+        115,
+        381,
+        685,
+        406
+      ]
+    },
+    {
+      "text": "- Improved APl performance",
+      "score": 0.9758,
+      "box": [
+        126,
+        406,
+        393,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented backend services",
+      "score": 0.9766,
+      "box": [
+        127,
+        432,
+        431,
+        454
+      ]
+    },
+    {
+      "text": "Software Developers, Skywave Tech, 2013.09–2016.11",
+      "score": 0.9843,
+      "box": [
+        116,
+        472,
+        630,
+        496
+      ]
+    },
+    {
+      "text": "- Debugged runtime errors",
+      "score": 0.9929,
+      "box": [
+        126,
+        498,
+        375,
+        521
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.9691,
+      "box": [
+        128,
+        524,
+        372,
+        545
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Crestwood University, 2013",
+      "score": 0.9814,
+      "box": [
+        115,
+        632,
+        463,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearview University, 2011",
+      "score": 0.9816,
+      "box": [
+        115,
+        657,
+        471,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in numerical methods",
+      "score": 0.9884,
+      "box": [
+        133,
+        682,
+        566,
+        705
+      ]
+    },
+    {
+      "text": "• Completed coursework in database systems",
+      "score": 0.9918,
+      "box": [
+        133,
+        706,
+        558,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "LISA SHAH\nMN, USA|+1-584-770-4635 |lisa.shah@example.com\nWORK HISTORY\nSoftware Developers, Stonebyte Labs, 2019.12–2023.01\n- Designed deployment strategies\n- Implemented infrastructure automation\nSoftware Developers, Opencrest Solutions, 2016.11–2019.12\n- Improved APl performance\n- Implemented backend services\nSoftware Developers, Skywave Tech, 2013.09–2016.11\n- Debugged runtime errors\n- Updated localization files\nEDUCATION\nMaster's, Crestwood University, 2013\nBachelor's, Clearview University, 2011\n• Completed coursework in numerical methods\n• Completed coursework in database systems"
+}

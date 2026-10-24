@@ -1,0 +1,200 @@
+{
+  "id": "35940",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.821,
+  "n_lines": 14,
+  "mean_score": 0.9846,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CARSON DODSON",
+      "score": 0.9828,
+      "box": [
+        116,
+        88,
+        420,
+        122
+      ]
+    },
+    {
+      "text": "NY, USA|+1-474-454-9964|carson.dodson@example.com",
+      "score": 0.9956,
+      "box": [
+        115,
+        150,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrueLedger Advisors, 2020.11–2023.01",
+      "score": 0.9898,
+      "box": [
+        115,
+        290,
+        692,
+        313
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9683,
+      "box": [
+        125,
+        314,
+        427,
+        339
+      ]
+    },
+    {
+      "text": "- Designed budgeting methodologies",
+      "score": 0.9806,
+      "box": [
+        126,
+        339,
+        469,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, BrightPath Accounting Services, 2018.09–2020.11",
+      "score": 0.9924,
+      "box": [
+        114,
+        381,
+        791,
+        406
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9735,
+      "box": [
+        126,
+        407,
+        490,
+        430
+      ]
+    },
+    {
+      "text": "- Assisted with financial statement preparation",
+      "score": 0.9828,
+      "box": [
+        125,
+        431,
+        555,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Professional degree, Organizational Management, Southridge University, 2022",
+      "score": 0.9724,
+      "box": [
+        113,
+        538,
+        845,
+        566
+      ]
+    },
+    {
+      "text": "Bachelor's, General Business, Elm Ridge University, 2018",
+      "score": 0.9837,
+      "box": [
+        115,
+        566,
+        654,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of audit sampling",
+      "score": 0.9845,
+      "box": [
+        132,
+        590,
+        476,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in business mathematics",
+      "score": 0.9952,
+      "box": [
+        134,
+        616,
+        596,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "CARSON DODSON\nNY, USA|+1-474-454-9964|carson.dodson@example.com\nWORK HISTORY\nAccountants Auditors, TrueLedger Advisors, 2020.11–2023.01\n- Managed financial governance\n- Designed budgeting methodologies\nAccountants Auditors, BrightPath Accounting Services, 2018.09–2020.11\n- Processed accounts payable invoices\n- Assisted with financial statement preparation\nEDUCATION\nProfessional degree, Organizational Management, Southridge University, 2022\nBachelor's, General Business, Elm Ridge University, 2018\n• Studied principles of audit sampling\n• Completed coursework in business mathematics"
+}

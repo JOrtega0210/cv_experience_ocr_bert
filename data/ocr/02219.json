@@ -1,0 +1,148 @@
+{
+  "id": "02219",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.89,
+  "n_lines": 10,
+  "mean_score": 0.9856,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CELESTINO HOOVER",
+      "score": 0.9779,
+      "box": [
+        115,
+        87,
+        464,
+        122
+      ]
+    },
+    {
+      "text": "AR, USA|+1-589-480-8959|celestino.hoover@example.com",
+      "score": 0.991,
+      "box": [
+        115,
+        150,
+        693,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9797,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Financial Group, 2020.03–2023.01",
+      "score": 0.987,
+      "box": [
+        115,
+        289,
+        781,
+        312
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9596,
+      "box": [
+        125,
+        314,
+        413,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with compliance documentation",
+      "score": 0.9827,
+      "box": [
+        127,
+        340,
+        518,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Management, Greenfield Ridge University, 2023",
+      "score": 0.992,
+      "box": [
+        115,
+        449,
+        760,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in strategic cost management",
+      "score": 0.9971,
+      "box": [
+        134,
+        474,
+        641,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting project management",
+      "score": 0.9909,
+      "box": [
+        133,
+        498,
+        687,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "CELESTINO HOOVER\nAR, USA|+1-589-480-8959|celestino.hoover@example.com\nWORK HISTORY\nAccountants Auditors, SteadyLedger Financial Group, 2020.03–2023.01\n- Assisted with budget tracking\n- Assisted with compliance documentation\nEDUCATION\nBachelor's, Financial Management, Greenfield Ridge University, 2023\n• Completed coursework in strategic cost management\n• Completed coursework in accounting project management"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "01115",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.938,
+  "n_lines": 16,
+  "mean_score": 0.9788,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KARA TAYLOR",
+      "score": 0.9764,
+      "box": [
+        116,
+        90,
+        361,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-738-802-7307|kara.taylor@example.com",
+      "score": 0.9901,
+      "box": [
+        116,
+        151,
+        636,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Way Nursing, 2020.04–2023.01",
+      "score": 0.985,
+      "box": [
+        115,
+        289,
+        660,
+        314
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9729,
+      "box": [
+        125,
+        313,
+        471,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9808,
+      "box": [
+        126,
+        339,
+        571,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHands Care Center, 2017.07–2020.04",
+      "score": 0.9869,
+      "box": [
+        115,
+        381,
+        698,
+        406
+      ]
+    },
+    {
+      "text": "- Managed isolation procedures",
+      "score": 0.9703,
+      "box": [
+        126,
+        406,
+        423,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted clinical audits",
+      "score": 0.9785,
+      "box": [
+        127,
+        433,
+        371,
+        453
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Bridge Care, 2013.01–2015.10",
+      "score": 0.9924,
+      "box": [
+        116,
+        473,
+        664,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.9621,
+      "box": [
+        124,
+        496,
+        418,
+        522
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9629,
+      "box": [
+        126,
+        521,
+        399,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9626,
+      "box": [
+        115,
+        585,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Technology, Lakeside University, 2011",
+      "score": 0.9937,
+      "box": [
+        115,
+        632,
+        648,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in care plan development",
+      "score": 0.9892,
+      "box": [
+        133,
+        658,
+        602,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework inmedicationadministration",
+      "score": 0.97,
+      "box": [
+        135,
+        683,
+        624,
+        703
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "KARA TAYLOR\nAZ, USA|+1-738-802-7307|kara.taylor@example.com\nWORK HISTORY\nRegistered Nurses, Caring Way Nursing, 2020.04–2023.01\n- Established care delivery standards\n- Implemented clinical decision support systems\nRegistered Nurses, NewHands Care Center, 2017.07–2020.04\n- Managed isolation procedures\n- Conducted clinical audits\nRegistered Nurses, Helping Bridge Care, 2013.01–2015.10\n- Assisted with feeding patients\n- Recorded patient vital signs\nEDUCATION\nBachelor's, Health Technology, Lakeside University, 2011\n• Completed coursework in care plan development\n• Completed coursework inmedicationadministration"
+}

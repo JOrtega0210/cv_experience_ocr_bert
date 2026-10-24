@@ -1,0 +1,239 @@
+{
+  "id": "50076",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.83,
+  "n_lines": 17,
+  "mean_score": 0.9835,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "WILLIAM LEONARD",
+      "score": 0.9859,
+      "box": [
+        116,
+        90,
+        435,
+        120
+      ]
+    },
+    {
+      "text": "TX, USA|+1-574-286-4791|william.leonard@example.com",
+      "score": 0.9665,
+      "box": [
+        115,
+        150,
+        677,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.982,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Softfield Tech, 2020.04–2023.01",
+      "score": 0.992,
+      "box": [
+        116,
+        290,
+        623,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented release management strategies",
+      "score": 0.9795,
+      "box": [
+        126,
+        314,
+        561,
+        339
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.9849,
+      "box": [
+        127,
+        340,
+        373,
+        362
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Digital, 2017.06–2020.04",
+      "score": 0.9864,
+      "box": [
+        115,
+        381,
+        631,
+        406
+      ]
+    },
+    {
+      "text": "- Designed data models",
+      "score": 0.9956,
+      "box": [
+        127,
+        408,
+        349,
+        429
+      ]
+    },
+    {
+      "text": "- Managed deployment pipelines",
+      "score": 0.954,
+      "box": [
+        126,
+        431,
+        431,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Netwave Labs, 2014.08–2017.06",
+      "score": 0.9959,
+      "box": [
+        116,
+        472,
+        629,
+        495
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.9792,
+      "box": [
+        124,
+        496,
+        376,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented validation logic",
+      "score": 0.9849,
+      "box": [
+        126,
+        521,
+        406,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Rivercrest University, 2014",
+      "score": 0.9829,
+      "box": [
+        115,
+        631,
+        456,
+        654
+      ]
+    },
+    {
+      "text": "Bachelor's, Vista University, 2012",
+      "score": 0.9852,
+      "box": [
+        115,
+        657,
+        430,
+        680
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of recursion techniques",
+      "score": 0.9943,
+      "box": [
+        132,
+        681,
+        572,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in human-computer interaction basics",
+      "score": 0.9719,
+      "box": [
+        132,
+        706,
+        713,
+        731
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "WILLIAM LEONARD\nTX, USA|+1-574-286-4791|william.leonard@example.com\nWORK HISTORY\nSoftware Developers, Softfield Tech, 2020.04–2023.01\n- Implemented release management strategies\n- Led architectural reviews\nSoftware Developers, Netfield Digital, 2017.06–2020.04\n- Designed data models\n- Managed deployment pipelines\nSoftware Developers, Netwave Labs, 2014.08–2017.06\n- Resolved merge conflicts\n- Implemented validation logic\nEDUCATION\nMaster's, Rivercrest University, 2014\nBachelor's, Vista University, 2012\n• Studied fundamentals of recursion techniques\n• Completed coursework in human-computer interaction basics"
+}

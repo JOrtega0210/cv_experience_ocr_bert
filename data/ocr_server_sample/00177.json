@@ -1,0 +1,187 @@
+{
+  "id": "00177",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.787,
+  "n_lines": 13,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TIFFINI POOLE",
+      "score": 0.972,
+      "box": [
+        113,
+        87,
+        359,
+        123
+      ]
+    },
+    {
+      "text": "AL, USA|+1-340-297-9497 |tffini.poole@example.com",
+      "score": 0.9676,
+      "box": [
+        116,
+        151,
+        637,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Path Health, 2019.04–2021.09",
+      "score": 0.9882,
+      "box": [
+        116,
+        290,
+        675,
+        313
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.9919,
+      "box": [
+        126,
+        315,
+        455,
+        338
+      ]
+    },
+    {
+      "text": "- Supervised multidisciplinary care teams",
+      "score": 0.9874,
+      "box": [
+        126,
+        339,
+        508,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Way Care, 2015.11–2018.04",
+      "score": 0.9851,
+      "box": [
+        115,
+        381,
+        636,
+        406
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.9644,
+      "box": [
+        126,
+        407,
+        416,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared intravenous solutions",
+      "score": 0.9807,
+      "box": [
+        126,
+        432,
+        431,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Health and Human Services, Westview University, 2015",
+      "score": 0.9893,
+      "box": [
+        115,
+        541,
+        743,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of health disparities",
+      "score": 0.9766,
+      "box": [
+        132,
+        564,
+        536,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of infection control",
+      "score": 0.9859,
+      "box": [
+        133,
+        591,
+        489,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "TIFFINI POOLE\nAL, USA|+1-340-297-9497 |tffini.poole@example.com\nWORK HISTORY\nRegistered Nurses, Harmony Path Health, 2019.04–2021.09\n- Led nursing workflow optimization\n- Supervised multidisciplinary care teams\nRegistered Nurses, Caring Way Care, 2015.11–2018.04\n- Checked patient identification\n- Prepared intravenous solutions\nEDUCATION\nBachelor's, Health and Human Services, Westview University, 2015\n• Studied fundamentals of health disparities\n• Studied principles of infection control"
+}

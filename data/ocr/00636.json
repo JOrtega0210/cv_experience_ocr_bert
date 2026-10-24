@@ -1,0 +1,265 @@
+{
+  "id": "00636",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.058,
+  "n_lines": 19,
+  "mean_score": 0.9809,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KRYSTIN MAXWELL",
+      "score": 0.9808,
+      "box": [
+        116,
+        90,
+        443,
+        120
+      ]
+    },
+    {
+      "text": "AL, USA|+1-770-897-2462|krystin.maxwell@example.com",
+      "score": 0.9762,
+      "box": [
+        116,
+        151,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9805,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Way Care, 2020.02–2023.01",
+      "score": 0.9882,
+      "box": [
+        115,
+        289,
+        688,
+        314
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.9744,
+      "box": [
+        126,
+        313,
+        424,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented care pathway frameworks",
+      "score": 0.9777,
+      "box": [
+        127,
+        339,
+        506,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Path Nursing, 2017.03–2020.02",
+      "score": 0.9727,
+      "box": [
+        115,
+        381,
+        664,
+        406
+      ]
+    },
+    {
+      "text": "- Developed staffing allocation models",
+      "score": 0.9913,
+      "box": [
+        126,
+        406,
+        482,
+        431
+      ]
+    },
+    {
+      "text": "- Directed nursing operations planning",
+      "score": 0.9785,
+      "box": [
+        126,
+        431,
+        481,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Way Health, 2014.04–2017.03",
+      "score": 0.9894,
+      "box": [
+        116,
+        473,
+        673,
+        496
+      ]
+    },
+    {
+      "text": "- Administered chemotherapy protocols",
+      "score": 0.9917,
+      "box": [
+        125,
+        496,
+        492,
+        522
+      ]
+    },
+    {
+      "text": "- Provided rehabilitation nursing care",
+      "score": 0.98,
+      "box": [
+        126,
+        521,
+        469,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewBridge Care Center, 2011.05–2014.04",
+      "score": 0.9829,
+      "box": [
+        116,
+        565,
+        697,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared medication trays",
+      "score": 0.9659,
+      "box": [
+        125,
+        589,
+        387,
+        614
+      ]
+    },
+    {
+      "text": "- Updated patient medical records",
+      "score": 0.972,
+      "box": [
+        127,
+        615,
+        443,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Education, Brookridge University, 2011",
+      "score": 0.9868,
+      "box": [
+        115,
+        723,
+        730,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of mobility assistance",
+      "score": 0.9838,
+      "box": [
+        132,
+        747,
+        554,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in therapeuticcommunication",
+      "score": 0.9645,
+      "box": [
+        136,
+        775,
+        637,
+        795
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "KRYSTIN MAXWELL\nAL, USA|+1-770-897-2462|krystin.maxwell@example.com\nWORK HISTORY\nRegistered Nurses, Compassion Way Care, 2020.02–2023.01\n- Led infection control programs\n- Implemented care pathway frameworks\nRegistered Nurses, Caring Path Nursing, 2017.03–2020.02\n- Developed staffing allocation models\n- Directed nursing operations planning\nRegistered Nurses, Harmony Way Health, 2014.04–2017.03\n- Administered chemotherapy protocols\n- Provided rehabilitation nursing care\nRegistered Nurses, NewBridge Care Center, 2011.05–2014.04\n- Prepared medication trays\n- Updated patient medical records\nEDUCATION\nAssociate's degree, Health Education, Brookridge University, 2011\n• Studied fundamentals of mobility assistance\n• Completed coursework in therapeuticcommunication"
+}

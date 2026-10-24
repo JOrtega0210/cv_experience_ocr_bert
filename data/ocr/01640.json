@@ -1,0 +1,187 @@
+{
+  "id": "01640",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.994,
+  "n_lines": 13,
+  "mean_score": 0.9827,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ALYSSACHANG",
+      "score": 0.9985,
+      "box": [
+        116,
+        88,
+        385,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-567-738-9315|alyssa.chang@example.com",
+      "score": 0.9914,
+      "box": [
+        116,
+        151,
+        661,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9781,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Hearts Academy, 2021.04–202.01",
+      "score": 0.9794,
+      "box": [
+        114,
+        289,
+        838,
+        313
+      ]
+    },
+    {
+      "text": "- Led instructional leadership initiatives",
+      "score": 0.9783,
+      "box": [
+        126,
+        315,
+        488,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented instructional improvement programs",
+      "score": 0.9661,
+      "box": [
+        126,
+        339,
+        601,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Tree Academy, 2019.06–2021.04",
+      "score": 0.9921,
+      "box": [
+        115,
+        381,
+        856,
+        406
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9741,
+      "box": [
+        126,
+        407,
+        458,
+        429
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9859,
+      "box": [
+        127,
+        432,
+        495,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Support, Briarwood University, 217",
+      "score": 0.968,
+      "box": [
+        115,
+        540,
+        673,
+        563
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom workflow organization",
+      "score": 0.9897,
+      "box": [
+        134,
+        566,
+        690,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of lesson evaluation",
+      "score": 0.9758,
+      "box": [
+        134,
+        592,
+        539,
+        612
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ALYSSACHANG\nAZ, USA|+1-567-738-9315|alyssa.chang@example.com\nWORK HISTORY\nElementary Middle School Teachers, Kind Hearts Academy, 2021.04–202.01\n- Led instructional leadership initiatives\n- Implemented instructional improvement programs\nElementary Middle School Teachers, Growing Tree Academy, 2019.06–2021.04\n- Recorded behavioral observations\n- Implemented lesson pacing guidelines\nEDUCATION\nBachelor's, Educational Support, Briarwood University, 217\n• Completed coursework in classroom workflow organization\n• Studied fundamentals of lesson evaluation"
+}

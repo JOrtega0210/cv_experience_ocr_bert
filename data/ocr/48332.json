@@ -1,0 +1,148 @@
+{
+  "id": "48332",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.762,
+  "n_lines": 10,
+  "mean_score": 0.9784,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSEPH BURCH",
+      "score": 0.9869,
+      "box": [
+        116,
+        90,
+        384,
+        121
+      ]
+    },
+    {
+      "text": "SD, USA|+1-932-617-1274 |joseph.burch@example.com",
+      "score": 0.9794,
+      "box": [
+        116,
+        151,
+        661,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9834,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkLine Contractors, 2022.04–2023.01",
+      "score": 0.9774,
+      "box": [
+        115,
+        290,
+        708,
+        313
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.968,
+      "box": [
+        127,
+        315,
+        435,
+        338
+      ]
+    },
+    {
+      "text": "- Followed safety procedures on site",
+      "score": 0.9729,
+      "box": [
+        126,
+        339,
+        465,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Services, Woodview University, 2023",
+      "score": 0.9781,
+      "box": [
+        115,
+        447,
+        834,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in surveying basics",
+      "score": 0.9632,
+      "box": [
+        132,
+        472,
+        545,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in material handling",
+      "score": 0.9766,
+      "box": [
+        133,
+        499,
+        547,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JOSEPH BURCH\nSD, USA|+1-932-617-1274 |joseph.burch@example.com\nWORK HISTORY\nConstruction Laborers, WorkLine Contractors, 2022.04–2023.01\n- Installed temporary site barriers\n- Followed safety procedures on site\nEDUCATION\nSome college (no degree), Construction Services, Woodview University, 2023\n• Completed coursework in surveying basics\n• Completed coursework in material handling"
+}

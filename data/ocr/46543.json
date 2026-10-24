@@ -1,0 +1,226 @@
+{
+  "id": "46543",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.84,
+  "n_lines": 16,
+  "mean_score": 0.9798,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JULIANA OLSON",
+      "score": 0.9661,
+      "box": [
+        116,
+        90,
+        391,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-333-724-7829 |juliana.olson@example.com",
+      "score": 0.9836,
+      "box": [
+        115,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueLife Nursing, 2020.07–2023.01",
+      "score": 0.9762,
+      "box": [
+        115,
+        289,
+        628,
+        314
+      ]
+    },
+    {
+      "text": "- Developed medication management policies",
+      "score": 0.983,
+      "box": [
+        126,
+        314,
+        552,
+        339
+      ]
+    },
+    {
+      "text": "- Directed patient care coordination",
+      "score": 0.973,
+      "box": [
+        126,
+        339,
+        454,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleWay Nursing, 2018.01–2020.07",
+      "score": 0.9799,
+      "box": [
+        116,
+        383,
+        657,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted quality assurance checks",
+      "score": 0.9727,
+      "box": [
+        126,
+        406,
+        482,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted comprehensive patient assessments",
+      "score": 0.997,
+      "box": [
+        126,
+        431,
+        587,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWay Nursing, 2013.02–2015.08",
+      "score": 0.9916,
+      "box": [
+        116,
+        473,
+        632,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with hygiene care",
+      "score": 0.9902,
+      "box": [
+        125,
+        496,
+        390,
+        522
+      ]
+    },
+    {
+      "text": "- Prepared medication trays",
+      "score": 0.9736,
+      "box": [
+        126,
+        521,
+        387,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing Studies, Fairway University, 2004",
+      "score": 0.9758,
+      "box": [
+        114,
+        631,
+        614,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in nutrition for health",
+      "score": 0.9675,
+      "box": [
+        134,
+        659,
+        555,
+        679
+      ]
+    },
+    {
+      "text": "• Completed coursework in prioritization in nursing",
+      "score": 0.962,
+      "box": [
+        134,
+        681,
+        598,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JULIANA OLSON\nPA, USA|+1-333-724-7829 |juliana.olson@example.com\nWORK HISTORY\nRegistered Nurses, TrueLife Nursing, 2020.07–2023.01\n- Developed medication management policies\n- Directed patient care coordination\nRegistered Nurses, GentleWay Nursing, 2018.01–2020.07\n- Conducted quality assurance checks\n- Conducted comprehensive patient assessments\nRegistered Nurses, SunWay Nursing, 2013.02–2015.08\n- Assisted with hygiene care\n- Prepared medication trays\nEDUCATION\nBachelor's, Nursing Studies, Fairway University, 2004\n• Completed coursework in nutrition for health\n• Completed coursework in prioritization in nursing"
+}

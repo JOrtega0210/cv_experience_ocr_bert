@@ -1,0 +1,135 @@
+{
+  "id": "26279",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.716,
+  "n_lines": 9,
+  "mean_score": 0.9818,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AUDREYYU",
+      "score": 0.9981,
+      "box": [
+        116,
+        90,
+        315,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-254-840-3762 |audrey.yu@example.com",
+      "score": 0.974,
+      "box": [
+        115,
+        150,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9813,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datacrest Software, 2021.06–2023.01",
+      "score": 0.9896,
+      "box": [
+        116,
+        290,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "- Monitored application logs",
+      "score": 0.9438,
+      "box": [
+        125,
+        314,
+        385,
+        340
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9751,
+      "box": [
+        126,
+        339,
+        348,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Westbrook High School, 2019",
+      "score": 0.9869,
+      "box": [
+        116,
+        449,
+        653,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in layered architecture",
+      "score": 0.989,
+      "box": [
+        133,
+        474,
+        573,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "AUDREYYU\nMA, USA|+1-254-840-3762 |audrey.yu@example.com\nWORK HISTORY\nSoftware Developers, Datacrest Software, 2021.06–2023.01\n- Monitored application logs\n- Created test data sets\nEDUCATION\nHigh school graduate/GED, Westbrook High School, 2019\n• Completed coursework in layered architecture"
+}

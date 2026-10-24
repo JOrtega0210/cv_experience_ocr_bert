@@ -1,0 +1,148 @@
+{
+  "id": "47372",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.767,
+  "n_lines": 10,
+  "mean_score": 0.9845,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KRISTINA MILES",
+      "score": 0.9865,
+      "box": [
+        116,
+        90,
+        388,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-847-719-4773 |kristina.miles@example.com",
+      "score": 0.9818,
+      "box": [
+        116,
+        152,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9826,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Garden Academy, 2019.07–2021.0",
+      "score": 0.986,
+      "box": [
+        116,
+        290,
+        875,
+        313
+      ]
+    },
+    {
+      "text": "- Monitored independent work sessions",
+      "score": 0.9704,
+      "box": [
+        126,
+        315,
+        493,
+        338
+      ]
+    },
+    {
+      "text": "- Maintained classroom bulletin boards",
+      "score": 0.9833,
+      "box": [
+        127,
+        340,
+        486,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Community Education, Maplewood University, 2018",
+      "score": 0.986,
+      "box": [
+        115,
+        449,
+        704,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional review methods",
+      "score": 0.9834,
+      "box": [
+        133,
+        475,
+        651,
+        495
+      ]
+    },
+    {
+      "text": "• Studied principles of classroom inclusivity",
+      "score": 0.986,
+      "box": [
+        134,
+        499,
+        531,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "KRISTINA MILES\nSC, USA|+1-847-719-4773 |kristina.miles@example.com\nWORK HISTORY\nElementary Middle School Teachers, Learning Garden Academy, 2019.07–2021.0\n- Monitored independent work sessions\n- Maintained classroom bulletin boards\nEDUCATION\nBachelor's, Community Education, Maplewood University, 2018\n• Completed coursework in instructional review methods\n• Studied principles of classroom inclusivity"
+}

@@ -1,0 +1,200 @@
+{
+  "id": "01149",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.879,
+  "n_lines": 14,
+  "mean_score": 0.9811,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TANNER VANG",
+      "score": 0.9632,
+      "box": [
+        112,
+        87,
+        364,
+        123
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-579-871-8100|tanner.vang@example.com",
+      "score": 0.9845,
+      "box": [
+        115,
+        151,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skyline Tech, 2020.08–2023.01",
+      "score": 0.9826,
+      "box": [
+        114,
+        288,
+        615,
+        313
+      ]
+    },
+    {
+      "text": "- Led technical audits",
+      "score": 0.9744,
+      "box": [
+        127,
+        315,
+        327,
+        336
+      ]
+    },
+    {
+      "text": "- Implemented release management strategies",
+      "score": 0.9771,
+      "box": [
+        126,
+        339,
+        561,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Softframe Labs, 2018.03–2020.08",
+      "score": 0.9888,
+      "box": [
+        116,
+        382,
+        638,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with CI pipeline tasks",
+      "score": 0.978,
+      "box": [
+        125,
+        406,
+        423,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with container setup",
+      "score": 0.9946,
+      "box": [
+        125,
+        430,
+        413,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Pebble Creek University, 2018",
+      "score": 0.9755,
+      "box": [
+        115,
+        541,
+        490,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Silverview University, 2016",
+      "score": 0.9444,
+      "box": [
+        115,
+        565,
+        474,
+        588
+      ]
+    },
+    {
+      "text": "• Completed coursework in cloud computing basics",
+      "score": 0.9912,
+      "box": [
+        133,
+        590,
+        606,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in computer graphics basics",
+      "score": 0.9973,
+      "box": [
+        134,
+        615,
+        625,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "TANNER VANG\nAZ, USA|+1-579-871-8100|tanner.vang@example.com\nWORK HISTORY\nSoftware Developers, Skyline Tech, 2020.08–2023.01\n- Led technical audits\n- Implemented release management strategies\nSoftware Developers, Softframe Labs, 2018.03–2020.08\n- Assisted with CI pipeline tasks\n- Assisted with container setup\nEDUCATION\nMaster's, Pebble Creek University, 2018\nBachelor's, Silverview University, 2016\n• Completed coursework in cloud computing basics\n• Completed coursework in computer graphics basics"
+}

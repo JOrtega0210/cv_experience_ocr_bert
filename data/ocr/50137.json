@@ -1,0 +1,213 @@
+{
+  "id": "50137",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.836,
+  "n_lines": 15,
+  "mean_score": 0.9823,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MACIO BOONE",
+      "score": 0.9691,
+      "box": [
+        115,
+        88,
+        363,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA|+1-376-971-4907|macio.boone@example.com",
+      "score": 0.9876,
+      "box": [
+        114,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkStone Contractors, 2020.01–2023.01",
+      "score": 0.9868,
+      "box": [
+        115,
+        290,
+        724,
+        313
+      ]
+    },
+    {
+      "text": "- Directed equipment operations",
+      "score": 0.9727,
+      "box": [
+        126,
+        315,
+        428,
+        338
+      ]
+    },
+    {
+      "text": "- Managed construction schedules",
+      "score": 0.9589,
+      "box": [
+        127,
+        340,
+        447,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearFrame Construction, 2016.12–2020.01",
+      "score": 0.9865,
+      "box": [
+        115,
+        381,
+        740,
+        405
+      ]
+    },
+    {
+      "text": "- Installed plumbing fixtures",
+      "score": 0.9807,
+      "box": [
+        125,
+        406,
+        384,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted material inspections",
+      "score": 0.9932,
+      "box": [
+        126,
+        431,
+        434,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Craft Co., 2013.11–2016.12",
+      "score": 0.9893,
+      "box": [
+        116,
+        472,
+        649,
+        495
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9948,
+      "box": [
+        125,
+        496,
+        426,
+        522
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9662,
+      "box": [
+        126,
+        521,
+        540,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Foundations, Silverfield High School, 2011",
+      "score": 0.9842,
+      "box": [
+        116,
+        632,
+        892,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of material estimation",
+      "score": 0.9792,
+      "box": [
+        133,
+        657,
+        517,
+        680
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "MACIO BOONE\nTX, USA|+1-376-971-4907|macio.boone@example.com\nWORK HISTORY\nConstruction Laborers, WorkStone Contractors, 2020.01–2023.01\n- Directed equipment operations\n- Managed construction schedules\nConstruction Laborers, ClearFrame Construction, 2016.12–2020.01\n- Installed plumbing fixtures\n- Conducted material inspections\nConstruction Laborers, Allied Craft Co., 2013.11–2016.12\n- Assisted with concrete pouring\n- Carried materials to designated work areas\nEDUCATION\nHigh school graduate/GED, Construction Foundations, Silverfield High School, 2011\n• Studied principles of material estimation"
+}

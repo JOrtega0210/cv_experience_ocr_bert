@@ -1,0 +1,187 @@
+{
+  "id": "01740",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.925,
+  "n_lines": 13,
+  "mean_score": 0.9823,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SARAH ADKINS",
+      "score": 0.9806,
+      "box": [
+        115,
+        90,
+        374,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-798-368-1885|sarah.adkins@example.com",
+      "score": 0.9834,
+      "box": [
+        114,
+        150,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9789,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverHands Health Services, 2020.09–2023.01",
+      "score": 0.9751,
+      "box": [
+        116,
+        290,
+        730,
+        313
+      ]
+    },
+    {
+      "text": "- Developed medication management policies",
+      "score": 0.9854,
+      "box": [
+        126,
+        315,
+        552,
+        338
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.977,
+      "box": [
+        126,
+        339,
+        391,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearHands Health Group, 2018.05–2020.09",
+      "score": 0.9917,
+      "box": [
+        116,
+        382,
+        715,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.994,
+      "box": [
+        125,
+        406,
+        473,
+        431
+      ]
+    },
+    {
+      "text": "- Updated patient medical records",
+      "score": 0.9771,
+      "box": [
+        127,
+        432,
+        443,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing Foundations, Larkspur University, 2020",
+      "score": 0.9797,
+      "box": [
+        115,
+        541,
+        666,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in therapeutic exercise basics",
+      "score": 0.9712,
+      "box": [
+        133,
+        565,
+        640,
+        588
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic nursing principles",
+      "score": 0.9778,
+      "box": [
+        133,
+        590,
+        606,
+        613
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "SARAH ADKINS\nAZ, USA|+1-798-368-1885|sarah.adkins@example.com\nWORK HISTORY\nRegistered Nurses, EverHands Health Services, 2020.09–2023.01\n- Developed medication management policies\n- Led nursing process audits\nRegistered Nurses, ClearHands Health Group, 2018.05–2020.09\n- Assisted with respiratory treatments\n- Updated patient medical records\nEDUCATION\nBachelor's, Nursing Foundations, Larkspur University, 2020\n• Completed coursework in therapeutic exercise basics\n• Completed coursework in basic nursing principles"
+}

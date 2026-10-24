@@ -1,0 +1,135 @@
+{
+  "id": "57433",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.744,
+  "n_lines": 9,
+  "mean_score": 0.9836,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JALEN HORNE",
+      "score": 0.9814,
+      "box": [
+        116,
+        90,
+        358,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-932-597-2856 |jalen.horne@example.com",
+      "score": 0.9875,
+      "box": [
+        115,
+        150,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9819,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorPoint Builders, 2022.07–2023.01",
+      "score": 0.9727,
+      "box": [
+        115,
+        290,
+        702,
+        313
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.9872,
+      "box": [
+        126,
+        314,
+        503,
+        339
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9761,
+      "box": [
+        126,
+        339,
+        406,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Services, Riverstone Ridge High School, 2020",
+      "score": 0.9897,
+      "box": [
+        116,
+        449,
+        928,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic tile installation",
+      "score": 0.9771,
+      "box": [
+        133,
+        474,
+        576,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "JALEN HORNE\nVA, USA|+1-932-597-2856 |jalen.horne@example.com\nWORK HISTORY\nConstruction Laborers, AnchorPoint Builders, 2022.07–2023.01\n- Handled power tools under supervision\n- Installed temporary supports\nEDUCATION\nHigh school graduate/GED, Construction Services, Riverstone Ridge High School, 2020\n• Completed coursework in basic tile installation"
+}

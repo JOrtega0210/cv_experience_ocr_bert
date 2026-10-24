@@ -1,0 +1,161 @@
+{
+  "id": "03153",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.83,
+  "n_lines": 11,
+  "mean_score": 0.9847,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AIMEEVO",
+      "score": 0.995,
+      "box": [
+        114,
+        86,
+        284,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA|+1-527-877-7483 |aimee.vo@example.com",
+      "score": 0.9781,
+      "box": [
+        116,
+        151,
+        625,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9829,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softframe Labs, 2021.05–2023.01",
+      "score": 0.9913,
+      "box": [
+        115,
+        290,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Wrote unit tests for application modules",
+      "score": 0.9892,
+      "box": [
+        126,
+        315,
+        508,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9807,
+      "box": [
+        126,
+        339,
+        437,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Pebble Creek University, 2020",
+      "score": 0.9811,
+      "box": [
+        114,
+        447,
+        490,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Silver Creek University, 2018",
+      "score": 0.9644,
+      "box": [
+        114,
+        472,
+        495,
+        496
+      ]
+    },
+    {
+      "text": "• Completed coursework in continuous integration",
+      "score": 0.9843,
+      "box": [
+        134,
+        499,
+        594,
+        522
+      ]
+    },
+    {
+      "text": "• Completed coursework in project documentation",
+      "score": 0.9861,
+      "box": [
+        135,
+        524,
+        595,
+        547
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "AIMEEVO\nCA, USA|+1-527-877-7483 |aimee.vo@example.com\nWORK HISTORY\nSoftware Developers, Softframe Labs, 2021.05–2023.01\n- Wrote unit tests for application modules\n- Reviewed test coverage reports\nEDUCATION\nMaster's, Pebble Creek University, 2020\nBachelor's, Silver Creek University, 2018\n• Completed coursework in continuous integration\n• Completed coursework in project documentation"
+}

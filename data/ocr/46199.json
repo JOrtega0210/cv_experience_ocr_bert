@@ -1,0 +1,226 @@
+{
+  "id": "46199",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.849,
+  "n_lines": 16,
+  "mean_score": 0.9764,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KELLIE STEELE",
+      "score": 0.9854,
+      "box": [
+        116,
+        90,
+        377,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-368-281-7914 |kellie.steele@example.com",
+      "score": 0.9599,
+      "box": [
+        115,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9793,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearWay Nursing Group, 2020.08–2023.01",
+      "score": 0.9852,
+      "box": [
+        115,
+        289,
+        707,
+        314
+      ]
+    },
+    {
+      "text": "- Managed care delivery innovation",
+      "score": 0.963,
+      "box": [
+        126,
+        314,
+        453,
+        337
+      ]
+    },
+    {
+      "text": "- Managed patient safety reporting systems",
+      "score": 0.9532,
+      "box": [
+        127,
+        339,
+        529,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIHands Nursing Group, 2016.10–2019.03",
+      "score": 0.9753,
+      "box": [
+        116,
+        383,
+        718,
+        406
+      ]
+    },
+    {
+      "text": "- Documented clinical care activities",
+      "score": 0.9774,
+      "box": [
+        126,
+        407,
+        460,
+        429
+      ]
+    },
+    {
+      "text": "- Educated patients on treatment plans",
+      "score": 0.9822,
+      "box": [
+        126,
+        431,
+        488,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Life Nursing, 2013.03–2015.09",
+      "score": 0.9881,
+      "box": [
+        116,
+        472,
+        654,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored patient intake and output",
+      "score": 0.9627,
+      "box": [
+        125,
+        496,
+        471,
+        522
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9574,
+      "box": [
+        126,
+        521,
+        387,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Health, Golden Meadow University, 2009",
+      "score": 0.9891,
+      "box": [
+        114,
+        631,
+        678,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of blood transfusion basics",
+      "score": 0.9781,
+      "box": [
+        132,
+        656,
+        566,
+        680
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of conflict resolution basics",
+      "score": 0.9876,
+      "box": [
+        134,
+        682,
+        606,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "KELLIE STEELE\nPA, USA|+1-368-281-7914 |kellie.steele@example.com\nWORK HISTORY\nRegistered Nurses, ClearWay Nursing Group, 2020.08–2023.01\n- Managed care delivery innovation\n- Managed patient safety reporting systems\nRegistered Nurses, WelIHands Nursing Group, 2016.10–2019.03\n- Documented clinical care activities\n- Educated patients on treatment plans\nRegistered Nurses, Caring Life Nursing, 2013.03–2015.09\n- Monitored patient intake and output\n- Prepared treatment rooms\nEDUCATION\nBachelor's, Clinical Health, Golden Meadow University, 2009\n• Studied principles of blood transfusion basics\n• Studied fundamentals of conflict resolution basics"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "60149",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.825,
+  "n_lines": 13,
+  "mean_score": 0.9823,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRANDIKERR",
+      "score": 0.9977,
+      "box": [
+        116,
+        90,
+        352,
+        121
+      ]
+    },
+    {
+      "text": "WV, USA|+1-793-854-7720|brandi.kerr@example.com",
+      "score": 0.9728,
+      "box": [
+        115,
+        150,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9854,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Care Center, 2018.12–2020.10",
+      "score": 0.9846,
+      "box": [
+        115,
+        289,
+        697,
+        314
+      ]
+    },
+    {
+      "text": "– Managed clinical data analysis",
+      "score": 0.9508,
+      "box": [
+        127,
+        315,
+        426,
+        338
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.9777,
+      "box": [
+        126,
+        339,
+        458,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightSpring Health Services, 2016.06–2018.04",
+      "score": 0.9858,
+      "box": [
+        115,
+        381,
+        743,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared medication trays",
+      "score": 0.9642,
+      "box": [
+        125,
+        406,
+        387,
+        432
+      ]
+    },
+    {
+      "text": "- Conducted basic patient assessments",
+      "score": 0.9877,
+      "box": [
+        126,
+        431,
+        494,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Biomedical Sciences, Fairview Ridge University, 2002",
+      "score": 0.9868,
+      "box": [
+        114,
+        539,
+        723,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in integumentary system care",
+      "score": 0.9886,
+      "box": [
+        133,
+        565,
+        640,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of healthcare ethics",
+      "score": 0.9896,
+      "box": [
+        134,
+        591,
+        499,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "BRANDIKERR\nWV, USA|+1-793-854-7720|brandi.kerr@example.com\nWORK HISTORY\nRegistered Nurses, NewSpring Care Center, 2018.12–2020.10\n– Managed clinical data analysis\n- Developed patient care algorithms\nRegistered Nurses, BrightSpring Health Services, 2016.06–2018.04\n- Prepared medication trays\n- Conducted basic patient assessments\nEDUCATION\nBachelor's, Biomedical Sciences, Fairview Ridge University, 2002\n• Completed coursework in integumentary system care\n• Studied principles of healthcare ethics"
+}

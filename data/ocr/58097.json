@@ -1,0 +1,200 @@
+{
+  "id": "58097",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.866,
+  "n_lines": 14,
+  "mean_score": 0.9816,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KARLA PETERS",
+      "score": 0.9857,
+      "box": [
+        116,
+        90,
+        378,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-205-619-9294 |karla.peters@example.com",
+      "score": 0.9734,
+      "box": [
+        114,
+        150,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9773,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Futures Academy, 2021.04–2023.01",
+      "score": 0.9776,
+      "box": [
+        114,
+        289,
+        883,
+        314
+      ]
+    },
+    {
+      "text": "- Developed student performance metrics",
+      "score": 0.9723,
+      "box": [
+        126,
+        315,
+        512,
+        338
+      ]
+    },
+    {
+      "text": "- Developed long-term instructional strategies",
+      "score": 0.9853,
+      "box": [
+        126,
+        339,
+        550,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Horizons School, 2016.08–2018.06",
+      "score": 0.9665,
+      "box": [
+        116,
+        382,
+        839,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed learning standards",
+      "score": 0.9948,
+      "box": [
+        126,
+        407,
+        412,
+        430
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.977,
+      "box": [
+        127,
+        432,
+        496,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Liberal Arts, Highland University, 2007",
+      "score": 0.9751,
+      "box": [
+        115,
+        541,
+        563,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Basic Child Development, Riverhaven University, 2005",
+      "score": 0.9897,
+      "box": [
+        115,
+        566,
+        731,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic instruction methods",
+      "score": 0.9815,
+      "box": [
+        134,
+        591,
+        665,
+        614
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson structure design",
+      "score": 0.9881,
+      "box": [
+        134,
+        615,
+        604,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "KARLA PETERS\nWA, USA|+1-205-619-9294 |karla.peters@example.com\nWORK HISTORY\nElementary Middle School Teachers, Growing Futures Academy, 2021.04–2023.01\n- Developed student performance metrics\n- Developed long-term instructional strategies\nElementary Middle School Teachers, Little Horizons School, 2016.08–2018.06\n- Reviewed learning standards\n- Implemented lesson pacing guidelines\nEDUCATION\nMaster's, Liberal Arts, Highland University, 2007\nBachelor's, Basic Child Development, Riverhaven University, 2005\n• Completed coursework in academic instruction methods\n• Completed coursework in lesson structure design"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "54640",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.849,
+  "n_lines": 13,
+  "mean_score": 0.9822,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KATHLEEN CONLEY",
+      "score": 0.9684,
+      "box": [
+        116,
+        90,
+        448,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-557-544-1517|kathleen.conley@example.com",
+      "score": 0.9832,
+      "box": [
+        115,
+        150,
+        684,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9901,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWorks Builders, 2021.01–2023.01",
+      "score": 0.9865,
+      "box": [
+        115,
+        290,
+        693,
+        313
+      ]
+    },
+    {
+      "text": "- Managed workforce allocation",
+      "score": 0.9546,
+      "box": [
+        126,
+        315,
+        420,
+        338
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.9792,
+      "box": [
+        126,
+        339,
+        476,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorLine Contractors, 2018.12–2021.01",
+      "score": 0.992,
+      "box": [
+        115,
+        382,
+        725,
+        404
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.9881,
+      "box": [
+        127,
+        408,
+        373,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.9672,
+      "box": [
+        126,
+        431,
+        555,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Logistics, Willowview University, 2016",
+      "score": 0.9868,
+      "box": [
+        115,
+        539,
+        778,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of load handling",
+      "score": 0.9829,
+      "box": [
+        133,
+        566,
+        466,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic plastering",
+      "score": 0.9914,
+      "box": [
+        133,
+        590,
+        534,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KATHLEEN CONLEY\nTX, USA|+1-557-544-1517|kathleen.conley@example.com\nWORK HISTORY\nConstruction Laborers, SolidWorks Builders, 2021.01–2023.01\n- Managed workforce allocation\n- Developed site performance metrics\nConstruction Laborers, AnchorLine Contractors, 2018.12–2021.01\n- Sorted building materials\n- Prepared tools and equipment for daily tasks\nEDUCATION\nAssociate's degree, Construction Logistics, Willowview University, 2016\n• Studied principles of load handling\n• Completed coursework in basic plastering"
+}

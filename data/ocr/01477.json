@@ -1,0 +1,148 @@
+{
+  "id": "01477",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.845,
+  "n_lines": 10,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HANNAH CUNNINGHAM",
+      "score": 0.9824,
+      "box": [
+        116,
+        90,
+        504,
+        120
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-763-313-4097|hannah.cunningham@example.com",
+      "score": 0.9871,
+      "box": [
+        116,
+        152,
+        728,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Advisors, 2020.01–2023.01",
+      "score": 0.9797,
+      "box": [
+        115,
+        290,
+        694,
+        312
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9786,
+      "box": [
+        126,
+        314,
+        423,
+        340
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.965,
+      "box": [
+        126,
+        339,
+        490,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Information Systems, Willowbrook University, 2022",
+      "score": 0.9803,
+      "box": [
+        115,
+        449,
+        695,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of continuous auditing",
+      "score": 0.9897,
+      "box": [
+        132,
+        472,
+        521,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in risk assessment",
+      "score": 0.9929,
+      "box": [
+        134,
+        499,
+        540,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "HANNAH CUNNINGHAM\nAZ, USA|+1-763-313-4097|hannah.cunningham@example.com\nWORK HISTORY\nAccountants Auditors, AccuLedger Advisors, 2020.01–2023.01\n- Assisted with regulatory filings\n- Processed accounts payable invoices\nEDUCATION\nBachelor's, Information Systems, Willowbrook University, 2022\n• Studied principles of continuous auditing\n• Completed coursework in risk assessment"
+}

@@ -1,0 +1,265 @@
+{
+  "id": "30549",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.904,
+  "n_lines": 19,
+  "mean_score": 0.9801,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DEREK MCGUIRE",
+      "score": 0.9685,
+      "box": [
+        115,
+        87,
+        403,
+        123
+      ]
+    },
+    {
+      "text": "MO, USA|+1-806-719-7820|derek.mcguire@example.com",
+      "score": 0.9927,
+      "box": [
+        115,
+        150,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9813,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Datapoint Solutions, 2018.04–2023.01",
+      "score": 0.9924,
+      "box": [
+        115,
+        288,
+        675,
+        314
+      ]
+    },
+    {
+      "text": "-Led architectural reviews",
+      "score": 0.9864,
+      "box": [
+        126,
+        314,
+        373,
+        337
+      ]
+    },
+    {
+      "text": "- Developed system monitoring strategies",
+      "score": 0.9693,
+      "box": [
+        126,
+        339,
+        513,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Solutions, 2013.06–2018.04",
+      "score": 0.9871,
+      "box": [
+        115,
+        381,
+        688,
+        406
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9958,
+      "box": [
+        126,
+        406,
+        438,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented disaster recovery plans",
+      "score": 0.9893,
+      "box": [
+        126,
+        431,
+        482,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Flowframe Digital, 2008.08–2013.06",
+      "score": 0.9835,
+      "box": [
+        115,
+        471,
+        657,
+        496
+      ]
+    },
+    {
+      "text": "- Developed CI/CD scripts",
+      "score": 0.9511,
+      "box": [
+        125,
+        496,
+        371,
+        522
+      ]
+    },
+    {
+      "text": "- Implemented backend services",
+      "score": 0.984,
+      "box": [
+        126,
+        521,
+        431,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Digital, 2003.10–2008.08",
+      "score": 0.9882,
+      "box": [
+        115,
+        563,
+        651,
+        589
+      ]
+    },
+    {
+      "text": "- Refactored simple functions for readability",
+      "score": 0.9532,
+      "box": [
+        125,
+        589,
+        530,
+        614
+      ]
+    },
+    {
+      "text": "- Reviewed code changes for syntax and logic issues",
+      "score": 0.9772,
+      "box": [
+        126,
+        614,
+        620,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Shoreline University, 2007",
+      "score": 0.957,
+      "box": [
+        114,
+        723,
+        470,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of software reliability",
+      "score": 0.9941,
+      "box": [
+        133,
+        749,
+        507,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in programming in Python",
+      "score": 0.9727,
+      "box": [
+        133,
+        773,
+        605,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "DEREK MCGUIRE\nMO, USA|+1-806-719-7820|derek.mcguire@example.com\nWORK HISTORY\nSoftware Developers, Datapoint Solutions, 2018.04–2023.01\n-Led architectural reviews\n- Developed system monitoring strategies\nSoftware Developers, Openwave Solutions, 2013.06–2018.04\n- Led technical roadmap planning\n- Implemented disaster recovery plans\nSoftware Developers, Flowframe Digital, 2008.08–2013.06\n- Developed CI/CD scripts\n- Implemented backend services\nSoftware Developers, Clearpath Digital, 2003.10–2008.08\n- Refactored simple functions for readability\n- Reviewed code changes for syntax and logic issues\nEDUCATION\nBachelor's, Shoreline University, 2007\n• Studied principles of software reliability\n• Completed coursework in programming in Python"
+}

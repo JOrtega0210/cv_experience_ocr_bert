@@ -1,0 +1,135 @@
+{
+  "id": "50842",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.759,
+  "n_lines": 9,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DARRELLGILL",
+      "score": 0.9992,
+      "box": [
+        116,
+        90,
+        363,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-396-275-9279|darrell.gill@example.com",
+      "score": 0.9789,
+      "box": [
+        115,
+        150,
+        628,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9793,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterBuild Group, 2022.02–2023.01",
+      "score": 0.9808,
+      "box": [
+        115,
+        290,
+        680,
+        313
+      ]
+    },
+    {
+      "text": "- Applied basic sealants and adhesives",
+      "score": 0.9714,
+      "box": [
+        127,
+        315,
+        490,
+        338
+      ]
+    },
+    {
+      "text": "– Marked measurements on materials",
+      "score": 0.9638,
+      "box": [
+        127,
+        340,
+        475,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Technology, Northfield High School, 2022",
+      "score": 0.9883,
+      "box": [
+        116,
+        449,
+        885,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction measurements",
+      "score": 0.9829,
+      "box": [
+        133,
+        475,
+        643,
+        495
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "DARRELLGILL\nTX, USA|+1-396-275-9279|darrell.gill@example.com\nWORK HISTORY\nConstruction Laborers, MasterBuild Group, 2022.02–2023.01\n- Applied basic sealants and adhesives\n– Marked measurements on materials\nEDUCATION\nHigh school graduate/GED, Construction Technology, Northfield High School, 2022\n• Completed coursework in construction measurements"
+}

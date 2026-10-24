@@ -1,0 +1,148 @@
+{
+  "id": "14425",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.892,
+  "n_lines": 10,
+  "mean_score": 0.9826,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KATHERINE REILLY",
+      "score": 0.9876,
+      "box": [
+        116,
+        90,
+        441,
+        120
+      ]
+    },
+    {
+      "text": "FL, USA|+1-999-339-2508 |katherine.reilly@example.com",
+      "score": 0.9714,
+      "box": [
+        116,
+        151,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9808,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Financial Group, 2019.06–2020.12",
+      "score": 0.9879,
+      "box": [
+        114,
+        289,
+        756,
+        313
+      ]
+    },
+    {
+      "text": "-Maintained chart of accounts",
+      "score": 0.9742,
+      "box": [
+        125,
+        313,
+        411,
+        338
+      ]
+    },
+    {
+      "text": "- Filed financial documents",
+      "score": 0.9801,
+      "box": [
+        125,
+        338,
+        379,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, International Business, Lakewood University, 2006",
+      "score": 0.9688,
+      "box": [
+        114,
+        447,
+        693,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of sustainability accounting basics",
+      "score": 0.9901,
+      "box": [
+        132,
+        472,
+        670,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in business taxation",
+      "score": 0.9869,
+      "box": [
+        135,
+        500,
+        550,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "KATHERINE REILLY\nFL, USA|+1-999-339-2508 |katherine.reilly@example.com\nWORK HISTORY\nAccountants Auditors, SolidCount Financial Group, 2019.06–2020.12\n-Maintained chart of accounts\n- Filed financial documents\nEDUCATION\nBachelor's, International Business, Lakewood University, 2006\n• Studied fundamentals of sustainability accounting basics\n• Completed coursework in business taxation"
+}

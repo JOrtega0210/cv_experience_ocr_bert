@@ -1,0 +1,252 @@
+{
+  "id": "48372",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.969,
+  "n_lines": 18,
+  "mean_score": 0.9817,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANTHONY JACOBS",
+      "score": 0.9848,
+      "box": [
+        117,
+        90,
+        432,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-331-842-1938|anthony.jacobs@example.com",
+      "score": 0.9876,
+      "box": [
+        115,
+        150,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueFrame Builders, 2018.05–2023.01",
+      "score": 0.9884,
+      "box": [
+        115,
+        290,
+        691,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed and approved project plans",
+      "score": 0.9671,
+      "box": [
+        127,
+        315,
+        491,
+        338
+      ]
+    },
+    {
+      "text": "- Directed project execution strategies",
+      "score": 0.9764,
+      "box": [
+        126,
+        339,
+        480,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftTrack Builders, 2013.09–2018.05",
+      "score": 0.9901,
+      "box": [
+        116,
+        382,
+        687,
+        405
+      ]
+    },
+    {
+      "text": "- Developed construction workflows",
+      "score": 0.9908,
+      "box": [
+        126,
+        407,
+        458,
+        430
+      ]
+    },
+    {
+      "text": "- Managed large-scale installations",
+      "score": 0.9527,
+      "box": [
+        127,
+        432,
+        452,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeFrame Construction, 2008.12–2013.09",
+      "score": 0.9873,
+      "box": [
+        115,
+        472,
+        746,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed installation quality",
+      "score": 0.9625,
+      "box": [
+        125,
+        496,
+        405,
+        522
+      ]
+    },
+    {
+      "text": "- Managed waste disposal operations",
+      "score": 0.9835,
+      "box": [
+        126,
+        521,
+        474,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmCraft Construction, 2004.03–2008.12",
+      "score": 0.9909,
+      "box": [
+        116,
+        566,
+        718,
+        586
+      ]
+    },
+    {
+      "text": "-Mixed concrete and mortar",
+      "score": 0.9695,
+      "box": [
+        126,
+        589,
+        390,
+        612
+      ]
+    },
+    {
+      "text": "- Installed simple fixtures",
+      "score": 0.976,
+      "box": [
+        127,
+        615,
+        360,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Coordination, Foxwood High School, 2002",
+      "score": 0.988,
+      "box": [
+        116,
+        725,
+        891,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in building layout techniques",
+      "score": 0.9896,
+      "box": [
+        133,
+        749,
+        629,
+        772
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "ANTHONY JACOBS\nTN, USA|+1-331-842-1938|anthony.jacobs@example.com\nWORK HISTORY\nConstruction Laborers, TrueFrame Builders, 2018.05–2023.01\n- Reviewed and approved project plans\n- Directed project execution strategies\nConstruction Laborers, CraftTrack Builders, 2013.09–2018.05\n- Developed construction workflows\n- Managed large-scale installations\nConstruction Laborers, PrimeFrame Construction, 2008.12–2013.09\n- Reviewed installation quality\n- Managed waste disposal operations\nConstruction Laborers, FirmCraft Construction, 2004.03–2008.12\n-Mixed concrete and mortar\n- Installed simple fixtures\nEDUCATION\nHigh school graduate/GED, Construction Coordination, Foxwood High School, 2002\n• Completed coursework in building layout techniques"
+}

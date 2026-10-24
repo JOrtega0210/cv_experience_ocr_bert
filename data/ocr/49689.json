@@ -1,0 +1,187 @@
+{
+  "id": "49689",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.824,
+  "n_lines": 13,
+  "mean_score": 0.9831,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSEPH VAUGHN",
+      "score": 0.9792,
+      "box": [
+        116,
+        90,
+        408,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-694-435-3691|joseph.vaughn@example.com",
+      "score": 0.9809,
+      "box": [
+        115,
+        150,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongBase Builders, 2020.03–2023.01",
+      "score": 0.9795,
+      "box": [
+        115,
+        290,
+        697,
+        313
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.9865,
+      "box": [
+        126,
+        314,
+        478,
+        339
+      ]
+    },
+    {
+      "text": "- Directed quality assurance programs",
+      "score": 0.9697,
+      "box": [
+        126,
+        339,
+        482,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyRise Builders, 2017.05–2020.03",
+      "score": 0.9933,
+      "box": [
+        115,
+        381,
+        696,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with roofing material handling",
+      "score": 0.9795,
+      "box": [
+        126,
+        406,
+        498,
+        432
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9815,
+      "box": [
+        126,
+        431,
+        439,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Heavy Equipment Operation, Briarwood University, 2019",
+      "score": 0.9754,
+      "box": [
+        116,
+        541,
+        892,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction workflow coordination",
+      "score": 0.9917,
+      "box": [
+        133,
+        566,
+        708,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site coordination",
+      "score": 0.9801,
+      "box": [
+        133,
+        591,
+        565,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JOSEPH VAUGHN\nTX, USA|+1-694-435-3691|joseph.vaughn@example.com\nWORK HISTORY\nConstruction Laborers, StrongBase Builders, 2020.03–2023.01\n- Designed construction staging plans\n- Directed quality assurance programs\nConstruction Laborers, SteadyRise Builders, 2017.05–2020.03\n- Assisted with roofing material handling\n- Helped position heavy materials\nEDUCATION\nSome college (no degree), Heavy Equipment Operation, Briarwood University, 2019\n• Completed coursework in construction workflow coordination\n• Studied fundamentals of job site coordination"
+}

@@ -1,0 +1,135 @@
+{
+  "id": "00371",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.839,
+  "n_lines": 9,
+  "mean_score": 0.9821,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ADENLEVY",
+      "score": 0.9986,
+      "box": [
+        116,
+        90,
+        310,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-841-478-5644 |aden.levy@example.com",
+      "score": 0.9691,
+      "box": [
+        116,
+        150,
+        626,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Works, 2022.01–2023.01",
+      "score": 0.9905,
+      "box": [
+        116,
+        291,
+        646,
+        311
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9613,
+      "box": [
+        126,
+        315,
+        485,
+        338
+      ]
+    },
+    {
+      "text": "- Mixed concrete and mortar",
+      "score": 0.981,
+      "box": [
+        126,
+        339,
+        391,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Systems, Riverwood High School, 2022",
+      "score": 0.9721,
+      "box": [
+        116,
+        449,
+        823,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic excavation methods",
+      "score": 0.9875,
+      "box": [
+        134,
+        475,
+        628,
+        495
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "ADENLEVY\nAL, USA|+1-841-478-5644 |aden.levy@example.com\nWORK HISTORY\nConstruction Laborers, Reliable Works, 2022.01–2023.01\n- Maintained cleanliness of work areas\n- Mixed concrete and mortar\nEDUCATION\nHigh school graduate/GED, Building Systems, Riverwood High School, 2022\n• Completed coursework in basic excavation methods"
+}

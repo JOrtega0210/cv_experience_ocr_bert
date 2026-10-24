@@ -1,0 +1,226 @@
+{
+  "id": "04344",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.985,
+  "n_lines": 16,
+  "mean_score": 0.9812,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JEFFREY MILLS",
+      "score": 0.9669,
+      "box": [
+        116,
+        90,
+        378,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-800-279-3601 |jeffrey.mills@example.com",
+      "score": 0.958,
+      "box": [
+        117,
+        151,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9847,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, EverBuild Co., 2019.11–2023.01",
+      "score": 0.9831,
+      "box": [
+        115,
+        290,
+        634,
+        313
+      ]
+    },
+    {
+      "text": "- Established project documentation systems",
+      "score": 0.9702,
+      "box": [
+        125,
+        313,
+        544,
+        339
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.9964,
+      "box": [
+        126,
+        339,
+        435,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardStone Builders, 2016.08–2019.11",
+      "score": 0.989,
+      "box": [
+        116,
+        382,
+        688,
+        405
+      ]
+    },
+    {
+      "text": "- Conducted site safety inspections",
+      "score": 0.9744,
+      "box": [
+        125,
+        406,
+        453,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed installation quality",
+      "score": 0.9746,
+      "box": [
+        126,
+        430,
+        405,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextLine Construction, 2010.07–2013.10",
+      "score": 0.9954,
+      "box": [
+        116,
+        472,
+        714,
+        495
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.9894,
+      "box": [
+        125,
+        496,
+        557,
+        521
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.9753,
+      "box": [
+        127,
+        522,
+        474,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Fundamentals, Willowcrest University, 2004",
+      "score": 0.979,
+      "box": [
+        116,
+        632,
+        897,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic painting techniques",
+      "score": 0.9691,
+      "box": [
+        132,
+        656,
+        624,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction mathematics",
+      "score": 0.9943,
+      "box": [
+        135,
+        682,
+        625,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JEFFREY MILLS\nCA, USA|+1-800-279-3601 |jeffrey.mills@example.com\nWORK HISTORY\nConstruction Laborers, EverBuild Co., 2019.11–2023.01\n- Established project documentation systems\n- Supervised high-risk operations\nConstruction Laborers, HardStone Builders, 2016.08–2019.11\n- Conducted site safety inspections\n- Reviewed installation quality\nConstruction Laborers, NextLine Construction, 2010.07–2013.10\n- Stacked and organized construction supplies\n- Marked measurements on materials\nEDUCATION\nSome college (no degree), Construction Fundamentals, Willowcrest University, 2004\n• Completed coursework in basic painting techniques\n• Completed coursework in construction mathematics"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "21688",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.844,
+  "n_lines": 13,
+  "mean_score": 0.979,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MALIKGARNER",
+      "score": 0.9961,
+      "box": [
+        114,
+        86,
+        379,
+        122
+      ]
+    },
+    {
+      "text": "KS, USA|+1-826-997-5375 |malik.garner@example.com",
+      "score": 0.9883,
+      "box": [
+        115,
+        150,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Frame Builders, 2020.12–2023.01",
+      "score": 0.9795,
+      "box": [
+        115,
+        290,
+        739,
+        312
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.9897,
+      "box": [
+        126,
+        313,
+        448,
+        337
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.959,
+      "box": [
+        126,
+        339,
+        394,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkFrame Builders, 2018.11–2020.12",
+      "score": 0.9777,
+      "box": [
+        115,
+        381,
+        699,
+        405
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9689,
+      "box": [
+        125,
+        405,
+        492,
+        432
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9702,
+      "box": [
+        125,
+        430,
+        416,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Design, Harvest University, 2022",
+      "score": 0.9669,
+      "box": [
+        115,
+        539,
+        796,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of structural stability",
+      "score": 0.9784,
+      "box": [
+        131,
+        564,
+        540,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site inspections",
+      "score": 0.9692,
+      "box": [
+        132,
+        590,
+        555,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "MALIKGARNER\nKS, USA|+1-826-997-5375 |malik.garner@example.com\nWORK HISTORY\nConstruction Laborers, Precision Frame Builders, 2020.12–2023.01\n- Led cross-functional coordination\n- Directed project scheduling\nConstruction Laborers, WorkFrame Builders, 2018.11–2020.12\n- Performed basic sanding and painting\n- Set up workstations for crews\nEDUCATION\nSome college (no degree), Construction Design, Harvest University, 2022\n• Studied fundamentals of structural stability\n• Studied fundamentals of job site inspections"
+}

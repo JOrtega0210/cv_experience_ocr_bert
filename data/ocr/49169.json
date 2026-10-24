@@ -1,0 +1,135 @@
+{
+  "id": "49169",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.739,
+  "n_lines": 9,
+  "mean_score": 0.9842,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JASON CRAIG",
+      "score": 0.9786,
+      "box": [
+        116,
+        90,
+        350,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-840-997-1149 |jason.craig@example.com",
+      "score": 0.982,
+      "box": [
+        115,
+        150,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9806,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Bluebeam Construction, 2021.08–2023.01",
+      "score": 0.9907,
+      "box": [
+        115,
+        290,
+        723,
+        312
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.9787,
+      "box": [
+        125,
+        314,
+        583,
+        339
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9782,
+      "box": [
+        126,
+        339,
+        541,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Trades, Maplewood High School, 2021",
+      "score": 0.9865,
+      "box": [
+        116,
+        449,
+        813,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of temporary structures",
+      "score": 0.984,
+      "box": [
+        132,
+        472,
+        571,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "JASON CRAIG\nTN, USA|+1-840-997-1149 |jason.craig@example.com\nWORK HISTORY\nConstruction Laborers, Bluebeam Construction, 2021.08–2023.01\n- Assisted with basic electrical conduit placement\n- Carried materials to designated work areas\nEDUCATION\nHigh school graduate/GED, Building Trades, Maplewood High School, 2021\n• Studied fundamentals of temporary structures"
+}

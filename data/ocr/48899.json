@@ -1,0 +1,148 @@
+{
+  "id": "48899",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.722,
+  "n_lines": 10,
+  "mean_score": 0.9875,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SARAHULL",
+      "score": 0.9989,
+      "box": [
+        115,
+        90,
+        312,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-872-328-6153|sara.hull@example.com",
+      "score": 0.9817,
+      "box": [
+        115,
+        150,
+        619,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9848,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Care Center, 2019.06–221.09",
+      "score": 0.9822,
+      "box": [
+        116,
+        289,
+        696,
+        312
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.9901,
+      "box": [
+        126,
+        315,
+        453,
+        338
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9863,
+      "box": [
+        127,
+        340,
+        480,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Mental Health Studies, Morningstar University, 2016",
+      "score": 0.9861,
+      "box": [
+        115,
+        449,
+        707,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of fall prevention",
+      "score": 0.9753,
+      "box": [
+        132,
+        472,
+        472,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of community health nursing",
+      "score": 0.9905,
+      "box": [
+        132,
+        497,
+        616,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "SARAHULL\nTN, USA|+1-872-328-6153|sara.hull@example.com\nWORK HISTORY\nRegistered Nurses, NewSpring Care Center, 2019.06–221.09\n- Documented patient observations\n- Provided patient education materials\nEDUCATION\nBachelor's, Mental Health Studies, Morningstar University, 2016\n• Studied principles of fall prevention\n• Studied fundamentals of community health nursing"
+}

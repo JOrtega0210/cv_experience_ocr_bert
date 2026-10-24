@@ -1,0 +1,187 @@
+{
+  "id": "28043",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.834,
+  "n_lines": 13,
+  "mean_score": 0.9859,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JONATHAN TUCKER",
+      "score": 0.9767,
+      "box": [
+        116,
+        90,
+        451,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-343-927-4589 |jonathan.tucker@example.com",
+      "score": 0.9889,
+      "box": [
+        116,
+        151,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkFrame Builders, 2021.05–2023.01",
+      "score": 0.9847,
+      "box": [
+        115,
+        290,
+        697,
+        313
+      ]
+    },
+    {
+      "text": "– Managed subcontractor coordination",
+      "score": 0.9797,
+      "box": [
+        127,
+        315,
+        481,
+        338
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.9974,
+      "box": [
+        128,
+        341,
+        487,
+        361
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmPoint Construction, 2018.08–2020.05",
+      "score": 0.9905,
+      "box": [
+        116,
+        381,
+        720,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.9772,
+      "box": [
+        126,
+        406,
+        555,
+        431
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.9711,
+      "box": [
+        126,
+        431,
+        503,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Electrical Technology, Meadowfield University, 2016",
+      "score": 0.991,
+      "box": [
+        115,
+        541,
+        708,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural layout",
+      "score": 0.9852,
+      "box": [
+        134,
+        566,
+        538,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of emergency procedures",
+      "score": 0.993,
+      "box": [
+        133,
+        590,
+        555,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JONATHAN TUCKER\nMI, USA|+1-343-927-4589 |jonathan.tucker@example.com\nWORK HISTORY\nConstruction Laborers, WorkFrame Builders, 2021.05–2023.01\n– Managed subcontractor coordination\n- Established construction benchmarks\nConstruction Laborers, FirmPoint Construction, 2018.08–2020.05\n- Prepared tools and equipment for daily tasks\n- Handled power tools under supervision\nEDUCATION\nBachelor's, Electrical Technology, Meadowfield University, 2016\n• Completed coursework in structural layout\n• Studied principles of emergency procedures"
+}

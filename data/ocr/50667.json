@@ -1,0 +1,174 @@
+{
+  "id": "50667",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.785,
+  "n_lines": 12,
+  "mean_score": 0.9822,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "GRANT WOODS",
+      "score": 0.9648,
+      "box": [
+        115,
+        87,
+        378,
+        123
+      ]
+    },
+    {
+      "text": "TX, USA|+1-888-518-9662|grant.woods@example.com",
+      "score": 0.9729,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softbridge Labs, 2021.05–2023.01",
+      "score": 0.9874,
+      "box": [
+        115,
+        290,
+        641,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented release management strategies",
+      "score": 0.9782,
+      "box": [
+        126,
+        314,
+        561,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9774,
+      "box": [
+        127,
+        340,
+        424,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstack Labs, 2019.08–2021.05",
+      "score": 0.9876,
+      "box": [
+        116,
+        382,
+        646,
+        405
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9881,
+      "box": [
+        126,
+        406,
+        501,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed API documentation",
+      "score": 0.9647,
+      "box": [
+        126,
+        432,
+        417,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Fairview Ridge High School, 2018",
+      "score": 0.9867,
+      "box": [
+        116,
+        541,
+        691,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of software development",
+      "score": 0.9979,
+      "box": [
+        134,
+        566,
+        548,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "GRANT WOODS\nTX, USA|+1-888-518-9662|grant.woods@example.com\nWORK HISTORY\nSoftware Developers, Softbridge Labs, 2021.05–2023.01\n- Implemented release management strategies\n- Implemented core frameworks\nSoftware Developers, Clearstack Labs, 2019.08–2021.05\n- Configured development environments\n- Reviewed API documentation\nEDUCATION\nHigh school graduate/GED, Fairview Ridge High School, 2018\n• Studied principles of software development"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "44551",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.757,
+  "n_lines": 10,
+  "mean_score": 0.9822,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SAMANTHA HARVEY",
+      "score": 0.9736,
+      "box": [
+        116,
+        90,
+        457,
+        120
+      ]
+    },
+    {
+      "text": "OR, USA|+1-485-901-8842 | samantha.harvey@example.com",
+      "score": 0.9732,
+      "box": [
+        117,
+        151,
+        704,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9817,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Summit Accounting Services, 2021.05–2023.01",
+      "score": 0.9882,
+      "box": [
+        115,
+        290,
+        764,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9843,
+      "box": [
+        127,
+        315,
+        453,
+        338
+      ]
+    },
+    {
+      "text": "- Reconciled bank statements",
+      "score": 0.9944,
+      "box": [
+        127,
+        339,
+        405,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Operations Management, Prairie Ridge University, 2021",
+      "score": 0.976,
+      "box": [
+        115,
+        449,
+        741,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in business taxation",
+      "score": 0.9731,
+      "box": [
+        135,
+        475,
+        550,
+        495
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of regulatory compliance",
+      "score": 0.9794,
+      "box": [
+        133,
+        497,
+        583,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "SAMANTHA HARVEY\nOR, USA|+1-485-901-8842 | samantha.harvey@example.com\nWORK HISTORY\nAccountants Auditors, Summit Accounting Services, 2021.05–2023.01\n- Reviewed expense classifications\n- Reconciled bank statements\nEDUCATION\nBachelor's, Operations Management, Prairie Ridge University, 2021\n• Completed coursework in business taxation\n• Studied fundamentals of regulatory compliance"
+}

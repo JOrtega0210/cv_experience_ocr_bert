@@ -1,0 +1,265 @@
+{
+  "id": "30560",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.849,
+  "n_lines": 19,
+  "mean_score": 0.9757,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JACOB JORDAN",
+      "score": 0.9675,
+      "box": [
+        116,
+        90,
+        386,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA|+1-402-896-6023|jacob.jordan@example.com",
+      "score": 0.984,
+      "box": [
+        115,
+        150,
+        659,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Greenline Tech, 2020.02–2023.01",
+      "score": 0.9871,
+      "box": [
+        116,
+        290,
+        638,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented data pipeline architectures",
+      "score": 0.9805,
+      "box": [
+        126,
+        314,
+        511,
+        338
+      ]
+    },
+    {
+      "text": "- Defined API standards",
+      "score": 0.9653,
+      "box": [
+        125,
+        338,
+        352,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Digital, 2017.02–2020.02",
+      "score": 0.991,
+      "box": [
+        115,
+        381,
+        651,
+        406
+      ]
+    },
+    {
+      "text": "- Led refactoring initiatives",
+      "score": 0.9676,
+      "box": [
+        125,
+        406,
+        375,
+        431
+      ]
+    },
+    {
+      "text": "- Defined integration standards",
+      "score": 0.9607,
+      "box": [
+        127,
+        432,
+        415,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Brightline Systems, 2014.02–2017.02",
+      "score": 0.9859,
+      "box": [
+        114,
+        471,
+        669,
+        496
+      ]
+    },
+    {
+      "text": "- Handled load testing",
+      "score": 0.9374,
+      "box": [
+        125,
+        496,
+        333,
+        522
+      ]
+    },
+    {
+      "text": "- Implemented feature flags",
+      "score": 0.9762,
+      "box": [
+        126,
+        521,
+        383,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Digital, 2011.02–2014.02",
+      "score": 0.9571,
+      "box": [
+        114,
+        562,
+        652,
+        590
+      ]
+    },
+    {
+      "text": "- Debugged runtime errors",
+      "score": 0.9567,
+      "box": [
+        125,
+        589,
+        375,
+        614
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9909,
+      "box": [
+        125,
+        614,
+        444,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Oakfield University, 2010",
+      "score": 0.9759,
+      "box": [
+        114,
+        723,
+        458,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of distributed systems",
+      "score": 0.9904,
+      "box": [
+        132,
+        747,
+        520,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in software lifecycle models",
+      "score": 0.9803,
+      "box": [
+        135,
+        774,
+        621,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "JACOB JORDAN\nMO, USA|+1-402-896-6023|jacob.jordan@example.com\nWORK HISTORY\nSoftware Developers, Greenline Tech, 2020.02–2023.01\n- Implemented data pipeline architectures\n- Defined API standards\nSoftware Developers, Clearpath Digital, 2017.02–2020.02\n- Led refactoring initiatives\n- Defined integration standards\nSoftware Developers, Brightline Systems, 2014.02–2017.02\n- Handled load testing\n- Implemented feature flags\nSoftware Developers, Clearpath Digital, 2011.02–2014.02\n- Debugged runtime errors\n- Handled basic deployment tasks\nEDUCATION\nBachelor's, Oakfield University, 2010\n• Studied principles of distributed systems\n• Completed coursework in software lifecycle models"
+}

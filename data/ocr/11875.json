@@ -1,0 +1,200 @@
+{
+  "id": "11875",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.918,
+  "n_lines": 14,
+  "mean_score": 0.9797,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KATELIN BARRY",
+      "score": 0.965,
+      "box": [
+        116,
+        90,
+        392,
+        120
+      ]
+    },
+    {
+      "text": "FL, USA|+1-538-584-7901 |katelin.barry@example.com",
+      "score": 0.978,
+      "box": [
+        115,
+        150,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Accounts, 2020.04–223.01",
+      "score": 0.9795,
+      "box": [
+        115,
+        289,
+        663,
+        313
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.99,
+      "box": [
+        126,
+        314,
+        484,
+        337
+      ]
+    },
+    {
+      "text": "- Developed risk management frameworks",
+      "score": 0.9718,
+      "box": [
+        126,
+        339,
+        521,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Group, 2017.07–2020.04",
+      "score": 0.9845,
+      "box": [
+        114,
+        381,
+        674,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9804,
+      "box": [
+        125,
+        406,
+        413,
+        432
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9579,
+      "box": [
+        125,
+        430,
+        418,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Public Accounting, Bayside University, 2022",
+      "score": 0.991,
+      "box": [
+        115,
+        541,
+        615,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Accounting, Clearwater University, 2020",
+      "score": 0.9713,
+      "box": [
+        114,
+        565,
+        672,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in economics for accounting",
+      "score": 0.9767,
+      "box": [
+        133,
+        590,
+        625,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of break-even analysis",
+      "score": 0.9876,
+      "box": [
+        134,
+        616,
+        564,
+        638
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "KATELIN BARRY\nFL, USA|+1-538-584-7901 |katelin.barry@example.com\nWORK HISTORY\nAccountants Auditors, Integrity Accounts, 2020.04–223.01\n- Designed financial policy frameworks\n- Developed risk management frameworks\nAccountants Auditors, CoreLedger Group, 2017.07–2020.04\n- Assisted with budget tracking\n- Processed journal corrections\nEDUCATION\nMaster's, Public Accounting, Bayside University, 2022\nBachelor's, Applied Accounting, Clearwater University, 2020\n• Completed coursework in economics for accounting\n• Studied fundamentals of break-even analysis"
+}

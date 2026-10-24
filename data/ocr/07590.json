@@ -1,0 +1,226 @@
+{
+  "id": "07590",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.98,
+  "n_lines": 16,
+  "mean_score": 0.9808,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NOEMI CHAN",
+      "score": 0.9735,
+      "box": [
+        115,
+        90,
+        333,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-348-226-1844 |noemi.chan@example.com",
+      "score": 0.9888,
+      "box": [
+        116,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9814,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Financial, 2020.11–202.01",
+      "score": 0.9783,
+      "box": [
+        114,
+        289,
+        728,
+        314
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9485,
+      "box": [
+        126,
+        314,
+        525,
+        339
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9743,
+      "box": [
+        126,
+        339,
+        527,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Financial, 2018.09–2020.11",
+      "score": 0.9847,
+      "box": [
+        114,
+        381,
+        741,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed tax provisions",
+      "score": 0.9837,
+      "box": [
+        125,
+        406,
+        368,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared financial statements",
+      "score": 0.9774,
+      "box": [
+        126,
+        430,
+        419,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Financial, 2016.07–2018.09",
+      "score": 0.9755,
+      "box": [
+        115,
+        472,
+        683,
+        495
+      ]
+    },
+    {
+      "text": "- Reconciled bank statements",
+      "score": 0.9816,
+      "box": [
+        126,
+        497,
+        405,
+        520
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.9726,
+      "box": [
+        126,
+        521,
+        423,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Finance, Stoneview University, 2021",
+      "score": 0.991,
+      "box": [
+        115,
+        632,
+        637,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of working capital management",
+      "score": 0.9921,
+      "box": [
+        132,
+        656,
+        645,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of financial risk management",
+      "score": 0.991,
+      "box": [
+        135,
+        683,
+        586,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "NOEMI CHAN\nCA, USA|+1-348-226-1844 |noemi.chan@example.com\nWORK HISTORY\nAccountants Auditors, Precise Ledger Financial, 2020.11–202.01\n- Developed regulatory reporting strategies\n- Designed financial accountability systems\nAccountants Auditors, Accurate Ledger Financial, 2018.09–2020.11\n- Reviewed tax provisions\n- Prepared financial statements\nAccountants Auditors, FairBooks Financial, 2016.07–2018.09\n- Reconciled bank statements\n- Assisted with inventory counts\nEDUCATION\nBachelor's, Applied Finance, Stoneview University, 2021\n• Studied fundamentals of working capital management\n• Studied principles of financial risk management"
+}

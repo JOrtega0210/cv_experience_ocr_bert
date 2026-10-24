@@ -1,0 +1,226 @@
+{
+  "id": "19071",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.052,
+  "n_lines": 16,
+  "mean_score": 0.9802,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "APRIL HENSLEY",
+      "score": 0.9855,
+      "box": [
+        116,
+        90,
+        385,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-321-335-6145|april.hensley@example.com",
+      "score": 0.9739,
+      "box": [
+        116,
+        151,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Advisors, 2020.03–2023.01",
+      "score": 0.9767,
+      "box": [
+        115,
+        290,
+        679,
+        313
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9656,
+      "box": [
+        127,
+        314,
+        452,
+        336
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9844,
+      "box": [
+        127,
+        340,
+        512,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Services, 2017.04–2020.03",
+      "score": 0.9834,
+      "box": [
+        114,
+        381,
+        712,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented new accounting standards",
+      "score": 0.9676,
+      "box": [
+        126,
+        406,
+        511,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed financial disclosures",
+      "score": 0.9888,
+      "box": [
+        126,
+        431,
+        427,
+        453
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Financial Group, 2012.03–2015.02",
+      "score": 0.984,
+      "box": [
+        114,
+        471,
+        754,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9912,
+      "box": [
+        127,
+        499,
+        365,
+        520
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9661,
+      "box": [
+        126,
+        521,
+        490,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Operations, Oakview University, 2010",
+      "score": 0.9778,
+      "box": [
+        114,
+        631,
+        665,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of accounting standards",
+      "score": 0.9677,
+      "box": [
+        132,
+        656,
+        540,
+        680
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of documentation standards",
+      "score": 0.9883,
+      "box": [
+        134,
+        682,
+        613,
+        704
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "APRIL HENSLEY\nIL, USA|+1-321-335-6145|april.hensley@example.com\nWORK HISTORY\nAccountants Auditors, FairBooks Advisors, 2020.03–2023.01\n- Led financial data standardization\n- Designed financial control environments\nAccountants Auditors, OpenBalance Services, 2017.04–2020.03\n- Implemented new accounting standards\n- Reviewed financial disclosures\nAccountants Auditors, FairLedger Financial Group, 2012.03–2015.02\n- Prepared journal entries\n- Processed accounts payable invoices\nEDUCATION\nBachelor's, Business Operations, Oakview University, 2010\n• Studied principles of accounting standards\n• Studied fundamentals of documentation standards"
+}

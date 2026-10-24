@@ -1,0 +1,278 @@
+{
+  "id": "59758",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.986,
+  "n_lines": 20,
+  "mean_score": 0.9803,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CRYSTALL LIVINGSTON",
+      "score": 0.9947,
+      "box": [
+        117,
+        90,
+        509,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-569-973-1834|crystall.livingston@example.com",
+      "score": 0.9761,
+      "box": [
+        115,
+        150,
+        703,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9801,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Willow Grove School, 2019.07–2023.01",
+      "score": 0.9454,
+      "box": [
+        116,
+        290,
+        829,
+        313
+      ]
+    },
+    {
+      "text": "-Directed instructional benchmarking",
+      "score": 0.9681,
+      "box": [
+        126,
+        315,
+        474,
+        339
+      ]
+    },
+    {
+      "text": "- Established instructional review cycles",
+      "score": 0.9769,
+      "box": [
+        126,
+        339,
+        497,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Tree School, 2015.12–2019.07",
+      "score": 0.9821,
+      "box": [
+        115,
+        381,
+        817,
+        406
+      ]
+    },
+    {
+      "text": "- Directed cross-grade curriculum alignment",
+      "score": 0.9859,
+      "box": [
+        125,
+        406,
+        535,
+        431
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.9765,
+      "box": [
+        126,
+        431,
+        431,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Harbor School, 2012.05–2015.12",
+      "score": 0.9886,
+      "box": [
+        115,
+        472,
+        822,
+        495
+      ]
+    },
+    {
+      "text": "- Evaluated learning outcomes",
+      "score": 0.98,
+      "box": [
+        126,
+        496,
+        412,
+        521
+      ]
+    },
+    {
+      "text": "- Developed homework policies",
+      "score": 0.9837,
+      "box": [
+        126,
+        521,
+        420,
+        547
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Springs School, 2008.10–2012.05",
+      "score": 0.9708,
+      "box": [
+        116,
+        565,
+        865,
+        588
+      ]
+    },
+    {
+      "text": "- Maintained lesson documentation",
+      "score": 0.9773,
+      "box": [
+        126,
+        590,
+        453,
+        613
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9896,
+      "box": [
+        126,
+        614,
+        517,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Learning and Teaching Studies, Woodcrest University, 2008",
+      "score": 0.974,
+      "box": [
+        115,
+        725,
+        763,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Studies, Maple Ridge University, 2006",
+      "score": 0.9853,
+      "box": [
+        114,
+        747,
+        671,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional objectives",
+      "score": 0.9841,
+      "box": [
+        132,
+        772,
+        590,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in student evaluation basics",
+      "score": 0.9869,
+      "box": [
+        134,
+        800,
+        622,
+        820
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "CRYSTALL LIVINGSTON\nWA, USA|+1-569-973-1834|crystall.livingston@example.com\nWORK HISTORY\nElementary Middle School Teachers, Willow Grove School, 2019.07–2023.01\n-Directed instructional benchmarking\n- Established instructional review cycles\nElementary Middle School Teachers, Caring Tree School, 2015.12–2019.07\n- Directed cross-grade curriculum alignment\n- Designed assessment systems\nElementary Middle School Teachers, Little Harbor School, 2012.05–2015.12\n- Evaluated learning outcomes\n- Developed homework policies\nElementary Middle School Teachers, Learning Springs School, 2008.10–2012.05\n- Maintained lesson documentation\n- Organized classroom learning resources\nEDUCATION\nMaster's, Learning and Teaching Studies, Woodcrest University, 2008\nBachelor's, Teaching Studies, Maple Ridge University, 2006\n• Studied fundamentals of instructional objectives\n• Completed coursework in student evaluation basics"
+}

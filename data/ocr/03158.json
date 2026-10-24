@@ -1,0 +1,226 @@
+{
+  "id": "03158",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.895,
+  "n_lines": 16,
+  "mean_score": 0.9852,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSEPH BERGER",
+      "score": 0.9897,
+      "box": [
+        116,
+        90,
+        406,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-577-323-7415 |joseph.berger@example.com",
+      "score": 0.9792,
+      "box": [
+        117,
+        152,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Softpath Digital, 2020.12–2023.01",
+      "score": 0.9803,
+      "box": [
+        115,
+        289,
+        636,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented data pipeline architectures",
+      "score": 0.983,
+      "box": [
+        127,
+        315,
+        512,
+        339
+      ]
+    },
+    {
+      "text": "- Designed logging infrastructures",
+      "score": 0.9826,
+      "box": [
+        126,
+        339,
+        443,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Softway Solutions, 2018.11–2020.12",
+      "score": 0.9842,
+      "box": [
+        115,
+        381,
+        663,
+        406
+      ]
+    },
+    {
+      "text": "- Improved application performance",
+      "score": 0.9903,
+      "box": [
+        126,
+        406,
+        458,
+        431
+      ]
+    },
+    {
+      "text": "- Integrated messaging systems",
+      "score": 0.9806,
+      "box": [
+        126,
+        430,
+        426,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Softpath Labs, 2014.09–2016.11",
+      "score": 0.9752,
+      "box": [
+        116,
+        472,
+        623,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9821,
+      "box": [
+        126,
+        498,
+        418,
+        522
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9882,
+      "box": [
+        126,
+        520,
+        364,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Goldenridge University, 2008",
+      "score": 0.9957,
+      "box": [
+        115,
+        632,
+        495,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of virtualization",
+      "score": 0.9859,
+      "box": [
+        132,
+        656,
+        458,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in code refactoring",
+      "score": 0.9855,
+      "box": [
+        135,
+        683,
+        538,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JOSEPH BERGER\nCA, USA|+1-577-323-7415 |joseph.berger@example.com\nWORK HISTORY\nSoftware Developers, Softpath Digital, 2020.12–2023.01\n- Implemented data pipeline architectures\n- Designed logging infrastructures\nSoftware Developers, Softway Solutions, 2018.11–2020.12\n- Improved application performance\n- Integrated messaging systems\nSoftware Developers, Softpath Labs, 2014.09–2016.11\n- Implemented logging features\n- Handled feature toggles\nEDUCATION\nBachelor's, Goldenridge University, 2008\n• Studied principles of virtualization\n• Completed coursework in code refactoring"
+}

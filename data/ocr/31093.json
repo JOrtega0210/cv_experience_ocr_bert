@@ -1,0 +1,161 @@
+{
+  "id": "31093",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.73,
+  "n_lines": 11,
+  "mean_score": 0.9801,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RONNIE KELLEY",
+      "score": 0.987,
+      "box": [
+        116,
+        90,
+        390,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA |+1-253-993-6884 |ronnie.kelley@example.com",
+      "score": 0.97,
+      "box": [
+        116,
+        151,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudfield Digital, 2019.11–2020.02",
+      "score": 0.9677,
+      "box": [
+        115,
+        290,
+        653,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9818,
+      "box": [
+        126,
+        314,
+        417,
+        338
+      ]
+    },
+    {
+      "text": "- Updated monitoring dashboards",
+      "score": 0.9612,
+      "box": [
+        127,
+        340,
+        440,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Fairfield University, 2010",
+      "score": 0.9922,
+      "box": [
+        115,
+        449,
+        437,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Crossfield University, 2008",
+      "score": 0.9707,
+      "box": [
+        115,
+        474,
+        475,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of client-side development",
+      "score": 0.9818,
+      "box": [
+        132,
+        497,
+        599,
+        523
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of error handling",
+      "score": 0.9842,
+      "box": [
+        133,
+        524,
+        507,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "RONNIE KELLEY\nMO, USA |+1-253-993-6884 |ronnie.kelley@example.com\nWORK HISTORY\nSoftware Developers, Cloudfield Digital, 2019.11–2020.02\n- Implemented logging features\n- Updated monitoring dashboards\nEDUCATION\nMaster's, Fairfield University, 2010\nBachelor's, Crossfield University, 2008\n• Studied fundamentals of client-side development\n• Studied fundamentals of error handling"
+}

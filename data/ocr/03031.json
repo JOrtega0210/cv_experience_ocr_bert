@@ -1,0 +1,226 @@
+{
+  "id": "03031",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.926,
+  "n_lines": 16,
+  "mean_score": 0.9777,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ARTEMIO LI",
+      "score": 0.9577,
+      "box": [
+        116,
+        90,
+        313,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-551-880-4210 |artemio.li@example.com",
+      "score": 0.9737,
+      "box": [
+        117,
+        151,
+        626,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9881,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softframe Labs, 2020.01–2023.01",
+      "score": 0.9778,
+      "box": [
+        116,
+        290,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9677,
+      "box": [
+        125,
+        313,
+        368,
+        339
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9753,
+      "box": [
+        126,
+        338,
+        380,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudpath Labs, 2017.01–200.01",
+      "score": 0.9918,
+      "box": [
+        115,
+        381,
+        641,
+        406
+      ]
+    },
+    {
+      "text": "- Developed RESTful APIs",
+      "score": 0.9668,
+      "box": [
+        125,
+        407,
+        376,
+        430
+      ]
+    },
+    {
+      "text": "- Implemented security controls",
+      "score": 0.9836,
+      "box": [
+        126,
+        430,
+        419,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Technologies, 2012.11–2015.11",
+      "score": 0.974,
+      "box": [
+        116,
+        472,
+        690,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9617,
+      "box": [
+        126,
+        498,
+        420,
+        522
+      ]
+    },
+    {
+      "text": "- Debugged runtime errors",
+      "score": 0.9869,
+      "box": [
+        126,
+        521,
+        375,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Some college (no degree), Springfield University, 2006",
+      "score": 0.97,
+      "box": [
+        115,
+        631,
+        624,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of image processing",
+      "score": 0.986,
+      "box": [
+        132,
+        656,
+        505,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in cloud computing basics",
+      "score": 0.9824,
+      "box": [
+        135,
+        683,
+        606,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ARTEMIO LI\nCA, USA|+1-551-880-4210 |artemio.li@example.com\nWORK HISTORY\nSoftware Developers, Softframe Labs, 2020.01–2023.01\n- Built distributed systems\n- Defined coding standards\nSoftware Developers, Cloudpath Labs, 2017.01–200.01\n- Developed RESTful APIs\n- Implemented security controls\nSoftware Developers, Netline Technologies, 2012.11–2015.11\n- Implemented REST endpoints\n- Debugged runtime errors\nEDUCATION\nSome college (no degree), Springfield University, 2006\n• Studied principles of image processing\n• Completed coursework in cloud computing basics"
+}

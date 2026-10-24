@@ -1,0 +1,213 @@
+{
+  "id": "16838",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.93,
+  "n_lines": 15,
+  "mean_score": 0.9824,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JEAN PATEL",
+      "score": 0.9852,
+      "box": [
+        116,
+        90,
+        326,
+        121
+      ]
+    },
+    {
+      "text": "HI, USA|+1-248-816-2450 |jean.patel@example.com",
+      "score": 0.9819,
+      "box": [
+        115,
+        150,
+        624,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9807,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Sunrise Health Services, 2020.06–2023.01",
+      "score": 0.9816,
+      "box": [
+        116,
+        290,
+        697,
+        313
+      ]
+    },
+    {
+      "text": "- Managed patient safety reporting systems",
+      "score": 0.9552,
+      "box": [
+        126,
+        314,
+        529,
+        339
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.9804,
+      "box": [
+        126,
+        339,
+        392,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Bridge Care, 2017.11–2020.06",
+      "score": 0.9881,
+      "box": [
+        116,
+        382,
+        654,
+        406
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9739,
+      "box": [
+        125,
+        406,
+        365,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared discharge instructions",
+      "score": 0.9759,
+      "box": [
+        126,
+        432,
+        435,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Doctorate, Pediatric Care, Stonecrest University, 2015",
+      "score": 0.9842,
+      "box": [
+        115,
+        540,
+        619,
+        563
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing Studies, Westbrook University, 2010",
+      "score": 0.9807,
+      "box": [
+        115,
+        566,
+        640,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in communication in care teams",
+      "score": 0.9927,
+      "box": [
+        133,
+        590,
+        661,
+        614
+      ]
+    },
+    {
+      "text": "• Studied principles of hydration management",
+      "score": 0.9886,
+      "box": [
+        132,
+        615,
+        557,
+        640
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical audits basics",
+      "score": 0.9888,
+      "box": [
+        134,
+        641,
+        579,
+        664
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "JEAN PATEL\nHI, USA|+1-248-816-2450 |jean.patel@example.com\nWORK HISTORY\nRegistered Nurses, Sunrise Health Services, 2020.06–2023.01\n- Managed patient safety reporting systems\n- Led nursing process audits\nRegistered Nurses, Caring Bridge Care, 2017.11–2020.06\n- Recorded nursing notes\n- Prepared discharge instructions\nEDUCATION\nDoctorate, Pediatric Care, Stonecrest University, 2015\nBachelor's, Nursing Studies, Westbrook University, 2010\n• Completed coursework in communication in care teams\n• Studied principles of hydration management\n• Completed coursework in clinical audits basics"
+}

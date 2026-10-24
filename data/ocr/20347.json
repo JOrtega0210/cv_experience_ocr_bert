@@ -1,0 +1,252 @@
+{
+  "id": "20347",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.968,
+  "n_lines": 18,
+  "mean_score": 0.9775,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SCOTT KING",
+      "score": 0.9564,
+      "box": [
+        115,
+        90,
+        324,
+        121
+      ]
+    },
+    {
+      "text": "IN, USA|+1-619-583-1178|scott.king@example.com",
+      "score": 0.9759,
+      "box": [
+        116,
+        150,
+        622,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongPoint Builders, 2020.04–2023.01",
+      "score": 0.9831,
+      "box": [
+        114,
+        289,
+        697,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented quality control systems",
+      "score": 0.9829,
+      "box": [
+        126,
+        314,
+        479,
+        337
+      ]
+    },
+    {
+      "text": "- Supervised large structural repairs",
+      "score": 0.9944,
+      "box": [
+        126,
+        339,
+        460,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeWorks Contractors, 2017.07–2020.04",
+      "score": 0.9693,
+      "box": [
+        115,
+        381,
+        736,
+        405
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.9848,
+      "box": [
+        125,
+        406,
+        435,
+        431
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9703,
+      "box": [
+        125,
+        430,
+        406,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeStone Co., 2014.10–2017.07",
+      "score": 0.987,
+      "box": [
+        115,
+        472,
+        655,
+        495
+      ]
+    },
+    {
+      "text": "- Installed roofing materials",
+      "score": 0.9735,
+      "box": [
+        125,
+        496,
+        381,
+        521
+      ]
+    },
+    {
+      "text": "- Monitored safety compliance",
+      "score": 0.9705,
+      "box": [
+        126,
+        521,
+        408,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Frame Builders, 2010.07–2013.5",
+      "score": 0.9665,
+      "box": [
+        114,
+        563,
+        742,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with site cleanup and debris removal",
+      "score": 0.9858,
+      "box": [
+        126,
+        590,
+        565,
+        613
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9596,
+      "box": [
+        126,
+        615,
+        484,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Planning, Clear Ridge High School, 1999",
+      "score": 0.9849,
+      "box": [
+        116,
+        724,
+        878,
+        746
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction logistics planning",
+      "score": 0.9661,
+      "box": [
+        132,
+        748,
+        666,
+        773
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "SCOTT KING\nIN, USA|+1-619-583-1178|scott.king@example.com\nWORK HISTORY\nConstruction Laborers, StrongPoint Builders, 2020.04–2023.01\n- Implemented quality control systems\n- Supervised large structural repairs\nConstruction Laborers, PrimeWorks Contractors, 2017.07–2020.04\n- Supervised high-risk operations\n- Established site layout plans\nConstruction Laborers, PrimeStone Co., 2014.10–2017.07\n- Installed roofing materials\n- Monitored safety compliance\nConstruction Laborers, Precision Frame Builders, 2010.07–2013.5\n- Assisted with site cleanup and debris removal\n- Maintained cleanliness of work areas\nEDUCATION\nHigh school graduate/GED, Construction Planning, Clear Ridge High School, 1999\n• Completed coursework in construction logistics planning"
+}

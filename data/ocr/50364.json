@@ -1,0 +1,252 @@
+{
+  "id": "50364",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.934,
+  "n_lines": 18,
+  "mean_score": 0.9834,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DANIEL HAYES",
+      "score": 0.9852,
+      "box": [
+        116,
+        90,
+        368,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-624-741-7266|daniel.hayes@example.com",
+      "score": 0.9828,
+      "box": [
+        115,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongForm Builders, 2020.03–2023.01",
+      "score": 0.9803,
+      "box": [
+        115,
+        290,
+        698,
+        313
+      ]
+    },
+    {
+      "text": "-Reviewed compliance documentation",
+      "score": 0.9819,
+      "box": [
+        125,
+        313,
+        488,
+        338
+      ]
+    },
+    {
+      "text": "- Supervised foundation installations",
+      "score": 0.9874,
+      "box": [
+        127,
+        340,
+        465,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterFrame Builders, 2017.05–2020.3",
+      "score": 0.9937,
+      "box": [
+        116,
+        382,
+        713,
+        405
+      ]
+    },
+    {
+      "text": "- Implemented workflow optimization",
+      "score": 0.9849,
+      "box": [
+        126,
+        406,
+        466,
+        431
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9808,
+      "box": [
+        125,
+        430,
+        394,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterWorks Construction, 2014.07–2017.05",
+      "score": 0.987,
+      "box": [
+        114,
+        471,
+        755,
+        496
+      ]
+    },
+    {
+      "text": "- Performed structural repairs",
+      "score": 0.9834,
+      "box": [
+        124,
+        496,
+        402,
+        521
+      ]
+    },
+    {
+      "text": "- Installed drywall systems",
+      "score": 0.983,
+      "box": [
+        125,
+        521,
+        374,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, EverRise Construction, 2009.11–2012.09",
+      "score": 0.9892,
+      "box": [
+        116,
+        566,
+        715,
+        586
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.9604,
+      "box": [
+        125,
+        589,
+        399,
+        614
+      ]
+    },
+    {
+      "text": "- Installed simple fixtures",
+      "score": 0.9881,
+      "box": [
+        125,
+        613,
+        360,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Industrial Technology, Clearwater High School, 2003",
+      "score": 0.9922,
+      "box": [
+        116,
+        725,
+        864,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic welding concepts",
+      "score": 0.9556,
+      "box": [
+        132,
+        748,
+        605,
+        773
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "DANIEL HAYES\nTX, USA|+1-624-741-7266|daniel.hayes@example.com\nWORK HISTORY\nConstruction Laborers, StrongForm Builders, 2020.03–2023.01\n-Reviewed compliance documentation\n- Supervised foundation installations\nConstruction Laborers, MasterFrame Builders, 2017.05–2020.3\n- Implemented workflow optimization\n- Directed project scheduling\nConstruction Laborers, MasterWorks Construction, 2014.07–2017.05\n- Performed structural repairs\n- Installed drywall systems\nConstruction Laborers, EverRise Construction, 2009.11–2012.09\n- Dug trenches for utility lines\n- Installed simple fixtures\nEDUCATION\nHigh school graduate/GED, Industrial Technology, Clearwater High School, 2003\n• Completed coursework in basic welding concepts"
+}

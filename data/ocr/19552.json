@@ -1,0 +1,213 @@
+{
+  "id": "19552",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.87,
+  "n_lines": 15,
+  "mean_score": 0.9835,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "THOMAS SWANSON",
+      "score": 0.9891,
+      "box": [
+        115,
+        90,
+        446,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-756-663-2757 |thomas.swanson@example.com",
+      "score": 0.9894,
+      "box": [
+        116,
+        152,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongLine Builders, 2020.06–2023.01",
+      "score": 0.9625,
+      "box": [
+        115,
+        289,
+        687,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed workflow efficiency reports",
+      "score": 0.9754,
+      "box": [
+        125,
+        313,
+        484,
+        339
+      ]
+    },
+    {
+      "text": "- Supervised large structural repairs",
+      "score": 0.9937,
+      "box": [
+        126,
+        339,
+        460,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerBuild Group, 2017.11–2020.06",
+      "score": 0.9638,
+      "box": [
+        115,
+        381,
+        682,
+        406
+      ]
+    },
+    {
+      "text": "- Installed framing components",
+      "score": 0.9879,
+      "box": [
+        125,
+        406,
+        415,
+        431
+      ]
+    },
+    {
+      "text": "- Interpreted blueprints for task execution",
+      "score": 0.9884,
+      "box": [
+        127,
+        432,
+        508,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueWay Contractors, 2012.05–2014.12",
+      "score": 0.9807,
+      "box": [
+        116,
+        472,
+        707,
+        496
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.9938,
+      "box": [
+        125,
+        496,
+        441,
+        521
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.9803,
+      "box": [
+        126,
+        521,
+        418,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Quality Control, Pineview Ridge High School, 2003",
+      "score": 0.9852,
+      "box": [
+        115,
+        631,
+        970,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of insulation techniques",
+      "score": 0.9763,
+      "box": [
+        132,
+        656,
+        537,
+        681
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "THOMAS SWANSON\nIL, USA|+1-756-663-2757 |thomas.swanson@example.com\nWORK HISTORY\nConstruction Laborers, StrongLine Builders, 2020.06–2023.01\n- Reviewed workflow efficiency reports\n- Supervised large structural repairs\nConstruction Laborers, CornerBuild Group, 2017.11–2020.06\n- Installed framing components\n- Interpreted blueprints for task execution\nConstruction Laborers, TrueWay Contractors, 2012.05–2014.12\n- Handled delivery documentation\n- Maintained tool storage areas\nEDUCATION\nHigh school graduate/GED, Construction Quality Control, Pineview Ridge High School, 2003\n• Studied principles of insulation techniques"
+}

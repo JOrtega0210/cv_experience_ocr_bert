@@ -1,0 +1,226 @@
+{
+  "id": "00171",
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "PP-OCRv5_mobile_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.342,
+  "n_lines": 16,
+  "mean_score": 0.9844,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ZACHARY SHAW",
+      "score": 0.9828,
+      "box": [
+        116,
+        89,
+        392,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA|+1-677-380-2899 |zachary.shaw@example.com",
+      "score": 0.9894,
+      "box": [
+        116,
+        150,
+        665,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.992,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, SunnySteps School, 2020.11–2023.01",
+      "score": 0.989,
+      "box": [
+        115,
+        287,
+        820,
+        318
+      ]
+    },
+    {
+      "text": "- Established data reporting standards",
+      "score": 0.9804,
+      "box": [
+        125,
+        314,
+        483,
+        342
+      ]
+    },
+    {
+      "text": "- Developed student performance metrics",
+      "score": 0.9859,
+      "box": [
+        127,
+        339,
+        512,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Grove Academy, 2018.09–2020.11",
+      "score": 0.9852,
+      "box": [
+        117,
+        382,
+        860,
+        409
+      ]
+    },
+    {
+      "text": "- Aligned lesson objectives with standards",
+      "score": 0.9828,
+      "box": [
+        127,
+        409,
+        516,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared unit assessments",
+      "score": 0.9888,
+      "box": [
+        126,
+        432,
+        396,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Way Academy, 2016.06–2018.09",
+      "score": 0.9879,
+      "box": [
+        118,
+        472,
+        859,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9841,
+      "box": [
+        125,
+        497,
+        417,
+        525
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9653,
+      "box": [
+        127,
+        520,
+        409,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Assistance, Meadowridge University, 2019",
+      "score": 0.988,
+      "box": [
+        116,
+        630,
+        735,
+        659
+      ]
+    },
+    {
+      "text": "• Completed coursework in reading fluency strategies",
+      "score": 0.9823,
+      "box": [
+        130,
+        658,
+        627,
+        684
+      ]
+    },
+    {
+      "text": "• Studied foundational pedagogy concepts",
+      "score": 0.9672,
+      "box": [
+        130,
+        680,
+        526,
+        710
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ZACHARY SHAW\nAL, USA|+1-677-380-2899 |zachary.shaw@example.com\nWORK HISTORY\nElementary Middle School Teachers, SunnySteps School, 2020.11–2023.01\n- Established data reporting standards\n- Developed student performance metrics\nElementary Middle School Teachers, Golden Grove Academy, 2018.09–2020.11\n- Aligned lesson objectives with standards\n- Prepared unit assessments\nElementary Middle School Teachers, Learning Way Academy, 2016.06–2018.09\n- Prepared visual teaching aids\n- Provided math drill exercises\nEDUCATION\nBachelor's, Educational Assistance, Meadowridge University, 2019\n• Completed coursework in reading fluency strategies\n• Studied foundational pedagogy concepts"
+}

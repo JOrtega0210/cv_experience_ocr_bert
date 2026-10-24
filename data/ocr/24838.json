@@ -1,0 +1,187 @@
+{
+  "id": "24838",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.816,
+  "n_lines": 13,
+  "mean_score": 0.9805,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSHUA GRAVES",
+      "score": 0.9692,
+      "box": [
+        116,
+        90,
+        408,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA|+1-894-730-7789 |joshua.graves@example.com",
+      "score": 0.9843,
+      "box": [
+        115,
+        150,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9794,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Services, 2020.11–2022.06",
+      "score": 0.9872,
+      "box": [
+        114,
+        289,
+        695,
+        313
+      ]
+    },
+    {
+      "text": "- Directed training programs for crews",
+      "score": 0.975,
+      "box": [
+        126,
+        315,
+        478,
+        338
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.9927,
+      "box": [
+        126,
+        339,
+        477,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyFrame Builders, 2018.02–219.09",
+      "score": 0.9832,
+      "box": [
+        115,
+        381,
+        714,
+        406
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9755,
+      "box": [
+        125,
+        406,
+        407,
+        432
+      ]
+    },
+    {
+      "text": "- Checked inventory of supplies",
+      "score": 0.9641,
+      "box": [
+        127,
+        432,
+        421,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Drafting, Fairhill University, 2007",
+      "score": 0.9665,
+      "box": [
+        115,
+        539,
+        794,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of temporary structures",
+      "score": 0.9863,
+      "box": [
+        132,
+        565,
+        571,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction inspection reporting",
+      "score": 0.9845,
+      "box": [
+        134,
+        590,
+        689,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JOSHUA GRAVES\nMD, USA|+1-894-730-7789 |joshua.graves@example.com\nWORK HISTORY\nConstruction Laborers, PrimeBuild Services, 2020.11–2022.06\n- Directed training programs for crews\n- Designed construction staging plans\nConstruction Laborers, SteadyFrame Builders, 2018.02–219.09\n- Installed temporary supports\n- Checked inventory of supplies\nEDUCATION\nSome college (no degree), Construction Drafting, Fairhill University, 2007\n• Studied fundamentals of temporary structures\n• Completed coursework in construction inspection reporting"
+}

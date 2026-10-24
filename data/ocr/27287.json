@@ -1,0 +1,148 @@
+{
+  "id": "27287",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.719,
+  "n_lines": 10,
+  "mean_score": 0.9806,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KARA LYONS",
+      "score": 0.9759,
+      "box": [
+        116,
+        90,
+        339,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-292-537-8500|kara.lyons@example.com",
+      "score": 0.9762,
+      "box": [
+        116,
+        151,
+        630,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datapath Solutions, 2019.05–2021.09",
+      "score": 0.9833,
+      "box": [
+        116,
+        290,
+        673,
+        313
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9905,
+      "box": [
+        125,
+        313,
+        352,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with container setup",
+      "score": 0.957,
+      "box": [
+        126,
+        339,
+        413,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Granite Hill University, 2016",
+      "score": 0.9853,
+      "box": [
+        115,
+        449,
+        485,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of test-driven development",
+      "score": 0.9912,
+      "box": [
+        132,
+        472,
+        565,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of error handling",
+      "score": 0.9633,
+      "box": [
+        132,
+        497,
+        507,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "KARA LYONS\nMI, USA|+1-292-537-8500|kara.lyons@example.com\nWORK HISTORY\nSoftware Developers, Datapath Solutions, 2019.05–2021.09\n- Wrote integration tests\n- Assisted with container setup\nEDUCATION\nBachelor's, Granite Hill University, 2016\n• Studied principles of test-driven development\n• Studied fundamentals of error handling"
+}

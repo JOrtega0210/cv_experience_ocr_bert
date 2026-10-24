@@ -1,0 +1,148 @@
+{
+  "id": "27409",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.707,
+  "n_lines": 10,
+  "mean_score": 0.987,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARK DUNLAP",
+      "score": 0.9869,
+      "box": [
+        116,
+        90,
+        367,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-247-689-6183 |mark.dunlap@example.com",
+      "score": 0.9872,
+      "box": [
+        116,
+        151,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudfield Digital, 2021.05–2023.01",
+      "score": 0.9924,
+      "box": [
+        116,
+        290,
+        651,
+        313
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9852,
+      "box": [
+        126,
+        313,
+        364,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9662,
+      "box": [
+        126,
+        339,
+        447,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Driftwood University, 2023",
+      "score": 0.9878,
+      "box": [
+        115,
+        449,
+        469,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in code refactoring",
+      "score": 0.9829,
+      "box": [
+        132,
+        474,
+        538,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in software lifecycle models",
+      "score": 0.998,
+      "box": [
+        134,
+        499,
+        621,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "MARK DUNLAP\nMI, USA|+1-247-689-6183 |mark.dunlap@example.com\nWORK HISTORY\nSoftware Developers, Cloudfield Digital, 2021.05–2023.01\n- Handled feature toggles\n- Implemented error handling logic\nEDUCATION\nBachelor's, Driftwood University, 2023\n• Completed coursework in code refactoring\n• Completed coursework in software lifecycle models"
+}

@@ -1,0 +1,174 @@
+{
+  "id": "44658",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.826,
+  "n_lines": 12,
+  "mean_score": 0.9848,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TERRY BURGESS",
+      "score": 0.9901,
+      "box": [
+        115,
+        90,
+        406,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-318-429-8870 |terry.burgess@example.com",
+      "score": 0.9798,
+      "box": [
+        115,
+        150,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyStone Builders, 2019.10–2021.08",
+      "score": 0.974,
+      "box": [
+        114,
+        289,
+        709,
+        313
+      ]
+    },
+    {
+      "text": "-Directed site safety audits",
+      "score": 0.9801,
+      "box": [
+        125,
+        313,
+        382,
+        338
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.9748,
+      "box": [
+        125,
+        338,
+        488,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronBuild Contractors, 2017.06–2019.04",
+      "score": 0.979,
+      "box": [
+        115,
+        381,
+        704,
+        405
+      ]
+    },
+    {
+      "text": "- Performed basic demolition tasks",
+      "score": 0.9894,
+      "box": [
+        125,
+        405,
+        449,
+        430
+      ]
+    },
+    {
+      "text": "- Performed basic carpentry tasks",
+      "score": 0.9918,
+      "box": [
+        126,
+        431,
+        442,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Design, Silverwood High School, 2013",
+      "score": 0.9873,
+      "box": [
+        116,
+        541,
+        855,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of material delivery coordination",
+      "score": 0.9876,
+      "box": [
+        134,
+        566,
+        614,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "TERRY BURGESS\nPA, USA|+1-318-429-8870 |terry.burgess@example.com\nWORK HISTORY\nConstruction Laborers, SteadyStone Builders, 2019.10–2021.08\n-Directed site safety audits\n- Established construction benchmarks\nConstruction Laborers, IronBuild Contractors, 2017.06–2019.04\n- Performed basic demolition tasks\n- Performed basic carpentry tasks\nEDUCATION\nHigh school graduate/GED, Construction Design, Silverwood High School, 2013\n• Studied principles of material delivery coordination"
+}

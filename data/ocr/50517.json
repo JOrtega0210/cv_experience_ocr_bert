@@ -1,0 +1,148 @@
+{
+  "id": "50517",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.717,
+  "n_lines": 10,
+  "mean_score": 0.9799,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HALEY XIONG",
+      "score": 0.9548,
+      "box": [
+        115,
+        90,
+        348,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-970-917-8360|haley.xiong@example.com",
+      "score": 0.9784,
+      "box": [
+        115,
+        150,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Opencrest Solutions, 2020.03–2023.01",
+      "score": 0.9818,
+      "box": [
+        116,
+        290,
+        683,
+        313
+      ]
+    },
+    {
+      "text": "- Updated documentation for implemented features",
+      "score": 0.9924,
+      "box": [
+        126,
+        314,
+        601,
+        339
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9798,
+      "box": [
+        127,
+        341,
+        415,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Summit University, 2020",
+      "score": 0.9801,
+      "box": [
+        115,
+        449,
+        452,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in signal processing basics",
+      "score": 0.9712,
+      "box": [
+        132,
+        473,
+        616,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of augmented reality",
+      "score": 0.9775,
+      "box": [
+        133,
+        497,
+        507,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "HALEY XIONG\nTX, USA|+1-970-917-8360|haley.xiong@example.com\nWORK HISTORY\nSoftware Developers, Opencrest Solutions, 2020.03–2023.01\n- Updated documentation for implemented features\n- Updated frontend stylesheets\nEDUCATION\nBachelor's, Summit University, 2020\n• Completed coursework in signal processing basics\n• Studied principles of augmented reality"
+}

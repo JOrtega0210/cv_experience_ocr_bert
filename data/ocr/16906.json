@@ -1,0 +1,135 @@
+{
+  "id": "16906",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.841,
+  "n_lines": 9,
+  "mean_score": 0.9848,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MEET HOUSTON",
+      "score": 0.9895,
+      "box": [
+        116,
+        90,
+        388,
+        121
+      ]
+    },
+    {
+      "text": "ID, USA|+1-480-893-6717 |meet.houston@example.com",
+      "score": 0.9889,
+      "box": [
+        116,
+        152,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9828,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildRight Contractors, 2021.03–2022.03",
+      "score": 0.9833,
+      "box": [
+        115,
+        290,
+        717,
+        313
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9717,
+      "box": [
+        126,
+        315,
+        485,
+        338
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.9812,
+      "box": [
+        127,
+        340,
+        441,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Industrial Maintenance, Brightfield Secondary School, 2018",
+      "score": 0.9863,
+      "box": [
+        116,
+        449,
+        924,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in blueprint reading",
+      "score": 0.9812,
+      "box": [
+        133,
+        474,
+        544,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "MEET HOUSTON\nID, USA|+1-480-893-6717 |meet.houston@example.com\nWORK HISTORY\nConstruction Laborers, BuildRight Contractors, 2021.03–2022.03\n- Maintained cleanliness of work areas\n- Handled delivery documentation\nEDUCATION\nHigh school graduate/GED, Industrial Maintenance, Brightfield Secondary School, 2018\n• Completed coursework in blueprint reading"
+}

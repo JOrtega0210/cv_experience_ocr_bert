@@ -1,0 +1,148 @@
+{
+  "id": "15467",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.827,
+  "n_lines": 10,
+  "mean_score": 0.9819,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAYDEN DEAN",
+      "score": 0.9798,
+      "box": [
+        116,
+        90,
+        357,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-285-612-5371 |jayden.dean@example.com",
+      "score": 0.9706,
+      "box": [
+        116,
+        151,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenCare Nursing Services, 2021.03–2023.01",
+      "score": 0.9926,
+      "box": [
+        115,
+        289,
+        734,
+        314
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9784,
+      "box": [
+        127,
+        315,
+        443,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9592,
+      "box": [
+        126,
+        338,
+        372,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Practical Nursing, Crestview University, 2023",
+      "score": 0.9847,
+      "box": [
+        115,
+        449,
+        641,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in enteral feeding basics",
+      "score": 0.9841,
+      "box": [
+        133,
+        474,
+        593,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of patient safety",
+      "score": 0.9859,
+      "box": [
+        132,
+        497,
+        466,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JAYDEN DEAN\nGA, USA |+1-285-612-5371 |jayden.dean@example.com\nWORK HISTORY\nRegistered Nurses, OpenCare Nursing Services, 2021.03–2023.01\n- Collected patient health histories\n- Prepared sterile supplies\nEDUCATION\nBachelor's, Practical Nursing, Crestview University, 2023\n• Completed coursework in enteral feeding basics\n• Studied principles of patient safety"
+}

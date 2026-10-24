@@ -1,0 +1,226 @@
+{
+  "id": "31741",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.841,
+  "n_lines": 16,
+  "mean_score": 0.9804,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSE FOLEY",
+      "score": 0.9872,
+      "box": [
+        114,
+        87,
+        330,
+        123
+      ]
+    },
+    {
+      "text": "NE, USA|+1-829-629-1397 |jose.foley@example.com",
+      "score": 0.9766,
+      "box": [
+        115,
+        150,
+        629,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextLine Construction, 2020.09–2023.01",
+      "score": 0.9774,
+      "box": [
+        115,
+        289,
+        711,
+        313
+      ]
+    },
+    {
+      "text": "-Directed installation methodologies",
+      "score": 0.974,
+      "box": [
+        125,
+        313,
+        466,
+        339
+      ]
+    },
+    {
+      "text": "- Developed structural reinforcement plans",
+      "score": 0.9845,
+      "box": [
+        126,
+        339,
+        523,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidCraft Construction, 2016.11–2019.03",
+      "score": 0.988,
+      "box": [
+        115,
+        381,
+        723,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared structural joints",
+      "score": 0.9697,
+      "box": [
+        126,
+        406,
+        375,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding inspections",
+      "score": 0.9764,
+      "box": [
+        126,
+        431,
+        444,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureBuild Services, 2013.07–2015.11",
+      "score": 0.976,
+      "box": [
+        116,
+        472,
+        683,
+        495
+      ]
+    },
+    {
+      "text": "- Followed safety procedures on site",
+      "score": 0.9758,
+      "box": [
+        125,
+        495,
+        465,
+        521
+      ]
+    },
+    {
+      "text": "– Mixed concrete and mortar",
+      "score": 0.967,
+      "box": [
+        127,
+        522,
+        391,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Some college (no degree), Carpentry, Windridge University, 2007",
+      "score": 0.9797,
+      "box": [
+        115,
+        631,
+        722,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in safety signage standards",
+      "score": 0.9892,
+      "box": [
+        133,
+        657,
+        620,
+        680
+      ]
+    },
+    {
+      "text": "• Studied principles of site inspection checklists",
+      "score": 0.981,
+      "box": [
+        134,
+        681,
+        570,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JOSE FOLEY\nNE, USA|+1-829-629-1397 |jose.foley@example.com\nWORK HISTORY\nConstruction Laborers, NextLine Construction, 2020.09–2023.01\n-Directed installation methodologies\n- Developed structural reinforcement plans\nConstruction Laborers, SolidCraft Construction, 2016.11–2019.03\n- Prepared structural joints\n- Prepared scaffolding inspections\nConstruction Laborers, SureBuild Services, 2013.07–2015.11\n- Followed safety procedures on site\n– Mixed concrete and mortar\nEDUCATION\nSome college (no degree), Carpentry, Windridge University, 2007\n• Completed coursework in safety signage standards\n• Studied principles of site inspection checklists"
+}

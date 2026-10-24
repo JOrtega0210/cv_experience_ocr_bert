@@ -1,0 +1,239 @@
+{
+  "id": "39026",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.917,
+  "n_lines": 17,
+  "mean_score": 0.9803,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HEATHER LIU",
+      "score": 0.9821,
+      "box": [
+        116,
+        90,
+        342,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-962-850-8902|heather.liu@example.com",
+      "score": 0.9734,
+      "box": [
+        115,
+        150,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9854,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Advisors, 2020.11–2023.01",
+      "score": 0.9596,
+      "box": [
+        114,
+        289,
+        714,
+        314
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9726,
+      "box": [
+        127,
+        315,
+        479,
+        338
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9756,
+      "box": [
+        126,
+        339,
+        530,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Advisors, 2018.09–2020.11",
+      "score": 0.9793,
+      "box": [
+        116,
+        382,
+        700,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared cash flow statements",
+      "score": 0.9859,
+      "box": [
+        127,
+        407,
+        430,
+        430
+      ]
+    },
+    {
+      "text": "- Managed monthly close processes",
+      "score": 0.9695,
+      "box": [
+        126,
+        430,
+        463,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Fairview Financial Services, 2013.10–2016.01",
+      "score": 0.9813,
+      "box": [
+        115,
+        472,
+        752,
+        495
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.991,
+      "box": [
+        126,
+        498,
+        435,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.988,
+      "box": [
+        126,
+        521,
+        453,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Master's, Financial Planning, Riverwood University, 2005",
+      "score": 0.9796,
+      "box": [
+        114,
+        631,
+        644,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Management, Evergreen University, 2003",
+      "score": 0.9772,
+      "box": [
+        115,
+        658,
+        701,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of operational auditing",
+      "score": 0.9822,
+      "box": [
+        133,
+        681,
+        523,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting information systems",
+      "score": 0.9841,
+      "box": [
+        133,
+        706,
+        681,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "HEATHER LIU\nNY, USA|+1-962-850-8902|heather.liu@example.com\nWORK HISTORY\nAccountants Auditors, SteadyLedger Advisors, 2020.11–2023.01\n- Led accounting process optimization\n- Established reporting automation systems\nAccountants Auditors, ClearLedger Advisors, 2018.09–2020.11\n- Prepared cash flow statements\n- Managed monthly close processes\nAccountants Auditors, Fairview Financial Services, 2013.10–2016.01\n- Updated general ledger records\n- Reviewed expense classifications\nEDUCATION\nMaster's, Financial Planning, Riverwood University, 2005\nBachelor's, Business Management, Evergreen University, 2003\n• Studied principles of operational auditing\n• Completed coursework in accounting information systems"
+}

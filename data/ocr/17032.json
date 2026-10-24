@@ -1,0 +1,252 @@
+{
+  "id": "17032",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.104,
+  "n_lines": 18,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SANDERBANKS",
+      "score": 0.9989,
+      "box": [
+        115,
+        90,
+        388,
+        121
+      ]
+    },
+    {
+      "text": "ID, USA|+1-974-281-2609| sander.banks@example.com",
+      "score": 0.9849,
+      "box": [
+        115,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9877,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidCraft Construction, 2020.03–2023.01",
+      "score": 0.9694,
+      "box": [
+        115,
+        290,
+        721,
+        313
+      ]
+    },
+    {
+      "text": "- Directed project execution strategies",
+      "score": 0.9601,
+      "box": [
+        127,
+        315,
+        480,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed workflow efficiency reports",
+      "score": 0.9695,
+      "box": [
+        126,
+        339,
+        484,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearStone Builders, 2017.05–2020.03",
+      "score": 0.9875,
+      "box": [
+        116,
+        382,
+        694,
+        405
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.9827,
+      "box": [
+        126,
+        406,
+        478,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented quality control systems",
+      "score": 0.9831,
+      "box": [
+        126,
+        431,
+        479,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeStone Contractors, 2014.06–2017.5",
+      "score": 0.9906,
+      "box": [
+        115,
+        472,
+        732,
+        495
+      ]
+    },
+    {
+      "text": "- Installed plumbing fixtures",
+      "score": 0.9865,
+      "box": [
+        125,
+        496,
+        384,
+        522
+      ]
+    },
+    {
+      "text": "- Installed support beams",
+      "score": 0.9745,
+      "box": [
+        125,
+        521,
+        365,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronWay Contractors, 2009.10–2012.9",
+      "score": 0.981,
+      "box": [
+        114,
+        563,
+        700,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9914,
+      "box": [
+        126,
+        591,
+        424,
+        611
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.9616,
+      "box": [
+        125,
+        613,
+        372,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Inspection, Evergreen High School, 2002",
+      "score": 0.9927,
+      "box": [
+        116,
+        725,
+        879,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction acoustics basics",
+      "score": 0.9831,
+      "box": [
+        134,
+        750,
+        659,
+        770
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "SANDERBANKS\nID, USA|+1-974-281-2609| sander.banks@example.com\nWORK HISTORY\nConstruction Laborers, SolidCraft Construction, 2020.03–2023.01\n- Directed project execution strategies\n- Reviewed workflow efficiency reports\nConstruction Laborers, ClearStone Builders, 2017.05–2020.03\n- Designed construction staging plans\n- Implemented quality control systems\nConstruction Laborers, PrimeStone Contractors, 2014.06–2017.5\n- Installed plumbing fixtures\n- Installed support beams\nConstruction Laborers, IronWay Contractors, 2009.10–2012.9\n- Assisted with excavation tasks\n- Sorted building materials\nEDUCATION\nHigh school graduate/GED, Construction Inspection, Evergreen High School, 2002\n• Completed coursework in construction acoustics basics"
+}

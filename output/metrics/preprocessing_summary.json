@@ -1,0 +1,42 @@
+{
+  "n_cvs": 4000,
+  "conf_threshold": 0.95,
+  "lines_dropped_conf_total": 541,
+  "cvs_with_lines_dropped_conf": 514,
+  "years_repaired_total": 388,
+  "cvs_with_years_repaired": 372,
+  "pii_cvs_affected": {
+    "name": 4000,
+    "email": 4000,
+    "phone": 4000,
+    "location": 4000
+  },
+  "masking_cvs_affected_total": 0,
+  "masking_cvs_affected_by_pattern": {
+    "total_experience": 0,
+    "experience_of_n_years": 0,
+    "age": 0,
+    "date_of_birth": 0
+  },
+  "masking_review": "50 textos OCR al azar (seed 42) leídos a mano: ver output/tables/masking_review_sample.csv",
+  "cleaning_effect": [
+    {
+      "variant": "text_raw",
+      "year_recall_micro": 0.9781,
+      "date_recall_mean": 0.9827,
+      "share_cvs_all_years_ok": 0.875
+    },
+    {
+      "variant": "text_clean",
+      "year_recall_micro": 0.9936,
+      "date_recall_mean": 0.9937,
+      "share_cvs_all_years_ok": 0.9617
+    },
+    {
+      "variant": "text_clean_conf",
+      "year_recall_micro": 0.9902,
+      "date_recall_mean": 0.9926,
+      "share_cvs_all_years_ok": 0.9443
+    }
+  ]
+}

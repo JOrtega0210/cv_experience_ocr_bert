@@ -1,0 +1,239 @@
+{
+  "id": "46791",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.81,
+  "n_lines": 17,
+  "mean_score": 0.9783,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MAYDA HAIL",
+      "score": 0.9903,
+      "box": [
+        116,
+        90,
+        327,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-757-319-2490 |mayda.hail@example.com",
+      "score": 0.9699,
+      "box": [
+        115,
+        150,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Softbridge Labs, 2020.06–2023.01",
+      "score": 0.9776,
+      "box": [
+        116,
+        290,
+        641,
+        313
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.9704,
+      "box": [
+        126,
+        315,
+        396,
+        338
+      ]
+    },
+    {
+      "text": "- Developed system monitoring strategies",
+      "score": 0.9723,
+      "box": [
+        126,
+        339,
+        513,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Datacore Labs, 2016.04–2018.12",
+      "score": 0.9906,
+      "box": [
+        116,
+        382,
+        633,
+        405
+      ]
+    },
+    {
+      "text": "- Built reusable libraries",
+      "score": 0.9654,
+      "box": [
+        126,
+        406,
+        348,
+        429
+      ]
+    },
+    {
+      "text": "- Improved APl performance",
+      "score": 0.9762,
+      "box": [
+        126,
+        430,
+        392,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Softline Digital, 2012.03–2014.11",
+      "score": 0.9833,
+      "box": [
+        116,
+        472,
+        629,
+        496
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9409,
+      "box": [
+        127,
+        498,
+        340,
+        522
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9566,
+      "box": [
+        126,
+        521,
+        352,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Havenwood University, 2007",
+      "score": 0.9905,
+      "box": [
+        115,
+        632,
+        473,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Greenway University, 2005",
+      "score": 0.9831,
+      "box": [
+        115,
+        658,
+        477,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in network security",
+      "score": 0.9883,
+      "box": [
+        133,
+        682,
+        539,
+        705
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of search algorithms",
+      "score": 0.9928,
+      "box": [
+        132,
+        706,
+        544,
+        731
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "MAYDA HAIL\nPA, USA|+1-757-319-2490 |mayda.hail@example.com\nWORK HISTORY\nSoftware Developers, Softbridge Labs, 2020.06–2023.01\n- Designed scalable services\n- Developed system monitoring strategies\nSoftware Developers, Datacore Labs, 2016.04–2018.12\n- Built reusable libraries\n- Improved APl performance\nSoftware Developers, Softline Digital, 2012.03–2014.11\n- Updated routing logic\n- Wrote integration tests\nEDUCATION\nMaster's, Havenwood University, 2007\nBachelor's, Greenway University, 2005\n• Completed coursework in network security\n• Studied fundamentals of search algorithms"
+}

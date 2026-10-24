@@ -1,0 +1,148 @@
+{
+  "id": "14594",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.879,
+  "n_lines": 10,
+  "mean_score": 0.9816,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "REILLY PATTERSON",
+      "score": 0.9746,
+      "box": [
+        116,
+        90,
+        452,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-760-336-8317 |reilly.patterson@example.com",
+      "score": 0.9879,
+      "box": [
+        117,
+        152,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9749,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeHands Nursing Services, 2020.05–2023.01",
+      "score": 0.9901,
+      "box": [
+        116,
+        290,
+        741,
+        313
+      ]
+    },
+    {
+      "text": "- Monitored intravenous lines",
+      "score": 0.9789,
+      "box": [
+        126,
+        315,
+        399,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with hygiene care",
+      "score": 0.9643,
+      "box": [
+        126,
+        339,
+        390,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, General Nursing, Crestview University, 2022",
+      "score": 0.9837,
+      "box": [
+        115,
+        449,
+        636,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient safety culture",
+      "score": 0.9807,
+      "box": [
+        134,
+        474,
+        583,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient-centered care",
+      "score": 0.982,
+      "box": [
+        134,
+        499,
+        587,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "REILLY PATTERSON\nGA, USA|+1-760-336-8317 |reilly.patterson@example.com\nWORK HISTORY\nRegistered Nurses, SafeHands Nursing Services, 2020.05–2023.01\n- Monitored intravenous lines\n- Assisted with hygiene care\nEDUCATION\nBachelor's, General Nursing, Crestview University, 2022\n• Completed coursework in patient safety culture\n• Completed coursework in patient-centered care"
+}

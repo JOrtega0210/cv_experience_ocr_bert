@@ -1,0 +1,265 @@
+{
+  "id": "27044",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.925,
+  "n_lines": 19,
+  "mean_score": 0.9837,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KELLY ARMSTRONG",
+      "score": 0.9918,
+      "box": [
+        116,
+        90,
+        454,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-909-799-2600|kelly.armstrong@example.com",
+      "score": 0.9648,
+      "box": [
+        116,
+        152,
+        677,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9797,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeBridge Health Group, 2019.10–2023.01",
+      "score": 0.9805,
+      "box": [
+        115,
+        289,
+        698,
+        314
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9776,
+      "box": [
+        126,
+        314,
+        510,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented care pathway frameworks",
+      "score": 0.9898,
+      "box": [
+        128,
+        340,
+        506,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewWay Care Center, 2016.07–2019.10",
+      "score": 0.9736,
+      "box": [
+        115,
+        381,
+        679,
+        406
+      ]
+    },
+    {
+      "text": "- Managed clinical resource planning",
+      "score": 0.9917,
+      "box": [
+        126,
+        406,
+        468,
+        432
+      ]
+    },
+    {
+      "text": "- Directed interdisciplinary workflow alignment",
+      "score": 0.9851,
+      "box": [
+        126,
+        430,
+        554,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifePath Nursing Services, 2013.04–2016.07",
+      "score": 0.9954,
+      "box": [
+        116,
+        473,
+        716,
+        497
+      ]
+    },
+    {
+      "text": "- Administered blood transfusions",
+      "score": 0.9868,
+      "box": [
+        126,
+        497,
+        439,
+        519
+      ]
+    },
+    {
+      "text": "- Conducted quality assurance checks",
+      "score": 0.9686,
+      "box": [
+        126,
+        521,
+        481,
+        546
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenLife Care Services, 2007.06–2010.09",
+      "score": 0.995,
+      "box": [
+        116,
+        565,
+        697,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.983,
+      "box": [
+        126,
+        590,
+        418,
+        614
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.9909,
+      "box": [
+        126,
+        613,
+        471,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Nursing Practice, Meadowfield University, 2005",
+      "score": 0.987,
+      "box": [
+        115,
+        725,
+        742,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in care plan development",
+      "score": 0.9553,
+      "box": [
+        132,
+        748,
+        601,
+        771
+      ]
+    },
+    {
+      "text": "• Studied principles of healthcare ethics",
+      "score": 0.9943,
+      "box": [
+        135,
+        775,
+        499,
+        795
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "KELLY ARMSTRONG\nMI, USA|+1-909-799-2600|kelly.armstrong@example.com\nWORK HISTORY\nRegistered Nurses, LifeBridge Health Group, 2019.10–2023.01\n- Directed nursing process improvements\n- Implemented care pathway frameworks\nRegistered Nurses, NewWay Care Center, 2016.07–2019.10\n- Managed clinical resource planning\n- Directed interdisciplinary workflow alignment\nRegistered Nurses, LifePath Nursing Services, 2013.04–2016.07\n- Administered blood transfusions\n- Conducted quality assurance checks\nRegistered Nurses, OpenLife Care Services, 2007.06–2010.09\n- Assisted with feeding patients\n- Recorded patient weight and height\nEDUCATION\nAssociate's degree, Nursing Practice, Meadowfield University, 2005\n• Completed coursework in care plan development\n• Studied principles of healthcare ethics"
+}

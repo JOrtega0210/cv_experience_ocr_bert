@@ -1,0 +1,187 @@
+{
+  "id": "04395",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.965,
+  "n_lines": 13,
+  "mean_score": 0.9833,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KENDALLVO",
+      "score": 0.9991,
+      "box": [
+        116,
+        90,
+        336,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-850-734-2320 |kendall.vo@example.com",
+      "score": 0.965,
+      "box": [
+        115,
+        150,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9789,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Learning Center, 2020.02–2023.01",
+      "score": 0.9863,
+      "box": [
+        115,
+        290,
+        876,
+        313
+      ]
+    },
+    {
+      "text": "- Directed content standardization",
+      "score": 0.9885,
+      "box": [
+        127,
+        316,
+        442,
+        336
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.9682,
+      "box": [
+        127,
+        340,
+        533,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Start School, 2014.09–2017.08",
+      "score": 0.9828,
+      "box": [
+        116,
+        382,
+        808,
+        405
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9726,
+      "box": [
+        126,
+        407,
+        395,
+        430
+      ]
+    },
+    {
+      "text": "- Recorded student progress data",
+      "score": 0.9811,
+      "box": [
+        125,
+        431,
+        441,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, General Studies, Riverwood University, 2012",
+      "score": 0.9917,
+      "box": [
+        114,
+        539,
+        641,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom collaboration",
+      "score": 0.9883,
+      "box": [
+        134,
+        566,
+        609,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of instructional alignment",
+      "score": 0.9817,
+      "box": [
+        134,
+        591,
+        551,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KENDALLVO\nCA, USA|+1-850-734-2320 |kendall.vo@example.com\nWORK HISTORY\nElementary Middle School Teachers, Harmony Learning Center, 2020.02–2023.01\n- Directed content standardization\n- Developed instructional evaluation metrics\nElementary Middle School Teachers, Open Start School, 2014.09–2017.08\n- Collected permission forms\n- Recorded student progress data\nEDUCATION\nBachelor's, General Studies, Riverwood University, 2012\n• Completed coursework in classroom collaboration\n• Studied principles of instructional alignment"
+}

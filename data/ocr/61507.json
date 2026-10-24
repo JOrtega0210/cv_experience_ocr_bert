@@ -1,0 +1,174 @@
+{
+  "id": "61507",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.879,
+  "n_lines": 12,
+  "mean_score": 0.9785,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARQUIZE HOWE",
+      "score": 0.9914,
+      "box": [
+        116,
+        90,
+        410,
+        121
+      ]
+    },
+    {
+      "text": "WY, USA|+1-927-595-4785|marquize.howe@example.com",
+      "score": 0.9695,
+      "box": [
+        115,
+        150,
+        687,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9772,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextGen Builders, 2021.03–2023.01",
+      "score": 0.9785,
+      "box": [
+        115,
+        290,
+        670,
+        312
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.9735,
+      "box": [
+        127,
+        315,
+        523,
+        338
+      ]
+    },
+    {
+      "text": "- Managed equipment maintenance programs",
+      "score": 0.9877,
+      "box": [
+        126,
+        339,
+        552,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearStone Construction, 2016.10–2018.09",
+      "score": 0.9779,
+      "box": [
+        115,
+        381,
+        736,
+        405
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9692,
+      "box": [
+        125,
+        406,
+        435,
+        431
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.9557,
+      "box": [
+        126,
+        430,
+        361,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Heavy Equipment Operation, Brighton High School, 2010",
+      "score": 0.9859,
+      "box": [
+        116,
+        541,
+        904,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of construction record keeping",
+      "score": 0.978,
+      "box": [
+        133,
+        565,
+        598,
+        590
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "MARQUIZE HOWE\nWY, USA|+1-927-595-4785|marquize.howe@example.com\nWORK HISTORY\nConstruction Laborers, NextGen Builders, 2021.03–2023.01\n- Coordinated large-scale material logistics\n- Managed equipment maintenance programs\nConstruction Laborers, ClearStone Construction, 2016.10–2018.09\n- Installed temporary site barriers\n- Installed safety signage\nEDUCATION\nHigh school graduate/GED, Heavy Equipment Operation, Brighton High School, 2010\n• Studied principles of construction record keeping"
+}

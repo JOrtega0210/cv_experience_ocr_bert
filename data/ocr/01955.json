@@ -1,0 +1,161 @@
+{
+  "id": "01955",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.878,
+  "n_lines": 11,
+  "mean_score": 0.9832,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KATELYNNWEBER",
+      "score": 0.9993,
+      "box": [
+        116,
+        90,
+        433,
+        120
+      ]
+    },
+    {
+      "text": "AZ, USA |+1-850-761-6107 |katelynn.weber@example.com",
+      "score": 0.9704,
+      "box": [
+        116,
+        152,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9814,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenHands Care Services, 2020.09–2023.01",
+      "score": 0.9753,
+      "box": [
+        116,
+        290,
+        723,
+        313
+      ]
+    },
+    {
+      "text": "– Monitored patient intake and output",
+      "score": 0.9528,
+      "box": [
+        125,
+        314,
+        470,
+        339
+      ]
+    },
+    {
+      "text": "- Collected laboratory specimens",
+      "score": 0.9889,
+      "box": [
+        126,
+        339,
+        434,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Health Care Studies, Goldenbrook University, 2018",
+      "score": 0.9842,
+      "box": [
+        115,
+        449,
+        681,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Technology, Stonebridge University, 2016",
+      "score": 0.9825,
+      "box": [
+        114,
+        472,
+        691,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient discharge planning",
+      "score": 0.9876,
+      "box": [
+        133,
+        497,
+        632,
+        523
+      ]
+    },
+    {
+      "text": "• Completed coursework in suctioning techniques",
+      "score": 0.9946,
+      "box": [
+        134,
+        523,
+        590,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "KATELYNNWEBER\nAZ, USA |+1-850-761-6107 |katelynn.weber@example.com\nWORK HISTORY\nRegistered Nurses, OpenHands Care Services, 2020.09–2023.01\n– Monitored patient intake and output\n- Collected laboratory specimens\nEDUCATION\nMaster's, Health Care Studies, Goldenbrook University, 2018\nBachelor's, Medical Technology, Stonebridge University, 2016\n• Completed coursework in patient discharge planning\n• Completed coursework in suctioning techniques"
+}

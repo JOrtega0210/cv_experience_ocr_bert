@@ -1,0 +1,200 @@
+{
+  "id": "56876",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.847,
+  "n_lines": 14,
+  "mean_score": 0.9859,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BREANNA CLAY",
+      "score": 0.9655,
+      "box": [
+        117,
+        89,
+        387,
+        120
+      ]
+    },
+    {
+      "text": "VA, USA|+1-294-351-8980 |breanna.clay@example.com",
+      "score": 0.9868,
+      "box": [
+        115,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9776,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Horizons School, 2020.01–2023.01",
+      "score": 0.9902,
+      "box": [
+        115,
+        289,
+        848,
+        314
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9939,
+      "box": [
+        126,
+        315,
+        510,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented performance evaluation systems",
+      "score": 0.9907,
+      "box": [
+        126,
+        339,
+        570,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Minds School, 2017.01–2020.01",
+      "score": 0.985,
+      "box": [
+        116,
+        382,
+        818,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with small group instruction activities",
+      "score": 0.9805,
+      "box": [
+        126,
+        407,
+        565,
+        430
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9909,
+      "box": [
+        126,
+        431,
+        460,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Education Preparation, Oakfield University, 2020",
+      "score": 0.9856,
+      "box": [
+        115,
+        541,
+        657,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Family and Child Studies, Windcrest University, 2018",
+      "score": 0.9834,
+      "box": [
+        115,
+        566,
+        716,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom facilitation",
+      "score": 0.9889,
+      "box": [
+        134,
+        591,
+        583,
+        614
+      ]
+    },
+    {
+      "text": "• Completed coursework in learning theory",
+      "score": 0.9852,
+      "box": [
+        134,
+        614,
+        527,
+        641
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "BREANNA CLAY\nVA, USA|+1-294-351-8980 |breanna.clay@example.com\nWORK HISTORY\nElementary Middle School Teachers, Bright Horizons School, 2020.01–2023.01\n- Developed learning progression models\n- Implemented performance evaluation systems\nElementary Middle School Teachers, Open Minds School, 2017.01–2020.01\n- Assisted with small group instruction activities\n- Assisted with science experiments\nEDUCATION\nMaster's, Education Preparation, Oakfield University, 2020\nBachelor's, Family and Child Studies, Windcrest University, 2018\n• Completed coursework in classroom facilitation\n• Completed coursework in learning theory"
+}

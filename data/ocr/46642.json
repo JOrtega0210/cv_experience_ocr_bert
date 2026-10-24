@@ -1,0 +1,265 @@
+{
+  "id": "46642",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.926,
+  "n_lines": 19,
+  "mean_score": 0.9837,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DANIELL SKINNER",
+      "score": 0.9698,
+      "box": [
+        116,
+        90,
+        422,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-383-563-7273 |daniell.skinner@example.com",
+      "score": 0.9851,
+      "box": [
+        115,
+        150,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9793,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightNest Health Services, 2019.12–2023.01",
+      "score": 0.9757,
+      "box": [
+        115,
+        289,
+        724,
+        314
+      ]
+    },
+    {
+      "text": "- Developed interdisciplinary care strategies",
+      "score": 0.9857,
+      "box": [
+        126,
+        314,
+        534,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.9859,
+      "box": [
+        127,
+        341,
+        568,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Way Nursing, 2016.11–2019.12",
+      "score": 0.9714,
+      "box": [
+        115,
+        381,
+        672,
+        406
+      ]
+    },
+    {
+      "text": "- Directed patient care coordination",
+      "score": 0.9908,
+      "box": [
+        127,
+        407,
+        455,
+        430
+      ]
+    },
+    {
+      "text": "- Directed clinical training standards",
+      "score": 0.9902,
+      "box": [
+        126,
+        431,
+        460,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Hands Care, 2012.10–2015.11",
+      "score": 0.9858,
+      "box": [
+        116,
+        472,
+        653,
+        496
+      ]
+    },
+    {
+      "text": "- Supervised medication administration",
+      "score": 0.9847,
+      "box": [
+        126,
+        498,
+        489,
+        521
+      ]
+    },
+    {
+      "text": "- Monitored patient response to treatments",
+      "score": 0.981,
+      "box": [
+        126,
+        521,
+        522,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeHands Health Group, 2008.03–2011.05",
+      "score": 0.9856,
+      "box": [
+        115,
+        564,
+        709,
+        589
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9861,
+      "box": [
+        125,
+        589,
+        514,
+        614
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.9878,
+      "box": [
+        127,
+        615,
+        453,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Health Sciences, Greenfield University, 2003",
+      "score": 0.9882,
+      "box": [
+        114,
+        723,
+        715,
+        748
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient positioning",
+      "score": 0.9731,
+      "box": [
+        132,
+        748,
+        558,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in prioritization in nursing",
+      "score": 0.9854,
+      "box": [
+        134,
+        774,
+        598,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "DANIELL SKINNER\nPA, USA|+1-383-563-7273 |daniell.skinner@example.com\nWORK HISTORY\nRegistered Nurses, BrightNest Health Services, 2019.12–2023.01\n- Developed interdisciplinary care strategies\n- Implemented evidence-based practice models\nRegistered Nurses, Helping Way Nursing, 2016.11–2019.12\n- Directed patient care coordination\n- Directed clinical training standards\nRegistered Nurses, Caring Hands Care, 2012.10–2015.11\n- Supervised medication administration\n- Monitored patient response to treatments\nRegistered Nurses, SafeHands Health Group, 2008.03–2011.05\n- Assisted with physical therapy exercises\n- Documented patient observations\nEDUCATION\nBachelor's, Applied Health Sciences, Greenfield University, 2003\n• Completed coursework in patient positioning\n• Completed coursework in prioritization in nursing"
+}

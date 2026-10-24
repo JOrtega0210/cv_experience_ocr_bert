@@ -1,0 +1,200 @@
+{
+  "id": "03339",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.929,
+  "n_lines": 14,
+  "mean_score": 0.9846,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRYCELAM",
+      "score": 0.9991,
+      "box": [
+        116,
+        90,
+        317,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-326-624-1220 |bryce.lam@example.com",
+      "score": 0.9883,
+      "box": [
+        116,
+        150,
+        631,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9877,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightcode Solutions, 2020.01–202.01",
+      "score": 0.977,
+      "box": [
+        115,
+        290,
+        687,
+        313
+      ]
+    },
+    {
+      "text": "- Designed event-driven architectures",
+      "score": 0.9891,
+      "box": [
+        126,
+        315,
+        476,
+        338
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.9901,
+      "box": [
+        125,
+        339,
+        373,
+        362
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudframe Software, 2017.01–2020.01",
+      "score": 0.9865,
+      "box": [
+        115,
+        382,
+        692,
+        405
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9738,
+      "box": [
+        125,
+        406,
+        364,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented caching logic",
+      "score": 0.9677,
+      "box": [
+        126,
+        430,
+        390,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Cedar Ridge University, 2020",
+      "score": 0.9787,
+      "box": [
+        115,
+        541,
+        480,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Westview University, 2018",
+      "score": 0.9765,
+      "box": [
+        115,
+        566,
+        471,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in computer programming fundamentals",
+      "score": 0.9904,
+      "box": [
+        133,
+        590,
+        736,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in frontend frameworks basics",
+      "score": 0.9813,
+      "box": [
+        133,
+        615,
+        643,
+        638
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "BRYCELAM\nCA, USA|+1-326-624-1220 |bryce.lam@example.com\nWORK HISTORY\nSoftware Developers, Brightcode Solutions, 2020.01–202.01\n- Designed event-driven architectures\n- Led architectural reviews\nSoftware Developers, Cloudframe Software, 2017.01–2020.01\n- Handled feature toggles\n- Implemented caching logic\nEDUCATION\nMaster's, Cedar Ridge University, 2020\nBachelor's, Westview University, 2018\n• Completed coursework in computer programming fundamentals\n• Completed coursework in frontend frameworks basics"
+}

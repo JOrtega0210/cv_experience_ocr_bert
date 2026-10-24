@@ -1,0 +1,187 @@
+{
+  "id": "19418",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.845,
+  "n_lines": 13,
+  "mean_score": 0.9794,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ALEXIS BOWEN",
+      "score": 0.9602,
+      "box": [
+        116,
+        90,
+        377,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-801-303-2265|alexis.bowen@example.com",
+      "score": 0.9933,
+      "box": [
+        116,
+        151,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Financial, 2021.05–2023.01",
+      "score": 0.9792,
+      "box": [
+        115,
+        289,
+        723,
+        313
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9749,
+      "box": [
+        127,
+        315,
+        450,
+        338
+      ]
+    },
+    {
+      "text": "- Directed revenue recognition policies",
+      "score": 0.9669,
+      "box": [
+        126,
+        338,
+        484,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Services, 2019.09–2021.05",
+      "score": 0.9876,
+      "box": [
+        115,
+        381,
+        684,
+        405
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9744,
+      "box": [
+        125,
+        406,
+        490,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.9791,
+      "box": [
+        126,
+        430,
+        384,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Statistics, Seabreeze University, 223",
+      "score": 0.9754,
+      "box": [
+        114,
+        539,
+        578,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit planning techniques",
+      "score": 0.9819,
+      "box": [
+        133,
+        565,
+        625,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit documentation",
+      "score": 0.9769,
+      "box": [
+        134,
+        592,
+        566,
+        612
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ALEXIS BOWEN\nIL, USA|+1-801-303-2265|alexis.bowen@example.com\nWORK HISTORY\nAccountants Auditors, Integrity Count Financial, 2021.05–2023.01\n- Designed accounting frameworks\n- Directed revenue recognition policies\nAccountants Auditors, EverCount Services, 2019.09–2021.05\n- Processed accounts payable invoices\n- Prepared variance reports\nEDUCATION\nBachelor's, Statistics, Seabreeze University, 223\n• Completed coursework in audit planning techniques\n• Studied fundamentals of audit documentation"
+}

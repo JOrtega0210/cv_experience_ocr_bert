@@ -1,0 +1,200 @@
+{
+  "id": "46018",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.856,
+  "n_lines": 14,
+  "mean_score": 0.9824,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CAITLIN BARNETT",
+      "score": 0.9873,
+      "box": [
+        117,
+        90,
+        419,
+        120
+      ]
+    },
+    {
+      "text": "PA, USA|+1-775-773-9820 |caitlin.barnett@example.com",
+      "score": 0.9809,
+      "box": [
+        115,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9793,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Grove School, 2020.05–2023.01",
+      "score": 0.9769,
+      "box": [
+        115,
+        290,
+        812,
+        313
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.9887,
+      "box": [
+        126,
+        315,
+        476,
+        338
+      ]
+    },
+    {
+      "text": "- Led curriculum alignment initiatives",
+      "score": 0.9624,
+      "box": [
+        127,
+        340,
+        467,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Morning Star School, 2017.09–2020.05",
+      "score": 0.9934,
+      "box": [
+        115,
+        381,
+        827,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.9809,
+      "box": [
+        126,
+        407,
+        411,
+        429
+      ]
+    },
+    {
+      "text": "- Supported art instruction",
+      "score": 0.9697,
+      "box": [
+        126,
+        432,
+        369,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Early Childhood Education, Silver Ridge University, 2021",
+      "score": 0.983,
+      "box": [
+        115,
+        541,
+        731,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Foundations, Granite Hill University, 2019",
+      "score": 0.9783,
+      "box": [
+        115,
+        566,
+        726,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in student-centered learning",
+      "score": 0.9891,
+      "box": [
+        133,
+        590,
+        625,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of instructional alignment",
+      "score": 0.9856,
+      "box": [
+        133,
+        615,
+        551,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "CAITLIN BARNETT\nPA, USA|+1-775-773-9820 |caitlin.barnett@example.com\nWORK HISTORY\nElementary Middle School Teachers, Little Grove School, 2020.05–2023.01\n- Developed teacher training modules\n- Led curriculum alignment initiatives\nElementary Middle School Teachers, Morning Star School, 2017.09–2020.05\n- Reviewed curriculum content\n- Supported art instruction\nEDUCATION\nMaster's, Early Childhood Education, Silver Ridge University, 2021\nBachelor's, Educational Foundations, Granite Hill University, 2019\n• Completed coursework in student-centered learning\n• Studied principles of instructional alignment"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "57263",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.868,
+  "n_lines": 13,
+  "mean_score": 0.9843,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CAYLI ROBERSON",
+      "score": 0.9847,
+      "box": [
+        117,
+        90,
+        420,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-696-395-2913 |cayli.roberson@example.com",
+      "score": 0.9794,
+      "box": [
+        115,
+        150,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9769,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Evergreen Academy, 2020.11–2023.01",
+      "score": 0.9854,
+      "box": [
+        114,
+        289,
+        825,
+        314
+      ]
+    },
+    {
+      "text": "- Developed student performance metrics",
+      "score": 0.9629,
+      "box": [
+        126,
+        315,
+        512,
+        338
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.9904,
+      "box": [
+        127,
+        340,
+        535,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Field School, 2015.09–2017.11",
+      "score": 0.9923,
+      "box": [
+        115,
+        381,
+        838,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed homework assignments",
+      "score": 0.9861,
+      "box": [
+        125,
+        406,
+        459,
+        431
+      ]
+    },
+    {
+      "text": "- Administered quizzes and short assessments",
+      "score": 0.9879,
+      "box": [
+        126,
+        431,
+        561,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Basic Education Studies, Valley View University, 2015",
+      "score": 0.9811,
+      "box": [
+        115,
+        541,
+        726,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of instructional materials development",
+      "score": 0.9919,
+      "box": [
+        132,
+        564,
+        670,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of instructional alignment",
+      "score": 0.9793,
+      "box": [
+        132,
+        590,
+        551,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "CAYLI ROBERSON\nVA, USA|+1-696-395-2913 |cayli.roberson@example.com\nWORK HISTORY\nElementary Middle School Teachers, Evergreen Academy, 2020.11–2023.01\n- Developed student performance metrics\n- Established learning outcome benchmarks\nElementary Middle School Teachers, Learning Field School, 2015.09–2017.11\n- Reviewed homework assignments\n- Administered quizzes and short assessments\nEDUCATION\nBachelor's, Basic Education Studies, Valley View University, 2015\n• Studied principles of instructional materials development\n• Studied principles of instructional alignment"
+}

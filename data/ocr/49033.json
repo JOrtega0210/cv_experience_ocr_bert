@@ -1,0 +1,265 @@
+{
+  "id": "49033",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.904,
+  "n_lines": 19,
+  "mean_score": 0.9812,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "STACY PRATT",
+      "score": 0.9631,
+      "box": [
+        115,
+        90,
+        353,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-521-685-5666 |stacy.pratt@example.com",
+      "score": 0.9759,
+      "box": [
+        115,
+        150,
+        636,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9829,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewWay Health Group, 2020.06–2023.01",
+      "score": 0.9876,
+      "box": [
+        116,
+        289,
+        686,
+        313
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.9853,
+      "box": [
+        127,
+        315,
+        392,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented care pathway frameworks",
+      "score": 0.9897,
+      "box": [
+        128,
+        340,
+        506,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Care Services, 2017.10–2020.06",
+      "score": 0.9878,
+      "box": [
+        115,
+        381,
+        729,
+        406
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.9926,
+      "box": [
+        126,
+        406,
+        520,
+        431
+      ]
+    },
+    {
+      "text": "- Established clinical best practices",
+      "score": 0.9902,
+      "box": [
+        126,
+        430,
+        453,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Group, 2015.02–2017.10",
+      "score": 0.989,
+      "box": [
+        116,
+        473,
+        690,
+        496
+      ]
+    },
+    {
+      "text": "- Supervised medication administration",
+      "score": 0.984,
+      "box": [
+        126,
+        498,
+        489,
+        521
+      ]
+    },
+    {
+      "text": "- Conducted comprehensive patient assessments",
+      "score": 0.9826,
+      "box": [
+        126,
+        522,
+        586,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIWay Medical Group, 2009.08–2012.04",
+      "score": 0.9681,
+      "box": [
+        116,
+        565,
+        699,
+        588
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9717,
+      "box": [
+        125,
+        589,
+        365,
+        614
+      ]
+    },
+    {
+      "text": "- Monitored patient alarms",
+      "score": 0.967,
+      "box": [
+        128,
+        616,
+        371,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Allied Health, Rosewood University, 2004",
+      "score": 0.9524,
+      "box": [
+        115,
+        725,
+        609,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in delegation principles",
+      "score": 0.9931,
+      "box": [
+        133,
+        748,
+        579,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of infusion pump use",
+      "score": 0.9819,
+      "box": [
+        134,
+        773,
+        548,
+        796
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "STACY PRATT\nTN, USA|+1-521-685-5666 |stacy.pratt@example.com\nWORK HISTORY\nRegistered Nurses, NewWay Health Group, 2020.06–2023.01\n- Led nursing process audits\n- Implemented care pathway frameworks\nRegistered Nurses, Compassion Care Services, 2017.10–2020.06\n- Established nursing performance metrics\n- Established clinical best practices\nRegistered Nurses, Harmony Health Group, 2015.02–2017.10\n- Supervised medication administration\n- Conducted comprehensive patient assessments\nRegistered Nurses, WelIWay Medical Group, 2009.08–2012.04\n- Recorded nursing notes\n- Monitored patient alarms\nEDUCATION\nBachelor's, Allied Health, Rosewood University, 2004\n• Completed coursework in delegation principles\n• Studied fundamentals of infusion pump use"
+}

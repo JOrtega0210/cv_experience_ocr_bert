@@ -1,0 +1,187 @@
+{
+  "id": "09785",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.934,
+  "n_lines": 13,
+  "mean_score": 0.9802,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KATHERINE WALLACE",
+      "score": 0.9817,
+      "box": [
+        116,
+        90,
+        488,
+        120
+      ]
+    },
+    {
+      "text": "CO, USA | +1-546-908-7959|katherine.wallace@example.com",
+      "score": 0.9673,
+      "box": [
+        117,
+        151,
+        705,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9939,
+      "box": [
+        115,
+        242,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Services, 2019.10–2021.11",
+      "score": 0.9924,
+      "box": [
+        115,
+        290,
+        690,
+        313
+      ]
+    },
+    {
+      "text": "- Directed budget planning cycles",
+      "score": 0.9827,
+      "box": [
+        126,
+        315,
+        439,
+        338
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9555,
+      "box": [
+        127,
+        339,
+        452,
+        362
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Services, 2016.07–2018.09",
+      "score": 0.9855,
+      "box": [
+        115,
+        382,
+        721,
+        404
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.98,
+      "box": [
+        125,
+        405,
+        362,
+        431
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9587,
+      "box": [
+        125,
+        432,
+        416,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Financial Management, Skyview University, 2014",
+      "score": 0.9856,
+      "box": [
+        116,
+        541,
+        759,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in governmental accounting basics",
+      "score": 0.9803,
+      "box": [
+        134,
+        566,
+        687,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of portfolio management",
+      "score": 0.9807,
+      "box": [
+        132,
+        590,
+        582,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KATHERINE WALLACE\nCO, USA | +1-546-908-7959|katherine.wallace@example.com\nWORK HISTORY\nAccountants Auditors, ClearCount Services, 2019.10–2021.11\n- Directed budget planning cycles\n- Led financial data standardization\nAccountants Auditors, Balanced Path Services, 2016.07–2018.09\n- Recorded cash receipts\n- Processed journal corrections\nEDUCATION\nAssociate's degree, Financial Management, Skyview University, 2014\n• Completed coursework in governmental accounting basics\n• Studied fundamentals of portfolio management"
+}

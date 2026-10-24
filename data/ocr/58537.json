@@ -1,0 +1,265 @@
+{
+  "id": "58537",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.9,
+  "n_lines": 19,
+  "mean_score": 0.9795,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KENNETH ORR",
+      "score": 0.9836,
+      "box": [
+        116,
+        90,
+        363,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-410-464-9512|kenneth.orr@example.com",
+      "score": 0.9772,
+      "box": [
+        114,
+        150,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9824,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongRise Construction, 2019.10–2023.01",
+      "score": 0.9852,
+      "box": [
+        114,
+        289,
+        733,
+        313
+      ]
+    },
+    {
+      "text": "- Established material procurement strategies",
+      "score": 0.9696,
+      "box": [
+        126,
+        313,
+        549,
+        339
+      ]
+    },
+    {
+      "text": "- Directed training programs for crews",
+      "score": 0.9704,
+      "box": [
+        126,
+        339,
+        478,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongRise Construction, 2016.06–2019.10",
+      "score": 0.987,
+      "box": [
+        115,
+        381,
+        734,
+        406
+      ]
+    },
+    {
+      "text": "- Directed quality assurance programs",
+      "score": 0.9759,
+      "box": [
+        126,
+        406,
+        482,
+        432
+      ]
+    },
+    {
+      "text": "- Managed workforce allocation",
+      "score": 0.9894,
+      "box": [
+        127,
+        432,
+        420,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Build Group, 2013.02–2016.06",
+      "score": 0.9629,
+      "box": [
+        114,
+        471,
+        710,
+        496
+      ]
+    },
+    {
+      "text": "- Installed drainage systems",
+      "score": 0.9891,
+      "box": [
+        125,
+        496,
+        391,
+        521
+      ]
+    },
+    {
+      "text": "- Supervised demolition tasks",
+      "score": 0.9785,
+      "box": [
+        126,
+        521,
+        402,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeFrame Co., 2009.10–2013.02",
+      "score": 0.9822,
+      "box": [
+        115,
+        564,
+        661,
+        587
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.9857,
+      "box": [
+        126,
+        590,
+        404,
+        612
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.9577,
+      "box": [
+        126,
+        613,
+        361,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), HVAC Technology, Windfield University, 2009",
+      "score": 0.9743,
+      "box": [
+        115,
+        723,
+        794,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of site access planning",
+      "score": 0.9848,
+      "box": [
+        132,
+        747,
+        529,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of wall systems",
+      "score": 0.9756,
+      "box": [
+        133,
+        772,
+        498,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "KENNETH ORR\nWA, USA|+1-410-464-9512|kenneth.orr@example.com\nWORK HISTORY\nConstruction Laborers, StrongRise Construction, 2019.10–2023.01\n- Established material procurement strategies\n- Directed training programs for crews\nConstruction Laborers, StrongRise Construction, 2016.06–2019.10\n- Directed quality assurance programs\n- Managed workforce allocation\nConstruction Laborers, Precision Build Group, 2013.02–2016.06\n- Installed drainage systems\n- Supervised demolition tasks\nConstruction Laborers, PrimeFrame Co., 2009.10–2013.02\n- Installed insulation materials\n- Installed safety signage\nEDUCATION\nSome college (no degree), HVAC Technology, Windfield University, 2009\n• Studied principles of site access planning\n• Studied fundamentals of wall systems"
+}

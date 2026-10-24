@@ -1,0 +1,174 @@
+{
+  "id": "13253",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.935,
+  "n_lines": 12,
+  "mean_score": 0.9793,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NICHOLAS CHASE",
+      "score": 0.9746,
+      "box": [
+        114,
+        87,
+        421,
+        123
+      ]
+    },
+    {
+      "text": "FL, USA|+1-557-335-3605|nicholas.chase@example.com",
+      "score": 0.9794,
+      "box": [
+        115,
+        150,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9847,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorBuild Co., 2020.05–2023.01",
+      "score": 0.9717,
+      "box": [
+        114,
+        288,
+        657,
+        313
+      ]
+    },
+    {
+      "text": "– Managed large-scale installations",
+      "score": 0.9721,
+      "box": [
+        127,
+        315,
+        452,
+        338
+      ]
+    },
+    {
+      "text": "- Led structural installation projects",
+      "score": 0.9943,
+      "box": [
+        126,
+        338,
+        453,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongPoint Builders, 2017.09–2020.05",
+      "score": 0.9573,
+      "box": [
+        115,
+        381,
+        698,
+        406
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9766,
+      "box": [
+        125,
+        406,
+        435,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.9672,
+      "box": [
+        126,
+        431,
+        583,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, General Construction, Springdale High School, 2017",
+      "score": 0.9901,
+      "box": [
+        116,
+        541,
+        862,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of structural reinforcement",
+      "score": 0.985,
+      "box": [
+        133,
+        566,
+        563,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "NICHOLAS CHASE\nFL, USA|+1-557-335-3605|nicholas.chase@example.com\nWORK HISTORY\nConstruction Laborers, AnchorBuild Co., 2020.05–2023.01\n– Managed large-scale installations\n- Led structural installation projects\nConstruction Laborers, StrongPoint Builders, 2017.09–2020.05\n- Installed temporary site barriers\n- Assisted with basic electrical conduit placement\nEDUCATION\nHigh school graduate/GED, General Construction, Springdale High School, 2017\n• Studied principles of structural reinforcement"
+}

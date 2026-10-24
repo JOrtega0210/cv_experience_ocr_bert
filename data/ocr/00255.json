@@ -1,0 +1,265 @@
+{
+  "id": "00255",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.027,
+  "n_lines": 19,
+  "mean_score": 0.9807,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ALLISON FLEMING",
+      "score": 0.9892,
+      "box": [
+        117,
+        90,
+        423,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-664-713-9178|allison.fleming@example.com",
+      "score": 0.9873,
+      "box": [
+        116,
+        152,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9866,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openframe Labs, 2018.07–2023.01",
+      "score": 0.9848,
+      "box": [
+        115,
+        289,
+        650,
+        312
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9884,
+      "box": [
+        126,
+        315,
+        446,
+        338
+      ]
+    },
+    {
+      "text": "- Defined API standards",
+      "score": 0.9613,
+      "box": [
+        125,
+        338,
+        352,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpoint Labs, 2014.01–2018.07",
+      "score": 0.9811,
+      "box": [
+        115,
+        381,
+        637,
+        406
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9856,
+      "box": [
+        125,
+        406,
+        450,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed system design documents",
+      "score": 0.9908,
+      "box": [
+        126,
+        431,
+        480,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Softway Solutions, 2009.07–2014.01",
+      "score": 0.9855,
+      "box": [
+        115,
+        471,
+        661,
+        496
+      ]
+    },
+    {
+      "text": "- Developed microservices",
+      "score": 0.9629,
+      "box": [
+        124,
+        496,
+        376,
+        521
+      ]
+    },
+    {
+      "text": "- Developed reporting modules",
+      "score": 0.9824,
+      "box": [
+        126,
+        523,
+        415,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Clearwave Tech, 2005.01–2009.07",
+      "score": 0.9645,
+      "box": [
+        114,
+        563,
+        648,
+        588
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9605,
+      "box": [
+        126,
+        589,
+        447,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with Cl pipeline tasks",
+      "score": 0.9655,
+      "box": [
+        127,
+        615,
+        424,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Maplewood University, 2004",
+      "score": 0.989,
+      "box": [
+        114,
+        723,
+        488,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in RESTful services",
+      "score": 0.9868,
+      "box": [
+        133,
+        749,
+        550,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in pointer arithmetic basics",
+      "score": 0.982,
+      "box": [
+        134,
+        774,
+        614,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "ALLISON FLEMING\nAL, USA|+1-664-713-9178|allison.fleming@example.com\nWORK HISTORY\nSoftware Developers, Openframe Labs, 2018.07–2023.01\n- Designed caching infrastructures\n- Defined API standards\nSoftware Developers, Flowpoint Labs, 2014.01–2018.07\n- Defined data governance policies\n- Reviewed system design documents\nSoftware Developers, Softway Solutions, 2009.07–2014.01\n- Developed microservices\n- Developed reporting modules\nSoftware Developers, Clearwave Tech, 2005.01–2009.07\n- Implemented error handling logic\n- Assisted with Cl pipeline tasks\nEDUCATION\nBachelor's, Maplewood University, 2004\n• Completed coursework in RESTful services\n• Completed coursework in pointer arithmetic basics"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "00065",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.808,
+  "n_lines": 13,
+  "mean_score": 0.9817,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BROOKE STEELE",
+      "score": 0.9653,
+      "box": [
+        116,
+        90,
+        405,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-817-853-3058|brooke.steele@example.com",
+      "score": 0.9868,
+      "box": [
+        116,
+        151,
+        662,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenLife Nursing Services, 2020.12–2023.01",
+      "score": 0.9882,
+      "box": [
+        115,
+        289,
+        723,
+        314
+      ]
+    },
+    {
+      "text": "- Developed interdisciplinary care strategies",
+      "score": 0.9823,
+      "box": [
+        125,
+        314,
+        534,
+        339
+      ]
+    },
+    {
+      "text": "- Managed nursing unit operations",
+      "score": 0.9842,
+      "box": [
+        126,
+        339,
+        447,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverBridge Health Services, 2018.10–2020.12",
+      "score": 0.9821,
+      "box": [
+        116,
+        382,
+        731,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9685,
+      "box": [
+        125,
+        406,
+        387,
+        431
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9611,
+      "box": [
+        126,
+        432,
+        410,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Health and Wellness, Oakridge Valley University, 2018",
+      "score": 0.9768,
+      "box": [
+        115,
+        540,
+        810,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient advocacy",
+      "score": 0.9853,
+      "box": [
+        132,
+        565,
+        536,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in healthcare quality improvement",
+      "score": 0.9978,
+      "box": [
+        134,
+        590,
+        680,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "BROOKE STEELE\nAL, USA|+1-817-853-3058|brooke.steele@example.com\nWORK HISTORY\nRegistered Nurses, OpenLife Nursing Services, 2020.12–2023.01\n- Developed interdisciplinary care strategies\n- Managed nursing unit operations\nRegistered Nurses, EverBridge Health Services, 2018.10–2020.12\n- Prepared treatment rooms\n- Recorded shift handoff notes\nEDUCATION\nAssociate's degree, Health and Wellness, Oakridge Valley University, 2018\n• Studied fundamentals of patient advocacy\n• Completed coursework in healthcare quality improvement"
+}

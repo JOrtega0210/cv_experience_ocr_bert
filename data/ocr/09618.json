@@ -1,0 +1,187 @@
+{
+  "id": "09618",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.906,
+  "n_lines": 13,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BENJAMIN HUBER",
+      "score": 0.9905,
+      "box": [
+        117,
+        90,
+        421,
+        121
+      ]
+    },
+    {
+      "text": "CO, USA | +1-566-596-2720 | benjamin.huber@example.com",
+      "score": 0.9616,
+      "box": [
+        117,
+        151,
+        687,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9789,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Labs, 2019.01–2021.01",
+      "score": 0.9895,
+      "box": [
+        115,
+        289,
+        617,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented data pipeline architectures",
+      "score": 0.9791,
+      "box": [
+        127,
+        315,
+        512,
+        338
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9926,
+      "box": [
+        126,
+        339,
+        450,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudfield Digital, 2016.01–2018.01",
+      "score": 0.9795,
+      "box": [
+        115,
+        381,
+        652,
+        406
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9868,
+      "box": [
+        127,
+        408,
+        346,
+        429
+      ]
+    },
+    {
+      "text": "- Implemented basic authentication logic",
+      "score": 0.9938,
+      "box": [
+        126,
+        430,
+        502,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Shady Grove University, 2003",
+      "score": 0.9639,
+      "box": [
+        115,
+        541,
+        503,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in network security",
+      "score": 0.9817,
+      "box": [
+        133,
+        565,
+        540,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of caching strategies",
+      "score": 0.9938,
+      "box": [
+        133,
+        590,
+        510,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "BENJAMIN HUBER\nCO, USA | +1-566-596-2720 | benjamin.huber@example.com\nWORK HISTORY\nSoftware Developers, Netfield Labs, 2019.01–2021.01\n- Implemented data pipeline architectures\n- Defined data governance policies\nSoftware Developers, Cloudfield Digital, 2016.01–2018.01\n- Created test data sets\n- Implemented basic authentication logic\nEDUCATION\nBachelor's, Shady Grove University, 2003\n• Completed coursework in network security\n• Studied principles of caching strategies"
+}

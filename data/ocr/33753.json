@@ -1,0 +1,265 @@
+{
+  "id": "33753",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.936,
+  "n_lines": 19,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TRENTON GRAHAM",
+      "score": 0.9719,
+      "box": [
+        115,
+        90,
+        440,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-876-382-3683|trenton.graham@example.com",
+      "score": 0.985,
+      "box": [
+        116,
+        151,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9802,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Financial Group, 2020.05–202.01",
+      "score": 0.9883,
+      "box": [
+        114,
+        289,
+        754,
+        314
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9867,
+      "box": [
+        126,
+        313,
+        505,
+        339
+      ]
+    },
+    {
+      "text": "- Developed risk management frameworks",
+      "score": 0.9851,
+      "box": [
+        127,
+        340,
+        521,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrueBalance Financial, 2017.09–2020.05",
+      "score": 0.9855,
+      "box": [
+        115,
+        382,
+        707,
+        404
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9891,
+      "box": [
+        126,
+        406,
+        429,
+        431
+      ]
+    },
+    {
+      "text": "- Directed budget planning cycles",
+      "score": 0.9886,
+      "box": [
+        126,
+        430,
+        438,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Advisors, 2015.01–2017.09",
+      "score": 0.9778,
+      "box": [
+        114,
+        471,
+        726,
+        496
+      ]
+    },
+    {
+      "text": "- Developed audit plans",
+      "score": 0.9783,
+      "box": [
+        127,
+        499,
+        349,
+        520
+      ]
+    },
+    {
+      "text": "- Conducted account reconciliations",
+      "score": 0.9739,
+      "box": [
+        127,
+        522,
+        459,
+        544
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Advisors, 2012.05–2015.01",
+      "score": 0.99,
+      "box": [
+        115,
+        565,
+        741,
+        588
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9784,
+      "box": [
+        126,
+        590,
+        510,
+        613
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.9904,
+      "box": [
+        126,
+        613,
+        481,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Economic Studies, Stonebridge University, 2018",
+      "score": 0.9746,
+      "box": [
+        115,
+        724,
+        671,
+        746
+      ]
+    },
+    {
+      "text": "• Completed coursework in expense allocation",
+      "score": 0.979,
+      "box": [
+        133,
+        749,
+        562,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of managerial accounting",
+      "score": 0.9662,
+      "box": [
+        133,
+        774,
+        550,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "TRENTON GRAHAM\nNJ, USA|+1-876-382-3683|trenton.graham@example.com\nWORK HISTORY\nAccountants Auditors, AccuCount Financial Group, 2020.05–202.01\n- Established cost management systems\n- Developed risk management frameworks\nAccountants Auditors, TrueBalance Financial, 2017.09–2020.05\n- Led audit planning governance\n- Directed budget planning cycles\nAccountants Auditors, Precise Ledger Advisors, 2015.01–2017.09\n- Developed audit plans\n- Conducted account reconciliations\nAccountants Auditors, Reliable Balance Advisors, 2012.05–2015.01\n- Maintained accounting software records\n- Processed expense reimbursements\nEDUCATION\nBachelor's, Economic Studies, Stonebridge University, 2018\n• Completed coursework in expense allocation\n• Studied principles of managerial accounting"
+}

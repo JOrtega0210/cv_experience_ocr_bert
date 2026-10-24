@@ -1,0 +1,200 @@
+{
+  "id": "26142",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.795,
+  "n_lines": 14,
+  "mean_score": 0.9783,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TYLER JACKSON",
+      "score": 0.9758,
+      "box": [
+        115,
+        90,
+        401,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-952-644-2834 |tyler.jackson@example.com",
+      "score": 0.9801,
+      "box": [
+        115,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9866,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstone Systems, 2019.11–2022.06",
+      "score": 0.9875,
+      "box": [
+        115,
+        289,
+        683,
+        314
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9886,
+      "box": [
+        126,
+        315,
+        443,
+        339
+      ]
+    },
+    {
+      "text": "- Defined integration standards",
+      "score": 0.9791,
+      "box": [
+        126,
+        339,
+        415,
+        362
+      ]
+    },
+    {
+      "text": "Software Developers, Brightpoint Software, 2016.05–2018.12",
+      "score": 0.9798,
+      "box": [
+        115,
+        381,
+        684,
+        406
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.9673,
+      "box": [
+        125,
+        405,
+        332,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.9515,
+      "box": [
+        125,
+        429,
+        355,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Riverwood University, 2014",
+      "score": 0.9837,
+      "box": [
+        116,
+        542,
+        461,
+        562
+      ]
+    },
+    {
+      "text": "Bachelor's, Pioneer University, 2012",
+      "score": 0.9609,
+      "box": [
+        115,
+        566,
+        454,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in real-time systems",
+      "score": 0.987,
+      "box": [
+        133,
+        590,
+        554,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of artificial intelligence",
+      "score": 0.9699,
+      "box": [
+        132,
+        615,
+        560,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "TYLER JACKSON\nMA, USA|+1-952-644-2834 |tyler.jackson@example.com\nWORK HISTORY\nSoftware Developers, Clearstone Systems, 2019.11–2022.06\n- Designed observability platforms\n- Defined integration standards\nSoftware Developers, Brightpoint Software, 2016.05–2018.12\n- Handled file uploads\n- Reviewed error reports\nEDUCATION\nMaster's, Riverwood University, 2014\nBachelor's, Pioneer University, 2012\n• Completed coursework in real-time systems\n• Studied fundamentals of artificial intelligence"
+}

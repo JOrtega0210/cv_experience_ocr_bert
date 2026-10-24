@@ -1,0 +1,226 @@
+{
+  "id": "02994",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.954,
+  "n_lines": 16,
+  "mean_score": 0.9823,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "FRANCISCO COPELAND",
+      "score": 0.9734,
+      "box": [
+        114,
+        87,
+        513,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA|+1-821-830-5265 |francisco.copeland@example.com",
+      "score": 0.9794,
+      "box": [
+        116,
+        150,
+        715,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Accounting, 2020.04–2023.01",
+      "score": 0.9786,
+      "box": [
+        114,
+        289,
+        701,
+        313
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9676,
+      "box": [
+        125,
+        313,
+        477,
+        338
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.976,
+      "box": [
+        126,
+        339,
+        427,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Financial, 2017.06–2020.04",
+      "score": 0.9852,
+      "box": [
+        114,
+        381,
+        725,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted internal audits",
+      "score": 0.991,
+      "box": [
+        126,
+        407,
+        379,
+        430
+      ]
+    },
+    {
+      "text": "- Reviewed journal entries",
+      "score": 0.9859,
+      "box": [
+        125,
+        430,
+        372,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Group, 2013.03–201.01",
+      "score": 0.9768,
+      "box": [
+        115,
+        472,
+        660,
+        496
+      ]
+    },
+    {
+      "text": "-Reviewed account balances",
+      "score": 0.9956,
+      "box": [
+        125,
+        496,
+        404,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.98,
+      "box": [
+        126,
+        521,
+        409,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Quantitative Finance, Forest Ridge University, 2003",
+      "score": 0.9894,
+      "box": [
+        114,
+        631,
+        704,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit reporting",
+      "score": 0.9671,
+      "box": [
+        134,
+        658,
+        523,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of revenue recognition",
+      "score": 0.9861,
+      "box": [
+        134,
+        681,
+        525,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "FRANCISCO COPELAND\nCA, USA|+1-821-830-5265 |francisco.copeland@example.com\nWORK HISTORY\nAccountants Auditors, FairBooks Accounting, 2020.04–2023.01\n- Established financial quality controls\n- Managed financial governance\nAccountants Auditors, Integrity Count Financial, 2017.06–2020.04\n- Conducted internal audits\n- Reviewed journal entries\nAccountants Auditors, EverCount Group, 2013.03–201.01\n-Reviewed account balances\n- Prepared audit confirmations\nEDUCATION\nBachelor's, Quantitative Finance, Forest Ridge University, 2003\n• Completed coursework in audit reporting\n• Studied principles of revenue recognition"
+}

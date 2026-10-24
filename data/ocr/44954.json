@@ -1,0 +1,174 @@
+{
+  "id": "44954",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.784,
+  "n_lines": 12,
+  "mean_score": 0.9769,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSEPH KELLEY",
+      "score": 0.9806,
+      "box": [
+        116,
+        90,
+        396,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-606-826-3220 |joseph.kelley@example.com",
+      "score": 0.9797,
+      "box": [
+        115,
+        150,
+        660,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9823,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cleargrid Software, 2020.10–221.08",
+      "score": 0.9822,
+      "box": [
+        116,
+        290,
+        669,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented Ul components based on design specs",
+      "score": 0.9739,
+      "box": [
+        126,
+        314,
+        627,
+        339
+      ]
+    },
+    {
+      "text": "- Updated documentation for implemented features",
+      "score": 0.9741,
+      "box": [
+        127,
+        341,
+        601,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Doctorate, Vista University, 2014",
+      "score": 0.9523,
+      "box": [
+        115,
+        448,
+        422,
+        471
+      ]
+    },
+    {
+      "text": "Bachelor's, Northfield University, 2009",
+      "score": 0.964,
+      "box": [
+        115,
+        474,
+        470,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of software maintenance",
+      "score": 0.9928,
+      "box": [
+        134,
+        497,
+        582,
+        522
+      ]
+    },
+    {
+      "text": "• Completed coursework in signal processing basics",
+      "score": 0.9656,
+      "box": [
+        135,
+        524,
+        615,
+        548
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of artificial intelligence",
+      "score": 0.9766,
+      "box": [
+        132,
+        547,
+        561,
+        573
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "JOSEPH KELLEY\nPA, USA|+1-606-826-3220 |joseph.kelley@example.com\nWORK HISTORY\nSoftware Developers, Cleargrid Software, 2020.10–221.08\n- Implemented Ul components based on design specs\n- Updated documentation for implemented features\nEDUCATION\nDoctorate, Vista University, 2014\nBachelor's, Northfield University, 2009\n• Studied fundamentals of software maintenance\n• Completed coursework in signal processing basics\n• Studied fundamentals of artificial intelligence"
+}

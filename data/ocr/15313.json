@@ -1,0 +1,187 @@
+{
+  "id": "15313",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.959,
+  "n_lines": 13,
+  "mean_score": 0.9814,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "FIONA HUFFMAN",
+      "score": 0.9813,
+      "box": [
+        116,
+        90,
+        397,
+        120
+      ]
+    },
+    {
+      "text": "GA, USA |+1-703-617-5601 |fiona.huffman@example.com",
+      "score": 0.957,
+      "box": [
+        116,
+        151,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunLife Nursing Services, 2020.09–2023.01",
+      "score": 0.9925,
+      "box": [
+        116,
+        290,
+        708,
+        313
+      ]
+    },
+    {
+      "text": "- Developed nursing training programs",
+      "score": 0.9669,
+      "box": [
+        125,
+        314,
+        484,
+        340
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.9807,
+      "box": [
+        126,
+        339,
+        392,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightWay Nursing Services, 2018.04–2020.09",
+      "score": 0.9832,
+      "box": [
+        115,
+        381,
+        735,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobility",
+      "score": 0.9793,
+      "box": [
+        125,
+        406,
+        409,
+        431
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.9872,
+      "box": [
+        126,
+        429,
+        512,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Biomedical Sciences, Brightfield Ridge University, 2020",
+      "score": 0.985,
+      "box": [
+        114,
+        539,
+        738,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of wound assessment",
+      "score": 0.9951,
+      "box": [
+        133,
+        566,
+        558,
+        588
+      ]
+    },
+    {
+      "text": "• Completed coursework in pressure injury prevention",
+      "score": 0.9677,
+      "box": [
+        134,
+        590,
+        628,
+        613
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "FIONA HUFFMAN\nGA, USA |+1-703-617-5601 |fiona.huffman@example.com\nWORK HISTORY\nRegistered Nurses, SunLife Nursing Services, 2020.09–2023.01\n- Developed nursing training programs\n- Led nursing process audits\nRegistered Nurses, BrightWay Nursing Services, 2018.04–2020.09\n- Assisted with patient mobility\n- Performed basic life support procedures\nEDUCATION\nBachelor's, Biomedical Sciences, Brightfield Ridge University, 2020\n• Studied fundamentals of wound assessment\n• Completed coursework in pressure injury prevention"
+}

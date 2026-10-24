@@ -1,0 +1,187 @@
+{
+  "id": "60783",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.822,
+  "n_lines": 13,
+  "mean_score": 0.9793,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KARL BRANCH",
+      "score": 0.9927,
+      "box": [
+        116,
+        90,
+        366,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-310-200-7337|karl.branch@example.com",
+      "score": 0.9816,
+      "box": [
+        115,
+        150,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9854,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Bridge Care, 2020.04–2022.07",
+      "score": 0.9813,
+      "box": [
+        115,
+        289,
+        654,
+        314
+      ]
+    },
+    {
+      "text": "– Managed care delivery innovation",
+      "score": 0.9802,
+      "box": [
+        127,
+        315,
+        454,
+        338
+      ]
+    },
+    {
+      "text": "- Directed nursing education initiatives",
+      "score": 0.9532,
+      "box": [
+        126,
+        339,
+        482,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewLeaf Health Group, 2017.02–2019.06",
+      "score": 0.9676,
+      "box": [
+        116,
+        383,
+        688,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9692,
+      "box": [
+        125,
+        406,
+        435,
+        431
+      ]
+    },
+    {
+      "text": "- Monitored patient intake and output",
+      "score": 0.9739,
+      "box": [
+        126,
+        431,
+        470,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing Studies, Meadowridge Valley University, 2012",
+      "score": 0.9711,
+      "box": [
+        114,
+        539,
+        728,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in catheter care",
+      "score": 0.9892,
+      "box": [
+        133,
+        566,
+        512,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of wound care",
+      "score": 0.987,
+      "box": [
+        133,
+        591,
+        450,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KARL BRANCH\nWI, USA|+1-310-200-7337|karl.branch@example.com\nWORK HISTORY\nRegistered Nurses, Caring Bridge Care, 2020.04–2022.07\n– Managed care delivery innovation\n- Directed nursing education initiatives\nRegistered Nurses, NewLeaf Health Group, 2017.02–2019.06\n- Monitored patient dietary needs\n- Monitored patient intake and output\nEDUCATION\nBachelor's, Nursing Studies, Meadowridge Valley University, 2012\n• Completed coursework in catheter care\n• Studied principles of wound care"
+}

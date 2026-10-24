@@ -1,0 +1,265 @@
+{
+  "id": "27415",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.861,
+  "n_lines": 19,
+  "mean_score": 0.9771,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DAVID WANG",
+      "score": 0.9512,
+      "box": [
+        116,
+        90,
+        336,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-857-608-1997|david.wang@example.com",
+      "score": 0.9916,
+      "box": [
+        115,
+        150,
+        641,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Netbridge Tech, 2020.05–2023.01",
+      "score": 0.9866,
+      "box": [
+        115,
+        289,
+        638,
+        314
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9832,
+      "box": [
+        125,
+        314,
+        450,
+        339
+      ]
+    },
+    {
+      "text": "- Led cross-team technical alignment",
+      "score": 0.9701,
+      "box": [
+        126,
+        339,
+        471,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudpath Labs, 2017.09–2020.05",
+      "score": 0.989,
+      "box": [
+        115,
+        381,
+        642,
+        406
+      ]
+    },
+    {
+      "text": "- Led technical audits",
+      "score": 0.9809,
+      "box": [
+        127,
+        408,
+        327,
+        428
+      ]
+    },
+    {
+      "text": "- Designed high-availability systems",
+      "score": 0.9604,
+      "box": [
+        126,
+        431,
+        461,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Corepath Solutions, 2015.01–2017.09",
+      "score": 0.9865,
+      "box": [
+        115,
+        471,
+        674,
+        496
+      ]
+    },
+    {
+      "text": "- Wrote automated tests",
+      "score": 0.9641,
+      "box": [
+        126,
+        497,
+        352,
+        519
+      ]
+    },
+    {
+      "text": "- Designed batch processing jobs",
+      "score": 0.9822,
+      "box": [
+        126,
+        521,
+        438,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Systems, 2012.04–2015.01",
+      "score": 0.99,
+      "box": [
+        115,
+        563,
+        657,
+        588
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.9907,
+      "box": [
+        125,
+        589,
+        375,
+        612
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.932,
+      "box": [
+        125,
+        614,
+        355,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Fairview Ridge University, 2016",
+      "score": 0.9668,
+      "box": [
+        114,
+        723,
+        520,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of graph algorithms",
+      "score": 0.9768,
+      "box": [
+        132,
+        747,
+        498,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in numerical methods",
+      "score": 0.9799,
+      "box": [
+        135,
+        775,
+        565,
+        795
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "DAVID WANG\nMI, USA|+1-857-608-1997|david.wang@example.com\nWORK HISTORY\nSoftware Developers, Netbridge Tech, 2020.05–2023.01\n- Defined data governance policies\n- Led cross-team technical alignment\nSoftware Developers, Cloudpath Labs, 2017.09–2020.05\n- Led technical audits\n- Designed high-availability systems\nSoftware Developers, Corepath Solutions, 2015.01–2017.09\n- Wrote automated tests\n- Designed batch processing jobs\nSoftware Developers, Flowline Systems, 2012.04–2015.01\n- Resolved merge conflicts\n- Reviewed error reports\nEDUCATION\nBachelor's, Fairview Ridge University, 2016\n• Studied principles of graph algorithms\n• Completed coursework in numerical methods"
+}

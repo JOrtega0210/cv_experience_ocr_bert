@@ -1,0 +1,187 @@
+{
+  "id": "01107",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.961,
+  "n_lines": 13,
+  "mean_score": 0.985,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ELIZABETH BOWMAN",
+      "score": 0.9891,
+      "box": [
+        117,
+        90,
+        472,
+        120
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-434-980-2633|elizabeth.bowman@example.com",
+      "score": 0.9942,
+      "box": [
+        116,
+        151,
+        707,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9793,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Path Academy, 2021.01–2023.01",
+      "score": 0.9881,
+      "box": [
+        114,
+        289,
+        855,
+        314
+      ]
+    },
+    {
+      "text": "- Led curriculum integration projects",
+      "score": 0.986,
+      "box": [
+        126,
+        315,
+        461,
+        338
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.9904,
+      "box": [
+        127,
+        340,
+        535,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Path School, 2018.12–2021.01",
+      "score": 0.9648,
+      "box": [
+        116,
+        382,
+        798,
+        405
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.9789,
+      "box": [
+        125,
+        406,
+        399,
+        431
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9898,
+      "box": [
+        126,
+        432,
+        458,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Academic Foundations, Northway University, 2019",
+      "score": 0.9727,
+      "box": [
+        114,
+        539,
+        693,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of curriculum standards",
+      "score": 0.9822,
+      "box": [
+        133,
+        566,
+        536,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational assessment tools",
+      "score": 0.9917,
+      "box": [
+        134,
+        591,
+        670,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ELIZABETH BOWMAN\nAZ, USA|+1-434-980-2633|elizabeth.bowman@example.com\nWORK HISTORY\nElementary Middle School Teachers, Growing Path Academy, 2021.01–2023.01\n- Led curriculum integration projects\n- Established learning outcome benchmarks\nElementary Middle School Teachers, Little Path School, 2018.12–2021.01\n- Conducted spelling practice\n- Recorded behavioral observations\nEDUCATION\nBachelor's, Academic Foundations, Northway University, 2019\n• Studied principles of curriculum standards\n• Completed coursework in foundational assessment tools"
+}

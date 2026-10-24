@@ -1,0 +1,187 @@
+{
+  "id": "26015",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.816,
+  "n_lines": 13,
+  "mean_score": 0.9821,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MATTHEW LE",
+      "score": 0.9635,
+      "box": [
+        116,
+        90,
+        341,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-319-691-9791 |matthew.le@example.com",
+      "score": 0.9857,
+      "box": [
+        115,
+        150,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Digital, 2020.08–2023.01",
+      "score": 0.9854,
+      "box": [
+        114,
+        288,
+        666,
+        314
+      ]
+    },
+    {
+      "text": "- Led platform migrations",
+      "score": 0.9805,
+      "box": [
+        126,
+        314,
+        361,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.978,
+      "box": [
+        126,
+        339,
+        538,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Softfield Tech, 2015.03–2017.09",
+      "score": 0.9862,
+      "box": [
+        115,
+        381,
+        624,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9915,
+      "box": [
+        125,
+        406,
+        509,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.983,
+      "box": [
+        126,
+        432,
+        424,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Northwood University, 2014",
+      "score": 0.9782,
+      "box": [
+        115,
+        540,
+        483,
+        563
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of concurrency",
+      "score": 0.9801,
+      "box": [
+        132,
+        564,
+        492,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of event-driven architecture",
+      "score": 0.9733,
+      "box": [
+        134,
+        591,
+        572,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "MATTHEW LE\nMA, USA|+1-319-691-9791 |matthew.le@example.com\nWORK HISTORY\nSoftware Developers, Datastream Digital, 2020.08–2023.01\n- Led platform migrations\n- Implemented long-term maintenance plans\nSoftware Developers, Softfield Tech, 2015.03–2017.09\n- Assisted with version control operations\n- Assisted with build automation\nEDUCATION\nBachelor's, Northwood University, 2014\n• Studied fundamentals of concurrency\n• Studied principles of event-driven architecture"
+}

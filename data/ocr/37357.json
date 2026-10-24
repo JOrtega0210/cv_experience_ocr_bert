@@ -1,0 +1,239 @@
+{
+  "id": "37357",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.898,
+  "n_lines": 17,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KC HERMAN",
+      "score": 0.982,
+      "box": [
+        115,
+        90,
+        323,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-295-904-7860|kc.herman@example.com",
+      "score": 0.9881,
+      "box": [
+        115,
+        150,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Financial, 2020.06–2023.01",
+      "score": 0.9807,
+      "box": [
+        114,
+        289,
+        741,
+        314
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9723,
+      "box": [
+        127,
+        315,
+        479,
+        338
+      ]
+    },
+    {
+      "text": "- Managed consolidation processes",
+      "score": 0.9887,
+      "box": [
+        126,
+        339,
+        458,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Advisors, 2017.11–2020.06",
+      "score": 0.9914,
+      "box": [
+        114,
+        381,
+        711,
+        406
+      ]
+    },
+    {
+      "text": "- Supervised junior accountants",
+      "score": 0.9947,
+      "box": [
+        126,
+        406,
+        423,
+        431
+      ]
+    },
+    {
+      "text": "- Managed general ledger maintenance",
+      "score": 0.9832,
+      "box": [
+        126,
+        431,
+        494,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Services, 2015.03–2017.11",
+      "score": 0.9802,
+      "box": [
+        115,
+        472,
+        679,
+        495
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9801,
+      "box": [
+        125,
+        496,
+        423,
+        522
+      ]
+    },
+    {
+      "text": "- Maintained supporting documentation",
+      "score": 0.9708,
+      "box": [
+        126,
+        521,
+        490,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Business Analytics, Parkview University, 2020",
+      "score": 0.9782,
+      "box": [
+        115,
+        632,
+        633,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Administrative Studies, Cedarfield University, 2018",
+      "score": 0.9776,
+      "box": [
+        114,
+        656,
+        694,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in macroeconomics",
+      "score": 0.985,
+      "box": [
+        135,
+        684,
+        546,
+        704
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounts receivable",
+      "score": 0.9884,
+      "box": [
+        133,
+        707,
+        574,
+        730
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "KC HERMAN\nNY, USA|+1-295-904-7860|kc.herman@example.com\nWORK HISTORY\nAccountants Auditors, Accurate Ledger Financial, 2020.06–2023.01\n- Led accounting process optimization\n- Managed consolidation processes\nAccountants Auditors, ClearBalance Advisors, 2017.11–2020.06\n- Supervised junior accountants\n- Managed general ledger maintenance\nAccountants Auditors, FairBooks Services, 2015.03–2017.11\n- Assisted with regulatory filings\n- Maintained supporting documentation\nEDUCATION\nMaster's, Business Analytics, Parkview University, 2020\nBachelor's, Administrative Studies, Cedarfield University, 2018\n• Completed coursework in macroeconomics\n• Completed coursework in accounts receivable"
+}

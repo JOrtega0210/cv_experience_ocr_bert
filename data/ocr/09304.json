@@ -1,0 +1,187 @@
+{
+  "id": "09304",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.947,
+  "n_lines": 13,
+  "mean_score": 0.9814,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JUSTIN LIN",
+      "score": 0.9606,
+      "box": [
+        115,
+        88,
+        301,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-604-255-8955 |justin.lin@example.com",
+      "score": 0.9797,
+      "box": [
+        116,
+        151,
+        617,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9778,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Financial, 2020.05–2023.01",
+      "score": 0.976,
+      "box": [
+        114,
+        289,
+        691,
+        313
+      ]
+    },
+    {
+      "text": "- Established audit governance structures",
+      "score": 0.9791,
+      "box": [
+        125,
+        313,
+        514,
+        339
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9562,
+      "box": [
+        126,
+        339,
+        525,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Accounting, 2017.08–2020.05",
+      "score": 0.9932,
+      "box": [
+        114,
+        381,
+        745,
+        406
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.9861,
+      "box": [
+        126,
+        406,
+        414,
+        429
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.991,
+      "box": [
+        126,
+        432,
+        417,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting Practice, Pinecrest University, 2019",
+      "score": 0.9828,
+      "box": [
+        114,
+        539,
+        664,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of business valuation",
+      "score": 0.9944,
+      "box": [
+        132,
+        564,
+        551,
+        588
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting analytics basics",
+      "score": 0.9836,
+      "box": [
+        135,
+        591,
+        641,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JUSTIN LIN\nCA, USA|+1-604-255-8955 |justin.lin@example.com\nWORK HISTORY\nAccountants Auditors, TrustCount Financial, 2020.05–2023.01\n- Established audit governance structures\n- Developed regulatory reporting strategies\nAccountants Auditors, Balanced Path Accounting, 2017.08–2020.05\n- Verified financial transactions\n- Processed journal corrections\nEDUCATION\nBachelor's, Accounting Practice, Pinecrest University, 2019\n• Studied fundamentals of business valuation\n• Completed coursework in accounting analytics basics"
+}

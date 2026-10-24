@@ -1,0 +1,200 @@
+{
+  "id": "04591",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.965,
+  "n_lines": 14,
+  "mean_score": 0.9862,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SEANSTEPHENS",
+      "score": 0.9987,
+      "box": [
+        114,
+        87,
+        402,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-491-548-2193 |sean.stephens@example.com",
+      "score": 0.983,
+      "box": [
+        116,
+        150,
+        677,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9772,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Meadow Academy, 2021.01–2023.",
+      "score": 0.9933,
+      "box": [
+        115,
+        290,
+        876,
+        313
+      ]
+    },
+    {
+      "text": "-Developed teacher training modules",
+      "score": 0.9782,
+      "box": [
+        125,
+        314,
+        475,
+        337
+      ]
+    },
+    {
+      "text": "- Directed assessment development efforts",
+      "score": 0.9645,
+      "box": [
+        126,
+        339,
+        526,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Futures Academy, 2018.12–2021.01",
+      "score": 0.9919,
+      "box": [
+        115,
+        381,
+        890,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared instructional materials and worksheets",
+      "score": 0.9906,
+      "box": [
+        127,
+        407,
+        588,
+        430
+      ]
+    },
+    {
+      "text": "- Supervised transitions between lessons",
+      "score": 0.997,
+      "box": [
+        126,
+        431,
+        509,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Learning Support Studies, Hillcrest University, 2017",
+      "score": 0.9662,
+      "box": [
+        115,
+        540,
+        683,
+        563
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Studies, Sunfield University, 2015",
+      "score": 0.9839,
+      "box": [
+        115,
+        565,
+        629,
+        588
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of learning environments",
+      "score": 0.9918,
+      "box": [
+        132,
+        590,
+        585,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of teaching effectiveness",
+      "score": 0.992,
+      "box": [
+        134,
+        616,
+        549,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "SEANSTEPHENS\nCA, USA|+1-491-548-2193 |sean.stephens@example.com\nWORK HISTORY\nElementary Middle School Teachers, Harmony Meadow Academy, 2021.01–2023.\n-Developed teacher training modules\n- Directed assessment development efforts\nElementary Middle School Teachers, Harmony Futures Academy, 2018.12–2021.01\n- Prepared instructional materials and worksheets\n- Supervised transitions between lessons\nEDUCATION\nMaster's, Learning Support Studies, Hillcrest University, 2017\nBachelor's, Teaching Studies, Sunfield University, 2015\n• Studied fundamentals of learning environments\n• Studied principles of teaching effectiveness"
+}

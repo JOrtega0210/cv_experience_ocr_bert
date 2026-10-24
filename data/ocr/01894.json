@@ -1,0 +1,148 @@
+{
+  "id": "01894",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.839,
+  "n_lines": 10,
+  "mean_score": 0.9832,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MATTHEW JAMES",
+      "score": 0.9802,
+      "box": [
+        116,
+        90,
+        414,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA |+1-256-478-8365|matthew.james@example.com",
+      "score": 0.9743,
+      "box": [
+        116,
+        152,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9813,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearline Software, 2019.11–2022.06",
+      "score": 0.9902,
+      "box": [
+        116,
+        290,
+        667,
+        313
+      ]
+    },
+    {
+      "text": "- Optimized simple queries",
+      "score": 0.9856,
+      "box": [
+        127,
+        315,
+        378,
+        339
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9802,
+      "box": [
+        126,
+        339,
+        443,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Crossfield University, 2014",
+      "score": 0.9765,
+      "box": [
+        116,
+        449,
+        618,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in query performance tuning",
+      "score": 0.968,
+      "box": [
+        132,
+        473,
+        626,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of microservices architecture",
+      "score": 0.9971,
+      "box": [
+        134,
+        499,
+        585,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "MATTHEW JAMES\nAZ, USA |+1-256-478-8365|matthew.james@example.com\nWORK HISTORY\nSoftware Developers, Clearline Software, 2019.11–2022.06\n- Optimized simple queries\n- Handled basic deployment tasks\nEDUCATION\nSome college (no degree), Crossfield University, 2014\n• Completed coursework in query performance tuning\n• Studied principles of microservices architecture"
+}

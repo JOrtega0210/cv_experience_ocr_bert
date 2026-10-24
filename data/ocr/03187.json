@@ -1,0 +1,265 @@
+{
+  "id": "03187",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.037,
+  "n_lines": 19,
+  "mean_score": 0.9794,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRENT ABBOTT",
+      "score": 0.9703,
+      "box": [
+        116,
+        90,
+        382,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-355-605-4694 |brent.abbott@example.com",
+      "score": 0.9531,
+      "box": [
+        117,
+        151,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueHands Care Center, 2019.01–2023.01",
+      "score": 0.9861,
+      "box": [
+        116,
+        290,
+        697,
+        313
+      ]
+    },
+    {
+      "text": "- Developed interdisciplinary care strategies",
+      "score": 0.9761,
+      "box": [
+        126,
+        314,
+        534,
+        339
+      ]
+    },
+    {
+      "text": "- Managed clinical workflow redesign",
+      "score": 0.9867,
+      "box": [
+        126,
+        339,
+        471,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeSpring Medical Services, 2015.01–2019.01",
+      "score": 0.9689,
+      "box": [
+        115,
+        381,
+        732,
+        406
+      ]
+    },
+    {
+      "text": "- Established clinical best practices",
+      "score": 0.9859,
+      "box": [
+        125,
+        406,
+        453,
+        431
+      ]
+    },
+    {
+      "text": "- Developed patient safety metrics",
+      "score": 0.9689,
+      "box": [
+        126,
+        430,
+        446,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightHands Health Services, 2010.12–2015.01",
+      "score": 0.9901,
+      "box": [
+        116,
+        473,
+        741,
+        496
+      ]
+    },
+    {
+      "text": "- Coordinated interdisciplinary care",
+      "score": 0.9816,
+      "box": [
+        125,
+        496,
+        452,
+        522
+      ]
+    },
+    {
+      "text": "- Conducted post-operative assessments",
+      "score": 0.9818,
+      "box": [
+        126,
+        521,
+        509,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearWay Nursing Group, 2005.11–2009.12",
+      "score": 0.9692,
+      "box": [
+        116,
+        565,
+        709,
+        589
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.994,
+      "box": [
+        125,
+        589,
+        473,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.9982,
+      "box": [
+        126,
+        613,
+        483,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Services, Northcrest University, 2002",
+      "score": 0.9679,
+      "box": [
+        114,
+        723,
+        715,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient triage",
+      "score": 0.9547,
+      "box": [
+        132,
+        748,
+        510,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of health screening",
+      "score": 0.9911,
+      "box": [
+        133,
+        772,
+        494,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "BRENT ABBOTT\nCA, USA|+1-355-605-4694 |brent.abbott@example.com\nWORK HISTORY\nRegistered Nurses, TrueHands Care Center, 2019.01–2023.01\n- Developed interdisciplinary care strategies\n- Managed clinical workflow redesign\nRegistered Nurses, LifeSpring Medical Services, 2015.01–2019.01\n- Established clinical best practices\n- Developed patient safety metrics\nRegistered Nurses, BrightHands Health Services, 2010.12–2015.01\n- Coordinated interdisciplinary care\n- Conducted post-operative assessments\nRegistered Nurses, ClearWay Nursing Group, 2005.11–2009.12\n- Assisted with respiratory treatments\n- Assisted with emergency procedures\nEDUCATION\nAssociate's degree, Health Services, Northcrest University, 2002\n• Completed coursework in patient triage\n• Studied principles of health screening"
+}

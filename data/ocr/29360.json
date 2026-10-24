@@ -1,0 +1,252 @@
+{
+  "id": "29360",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.927,
+  "n_lines": 18,
+  "mean_score": 0.9819,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JONATHAN BERG",
+      "score": 0.9836,
+      "box": [
+        116,
+        90,
+        409,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-913-726-8149 |jonathan.berg@example.com",
+      "score": 0.9808,
+      "box": [
+        115,
+        150,
+        672,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Works, 2020.03–2023.01",
+      "score": 0.9921,
+      "box": [
+        115,
+        290,
+        657,
+        313
+      ]
+    },
+    {
+      "text": "- Directed equipment operations",
+      "score": 0.969,
+      "box": [
+        126,
+        315,
+        427,
+        338
+      ]
+    },
+    {
+      "text": "- Directed construction audits",
+      "score": 0.9873,
+      "box": [
+        126,
+        338,
+        399,
+        362
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueCraft Builders, 2017.04–2020.3",
+      "score": 0.9887,
+      "box": [
+        115,
+        382,
+        677,
+        405
+      ]
+    },
+    {
+      "text": "- Managed subcontractor coordination",
+      "score": 0.9876,
+      "box": [
+        126,
+        407,
+        481,
+        430
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9685,
+      "box": [
+        125,
+        430,
+        394,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Line Contractors, 2013.06–2016.05",
+      "score": 0.9844,
+      "box": [
+        115,
+        472,
+        753,
+        495
+      ]
+    },
+    {
+      "text": "- Installed insulation systems",
+      "score": 0.9807,
+      "box": [
+        124,
+        496,
+        398,
+        521
+      ]
+    },
+    {
+      "text": "–Monitored project timelines",
+      "score": 0.9678,
+      "box": [
+        125,
+        521,
+        393,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Craft Co., 2009.09–2012.08",
+      "score": 0.9614,
+      "box": [
+        114,
+        563,
+        649,
+        588
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.9678,
+      "box": [
+        124,
+        588,
+        419,
+        614
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.9901,
+      "box": [
+        125,
+        613,
+        556,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Services, Pinefield High School, 2004",
+      "score": 0.9887,
+      "box": [
+        116,
+        725,
+        848,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction planning",
+      "score": 0.99,
+      "box": [
+        131,
+        747,
+        576,
+        773
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "JONATHAN BERG\nMN, USA|+1-913-726-8149 |jonathan.berg@example.com\nWORK HISTORY\nConstruction Laborers, Precision Works, 2020.03–2023.01\n- Directed equipment operations\n- Directed construction audits\nConstruction Laborers, TrueCraft Builders, 2017.04–2020.3\n- Managed subcontractor coordination\n- Directed project scheduling\nConstruction Laborers, Precision Line Contractors, 2013.06–2016.05\n- Installed insulation systems\n–Monitored project timelines\nConstruction Laborers, Allied Craft Co., 2009.09–2012.08\n- Maintained tool storage areas\n- Stacked and organized construction supplies\nEDUCATION\nHigh school graduate/GED, Construction Services, Pinefield High School, 2004\n• Studied fundamentals of construction planning"
+}

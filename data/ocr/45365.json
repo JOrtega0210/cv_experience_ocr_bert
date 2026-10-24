@@ -1,0 +1,148 @@
+{
+  "id": "45365",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.757,
+  "n_lines": 10,
+  "mean_score": 0.9823,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NAOMI HEBERT",
+      "score": 0.984,
+      "box": [
+        116,
+        90,
+        377,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-565-637-9421 |naomi.hebert@example.com",
+      "score": 0.9722,
+      "box": [
+        115,
+        150,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Hills School, 2021.02–2023.01",
+      "score": 0.969,
+      "box": [
+        116,
+        290,
+        812,
+        313
+      ]
+    },
+    {
+      "text": "- Maintained classroom bulletin boards",
+      "score": 0.9871,
+      "box": [
+        126,
+        315,
+        487,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9979,
+      "box": [
+        126,
+        339,
+        460,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Family and Child Studies, Northway University, 2023",
+      "score": 0.9683,
+      "box": [
+        116,
+        449,
+        854,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational measurement",
+      "score": 0.9727,
+      "box": [
+        133,
+        474,
+        630,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of student engagement",
+      "score": 0.9899,
+      "box": [
+        133,
+        498,
+        533,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "NAOMI HEBERT\nPA, USA|+1-565-637-9421 |naomi.hebert@example.com\nWORK HISTORY\nElementary Middle School Teachers, Caring Hills School, 2021.02–2023.01\n- Maintained classroom bulletin boards\n- Assisted with science experiments\nEDUCATION\nSome college (no degree), Family and Child Studies, Northway University, 2023\n• Completed coursework in educational measurement\n• Studied principles of student engagement"
+}

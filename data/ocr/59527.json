@@ -1,0 +1,161 @@
+{
+  "id": "59527",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.737,
+  "n_lines": 11,
+  "mean_score": 0.9819,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSEPH HUANG",
+      "score": 0.9903,
+      "box": [
+        116,
+        90,
+        384,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA |+1-297-732-3732|joseph.huang@example.com",
+      "score": 0.9855,
+      "box": [
+        116,
+        151,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightcrest Software, 2020.09–2021.09",
+      "score": 0.9804,
+      "box": [
+        116,
+        290,
+        684,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented validation logic",
+      "score": 0.9872,
+      "box": [
+        127,
+        315,
+        406,
+        339
+      ]
+    },
+    {
+      "text": "- Refactored simple functions for readability",
+      "score": 0.9662,
+      "box": [
+        127,
+        340,
+        530,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Westfield University, 2010",
+      "score": 0.9751,
+      "box": [
+        115,
+        449,
+        449,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Sunfield University, 2008",
+      "score": 0.9908,
+      "box": [
+        115,
+        474,
+        456,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of data analysis",
+      "score": 0.9888,
+      "box": [
+        133,
+        499,
+        501,
+        522
+      ]
+    },
+    {
+      "text": "• Studied principles of computational thinking",
+      "score": 0.9523,
+      "box": [
+        134,
+        524,
+        548,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "JOSEPH HUANG\nWA, USA |+1-297-732-3732|joseph.huang@example.com\nWORK HISTORY\nSoftware Developers, Brightcrest Software, 2020.09–2021.09\n- Implemented validation logic\n- Refactored simple functions for readability\nEDUCATION\nMaster's, Westfield University, 2010\nBachelor's, Sunfield University, 2008\n• Studied fundamentals of data analysis\n• Studied principles of computational thinking"
+}

@@ -1,0 +1,174 @@
+{
+  "id": "44810",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.839,
+  "n_lines": 12,
+  "mean_score": 0.9823,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ARMONTE MERRITT",
+      "score": 0.99,
+      "box": [
+        117,
+        90,
+        444,
+        120
+      ]
+    },
+    {
+      "text": "PA, USA|+1-442-282-3768|armonte.merritt@example.com",
+      "score": 0.9818,
+      "box": [
+        115,
+        150,
+        681,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.993,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterCraft Builders, 2020.09–2023.01",
+      "score": 0.9794,
+      "box": [
+        115,
+        290,
+        697,
+        313
+      ]
+    },
+    {
+      "text": "– Managed subcontractor coordination",
+      "score": 0.9718,
+      "box": [
+        127,
+        315,
+        481,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed workflow efficiency reports",
+      "score": 0.9672,
+      "box": [
+        126,
+        339,
+        484,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorPoint Builders, 2015.08–2017.12",
+      "score": 0.9869,
+      "box": [
+        116,
+        382,
+        704,
+        405
+      ]
+    },
+    {
+      "text": "- Applied basic sealants and adhesives",
+      "score": 0.9821,
+      "box": [
+        127,
+        408,
+        490,
+        431
+      ]
+    },
+    {
+      "text": "- Installed simple fixtures",
+      "score": 0.9706,
+      "box": [
+        126,
+        430,
+        360,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Operations, Brookfield High School, 2015",
+      "score": 0.9905,
+      "box": [
+        116,
+        541,
+        883,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic structural demolition",
+      "score": 0.9757,
+      "box": [
+        135,
+        567,
+        630,
+        587
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "ARMONTE MERRITT\nPA, USA|+1-442-282-3768|armonte.merritt@example.com\nWORK HISTORY\nConstruction Laborers, MasterCraft Builders, 2020.09–2023.01\n– Managed subcontractor coordination\n- Reviewed workflow efficiency reports\nConstruction Laborers, AnchorPoint Builders, 2015.08–2017.12\n- Applied basic sealants and adhesives\n- Installed simple fixtures\nEDUCATION\nHigh school graduate/GED, Construction Operations, Brookfield High School, 2015\n• Completed coursework in basic structural demolition"
+}

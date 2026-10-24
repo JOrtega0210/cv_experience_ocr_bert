@@ -1,0 +1,187 @@
+{
+  "id": "30590",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.791,
+  "n_lines": 13,
+  "mean_score": 0.9849,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NICHOLAS SKINNER",
+      "score": 0.9697,
+      "box": [
+        116,
+        90,
+        451,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA|+1-615-291-2279|nicholas.skinner@example.com",
+      "score": 0.9949,
+      "box": [
+        115,
+        150,
+        695,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9908,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Software Developers, Stoneframe Software, 2021.06–2023.01",
+      "score": 0.9833,
+      "box": [
+        114,
+        288,
+        691,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9789,
+      "box": [
+        127,
+        315,
+        461,
+        338
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.9733,
+      "box": [
+        126,
+        339,
+        431,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Skywave Software, 2019.10–2021.06",
+      "score": 0.994,
+      "box": [
+        116,
+        382,
+        668,
+        405
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9937,
+      "box": [
+        126,
+        407,
+        403,
+        430
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9819,
+      "box": [
+        126,
+        430,
+        400,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Cedarview University, 2018",
+      "score": 0.9646,
+      "box": [
+        115,
+        541,
+        480,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in computer graphics basics",
+      "score": 0.9886,
+      "box": [
+        133,
+        565,
+        625,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of static analysis",
+      "score": 0.9922,
+      "box": [
+        133,
+        590,
+        472,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "NICHOLAS SKINNER\nMO, USA|+1-615-291-2279|nicholas.skinner@example.com\nWORK HISTORY\nSoftware Developers, Stoneframe Software, 2021.06–2023.01\n- Implemented service orchestration\n- Led system reliability programs\nSoftware Developers, Skywave Software, 2019.10–2021.06\n- Participated in code reviews\n- Wrote configuration parsers\nEDUCATION\nBachelor's, Cedarview University, 2018\n• Completed coursework in computer graphics basics\n• Studied principles of static analysis"
+}

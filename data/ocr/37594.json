@@ -1,0 +1,161 @@
+{
+  "id": "37594",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.784,
+  "n_lines": 11,
+  "mean_score": 0.9817,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ALAN MOON",
+      "score": 0.9725,
+      "box": [
+        116,
+        90,
+        324,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-640-662-8866|alan.moon@example.com",
+      "score": 0.991,
+      "box": [
+        115,
+        150,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9763,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2019.03–2020.02",
+      "score": 0.9726,
+      "box": [
+        115,
+        290,
+        714,
+        312
+      ]
+    },
+    {
+      "text": "- Entered financial data into accounting systems",
+      "score": 0.9703,
+      "box": [
+        125,
+        314,
+        573,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.9754,
+      "box": [
+        127,
+        340,
+        410,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Strategic Management, Forestview University, 2018",
+      "score": 0.9759,
+      "box": [
+        114,
+        448,
+        685,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Organizational Management, Shady Grove University, 2016",
+      "score": 0.988,
+      "box": [
+        115,
+        474,
+        777,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of financial regulations",
+      "score": 0.9879,
+      "box": [
+        134,
+        499,
+        526,
+        522
+      ]
+    },
+    {
+      "text": "• Studied principles of managerial accounting",
+      "score": 0.9906,
+      "box": [
+        133,
+        523,
+        551,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "ALAN MOON\nNY, USA|+1-640-662-8866|alan.moon@example.com\nWORK HISTORY\nAccountants Auditors, Balanced Books Group, 2019.03–2020.02\n- Entered financial data into accounting systems\n- Prepared audit confirmations\nEDUCATION\nMaster's, Strategic Management, Forestview University, 2018\nBachelor's, Organizational Management, Shady Grove University, 2016\n• Studied principles of financial regulations\n• Studied principles of managerial accounting"
+}

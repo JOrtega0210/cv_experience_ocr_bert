@@ -1,0 +1,226 @@
+{
+  "id": "10592",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.921,
+  "n_lines": 16,
+  "mean_score": 0.9802,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TRAVIS MCCOY",
+      "score": 0.9766,
+      "box": [
+        115,
+        90,
+        375,
+        121
+      ]
+    },
+    {
+      "text": "CO, USA|+1-549-590-7015 |travis.mccoy@example.com",
+      "score": 0.9434,
+      "box": [
+        115,
+        149,
+        660,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skyline Digital, 2020.04–2023.01",
+      "score": 0.9872,
+      "box": [
+        116,
+        290,
+        626,
+        313
+      ]
+    },
+    {
+      "text": "- Designed configuration management systems",
+      "score": 0.9916,
+      "box": [
+        126,
+        314,
+        566,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed architectural proposals",
+      "score": 0.991,
+      "box": [
+        126,
+        339,
+        450,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Corepath Solutions, 2017.06–2020.04",
+      "score": 0.9935,
+      "box": [
+        115,
+        381,
+        674,
+        406
+      ]
+    },
+    {
+      "text": "- Designed application modules",
+      "score": 0.9894,
+      "box": [
+        125,
+        407,
+        420,
+        431
+      ]
+    },
+    {
+      "text": "- Designed API contracts",
+      "score": 0.9632,
+      "box": [
+        125,
+        430,
+        361,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Softbridge Tech, 2014.08–2017.06",
+      "score": 0.9803,
+      "box": [
+        116,
+        472,
+        644,
+        496
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9697,
+      "box": [
+        125,
+        496,
+        365,
+        522
+      ]
+    },
+    {
+      "text": "- Assisted with container setup",
+      "score": 0.9593,
+      "box": [
+        126,
+        521,
+        413,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Windermere University, 2019",
+      "score": 0.9846,
+      "box": [
+        115,
+        632,
+        495,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in scripting languages",
+      "score": 0.9733,
+      "box": [
+        132,
+        657,
+        570,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in layered architecture",
+      "score": 0.996,
+      "box": [
+        134,
+        681,
+        573,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "TRAVIS MCCOY\nCO, USA|+1-549-590-7015 |travis.mccoy@example.com\nWORK HISTORY\nSoftware Developers, Skyline Digital, 2020.04–2023.01\n- Designed configuration management systems\n- Reviewed architectural proposals\nSoftware Developers, Corepath Solutions, 2017.06–2020.04\n- Designed application modules\n- Designed API contracts\nSoftware Developers, Softbridge Tech, 2014.08–2017.06\n- Handled feature toggles\n- Assisted with container setup\nEDUCATION\nBachelor's, Windermere University, 2019\n• Completed coursework in scripting languages\n• Completed coursework in layered architecture"
+}

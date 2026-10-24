@@ -1,0 +1,148 @@
+{
+  "id": "40226",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.768,
+  "n_lines": 10,
+  "mean_score": 0.9869,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KRYSTAL HO",
+      "score": 0.9969,
+      "box": [
+        116,
+        90,
+        336,
+        121
+      ]
+    },
+    {
+      "text": "NC,USA|+1-551-753-8601|krystal.ho@example.com",
+      "score": 0.9877,
+      "box": [
+        115,
+        150,
+        631,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9839,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Services, 2018.05–2020.04",
+      "score": 0.9897,
+      "box": [
+        114,
+        289,
+        707,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared expense reports",
+      "score": 0.9645,
+      "box": [
+        126,
+        314,
+        384,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed billing statements",
+      "score": 0.9868,
+      "box": [
+        126,
+        339,
+        402,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Government Accounting, Oakway University, 2008",
+      "score": 0.9935,
+      "box": [
+        115,
+        449,
+        692,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of financial planning",
+      "score": 0.9898,
+      "box": [
+        132,
+        472,
+        503,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in public sector accounting",
+      "score": 0.9779,
+      "box": [
+        133,
+        498,
+        613,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "KRYSTAL HO\nNC,USA|+1-551-753-8601|krystal.ho@example.com\nWORK HISTORY\nAccountants Auditors, CoreBalance Services, 2018.05–2020.04\n- Prepared expense reports\n- Reviewed billing statements\nEDUCATION\nBachelor's, Government Accounting, Oakway University, 2008\n• Studied principles of financial planning\n• Completed coursework in public sector accounting"
+}

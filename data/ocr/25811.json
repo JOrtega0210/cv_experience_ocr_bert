@@ -1,0 +1,148 @@
+{
+  "id": "25811",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.763,
+  "n_lines": 10,
+  "mean_score": 0.9793,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ENRIQUE MULLINS",
+      "score": 0.9716,
+      "box": [
+        117,
+        90,
+        428,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-975-615-6164 |enrique.mullins@example.com",
+      "score": 0.9641,
+      "box": [
+        116,
+        152,
+        683,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9748,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftTrack Builders, 2021.06–2023.01",
+      "score": 0.9926,
+      "box": [
+        115,
+        290,
+        684,
+        312
+      ]
+    },
+    {
+      "text": "– Moved equipment between work zones",
+      "score": 0.9609,
+      "box": [
+        127,
+        315,
+        504,
+        338
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.9884,
+      "box": [
+        126,
+        339,
+        503,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Plumbing Technology, Bright Ridge University, 2020",
+      "score": 0.9785,
+      "box": [
+        114,
+        448,
+        708,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction planning",
+      "score": 0.982,
+      "box": [
+        132,
+        472,
+        576,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of structural connections",
+      "score": 0.9812,
+      "box": [
+        134,
+        500,
+        582,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ENRIQUE MULLINS\nMA, USA|+1-975-615-6164 |enrique.mullins@example.com\nWORK HISTORY\nConstruction Laborers, CraftTrack Builders, 2021.06–2023.01\n– Moved equipment between work zones\n- Handled power tools under supervision\nEDUCATION\nBachelor's, Plumbing Technology, Bright Ridge University, 2020\n• Studied fundamentals of construction planning\n• Studied fundamentals of structural connections"
+}

@@ -1,0 +1,265 @@
+{
+  "id": "16475",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.013,
+  "n_lines": 19,
+  "mean_score": 0.9828,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DAWN HUTCHINSON",
+      "score": 0.9805,
+      "box": [
+        116,
+        90,
+        453,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-813-596-3761 |dawn.hutchinson@example.com",
+      "score": 0.9833,
+      "box": [
+        117,
+        152,
+        698,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9811,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHands Nursing, 2018.11–2023.01",
+      "score": 0.983,
+      "box": [
+        115,
+        289,
+        654,
+        314
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.9825,
+      "box": [
+        126,
+        314,
+        426,
+        339
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9865,
+      "box": [
+        127,
+        339,
+        510,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Spring Nursing, 2014.08–2018.11",
+      "score": 0.9711,
+      "box": [
+        116,
+        383,
+        679,
+        406
+      ]
+    },
+    {
+      "text": "- Developed interdisciplinary care strategies",
+      "score": 0.9831,
+      "box": [
+        126,
+        406,
+        534,
+        432
+      ]
+    },
+    {
+      "text": "- Supervised multidisciplinary care teams",
+      "score": 0.986,
+      "box": [
+        126,
+        430,
+        508,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightLife Health Services, 2010.05–2014.08",
+      "score": 0.981,
+      "box": [
+        116,
+        473,
+        715,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored respiratory therapy treatments",
+      "score": 0.9536,
+      "box": [
+        125,
+        496,
+        519,
+        522
+      ]
+    },
+    {
+      "text": "- Coordinated patient discharge planning",
+      "score": 0.994,
+      "box": [
+        126,
+        521,
+        505,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifePath Nursing Services, 2006.02–2010.05",
+      "score": 0.9858,
+      "box": [
+        116,
+        565,
+        716,
+        589
+      ]
+    },
+    {
+      "text": "- Assisted with diagnostic procedures",
+      "score": 0.9943,
+      "box": [
+        125,
+        589,
+        474,
+        614
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.9869,
+      "box": [
+        126,
+        614,
+        414,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Nursing, Granite Hill University, 2008",
+      "score": 0.9676,
+      "box": [
+        114,
+        723,
+        641,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of ostomy care",
+      "score": 0.9901,
+      "box": [
+        132,
+        748,
+        456,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in suctioning techniques",
+      "score": 0.983,
+      "box": [
+        134,
+        774,
+        590,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "DAWN HUTCHINSON\nGA, USA |+1-813-596-3761 |dawn.hutchinson@example.com\nWORK HISTORY\nRegistered Nurses, KindHands Nursing, 2018.11–2023.01\n- Managed clinical data analysis\n- Directed nursing process improvements\nRegistered Nurses, Caring Spring Nursing, 2014.08–2018.11\n- Developed interdisciplinary care strategies\n- Supervised multidisciplinary care teams\nRegistered Nurses, BrightLife Health Services, 2010.05–2014.08\n- Monitored respiratory therapy treatments\n- Coordinated patient discharge planning\nRegistered Nurses, LifePath Nursing Services, 2006.02–2010.05\n- Assisted with diagnostic procedures\n- Checked patient identification\nEDUCATION\nBachelor's, Clinical Nursing, Granite Hill University, 2008\n• Studied principles of ostomy care\n• Completed coursework in suctioning techniques"
+}

@@ -1,0 +1,200 @@
+{
+  "id": "43141",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.855,
+  "n_lines": 14,
+  "mean_score": 0.9813,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRIANNA FULLER",
+      "score": 0.9712,
+      "box": [
+        116,
+        90,
+        413,
+        121
+      ]
+    },
+    {
+      "text": "OH, USA|+1-719-579-7579 |brianna.fuller@example.com",
+      "score": 0.9769,
+      "box": [
+        116,
+        151,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9848,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Advisors, 2021.01–2023.01",
+      "score": 0.9778,
+      "box": [
+        114,
+        289,
+        724,
+        314
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.9724,
+      "box": [
+        125,
+        313,
+        433,
+        338
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9883,
+      "box": [
+        127,
+        340,
+        508,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Financial, 2019.01–2021.01",
+      "score": 0.9801,
+      "box": [
+        114,
+        381,
+        679,
+        405
+      ]
+    },
+    {
+      "text": "- Verified transaction accuracy",
+      "score": 0.9764,
+      "box": [
+        125,
+        405,
+        411,
+        432
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.9746,
+      "box": [
+        127,
+        430,
+        414,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Professional degree, Forensic Accounting, Oakway University, 2019",
+      "score": 0.9774,
+      "box": [
+        114,
+        539,
+        746,
+        565
+      ]
+    },
+    {
+      "text": "Bachelor's, Commerce, Brookridge University, 2015",
+      "score": 0.9917,
+      "box": [
+        115,
+        566,
+        597,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in segment reporting",
+      "score": 0.9833,
+      "box": [
+        133,
+        590,
+        558,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting information systems",
+      "score": 0.9851,
+      "box": [
+        134,
+        615,
+        681,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "BRIANNA FULLER\nOH, USA|+1-719-579-7579 |brianna.fuller@example.com\nWORK HISTORY\nAccountants Auditors, Precise Ledger Advisors, 2021.01–2023.01\n- Established accounting policies\n- Established tax compliance frameworks\nAccountants Auditors, FairCount Financial, 2019.01–2021.01\n- Verified transaction accuracy\n- Verified financial transactions\nEDUCATION\nProfessional degree, Forensic Accounting, Oakway University, 2019\nBachelor's, Commerce, Brookridge University, 2015\n• Completed coursework in segment reporting\n• Completed coursework in accounting information systems"
+}

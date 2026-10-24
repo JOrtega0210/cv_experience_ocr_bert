@@ -1,0 +1,148 @@
+{
+  "id": "47037",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.734,
+  "n_lines": 10,
+  "mean_score": 0.9737,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRYSON HESS",
+      "score": 0.9706,
+      "box": [
+        116,
+        90,
+        361,
+        121
+      ]
+    },
+    {
+      "text": "RI, USA|+1-724-691-4681|bryson.hess@example.com",
+      "score": 0.9799,
+      "box": [
+        115,
+        150,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9854,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildCraft Co., 2022.02–2023.01",
+      "score": 0.9649,
+      "box": [
+        115,
+        289,
+        635,
+        312
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9605,
+      "box": [
+        126,
+        315,
+        424,
+        338
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9691,
+      "box": [
+        127,
+        340,
+        416,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Skills, Pineview University, 2023",
+      "score": 0.9689,
+      "box": [
+        115,
+        447,
+        791,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of masonry",
+      "score": 0.9576,
+      "box": [
+        132,
+        472,
+        459,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic surveying tools",
+      "score": 0.9814,
+      "box": [
+        134,
+        499,
+        584,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "BRYSON HESS\nRI, USA|+1-724-691-4681|bryson.hess@example.com\nWORK HISTORY\nConstruction Laborers, BuildCraft Co., 2022.02–2023.01\n- Followed blueprint instructions\n- Set up workstations for crews\nEDUCATION\nSome college (no degree), Construction Skills, Pineview University, 2023\n• Studied fundamentals of masonry\n• Completed coursework in basic surveying tools"
+}

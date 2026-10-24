@@ -1,0 +1,278 @@
+{
+  "id": "04138",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.042,
+  "n_lines": 20,
+  "mean_score": 0.9832,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "WILLIAM AYERS",
+      "score": 0.9895,
+      "box": [
+        116,
+        90,
+        386,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-388-717-2498|william.ayers@example.com",
+      "score": 0.9728,
+      "box": [
+        116,
+        149,
+        660,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skybridge Labs, 2019.06–2023.01",
+      "score": 0.9914,
+      "box": [
+        115,
+        289,
+        639,
+        314
+      ]
+    },
+    {
+      "text": "- Defined quality assurance frameworks",
+      "score": 0.9783,
+      "box": [
+        127,
+        315,
+        496,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.983,
+      "box": [
+        127,
+        339,
+        538,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Datagrid Digital, 2015.10–2019.06",
+      "score": 0.9844,
+      "box": [
+        115,
+        381,
+        639,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented data pipeline architectures",
+      "score": 0.9873,
+      "box": [
+        126,
+        406,
+        512,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented performance optimization plans",
+      "score": 0.9925,
+      "box": [
+        126,
+        431,
+        558,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Nextwave Systems, 2009.09–2013.05",
+      "score": 0.9915,
+      "box": [
+        115,
+        471,
+        674,
+        496
+      ]
+    },
+    {
+      "text": "- Handled schema migrations",
+      "score": 0.9838,
+      "box": [
+        125,
+        496,
+        402,
+        521
+      ]
+    },
+    {
+      "text": "- Improved code coverage",
+      "score": 0.9768,
+      "box": [
+        126,
+        521,
+        373,
+        548
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Labs, 2005.07–2009.03",
+      "score": 0.9918,
+      "box": [
+        114,
+        563,
+        642,
+        588
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.9713,
+      "box": [
+        127,
+        591,
+        460,
+        611
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.9727,
+      "box": [
+        126,
+        613,
+        495,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Sunset Ridge University, 2004",
+      "score": 0.9855,
+      "box": [
+        115,
+        725,
+        488,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Skyview University, 2002",
+      "score": 0.9819,
+      "box": [
+        115,
+        748,
+        458,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in mobile application development",
+      "score": 0.9604,
+      "box": [
+        132,
+        772,
+        682,
+        798
+      ]
+    },
+    {
+      "text": "• Completed coursework in software architecture",
+      "score": 0.9856,
+      "box": [
+        133,
+        799,
+        584,
+        822
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "WILLIAM AYERS\nCA, USA|+1-388-717-2498|william.ayers@example.com\nWORK HISTORY\nSoftware Developers, Skybridge Labs, 2019.06–2023.01\n- Defined quality assurance frameworks\n- Implemented long-term maintenance plans\nSoftware Developers, Datagrid Digital, 2015.10–2019.06\n- Implemented data pipeline architectures\n- Implemented performance optimization plans\nSoftware Developers, Nextwave Systems, 2009.09–2013.05\n- Handled schema migrations\n- Improved code coverage\nSoftware Developers, Corewave Labs, 2005.07–2009.03\n- Updated application dependencies\n- Performed basic performance profiling\nEDUCATION\nMaster's, Sunset Ridge University, 2004\nBachelor's, Skyview University, 2002\n• Completed coursework in mobile application development\n• Completed coursework in software architecture"
+}

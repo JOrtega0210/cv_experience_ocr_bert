@@ -1,0 +1,226 @@
+{
+  "id": "47824",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.831,
+  "n_lines": 16,
+  "mean_score": 0.9811,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "EMILYCLAY",
+      "score": 0.997,
+      "box": [
+        115,
+        88,
+        323,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA|+1-761-874-8494|emily.clay@example.com",
+      "score": 0.9832,
+      "box": [
+        116,
+        151,
+        633,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Hands Care, 2019.12–2023.01",
+      "score": 0.9813,
+      "box": [
+        115,
+        289,
+        652,
+        314
+      ]
+    },
+    {
+      "text": "- Supervised multidisciplinary care teams",
+      "score": 0.9861,
+      "box": [
+        126,
+        314,
+        508,
+        339
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.9763,
+      "box": [
+        126,
+        339,
+        458,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearBridge Health Group, 2014.08–2017.10",
+      "score": 0.9819,
+      "box": [
+        115,
+        381,
+        715,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented patient education programs",
+      "score": 0.986,
+      "box": [
+        126,
+        406,
+        522,
+        432
+      ]
+    },
+    {
+      "text": "- Provided end-of-life care",
+      "score": 0.9723,
+      "box": [
+        126,
+        430,
+        370,
+        454
+      ]
+    },
+    {
+      "text": "Registered Nurses, TruePath Nursing, 2010.10–2013.12",
+      "score": 0.9754,
+      "box": [
+        116,
+        472,
+        638,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.9771,
+      "box": [
+        124,
+        496,
+        473,
+        521
+      ]
+    },
+    {
+      "text": "- Monitored patient pain levels",
+      "score": 0.9579,
+      "box": [
+        126,
+        521,
+        408,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care, Pioneer University, 2005",
+      "score": 0.9952,
+      "box": [
+        115,
+        632,
+        577,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical skills practice",
+      "score": 0.9472,
+      "box": [
+        132,
+        656,
+        582,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical audits basics",
+      "score": 0.9979,
+      "box": [
+        134,
+        681,
+        578,
+        704
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "EMILYCLAY\nSC, USA|+1-761-874-8494|emily.clay@example.com\nWORK HISTORY\nRegistered Nurses, Caring Hands Care, 2019.12–2023.01\n- Supervised multidisciplinary care teams\n- Developed patient care algorithms\nRegistered Nurses, ClearBridge Health Group, 2014.08–2017.10\n- Implemented patient education programs\n- Provided end-of-life care\nRegistered Nurses, TruePath Nursing, 2010.10–2013.12\n- Assisted with respiratory treatments\n- Monitored patient pain levels\nEDUCATION\nBachelor's, Health Care, Pioneer University, 2005\n• Completed coursework in clinical skills practice\n• Completed coursework in clinical audits basics"
+}

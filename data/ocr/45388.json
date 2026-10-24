@@ -1,0 +1,187 @@
+{
+  "id": "45388",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.778,
+  "n_lines": 13,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ERYKA BAILEY",
+      "score": 0.989,
+      "box": [
+        117,
+        90,
+        368,
+        120
+      ]
+    },
+    {
+      "text": "PA, USA|+1-286-238-7300 |eryka.bailey@example.com",
+      "score": 0.9743,
+      "box": [
+        115,
+        150,
+        651,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9839,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Digital Meadow, 2021.05–2023.01",
+      "score": 0.995,
+      "box": [
+        116,
+        290,
+        637,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed system design documents",
+      "score": 0.9899,
+      "box": [
+        126,
+        315,
+        481,
+        338
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9905,
+      "box": [
+        126,
+        339,
+        439,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Stonebyte Tech, 2019.09–2021.05",
+      "score": 0.9924,
+      "box": [
+        115,
+        381,
+        643,
+        406
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9836,
+      "box": [
+        125,
+        406,
+        562,
+        432
+      ]
+    },
+    {
+      "text": "- Wrote utility scripts",
+      "score": 0.962,
+      "box": [
+        125,
+        427,
+        319,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Briar Ridge University, 220",
+      "score": 0.9758,
+      "box": [
+        115,
+        541,
+        485,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in scripting languages",
+      "score": 0.9614,
+      "box": [
+        133,
+        565,
+        569,
+        591
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of software testing",
+      "score": 0.9938,
+      "box": [
+        132,
+        590,
+        525,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ERYKA BAILEY\nPA, USA|+1-286-238-7300 |eryka.bailey@example.com\nWORK HISTORY\nSoftware Developers, Digital Meadow, 2021.05–2023.01\n- Reviewed system design documents\n- Led technical roadmap planning\nSoftware Developers, Stonebyte Tech, 2019.09–2021.05\n- Fixed software bugs identified through testing\n- Wrote utility scripts\nEDUCATION\nBachelor's, Briar Ridge University, 220\n• Completed coursework in scripting languages\n• Studied fundamentals of software testing"
+}

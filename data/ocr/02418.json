@@ -1,0 +1,148 @@
+{
+  "id": "02418",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.888,
+  "n_lines": 10,
+  "mean_score": 0.9833,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MAXINE WARNER",
+      "score": 0.972,
+      "box": [
+        116,
+        90,
+        408,
+        120
+      ]
+    },
+    {
+      "text": "AR, USA|+1-317-245-7565 |maxine.warner@example.com",
+      "score": 0.9915,
+      "box": [
+        116,
+        152,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.978,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindLife Care Center, 2020.07–2023.01",
+      "score": 0.9835,
+      "box": [
+        116,
+        289,
+        668,
+        312
+      ]
+    },
+    {
+      "text": "-Provided catheter care",
+      "score": 0.9893,
+      "box": [
+        126,
+        314,
+        352,
+        337
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.9853,
+      "box": [
+        126,
+        339,
+        483,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Sciences, Springdale University, 2021",
+      "score": 0.965,
+      "box": [
+        114,
+        447,
+        653,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in documentation standards",
+      "score": 0.9874,
+      "box": [
+        134,
+        475,
+        623,
+        495
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of conflict resolution basics",
+      "score": 0.9825,
+      "box": [
+        134,
+        498,
+        605,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "MAXINE WARNER\nAR, USA|+1-317-245-7565 |maxine.warner@example.com\nWORK HISTORY\nRegistered Nurses, KindLife Care Center, 2020.07–2023.01\n-Provided catheter care\n- Assisted with emergency procedures\nEDUCATION\nBachelor's, Medical Sciences, Springdale University, 2021\n• Completed coursework in documentation standards\n• Studied fundamentals of conflict resolution basics"
+}

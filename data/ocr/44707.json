@@ -1,0 +1,187 @@
+{
+  "id": "44707",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.808,
+  "n_lines": 13,
+  "mean_score": 0.9829,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CHRIS RAMSEY",
+      "score": 0.9787,
+      "box": [
+        117,
+        90,
+        374,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-917-883-7941 |chris.ramsey@example.com",
+      "score": 0.9822,
+      "box": [
+        115,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9788,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Group, 2021.04–2023.01",
+      "score": 0.9948,
+      "box": [
+        115,
+        289,
+        682,
+        313
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.9883,
+      "box": [
+        126,
+        314,
+        486,
+        339
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9761,
+      "box": [
+        126,
+        339,
+        489,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Advisors, 2019.06–2021.04",
+      "score": 0.9968,
+      "box": [
+        115,
+        382,
+        711,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9615,
+      "box": [
+        126,
+        406,
+        356,
+        432
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9773,
+      "box": [
+        127,
+        432,
+        365,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Data Analytics, Morningstar University, 2018",
+      "score": 0.9861,
+      "box": [
+        114,
+        539,
+        636,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in cost accounting",
+      "score": 0.991,
+      "box": [
+        133,
+        565,
+        534,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit reporting",
+      "score": 0.9677,
+      "box": [
+        134,
+        590,
+        523,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "CHRIS RAMSEY\nPA, USA|+1-917-883-7941 |chris.ramsey@example.com\nWORK HISTORY\nAccountants Auditors, CoreBalance Group, 2021.04–2023.01\n- Designed financial oversight systems\n- Directed financial system architecture\nAccountants Auditors, OpenBalance Advisors, 2019.06–2021.04\n- Prepared aging reports\n- Prepared journal entries\nEDUCATION\nBachelor's, Data Analytics, Morningstar University, 2018\n• Completed coursework in cost accounting\n• Completed coursework in audit reporting"
+}

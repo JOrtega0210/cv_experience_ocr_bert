@@ -1,0 +1,148 @@
+{
+  "id": "25556",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.726,
+  "n_lines": 10,
+  "mean_score": 0.9852,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JESSICA GOLDEN",
+      "score": 0.9696,
+      "box": [
+        116,
+        90,
+        413,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-918-388-4527 |jessica.golden@example.com",
+      "score": 0.9907,
+      "box": [
+        115,
+        150,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Path Health, 2021.01–2021.10",
+      "score": 0.9863,
+      "box": [
+        116,
+        290,
+        675,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.9888,
+      "box": [
+        126,
+        314,
+        483,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.967,
+      "box": [
+        126,
+        338,
+        372,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Biomedical Sciences, Crestview University, 2019",
+      "score": 0.9823,
+      "box": [
+        114,
+        447,
+        677,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of infection prevention",
+      "score": 0.9908,
+      "box": [
+        132,
+        472,
+        523,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing ethics",
+      "score": 0.9942,
+      "box": [
+        134,
+        499,
+        518,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JESSICA GOLDEN\nMA, USA|+1-918-388-4527 |jessica.golden@example.com\nWORK HISTORY\nRegistered Nurses, Harmony Path Health, 2021.01–2021.10\n- Assisted with emergency procedures\n- Prepared sterile supplies\nEDUCATION\nBachelor's, Biomedical Sciences, Crestview University, 2019\n• Studied principles of infection prevention\n• Completed coursework in nursing ethics"
+}

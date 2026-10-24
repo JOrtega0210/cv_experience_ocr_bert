@@ -1,0 +1,200 @@
+{
+  "id": "40656",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.853,
+  "n_lines": 14,
+  "mean_score": 0.9802,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JEREMY BATES",
+      "score": 0.9857,
+      "box": [
+        116,
+        90,
+        378,
+        121
+      ]
+    },
+    {
+      "text": "NC, USA |+1-216-204-2842 |jeremy.bates@example.com",
+      "score": 0.9792,
+      "box": [
+        116,
+        151,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9791,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Advisors, 2020.05–2023.01",
+      "score": 0.9906,
+      "box": [
+        115,
+        289,
+        709,
+        313
+      ]
+    },
+    {
+      "text": "- Developed financial performance metrics",
+      "score": 0.9915,
+      "box": [
+        126,
+        315,
+        520,
+        338
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9686,
+      "box": [
+        126,
+        339,
+        428,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Advisors, 2017.09–2020.05",
+      "score": 0.9863,
+      "box": [
+        114,
+        381,
+        737,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with internal control testing",
+      "score": 0.9731,
+      "box": [
+        125,
+        406,
+        473,
+        431
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9794,
+      "box": [
+        126,
+        430,
+        371,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Business Analytics, Oakfield University, 2020",
+      "score": 0.98,
+      "box": [
+        115,
+        541,
+        624,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Statistics, Cedar Valley University, 2018",
+      "score": 0.9571,
+      "box": [
+        115,
+        566,
+        597,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of business process analysis",
+      "score": 0.9722,
+      "box": [
+        132,
+        590,
+        585,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of audit sampling",
+      "score": 0.9821,
+      "box": [
+        133,
+        615,
+        476,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "JEREMY BATES\nNC, USA |+1-216-204-2842 |jeremy.bates@example.com\nWORK HISTORY\nAccountants Auditors, ClearBalance Advisors, 2020.05–2023.01\n- Developed financial performance metrics\n- Led audit planning governance\nAccountants Auditors, Balanced Books Advisors, 2017.09–2020.05\n- Assisted with internal control testing\n- Compiled audit evidence\nEDUCATION\nMaster's, Business Analytics, Oakfield University, 2020\nBachelor's, Statistics, Cedar Valley University, 2018\n• Studied principles of business process analysis\n• Studied principles of audit sampling"
+}

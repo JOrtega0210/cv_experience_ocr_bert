@@ -1,0 +1,213 @@
+{
+  "id": "11394",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.972,
+  "n_lines": 15,
+  "mean_score": 0.9847,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ISSA HODGES",
+      "score": 0.9927,
+      "box": [
+        115,
+        90,
+        351,
+        121
+      ]
+    },
+    {
+      "text": "CT, USA|+1-525-560-8100 |issa.hodges@example.com",
+      "score": 0.9716,
+      "box": [
+        116,
+        150,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Services, 2020.07–2023.01",
+      "score": 0.9874,
+      "box": [
+        115,
+        290,
+        724,
+        313
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9805,
+      "box": [
+        127,
+        314,
+        453,
+        336
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9801,
+      "box": [
+        126,
+        339,
+        504,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Financial Group, 2016.12–2019.06",
+      "score": 0.9841,
+      "box": [
+        114,
+        381,
+        803,
+        406
+      ]
+    },
+    {
+      "text": "- Analyzed financial trends",
+      "score": 0.9885,
+      "box": [
+        127,
+        407,
+        375,
+        430
+      ]
+    },
+    {
+      "text": "- Managed accounts receivable cycles",
+      "score": 0.9813,
+      "box": [
+        126,
+        431,
+        482,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Services, 2013.09–2016.04",
+      "score": 0.9832,
+      "box": [
+        116,
+        472,
+        739,
+        496
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.9918,
+      "box": [
+        125,
+        496,
+        481,
+        521
+      ]
+    },
+    {
+      "text": "- Maintained chart of accounts",
+      "score": 0.9775,
+      "box": [
+        127,
+        522,
+        409,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Commerce, Vista High School, 2009",
+      "score": 0.9875,
+      "box": [
+        116,
+        632,
+        713,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of accounting policy analysis",
+      "score": 0.9821,
+      "box": [
+        132,
+        656,
+        583,
+        681
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "ISSA HODGES\nCT, USA|+1-525-560-8100 |issa.hodges@example.com\nWORK HISTORY\nAccountants Auditors, Precise Ledger Services, 2020.07–2023.01\n- Led financial data standardization\n- Established cost management systems\nAccountants Auditors, Precise Balance Financial Group, 2016.12–2019.06\n- Analyzed financial trends\n- Managed accounts receivable cycles\nAccountants Auditors, Accurate Ledger Services, 2013.09–2016.04\n- Processed expense reimbursements\n- Maintained chart of accounts\nEDUCATION\nHigh school graduate/GED, Commerce, Vista High School, 2009\n• Studied principles of accounting policy analysis"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "58626",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.77,
+  "n_lines": 10,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TIFFANE OLSON",
+      "score": 0.9807,
+      "box": [
+        116,
+        90,
+        388,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-258-462-2567|tiffane.olson@example.com",
+      "score": 0.9792,
+      "box": [
+        114,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9715,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunPath Care Group, 2018.12–2020.12",
+      "score": 0.9834,
+      "box": [
+        116,
+        290,
+        671,
+        313
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9812,
+      "box": [
+        126,
+        315,
+        529,
+        337
+      ]
+    },
+    {
+      "text": "- Assisted with specimen labeling",
+      "score": 0.9937,
+      "box": [
+        126,
+        339,
+        437,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Care, Prairie Ridge University, 2009",
+      "score": 0.9916,
+      "box": [
+        116,
+        449,
+        704,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in cardiovascular nursing basics",
+      "score": 0.9982,
+      "box": [
+        134,
+        474,
+        663,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in laboratory values interpretation",
+      "score": 0.9603,
+      "box": [
+        134,
+        499,
+        674,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "TIFFANE OLSON\nWA, USA|+1-258-462-2567|tiffane.olson@example.com\nWORK HISTORY\nRegistered Nurses, SunPath Care Group, 2018.12–2020.12\n- Recorded medication administration times\n- Assisted with specimen labeling\nEDUCATION\nAssociate's degree, Health Care, Prairie Ridge University, 2009\n• Completed coursework in cardiovascular nursing basics\n• Completed coursework in laboratory values interpretation"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "48855",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.724,
+  "n_lines": 10,
+  "mean_score": 0.9858,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KYLE ARMSTRONG",
+      "score": 0.9942,
+      "box": [
+        116,
+        90,
+        434,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-887-761-5503|kyle.armstrong@example.com",
+      "score": 0.9862,
+      "box": [
+        115,
+        150,
+        677,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openframe Digital, 2020.05–2023.01",
+      "score": 0.9914,
+      "box": [
+        116,
+        290,
+        663,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9893,
+      "box": [
+        127,
+        315,
+        418,
+        339
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.9646,
+      "box": [
+        127,
+        340,
+        374,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Riverbend University, 2023",
+      "score": 0.9951,
+      "box": [
+        115,
+        449,
+        476,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of programming paradigms",
+      "score": 0.9821,
+      "box": [
+        132,
+        472,
+        606,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in sorting and searching algorithms",
+      "score": 0.9726,
+      "box": [
+        133,
+        498,
+        690,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "KYLE ARMSTRONG\nTN, USA|+1-887-761-5503|kyle.armstrong@example.com\nWORK HISTORY\nSoftware Developers, Openframe Digital, 2020.05–2023.01\n- Implemented logging features\n- Updated localization files\nEDUCATION\nBachelor's, Riverbend University, 2023\n• Studied fundamentals of programming paradigms\n• Completed coursework in sorting and searching algorithms"
+}

@@ -1,0 +1,161 @@
+{
+  "id": "59488",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.824,
+  "n_lines": 11,
+  "mean_score": 0.9774,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "PATRICIA HARPER",
+      "score": 0.9754,
+      "box": [
+        115,
+        90,
+        426,
+        120
+      ]
+    },
+    {
+      "text": "WA, USA|+1-226-910-2632 |patricia.harper@example.com",
+      "score": 0.9709,
+      "box": [
+        114,
+        150,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9812,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Futures School, 2020.07–2020.11",
+      "score": 0.9779,
+      "box": [
+        116,
+        290,
+        842,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed learning standards",
+      "score": 0.9832,
+      "box": [
+        125,
+        314,
+        411,
+        337
+      ]
+    },
+    {
+      "text": "-Maintained lesson documentation",
+      "score": 0.9629,
+      "box": [
+        127,
+        340,
+        452,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Education and Development, Timberline University, 2011",
+      "score": 0.9667,
+      "box": [
+        115,
+        449,
+        732,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Services, Hillcrest University, 2009",
+      "score": 0.9677,
+      "box": [
+        115,
+        474,
+        645,
+        497
+      ]
+    },
+    {
+      "text": "• Studied basic classroom management concepts",
+      "score": 0.9795,
+      "box": [
+        133,
+        498,
+        592,
+        523
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of lesson evaluation",
+      "score": 0.9871,
+      "box": [
+        135,
+        525,
+        540,
+        545
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "PATRICIA HARPER\nWA, USA|+1-226-910-2632 |patricia.harper@example.com\nWORK HISTORY\nElementary Middle School Teachers, Sunny Futures School, 2020.07–2020.11\n- Reviewed learning standards\n-Maintained lesson documentation\nEDUCATION\nMaster's, Education and Development, Timberline University, 2011\nBachelor's, Education Services, Hillcrest University, 2009\n• Studied basic classroom management concepts\n• Studied fundamentals of lesson evaluation"
+}

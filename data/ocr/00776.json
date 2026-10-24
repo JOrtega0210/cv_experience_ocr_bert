@@ -1,0 +1,187 @@
+{
+  "id": "00776",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.945,
+  "n_lines": 13,
+  "mean_score": 0.9827,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LAURA KNOX",
+      "score": 0.9708,
+      "box": [
+        115,
+        90,
+        342,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-842-491-2280|laura.knox@example.com",
+      "score": 0.9765,
+      "box": [
+        116,
+        150,
+        633,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Way Medical, 2021.06–2023.01",
+      "score": 0.9937,
+      "box": [
+        116,
+        290,
+        670,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented care pathway frameworks",
+      "score": 0.9777,
+      "box": [
+        127,
+        315,
+        506,
+        338
+      ]
+    },
+    {
+      "text": "- Managed patient outcome evaluation systems",
+      "score": 0.9889,
+      "box": [
+        126,
+        339,
+        567,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeBridge Nursing Services, 2019.10–2021.06",
+      "score": 0.9926,
+      "box": [
+        116,
+        383,
+        733,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobility",
+      "score": 0.9507,
+      "box": [
+        126,
+        406,
+        409,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted basic patient assessments",
+      "score": 0.9878,
+      "box": [
+        126,
+        431,
+        494,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Mental Health Studies, Fieldview University, 2018",
+      "score": 0.9872,
+      "box": [
+        114,
+        539,
+        684,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in fatigue management basics",
+      "score": 0.9826,
+      "box": [
+        134,
+        566,
+        644,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of hospice care",
+      "score": 0.9846,
+      "box": [
+        133,
+        590,
+        460,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "LAURA KNOX\nAL, USA|+1-842-491-2280|laura.knox@example.com\nWORK HISTORY\nRegistered Nurses, Helping Way Medical, 2021.06–2023.01\n- Implemented care pathway frameworks\n- Managed patient outcome evaluation systems\nRegistered Nurses, LifeBridge Nursing Services, 2019.10–2021.06\n- Assisted with patient mobility\n- Conducted basic patient assessments\nEDUCATION\nBachelor's, Mental Health Studies, Fieldview University, 2018\n• Completed coursework in fatigue management basics\n• Studied principles of hospice care"
+}

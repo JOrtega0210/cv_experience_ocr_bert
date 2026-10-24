@@ -1,0 +1,226 @@
+{
+  "id": "36579",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.855,
+  "n_lines": 16,
+  "mean_score": 0.9846,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DALTON FIELDS",
+      "score": 0.9627,
+      "box": [
+        116,
+        90,
+        386,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-527-415-1931|dalton.fields@example.com",
+      "score": 0.9963,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9803,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Services, 2019.11–2023.01",
+      "score": 0.9857,
+      "box": [
+        115,
+        290,
+        676,
+        313
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9881,
+      "box": [
+        126,
+        313,
+        509,
+        338
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9855,
+      "box": [
+        127,
+        338,
+        453,
+        362
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial Group, 2016.09–2019.11",
+      "score": 0.9831,
+      "box": [
+        114,
+        381,
+        790,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted account reconciliations",
+      "score": 0.9882,
+      "box": [
+        126,
+        407,
+        461,
+        430
+      ]
+    },
+    {
+      "text": "- Managed accounting system updates",
+      "score": 0.9829,
+      "box": [
+        126,
+        431,
+        487,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Financial, 2013.06–2016.09",
+      "score": 0.9753,
+      "box": [
+        115,
+        472,
+        695,
+        495
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedures",
+      "score": 0.9886,
+      "box": [
+        125,
+        496,
+        507,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.9751,
+      "box": [
+        126,
+        521,
+        420,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Services, Harvest University, 2012",
+      "score": 0.9951,
+      "box": [
+        115,
+        632,
+        635,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial data interpretation",
+      "score": 0.9724,
+      "box": [
+        134,
+        658,
+        639,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounts receivable",
+      "score": 0.9956,
+      "box": [
+        135,
+        682,
+        575,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "DALTON FIELDS\nNY, USA|+1-527-415-1931|dalton.fields@example.com\nWORK HISTORY\nAccountants Auditors, FairCount Services, 2019.11–2023.01\n- Established tax compliance frameworks\n- Led financial data standardization\nAccountants Auditors, Integrity Books Financial Group, 2016.09–2019.11\n- Conducted account reconciliations\n- Managed accounting system updates\nAccountants Auditors, ClearCount Financial, 2013.06–2016.09\n- Assisted with monthly close procedures\n- Assisted with forecasting data\nEDUCATION\nBachelor's, Financial Services, Harvest University, 2012\n• Completed coursework in financial data interpretation\n• Completed coursework in accounts receivable"
+}

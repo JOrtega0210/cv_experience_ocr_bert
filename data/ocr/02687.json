@@ -1,0 +1,187 @@
+{
+  "id": "02687",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.907,
+  "n_lines": 13,
+  "mean_score": 0.9814,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ADRIAN YODER",
+      "score": 0.9779,
+      "box": [
+        117,
+        90,
+        376,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-352-240-8873 |adrian.yoder@example.com",
+      "score": 0.9793,
+      "box": [
+        117,
+        151,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9781,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Softway Solutions, 2021.06–2023.01",
+      "score": 0.9923,
+      "box": [
+        116,
+        290,
+        660,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.9754,
+      "box": [
+        127,
+        315,
+        500,
+        338
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.9777,
+      "box": [
+        127,
+        340,
+        541,
+        362
+      ]
+    },
+    {
+      "text": "Software Developers, Stonebyte Tech, 2019.11–221.06",
+      "score": 0.9843,
+      "box": [
+        116,
+        382,
+        643,
+        405
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9672,
+      "box": [
+        127,
+        408,
+        340,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9756,
+      "box": [
+        127,
+        432,
+        421,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Cloverfield University, 2023",
+      "score": 0.9689,
+      "box": [
+        116,
+        541,
+        558,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in fault tolerance",
+      "score": 0.9871,
+      "box": [
+        133,
+        566,
+        521,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in information retrieval",
+      "score": 0.9967,
+      "box": [
+        134,
+        591,
+        573,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ADRIAN YODER\nCA, USA|+1-352-240-8873 |adrian.yoder@example.com\nWORK HISTORY\nSoftware Developers, Softway Solutions, 2021.06–2023.01\n- Implemented infrastructure automation\n- Defined technical documentation standards\nSoftware Developers, Stonebyte Tech, 2019.11–221.06\n- Updated routing logic\n- Implemented REST endpoints\nEDUCATION\nAssociate's degree, Cloverfield University, 2023\n• Completed coursework in fault tolerance\n• Completed coursework in information retrieval"
+}

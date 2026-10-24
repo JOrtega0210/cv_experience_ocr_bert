@@ -1,0 +1,226 @@
+{
+  "id": "50402",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.834,
+  "n_lines": 16,
+  "mean_score": 0.9772,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SHANE LIVINGSTON",
+      "score": 0.9819,
+      "box": [
+        116,
+        90,
+        448,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-889-815-1979|shane.livingston@example.com",
+      "score": 0.9887,
+      "box": [
+        115,
+        150,
+        689,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9812,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Brightcode Solutions, 2020.07–2023.01",
+      "score": 0.9844,
+      "box": [
+        115,
+        289,
+        686,
+        313
+      ]
+    },
+    {
+      "text": "- Defined code review processes",
+      "score": 0.9573,
+      "box": [
+        125,
+        314,
+        433,
+        339
+      ]
+    },
+    {
+      "text": "- Defined quality assurance frameworks",
+      "score": 0.978,
+      "box": [
+        127,
+        340,
+        496,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Corestack Digital, 2017.12–2020.07",
+      "score": 0.991,
+      "box": [
+        115,
+        381,
+        655,
+        406
+      ]
+    },
+    {
+      "text": "- Designed application modules",
+      "score": 0.9811,
+      "box": [
+        127,
+        407,
+        421,
+        430
+      ]
+    },
+    {
+      "text": "- Managed deployment pipelines",
+      "score": 0.9571,
+      "box": [
+        126,
+        431,
+        431,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Systems, 2015.05–2017.12",
+      "score": 0.9816,
+      "box": [
+        115,
+        471,
+        671,
+        496
+      ]
+    },
+    {
+      "text": "- Handled input sanitization",
+      "score": 0.9826,
+      "box": [
+        125,
+        496,
+        382,
+        521
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.9914,
+      "box": [
+        128,
+        524,
+        374,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9626,
+      "box": [
+        115,
+        585,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Morningstar University, 2017",
+      "score": 0.9818,
+      "box": [
+        115,
+        632,
+        492,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in mobile application development",
+      "score": 0.9537,
+      "box": [
+        132,
+        656,
+        682,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of user interface development",
+      "score": 0.98,
+      "box": [
+        133,
+        681,
+        631,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "SHANE LIVINGSTON\nTX, USA|+1-889-815-1979|shane.livingston@example.com\nWORK HISTORY\nSoftware Developers, Brightcode Solutions, 2020.07–2023.01\n- Defined code review processes\n- Defined quality assurance frameworks\nSoftware Developers, Corestack Digital, 2017.12–2020.07\n- Designed application modules\n- Managed deployment pipelines\nSoftware Developers, Codefield Systems, 2015.05–2017.12\n- Handled input sanitization\n- Updated localization files\nEDUCATION\nBachelor's, Morningstar University, 2017\n• Completed coursework in mobile application development\n• Studied fundamentals of user interface development"
+}

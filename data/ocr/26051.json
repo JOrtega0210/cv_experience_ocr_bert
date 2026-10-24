@@ -1,0 +1,239 @@
+{
+  "id": "26051",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.894,
+  "n_lines": 17,
+  "mean_score": 0.9797,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HEIDI MARKS",
+      "score": 0.9541,
+      "box": [
+        115,
+        90,
+        339,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-418-553-2832 |heidi.marks@example.com",
+      "score": 0.9881,
+      "box": [
+        115,
+        150,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleNest Health, 2019.11–2023.01",
+      "score": 0.9879,
+      "box": [
+        116,
+        290,
+        644,
+        313
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9697,
+      "box": [
+        125,
+        313,
+        471,
+        338
+      ]
+    },
+    {
+      "text": "– Managed long-term care strategies",
+      "score": 0.9666,
+      "box": [
+        127,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Hands Health, 2016.08–2019.11",
+      "score": 0.992,
+      "box": [
+        115,
+        381,
+        691,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored patient response to treatments",
+      "score": 0.9877,
+      "box": [
+        126,
+        406,
+        522,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented patient education programs",
+      "score": 0.9858,
+      "box": [
+        126,
+        430,
+        522,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunLife Care Group, 2013.05–2016.08",
+      "score": 0.9837,
+      "box": [
+        116,
+        473,
+        661,
+        496
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9821,
+      "box": [
+        124,
+        496,
+        411,
+        521
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.97,
+      "box": [
+        126,
+        521,
+        512,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Nursing Foundations, Oakridge Valley University, 2016",
+      "score": 0.9767,
+      "box": [
+        114,
+        631,
+        714,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Health Sciences, Pineview University, 2014",
+      "score": 0.9837,
+      "box": [
+        115,
+        658,
+        703,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of health screening",
+      "score": 0.9832,
+      "box": [
+        132,
+        681,
+        495,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in renal nursing basics",
+      "score": 0.961,
+      "box": [
+        132,
+        706,
+        575,
+        731
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "HEIDI MARKS\nMA, USA|+1-418-553-2832 |heidi.marks@example.com\nWORK HISTORY\nRegistered Nurses, GentleNest Health, 2019.11–2023.01\n- Established care delivery standards\n– Managed long-term care strategies\nRegistered Nurses, Harmony Hands Health, 2016.08–2019.11\n- Monitored patient response to treatments\n- Implemented patient education programs\nRegistered Nurses, SunLife Care Group, 2013.05–2016.08\n- Recorded shift handoff notes\n- Performed basic life support procedures\nEDUCATION\nMaster's, Nursing Foundations, Oakridge Valley University, 2016\nBachelor's, Applied Health Sciences, Pineview University, 2014\n• Studied principles of health screening\n• Completed coursework in renal nursing basics"
+}

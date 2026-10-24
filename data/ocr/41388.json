@@ -1,0 +1,200 @@
+{
+  "id": "41388",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.844,
+  "n_lines": 14,
+  "mean_score": 0.9828,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CARYNDUNCAN",
+      "score": 0.9976,
+      "box": [
+        115,
+        87,
+        392,
+        122
+      ]
+    },
+    {
+      "text": "OH, USA|+1-741-923-9938 |caryn.duncan@example.com",
+      "score": 0.988,
+      "box": [
+        116,
+        151,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Trusted Ledger Group, 2020.04–2022.06",
+      "score": 0.9786,
+      "box": [
+        114,
+        289,
+        705,
+        314
+      ]
+    },
+    {
+      "text": "- Directed budget planning cycles",
+      "score": 0.9826,
+      "box": [
+        125,
+        314,
+        439,
+        339
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9869,
+      "box": [
+        126,
+        339,
+        504,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Services, 2017.07–2019.09",
+      "score": 0.9888,
+      "box": [
+        115,
+        382,
+        677,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained vendor records",
+      "score": 0.9865,
+      "box": [
+        126,
+        407,
+        390,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9743,
+      "box": [
+        126,
+        432,
+        365,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Financial Management, Oakview University, 2014",
+      "score": 0.9954,
+      "box": [
+        115,
+        541,
+        665,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Taxation, Foxwood University, 2012",
+      "score": 0.9823,
+      "box": [
+        115,
+        566,
+        559,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of quantitative analysis",
+      "score": 0.9836,
+      "box": [
+        132,
+        590,
+        567,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of auditing",
+      "score": 0.9302,
+      "box": [
+        132,
+        614,
+        452,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "CARYNDUNCAN\nOH, USA|+1-741-923-9938 |caryn.duncan@example.com\nWORK HISTORY\nAccountants Auditors, Trusted Ledger Group, 2020.04–2022.06\n- Directed budget planning cycles\n- Established cost management systems\nAccountants Auditors, FairCount Services, 2017.07–2019.09\n- Maintained vendor records\n- Prepared journal entries\nEDUCATION\nMaster's, Financial Management, Oakview University, 2014\nBachelor's, Taxation, Foxwood University, 2012\n• Studied fundamentals of quantitative analysis\n• Studied fundamentals of auditing"
+}

@@ -1,0 +1,174 @@
+{
+  "id": "30296",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.835,
+  "n_lines": 12,
+  "mean_score": 0.9798,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ASHTON HOUSE",
+      "score": 0.9834,
+      "box": [
+        116,
+        90,
+        388,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA|+1-306-430-4806|ashton.house@example.com",
+      "score": 0.9837,
+      "box": [
+        115,
+        150,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        114,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Stone Builders, 2021.07–2023.01",
+      "score": 0.9774,
+      "box": [
+        115,
+        290,
+        713,
+        313
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9884,
+      "box": [
+        126,
+        315,
+        371,
+        339
+      ]
+    },
+    {
+      "text": "– Managed workforce allocation",
+      "score": 0.9563,
+      "box": [
+        127,
+        340,
+        420,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, Ironclad Builders, 2019.12–2021.07",
+      "score": 0.9746,
+      "box": [
+        115,
+        382,
+        664,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with roofing material handling",
+      "score": 0.9759,
+      "box": [
+        125,
+        406,
+        498,
+        431
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.9722,
+      "box": [
+        125,
+        430,
+        446,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Inspection, Windermere High School, 2019",
+      "score": 0.9888,
+      "box": [
+        116,
+        541,
+        897,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction lighting basics",
+      "score": 0.9781,
+      "box": [
+        134,
+        566,
+        638,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "ASHTON HOUSE\nMO, USA|+1-306-430-4806|ashton.house@example.com\nWORK HISTORY\nConstruction Laborers, Unified Stone Builders, 2021.07–2023.01\n- Led operational planning\n– Managed workforce allocation\nConstruction Laborers, Ironclad Builders, 2019.12–2021.07\n- Assisted with roofing material handling\n- Secured materials with fasteners\nEDUCATION\nHigh school graduate/GED, Construction Inspection, Windermere High School, 2019\n• Completed coursework in construction lighting basics"
+}

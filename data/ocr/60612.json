@@ -1,0 +1,226 @@
+{
+  "id": "60612",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.887,
+  "n_lines": 16,
+  "mean_score": 0.9786,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SHANNON BOOTH",
+      "score": 0.9757,
+      "box": [
+        116,
+        90,
+        416,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-264-383-4364|shannon.booth@example.com",
+      "score": 0.9887,
+      "box": [
+        115,
+        150,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9814,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Health Group, 2019.12–2023.01",
+      "score": 0.9892,
+      "box": [
+        116,
+        290,
+        720,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9801,
+      "box": [
+        127,
+        315,
+        457,
+        338
+      ]
+    },
+    {
+      "text": "- Developed nursing training programs",
+      "score": 0.9862,
+      "box": [
+        126,
+        339,
+        484,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelINest Medical Group, 2016.11–2019.12",
+      "score": 0.9777,
+      "box": [
+        116,
+        383,
+        701,
+        406
+      ]
+    },
+    {
+      "text": "- Managed pain control plans",
+      "score": 0.9776,
+      "box": [
+        126,
+        406,
+        400,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed diagnostic imaging results",
+      "score": 0.9465,
+      "box": [
+        126,
+        431,
+        479,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Care Center, 2010.11–2013.12",
+      "score": 0.9835,
+      "box": [
+        115,
+        471,
+        718,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobillity",
+      "score": 0.9847,
+      "box": [
+        125,
+        496,
+        409,
+        522
+      ]
+    },
+    {
+      "text": "- Prepared discharge instructions",
+      "score": 0.9667,
+      "box": [
+        126,
+        521,
+        436,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Biomedical Sciences, Meadowland University, 2001",
+      "score": 0.982,
+      "box": [
+        114,
+        631,
+        781,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in medical terminology",
+      "score": 0.9717,
+      "box": [
+        132,
+        656,
+        575,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in palliative care basics",
+      "score": 0.9665,
+      "box": [
+        134,
+        681,
+        582,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "SHANNON BOOTH\nWI, USA|+1-264-383-4364|shannon.booth@example.com\nWORK HISTORY\nRegistered Nurses, Compassion Health Group, 2019.12–2023.01\n- Implemented care standardization\n- Developed nursing training programs\nRegistered Nurses, WelINest Medical Group, 2016.11–2019.12\n- Managed pain control plans\n- Reviewed diagnostic imaging results\nRegistered Nurses, GentleHands Care Center, 2010.11–2013.12\n- Assisted with patient mobillity\n- Prepared discharge instructions\nEDUCATION\nAssociate's degree, Biomedical Sciences, Meadowland University, 2001\n• Completed coursework in medical terminology\n• Completed coursework in palliative care basics"
+}

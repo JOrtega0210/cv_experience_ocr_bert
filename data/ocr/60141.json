@@ -1,0 +1,187 @@
+{
+  "id": "60141",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.788,
+  "n_lines": 13,
+  "mean_score": 0.9849,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MONICA GILL",
+      "score": 0.985,
+      "box": [
+        115,
+        88,
+        340,
+        122
+      ]
+    },
+    {
+      "text": "WV, USA|+1-642-397-4914|monica.gill@example.com",
+      "score": 0.9784,
+      "box": [
+        115,
+        150,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9799,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightCare Clinics, 2020.04–2022.07",
+      "score": 0.9875,
+      "box": [
+        116,
+        290,
+        643,
+        313
+      ]
+    },
+    {
+      "text": "- Directed patient care coordination",
+      "score": 0.9644,
+      "box": [
+        125,
+        314,
+        453,
+        337
+      ]
+    },
+    {
+      "text": "- Managed clinical compliance programs",
+      "score": 0.9887,
+      "box": [
+        126,
+        339,
+        503,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindBridge Care Center, 2016.12–2019.04",
+      "score": 0.9896,
+      "box": [
+        115,
+        381,
+        697,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.9784,
+      "box": [
+        125,
+        406,
+        418,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9875,
+      "box": [
+        127,
+        432,
+        372,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Health, Fieldstone University, 2014",
+      "score": 0.9894,
+      "box": [
+        115,
+        541,
+        623,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of stress management in care",
+      "score": 0.9837,
+      "box": [
+        132,
+        564,
+        631,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of tracheostomy care",
+      "score": 0.9924,
+      "box": [
+        132,
+        590,
+        551,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "MONICA GILL\nWV, USA|+1-642-397-4914|monica.gill@example.com\nWORK HISTORY\nRegistered Nurses, BrightCare Clinics, 2020.04–2022.07\n- Directed patient care coordination\n- Managed clinical compliance programs\nRegistered Nurses, KindBridge Care Center, 2016.12–2019.04\n- Assisted with feeding patients\n- Prepared sterile supplies\nEDUCATION\nBachelor's, Clinical Health, Fieldstone University, 2014\n• Studied fundamentals of stress management in care\n• Studied fundamentals of tracheostomy care"
+}

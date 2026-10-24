@@ -1,0 +1,187 @@
+{
+  "id": "13892",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.908,
+  "n_lines": 13,
+  "mean_score": 0.9855,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SAMANTHA STEVENS",
+      "score": 0.9834,
+      "box": [
+        116,
+        90,
+        474,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-894-522-4096| samantha.stevens@example.com",
+      "score": 0.9822,
+      "box": [
+        115,
+        150,
+        706,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunPath Care Group, 2021.01–2023.01",
+      "score": 0.9911,
+      "box": [
+        116,
+        290,
+        669,
+        313
+      ]
+    },
+    {
+      "text": "-Directed interdisciplinary workflow alignment",
+      "score": 0.9896,
+      "box": [
+        125,
+        313,
+        554,
+        338
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.9926,
+      "box": [
+        126,
+        339,
+        424,
+        362
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Path Medical, 2018.12–2021.01",
+      "score": 0.9922,
+      "box": [
+        116,
+        382,
+        717,
+        405
+      ]
+    },
+    {
+      "text": "- Monitored patient recovery",
+      "score": 0.9663,
+      "box": [
+        125,
+        405,
+        390,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with specimen labeling",
+      "score": 0.9884,
+      "box": [
+        126,
+        431,
+        436,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Human Biology, Elmwood Ridge University, 2022",
+      "score": 0.979,
+      "box": [
+        114,
+        539,
+        680,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of conflict resolution basics",
+      "score": 0.9824,
+      "box": [
+        132,
+        564,
+        606,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of musculoskeletal nursing",
+      "score": 0.985,
+      "box": [
+        133,
+        591,
+        602,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "SAMANTHA STEVENS\nFL, USA|+1-894-522-4096| samantha.stevens@example.com\nWORK HISTORY\nRegistered Nurses, SunPath Care Group, 2021.01–2023.01\n-Directed interdisciplinary workflow alignment\n- Led clinical governance efforts\nRegistered Nurses, Compassion Path Medical, 2018.12–2021.01\n- Monitored patient recovery\n- Assisted with specimen labeling\nEDUCATION\nBachelor's, Human Biology, Elmwood Ridge University, 2022\n• Studied fundamentals of conflict resolution basics\n• Studied fundamentals of musculoskeletal nursing"
+}

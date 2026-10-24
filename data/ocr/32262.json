@@ -1,0 +1,187 @@
+{
+  "id": "32262",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.753,
+  "n_lines": 13,
+  "mean_score": 0.9805,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ROBERT BAUER",
+      "score": 0.9881,
+      "box": [
+        116,
+        90,
+        387,
+        121
+      ]
+    },
+    {
+      "text": "NV, USA|+1-685-674-1202|robert.bauer@example.com",
+      "score": 0.9882,
+      "box": [
+        115,
+        150,
+        654,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9884,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openstack Digital, 2019.07–2022.03",
+      "score": 0.9848,
+      "box": [
+        114,
+        288,
+        660,
+        314
+      ]
+    },
+    {
+      "text": "- Defined API standards",
+      "score": 0.9701,
+      "box": [
+        125,
+        313,
+        352,
+        338
+      ]
+    },
+    {
+      "text": "- Built core libraries",
+      "score": 0.9821,
+      "box": [
+        125,
+        338,
+        309,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Datapoint Labs, 2016.04–2019.01",
+      "score": 0.9912,
+      "box": [
+        116,
+        382,
+        635,
+        405
+      ]
+    },
+    {
+      "text": "- Handled input sanitization",
+      "score": 0.9657,
+      "box": [
+        125,
+        407,
+        381,
+        431
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9838,
+      "box": [
+        126,
+        431,
+        347,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearwater University, 2014",
+      "score": 0.9652,
+      "box": [
+        114,
+        539,
+        482,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of collaborative development",
+      "score": 0.9557,
+      "box": [
+        132,
+        564,
+        623,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in software design patterns",
+      "score": 0.9852,
+      "box": [
+        134,
+        590,
+        618,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ROBERT BAUER\nNV, USA|+1-685-674-1202|robert.bauer@example.com\nWORK HISTORY\nSoftware Developers, Openstack Digital, 2019.07–2022.03\n- Defined API standards\n- Built core libraries\nSoftware Developers, Datapoint Labs, 2016.04–2019.01\n- Handled input sanitization\n- Created test data sets\nEDUCATION\nBachelor's, Clearwater University, 2014\n• Studied fundamentals of collaborative development\n• Completed coursework in software design patterns"
+}

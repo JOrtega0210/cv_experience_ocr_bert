@@ -1,0 +1,135 @@
+{
+  "id": "30400",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.75,
+  "n_lines": 9,
+  "mean_score": 0.9852,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MIGUEL ROACH",
+      "score": 0.9852,
+      "box": [
+        116,
+        90,
+        380,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA|+1-244-330-1085|miguel.roach@example.com",
+      "score": 0.9832,
+      "box": [
+        115,
+        150,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9828,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardTrack Builders, 2021.10–2023.01",
+      "score": 0.9845,
+      "box": [
+        115,
+        290,
+        685,
+        313
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.9886,
+      "box": [
+        126,
+        314,
+        503,
+        339
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.9601,
+      "box": [
+        127,
+        340,
+        445,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Engineering Technology, Briarwood High School, 2020",
+      "score": 0.9853,
+      "box": [
+        116,
+        449,
+        1006,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in material handling",
+      "score": 0.9981,
+      "box": [
+        134,
+        474,
+        548,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "MIGUEL ROACH\nMO, USA|+1-244-330-1085|miguel.roach@example.com\nWORK HISTORY\nConstruction Laborers, HardTrack Builders, 2021.10–2023.01\n- Handled power tools under supervision\n- Secured materials with fasteners\nEDUCATION\nHigh school graduate/GED, Construction Engineering Technology, Briarwood High School, 2020\n• Completed coursework in material handling"
+}

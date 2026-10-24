@@ -1,0 +1,226 @@
+{
+  "id": "03907",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.916,
+  "n_lines": 16,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSEPH HARDIN",
+      "score": 0.9917,
+      "box": [
+        116,
+        90,
+        393,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-624-348-5956 |joseph.hardin@example.com",
+      "score": 0.9902,
+      "box": [
+        117,
+        151,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9882,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skyfield Software, 2020.06–2023.01",
+      "score": 0.9763,
+      "box": [
+        115,
+        289,
+        656,
+        314
+      ]
+    },
+    {
+      "text": "- Designed deployment strategies",
+      "score": 0.9736,
+      "box": [
+        126,
+        314,
+        441,
+        339
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.992,
+      "box": [
+        126,
+        339,
+        450,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Corestack Software, 2017.10–2020.06",
+      "score": 0.9869,
+      "box": [
+        115,
+        381,
+        679,
+        406
+      ]
+    },
+    {
+      "text": "- Improved build processes",
+      "score": 0.9896,
+      "box": [
+        126,
+        406,
+        381,
+        432
+      ]
+    },
+    {
+      "text": "- Integrated messaging systems",
+      "score": 0.9638,
+      "box": [
+        126,
+        430,
+        425,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Brightpoint Software, 2015.02–2017.10",
+      "score": 0.9757,
+      "box": [
+        115,
+        471,
+        684,
+        496
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9744,
+      "box": [
+        125,
+        496,
+        352,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented caching logic",
+      "score": 0.985,
+      "box": [
+        126,
+        521,
+        389,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Meadowland University, 2013",
+      "score": 0.9908,
+      "box": [
+        115,
+        632,
+        500,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of software usability",
+      "score": 0.9836,
+      "box": [
+        132,
+        656,
+        502,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in performance benchmarking",
+      "score": 0.9801,
+      "box": [
+        135,
+        683,
+        642,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JOSEPH HARDIN\nCA, USA|+1-624-348-5956 |joseph.hardin@example.com\nWORK HISTORY\nSoftware Developers, Skyfield Software, 2020.06–2023.01\n- Designed deployment strategies\n- Defined data governance policies\nSoftware Developers, Corestack Software, 2017.10–2020.06\n- Improved build processes\n- Integrated messaging systems\nSoftware Developers, Brightpoint Software, 2015.02–2017.10\n- Wrote integration tests\n- Implemented caching logic\nEDUCATION\nBachelor's, Meadowland University, 2013\n• Studied principles of software usability\n• Completed coursework in performance benchmarking"
+}

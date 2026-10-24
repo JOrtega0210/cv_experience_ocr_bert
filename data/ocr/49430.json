@@ -1,0 +1,265 @@
+{
+  "id": "49430",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.918,
+  "n_lines": 19,
+  "mean_score": 0.9826,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MAURICIO FORD",
+      "score": 0.9695,
+      "box": [
+        115,
+        88,
+        392,
+        122
+      ]
+    },
+    {
+      "text": "TN, USA|+1-976-218-7961 |mauricio.ford@example.com",
+      "score": 0.9685,
+      "box": [
+        115,
+        150,
+        660,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterBuild Services, 2019.05–2023.01",
+      "score": 0.9918,
+      "box": [
+        115,
+        290,
+        704,
+        313
+      ]
+    },
+    {
+      "text": "- Developed cost estimation models",
+      "score": 0.9785,
+      "box": [
+        126,
+        315,
+        460,
+        338
+      ]
+    },
+    {
+      "text": "- Directed construction audits",
+      "score": 0.9795,
+      "box": [
+        127,
+        340,
+        400,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueForm Construction, 2015.08–2019.05",
+      "score": 0.9918,
+      "box": [
+        115,
+        381,
+        723,
+        406
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9833,
+      "box": [
+        125,
+        406,
+        394,
+        431
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.9928,
+      "box": [
+        127,
+        432,
+        448,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidFrame Construction, 2011.11–2015.08",
+      "score": 0.9787,
+      "box": [
+        114,
+        471,
+        738,
+        496
+      ]
+    },
+    {
+      "text": "- Installed mechanical supports",
+      "score": 0.9867,
+      "box": [
+        125,
+        496,
+        418,
+        522
+      ]
+    },
+    {
+      "text": "- Managed waste disposal operations",
+      "score": 0.9855,
+      "box": [
+        126,
+        521,
+        474,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidLine Contractors, 2008.02–2011.11",
+      "score": 0.9893,
+      "box": [
+        115,
+        563,
+        707,
+        588
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9633,
+      "box": [
+        126,
+        590,
+        540,
+        613
+      ]
+    },
+    {
+      "text": "- Checked inventory of supplies",
+      "score": 0.9848,
+      "box": [
+        126,
+        614,
+        420,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Industrial Maintenance, Windridge University, 2011",
+      "score": 0.9742,
+      "box": [
+        115,
+        723,
+        838,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of material recycling",
+      "score": 0.9827,
+      "box": [
+        131,
+        747,
+        504,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural inspection basics",
+      "score": 0.9828,
+      "box": [
+        133,
+        772,
+        640,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "MAURICIO FORD\nTN, USA|+1-976-218-7961 |mauricio.ford@example.com\nWORK HISTORY\nConstruction Laborers, MasterBuild Services, 2019.05–2023.01\n- Developed cost estimation models\n- Directed construction audits\nConstruction Laborers, TrueForm Construction, 2015.08–2019.05\n- Directed project scheduling\n- Led cross-functional coordination\nConstruction Laborers, SolidFrame Construction, 2011.11–2015.08\n- Installed mechanical supports\n- Managed waste disposal operations\nConstruction Laborers, SolidLine Contractors, 2008.02–2011.11\n- Carried materials to designated work areas\n- Checked inventory of supplies\nEDUCATION\nSome college (no degree), Industrial Maintenance, Windridge University, 2011\n• Studied principles of material recycling\n• Completed coursework in structural inspection basics"
+}

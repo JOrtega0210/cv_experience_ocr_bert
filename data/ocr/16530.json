@@ -1,0 +1,187 @@
+{
+  "id": "16530",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.933,
+  "n_lines": 13,
+  "mean_score": 0.9819,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AMANDA MCCARTY",
+      "score": 0.9852,
+      "box": [
+        117,
+        90,
+        443,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-908-988-4123 | amanda.mccarty@example.com",
+      "score": 0.957,
+      "box": [
+        117,
+        151,
+        697,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9785,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeSpring Medical Services, 2021.04–2023.01",
+      "score": 0.9922,
+      "box": [
+        116,
+        290,
+        732,
+        313
+      ]
+    },
+    {
+      "text": "- Directed interdisciplinary workflow alignment",
+      "score": 0.9816,
+      "box": [
+        126,
+        313,
+        554,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.9868,
+      "box": [
+        126,
+        339,
+        568,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearBridge Health Group, 2016.12–2018.10",
+      "score": 0.9827,
+      "box": [
+        115,
+        381,
+        715,
+        406
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9726,
+      "box": [
+        126,
+        407,
+        409,
+        429
+      ]
+    },
+    {
+      "text": "- Monitored patient intake and output",
+      "score": 0.9804,
+      "box": [
+        126,
+        431,
+        470,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Services, Greenway University, 2015",
+      "score": 0.9833,
+      "box": [
+        114,
+        539,
+        634,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of hospice care",
+      "score": 0.9884,
+      "box": [
+        132,
+        565,
+        460,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of teamwork in healthcare",
+      "score": 0.9776,
+      "box": [
+        132,
+        590,
+        557,
+        613
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "AMANDA MCCARTY\nGA, USA|+1-908-988-4123 | amanda.mccarty@example.com\nWORK HISTORY\nRegistered Nurses, LifeSpring Medical Services, 2021.04–2023.01\n- Directed interdisciplinary workflow alignment\n- Implemented evidence-based practice models\nRegistered Nurses, ClearBridge Health Group, 2016.12–2018.10\n- Recorded shift handoff notes\n- Monitored patient intake and output\nEDUCATION\nBachelor's, Health Services, Greenway University, 2015\n• Studied principles of hospice care\n• Studied principles of teamwork in healthcare"
+}

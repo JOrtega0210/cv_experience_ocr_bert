@@ -1,0 +1,265 @@
+{
+  "id": "00037",
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "PP-OCRv5_mobile_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.363,
+  "n_lines": 19,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KIMBERLY FRANCIS",
+      "score": 0.9895,
+      "box": [
+        117,
+        91,
+        449,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-754-425-8264 |kimberly.francis@example.com",
+      "score": 0.9776,
+      "box": [
+        116,
+        150,
+        682,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9905,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Tech, 2020.04–2023.01",
+      "score": 0.9932,
+      "box": [
+        117,
+        291,
+        642,
+        315
+      ]
+    },
+    {
+      "text": "- Designed logging infrastructures",
+      "score": 0.9931,
+      "box": [
+        129,
+        317,
+        441,
+        341
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.9738,
+      "box": [
+        128,
+        340,
+        431,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Brightway Systems, 2017.07–2020.04",
+      "score": 0.9922,
+      "box": [
+        117,
+        382,
+        674,
+        409
+      ]
+    },
+    {
+      "text": "- Reviewed architectural proposals",
+      "score": 0.9742,
+      "box": [
+        127,
+        409,
+        449,
+        433
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.977,
+      "box": [
+        128,
+        432,
+        395,
+        458
+      ]
+    },
+    {
+      "text": "Software Developers, Skyframe Labs, 2014.09–2017.07",
+      "score": 0.994,
+      "box": [
+        117,
+        472,
+        636,
+        499
+      ]
+    },
+    {
+      "text": "- Built containerized services",
+      "score": 0.9756,
+      "box": [
+        126,
+        498,
+        397,
+        523
+      ]
+    },
+    {
+      "text": "- Implemented error handling frameworks",
+      "score": 0.9696,
+      "box": [
+        128,
+        521,
+        511,
+        549
+      ]
+    },
+    {
+      "text": "Software Developers, Corepath Solutions, 2009.08–2012.06",
+      "score": 0.9813,
+      "box": [
+        115,
+        564,
+        674,
+        592
+      ]
+    },
+    {
+      "text": "- Reviewed code changes for syntax and logic issues",
+      "score": 0.9795,
+      "box": [
+        127,
+        590,
+        621,
+        618
+      ]
+    },
+    {
+      "text": "- Assisted with database queries",
+      "score": 0.9727,
+      "box": [
+        127,
+        614,
+        432,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Greenwood University, 2003",
+      "score": 0.985,
+      "box": [
+        116,
+        724,
+        490,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in schema design",
+      "score": 0.9757,
+      "box": [
+        130,
+        748,
+        530,
+        776
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of error handling",
+      "score": 0.9736,
+      "box": [
+        132,
+        773,
+        507,
+        800
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "KIMBERLY FRANCIS\nAL, USA | +1-754-425-8264 |kimberly.francis@example.com\nWORK HISTORY\nSoftware Developers, Stonepath Tech, 2020.04–2023.01\n- Designed logging infrastructures\n- Led system reliability programs\nSoftware Developers, Brightway Systems, 2017.07–2020.04\n- Reviewed architectural proposals\n- Designed scalable services\nSoftware Developers, Skyframe Labs, 2014.09–2017.07\n- Built containerized services\n- Implemented error handling frameworks\nSoftware Developers, Corepath Solutions, 2009.08–2012.06\n- Reviewed code changes for syntax and logic issues\n- Assisted with database queries\nEDUCATION\nBachelor's, Greenwood University, 2003\n• Completed coursework in schema design\n• Studied fundamentals of error handling"
+}

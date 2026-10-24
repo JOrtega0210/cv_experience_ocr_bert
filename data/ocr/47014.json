@@ -1,0 +1,187 @@
+{
+  "id": "47014",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.77,
+  "n_lines": 13,
+  "mean_score": 0.9787,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BENJAMIN LI",
+      "score": 0.9633,
+      "box": [
+        116,
+        90,
+        334,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-823-425-8407 |benjamin.li@example.com",
+      "score": 0.9675,
+      "box": [
+        115,
+        150,
+        639,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skywave Tech, 2020.12–2023.01",
+      "score": 0.991,
+      "box": [
+        115,
+        290,
+        631,
+        313
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.9849,
+      "box": [
+        126,
+        315,
+        430,
+        339
+      ]
+    },
+    {
+      "text": "- Defined API standards",
+      "score": 0.9627,
+      "box": [
+        125,
+        338,
+        352,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Datagrid Digital, 2018.11–2020.12",
+      "score": 0.9845,
+      "box": [
+        115,
+        381,
+        639,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.9785,
+      "box": [
+        126,
+        407,
+        424,
+        430
+      ]
+    },
+    {
+      "text": "- Implemented caching logic",
+      "score": 0.9632,
+      "box": [
+        126,
+        430,
+        390,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearway University, 2023",
+      "score": 0.9788,
+      "box": [
+        114,
+        539,
+        468,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in requirements engineering",
+      "score": 0.9926,
+      "box": [
+        133,
+        565,
+        625,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in programming in Python",
+      "score": 0.9723,
+      "box": [
+        133,
+        590,
+        606,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "BENJAMIN LI\nPA, USA|+1-823-425-8407 |benjamin.li@example.com\nWORK HISTORY\nSoftware Developers, Skywave Tech, 2020.12–2023.01\n- Led system reliability programs\n- Defined API standards\nSoftware Developers, Datagrid Digital, 2018.11–2020.12\n- Assisted with build automation\n- Implemented caching logic\nEDUCATION\nBachelor's, Clearway University, 2023\n• Completed coursework in requirements engineering\n• Completed coursework in programming in Python"
+}

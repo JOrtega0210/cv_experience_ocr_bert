@@ -1,0 +1,226 @@
+{
+  "id": "15231",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.987,
+  "n_lines": 16,
+  "mean_score": 0.9873,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CHRISTINA GARDNER",
+      "score": 0.9858,
+      "box": [
+        117,
+        90,
+        477,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-938-566-3117 |christina.gardner@example.com",
+      "score": 0.9852,
+      "box": [
+        117,
+        151,
+        697,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9798,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewPath Care Center, 2020.05–2023.01",
+      "score": 0.9937,
+      "box": [
+        116,
+        290,
+        679,
+        313
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9871,
+      "box": [
+        127,
+        315,
+        548,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9812,
+      "box": [
+        127,
+        340,
+        457,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHands Care Center, 2017.08–2020.05",
+      "score": 0.9858,
+      "box": [
+        115,
+        381,
+        698,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored patient response to treatments",
+      "score": 0.9877,
+      "box": [
+        126,
+        406,
+        522,
+        431
+      ]
+    },
+    {
+      "text": "- Supervised clinical documentation",
+      "score": 0.9836,
+      "box": [
+        127,
+        432,
+        457,
+        454
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleLife Nursing, 2013.05–2016.02",
+      "score": 0.9771,
+      "box": [
+        116,
+        472,
+        649,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9854,
+      "box": [
+        125,
+        496,
+        479,
+        522
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.9963,
+      "box": [
+        126,
+        521,
+        418,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Associate's degree, Nursing Foundations, Fairfield University, 2011",
+      "score": 0.9793,
+      "box": [
+        114,
+        631,
+        737,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in perioperative care",
+      "score": 0.9913,
+      "box": [
+        133,
+        658,
+        557,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in care plan development",
+      "score": 0.9981,
+      "box": [
+        134,
+        681,
+        602,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "CHRISTINA GARDNER\nGA, USA|+1-938-566-3117 |christina.gardner@example.com\nWORK HISTORY\nRegistered Nurses, NewPath Care Center, 2020.05–2023.01\n- Developed clinical performance dashboards\n- Implemented care standardization\nRegistered Nurses, NewHands Care Center, 2017.08–2020.05\n- Monitored patient response to treatments\n- Supervised clinical documentation\nRegistered Nurses, GentleLife Nursing, 2013.05–2016.02\n- Prepared medical equipment for use\n- Assisted with feeding patients\nEDUCATION\nAssociate's degree, Nursing Foundations, Fairfield University, 2011\n• Completed coursework in perioperative care\n• Completed coursework in care plan development"
+}

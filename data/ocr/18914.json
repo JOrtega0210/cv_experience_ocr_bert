@@ -1,0 +1,187 @@
+{
+  "id": "18914",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.959,
+  "n_lines": 13,
+  "mean_score": 0.9827,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MAKAYLA WONG",
+      "score": 0.9643,
+      "box": [
+        115,
+        88,
+        403,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA|+1-337-907-4581 |makayla.wong@example.com",
+      "score": 0.9921,
+      "box": [
+        116,
+        152,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9815,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Services, 2020.03–202.01",
+      "score": 0.9783,
+      "box": [
+        114,
+        289,
+        724,
+        313
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9738,
+      "box": [
+        125,
+        313,
+        518,
+        338
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9898,
+      "box": [
+        126,
+        339,
+        556,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Group, 2017.04–2020.03",
+      "score": 0.9762,
+      "box": [
+        114,
+        381,
+        675,
+        406
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9729,
+      "box": [
+        125,
+        405,
+        490,
+        431
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9787,
+      "box": [
+        125,
+        429,
+        550,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Organizational Management, Riverstone Ridge University, 2021",
+      "score": 0.9909,
+      "box": [
+        114,
+        539,
+        813,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in data visualization basics",
+      "score": 0.9907,
+      "box": [
+        134,
+        566,
+        615,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of internal controls",
+      "score": 0.9883,
+      "box": [
+        134,
+        592,
+        526,
+        612
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "MAKAYLA WONG\nIL, USA|+1-337-907-4581 |makayla.wong@example.com\nWORK HISTORY\nAccountants Auditors, Precise Ledger Services, 2020.03–202.01\n- Established financial reporting standards\n- Directed accounting system implementations\nAccountants Auditors, AccuLedger Group, 2017.04–2020.03\n- Processed accounts payable invoices\n- Processed accounts receivable transactions\nEDUCATION\nBachelor's, Organizational Management, Riverstone Ridge University, 2021\n• Completed coursework in data visualization basics\n• Studied fundamentals of internal controls"
+}

@@ -1,0 +1,278 @@
+{
+  "id": "02711",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.015,
+  "n_lines": 20,
+  "mean_score": 0.9827,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARK WALLACE",
+      "score": 0.9709,
+      "box": [
+        116,
+        90,
+        395,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-419-973-7153 |mark.wallace@example.com",
+      "score": 0.9779,
+      "box": [
+        117,
+        151,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9865,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Digital Meadow, 2020.01–2023.01",
+      "score": 0.9727,
+      "box": [
+        115,
+        289,
+        637,
+        314
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9889,
+      "box": [
+        126,
+        314,
+        448,
+        339
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9839,
+      "box": [
+        126,
+        339,
+        447,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Stonegrid Labs, 2017.01–2020.01",
+      "score": 0.9799,
+      "box": [
+        115,
+        381,
+        635,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented release management strategies",
+      "score": 0.981,
+      "box": [
+        126,
+        406,
+        561,
+        432
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9737,
+      "box": [
+        126,
+        430,
+        400,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Brightscale Labs, 2014.01–2017.01",
+      "score": 0.9919,
+      "box": [
+        115,
+        471,
+        649,
+        496
+      ]
+    },
+    {
+      "text": "- Built frontend components",
+      "score": 0.9626,
+      "box": [
+        125,
+        496,
+        385,
+        522
+      ]
+    },
+    {
+      "text": "- Designed documentation templates",
+      "score": 0.9866,
+      "box": [
+        126,
+        522,
+        469,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Brightpoint Systems, 2010.12–2014.01",
+      "score": 0.9829,
+      "box": [
+        116,
+        565,
+        680,
+        589
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9779,
+      "box": [
+        127,
+        591,
+        604,
+        614
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9945,
+      "box": [
+        126,
+        614,
+        340,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Woodland University, 2008",
+      "score": 0.9803,
+      "box": [
+        115,
+        725,
+        457,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearfield Ridge University, 2006",
+      "score": 0.9931,
+      "box": [
+        115,
+        749,
+        530,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in probability and statistics",
+      "score": 0.986,
+      "box": [
+        134,
+        774,
+        611,
+        797
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of agile methodologies",
+      "score": 0.9836,
+      "box": [
+        132,
+        798,
+        565,
+        823
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "MARK WALLACE\nCA, USA|+1-419-973-7153 |mark.wallace@example.com\nWORK HISTORY\nSoftware Developers, Digital Meadow, 2020.01–2023.01\n- Designed data storage strategies\n- Designed caching infrastructures\nSoftware Developers, Stonegrid Labs, 2017.01–2020.01\n- Implemented release management strategies\n- Led database design efforts\nSoftware Developers, Brightscale Labs, 2014.01–2017.01\n- Built frontend components\n- Designed documentation templates\nSoftware Developers, Brightpoint Systems, 2010.12–2014.01\n- Implemented basic features in existing codebases\n- Updated routing logic\nEDUCATION\nMaster's, Woodland University, 2008\nBachelor's, Clearfield Ridge University, 2006\n• Completed coursework in probability and statistics\n• Studied fundamentals of agile methodologies"
+}

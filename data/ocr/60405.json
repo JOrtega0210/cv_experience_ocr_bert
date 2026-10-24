@@ -1,0 +1,187 @@
+{
+  "id": "60405",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.813,
+  "n_lines": 13,
+  "mean_score": 0.984,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SHAYNA ALVAREZ",
+      "score": 0.9808,
+      "box": [
+        116,
+        90,
+        427,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-201-574-2530|shayna.alvarez@example.com",
+      "score": 0.982,
+      "box": [
+        115,
+        150,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9797,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueBridge Nursing, 2019.09–2022.07",
+      "score": 0.987,
+      "box": [
+        115,
+        289,
+        657,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9826,
+      "box": [
+        127,
+        315,
+        457,
+        338
+      ]
+    },
+    {
+      "text": "- Directed care delivery improvements",
+      "score": 0.9604,
+      "box": [
+        126,
+        338,
+        480,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Center, 2016.04–2019.02",
+      "score": 0.9857,
+      "box": [
+        116,
+        383,
+        695,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9948,
+      "box": [
+        126,
+        406,
+        438,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with specimen labeling",
+      "score": 0.9977,
+      "box": [
+        126,
+        430,
+        437,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Human Biology, Clearhaven University, 2004",
+      "score": 0.9809,
+      "box": [
+        114,
+        539,
+        640,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient safety culture",
+      "score": 0.9883,
+      "box": [
+        133,
+        565,
+        582,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of teamwork in healthcare",
+      "score": 0.9733,
+      "box": [
+        133,
+        591,
+        558,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "SHAYNA ALVAREZ\nWI, USA|+1-201-574-2530|shayna.alvarez@example.com\nWORK HISTORY\nRegistered Nurses, TrueBridge Nursing, 2019.09–2022.07\n- Implemented care standardization\n- Directed care delivery improvements\nRegistered Nurses, Harmony Health Center, 2016.04–2019.02\n- Assisted with patient positioning\n- Assisted with specimen labeling\nEDUCATION\nBachelor's, Human Biology, Clearhaven University, 2004\n• Completed coursework in patient safety culture\n• Studied principles of teamwork in healthcare"
+}

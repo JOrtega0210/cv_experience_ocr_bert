@@ -1,0 +1,187 @@
+{
+  "id": "17523",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.914,
+  "n_lines": 13,
+  "mean_score": 0.983,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KENDERICK DAUGHERTY",
+      "score": 0.9831,
+      "box": [
+        116,
+        90,
+        537,
+        120
+      ]
+    },
+    {
+      "text": "IL, USA|+1-902-397-1612 |kenderick.daugherty@example.com",
+      "score": 0.9878,
+      "box": [
+        116,
+        152,
+        717,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9797,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Advisors, 2021.07–2023.01",
+      "score": 0.9919,
+      "box": [
+        115,
+        289,
+        687,
+        313
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9732,
+      "box": [
+        125,
+        313,
+        530,
+        339
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9762,
+      "box": [
+        126,
+        338,
+        489,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Financial, 2017.08–2019.02",
+      "score": 0.9678,
+      "box": [
+        114,
+        381,
+        692,
+        405
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9821,
+      "box": [
+        126,
+        405,
+        414,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.9853,
+      "box": [
+        126,
+        430,
+        419,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Quantitative Finance, Willow Creek University, 2009",
+      "score": 0.98,
+      "box": [
+        114,
+        539,
+        706,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of consolidation accounting",
+      "score": 0.9823,
+      "box": [
+        132,
+        564,
+        607,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of audit sampling",
+      "score": 0.9917,
+      "box": [
+        133,
+        590,
+        476,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KENDERICK DAUGHERTY\nIL, USA|+1-902-397-1612 |kenderick.daugherty@example.com\nWORK HISTORY\nAccountants Auditors, TrustCount Advisors, 2021.07–2023.01\n- Established reporting automation systems\n- Directed financial system architecture\nAccountants Auditors, TrustCount Financial, 2017.08–2019.02\n- Tracked budget expenditures\n- Assisted with forecasting data\nEDUCATION\nBachelor's, Quantitative Finance, Willow Creek University, 2009\n• Studied fundamentals of consolidation accounting\n• Studied principles of audit sampling"
+}

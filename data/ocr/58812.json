@@ -1,0 +1,200 @@
+{
+  "id": "58812",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.834,
+  "n_lines": 14,
+  "mean_score": 0.9817,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CHANEL DURAN",
+      "score": 0.9878,
+      "box": [
+        117,
+        90,
+        388,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-991-540-3980|chanel.duran@example.com",
+      "score": 0.9837,
+      "box": [
+        114,
+        150,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9833,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Advisors, 2020.09–2023.01",
+      "score": 0.982,
+      "box": [
+        115,
+        289,
+        686,
+        313
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9518,
+      "box": [
+        126,
+        314,
+        525,
+        339
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9824,
+      "box": [
+        126,
+        339,
+        505,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Advisors, 2016.09–2019.02",
+      "score": 0.9929,
+      "box": [
+        115,
+        382,
+        697,
+        405
+      ]
+    },
+    {
+      "text": "- Compiled financial schedules",
+      "score": 0.9812,
+      "box": [
+        127,
+        407,
+        413,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.9534,
+      "box": [
+        126,
+        432,
+        357,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Business Analytics, Clear Ridge University, 2008",
+      "score": 0.9763,
+      "box": [
+        115,
+        541,
+        658,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Operations Management, Driftwood University, 2006",
+      "score": 0.9946,
+      "box": [
+        114,
+        565,
+        711,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting information systems",
+      "score": 0.9907,
+      "box": [
+        133,
+        590,
+        681,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in macroeconomics",
+      "score": 0.9859,
+      "box": [
+        134,
+        615,
+        547,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "CHANEL DURAN\nWA, USA|+1-991-540-3980|chanel.duran@example.com\nWORK HISTORY\nAccountants Auditors, SolidCount Advisors, 2020.09–2023.01\n- Developed regulatory reporting strategies\n- Established cost management systems\nAccountants Auditors, SolidLedger Advisors, 2016.09–2019.02\n- Compiled financial schedules\n- Prepared trial balances\nEDUCATION\nMaster's, Business Analytics, Clear Ridge University, 2008\nBachelor's, Operations Management, Driftwood University, 2006\n• Completed coursework in accounting information systems\n• Completed coursework in macroeconomics"
+}

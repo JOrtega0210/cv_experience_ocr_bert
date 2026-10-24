@@ -1,0 +1,265 @@
+{
+  "id": "60093",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.924,
+  "n_lines": 19,
+  "mean_score": 0.9819,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "VALERIE QUINN",
+      "score": 0.972,
+      "box": [
+        115,
+        90,
+        379,
+        121
+      ]
+    },
+    {
+      "text": "WV, USA|+1-511-925-1907|valerie.quinn@example.com",
+      "score": 0.9867,
+      "box": [
+        115,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightLife Care Center, 2019.07–2023.01",
+      "score": 0.9767,
+      "box": [
+        115,
+        289,
+        681,
+        314
+      ]
+    },
+    {
+      "text": "- Directed clinical quality improvement initiatives",
+      "score": 0.986,
+      "box": [
+        125,
+        313,
+        572,
+        339
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.985,
+      "box": [
+        127,
+        340,
+        474,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindPath Care Center, 2016.01–2019.07",
+      "score": 0.9892,
+      "box": [
+        115,
+        381,
+        680,
+        406
+      ]
+    },
+    {
+      "text": "- Led nursing audit programs",
+      "score": 0.9642,
+      "box": [
+        125,
+        406,
+        397,
+        432
+      ]
+    },
+    {
+      "text": "- Established clinical evaluation protocols",
+      "score": 0.9864,
+      "box": [
+        125,
+        429,
+        510,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHeart Medical Services, 2012.07–2016.01",
+      "score": 0.9952,
+      "box": [
+        116,
+        472,
+        731,
+        496
+      ]
+    },
+    {
+      "text": "- Managed geriatric care plans",
+      "score": 0.9558,
+      "box": [
+        125,
+        496,
+        412,
+        521
+      ]
+    },
+    {
+      "text": "- Monitored respiratory therapy treatments",
+      "score": 0.9755,
+      "box": [
+        126,
+        521,
+        519,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Life Nursing, 2006.12–2010.06",
+      "score": 0.9886,
+      "box": [
+        116,
+        565,
+        664,
+        589
+      ]
+    },
+    {
+      "text": "- Prepared patients for examinations",
+      "score": 0.9779,
+      "box": [
+        126,
+        590,
+        466,
+        613
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9904,
+      "box": [
+        125,
+        613,
+        531,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Biological Sciences, Greenridge University, 2006",
+      "score": 0.9895,
+      "box": [
+        115,
+        725,
+        677,
+        748
+      ]
+    },
+    {
+      "text": "• Completed coursework in sterile technique",
+      "score": 0.9647,
+      "box": [
+        132,
+        748,
+        542,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of community health nursing",
+      "score": 0.9889,
+      "box": [
+        133,
+        772,
+        616,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "VALERIE QUINN\nWV, USA|+1-511-925-1907|valerie.quinn@example.com\nWORK HISTORY\nRegistered Nurses, BrightLife Care Center, 2019.07–2023.01\n- Directed clinical quality improvement initiatives\n- Developed care quality benchmarks\nRegistered Nurses, KindPath Care Center, 2016.01–2019.07\n- Led nursing audit programs\n- Established clinical evaluation protocols\nRegistered Nurses, KindHeart Medical Services, 2012.07–2016.01\n- Managed geriatric care plans\n- Monitored respiratory therapy treatments\nRegistered Nurses, Helping Life Nursing, 2006.12–2010.06\n- Prepared patients for examinations\n- Recorded medication administration times\nEDUCATION\nBachelor's, Biological Sciences, Greenridge University, 2006\n• Completed coursework in sterile technique\n• Studied fundamentals of community health nursing"
+}

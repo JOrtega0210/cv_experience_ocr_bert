@@ -1,0 +1,226 @@
+{
+  "id": "48219",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.912,
+  "n_lines": 16,
+  "mean_score": 0.9834,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SAMANTHA CRAIG",
+      "score": 0.976,
+      "box": [
+        116,
+        90,
+        426,
+        121
+      ]
+    },
+    {
+      "text": "SD, USA|+1-454-257-1922 |samantha.craig@example.com",
+      "score": 0.9785,
+      "box": [
+        116,
+        152,
+        684,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9786,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Bridge School, 2020.12–2023.01",
+      "score": 0.9698,
+      "box": [
+        116,
+        290,
+        816,
+        313
+      ]
+    },
+    {
+      "text": "- Led professional development planning",
+      "score": 0.989,
+      "box": [
+        126,
+        314,
+        505,
+        339
+      ]
+    },
+    {
+      "text": "- Designed literacy development programs",
+      "score": 0.9909,
+      "box": [
+        126,
+        339,
+        522,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Hills Academy, 2018.11–2020.12",
+      "score": 0.9874,
+      "box": [
+        115,
+        381,
+        860,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented classroom routines",
+      "score": 0.9813,
+      "box": [
+        126,
+        406,
+        445,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented literacy development plans",
+      "score": 0.9878,
+      "box": [
+        126,
+        431,
+        515,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Horizons Academy, 2015.08–2017.09",
+      "score": 0.9884,
+      "box": [
+        115,
+        471,
+        879,
+        496
+      ]
+    },
+    {
+      "text": "- Supervised transitions between lessons",
+      "score": 0.9832,
+      "box": [
+        126,
+        498,
+        509,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed lesson objectives",
+      "score": 0.9938,
+      "box": [
+        126,
+        521,
+        399,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Instructional Studies, Bayside University, 2008",
+      "score": 0.9911,
+      "box": [
+        115,
+        632,
+        655,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of academic support strategies",
+      "score": 0.9851,
+      "box": [
+        132,
+        656,
+        640,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in student-centered learning",
+      "score": 0.9558,
+      "box": [
+        136,
+        683,
+        625,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "SAMANTHA CRAIG\nSD, USA|+1-454-257-1922 |samantha.craig@example.com\nWORK HISTORY\nElementary Middle School Teachers, Little Bridge School, 2020.12–2023.01\n- Led professional development planning\n- Designed literacy development programs\nElementary Middle School Teachers, Harmony Hills Academy, 2018.11–2020.12\n- Implemented classroom routines\n- Implemented literacy development plans\nElementary Middle School Teachers, Future Horizons Academy, 2015.08–2017.09\n- Supervised transitions between lessons\n- Reviewed lesson objectives\nEDUCATION\nBachelor's, Instructional Studies, Bayside University, 2008\n• Studied fundamentals of academic support strategies\n• Completed coursework in student-centered learning"
+}

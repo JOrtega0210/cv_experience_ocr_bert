@@ -1,0 +1,174 @@
+{
+  "id": "26735",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.898,
+  "n_lines": 12,
+  "mean_score": 0.9812,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KENNETH BAXTER",
+      "score": 0.9812,
+      "box": [
+        116,
+        90,
+        426,
+        120
+      ]
+    },
+    {
+      "text": "MI, USA|+1-732-288-3122 |kenneth.baxter@example.com",
+      "score": 0.9774,
+      "box": [
+        115,
+        150,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkTrack Builders, 2019.09–2021.12",
+      "score": 0.9753,
+      "box": [
+        115,
+        290,
+        691,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.9462,
+      "box": [
+        125,
+        313,
+        444,
+        339
+      ]
+    },
+    {
+      "text": "- Supervised large structural repairs",
+      "score": 0.9946,
+      "box": [
+        126,
+        339,
+        459,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftStone Builders, 2016.07–2018.10",
+      "score": 0.9853,
+      "box": [
+        115,
+        381,
+        690,
+        405
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9752,
+      "box": [
+        126,
+        408,
+        510,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9923,
+      "box": [
+        125,
+        431,
+        492,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Engineering Technology, Bright Ridge High School, 2011",
+      "score": 0.9894,
+      "box": [
+        116,
+        541,
+        1026,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic window installation",
+      "score": 0.9766,
+      "box": [
+        134,
+        566,
+        617,
+        586
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "KENNETH BAXTER\nMI, USA|+1-732-288-3122 |kenneth.baxter@example.com\nWORK HISTORY\nConstruction Laborers, WorkTrack Builders, 2019.09–2021.12\n- Reviewed site inspection reports\n- Supervised large structural repairs\nConstruction Laborers, CraftStone Builders, 2016.07–2018.10\n- Operated hand tools for assembly tasks\n- Assisted with equipment maintenance\nEDUCATION\nHigh school graduate/GED, Construction Engineering Technology, Bright Ridge High School, 2011\n• Completed coursework in basic window installation"
+}

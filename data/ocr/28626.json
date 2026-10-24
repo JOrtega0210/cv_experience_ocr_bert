@@ -1,0 +1,239 @@
+{
+  "id": "28626",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.842,
+  "n_lines": 17,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DANIEL STANTON",
+      "score": 0.9795,
+      "box": [
+        116,
+        90,
+        413,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-379-999-3912|daniel.stanton@example.com",
+      "score": 0.9942,
+      "box": [
+        115,
+        150,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softpath Digital, 2020.01–2023.01",
+      "score": 0.965,
+      "box": [
+        113,
+        287,
+        637,
+        315
+      ]
+    },
+    {
+      "text": "- Led platform migrations",
+      "score": 0.9821,
+      "box": [
+        125,
+        313,
+        361,
+        339
+      ]
+    },
+    {
+      "text": "- Defined code review processes",
+      "score": 0.9638,
+      "box": [
+        126,
+        338,
+        433,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstone Software, 2016.02–2019.03",
+      "score": 0.9941,
+      "box": [
+        115,
+        381,
+        686,
+        406
+      ]
+    },
+    {
+      "text": "- Developed configuration management tools",
+      "score": 0.9902,
+      "box": [
+        126,
+        406,
+        544,
+        431
+      ]
+    },
+    {
+      "text": "- Optimized database queries",
+      "score": 0.9953,
+      "box": [
+        126,
+        430,
+        403,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Datapath Solutions, 2012.07–2015.08",
+      "score": 0.9794,
+      "box": [
+        115,
+        471,
+        672,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented validation logic",
+      "score": 0.981,
+      "box": [
+        126,
+        498,
+        407,
+        522
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9794,
+      "box": [
+        126,
+        521,
+        562,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Havenwood University, 2004",
+      "score": 0.9896,
+      "box": [
+        115,
+        632,
+        473,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Sunfield University, 2002",
+      "score": 0.9635,
+      "box": [
+        115,
+        657,
+        458,
+        680
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of responsive design",
+      "score": 0.9799,
+      "box": [
+        132,
+        681,
+        547,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in virtual reality basics",
+      "score": 0.9797,
+      "box": [
+        133,
+        706,
+        571,
+        731
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "DANIEL STANTON\nMN, USA|+1-379-999-3912|daniel.stanton@example.com\nWORK HISTORY\nSoftware Developers, Softpath Digital, 2020.01–2023.01\n- Led platform migrations\n- Defined code review processes\nSoftware Developers, Clearstone Software, 2016.02–2019.03\n- Developed configuration management tools\n- Optimized database queries\nSoftware Developers, Datapath Solutions, 2012.07–2015.08\n- Implemented validation logic\n- Fixed software bugs identified through testing\nEDUCATION\nMaster's, Havenwood University, 2004\nBachelor's, Sunfield University, 2002\n• Studied fundamentals of responsive design\n• Completed coursework in virtual reality basics"
+}

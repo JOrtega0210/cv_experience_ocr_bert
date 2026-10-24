@@ -1,0 +1,148 @@
+{
+  "id": "57399",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.764,
+  "n_lines": 10,
+  "mean_score": 0.984,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MAYRA CLARK",
+      "score": 0.9706,
+      "box": [
+        116,
+        90,
+        367,
+        120
+      ]
+    },
+    {
+      "text": "VA, USA|+1-957-372-6388 |mayra.clark@example.com",
+      "score": 0.9837,
+      "box": [
+        115,
+        150,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9825,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Steps Academy, 2018.12–2021.10",
+      "score": 0.992,
+      "box": [
+        115,
+        290,
+        857,
+        313
+      ]
+    },
+    {
+      "text": "- Recorded test results",
+      "score": 0.9664,
+      "box": [
+        125,
+        313,
+        340,
+        339
+      ]
+    },
+    {
+      "text": "- Supervised classroom activities",
+      "score": 0.9884,
+      "box": [
+        127,
+        340,
+        434,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Support Studies, Silver Creek University, 2010",
+      "score": 0.9802,
+      "box": [
+        115,
+        449,
+        741,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in writing instruction",
+      "score": 0.9932,
+      "box": [
+        133,
+        474,
+        551,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom communication techniques",
+      "score": 0.9844,
+      "box": [
+        133,
+        497,
+        737,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "MAYRA CLARK\nVA, USA|+1-957-372-6388 |mayra.clark@example.com\nWORK HISTORY\nElementary Middle School Teachers, Golden Steps Academy, 2018.12–2021.10\n- Recorded test results\n- Supervised classroom activities\nEDUCATION\nBachelor's, Learning Support Studies, Silver Creek University, 2010\n• Completed coursework in writing instruction\n• Completed coursework in classroom communication techniques"
+}

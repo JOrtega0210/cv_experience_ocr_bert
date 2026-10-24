@@ -1,0 +1,187 @@
+{
+  "id": "50369",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.785,
+  "n_lines": 13,
+  "mean_score": 0.9811,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "FELICIA MCFARLAND",
+      "score": 0.9716,
+      "box": [
+        116,
+        90,
+        470,
+        120
+      ]
+    },
+    {
+      "text": "TX, USA|+1-794-539-4077|felicia.mcfarland@example.com",
+      "score": 0.9837,
+      "box": [
+        115,
+        150,
+        690,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Vertexline Tech, 2020.06–2023.01",
+      "score": 0.9671,
+      "box": [
+        114,
+        288,
+        640,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.97,
+      "box": [
+        127,
+        315,
+        466,
+        338
+      ]
+    },
+    {
+      "text": "- Designed logging infrastructures",
+      "score": 0.9791,
+      "box": [
+        126,
+        339,
+        443,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Stonefield Software, 2016.09–2019.04",
+      "score": 0.993,
+      "box": [
+        116,
+        382,
+        677,
+        405
+      ]
+    },
+    {
+      "text": "- Updated documentation for implemented features",
+      "score": 0.9911,
+      "box": [
+        125,
+        408,
+        600,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed APl documentation",
+      "score": 0.9621,
+      "box": [
+        126,
+        432,
+        416,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Pinecrest University, 2007",
+      "score": 0.9858,
+      "box": [
+        116,
+        541,
+        547,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in data structures implementation",
+      "score": 0.985,
+      "box": [
+        134,
+        566,
+        674,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in code quality analysis",
+      "score": 0.9836,
+      "box": [
+        134,
+        590,
+        582,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "FELICIA MCFARLAND\nTX, USA|+1-794-539-4077|felicia.mcfarland@example.com\nWORK HISTORY\nSoftware Developers, Vertexline Tech, 2020.06–2023.01\n- Implemented security architectures\n- Designed logging infrastructures\nSoftware Developers, Stonefield Software, 2016.09–2019.04\n- Updated documentation for implemented features\n- Reviewed APl documentation\nEDUCATION\nAssociate's degree, Pinecrest University, 2007\n• Completed coursework in data structures implementation\n• Completed coursework in code quality analysis"
+}

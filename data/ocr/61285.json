@@ -1,0 +1,135 @@
+{
+  "id": "61285",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.78,
+  "n_lines": 9,
+  "mean_score": 0.9831,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ROBERT MCGUIRE",
+      "score": 0.985,
+      "box": [
+        116,
+        90,
+        426,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-542-355-7164|robert.mcguire@example.com",
+      "score": 0.9809,
+      "box": [
+        115,
+        150,
+        672,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9793,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Ironclad Builders, 2022.04–2023.01",
+      "score": 0.9724,
+      "box": [
+        115,
+        290,
+        663,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9814,
+      "box": [
+        125,
+        314,
+        425,
+        339
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9671,
+      "box": [
+        128,
+        341,
+        367,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Inspection, Clearstone High School, 2022",
+      "score": 0.9928,
+      "box": [
+        116,
+        449,
+        884,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction workflow",
+      "score": 0.9905,
+      "box": [
+        134,
+        475,
+        589,
+        495
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "ROBERT MCGUIRE\nWI, USA|+1-542-355-7164|robert.mcguire@example.com\nWORK HISTORY\nConstruction Laborers, Ironclad Builders, 2022.04–2023.01\n- Assisted with concrete pouring\n- Installed basic formwork\nEDUCATION\nHigh school graduate/GED, Construction Inspection, Clearstone High School, 2022\n• Completed coursework in construction workflow"
+}

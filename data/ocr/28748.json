@@ -1,0 +1,187 @@
+{
+  "id": "28748",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.819,
+  "n_lines": 13,
+  "mean_score": 0.9882,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NEIL DOUGHERTY",
+      "score": 0.9917,
+      "box": [
+        116,
+        90,
+        416,
+        120
+      ]
+    },
+    {
+      "text": "MN, USA|+1-566-700-8165 |neil.dougherty@example.com",
+      "score": 0.9765,
+      "box": [
+        116,
+        152,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9883,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Software Developers, Skybridge Software, 2021.03–2023.01",
+      "score": 0.9947,
+      "box": [
+        116,
+        290,
+        675,
+        313
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.9827,
+      "box": [
+        125,
+        313,
+        542,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.9924,
+      "box": [
+        126,
+        339,
+        500,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudline Solutions, 2017.09–2019.07",
+      "score": 0.9974,
+      "box": [
+        116,
+        382,
+        675,
+        405
+      ]
+    },
+    {
+      "text": "- Debugged runtime errors",
+      "score": 0.9901,
+      "box": [
+        126,
+        406,
+        375,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9776,
+      "box": [
+        126,
+        430,
+        421,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Bachelor's, Aspen Grove University, 2008",
+      "score": 0.9818,
+      "box": [
+        115,
+        541,
+        503,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of programming languages",
+      "score": 0.9865,
+      "box": [
+        132,
+        565,
+        567,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in clean code principles",
+      "score": 0.9888,
+      "box": [
+        133,
+        590,
+        585,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "NEIL DOUGHERTY\nMN, USA|+1-566-700-8165 |neil.dougherty@example.com\nWORK HISTORY\nSoftware Developers, Skybridge Software, 2021.03–2023.01\n- Defined technical documentation standards\n- Implemented infrastructure automation\nSoftware Developers, Cloudline Solutions, 2017.09–2019.07\n- Debugged runtime errors\n- Implemented REST endpoints\nEDUCATION\nBachelor's, Aspen Grove University, 2008\n• Studied principles of programming languages\n• Completed coursework in clean code principles"
+}

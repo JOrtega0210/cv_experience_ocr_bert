@@ -1,0 +1,174 @@
+{
+  "id": "01460",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.956,
+  "n_lines": 12,
+  "mean_score": 0.9827,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KAMREN MAXWELL",
+      "score": 0.9725,
+      "box": [
+        116,
+        90,
+        443,
+        120
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-373-359-4783|kamren.maxwell@example.com",
+      "score": 0.9904,
+      "box": [
+        116,
+        151,
+        690,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9791,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueLine Services, 2021.06–2023.01",
+      "score": 0.9886,
+      "box": [
+        115,
+        290,
+        674,
+        312
+      ]
+    },
+    {
+      "text": "-Directed quality assurance programs",
+      "score": 0.986,
+      "box": [
+        125,
+        314,
+        482,
+        340
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.9912,
+      "box": [
+        126,
+        339,
+        476,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidLine Contractors, 2019.11–2021.06",
+      "score": 0.9857,
+      "box": [
+        115,
+        381,
+        708,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with drywall installation",
+      "score": 0.9796,
+      "box": [
+        126,
+        407,
+        440,
+        430
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9532,
+      "box": [
+        126,
+        429,
+        332,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Planning, Clearbrook High School, 2019",
+      "score": 0.9964,
+      "box": [
+        116,
+        541,
+        871,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site coordination",
+      "score": 0.9715,
+      "box": [
+        132,
+        564,
+        565,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "KAMREN MAXWELL\nAZ, USA|+1-373-359-4783|kamren.maxwell@example.com\nWORK HISTORY\nConstruction Laborers, TrueLine Services, 2021.06–2023.01\n-Directed quality assurance programs\n- Developed site performance metrics\nConstruction Laborers, SolidLine Contractors, 2019.11–2021.06\n- Assisted with drywall installation\n- Secured site fencing\nEDUCATION\nHigh school graduate/GED, Construction Planning, Clearbrook High School, 2019\n• Studied fundamentals of job site coordination"
+}

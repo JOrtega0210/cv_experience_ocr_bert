@@ -1,0 +1,226 @@
+{
+  "id": "51126",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.835,
+  "n_lines": 16,
+  "mean_score": 0.9797,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ROBERT YOUNG",
+      "score": 0.9668,
+      "box": [
+        116,
+        90,
+        391,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-433-386-7622|robert.young@example.com",
+      "score": 0.9775,
+      "box": [
+        115,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearline Software, 2019.10–2023.01",
+      "score": 0.9894,
+      "box": [
+        116,
+        290,
+        665,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.977,
+      "box": [
+        127,
+        315,
+        500,
+        338
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.98,
+      "box": [
+        127,
+        340,
+        541,
+        362
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstone Software, 2014.09–2017.12",
+      "score": 0.9921,
+      "box": [
+        115,
+        381,
+        686,
+        406
+      ]
+    },
+    {
+      "text": "- Developed data processing pipelines",
+      "score": 0.9929,
+      "box": [
+        126,
+        406,
+        483,
+        431
+      ]
+    },
+    {
+      "text": "- Developed configuration management tools",
+      "score": 0.9828,
+      "box": [
+        126,
+        431,
+        545,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Datapoint Labs, 2010.04–2013.07",
+      "score": 0.9892,
+      "box": [
+        116,
+        472,
+        637,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9544,
+      "box": [
+        126,
+        498,
+        418,
+        521
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.9583,
+      "box": [
+        126,
+        520,
+        332,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Prairie View University, 2009",
+      "score": 0.9679,
+      "box": [
+        115,
+        632,
+        493,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in code quality analysis",
+      "score": 0.9737,
+      "box": [
+        132,
+        656,
+        582,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in technical writing",
+      "score": 0.99,
+      "box": [
+        134,
+        681,
+        537,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ROBERT YOUNG\nTX, USA|+1-433-386-7622|robert.young@example.com\nWORK HISTORY\nSoftware Developers, Clearline Software, 2019.10–2023.01\n- Implemented infrastructure automation\n- Defined technical documentation standards\nSoftware Developers, Clearstone Software, 2014.09–2017.12\n- Developed data processing pipelines\n- Developed configuration management tools\nSoftware Developers, Datapoint Labs, 2010.04–2013.07\n- Implemented logging features\n- Handled file uploads\nEDUCATION\nBachelor's, Prairie View University, 2009\n• Completed coursework in code quality analysis\n• Completed coursework in technical writing"
+}

@@ -1,0 +1,265 @@
+{
+  "id": "60040",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.943,
+  "n_lines": 19,
+  "mean_score": 0.9854,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CARRIE CARR",
+      "score": 0.9775,
+      "box": [
+        116,
+        88,
+        352,
+        122
+      ]
+    },
+    {
+      "text": "WV, USA|+1-271-263-9871|carrie.carr@example.com",
+      "score": 0.9809,
+      "box": [
+        115,
+        150,
+        639,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Life Medical, 2020.02–2023.01",
+      "score": 0.9874,
+      "box": [
+        115,
+        289,
+        707,
+        314
+      ]
+    },
+    {
+      "text": "- Developed patient safety programs",
+      "score": 0.9744,
+      "box": [
+        126,
+        314,
+        466,
+        339
+      ]
+    },
+    {
+      "text": "- Established clinical evaluation protocols",
+      "score": 0.9913,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenLife Nursing Services, 2017.03–2020.02",
+      "score": 0.9825,
+      "box": [
+        115,
+        381,
+        724,
+        406
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9886,
+      "box": [
+        126,
+        406,
+        474,
+        431
+      ]
+    },
+    {
+      "text": "- Developed patient safety programs",
+      "score": 0.9822,
+      "box": [
+        126,
+        430,
+        466,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverHands Health Group, 2012.06–2015.06",
+      "score": 0.9896,
+      "box": [
+        114,
+        470,
+        710,
+        498
+      ]
+    },
+    {
+      "text": "- Developed patient care plans",
+      "score": 0.9934,
+      "box": [
+        126,
+        498,
+        413,
+        521
+      ]
+    },
+    {
+      "text": "- Conducted patient safety checks",
+      "score": 0.9809,
+      "box": [
+        126,
+        521,
+        444,
+        546
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenWay Care Services, 2008.10–2011.10",
+      "score": 0.9804,
+      "box": [
+        116,
+        565,
+        705,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9865,
+      "box": [
+        125,
+        589,
+        479,
+        614
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9732,
+      "box": [
+        127,
+        615,
+        444,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care, Ironwood University, 2006",
+      "score": 0.975,
+      "box": [
+        115,
+        724,
+        591,
+        746
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of wound assessment",
+      "score": 0.9956,
+      "box": [
+        133,
+        748,
+        558,
+        770
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing research basics",
+      "score": 0.9988,
+      "box": [
+        135,
+        774,
+        610,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "CARRIE CARR\nWV, USA|+1-271-263-9871|carrie.carr@example.com\nWORK HISTORY\nRegistered Nurses, Compassion Life Medical, 2020.02–2023.01\n- Developed patient safety programs\n- Established clinical evaluation protocols\nRegistered Nurses, OpenLife Nursing Services, 2017.03–2020.02\n- Developed care quality benchmarks\n- Developed patient safety programs\nRegistered Nurses, EverHands Health Group, 2012.06–2015.06\n- Developed patient care plans\n- Conducted patient safety checks\nRegistered Nurses, OpenWay Care Services, 2008.10–2011.10\n- Prepared medical equipment for use\n- Collected patient health histories\nEDUCATION\nBachelor's, Health Care, Ironwood University, 2006\n• Studied fundamentals of wound assessment\n• Completed coursework in nursing research basics"
+}

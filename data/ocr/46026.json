@@ -1,0 +1,226 @@
+{
+  "id": "46026",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.884,
+  "n_lines": 16,
+  "mean_score": 0.9821,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "PETER DICKERSON",
+      "score": 0.9668,
+      "box": [
+        116,
+        90,
+        440,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-240-345-1279 |peter.dickerson@example.com",
+      "score": 0.9807,
+      "box": [
+        115,
+        150,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9799,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Inspire Academy, 2020.10–2023.01",
+      "score": 0.9913,
+      "box": [
+        115,
+        289,
+        792,
+        314
+      ]
+    },
+    {
+      "text": "- Directed assessment development efforts",
+      "score": 0.9676,
+      "box": [
+        126,
+        315,
+        526,
+        338
+      ]
+    },
+    {
+      "text": "- Developed district-aligned lesson frameworks",
+      "score": 0.9817,
+      "box": [
+        127,
+        340,
+        562,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Academy, 2018.06–2020.10",
+      "score": 0.9927,
+      "box": [
+        115,
+        381,
+        815,
+        406
+      ]
+    },
+    {
+      "text": "- Designed lesson plans aligned with curriculum standards",
+      "score": 0.9794,
+      "box": [
+        127,
+        407,
+        667,
+        430
+      ]
+    },
+    {
+      "text": "- Evaluated learning outcomes",
+      "score": 0.9815,
+      "box": [
+        126,
+        430,
+        412,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Horizons School, 2016.02–2018.06",
+      "score": 0.9801,
+      "box": [
+        116,
+        472,
+        856,
+        496
+      ]
+    },
+    {
+      "text": "- Recorded test results",
+      "score": 0.9841,
+      "box": [
+        126,
+        497,
+        339,
+        519
+      ]
+    },
+    {
+      "text": "- Updated student performance logs",
+      "score": 0.972,
+      "box": [
+        127,
+        522,
+        462,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Child and Youth Studies, Hillside University, 2020",
+      "score": 0.9835,
+      "box": [
+        115,
+        632,
+        684,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of behavior management",
+      "score": 0.9793,
+      "box": [
+        133,
+        656,
+        551,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational assessment tools",
+      "score": 0.9946,
+      "box": [
+        136,
+        684,
+        669,
+        704
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "PETER DICKERSON\nPA, USA|+1-240-345-1279 |peter.dickerson@example.com\nWORK HISTORY\nElementary Middle School Teachers, Inspire Academy, 2020.10–2023.01\n- Directed assessment development efforts\n- Developed district-aligned lesson frameworks\nElementary Middle School Teachers, Harmony Academy, 2018.06–2020.10\n- Designed lesson plans aligned with curriculum standards\n- Evaluated learning outcomes\nElementary Middle School Teachers, Caring Horizons School, 2016.02–2018.06\n- Recorded test results\n- Updated student performance logs\nEDUCATION\nBachelor's, Child and Youth Studies, Hillside University, 2020\n• Studied principles of behavior management\n• Completed coursework in foundational assessment tools"
+}

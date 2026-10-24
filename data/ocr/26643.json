@@ -1,0 +1,278 @@
+{
+  "id": "26643",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.875,
+  "n_lines": 20,
+  "mean_score": 0.9798,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TYLER YODER",
+      "score": 0.9625,
+      "box": [
+        115,
+        90,
+        355,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-408-950-6483|tyler.yoder@example.com",
+      "score": 0.9916,
+      "box": [
+        115,
+        150,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9947,
+      "box": [
+        115,
+        242,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softframe Labs, 2019.12–2023.01",
+      "score": 0.9903,
+      "box": [
+        114,
+        288,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.971,
+      "box": [
+        127,
+        315,
+        428,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed system design documents",
+      "score": 0.9938,
+      "box": [
+        126,
+        339,
+        480,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightgrid Software, 2016.10–2019.12",
+      "score": 0.9882,
+      "box": [
+        115,
+        381,
+        674,
+        406
+      ]
+    },
+    {
+      "text": "- Built fault-tolerant systems",
+      "score": 0.9726,
+      "box": [
+        125,
+        405,
+        388,
+        431
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9776,
+      "box": [
+        126,
+        431,
+        448,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudfield Digital, 2012.10–2015.12",
+      "score": 0.9702,
+      "box": [
+        115,
+        471,
+        653,
+        496
+      ]
+    },
+    {
+      "text": "- Designed service interfaces",
+      "score": 0.9925,
+      "box": [
+        126,
+        498,
+        399,
+        521
+      ]
+    },
+    {
+      "text": "- Handled load testing",
+      "score": 0.9799,
+      "box": [
+        126,
+        521,
+        333,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Tech, 2008.12–2012.02",
+      "score": 0.9758,
+      "box": [
+        114,
+        563,
+        626,
+        588
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9668,
+      "box": [
+        126,
+        590,
+        421,
+        614
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.957,
+      "box": [
+        126,
+        614,
+        447,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Clearbrook University, 2006",
+      "score": 0.9851,
+      "box": [
+        115,
+        725,
+        465,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Stonebrook University, 2004",
+      "score": 0.9704,
+      "box": [
+        115,
+        749,
+        488,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in configuration management",
+      "score": 0.9701,
+      "box": [
+        132,
+        772,
+        637,
+        798
+      ]
+    },
+    {
+      "text": "• Studied principles of microservices architecture",
+      "score": 0.9864,
+      "box": [
+        133,
+        799,
+        584,
+        822
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "TYLER YODER\nMA, USA|+1-408-950-6483|tyler.yoder@example.com\nWORK HISTORY\nSoftware Developers, Softframe Labs, 2019.12–2023.01\n- Designed system architectures\n- Reviewed system design documents\nSoftware Developers, Brightgrid Software, 2016.10–2019.12\n- Built fault-tolerant systems\n- Designed data storage strategies\nSoftware Developers, Cloudfield Digital, 2012.10–2015.12\n- Designed service interfaces\n- Handled load testing\nSoftware Developers, Flowline Tech, 2008.12–2012.02\n- Implemented REST endpoints\n- Implemented error handling logic\nEDUCATION\nMaster's, Clearbrook University, 2006\nBachelor's, Stonebrook University, 2004\n• Completed coursework in configuration management\n• Studied principles of microservices architecture"
+}

@@ -1,0 +1,200 @@
+{
+  "id": "00120",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.977,
+  "n_lines": 14,
+  "mean_score": 0.9801,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SAMANTHA STEVENSON",
+      "score": 0.9812,
+      "box": [
+        116,
+        90,
+        524,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-931-293-6258|samantha.stevenson@example.com",
+      "score": 0.994,
+      "box": [
+        115,
+        150,
+        730,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.989,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Horizons School, 2020.05–2022.06",
+      "score": 0.9621,
+      "box": [
+        116,
+        290,
+        887,
+        313
+      ]
+    },
+    {
+      "text": "- Established data reporting standards",
+      "score": 0.9824,
+      "box": [
+        125,
+        313,
+        482,
+        339
+      ]
+    },
+    {
+      "text": "- Developed system-wide assessment tools",
+      "score": 0.9814,
+      "box": [
+        126,
+        339,
+        530,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Field School, 2017.04–2019.06",
+      "score": 0.9854,
+      "box": [
+        116,
+        382,
+        839,
+        405
+      ]
+    },
+    {
+      "text": "- Delivered structured lectures",
+      "score": 0.9728,
+      "box": [
+        126,
+        407,
+        408,
+        429
+      ]
+    },
+    {
+      "text": "- Prepared lesson summaries",
+      "score": 0.9879,
+      "box": [
+        125,
+        430,
+        402,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Education Services, Springdale University, 2015",
+      "score": 0.9826,
+      "box": [
+        115,
+        541,
+        653,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Developmental Studies, Brightfield University, 2013",
+      "score": 0.9741,
+      "box": [
+        114,
+        564,
+        700,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational skill building",
+      "score": 0.96,
+      "box": [
+        134,
+        591,
+        614,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in writing instruction",
+      "score": 0.9708,
+      "box": [
+        135,
+        616,
+        551,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "SAMANTHA STEVENSON\nAL, USA|+1-931-293-6258|samantha.stevenson@example.com\nWORK HISTORY\nElementary Middle School Teachers, Discovery Horizons School, 2020.05–2022.06\n- Established data reporting standards\n- Developed system-wide assessment tools\nElementary Middle School Teachers, Learning Field School, 2017.04–2019.06\n- Delivered structured lectures\n- Prepared lesson summaries\nEDUCATION\nMaster's, Education Services, Springdale University, 2015\nBachelor's, Developmental Studies, Brightfield University, 2013\n• Completed coursework in educational skill building\n• Completed coursework in writing instruction"
+}

@@ -1,0 +1,200 @@
+{
+  "id": "59706",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.832,
+  "n_lines": 14,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MEGAN CHEN",
+      "score": 0.9725,
+      "box": [
+        116,
+        90,
+        347,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-478-749-2475|megan.chen@example.com",
+      "score": 0.9759,
+      "box": [
+        114,
+        150,
+        660,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9792,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Accounting, 2020.06–2022.04",
+      "score": 0.9805,
+      "box": [
+        114,
+        289,
+        718,
+        313
+      ]
+    },
+    {
+      "text": "- Established audit governance structures",
+      "score": 0.9866,
+      "box": [
+        125,
+        313,
+        514,
+        339
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9806,
+      "box": [
+        126,
+        339,
+        479,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Financial, 2017.09–2019.07",
+      "score": 0.9853,
+      "box": [
+        114,
+        381,
+        710,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9907,
+      "box": [
+        125,
+        406,
+        456,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.9527,
+      "box": [
+        126,
+        432,
+        357,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Organizational Management, Greenfield University, 2016",
+      "score": 0.9868,
+      "box": [
+        114,
+        539,
+        733,
+        565
+      ]
+    },
+    {
+      "text": "Bachelor's, Professional Accounting, Springdale University, 2014",
+      "score": 0.9927,
+      "box": [
+        115,
+        566,
+        717,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in payroll accounting",
+      "score": 0.9941,
+      "box": [
+        134,
+        590,
+        558,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of variance analysis",
+      "score": 0.9787,
+      "box": [
+        133,
+        615,
+        539,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "MEGAN CHEN\nWA, USA|+1-478-749-2475|megan.chen@example.com\nWORK HISTORY\nAccountants Auditors, OpenBooks Accounting, 2020.06–2022.04\n- Established audit governance structures\n- Led accounting process optimization\nAccountants Auditors, SteadyCount Financial, 2017.09–2019.07\n- Assisted with tax form preparation\n- Prepared trial balances\nEDUCATION\nMaster's, Organizational Management, Greenfield University, 2016\nBachelor's, Professional Accounting, Springdale University, 2014\n• Completed coursework in payroll accounting\n• Studied fundamentals of variance analysis"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "59474",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.828,
+  "n_lines": 13,
+  "mean_score": 0.9823,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAIMIE STEIN",
+      "score": 0.969,
+      "box": [
+        115,
+        90,
+        337,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-857-935-5787|jaimie.stein@example.com",
+      "score": 0.979,
+      "box": [
+        114,
+        150,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9783,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueHands Nursing Services, 2020.04–2022.05",
+      "score": 0.9821,
+      "box": [
+        116,
+        289,
+        742,
+        312
+      ]
+    },
+    {
+      "text": "- Developed nursing policy frameworks",
+      "score": 0.9798,
+      "box": [
+        126,
+        315,
+        489,
+        338
+      ]
+    },
+    {
+      "text": "- Developed patient safety metrics",
+      "score": 0.989,
+      "box": [
+        126,
+        339,
+        446,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearSpring Health Group, 2017.02–2019.04",
+      "score": 0.9795,
+      "box": [
+        115,
+        381,
+        716,
+        406
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9702,
+      "box": [
+        125,
+        406,
+        365,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with diagnostic procedures",
+      "score": 0.9833,
+      "box": [
+        126,
+        430,
+        474,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Services Administration, Greenfield University, 2011",
+      "score": 0.9924,
+      "box": [
+        116,
+        541,
+        851,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in dosage calculations",
+      "score": 0.9897,
+      "box": [
+        133,
+        566,
+        573,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of skin integrity maintenance",
+      "score": 0.9791,
+      "box": [
+        133,
+        591,
+        620,
+        613
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JAIMIE STEIN\nWA, USA|+1-857-935-5787|jaimie.stein@example.com\nWORK HISTORY\nRegistered Nurses, TrueHands Nursing Services, 2020.04–2022.05\n- Developed nursing policy frameworks\n- Developed patient safety metrics\nRegistered Nurses, ClearSpring Health Group, 2017.02–2019.04\n- Recorded nursing notes\n- Assisted with diagnostic procedures\nEDUCATION\nAssociate's degree, Health Services Administration, Greenfield University, 2011\n• Completed coursework in dosage calculations\n• Studied fundamentals of skin integrity maintenance"
+}

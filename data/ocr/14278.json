@@ -1,0 +1,226 @@
+{
+  "id": "14278",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.018,
+  "n_lines": 16,
+  "mean_score": 0.9783,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MORGAN COBB",
+      "score": 0.9686,
+      "box": [
+        116,
+        90,
+        378,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-795-933-6324|morgan.cobb@example.com",
+      "score": 0.9844,
+      "box": [
+        115,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunPath Nursing, 2020.05–2023.01",
+      "score": 0.9846,
+      "box": [
+        116,
+        290,
+        631,
+        314
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.9747,
+      "box": [
+        126,
+        313,
+        424,
+        339
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9874,
+      "box": [
+        126,
+        339,
+        474,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverWell Health Services, 2017.08–2020.05",
+      "score": 0.9665,
+      "box": [
+        115,
+        381,
+        711,
+        406
+      ]
+    },
+    {
+      "text": "- Supervised junior nursing staff",
+      "score": 0.9613,
+      "box": [
+        125,
+        406,
+        424,
+        431
+      ]
+    },
+    {
+      "text": "- Supervised medication administration",
+      "score": 0.9975,
+      "box": [
+        127,
+        432,
+        489,
+        454
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHope Care Center, 2014.11–2017.08",
+      "score": 0.9866,
+      "box": [
+        116,
+        472,
+        686,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored patient alarms",
+      "score": 0.9585,
+      "box": [
+        125,
+        496,
+        373,
+        521
+      ]
+    },
+    {
+      "text": "-Recorded medication administration times",
+      "score": 0.9742,
+      "box": [
+        125,
+        521,
+        531,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Services Administration, Sunrise University, 2015",
+      "score": 0.9737,
+      "box": [
+        114,
+        631,
+        748,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing informatics basics",
+      "score": 0.9707,
+      "box": [
+        134,
+        658,
+        627,
+        678
+      ]
+    },
+    {
+      "text": "• Completed coursework in acute care nursing",
+      "score": 0.9802,
+      "box": [
+        135,
+        681,
+        561,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "MORGAN COBB\nFL, USA|+1-795-933-6324|morgan.cobb@example.com\nWORK HISTORY\nRegistered Nurses, SunPath Nursing, 2020.05–2023.01\n- Led infection control programs\n- Developed care quality benchmarks\nRegistered Nurses, EverWell Health Services, 2017.08–2020.05\n- Supervised junior nursing staff\n- Supervised medication administration\nRegistered Nurses, NewHope Care Center, 2014.11–2017.08\n- Monitored patient alarms\n-Recorded medication administration times\nEDUCATION\nBachelor's, Health Services Administration, Sunrise University, 2015\n• Completed coursework in nursing informatics basics\n• Completed coursework in acute care nursing"
+}

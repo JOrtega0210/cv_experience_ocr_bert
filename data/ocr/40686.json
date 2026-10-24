@@ -1,0 +1,187 @@
+{
+  "id": "40686",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.816,
+  "n_lines": 13,
+  "mean_score": 0.9766,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KELLY MOON",
+      "score": 0.9507,
+      "box": [
+        116,
+        90,
+        341,
+        121
+      ]
+    },
+    {
+      "text": "NC, USA|+1-234-996-5124|kelly.moon@example.com",
+      "score": 0.9733,
+      "box": [
+        115,
+        150,
+        642,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Group, 2020.04–2023.01",
+      "score": 0.9771,
+      "box": [
+        114,
+        289,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "-Directed financial system architecture",
+      "score": 0.9809,
+      "box": [
+        125,
+        313,
+        489,
+        338
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9747,
+      "box": [
+        126,
+        339,
+        424,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Group, 2017.06–2020.04",
+      "score": 0.9773,
+      "box": [
+        114,
+        381,
+        664,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed credit memos",
+      "score": 0.9772,
+      "box": [
+        126,
+        405,
+        365,
+        431
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9789,
+      "box": [
+        126,
+        432,
+        550,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Planning, Fairview Ridge University, 2019",
+      "score": 0.9826,
+      "box": [
+        114,
+        539,
+        701,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of professional responsibility",
+      "score": 0.972,
+      "box": [
+        132,
+        565,
+        580,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of auditing",
+      "score": 0.9668,
+      "box": [
+        133,
+        591,
+        451,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KELLY MOON\nNC, USA|+1-234-996-5124|kelly.moon@example.com\nWORK HISTORY\nAccountants Auditors, CoreLedger Group, 2020.04–2023.01\n-Directed financial system architecture\n- Designed audit methodologies\nAccountants Auditors, FairLedger Group, 2017.06–2020.04\n- Reviewed credit memos\n- Processed accounts receivable transactions\nEDUCATION\nBachelor's, Financial Planning, Fairview Ridge University, 2019\n• Studied principles of professional responsibility\n• Studied fundamentals of auditing"
+}

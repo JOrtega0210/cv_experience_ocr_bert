@@ -1,0 +1,148 @@
+{
+  "id": "26133",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.751,
+  "n_lines": 10,
+  "mean_score": 0.983,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KIARRA CALDWELL",
+      "score": 0.9728,
+      "box": [
+        116,
+        90,
+        444,
+        120
+      ]
+    },
+    {
+      "text": "MA, USA|+1-954-347-4358|kiarra.caldwell@example.com",
+      "score": 0.99,
+      "box": [
+        115,
+        150,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.982,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeHands Nursing Services, 2020.03–2023.01",
+      "score": 0.9897,
+      "box": [
+        116,
+        290,
+        741,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9862,
+      "box": [
+        126,
+        314,
+        479,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with specimen labeling",
+      "score": 0.9927,
+      "box": [
+        126,
+        339,
+        437,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Public Health, Golden Hills University, 2022",
+      "score": 0.9622,
+      "box": [
+        114,
+        447,
+        628,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in dosage calculations",
+      "score": 0.9824,
+      "box": [
+        134,
+        474,
+        574,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in suctioning techniques",
+      "score": 0.9736,
+      "box": [
+        134,
+        499,
+        590,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "KIARRA CALDWELL\nMA, USA|+1-954-347-4358|kiarra.caldwell@example.com\nWORK HISTORY\nRegistered Nurses, SafeHands Nursing Services, 2020.03–2023.01\n- Prepared medical equipment for use\n- Assisted with specimen labeling\nEDUCATION\nBachelor's, Public Health, Golden Hills University, 2022\n• Completed coursework in dosage calculations\n• Completed coursework in suctioning techniques"
+}

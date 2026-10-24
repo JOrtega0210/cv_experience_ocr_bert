@@ -1,0 +1,200 @@
+{
+  "id": "38930",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.861,
+  "n_lines": 14,
+  "mean_score": 0.978,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RODOLFO SEXTON",
+      "score": 0.9861,
+      "box": [
+        116,
+        90,
+        432,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-490-723-9093|rodolfo.sexton@example.com",
+      "score": 0.9912,
+      "box": [
+        115,
+        150,
+        672,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9778,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Services, 2018.11–2021.06",
+      "score": 0.9822,
+      "box": [
+        115,
+        290,
+        707,
+        313
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9817,
+      "box": [
+        126,
+        315,
+        553,
+        338
+      ]
+    },
+    {
+      "text": "- Directed budget planning cycles",
+      "score": 0.9654,
+      "box": [
+        126,
+        339,
+        439,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Group, 2015.01–2017.09",
+      "score": 0.9892,
+      "box": [
+        115,
+        382,
+        675,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9668,
+      "box": [
+        126,
+        406,
+        413,
+        432
+      ]
+    },
+    {
+      "text": "- Maintained supporting documentation",
+      "score": 0.9521,
+      "box": [
+        126,
+        431,
+        490,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Supply Chain Management, Oakview University, 2014",
+      "score": 0.9773,
+      "box": [
+        115,
+        541,
+        706,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Managerial Accounting, Riverdale University, 2012",
+      "score": 0.9848,
+      "box": [
+        114,
+        565,
+        693,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in compliance testing",
+      "score": 0.9768,
+      "box": [
+        133,
+        590,
+        562,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting research methods",
+      "score": 0.9624,
+      "box": [
+        134,
+        616,
+        663,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "RODOLFO SEXTON\nNY, USA|+1-490-723-9093|rodolfo.sexton@example.com\nWORK HISTORY\nAccountants Auditors, CoreBalance Services, 2018.11–2021.06\n- Designed financial documentation standards\n- Directed budget planning cycles\nAccountants Auditors, AccuLedger Group, 2015.01–2017.09\n- Assisted with budget tracking\n- Maintained supporting documentation\nEDUCATION\nMaster's, Supply Chain Management, Oakview University, 2014\nBachelor's, Managerial Accounting, Riverdale University, 2012\n• Completed coursework in compliance testing\n• Completed coursework in accounting research methods"
+}

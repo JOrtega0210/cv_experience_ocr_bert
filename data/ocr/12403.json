@@ -1,0 +1,226 @@
+{
+  "id": "12403",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.964,
+  "n_lines": 16,
+  "mean_score": 0.9803,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ERICA FORD",
+      "score": 0.9653,
+      "box": [
+        115,
+        88,
+        326,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA|+1-352-220-3418|erica.ford@example.com",
+      "score": 0.9759,
+      "box": [
+        115,
+        150,
+        624,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Co., 2020.08–2023.01",
+      "score": 0.9711,
+      "box": [
+        114,
+        289,
+        675,
+        314
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9677,
+      "box": [
+        125,
+        313,
+        477,
+        338
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9903,
+      "box": [
+        126,
+        339,
+        518,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Group, 2018.03–2020.08",
+      "score": 0.9816,
+      "box": [
+        114,
+        381,
+        682,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared tax compliance filings",
+      "score": 0.9745,
+      "box": [
+        127,
+        407,
+        433,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted internal audits",
+      "score": 0.9886,
+      "box": [
+        126,
+        432,
+        380,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Group, 2014.07–2016.12",
+      "score": 0.9817,
+      "box": [
+        115,
+        472,
+        663,
+        496
+      ]
+    },
+    {
+      "text": "-Maintained chart of accounts",
+      "score": 0.9786,
+      "box": [
+        125,
+        496,
+        410,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9541,
+      "box": [
+        126,
+        521,
+        382,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Investment Management, Riverway University, 2011",
+      "score": 0.9886,
+      "box": [
+        114,
+        631,
+        707,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of managerial accounting",
+      "score": 0.9908,
+      "box": [
+        133,
+        657,
+        551,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in international taxation basics",
+      "score": 0.9912,
+      "box": [
+        136,
+        684,
+        645,
+        704
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ERICA FORD\nFL, USA|+1-352-220-3418|erica.ford@example.com\nWORK HISTORY\nAccountants Auditors, Integrity Books Co., 2020.08–2023.01\n- Established financial quality controls\n- Established financial reporting standards\nAccountants Auditors, EverBalance Group, 2018.03–2020.08\n- Prepared tax compliance filings\n- Conducted internal audits\nAccountants Auditors, EverCount Group, 2014.07–2016.12\n-Maintained chart of accounts\n- Reviewed ledger postings\nEDUCATION\nBachelor's, Investment Management, Riverway University, 2011\n• Studied principles of managerial accounting\n• Completed coursework in international taxation basics"
+}

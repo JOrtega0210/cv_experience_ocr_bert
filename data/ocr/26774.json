@@ -1,0 +1,148 @@
+{
+  "id": "26774",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.737,
+  "n_lines": 10,
+  "mean_score": 0.9867,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TEAIRRA LYNN",
+      "score": 0.9611,
+      "box": [
+        115,
+        90,
+        367,
+        120
+      ]
+    },
+    {
+      "text": "MI, USA|+1-704-577-6978|teairra.lynn@example.com",
+      "score": 0.9803,
+      "box": [
+        116,
+        152,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearPath Medical Group, 2020.11–2022.05",
+      "score": 0.9963,
+      "box": [
+        116,
+        290,
+        710,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9912,
+      "box": [
+        126,
+        314,
+        438,
+        339
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9908,
+      "box": [
+        126,
+        339,
+        417,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Nursing Practice, Clear Spring University, 2013",
+      "score": 0.9899,
+      "box": [
+        116,
+        449,
+        740,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of telemetry basics",
+      "score": 0.9889,
+      "box": [
+        132,
+        472,
+        493,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic nursing principles",
+      "score": 0.9857,
+      "box": [
+        134,
+        499,
+        606,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "TEAIRRA LYNN\nMI, USA|+1-704-577-6978|teairra.lynn@example.com\nWORK HISTORY\nRegistered Nurses, ClearPath Medical Group, 2020.11–2022.05\n- Assisted with patient positioning\n- Checked medication dosages\nEDUCATION\nAssociate's degree, Nursing Practice, Clear Spring University, 2013\n• Studied principles of telemetry basics\n• Completed coursework in basic nursing principles"
+}

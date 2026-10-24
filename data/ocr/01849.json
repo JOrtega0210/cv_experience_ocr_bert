@@ -1,0 +1,187 @@
+{
+  "id": "01849",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.943,
+  "n_lines": 13,
+  "mean_score": 0.9761,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARLEE CHRISTIAN",
+      "score": 0.9852,
+      "box": [
+        116,
+        90,
+        450,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-384-285-2951|marlee.christian@example.com",
+      "score": 0.9815,
+      "box": [
+        115,
+        150,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9793,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassionate Path Medical, 2020.08–2023.01",
+      "score": 0.9791,
+      "box": [
+        116,
+        290,
+        746,
+        313
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.975,
+      "box": [
+        126,
+        314,
+        391,
+        337
+      ]
+    },
+    {
+      "text": "- Directed emergency response planning",
+      "score": 0.9594,
+      "box": [
+        126,
+        339,
+        505,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindCare Medical Services, 2018.03–2020.08",
+      "score": 0.9716,
+      "box": [
+        116,
+        382,
+        727,
+        405
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.9861,
+      "box": [
+        125,
+        406,
+        471,
+        431
+      ]
+    },
+    {
+      "text": "- Checked laboratory results",
+      "score": 0.9714,
+      "box": [
+        126,
+        430,
+        391,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing, Ridgeway University, 2017",
+      "score": 0.9309,
+      "box": [
+        115,
+        541,
+        557,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in communication in care teams",
+      "score": 0.9916,
+      "box": [
+        133,
+        565,
+        660,
+        588
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of trauma care",
+      "score": 0.9795,
+      "box": [
+        133,
+        591,
+        489,
+        613
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "MARLEE CHRISTIAN\nAZ, USA|+1-384-285-2951|marlee.christian@example.com\nWORK HISTORY\nRegistered Nurses, Compassionate Path Medical, 2020.08–2023.01\n- Led nursing process audits\n- Directed emergency response planning\nRegistered Nurses, KindCare Medical Services, 2018.03–2020.08\n- Recorded patient weight and height\n- Checked laboratory results\nEDUCATION\nBachelor's, Nursing, Ridgeway University, 2017\n• Completed coursework in communication in care teams\n• Studied fundamentals of trauma care"
+}

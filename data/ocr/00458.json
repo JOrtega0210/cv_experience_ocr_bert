@@ -1,0 +1,135 @@
+{
+  "id": "00458",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.841,
+  "n_lines": 9,
+  "mean_score": 0.9789,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KADEN HUDSON",
+      "score": 0.9697,
+      "box": [
+        116,
+        90,
+        390,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA |+1-652-726-2444 |kaden.hudson@example.com",
+      "score": 0.9626,
+      "box": [
+        116,
+        151,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9835,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextGen Builders, 2022.06–2023.01",
+      "score": 0.9899,
+      "box": [
+        116,
+        291,
+        669,
+        311
+      ]
+    },
+    {
+      "text": "-Maintained tool storage areas",
+      "score": 0.9667,
+      "box": [
+        125,
+        313,
+        419,
+        340
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9916,
+      "box": [
+        126,
+        339,
+        489,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Technology, Riverside High School, 2023",
+      "score": 0.9876,
+      "box": [
+        116,
+        449,
+        882,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of concrete mixing",
+      "score": 0.9595,
+      "box": [
+        132,
+        472,
+        525,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "KADEN HUDSON\nAL, USA |+1-652-726-2444 |kaden.hudson@example.com\nWORK HISTORY\nConstruction Laborers, NextGen Builders, 2022.06–2023.01\n-Maintained tool storage areas\n- Performed basic plumbing assistance\nEDUCATION\nHigh school graduate/GED, Construction Technology, Riverside High School, 2023\n• Studied fundamentals of concrete mixing"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "04417",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.915,
+  "n_lines": 13,
+  "mean_score": 0.9824,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SIDNEY PENA",
+      "score": 0.9847,
+      "box": [
+        116,
+        90,
+        345,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-628-979-2638 | sidney.pena@example.com",
+      "score": 0.966,
+      "box": [
+        117,
+        151,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9782,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Softframe Labs, 2019.10–2022.05",
+      "score": 0.9714,
+      "box": [
+        115,
+        289,
+        637,
+        313
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9889,
+      "box": [
+        126,
+        315,
+        446,
+        338
+      ]
+    },
+    {
+      "text": "- Developed system monitoring strategies",
+      "score": 0.9712,
+      "box": [
+        126,
+        339,
+        513,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightscale Labs, 2016.06–2019.02",
+      "score": 0.9893,
+      "box": [
+        115,
+        381,
+        651,
+        406
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9667,
+      "box": [
+        127,
+        408,
+        340,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented basic authentication logic",
+      "score": 0.9935,
+      "box": [
+        126,
+        430,
+        502,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Lakeview University, 2014",
+      "score": 0.9732,
+      "box": [
+        116,
+        542,
+        468,
+        562
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of responsive design",
+      "score": 0.9942,
+      "box": [
+        132,
+        565,
+        547,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in programming in C++",
+      "score": 0.9954,
+      "box": [
+        134,
+        590,
+        579,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "SIDNEY PENA\nCA, USA|+1-628-979-2638 | sidney.pena@example.com\nWORK HISTORY\nSoftware Developers, Softframe Labs, 2019.10–2022.05\n- Designed caching infrastructures\n- Developed system monitoring strategies\nSoftware Developers, Brightscale Labs, 2016.06–2019.02\n- Updated routing logic\n- Implemented basic authentication logic\nEDUCATION\nBachelor's, Lakeview University, 2014\n• Studied fundamentals of responsive design\n• Completed coursework in programming in C++"
+}

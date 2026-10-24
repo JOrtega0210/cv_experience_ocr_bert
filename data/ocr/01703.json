@@ -1,0 +1,265 @@
+{
+  "id": "01703",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.121,
+  "n_lines": 19,
+  "mean_score": 0.9776,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DEREKSHELTON",
+      "score": 0.9988,
+      "box": [
+        116,
+        90,
+        404,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-356-317-9914|derek.shelton@example.com",
+      "score": 0.9605,
+      "box": [
+        115,
+        151,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Start Academy, 2020.05–2023.01",
+      "score": 0.993,
+      "box": [
+        115,
+        289,
+        846,
+        314
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.9901,
+      "box": [
+        126,
+        314,
+        431,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented instructional improvement programs",
+      "score": 0.9673,
+      "box": [
+        126,
+        339,
+        601,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Start Academy, 2017.09–2020.05",
+      "score": 0.9903,
+      "box": [
+        115,
+        381,
+        865,
+        406
+      ]
+    },
+    {
+      "text": "- Led strategic curriculum planning",
+      "score": 0.9604,
+      "box": [
+        126,
+        406,
+        449,
+        432
+      ]
+    },
+    {
+      "text": "- Directed assessment development efforts",
+      "score": 0.9615,
+      "box": [
+        126,
+        430,
+        526,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Minds School, 2015.01–2017.09",
+      "score": 0.9853,
+      "box": [
+        116,
+        472,
+        827,
+        496
+      ]
+    },
+    {
+      "text": "- Adapted lesson content for diverse learners",
+      "score": 0.9877,
+      "box": [
+        127,
+        498,
+        545,
+        521
+      ]
+    },
+    {
+      "text": "- Integrated educational technology tools",
+      "score": 0.9697,
+      "box": [
+        126,
+        521,
+        505,
+        546
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Grove School, 2012.04–2015.01",
+      "score": 0.9716,
+      "box": [
+        116,
+        565,
+        812,
+        588
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9654,
+      "box": [
+        125,
+        589,
+        409,
+        612
+      ]
+    },
+    {
+      "text": "- Reviewed lesson objectives",
+      "score": 0.9762,
+      "box": [
+        127,
+        615,
+        400,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Introductory Education, Crestview University, 2010",
+      "score": 0.9677,
+      "box": [
+        114,
+        723,
+        693,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of teaching strategy selection",
+      "score": 0.9545,
+      "box": [
+        132,
+        747,
+        626,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in literacy development",
+      "score": 0.99,
+      "box": [
+        133,
+        772,
+        583,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "DEREKSHELTON\nAZ, USA|+1-356-317-9914|derek.shelton@example.com\nWORK HISTORY\nElementary Middle School Teachers, Golden Start Academy, 2020.05–2023.01\n- Designed assessment systems\n- Implemented instructional improvement programs\nElementary Middle School Teachers, Harmony Start Academy, 2017.09–2020.05\n- Led strategic curriculum planning\n- Directed assessment development efforts\nElementary Middle School Teachers, Sunny Minds School, 2015.01–2017.09\n- Adapted lesson content for diverse learners\n- Integrated educational technology tools\nElementary Middle School Teachers, Little Grove School, 2012.04–2015.01\n- Provided math drill exercises\n- Reviewed lesson objectives\nEDUCATION\nBachelor's, Introductory Education, Crestview University, 2010\n• Studied fundamentals of teaching strategy selection\n• Completed coursework in literacy development"
+}

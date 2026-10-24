@@ -1,0 +1,200 @@
+{
+  "id": "04342",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.945,
+  "n_lines": 14,
+  "mean_score": 0.983,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KYLE LIM",
+      "score": 0.9457,
+      "box": [
+        114,
+        88,
+        276,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-858-901-9422 |kyle.lim@example.com",
+      "score": 0.9751,
+      "box": [
+        116,
+        151,
+        611,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9768,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeNest Nursing Services, 2020.08–2023.01",
+      "score": 0.9938,
+      "box": [
+        116,
+        290,
+        714,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9919,
+      "box": [
+        126,
+        314,
+        571,
+        339
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.9819,
+      "box": [
+        126,
+        339,
+        520,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Care Services, 2017.03–2019.08",
+      "score": 0.9957,
+      "box": [
+        116,
+        382,
+        729,
+        405
+      ]
+    },
+    {
+      "text": "- Collected laboratory specimens",
+      "score": 0.9851,
+      "box": [
+        125,
+        406,
+        435,
+        431
+      ]
+    },
+    {
+      "text": "- Performed wound dressing changes",
+      "score": 0.9905,
+      "box": [
+        126,
+        429,
+        476,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Health Management, Clearwater University, 2012",
+      "score": 0.9877,
+      "box": [
+        115,
+        541,
+        663,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Services, Rolling Hills University, 2010",
+      "score": 0.9745,
+      "box": [
+        114,
+        565,
+        648,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in therapeutic exercise basics",
+      "score": 0.9866,
+      "box": [
+        134,
+        590,
+        641,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of respiratory nursing",
+      "score": 0.9791,
+      "box": [
+        133,
+        615,
+        551,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "KYLE LIM\nCA, USA|+1-858-901-9422 |kyle.lim@example.com\nWORK HISTORY\nRegistered Nurses, LifeNest Nursing Services, 2020.08–2023.01\n- Implemented clinical decision support systems\n- Established nursing performance metrics\nRegistered Nurses, Compassion Care Services, 2017.03–2019.08\n- Collected laboratory specimens\n- Performed wound dressing changes\nEDUCATION\nMaster's, Health Management, Clearwater University, 2012\nBachelor's, Health Services, Rolling Hills University, 2010\n• Completed coursework in therapeutic exercise basics\n• Studied fundamentals of respiratory nursing"
+}

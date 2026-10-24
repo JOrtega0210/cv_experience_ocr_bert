@@ -1,0 +1,265 @@
+{
+  "id": "16864",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.101,
+  "n_lines": 19,
+  "mean_score": 0.9811,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "STEVEN LAMB",
+      "score": 0.9559,
+      "box": [
+        115,
+        90,
+        357,
+        121
+      ]
+    },
+    {
+      "text": "ID, USA|+1-726-982-8576 | steven.lamb@example.com",
+      "score": 0.9745,
+      "box": [
+        115,
+        150,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextStep Construction, 2019.09–2023.01",
+      "score": 0.981,
+      "box": [
+        114,
+        289,
+        716,
+        313
+      ]
+    },
+    {
+      "text": "- Directed quality assurance programs",
+      "score": 0.9836,
+      "box": [
+        126,
+        314,
+        482,
+        340
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.9769,
+      "box": [
+        127,
+        338,
+        448,
+        362
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearLine Construction, 2016.05–2019.09",
+      "score": 0.9855,
+      "box": [
+        115,
+        381,
+        721,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented quality control systems",
+      "score": 0.9843,
+      "box": [
+        126,
+        406,
+        480,
+        431
+      ]
+    },
+    {
+      "text": "- Managed equipment maintenance programs",
+      "score": 0.976,
+      "box": [
+        126,
+        430,
+        552,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerStonecraft, 2012.01–2015.05",
+      "score": 0.9856,
+      "box": [
+        115,
+        471,
+        667,
+        496
+      ]
+    },
+    {
+      "text": "- Installed roofing materials",
+      "score": 0.9728,
+      "box": [
+        125,
+        496,
+        381,
+        521
+      ]
+    },
+    {
+      "text": "- Aligned structural components",
+      "score": 0.9899,
+      "box": [
+        126,
+        522,
+        423,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Build Group, 2007.06–2010.11",
+      "score": 0.9912,
+      "box": [
+        116,
+        565,
+        698,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with roofing material handling",
+      "score": 0.9822,
+      "box": [
+        126,
+        590,
+        498,
+        614
+      ]
+    },
+    {
+      "text": "- Mixed concrete and mortar",
+      "score": 0.9745,
+      "box": [
+        127,
+        615,
+        391,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        679,
+        266,
+        703
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Management, Oakway University, 2002",
+      "score": 0.9836,
+      "box": [
+        116,
+        725,
+        856,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in demolition procedures",
+      "score": 0.9753,
+      "box": [
+        133,
+        749,
+        595,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site communication",
+      "score": 0.9839,
+      "box": [
+        133,
+        772,
+        592,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "STEVEN LAMB\nID, USA|+1-726-982-8576 | steven.lamb@example.com\nWORK HISTORY\nConstruction Laborers, NextStep Construction, 2019.09–2023.01\n- Directed quality assurance programs\n- Led cross-functional coordination\nConstruction Laborers, ClearLine Construction, 2016.05–2019.09\n- Implemented quality control systems\n- Managed equipment maintenance programs\nConstruction Laborers, CornerStonecraft, 2012.01–2015.05\n- Installed roofing materials\n- Aligned structural components\nConstruction Laborers, Reliable Build Group, 2007.06–2010.11\n- Assisted with roofing material handling\n- Mixed concrete and mortar\nEDUCATION\nSome college (no degree), Construction Management, Oakway University, 2002\n• Completed coursework in demolition procedures\n• Studied fundamentals of job site communication"
+}

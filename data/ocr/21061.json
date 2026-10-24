@@ -1,0 +1,213 @@
+{
+  "id": "21061",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.845,
+  "n_lines": 15,
+  "mean_score": 0.9815,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MICHAEL CARSON",
+      "score": 0.9752,
+      "box": [
+        116,
+        90,
+        425,
+        121
+      ]
+    },
+    {
+      "text": "IA, USA|+1-513-385-3355 |michael.carson@example.com",
+      "score": 0.9773,
+      "box": [
+        115,
+        150,
+        672,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueLine Builders, 2020.01–2023.01",
+      "score": 0.9815,
+      "box": [
+        115,
+        289,
+        670,
+        313
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9812,
+      "box": [
+        126,
+        314,
+        441,
+        339
+      ]
+    },
+    {
+      "text": "- Developed construction workflows",
+      "score": 0.977,
+      "box": [
+        127,
+        340,
+        458,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Craft Builders, 2017.01–2020.01",
+      "score": 0.9802,
+      "box": [
+        115,
+        382,
+        704,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared site reports",
+      "score": 0.9817,
+      "box": [
+        125,
+        406,
+        338,
+        432
+      ]
+    },
+    {
+      "text": "- Installed electrical wiring supports",
+      "score": 0.9722,
+      "box": [
+        125,
+        431,
+        454,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, Frontier Build Co., 2014.01–2017.01",
+      "score": 0.9874,
+      "box": [
+        116,
+        472,
+        669,
+        495
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9882,
+      "box": [
+        125,
+        496,
+        426,
+        521
+      ]
+    },
+    {
+      "text": "- Set up ladders and basic scaffolding",
+      "score": 0.9668,
+      "box": [
+        125,
+        520,
+        477,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Safety, Windcrest High School, 2013",
+      "score": 0.9914,
+      "box": [
+        115,
+        631,
+        840,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of power tool operation",
+      "score": 0.9781,
+      "box": [
+        132,
+        656,
+        568,
+        681
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "MICHAEL CARSON\nIA, USA|+1-513-385-3355 |michael.carson@example.com\nWORK HISTORY\nConstruction Laborers, TrueLine Builders, 2020.01–2023.01\n- Led complex demolition projects\n- Developed construction workflows\nConstruction Laborers, Unified Craft Builders, 2017.01–2020.01\n- Prepared site reports\n- Installed electrical wiring supports\nConstruction Laborers, Frontier Build Co., 2014.01–2017.01\n- Prepared scaffolding platforms\n- Set up ladders and basic scaffolding\nEDUCATION\nHigh school graduate/GED, Construction Safety, Windcrest High School, 2013\n• Studied fundamentals of power tool operation"
+}

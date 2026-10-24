@@ -1,0 +1,239 @@
+{
+  "id": "08526",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.929,
+  "n_lines": 17,
+  "mean_score": 0.9805,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "EVAN HUANG",
+      "score": 0.9865,
+      "box": [
+        117,
+        90,
+        342,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-764-619-6372 |evan.huang@example.com",
+      "score": 0.9845,
+      "box": [
+        117,
+        151,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9875,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softstack Digital, 2020.03–2023.01",
+      "score": 0.9741,
+      "box": [
+        116,
+        290,
+        644,
+        313
+      ]
+    },
+    {
+      "text": "- Designed configuration management systems",
+      "score": 0.9919,
+      "box": [
+        126,
+        314,
+        566,
+        339
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.979,
+      "box": [
+        126,
+        339,
+        431,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Flowframe Labs, 2017.05–2020.03",
+      "score": 0.9868,
+      "box": [
+        116,
+        382,
+        645,
+        405
+      ]
+    },
+    {
+      "text": "- Implemented feature flags",
+      "score": 0.9675,
+      "box": [
+        126,
+        406,
+        384,
+        432
+      ]
+    },
+    {
+      "text": "- Built reusable libraries",
+      "score": 0.9917,
+      "box": [
+        127,
+        433,
+        347,
+        453
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Software, 2014.07–2017.05",
+      "score": 0.983,
+      "box": [
+        115,
+        471,
+        673,
+        496
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9614,
+      "box": [
+        124,
+        496,
+        448,
+        521
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9616,
+      "box": [
+        126,
+        521,
+        352,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Valley View University, 2015",
+      "score": 0.9858,
+      "box": [
+        115,
+        632,
+        471,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Shady Grove University, 2013",
+      "score": 0.9811,
+      "box": [
+        114,
+        656,
+        503,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in fault tolerance",
+      "score": 0.9855,
+      "box": [
+        133,
+        682,
+        521,
+        705
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of collaborative development",
+      "score": 0.9619,
+      "box": [
+        132,
+        706,
+        623,
+        731
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "EVAN HUANG\nCA, USA|+1-764-619-6372 |evan.huang@example.com\nWORK HISTORY\nSoftware Developers, Softstack Digital, 2020.03–2023.01\n- Designed configuration management systems\n- Led system reliability programs\nSoftware Developers, Flowframe Labs, 2017.05–2020.03\n- Implemented feature flags\n- Built reusable libraries\nSoftware Developers, Codefield Software, 2014.07–2017.05\n- Performed basic APl integrations\n- Wrote integration tests\nEDUCATION\nMaster's, Valley View University, 2015\nBachelor's, Shady Grove University, 2013\n• Completed coursework in fault tolerance\n• Studied fundamentals of collaborative development"
+}

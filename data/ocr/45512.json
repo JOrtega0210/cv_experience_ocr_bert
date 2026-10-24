@@ -1,0 +1,174 @@
+{
+  "id": "45512",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.824,
+  "n_lines": 12,
+  "mean_score": 0.9846,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "GIANCARLO BROOKS",
+      "score": 0.9887,
+      "box": [
+        116,
+        88,
+        477,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA|+1-537-217-8430|giancarlo.brooks@example.com",
+      "score": 0.9796,
+      "box": [
+        115,
+        150,
+        693,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongWay Builders, 2021.01–2023.01",
+      "score": 0.9879,
+      "box": [
+        115,
+        290,
+        692,
+        313
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.983,
+      "box": [
+        126,
+        315,
+        478,
+        339
+      ]
+    },
+    {
+      "text": "- Developed cost estimation models",
+      "score": 0.965,
+      "box": [
+        127,
+        340,
+        460,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWay Construction, 2016.12–2019.01",
+      "score": 0.9952,
+      "box": [
+        116,
+        382,
+        718,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.9683,
+      "box": [
+        126,
+        407,
+        512,
+        430
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.987,
+      "box": [
+        126,
+        432,
+        425,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, General Construction, Parkview High School, 2013",
+      "score": 0.9943,
+      "box": [
+        116,
+        541,
+        846,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction workflow coordination",
+      "score": 0.9835,
+      "box": [
+        135,
+        567,
+        708,
+        587
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "GIANCARLO BROOKS\nPA, USA|+1-537-217-8430|giancarlo.brooks@example.com\nWORK HISTORY\nConstruction Laborers, StrongWay Builders, 2021.01–2023.01\n- Designed construction staging plans\n- Developed cost estimation models\nConstruction Laborers, SolidWay Construction, 2016.12–2019.01\n- Prepared surfaces for construction work\n- Assisted with excavation tasks\nEDUCATION\nHigh school graduate/GED, General Construction, Parkview High School, 2013\n• Completed coursework in construction workflow coordination"
+}

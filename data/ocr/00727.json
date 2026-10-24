@@ -1,0 +1,252 @@
+{
+  "id": "00727",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.109,
+  "n_lines": 18,
+  "mean_score": 0.9765,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "STEPHEN PARKER",
+      "score": 0.9714,
+      "box": [
+        116,
+        90,
+        426,
+        120
+      ]
+    },
+    {
+      "text": "AL, USA |+1-936-227-4973 | stephen.parker@example.com",
+      "score": 0.9594,
+      "box": [
+        116,
+        152,
+        677,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildCraft Co., 2019.06–2023.01",
+      "score": 0.9645,
+      "box": [
+        115,
+        290,
+        637,
+        313
+      ]
+    },
+    {
+      "text": "- Led structural installation projects",
+      "score": 0.9773,
+      "box": [
+        127,
+        315,
+        452,
+        338
+      ]
+    },
+    {
+      "text": "- Directed training programs for crews",
+      "score": 0.9602,
+      "box": [
+        126,
+        339,
+        478,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Frame Builders, 2015.11–2019.6",
+      "score": 0.9659,
+      "box": [
+        115,
+        381,
+        721,
+        405
+      ]
+    },
+    {
+      "text": "- Directed project execution strategies",
+      "score": 0.9857,
+      "box": [
+        125,
+        406,
+        479,
+        431
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9851,
+      "box": [
+        126,
+        431,
+        441,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidForm Contractors, 2011.04–2014.11",
+      "score": 0.9863,
+      "box": [
+        115,
+        472,
+        717,
+        495
+      ]
+    },
+    {
+      "text": "- Installed framing components",
+      "score": 0.9835,
+      "box": [
+        125,
+        496,
+        415,
+        522
+      ]
+    },
+    {
+      "text": "- Led small work crews",
+      "score": 0.9443,
+      "box": [
+        126,
+        521,
+        342,
+        544
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidRise Construction, 2006.06–2010.02",
+      "score": 0.9842,
+      "box": [
+        114,
+        563,
+        720,
+        588
+      ]
+    },
+    {
+      "text": "- Mixed concrete and mortar",
+      "score": 0.977,
+      "box": [
+        126,
+        589,
+        391,
+        612
+      ]
+    },
+    {
+      "text": "- Performed basic demolition tasks",
+      "score": 0.9755,
+      "box": [
+        127,
+        614,
+        448,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Welding Technology, Silverfield High School, 1998",
+      "score": 0.9843,
+      "box": [
+        116,
+        725,
+        844,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic painting techniques",
+      "score": 0.989,
+      "box": [
+        133,
+        749,
+        624,
+        772
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "STEPHEN PARKER\nAL, USA |+1-936-227-4973 | stephen.parker@example.com\nWORK HISTORY\nConstruction Laborers, BuildCraft Co., 2019.06–2023.01\n- Led structural installation projects\n- Directed training programs for crews\nConstruction Laborers, Unified Frame Builders, 2015.11–2019.6\n- Directed project execution strategies\n- Led complex demolition projects\nConstruction Laborers, SolidForm Contractors, 2011.04–2014.11\n- Installed framing components\n- Led small work crews\nConstruction Laborers, SolidRise Construction, 2006.06–2010.02\n- Mixed concrete and mortar\n- Performed basic demolition tasks\nEDUCATION\nHigh school graduate/GED, Welding Technology, Silverfield High School, 1998\n• Completed coursework in basic painting techniques"
+}

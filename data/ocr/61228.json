@@ -1,0 +1,148 @@
+{
+  "id": "61228",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.755,
+  "n_lines": 10,
+  "mean_score": 0.9808,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TYLER COMBS",
+      "score": 0.9581,
+      "box": [
+        115,
+        90,
+        361,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-329-270-5315 |tyler.combs@example.com",
+      "score": 0.9799,
+      "box": [
+        116,
+        151,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stoneframe Tech, 2020.05–2023.01",
+      "score": 0.9954,
+      "box": [
+        116,
+        290,
+        655,
+        313
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9586,
+      "box": [
+        127,
+        316,
+        340,
+        340
+      ]
+    },
+    {
+      "text": "- Updated configuration files",
+      "score": 0.9859,
+      "box": [
+        126,
+        340,
+        389,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Canyon View University, 2023",
+      "score": 0.9687,
+      "box": [
+        116,
+        449,
+        647,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in cloud services integration",
+      "score": 0.9881,
+      "box": [
+        133,
+        474,
+        624,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of versioning stategies",
+      "score": 0.9919,
+      "box": [
+        133,
+        498,
+        533,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "TYLER COMBS\nWI, USA|+1-329-270-5315 |tyler.combs@example.com\nWORK HISTORY\nSoftware Developers, Stoneframe Tech, 2020.05–2023.01\n- Updated routing logic\n- Updated configuration files\nEDUCATION\nSome college (no degree), Canyon View University, 2023\n• Completed coursework in cloud services integration\n• Studied principles of versioning stategies"
+}

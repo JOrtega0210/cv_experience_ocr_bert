@@ -1,0 +1,187 @@
+{
+  "id": "34482",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.797,
+  "n_lines": 13,
+  "mean_score": 0.9801,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BROOKECHUNG",
+      "score": 0.9991,
+      "box": [
+        116,
+        90,
+        397,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-515-816-1869|brooke.chung@example.com",
+      "score": 0.9888,
+      "box": [
+        116,
+        151,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9813,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Group, 2021.04–2023.01",
+      "score": 0.9726,
+      "box": [
+        114,
+        289,
+        673,
+        313
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9748,
+      "box": [
+        126,
+        314,
+        427,
+        339
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9934,
+      "box": [
+        126,
+        339,
+        547,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2019.07–2021.04",
+      "score": 0.9831,
+      "box": [
+        114,
+        381,
+        714,
+        405
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9808,
+      "box": [
+        126,
+        405,
+        413,
+        431
+      ]
+    },
+    {
+      "text": "- Maintained vendor records",
+      "score": 0.975,
+      "box": [
+        127,
+        430,
+        389,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Accounting, Fairview University, 2023",
+      "score": 0.9483,
+      "box": [
+        114,
+        539,
+        648,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in lease accounting",
+      "score": 0.9721,
+      "box": [
+        133,
+        565,
+        546,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial modeling basics",
+      "score": 0.9734,
+      "box": [
+        134,
+        590,
+        622,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "BROOKECHUNG\nNJ, USA|+1-515-816-1869|brooke.chung@example.com\nWORK HISTORY\nAccountants Auditors, AccuLedger Group, 2021.04–2023.01\n- Managed financial governance\n- Established compliance monitoring systems\nAccountants Auditors, Balanced Books Group, 2019.07–2021.04\n- Tracked budget expenditures\n- Maintained vendor records\nEDUCATION\nBachelor's, Applied Accounting, Fairview University, 2023\n• Completed coursework in lease accounting\n• Completed coursework in financial modeling basics"
+}

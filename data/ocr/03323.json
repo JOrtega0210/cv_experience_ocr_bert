@@ -1,0 +1,226 @@
+{
+  "id": "03323",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.906,
+  "n_lines": 16,
+  "mean_score": 0.9772,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DARRICK WEBSTER",
+      "score": 0.9666,
+      "box": [
+        116,
+        90,
+        447,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA|+1-286-959-5332 |darrick.webster@example.com",
+      "score": 0.9749,
+      "box": [
+        117,
+        151,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9833,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Corefield Labs, 2020.09–2023.01",
+      "score": 0.9815,
+      "box": [
+        116,
+        290,
+        629,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9725,
+      "box": [
+        127,
+        315,
+        466,
+        338
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9879,
+      "box": [
+        126,
+        339,
+        445,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Openfield Labs, 2018.05–2020.09",
+      "score": 0.9786,
+      "box": [
+        115,
+        381,
+        637,
+        406
+      ]
+    },
+    {
+      "text": "- Built frontend components",
+      "score": 0.9648,
+      "box": [
+        125,
+        405,
+        386,
+        432
+      ]
+    },
+    {
+      "text": "- Improved APl performance",
+      "score": 0.9739,
+      "box": [
+        126,
+        430,
+        392,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Bluepoint Digital, 2013.08–2015.12",
+      "score": 0.9857,
+      "box": [
+        115,
+        471,
+        648,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9486,
+      "box": [
+        126,
+        498,
+        446,
+        522
+      ]
+    },
+    {
+      "text": "- Wrote utility scripts",
+      "score": 0.9742,
+      "box": [
+        126,
+        521,
+        318,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Fairhill University, 2002",
+      "score": 0.9761,
+      "box": [
+        115,
+        632,
+        443,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of test-driven development",
+      "score": 0.9926,
+      "box": [
+        132,
+        656,
+        565,
+        682
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of build systems",
+      "score": 0.9748,
+      "box": [
+        133,
+        681,
+        506,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "DARRICK WEBSTER\nCA, USA|+1-286-959-5332 |darrick.webster@example.com\nWORK HISTORY\nSoftware Developers, Corefield Labs, 2020.09–2023.01\n- Implemented security architectures\n- Designed observability platforms\nSoftware Developers, Openfield Labs, 2018.05–2020.09\n- Built frontend components\n- Improved APl performance\nSoftware Developers, Bluepoint Digital, 2013.08–2015.12\n- Implemented error handling logic\n- Wrote utility scripts\nEDUCATION\nBachelor's, Fairhill University, 2002\n• Studied principles of test-driven development\n• Studied fundamentals of build systems"
+}

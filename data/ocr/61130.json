@@ -1,0 +1,187 @@
+{
+  "id": "61130",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.827,
+  "n_lines": 13,
+  "mean_score": 0.9822,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CYWYATT",
+      "score": 0.9974,
+      "box": [
+        115,
+        88,
+        294,
+        122
+      ]
+    },
+    {
+      "text": "WI, USA |+1-222-305-4598 |cy.wyatt@example.com",
+      "score": 0.9653,
+      "box": [
+        116,
+        150,
+        613,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9839,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skybridge Labs, 2021.02–2023.01",
+      "score": 0.9964,
+      "box": [
+        116,
+        290,
+        639,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9737,
+      "box": [
+        126,
+        314,
+        423,
+        337
+      ]
+    },
+    {
+      "text": "- Designed high-availability systems",
+      "score": 0.9776,
+      "box": [
+        126,
+        339,
+        461,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Clearwave Digital, 2019.02–2021.02",
+      "score": 0.9919,
+      "box": [
+        115,
+        381,
+        659,
+        406
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.9758,
+      "box": [
+        127,
+        408,
+        485,
+        431
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.984,
+      "box": [
+        126,
+        431,
+        502,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Willowview University, 2020",
+      "score": 0.9557,
+      "box": [
+        115,
+        541,
+        483,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of operating systems",
+      "score": 0.9876,
+      "box": [
+        132,
+        565,
+        511,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in data structures implementation",
+      "score": 0.9808,
+      "box": [
+        133,
+        590,
+        674,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "CYWYATT\nWI, USA |+1-222-305-4598 |cy.wyatt@example.com\nWORK HISTORY\nSoftware Developers, Skybridge Labs, 2021.02–2023.01\n- Implemented core frameworks\n- Designed high-availability systems\nSoftware Developers, Clearwave Digital, 2019.02–2021.02\n- Logged and tracked software defects\n- Wrote scripts for data processing tasks\nEDUCATION\nBachelor's, Willowview University, 2020\n• Studied principles of operating systems\n• Completed coursework in data structures implementation"
+}

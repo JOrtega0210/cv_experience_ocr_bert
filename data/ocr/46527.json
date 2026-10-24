@@ -1,0 +1,187 @@
+{
+  "id": "46527",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.804,
+  "n_lines": 13,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOHANNA MILLS",
+      "score": 0.9865,
+      "box": [
+        116,
+        90,
+        393,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-299-961-2959 |johanna.mills@example.com",
+      "score": 0.9691,
+      "box": [
+        115,
+        150,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9758,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Hands Nursing, 2021.05–2023.01",
+      "score": 0.9954,
+      "box": [
+        116,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9873,
+      "box": [
+        127,
+        315,
+        548,
+        338
+      ]
+    },
+    {
+      "text": "- Managed patient outcome evaluation systems",
+      "score": 0.9885,
+      "box": [
+        126,
+        339,
+        567,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeHands Care Center, 2017.06–2019.03",
+      "score": 0.9899,
+      "box": [
+        116,
+        382,
+        698,
+        405
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.9865,
+      "box": [
+        125,
+        406,
+        471,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared medication trays",
+      "score": 0.9751,
+      "box": [
+        126,
+        430,
+        387,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Pediatric Care, Hillview University, 2012",
+      "score": 0.9857,
+      "box": [
+        115,
+        541,
+        597,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of evidence-based practice",
+      "score": 0.9695,
+      "box": [
+        133,
+        566,
+        569,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in nonpharmacologic pain relief",
+      "score": 0.9827,
+      "box": [
+        133,
+        590,
+        656,
+        613
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JOHANNA MILLS\nPA, USA|+1-299-961-2959 |johanna.mills@example.com\nWORK HISTORY\nRegistered Nurses, Helping Hands Nursing, 2021.05–2023.01\n- Developed clinical performance dashboards\n- Managed patient outcome evaluation systems\nRegistered Nurses, SafeHands Care Center, 2017.06–2019.03\n- Recorded patient weight and height\n- Prepared medication trays\nEDUCATION\nBachelor's, Pediatric Care, Hillview University, 2012\n• Studied principles of evidence-based practice\n• Completed coursework in nonpharmacologic pain relief"
+}

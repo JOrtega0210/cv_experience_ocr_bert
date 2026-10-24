@@ -1,0 +1,226 @@
+{
+  "id": "16977",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.031,
+  "n_lines": 16,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRANDON BARNES",
+      "score": 0.9794,
+      "box": [
+        117,
+        90,
+        439,
+        121
+      ]
+    },
+    {
+      "text": "ID, USA|+1-869-981-3814 |brandon.barnes@example.com",
+      "score": 0.9939,
+      "box": [
+        116,
+        152,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWay Construction, 2020.11–2023.01",
+      "score": 0.9869,
+      "box": [
+        115,
+        290,
+        717,
+        312
+      ]
+    },
+    {
+      "text": "- Managed multi-phase projects",
+      "score": 0.981,
+      "box": [
+        126,
+        314,
+        422,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9838,
+      "box": [
+        127,
+        340,
+        488,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Build Co., 2018.09–2020.11",
+      "score": 0.9928,
+      "box": [
+        116,
+        382,
+        683,
+        405
+      ]
+    },
+    {
+      "text": "- Installed retaining structures",
+      "score": 0.9908,
+      "box": [
+        125,
+        406,
+        404,
+        431
+      ]
+    },
+    {
+      "text": "- Installed concrete reinforcements",
+      "score": 0.9806,
+      "box": [
+        127,
+        432,
+        448,
+        453
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeWay Construction, 2015.06–2017.08",
+      "score": 0.9878,
+      "box": [
+        116,
+        472,
+        727,
+        496
+      ]
+    },
+    {
+      "text": "- Applied basic sealants and adhesives",
+      "score": 0.9728,
+      "box": [
+        127,
+        498,
+        490,
+        521
+      ]
+    },
+    {
+      "text": "- Mixed concrete and mortar",
+      "score": 0.9608,
+      "box": [
+        127,
+        522,
+        391,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Skills, Clearwood University, 2006",
+      "score": 0.9798,
+      "box": [
+        115,
+        631,
+        808,
+        656
+      ]
+    },
+    {
+      "text": "•Completed coursework in construction site cleanup",
+      "score": 0.9845,
+      "box": [
+        132,
+        656,
+        620,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of site safety protocols",
+      "score": 0.9613,
+      "box": [
+        134,
+        681,
+        526,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "BRANDON BARNES\nID, USA|+1-869-981-3814 |brandon.barnes@example.com\nWORK HISTORY\nConstruction Laborers, SolidWay Construction, 2020.11–2023.01\n- Managed multi-phase projects\n- Reviewed compliance documentation\nConstruction Laborers, Precision Build Co., 2018.09–2020.11\n- Installed retaining structures\n- Installed concrete reinforcements\nConstruction Laborers, PrimeWay Construction, 2015.06–2017.08\n- Applied basic sealants and adhesives\n- Mixed concrete and mortar\nEDUCATION\nSome college (no degree), Construction Skills, Clearwood University, 2006\n•Completed coursework in construction site cleanup\n• Studied principles of site safety protocols"
+}

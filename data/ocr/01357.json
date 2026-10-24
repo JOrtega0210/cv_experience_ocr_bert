@@ -1,0 +1,226 @@
+{
+  "id": "01357",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.972,
+  "n_lines": 16,
+  "mean_score": 0.9824,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KAYLA JENKINS",
+      "score": 0.9876,
+      "box": [
+        116,
+        90,
+        387,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-723-503-2719|kayla.jenkins@example.com",
+      "score": 0.9837,
+      "box": [
+        116,
+        152,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenBridge Nursing Services, 2020.05–2023.01",
+      "score": 0.9915,
+      "box": [
+        115,
+        289,
+        749,
+        314
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.9725,
+      "box": [
+        126,
+        313,
+        424,
+        339
+      ]
+    },
+    {
+      "text": "- Led patient experience improvement programs",
+      "score": 0.9851,
+      "box": [
+        126,
+        339,
+        574,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverHands Health Services, 2017.08–2020.05",
+      "score": 0.9875,
+      "box": [
+        115,
+        381,
+        731,
+        406
+      ]
+    },
+    {
+      "text": "- Coordinated interdisciplinary care",
+      "score": 0.9965,
+      "box": [
+        126,
+        406,
+        452,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented infection prevention protocols",
+      "score": 0.9746,
+      "box": [
+        126,
+        431,
+        540,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleLife Health, 2013.04–2016.01",
+      "score": 0.9681,
+      "box": [
+        115,
+        471,
+        635,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored patient recovery",
+      "score": 0.9616,
+      "box": [
+        125,
+        496,
+        390,
+        523
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.9832,
+      "box": [
+        126,
+        521,
+        512,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Services, Northfield University, 2011",
+      "score": 0.9869,
+      "box": [
+        114,
+        631,
+        627,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of health screening",
+      "score": 0.9755,
+      "box": [
+        132,
+        656,
+        495,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of wound assessment",
+      "score": 0.9796,
+      "box": [
+        134,
+        682,
+        558,
+        704
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "KAYLA JENKINS\nAZ, USA|+1-723-503-2719|kayla.jenkins@example.com\nWORK HISTORY\nRegistered Nurses, OpenBridge Nursing Services, 2020.05–2023.01\n- Led infection control programs\n- Led patient experience improvement programs\nRegistered Nurses, EverHands Health Services, 2017.08–2020.05\n- Coordinated interdisciplinary care\n- Implemented infection prevention protocols\nRegistered Nurses, GentleLife Health, 2013.04–2016.01\n- Monitored patient recovery\n- Performed basic life support procedures\nEDUCATION\nBachelor's, Health Services, Northfield University, 2011\n• Studied principles of health screening\n• Studied fundamentals of wound assessment"
+}

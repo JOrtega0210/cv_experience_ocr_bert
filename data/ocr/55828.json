@@ -1,0 +1,174 @@
+{
+  "id": "55828",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.835,
+  "n_lines": 12,
+  "mean_score": 0.9855,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MANUEL ODONNELL",
+      "score": 0.9785,
+      "box": [
+        116,
+        90,
+        457,
+        120
+      ]
+    },
+    {
+      "text": "VT, USA|+1-508-221-5166|manuel.odonnell@example.com",
+      "score": 0.9747,
+      "box": [
+        115,
+        150,
+        691,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Workforce Construction, 2021.02–2023.01",
+      "score": 0.9891,
+      "box": [
+        115,
+        290,
+        725,
+        313
+      ]
+    },
+    {
+      "text": "- Supervised large structural repairs",
+      "score": 0.9791,
+      "box": [
+        127,
+        315,
+        460,
+        338
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.9871,
+      "box": [
+        127,
+        338,
+        448,
+        362
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextFrame Construction, 2016.05–2018.5",
+      "score": 0.9844,
+      "box": [
+        115,
+        381,
+        735,
+        405
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.991,
+      "box": [
+        125,
+        406,
+        493,
+        431
+      ]
+    },
+    {
+      "text": "- Moved equipment between work zones",
+      "score": 0.9758,
+      "box": [
+        126,
+        430,
+        504,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Supervision, Northcrest High School, 2014",
+      "score": 0.9956,
+      "box": [
+        116,
+        541,
+        893,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic concrete reinforcement",
+      "score": 0.9888,
+      "box": [
+        135,
+        567,
+        657,
+        587
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "MANUEL ODONNELL\nVT, USA|+1-508-221-5166|manuel.odonnell@example.com\nWORK HISTORY\nConstruction Laborers, Workforce Construction, 2021.02–2023.01\n- Supervised large structural repairs\n- Led cross-functional coordination\nConstruction Laborers, NextFrame Construction, 2016.05–2018.5\n- Assembled prefabricated components\n- Moved equipment between work zones\nEDUCATION\nHigh school graduate/GED, Construction Supervision, Northcrest High School, 2014\n• Completed coursework in basic concrete reinforcement"
+}

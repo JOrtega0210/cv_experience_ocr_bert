@@ -1,0 +1,135 @@
+{
+  "id": "19322",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.786,
+  "n_lines": 9,
+  "mean_score": 0.984,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "THOMAS SIMS",
+      "score": 0.9904,
+      "box": [
+        115,
+        90,
+        354,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-516-794-3216 |thomas.sims@example.com",
+      "score": 0.9871,
+      "box": [
+        116,
+        152,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9815,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkLine Contractors, 2021.03–2023.01",
+      "score": 0.9752,
+      "box": [
+        115,
+        289,
+        707,
+        312
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.9639,
+      "box": [
+        127,
+        315,
+        481,
+        339
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.9848,
+      "box": [
+        126,
+        339,
+        475,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Carpentry, Stonehaven High School, 2022",
+      "score": 0.9899,
+      "box": [
+        116,
+        449,
+        768,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of structural support systems",
+      "score": 0.985,
+      "box": [
+        132,
+        473,
+        586,
+        498
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "THOMAS SIMS\nIL, USA|+1-516-794-3216 |thomas.sims@example.com\nWORK HISTORY\nConstruction Laborers, WorkLine Contractors, 2021.03–2023.01\n- Supported crew leaders during tasks\n- Marked measurements on materials\nEDUCATION\nHigh school graduate/GED, Carpentry, Stonehaven High School, 2022\n• Studied principles of structural support systems"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "27344",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.814,
+  "n_lines": 16,
+  "mean_score": 0.9813,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRANDON NEAL",
+      "score": 0.9704,
+      "box": [
+        116,
+        90,
+        389,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-310-465-3537| brandon.neal@example.com",
+      "score": 0.9812,
+      "box": [
+        116,
+        152,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9871,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corecrest Labs, 2020.12–2023.01",
+      "score": 0.987,
+      "box": [
+        116,
+        290,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.9773,
+      "box": [
+        126,
+        314,
+        538,
+        339
+      ]
+    },
+    {
+      "text": "- Defined integration standards",
+      "score": 0.971,
+      "box": [
+        126,
+        339,
+        415,
+        362
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudstack Digital, 2018.11–2020.12",
+      "score": 0.9848,
+      "box": [
+        115,
+        381,
+        664,
+        406
+      ]
+    },
+    {
+      "text": "- Improved APl performance",
+      "score": 0.9782,
+      "box": [
+        126,
+        406,
+        392,
+        431
+      ]
+    },
+    {
+      "text": "- Wrote automated tests",
+      "score": 0.991,
+      "box": [
+        125,
+        429,
+        352,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Softpath Labs, 2015.06–2017.08",
+      "score": 0.9881,
+      "box": [
+        116,
+        472,
+        625,
+        496
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9846,
+      "box": [
+        125,
+        496,
+        501,
+        522
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9795,
+      "box": [
+        126,
+        521,
+        399,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Some college (no degree), Oakwood University, 207",
+      "score": 0.9569,
+      "box": [
+        115,
+        631,
+        614,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in logic and computation",
+      "score": 0.972,
+      "box": [
+        132,
+        656,
+        593,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of event-driven architecture",
+      "score": 0.9925,
+      "box": [
+        134,
+        681,
+        572,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "BRANDON NEAL\nMI, USA|+1-310-465-3537| brandon.neal@example.com\nWORK HISTORY\nSoftware Developers, Corecrest Labs, 2020.12–2023.01\n- Implemented long-term maintenance plans\n- Defined integration standards\nSoftware Developers, Cloudstack Digital, 2018.11–2020.12\n- Improved APl performance\n- Wrote automated tests\nSoftware Developers, Softpath Labs, 2015.06–2017.08\n- Configured development environments\n- Wrote configuration parsers\nEDUCATION\nSome college (no degree), Oakwood University, 207\n• Completed coursework in logic and computation\n• Studied principles of event-driven architecture"
+}

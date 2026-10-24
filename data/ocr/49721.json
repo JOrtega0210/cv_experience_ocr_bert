@@ -1,0 +1,213 @@
+{
+  "id": "49721",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.833,
+  "n_lines": 15,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TYLERCAIN",
+      "score": 0.9981,
+      "box": [
+        114,
+        88,
+        320,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA|+1-916-926-9815|tyler.cain@example.com",
+      "score": 0.9877,
+      "box": [
+        115,
+        150,
+        623,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9801,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmPoint Construction, 2020.06–2023.01",
+      "score": 0.9681,
+      "box": [
+        115,
+        289,
+        718,
+        313
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.9808,
+      "box": [
+        127,
+        315,
+        524,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.9954,
+      "box": [
+        126,
+        339,
+        444,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, LevelLine Builders, 2017.05–2019.12",
+      "score": 0.9862,
+      "box": [
+        115,
+        381,
+        679,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared construction schedules",
+      "score": 0.9836,
+      "box": [
+        126,
+        407,
+        445,
+        430
+      ]
+    },
+    {
+      "text": "- Operated power tools independently",
+      "score": 0.9688,
+      "box": [
+        126,
+        431,
+        477,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildPoint Co., 2014.03–2016.10",
+      "score": 0.9941,
+      "box": [
+        116,
+        472,
+        641,
+        495
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9786,
+      "box": [
+        125,
+        496,
+        440,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9956,
+      "box": [
+        127,
+        522,
+        424,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Skills, Northcrest High School, 2003",
+      "score": 0.9752,
+      "box": [
+        116,
+        633,
+        832,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction logistics planning",
+      "score": 0.9667,
+      "box": [
+        132,
+        656,
+        666,
+        682
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "TYLERCAIN\nTX, USA|+1-916-926-9815|tyler.cain@example.com\nWORK HISTORY\nConstruction Laborers, FirmPoint Construction, 2020.06–2023.01\n- Coordinated large-scale material logistics\n- Reviewed site inspection reports\nConstruction Laborers, LevelLine Builders, 2017.05–2019.12\n- Prepared construction schedules\n- Operated power tools independently\nConstruction Laborers, BuildPoint Co., 2014.03–2016.10\n- Installed basic flooring materials\n- Assisted with excavation tasks\nEDUCATION\nHigh school graduate/GED, Construction Skills, Northcrest High School, 2003\n• Completed coursework in construction logistics planning"
+}

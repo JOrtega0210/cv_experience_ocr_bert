@@ -1,0 +1,187 @@
+{
+  "id": "15551",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.913,
+  "n_lines": 13,
+  "mean_score": 0.9855,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "PORTERTODD",
+      "score": 0.9985,
+      "box": [
+        115,
+        90,
+        360,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-344-590-5993|porter.todd@example.com",
+      "score": 0.9837,
+      "box": [
+        116,
+        151,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9776,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Way Care, 2020.08–2023.01",
+      "score": 0.9899,
+      "box": [
+        116,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Designed clinical documentation standards",
+      "score": 0.976,
+      "box": [
+        127,
+        315,
+        539,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.9866,
+      "box": [
+        126,
+        339,
+        568,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunPath Nursing, 2018.02–2020.08",
+      "score": 0.9582,
+      "box": [
+        115,
+        381,
+        633,
+        406
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9873,
+      "box": [
+        125,
+        406,
+        399,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.9848,
+      "box": [
+        126,
+        430,
+        420,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Sciences, Oakfield University, 2021",
+      "score": 0.9836,
+      "box": [
+        115,
+        541,
+        630,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of patient identification",
+      "score": 0.991,
+      "box": [
+        133,
+        566,
+        526,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in healthcare law basics",
+      "score": 0.9969,
+      "box": [
+        134,
+        591,
+        589,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "PORTERTODD\nGA, USA|+1-344-590-5993|porter.todd@example.com\nWORK HISTORY\nRegistered Nurses, Compassion Way Care, 2020.08–2023.01\n- Designed clinical documentation standards\n- Implemented evidence-based practice models\nRegistered Nurses, SunPath Nursing, 2018.02–2020.08\n- Recorded patient vital signs\n- Assisted with patient transfers\nEDUCATION\nBachelor's, Medical Sciences, Oakfield University, 2021\n• Studied principles of patient identification\n• Completed coursework in healthcare law basics"
+}

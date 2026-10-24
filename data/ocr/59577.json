@@ -1,0 +1,278 @@
+{
+  "id": "59577",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.884,
+  "n_lines": 20,
+  "mean_score": 0.9803,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DUSTIN CHOI",
+      "score": 0.9749,
+      "box": [
+        115,
+        88,
+        338,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA|+1-304-420-9573|dustin.choi@example.com",
+      "score": 0.9859,
+      "box": [
+        114,
+        150,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openfield Tech, 2019.05–2023.01",
+      "score": 0.9889,
+      "box": [
+        114,
+        287,
+        636,
+        315
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9481,
+      "box": [
+        125,
+        313,
+        379,
+        338
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9923,
+      "box": [
+        126,
+        339,
+        450,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudpath Digital, 2015.08–2019.05",
+      "score": 0.9933,
+      "box": [
+        115,
+        381,
+        655,
+        406
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9634,
+      "box": [
+        126,
+        405,
+        410,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented release management strategies",
+      "score": 0.9819,
+      "box": [
+        126,
+        431,
+        561,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Skybridge Software, 2011.11–2015.08",
+      "score": 0.9817,
+      "box": [
+        114,
+        470,
+        678,
+        498
+      ]
+    },
+    {
+      "text": "- Implemented feature flags",
+      "score": 0.9691,
+      "box": [
+        126,
+        498,
+        384,
+        522
+      ]
+    },
+    {
+      "text": "- Developed access control logic",
+      "score": 0.9756,
+      "box": [
+        126,
+        521,
+        431,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Skyfield Tech, 2008.02–2011.11",
+      "score": 0.9818,
+      "box": [
+        115,
+        565,
+        621,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9844,
+      "box": [
+        126,
+        590,
+        479,
+        613
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.9757,
+      "box": [
+        127,
+        615,
+        484,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Forestview University, 209",
+      "score": 0.993,
+      "box": [
+        115,
+        725,
+        464,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Briarwood University, 2007",
+      "score": 0.9723,
+      "box": [
+        114,
+        747,
+        476,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in logging and monitoring",
+      "score": 0.9816,
+      "box": [
+        133,
+        774,
+        600,
+        798
+      ]
+    },
+    {
+      "text": "• Studied principles of software reliability",
+      "score": 0.9763,
+      "box": [
+        132,
+        798,
+        508,
+        823
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "DUSTIN CHOI\nWA, USA|+1-304-420-9573|dustin.choi@example.com\nWORK HISTORY\nSoftware Developers, Openfield Tech, 2019.05–2023.01\n- Defined coding standards\n- Defined data governance policies\nSoftware Developers, Cloudpath Digital, 2015.08–2019.05\n- Defined scalability roadmaps\n- Implemented release management strategies\nSoftware Developers, Skybridge Software, 2011.11–2015.08\n- Implemented feature flags\n- Developed access control logic\nSoftware Developers, Skyfield Tech, 2008.02–2011.11\n- Assisted with system documentation\n- Logged and tracked software defects\nEDUCATION\nMaster's, Forestview University, 209\nBachelor's, Briarwood University, 2007\n• Completed coursework in logging and monitoring\n• Studied principles of software reliability"
+}

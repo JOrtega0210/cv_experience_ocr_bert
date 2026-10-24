@@ -1,0 +1,239 @@
+{
+  "id": "03478",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.967,
+  "n_lines": 17,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BARNEY SINGH",
+      "score": 0.9699,
+      "box": [
+        116,
+        90,
+        375,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-770-638-9167 |barney.singh@example.com",
+      "score": 0.9926,
+      "box": [
+        117,
+        151,
+        660,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9865,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skycore Technologies, 2020.03–2023.01",
+      "score": 0.9892,
+      "box": [
+        115,
+        289,
+        700,
+        314
+      ]
+    },
+    {
+      "text": "- Defined quality assurance frameworks",
+      "score": 0.9899,
+      "box": [
+        126,
+        314,
+        495,
+        337
+      ]
+    },
+    {
+      "text": "- Implemented disaster recovery plans",
+      "score": 0.9903,
+      "box": [
+        126,
+        339,
+        483,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Corestack Tech, 2016.10–2019.08",
+      "score": 0.9918,
+      "box": [
+        115,
+        381,
+        643,
+        406
+      ]
+    },
+    {
+      "text": "- Developed RESTful APIs",
+      "score": 0.9842,
+      "box": [
+        126,
+        407,
+        376,
+        430
+      ]
+    },
+    {
+      "text": "- Built notification systems",
+      "score": 0.9704,
+      "box": [
+        125,
+        430,
+        372,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstone Systems, 2013.03–2016.01",
+      "score": 0.9824,
+      "box": [
+        115,
+        471,
+        681,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9726,
+      "box": [
+        126,
+        498,
+        605,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with container setup",
+      "score": 0.975,
+      "box": [
+        125,
+        521,
+        413,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Cedarview University, 2011",
+      "score": 0.9918,
+      "box": [
+        115,
+        632,
+        460,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Windfield University, 2009",
+      "score": 0.9739,
+      "box": [
+        114,
+        656,
+        467,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in microprocessor programming",
+      "score": 0.9607,
+      "box": [
+        132,
+        681,
+        660,
+        707
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of programming in Java",
+      "score": 0.9819,
+      "box": [
+        132,
+        706,
+        574,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "BARNEY SINGH\nCA, USA|+1-770-638-9167 |barney.singh@example.com\nWORK HISTORY\nSoftware Developers, Skycore Technologies, 2020.03–2023.01\n- Defined quality assurance frameworks\n- Implemented disaster recovery plans\nSoftware Developers, Corestack Tech, 2016.10–2019.08\n- Developed RESTful APIs\n- Built notification systems\nSoftware Developers, Clearstone Systems, 2013.03–2016.01\n- Implemented basic features in existing codebases\n- Assisted with container setup\nEDUCATION\nMaster's, Cedarview University, 2011\nBachelor's, Windfield University, 2009\n• Completed coursework in microprocessor programming\n• Studied fundamentals of programming in Java"
+}

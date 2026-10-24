@@ -1,0 +1,239 @@
+{
+  "id": "37473",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.904,
+  "n_lines": 17,
+  "mean_score": 0.9812,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JEFFREY SHARP",
+      "score": 0.9849,
+      "box": [
+        116,
+        90,
+        395,
+        120
+      ]
+    },
+    {
+      "text": "NY, USA|+1-928-296-3901 |jeffrey.sharp@example.com",
+      "score": 0.9867,
+      "box": [
+        115,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.982,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Services, 2020.03–2023.01",
+      "score": 0.9912,
+      "box": [
+        115,
+        290,
+        684,
+        312
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.9655,
+      "box": [
+        126,
+        314,
+        503,
+        339
+      ]
+    },
+    {
+      "text": "- Developed accounting innovation plans",
+      "score": 0.9763,
+      "box": [
+        127,
+        339,
+        505,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Group, 2017.05–2020.03",
+      "score": 0.9745,
+      "box": [
+        114,
+        381,
+        709,
+        406
+      ]
+    },
+    {
+      "text": "- Analyzed financial variances",
+      "score": 0.9846,
+      "box": [
+        127,
+        407,
+        407,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared regulatory reports",
+      "score": 0.9777,
+      "box": [
+        126,
+        430,
+        398,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ExactCount Services, 2014.07–2017.05",
+      "score": 0.9817,
+      "box": [
+        114,
+        471,
+        693,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with financial statement preparation",
+      "score": 0.9895,
+      "box": [
+        125,
+        496,
+        555,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.958,
+      "box": [
+        126,
+        521,
+        384,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Organizational Management, Pineview Ridge University, 2014",
+      "score": 0.984,
+      "box": [
+        114,
+        631,
+        781,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Cost Accounting, Shady Grove University, 2012",
+      "score": 0.9617,
+      "box": [
+        114,
+        656,
+        667,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of working capital management",
+      "score": 0.9932,
+      "box": [
+        132,
+        681,
+        646,
+        706
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of sustainability accounting basics",
+      "score": 0.9893,
+      "box": [
+        132,
+        706,
+        669,
+        731
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "JEFFREY SHARP\nNY, USA|+1-928-296-3901 |jeffrey.sharp@example.com\nWORK HISTORY\nAccountants Auditors, CoreCount Services, 2020.03–2023.01\n- Directed strategic accounting initiatives\n- Developed accounting innovation plans\nAccountants Auditors, Integrity Ledger Group, 2017.05–2020.03\n- Analyzed financial variances\n- Prepared regulatory reports\nAccountants Auditors, ExactCount Services, 2014.07–2017.05\n- Assisted with financial statement preparation\n- Prepared variance reports\nEDUCATION\nMaster's, Organizational Management, Pineview Ridge University, 2014\nBachelor's, Cost Accounting, Shady Grove University, 2012\n• Studied fundamentals of working capital management\n• Studied fundamentals of sustainability accounting basics"
+}

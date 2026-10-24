@@ -1,0 +1,148 @@
+{
+  "id": "01845",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.886,
+  "n_lines": 10,
+  "mean_score": 0.9837,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KATHERINE ADKINS",
+      "score": 0.9835,
+      "box": [
+        116,
+        90,
+        450,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-678-837-5754 |katherine.adkins@example.com",
+      "score": 0.9858,
+      "box": [
+        115,
+        151,
+        691,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.975,
+      "box": [
+        114,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Horizons School, 2021.11–2022.07",
+      "score": 0.9865,
+      "box": [
+        115,
+        290,
+        850,
+        313
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9846,
+      "box": [
+        126,
+        315,
+        410,
+        337
+      ]
+    },
+    {
+      "text": "- Prepared instructional materials and worksheets",
+      "score": 0.9832,
+      "box": [
+        126,
+        339,
+        588,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Early Childhood Education, Brookway University, 2011",
+      "score": 0.9787,
+      "box": [
+        115,
+        449,
+        729,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic teaching ethics",
+      "score": 0.9826,
+      "box": [
+        133,
+        474,
+        584,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional review methods",
+      "score": 0.9789,
+      "box": [
+        135,
+        500,
+        651,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "KATHERINE ADKINS\nAZ, USA|+1-678-837-5754 |katherine.adkins@example.com\nWORK HISTORY\nElementary Middle School Teachers, Bright Horizons School, 2021.11–2022.07\n- Provided math drill exercises\n- Prepared instructional materials and worksheets\nEDUCATION\nBachelor's, Early Childhood Education, Brookway University, 2011\n• Completed coursework in basic teaching ethics\n• Completed coursework in instructional review methods"
+}

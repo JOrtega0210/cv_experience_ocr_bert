@@ -1,0 +1,187 @@
+{
+  "id": "47579",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.773,
+  "n_lines": 13,
+  "mean_score": 0.9821,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KAYLA BULLOCK",
+      "score": 0.9829,
+      "box": [
+        116,
+        90,
+        407,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-580-902-1557 |kayla.bullock@example.com",
+      "score": 0.9777,
+      "box": [
+        116,
+        151,
+        660,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9847,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Software, 2020.08–2023.01",
+      "score": 0.9852,
+      "box": [
+        114,
+        288,
+        677,
+        313
+      ]
+    },
+    {
+      "text": "- Designed high-availability systems",
+      "score": 0.9593,
+      "box": [
+        125,
+        314,
+        461,
+        339
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9926,
+      "box": [
+        126,
+        339,
+        449,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Stonegrid Tech, 2018.02–2020.08",
+      "score": 0.9897,
+      "box": [
+        116,
+        382,
+        638,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed API documentation",
+      "score": 0.9706,
+      "box": [
+        126,
+        407,
+        417,
+        430
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9695,
+      "box": [
+        126,
+        431,
+        509,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Oakway University, 2019",
+      "score": 0.9723,
+      "box": [
+        115,
+        541,
+        457,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of virtualization",
+      "score": 0.9927,
+      "box": [
+        133,
+        566,
+        458,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in requirements engineering",
+      "score": 0.9916,
+      "box": [
+        133,
+        590,
+        625,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KAYLA BULLOCK\nSC, USA|+1-580-902-1557 |kayla.bullock@example.com\nWORK HISTORY\nSoftware Developers, Corewave Software, 2020.08–2023.01\n- Designed high-availability systems\n- Designed data storage strategies\nSoftware Developers, Stonegrid Tech, 2018.02–2020.08\n- Reviewed API documentation\n- Assisted with version control operations\nEDUCATION\nBachelor's, Oakway University, 2019\n• Studied principles of virtualization\n• Completed coursework in requirements engineering"
+}

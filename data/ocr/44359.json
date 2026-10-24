@@ -1,0 +1,200 @@
+{
+  "id": "44359",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.836,
+  "n_lines": 14,
+  "mean_score": 0.9865,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRADIEWALTER",
+      "score": 0.9982,
+      "box": [
+        116,
+        90,
+        398,
+        121
+      ]
+    },
+    {
+      "text": "OR, USA|+1-283-594-7068 |bradie.walter@example.com",
+      "score": 0.9904,
+      "box": [
+        116,
+        151,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9835,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2021.07–2023.01",
+      "score": 0.9758,
+      "box": [
+        114,
+        289,
+        713,
+        314
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9798,
+      "box": [
+        126,
+        315,
+        489,
+        338
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.984,
+      "box": [
+        126,
+        339,
+        556,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Group, 2018.03–2019.09",
+      "score": 0.9799,
+      "box": [
+        114,
+        381,
+        710,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9886,
+      "box": [
+        126,
+        406,
+        423,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with internal control testing",
+      "score": 0.9808,
+      "box": [
+        126,
+        431,
+        473,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Strategic Management, Clear Ridge University, 2016",
+      "score": 0.9893,
+      "box": [
+        114,
+        539,
+        694,
+        565
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Accounting, Cedarview University, 2014",
+      "score": 0.9834,
+      "box": [
+        115,
+        566,
+        670,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in supply chain accounting",
+      "score": 0.9902,
+      "box": [
+        133,
+        590,
+        612,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in compliance testing",
+      "score": 0.9892,
+      "box": [
+        134,
+        615,
+        562,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "BRADIEWALTER\nOR, USA|+1-283-594-7068 |bradie.walter@example.com\nWORK HISTORY\nAccountants Auditors, Balanced Books Group, 2021.07–2023.01\n- Directed financial system architecture\n- Directed accounting system implementations\nAccountants Auditors, Reliable Ledger Group, 2018.03–2019.09\n- Assisted with regulatory filings\n- Assisted with internal control testing\nEDUCATION\nMaster's, Strategic Management, Clear Ridge University, 2016\nBachelor's, Applied Accounting, Cedarview University, 2014\n• Completed coursework in supply chain accounting\n• Completed coursework in compliance testing"
+}

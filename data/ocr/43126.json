@@ -1,0 +1,226 @@
+{
+  "id": "43126",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.873,
+  "n_lines": 16,
+  "mean_score": 0.9803,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TAMMY ARCHER",
+      "score": 0.965,
+      "box": [
+        114,
+        90,
+        392,
+        120
+      ]
+    },
+    {
+      "text": "OH, USA | +1-323-377-9572 |tammy.archer@example.com",
+      "score": 0.9703,
+      "box": [
+        117,
+        151,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9819,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Group, 2021.01–2023.01",
+      "score": 0.9903,
+      "box": [
+        115,
+        289,
+        676,
+        313
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9757,
+      "box": [
+        128,
+        316,
+        452,
+        336
+      ]
+    },
+    {
+      "text": "- Designed budgeting methodologies",
+      "score": 0.9786,
+      "box": [
+        126,
+        339,
+        469,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Advisors, 2018.12–2021.01",
+      "score": 0.9788,
+      "box": [
+        114,
+        381,
+        676,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed financial disclosures",
+      "score": 0.9831,
+      "box": [
+        126,
+        407,
+        427,
+        429
+      ]
+    },
+    {
+      "text": "- Analyzed financial variances",
+      "score": 0.9837,
+      "box": [
+        126,
+        430,
+        407,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Group, 2015.06–2017.07",
+      "score": 0.9802,
+      "box": [
+        114,
+        471,
+        669,
+        496
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9732,
+      "box": [
+        125,
+        496,
+        414,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.9761,
+      "box": [
+        126,
+        521,
+        436,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Financial Planning, Harborview University, 2005",
+      "score": 0.9814,
+      "box": [
+        115,
+        631,
+        748,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of employee benefit accounting",
+      "score": 0.9759,
+      "box": [
+        132,
+        656,
+        643,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in tax accounting",
+      "score": 0.9914,
+      "box": [
+        135,
+        681,
+        523,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "TAMMY ARCHER\nOH, USA | +1-323-377-9572 |tammy.archer@example.com\nWORK HISTORY\nAccountants Auditors, ClearLedger Group, 2021.01–2023.01\n- Led financial data standardization\n- Designed budgeting methodologies\nAccountants Auditors, FairCount Advisors, 2018.12–2021.01\n- Reviewed financial disclosures\n- Analyzed financial variances\nAccountants Auditors, ClearCount Group, 2015.06–2017.07\n- Tracked budget expenditures\n- Prepared basic financial reports\nEDUCATION\nAssociate's degree, Financial Planning, Harborview University, 2005\n• Studied fundamentals of employee benefit accounting\n• Completed coursework in tax accounting"
+}

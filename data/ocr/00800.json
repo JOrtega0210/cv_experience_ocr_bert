@@ -1,0 +1,135 @@
+{
+  "id": "00800",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.836,
+  "n_lines": 9,
+  "mean_score": 0.981,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SEAN DANIELS",
+      "score": 0.9667,
+      "box": [
+        115,
+        90,
+        368,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA |+1-337-623-4626 | sean.daniels@example.com",
+      "score": 0.9596,
+      "box": [
+        116,
+        151,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9827,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearForm Builders, 2020.01–2022.05",
+      "score": 0.9851,
+      "box": [
+        115,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9831,
+      "box": [
+        126,
+        315,
+        425,
+        338
+      ]
+    },
+    {
+      "text": "- Followed safety procedures on site",
+      "score": 0.9739,
+      "box": [
+        126,
+        339,
+        465,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Safety, Maple Ridge High School, 2010",
+      "score": 0.9892,
+      "box": [
+        116,
+        449,
+        864,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of concrete mixing",
+      "score": 0.9902,
+      "box": [
+        132,
+        472,
+        524,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "SEAN DANIELS\nAL, USA |+1-337-623-4626 | sean.daniels@example.com\nWORK HISTORY\nConstruction Laborers, ClearForm Builders, 2020.01–2022.05\n- Assisted with excavation tasks\n- Followed safety procedures on site\nEDUCATION\nHigh school graduate/GED, Construction Safety, Maple Ridge High School, 2010\n• Studied fundamentals of concrete mixing"
+}

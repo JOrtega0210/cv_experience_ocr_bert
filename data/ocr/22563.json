@@ -1,0 +1,135 @@
+{
+  "id": "22563",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.755,
+  "n_lines": 9,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ARACELI ONEILL",
+      "score": 0.9707,
+      "box": [
+        116,
+        90,
+        398,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA|+1-288-864-5548 |araceli.oneill@example.com",
+      "score": 0.979,
+      "box": [
+        115,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9806,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidBuild Contractors, 2020.05–2023.01",
+      "score": 0.9879,
+      "box": [
+        115,
+        290,
+        713,
+        313
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.9857,
+      "box": [
+        127,
+        316,
+        481,
+        339
+      ]
+    },
+    {
+      "text": "- Measured and cut basic building materials",
+      "score": 0.9814,
+      "box": [
+        126,
+        339,
+        532,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Estimating, Bright Ridge High School, 2019",
+      "score": 0.9792,
+      "box": [
+        116,
+        449,
+        900,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic roofing installation",
+      "score": 0.9792,
+      "box": [
+        133,
+        474,
+        612,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "ARACELI ONEILL\nKY, USA|+1-288-864-5548 |araceli.oneill@example.com\nWORK HISTORY\nConstruction Laborers, SolidBuild Contractors, 2020.05–2023.01\n- Supported crew leaders during tasks\n- Measured and cut basic building materials\nEDUCATION\nHigh school graduate/GED, Construction Estimating, Bright Ridge High School, 2019\n• Completed coursework in basic roofing installation"
+}

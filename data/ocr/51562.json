@@ -1,0 +1,226 @@
+{
+  "id": "51562",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.828,
+  "n_lines": 16,
+  "mean_score": 0.9851,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ZACHARY FRIEDMAN",
+      "score": 0.9798,
+      "box": [
+        115,
+        90,
+        466,
+        120
+      ]
+    },
+    {
+      "text": "TX, USA|+1-522-347-5726|zachary.friedman@example.com",
+      "score": 0.9774,
+      "box": [
+        115,
+        150,
+        698,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9909,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Software Developers, Corestack Software, 2020.10–2023.01",
+      "score": 0.9903,
+      "box": [
+        116,
+        290,
+        677,
+        313
+      ]
+    },
+    {
+      "text": "-Led cross-team technical alignment",
+      "score": 0.9969,
+      "box": [
+        125,
+        314,
+        472,
+        339
+      ]
+    },
+    {
+      "text": "- Designed deployment strategies",
+      "score": 0.9759,
+      "box": [
+        126,
+        339,
+        441,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Softbridge Labs, 2018.06–2020.10",
+      "score": 0.9889,
+      "box": [
+        116,
+        382,
+        643,
+        405
+      ]
+    },
+    {
+      "text": "- Built containerized services",
+      "score": 0.9803,
+      "box": [
+        125,
+        405,
+        397,
+        431
+      ]
+    },
+    {
+      "text": "- Integrated messaging systems",
+      "score": 0.9839,
+      "box": [
+        126,
+        430,
+        425,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Cleargrid Software, 2016.02–2018.06",
+      "score": 0.9851,
+      "box": [
+        115,
+        471,
+        669,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented caching logic",
+      "score": 0.9803,
+      "box": [
+        126,
+        497,
+        390,
+        522
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9703,
+      "box": [
+        126,
+        521,
+        478,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearview University, 2017",
+      "score": 0.9935,
+      "box": [
+        115,
+        632,
+        473,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of microservices architecture",
+      "score": 0.9852,
+      "box": [
+        132,
+        656,
+        584,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of indexing techniques",
+      "score": 0.9838,
+      "box": [
+        133,
+        681,
+        563,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ZACHARY FRIEDMAN\nTX, USA|+1-522-347-5726|zachary.friedman@example.com\nWORK HISTORY\nSoftware Developers, Corestack Software, 2020.10–2023.01\n-Led cross-team technical alignment\n- Designed deployment strategies\nSoftware Developers, Softbridge Labs, 2018.06–2020.10\n- Built containerized services\n- Integrated messaging systems\nSoftware Developers, Cleargrid Software, 2016.02–2018.06\n- Implemented caching logic\n- Assisted with system documentation\nEDUCATION\nBachelor's, Clearview University, 2017\n• Studied principles of microservices architecture\n• Studied fundamentals of indexing techniques"
+}

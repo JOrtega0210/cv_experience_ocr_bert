@@ -1,0 +1,148 @@
+{
+  "id": "02370",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.875,
+  "n_lines": 10,
+  "mean_score": 0.9837,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KACEY MEADOWS",
+      "score": 0.9846,
+      "box": [
+        116,
+        90,
+        422,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-677-876-5990 |kacey.meadows@example.com",
+      "score": 0.993,
+      "box": [
+        116,
+        152,
+        691,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9827,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Field School, 2021.07–2023.01",
+      "score": 0.9861,
+      "box": [
+        116,
+        289,
+        837,
+        312
+      ]
+    },
+    {
+      "text": "-Maintained instructional logs",
+      "score": 0.9715,
+      "box": [
+        125,
+        314,
+        406,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented basic literacy lessons",
+      "score": 0.9685,
+      "box": [
+        126,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Child and Youth Studies, Silverfield University, 2019",
+      "score": 0.9877,
+      "box": [
+        115,
+        449,
+        707,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of knowledge retention",
+      "score": 0.9822,
+      "box": [
+        132,
+        472,
+        529,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom observation methods",
+      "score": 0.9824,
+      "box": [
+        135,
+        500,
+        683,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "KACEY MEADOWS\nAR, USA|+1-677-876-5990 |kacey.meadows@example.com\nWORK HISTORY\nElementary Middle School Teachers, Learning Field School, 2021.07–2023.01\n-Maintained instructional logs\n- Implemented basic literacy lessons\nEDUCATION\nBachelor's, Child and Youth Studies, Silverfield University, 2019\n• Studied principles of knowledge retention\n• Completed coursework in classroom observation methods"
+}

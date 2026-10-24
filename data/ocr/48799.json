@@ -1,0 +1,213 @@
+{
+  "id": "48799",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.866,
+  "n_lines": 15,
+  "mean_score": 0.9811,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MATTHEW GREENE",
+      "score": 0.9743,
+      "box": [
+        116,
+        90,
+        439,
+        120
+      ]
+    },
+    {
+      "text": "TN, USA|+1-936-707-6827 |matthew.greene@example.com",
+      "score": 0.9828,
+      "box": [
+        115,
+        150,
+        690,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyRise Construction, 2020.03–2023.01",
+      "score": 0.9715,
+      "box": [
+        114,
+        289,
+        736,
+        313
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.9713,
+      "box": [
+        126,
+        313,
+        448,
+        337
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.978,
+      "box": [
+        126,
+        339,
+        406,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronFrame Construction, 2017.05–2020.03",
+      "score": 0.9866,
+      "box": [
+        116,
+        382,
+        727,
+        405
+      ]
+    },
+    {
+      "text": "- Installed concrete reinforcements",
+      "score": 0.9879,
+      "box": [
+        126,
+        407,
+        449,
+        429
+      ]
+    },
+    {
+      "text": "- Coordinated task assignments",
+      "score": 0.9858,
+      "box": [
+        126,
+        430,
+        424,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmRise Construction, 2012.09–2015.07",
+      "score": 0.9908,
+      "box": [
+        116,
+        472,
+        715,
+        495
+      ]
+    },
+    {
+      "text": "- Assisted with site cleanup and debris removal",
+      "score": 0.9885,
+      "box": [
+        125,
+        496,
+        565,
+        521
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.976,
+      "box": [
+        126,
+        521,
+        399,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Foundations, Highland High School, 2007",
+      "score": 0.9836,
+      "box": [
+        116,
+        632,
+        885,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic paving techniques",
+      "score": 0.956,
+      "box": [
+        132,
+        656,
+        613,
+        681
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "MATTHEW GREENE\nTN, USA|+1-936-707-6827 |matthew.greene@example.com\nWORK HISTORY\nConstruction Laborers, SteadyRise Construction, 2020.03–2023.01\n- Led cross-functional coordination\n- Established site layout plans\nConstruction Laborers, IronFrame Construction, 2017.05–2020.03\n- Installed concrete reinforcements\n- Coordinated task assignments\nConstruction Laborers, FirmRise Construction, 2012.09–2015.07\n- Assisted with site cleanup and debris removal\n- Dug trenches for utility lines\nEDUCATION\nHigh school graduate/GED, Construction Foundations, Highland High School, 2007\n• Completed coursework in basic paving techniques"
+}

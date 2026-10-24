@@ -1,0 +1,239 @@
+{
+  "id": "14079",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.999,
+  "n_lines": 17,
+  "mean_score": 0.9872,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ERIKA BOWMAN",
+      "score": 0.9798,
+      "box": [
+        117,
+        90,
+        390,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-434-591-6505 |erika.bowman@example.com",
+      "score": 0.983,
+      "box": [
+        116,
+        151,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9848,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Hands Medical, 2020.08–2023.01",
+      "score": 0.9888,
+      "box": [
+        115,
+        289,
+        735,
+        314
+      ]
+    },
+    {
+      "text": "- Developed nursing policy frameworks",
+      "score": 0.9812,
+      "box": [
+        127,
+        315,
+        489,
+        338
+      ]
+    },
+    {
+      "text": "- Established clinical evaluation protocols",
+      "score": 0.9909,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelISpring Nursing Services, 2018.02–2020.08",
+      "score": 0.989,
+      "box": [
+        116,
+        383,
+        740,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored patient response to treatments",
+      "score": 0.9876,
+      "box": [
+        126,
+        406,
+        523,
+        431
+      ]
+    },
+    {
+      "text": "- Provided perioperative nursing care",
+      "score": 0.9922,
+      "box": [
+        126,
+        430,
+        472,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeHands Nursing Services, 2015.08–2018.02",
+      "score": 0.9795,
+      "box": [
+        116,
+        473,
+        743,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.991,
+      "box": [
+        126,
+        498,
+        479,
+        521
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.9875,
+      "box": [
+        126,
+        521,
+        471,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        114,
+        584,
+        269,
+        613
+      ]
+    },
+    {
+      "text": "Master's, Health Informatics, Meadowfield University, 2015",
+      "score": 0.9942,
+      "box": [
+        114,
+        631,
+        660,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Services, Silverfield University, 2013",
+      "score": 0.988,
+      "box": [
+        114,
+        656,
+        629,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of infusion pump use",
+      "score": 0.9762,
+      "box": [
+        132,
+        680,
+        549,
+        707
+      ]
+    },
+    {
+      "text": "• Completed coursework in prioritization in nursing",
+      "score": 0.9895,
+      "box": [
+        133,
+        706,
+        598,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "ERIKA BOWMAN\nFL, USA|+1-434-591-6505 |erika.bowman@example.com\nWORK HISTORY\nRegistered Nurses, Compassion Hands Medical, 2020.08–2023.01\n- Developed nursing policy frameworks\n- Established clinical evaluation protocols\nRegistered Nurses, WelISpring Nursing Services, 2018.02–2020.08\n- Monitored patient response to treatments\n- Provided perioperative nursing care\nRegistered Nurses, SafeHands Nursing Services, 2015.08–2018.02\n- Prepared medical equipment for use\n- Recorded patient weight and height\nEDUCATION\nMaster's, Health Informatics, Meadowfield University, 2015\nBachelor's, Health Services, Silverfield University, 2013\n• Studied fundamentals of infusion pump use\n• Completed coursework in prioritization in nursing"
+}

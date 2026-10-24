@@ -1,0 +1,200 @@
+{
+  "id": "36051",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.824,
+  "n_lines": 14,
+  "mean_score": 0.9817,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TERRI ZAMORA",
+      "score": 0.973,
+      "box": [
+        115,
+        90,
+        374,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-448-641-2416|terri.zamora@example.com",
+      "score": 0.9913,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9775,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Advisors, 2020.02–2023.01",
+      "score": 0.9839,
+      "box": [
+        115,
+        289,
+        707,
+        313
+      ]
+    },
+    {
+      "text": "-Directed accounting operations planning",
+      "score": 0.9816,
+      "box": [
+        125,
+        314,
+        515,
+        339
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9806,
+      "box": [
+        126,
+        339,
+        517,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2017.02–2020.02",
+      "score": 0.9877,
+      "box": [
+        114,
+        381,
+        715,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed credit memos",
+      "score": 0.947,
+      "box": [
+        126,
+        406,
+        366,
+        430
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.993,
+      "box": [
+        126,
+        430,
+        422,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        266,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Accounting and Auditing, Westfield University, 2015",
+      "score": 0.9857,
+      "box": [
+        114,
+        539,
+        685,
+        565
+      ]
+    },
+    {
+      "text": "Bachelor's, Auditing, Horizon University, 2013",
+      "score": 0.977,
+      "box": [
+        114,
+        564,
+        541,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in strategic cost management",
+      "score": 0.9904,
+      "box": [
+        133,
+        590,
+        640,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in segment reporting",
+      "score": 0.9768,
+      "box": [
+        134,
+        615,
+        557,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "TERRI ZAMORA\nNY, USA|+1-448-641-2416|terri.zamora@example.com\nWORK HISTORY\nAccountants Auditors, Reliable Path Advisors, 2020.02–2023.01\n-Directed accounting operations planning\n- Directed enterprise accounting platforms\nAccountants Auditors, Balanced Books Group, 2017.02–2020.02\n- Reviewed credit memos\n- Assisted with inventory counts\nEDUCATION\nMaster's, Accounting and Auditing, Westfield University, 2015\nBachelor's, Auditing, Horizon University, 2013\n• Completed coursework in strategic cost management\n• Completed coursework in segment reporting"
+}

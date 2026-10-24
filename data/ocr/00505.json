@@ -1,0 +1,187 @@
+{
+  "id": "00505",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.938,
+  "n_lines": 13,
+  "mean_score": 0.9855,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANDREA FOWLER",
+      "score": 0.9838,
+      "box": [
+        117,
+        90,
+        415,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-633-585-6903|andrea.fowler@example.com",
+      "score": 0.9912,
+      "box": [
+        115,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9848,
+      "box": [
+        115,
+        241,
+        315,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleLife Health, 2020.12–2023.01",
+      "score": 0.9904,
+      "box": [
+        116,
+        290,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.9822,
+      "box": [
+        125,
+        313,
+        520,
+        338
+      ]
+    },
+    {
+      "text": "- Designed clinical documentation standards",
+      "score": 0.9802,
+      "box": [
+        127,
+        340,
+        539,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Nursing Services, 2016.07–2018.09",
+      "score": 0.9927,
+      "box": [
+        115,
+        381,
+        723,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.9826,
+      "box": [
+        126,
+        407,
+        420,
+        430
+      ]
+    },
+    {
+      "text": "- Updated patient medical records",
+      "score": 0.9746,
+      "box": [
+        127,
+        432,
+        443,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Clinical Support, Redwood University, 2015",
+      "score": 0.9717,
+      "box": [
+        116,
+        541,
+        706,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical audits basics",
+      "score": 0.9919,
+      "box": [
+        133,
+        566,
+        578,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in health policy basics",
+      "score": 0.9877,
+      "box": [
+        134,
+        591,
+        570,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ANDREA FOWLER\nAL, USA|+1-633-585-6903|andrea.fowler@example.com\nWORK HISTORY\nRegistered Nurses, GentleLife Health, 2020.12–2023.01\n- Established nursing performance metrics\n- Designed clinical documentation standards\nRegistered Nurses, Harmony Nursing Services, 2016.07–2018.09\n- Assisted with patient transfers\n- Updated patient medical records\nEDUCATION\nAssociate's degree, Clinical Support, Redwood University, 2015\n• Completed coursework in clinical audits basics\n• Completed coursework in health policy basics"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "26331",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.826,
+  "n_lines": 13,
+  "mean_score": 0.9847,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARGARET HARDY",
+      "score": 0.9934,
+      "box": [
+        117,
+        90,
+        440,
+        120
+      ]
+    },
+    {
+      "text": "MA, USA|+1-342-891-8443|margaret.hardy@example.com",
+      "score": 0.9795,
+      "box": [
+        116,
+        151,
+        684,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9799,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverHands Nursing Services, 2020.04–2023.01",
+      "score": 0.9873,
+      "box": [
+        116,
+        290,
+        741,
+        313
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.9788,
+      "box": [
+        127,
+        315,
+        455,
+        338
+      ]
+    },
+    {
+      "text": "- Directed patient care coordination",
+      "score": 0.987,
+      "box": [
+        127,
+        340,
+        454,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Care Services, 2017.07–2020.04",
+      "score": 0.9873,
+      "box": [
+        115,
+        381,
+        729,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.964,
+      "box": [
+        125,
+        405,
+        435,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9748,
+      "box": [
+        126,
+        431,
+        479,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Nursing Studies, Willowbrook University, 2015",
+      "score": 0.9837,
+      "box": [
+        116,
+        540,
+        731,
+        563
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient-centered care",
+      "score": 0.9935,
+      "box": [
+        133,
+        566,
+        587,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing leadership basics",
+      "score": 0.9933,
+      "box": [
+        134,
+        591,
+        624,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "MARGARET HARDY\nMA, USA|+1-342-891-8443|margaret.hardy@example.com\nWORK HISTORY\nRegistered Nurses, EverHands Nursing Services, 2020.04–2023.01\n- Led nursing workflow optimization\n- Directed patient care coordination\nRegistered Nurses, Compassion Care Services, 2017.07–2020.04\n- Monitored patient dietary needs\n- Prepared medical equipment for use\nEDUCATION\nAssociate's degree, Nursing Studies, Willowbrook University, 2015\n• Completed coursework in patient-centered care\n• Completed coursework in nursing leadership basics"
+}

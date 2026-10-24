@@ -1,0 +1,265 @@
+{
+  "id": "59579",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.91,
+  "n_lines": 19,
+  "mean_score": 0.9796,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JENNIFER MULLINS",
+      "score": 0.9727,
+      "box": [
+        116,
+        90,
+        441,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-430-721-7378|jennifer.mullins@example.com",
+      "score": 0.9774,
+      "box": [
+        114,
+        150,
+        685,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, BrightPath Accounting Services, 2018.09–2023.01",
+      "score": 0.9926,
+      "box": [
+        114,
+        289,
+        791,
+        314
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9753,
+      "box": [
+        126,
+        314,
+        515,
+        339
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9768,
+      "box": [
+        126,
+        338,
+        489,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Group, 2014.05–218.09",
+      "score": 0.976,
+      "box": [
+        114,
+        381,
+        721,
+        406
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9766,
+      "box": [
+        126,
+        406,
+        495,
+        432
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9781,
+      "box": [
+        126,
+        430,
+        427,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Financial Group, 2008.08–2012.12",
+      "score": 0.9787,
+      "box": [
+        114,
+        471,
+        756,
+        496
+      ]
+    },
+    {
+      "text": "- Analyzed financial variances",
+      "score": 0.9879,
+      "box": [
+        125,
+        496,
+        407,
+        521
+      ]
+    },
+    {
+      "text": "- Conducted internal audits",
+      "score": 0.9717,
+      "box": [
+        126,
+        522,
+        379,
+        544
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Financial Group, 2002.12–2007.04",
+      "score": 0.9863,
+      "box": [
+        115,
+        565,
+        756,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.9774,
+      "box": [
+        125,
+        589,
+        436,
+        614
+      ]
+    },
+    {
+      "text": "- Maintained vendor records",
+      "score": 0.9901,
+      "box": [
+        127,
+        616,
+        390,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Cost Accounting, Greenfield University, 2002",
+      "score": 0.9342,
+      "box": [
+        114,
+        723,
+        641,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of taxation",
+      "score": 0.9874,
+      "box": [
+        131,
+        747,
+        416,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of financial forecasting",
+      "score": 0.9888,
+      "box": [
+        133,
+        772,
+        526,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "JENNIFER MULLINS\nWA, USA|+1-430-721-7378|jennifer.mullins@example.com\nWORK HISTORY\nAccountants Auditors, BrightPath Accounting Services, 2018.09–2023.01\n- Directed accounting operations planning\n- Directed financial system architecture\nAccountants Auditors, Reliable Balance Group, 2014.05–218.09\n- Directed accounting training programs\n- Managed financial governance\nAccountants Auditors, SolidCount Financial Group, 2008.08–2012.12\n- Analyzed financial variances\n- Conducted internal audits\nAccountants Auditors, SolidCount Financial Group, 2002.12–2007.04\n- Prepared basic financial reports\n- Maintained vendor records\nEDUCATION\nBachelor's, Cost Accounting, Greenfield University, 2002\n• Studied principles of taxation\n• Studied principles of financial forecasting"
+}

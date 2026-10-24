@@ -1,0 +1,239 @@
+{
+  "id": "40431",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.899,
+  "n_lines": 17,
+  "mean_score": 0.9831,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HARLEN MILLER",
+      "score": 0.9853,
+      "box": [
+        115,
+        90,
+        391,
+        121
+      ]
+    },
+    {
+      "text": "NC, USA|+1-262-223-9354|harlen.miller@example.com",
+      "score": 0.9717,
+      "box": [
+        115,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Services, 2019.11–2023.01",
+      "score": 0.989,
+      "box": [
+        115,
+        289,
+        720,
+        313
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9759,
+      "box": [
+        126,
+        314,
+        515,
+        339
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9868,
+      "box": [
+        127,
+        340,
+        518,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Services, 2016.09–2019.11",
+      "score": 0.9855,
+      "box": [
+        115,
+        382,
+        693,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared consolidation entries",
+      "score": 0.9891,
+      "box": [
+        127,
+        407,
+        426,
+        430
+      ]
+    },
+    {
+      "text": "- Reviewed expense allocations",
+      "score": 0.9749,
+      "box": [
+        126,
+        430,
+        423,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Advisors, 2013.06–2016.09",
+      "score": 0.9924,
+      "box": [
+        115,
+        472,
+        689,
+        495
+      ]
+    },
+    {
+      "text": "- Assisted with compliance documentation",
+      "score": 0.9723,
+      "box": [
+        125,
+        496,
+        518,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed account balances",
+      "score": 0.9925,
+      "box": [
+        127,
+        522,
+        402,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Accounting and Finance, Springfield University, 2017",
+      "score": 0.9741,
+      "box": [
+        114,
+        631,
+        697,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Auditing, Forest Ridge University, 2015",
+      "score": 0.9673,
+      "box": [
+        115,
+        658,
+        589,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of professional writing",
+      "score": 0.9843,
+      "box": [
+        132,
+        681,
+        557,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit ethics",
+      "score": 0.9883,
+      "box": [
+        135,
+        709,
+        494,
+        729
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "HARLEN MILLER\nNC, USA|+1-262-223-9354|harlen.miller@example.com\nWORK HISTORY\nAccountants Auditors, Balanced Path Services, 2019.11–2023.01\n- Directed accounting operations planning\n- Established financial reporting standards\nAccountants Auditors, ClearBooks Services, 2016.09–2019.11\n- Prepared consolidation entries\n- Reviewed expense allocations\nAccountants Auditors, TrustCount Advisors, 2013.06–2016.09\n- Assisted with compliance documentation\n- Reviewed account balances\nEDUCATION\nMaster's, Accounting and Finance, Springfield University, 2017\nBachelor's, Auditing, Forest Ridge University, 2015\n• Studied fundamentals of professional writing\n• Completed coursework in audit ethics"
+}

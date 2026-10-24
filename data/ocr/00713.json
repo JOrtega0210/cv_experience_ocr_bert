@@ -1,0 +1,187 @@
+{
+  "id": "00713",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.974,
+  "n_lines": 13,
+  "mean_score": 0.9808,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "GAVIN RANDALL",
+      "score": 0.9885,
+      "box": [
+        116,
+        88,
+        396,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA|+1-759-279-2264 |gavin.randall@example.com",
+      "score": 0.9572,
+      "box": [
+        116,
+        151,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Services, 2021.03–2023.01",
+      "score": 0.9863,
+      "box": [
+        114,
+        289,
+        685,
+        313
+      ]
+    },
+    {
+      "text": "-Led cross-functional financial integration",
+      "score": 0.9738,
+      "box": [
+        125,
+        313,
+        515,
+        338
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9839,
+      "box": [
+        126,
+        338,
+        556,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenLedger Financial, 2019.04–2021.03",
+      "score": 0.9905,
+      "box": [
+        115,
+        382,
+        705,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9622,
+      "box": [
+        126,
+        407,
+        511,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared supporting schedules",
+      "score": 0.9779,
+      "box": [
+        126,
+        431,
+        431,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Accounting, Parkview University, 2021",
+      "score": 0.9624,
+      "box": [
+        114,
+        539,
+        654,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of taxation",
+      "score": 0.992,
+      "box": [
+        133,
+        566,
+        416,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit risk modeling",
+      "score": 0.994,
+      "box": [
+        133,
+        591,
+        563,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "GAVIN RANDALL\nAL, USA|+1-759-279-2264 |gavin.randall@example.com\nWORK HISTORY\nAccountants Auditors, CoreCount Services, 2021.03–2023.01\n-Led cross-functional financial integration\n- Directed accounting system implementations\nAccountants Auditors, OpenLedger Financial, 2019.04–2021.03\n- Maintained accounting software records\n- Prepared supporting schedules\nEDUCATION\nBachelor's, Applied Accounting, Parkview University, 2021\n• Studied principles of taxation\n• Completed coursework in audit risk modeling"
+}

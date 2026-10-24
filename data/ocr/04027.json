@@ -1,0 +1,239 @@
+{
+  "id": "04027",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.035,
+  "n_lines": 17,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DARA HOFFMAN",
+      "score": 0.9594,
+      "box": [
+        116,
+        90,
+        391,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-291-388-1384 |dara.hoffman@example.com",
+      "score": 0.9907,
+      "box": [
+        117,
+        151,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9813,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Steps Academy, 2020.12–2023.01",
+      "score": 0.9849,
+      "box": [
+        115,
+        289,
+        847,
+        314
+      ]
+    },
+    {
+      "text": "-Directed instructional planning processes",
+      "score": 0.9803,
+      "box": [
+        125,
+        314,
+        522,
+        339
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.9752,
+      "box": [
+        126,
+        340,
+        504,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Bridge Academy, 2018.11–2020.12",
+      "score": 0.989,
+      "box": [
+        115,
+        381,
+        878,
+        406
+      ]
+    },
+    {
+      "text": "- Evaluated student portfolios",
+      "score": 0.9718,
+      "box": [
+        125,
+        406,
+        400,
+        431
+      ]
+    },
+    {
+      "text": "- Analyzed assessment trends",
+      "score": 0.9832,
+      "box": [
+        126,
+        430,
+        410,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Meadowbrook Academy, 2016.10–2018.11",
+      "score": 0.9923,
+      "box": [
+        115,
+        471,
+        860,
+        496
+      ]
+    },
+    {
+      "text": "-Scheduled instructional activities",
+      "score": 0.9897,
+      "box": [
+        125,
+        497,
+        443,
+        519
+      ]
+    },
+    {
+      "text": "-Maintained student folders",
+      "score": 0.9604,
+      "box": [
+        126,
+        522,
+        386,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Teaching Support, Brookridge University, 2016",
+      "score": 0.9836,
+      "box": [
+        115,
+        632,
+        640,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Foundations, Clearfield Ridge University, 2014",
+      "score": 0.9796,
+      "box": [
+        114,
+        656,
+        748,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic education law concepts",
+      "score": 0.9904,
+      "box": [
+        133,
+        681,
+        661,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom workflow organization",
+      "score": 0.9916,
+      "box": [
+        133,
+        706,
+        690,
+        731
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "DARA HOFFMAN\nCA, USA|+1-291-388-1384 |dara.hoffman@example.com\nWORK HISTORY\nElementary Middle School Teachers, Sunny Steps Academy, 2020.12–2023.01\n-Directed instructional planning processes\n- Designed systemic intervention models\nElementary Middle School Teachers, Learning Bridge Academy, 2018.11–2020.12\n- Evaluated student portfolios\n- Analyzed assessment trends\nElementary Middle School Teachers, Meadowbrook Academy, 2016.10–2018.11\n-Scheduled instructional activities\n-Maintained student folders\nEDUCATION\nMaster's, Teaching Support, Brookridge University, 2016\nBachelor's, Teaching Foundations, Clearfield Ridge University, 2014\n• Completed coursework in basic education law concepts\n• Completed coursework in classroom workflow organization"
+}

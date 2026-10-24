@@ -1,0 +1,226 @@
+{
+  "id": "14772",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.955,
+  "n_lines": 16,
+  "mean_score": 0.981,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARGARET REILLY",
+      "score": 0.9936,
+      "box": [
+        117,
+        90,
+        440,
+        120
+      ]
+    },
+    {
+      "text": "GA, USA|+1-395-472-8435 |margaret.reilly@example.com",
+      "score": 0.9643,
+      "box": [
+        117,
+        152,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearView Health Center, 2021.01–2023.01",
+      "score": 0.9839,
+      "box": [
+        116,
+        290,
+        704,
+        313
+      ]
+    },
+    {
+      "text": "- Developed medication management policies",
+      "score": 0.9873,
+      "box": [
+        126,
+        314,
+        552,
+        339
+      ]
+    },
+    {
+      "text": "- Managed nursing unit operations",
+      "score": 0.9754,
+      "box": [
+        126,
+        339,
+        447,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIWay Health Group, 2018.12–2021.01",
+      "score": 0.989,
+      "box": [
+        116,
+        383,
+        686,
+        406
+      ]
+    },
+    {
+      "text": "- Managed pain control plans",
+      "score": 0.9646,
+      "box": [
+        126,
+        406,
+        399,
+        431
+      ]
+    },
+    {
+      "text": "- Managed patient referrals",
+      "score": 0.982,
+      "box": [
+        126,
+        430,
+        381,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Sunrise Health Services, 2016.11–2018.12",
+      "score": 0.9812,
+      "box": [
+        115,
+        471,
+        699,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared intravenous solutions",
+      "score": 0.9797,
+      "box": [
+        126,
+        498,
+        431,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared medication trays",
+      "score": 0.9564,
+      "box": [
+        126,
+        520,
+        387,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Geriatric Care, Amber Hills University, 2016",
+      "score": 0.9815,
+      "box": [
+        114,
+        631,
+        629,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of nursing assessment",
+      "score": 0.9866,
+      "box": [
+        132,
+        656,
+        528,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of nursing communication",
+      "score": 0.9903,
+      "box": [
+        133,
+        681,
+        594,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "MARGARET REILLY\nGA, USA|+1-395-472-8435 |margaret.reilly@example.com\nWORK HISTORY\nRegistered Nurses, ClearView Health Center, 2021.01–2023.01\n- Developed medication management policies\n- Managed nursing unit operations\nRegistered Nurses, WelIWay Health Group, 2018.12–2021.01\n- Managed pain control plans\n- Managed patient referrals\nRegistered Nurses, Sunrise Health Services, 2016.11–2018.12\n- Prepared intravenous solutions\n- Prepared medication trays\nEDUCATION\nBachelor's, Geriatric Care, Amber Hills University, 2016\n• Studied principles of nursing assessment\n• Studied fundamentals of nursing communication"
+}

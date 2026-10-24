@@ -1,0 +1,239 @@
+{
+  "id": "45041",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.882,
+  "n_lines": 17,
+  "mean_score": 0.9812,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BONNIE PIERCE",
+      "score": 0.9704,
+      "box": [
+        116,
+        90,
+        381,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-661-743-7238|bonnie.pierce@example.com",
+      "score": 0.9906,
+      "box": [
+        115,
+        150,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Advisors, 2019.10–2023.01",
+      "score": 0.9825,
+      "box": [
+        115,
+        289,
+        695,
+        313
+      ]
+    },
+    {
+      "text": "- Directed accounting leadership initiatives",
+      "score": 0.9722,
+      "box": [
+        126,
+        314,
+        520,
+        337
+      ]
+    },
+    {
+      "text": "- Designed financial modeling standards",
+      "score": 0.9629,
+      "box": [
+        127,
+        340,
+        501,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Services, 2016.07–2019.10",
+      "score": 0.9911,
+      "box": [
+        115,
+        382,
+        678,
+        405
+      ]
+    },
+    {
+      "text": "- Conducted variance investigations",
+      "score": 0.9799,
+      "box": [
+        125,
+        406,
+        460,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted compliance reviews",
+      "score": 0.9961,
+      "box": [
+        126,
+        431,
+        432,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Financial, 2013.03–2016.07",
+      "score": 0.9795,
+      "box": [
+        115,
+        472,
+        695,
+        495
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9741,
+      "box": [
+        125,
+        496,
+        372,
+        521
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9694,
+      "box": [
+        126,
+        521,
+        490,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Financial Services, Greenway University, 2018",
+      "score": 0.9821,
+      "box": [
+        115,
+        632,
+        638,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Management, Larkspur University, 2016",
+      "score": 0.9833,
+      "box": [
+        114,
+        656,
+        686,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of business process analysis",
+      "score": 0.9744,
+      "box": [
+        132,
+        681,
+        585,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting information systems",
+      "score": 0.9887,
+      "box": [
+        133,
+        706,
+        681,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "BONNIE PIERCE\nPA, USA|+1-661-743-7238|bonnie.pierce@example.com\nWORK HISTORY\nAccountants Auditors, SolidLedger Advisors, 2019.10–2023.01\n- Directed accounting leadership initiatives\n- Designed financial modeling standards\nAccountants Auditors, FairCount Services, 2016.07–2019.10\n- Conducted variance investigations\n- Conducted compliance reviews\nAccountants Auditors, ClearCount Financial, 2013.03–2016.07\n- Compiled audit evidence\n- Processed accounts payable invoices\nEDUCATION\nMaster's, Financial Services, Greenway University, 2018\nBachelor's, Business Management, Larkspur University, 2016\n• Studied principles of business process analysis\n• Completed coursework in accounting information systems"
+}

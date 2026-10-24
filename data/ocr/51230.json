@@ -1,0 +1,213 @@
+{
+  "id": "51230",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.824,
+  "n_lines": 15,
+  "mean_score": 0.9799,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DOMINIC BEIL",
+      "score": 0.9799,
+      "box": [
+        115,
+        88,
+        350,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA|+1-250-690-8524 |dominic.beil@example.com",
+      "score": 0.9763,
+      "box": [
+        114,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9871,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongBase Builders, 2019.12–2023.01",
+      "score": 0.9724,
+      "box": [
+        114,
+        288,
+        697,
+        313
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9898,
+      "box": [
+        126,
+        315,
+        372,
+        339
+      ]
+    },
+    {
+      "text": "- Developed project risk assessments",
+      "score": 0.98,
+      "box": [
+        126,
+        339,
+        476,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmFrame Builders, 2016.10–2019.12",
+      "score": 0.9853,
+      "box": [
+        115,
+        382,
+        691,
+        405
+      ]
+    },
+    {
+      "text": "- Supervised junior laborers",
+      "score": 0.9779,
+      "box": [
+        125,
+        406,
+        386,
+        431
+      ]
+    },
+    {
+      "text": "- Maintained equipment logs",
+      "score": 0.9711,
+      "box": [
+        125,
+        430,
+        392,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerBuild Co., 2013.08–2016.10",
+      "score": 0.9845,
+      "box": [
+        115,
+        472,
+        657,
+        495
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.982,
+      "box": [
+        125,
+        496,
+        439,
+        521
+      ]
+    },
+    {
+      "text": "- Moved equipment between work zones",
+      "score": 0.94,
+      "box": [
+        126,
+        521,
+        504,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Industrial Technology, Meadowland High School, 2012",
+      "score": 0.981,
+      "box": [
+        116,
+        632,
+        881,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of concrete mixing",
+      "score": 0.9916,
+      "box": [
+        132,
+        656,
+        525,
+        681
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "DOMINIC BEIL\nTX, USA|+1-250-690-8524 |dominic.beil@example.com\nWORK HISTORY\nConstruction Laborers, StrongBase Builders, 2019.12–2023.01\n- Led operational planning\n- Developed project risk assessments\nConstruction Laborers, FirmFrame Builders, 2016.10–2019.12\n- Supervised junior laborers\n- Maintained equipment logs\nConstruction Laborers, CornerBuild Co., 2013.08–2016.10\n- Helped position heavy materials\n- Moved equipment between work zones\nEDUCATION\nHigh school graduate/GED, Industrial Technology, Meadowland High School, 2012\n• Studied fundamentals of concrete mixing"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "60489",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.905,
+  "n_lines": 16,
+  "mean_score": 0.9821,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HAZEL MCKEE",
+      "score": 0.9669,
+      "box": [
+        115,
+        90,
+        360,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-967-892-5578|hazel.mckee@example.com",
+      "score": 0.9823,
+      "box": [
+        115,
+        150,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Group, 2020.02–2023.01",
+      "score": 0.9756,
+      "box": [
+        114,
+        289,
+        670,
+        314
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.985,
+      "box": [
+        125,
+        313,
+        433,
+        338
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9701,
+      "box": [
+        127,
+        340,
+        436,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Financial, 2017.03–2020.02",
+      "score": 0.9765,
+      "box": [
+        114,
+        381,
+        710,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared tax returns",
+      "score": 0.9905,
+      "box": [
+        127,
+        408,
+        333,
+        429
+      ]
+    },
+    {
+      "text": "- Reviewed expense allocations",
+      "score": 0.9777,
+      "box": [
+        125,
+        429,
+        424,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Path Accounting, 2014.03–2017.03",
+      "score": 0.9811,
+      "box": [
+        114,
+        471,
+        741,
+        496
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9876,
+      "box": [
+        125,
+        496,
+        549,
+        520
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9687,
+      "box": [
+        126,
+        521,
+        490,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.997,
+      "box": [
+        115,
+        585,
+        267,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Management Information Systems, Maple Ridge University, 2018",
+      "score": 0.9831,
+      "box": [
+        114,
+        631,
+        827,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of statistics for business",
+      "score": 0.9908,
+      "box": [
+        132,
+        655,
+        578,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of enterprise systems",
+      "score": 0.9949,
+      "box": [
+        134,
+        681,
+        554,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "HAZEL MCKEE\nWI, USA|+1-967-892-5578|hazel.mckee@example.com\nWORK HISTORY\nAccountants Auditors, ClearBooks Group, 2020.02–2023.01\n- Established accounting policies\n- Developed financial risk models\nAccountants Auditors, CoreBalance Financial, 2017.03–2020.02\n- Prepared tax returns\n- Reviewed expense allocations\nAccountants Auditors, Accurate Path Accounting, 2014.03–2017.03\n- Processed accounts receivable transactions\n- Processed accounts payable invoices\nEDUCATION\nBachelor's, Management Information Systems, Maple Ridge University, 2018\n• Studied fundamentals of statistics for business\n• Studied fundamentals of enterprise systems"
+}

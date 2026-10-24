@@ -1,0 +1,135 @@
+{
+  "id": "46376",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.706,
+  "n_lines": 9,
+  "mean_score": 0.9831,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAMES GAINES",
+      "score": 0.9745,
+      "box": [
+        116,
+        90,
+        371,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-492-810-2743 |james.gaines@example.com",
+      "score": 0.9829,
+      "box": [
+        115,
+        150,
+        663,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9828,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudstone Software, 2019.07–2022.07",
+      "score": 0.9908,
+      "box": [
+        116,
+        290,
+        690,
+        313
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9719,
+      "box": [
+        125,
+        314,
+        443,
+        339
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.9653,
+      "box": [
+        127,
+        340,
+        376,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Willowstone High School, 2017",
+      "score": 0.9892,
+      "box": [
+        116,
+        449,
+        665,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of dependency injection",
+      "score": 0.9922,
+      "box": [
+        133,
+        474,
+        538,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "JAMES GAINES\nPA, USA|+1-492-810-2743 |james.gaines@example.com\nWORK HISTORY\nSoftware Developers, Cloudstone Software, 2019.07–2022.07\n- Handled basic deployment tasks\n- Resolved merge conflicts\nEDUCATION\nHigh school graduate/GED, Willowstone High School, 2017\n• Studied principles of dependency injection"
+}

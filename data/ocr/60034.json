@@ -1,0 +1,187 @@
+{
+  "id": "60034",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.879,
+  "n_lines": 13,
+  "mean_score": 0.9824,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KRISTI MCDONALD",
+      "score": 0.9929,
+      "box": [
+        116,
+        90,
+        432,
+        121
+      ]
+    },
+    {
+      "text": "WV, USA|+1-944-940-9385|kristi.mcdonald@example.com",
+      "score": 0.9787,
+      "box": [
+        115,
+        150,
+        685,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.978,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Hills Academy, 2020.02–2023.01",
+      "score": 0.9868,
+      "box": [
+        114,
+        289,
+        858,
+        314
+      ]
+    },
+    {
+      "text": "- Developed data-driven teaching models",
+      "score": 0.9911,
+      "box": [
+        126,
+        315,
+        510,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented data analysis frameworks",
+      "score": 0.9805,
+      "box": [
+        127,
+        340,
+        505,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Tree School, 2014.11–2017.10",
+      "score": 0.9797,
+      "box": [
+        116,
+        382,
+        817,
+        405
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.9942,
+      "box": [
+        125,
+        406,
+        484,
+        431
+      ]
+    },
+    {
+      "text": "- Delivered structured lectures",
+      "score": 0.9839,
+      "box": [
+        126,
+        431,
+        408,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Foundations of Learning, Brightwood University, 2004",
+      "score": 0.9721,
+      "box": [
+        114,
+        539,
+        722,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of lesson goal alignment",
+      "score": 0.9681,
+      "box": [
+        132,
+        565,
+        582,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in introductory child psychology",
+      "score": 0.9673,
+      "box": [
+        134,
+        590,
+        656,
+        616
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KRISTI MCDONALD\nWV, USA|+1-944-940-9385|kristi.mcdonald@example.com\nWORK HISTORY\nElementary Middle School Teachers, Harmony Hills Academy, 2020.02–2023.01\n- Developed data-driven teaching models\n- Implemented data analysis frameworks\nElementary Middle School Teachers, Caring Tree School, 2014.11–2017.10\n- Conducted reading practice sessions\n- Delivered structured lectures\nEDUCATION\nBachelor's, Foundations of Learning, Brightwood University, 2004\n• Studied fundamentals of lesson goal alignment\n• Completed coursework in introductory child psychology"
+}

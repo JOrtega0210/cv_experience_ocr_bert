@@ -1,0 +1,148 @@
+{
+  "id": "27385",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.741,
+  "n_lines": 10,
+  "mean_score": 0.9886,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JORGE DAY",
+      "score": 0.9927,
+      "box": [
+        116,
+        90,
+        315,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-843-331-2769 |jorge.day@example.com",
+      "score": 0.9864,
+      "box": [
+        116,
+        151,
+        621,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightWell Health Services, 2021.02–2023.01",
+      "score": 0.9733,
+      "box": [
+        116,
+        290,
+        721,
+        313
+      ]
+    },
+    {
+      "text": "- Performed blood glucose testing",
+      "score": 0.9863,
+      "box": [
+        125,
+        313,
+        442,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.9974,
+      "box": [
+        126,
+        339,
+        418,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Care Technology, Southridge University, 2021",
+      "score": 0.9795,
+      "box": [
+        116,
+        449,
+        796,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in dosage calculations",
+      "score": 0.9893,
+      "box": [
+        133,
+        474,
+        573,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of telemetry basics",
+      "score": 0.9983,
+      "box": [
+        134,
+        499,
+        493,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JORGE DAY\nMI, USA|+1-843-331-2769 |jorge.day@example.com\nWORK HISTORY\nRegistered Nurses, BrightWell Health Services, 2021.02–2023.01\n- Performed blood glucose testing\n- Assisted with feeding patients\nEDUCATION\nAssociate's degree, Health Care Technology, Southridge University, 2021\n• Completed coursework in dosage calculations\n• Studied principles of telemetry basics"
+}

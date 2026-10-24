@@ -1,0 +1,239 @@
+{
+  "id": "01248",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.984,
+  "n_lines": 17,
+  "mean_score": 0.9812,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ZACHARY SHEPPARD",
+      "score": 0.9724,
+      "box": [
+        116,
+        90,
+        475,
+        120
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-776-999-5654|zachary.sheppard@example.com",
+      "score": 0.9884,
+      "box": [
+        116,
+        152,
+        705,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9803,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Ledger Co., 2020.01–2023.01",
+      "score": 0.9852,
+      "box": [
+        114,
+        289,
+        695,
+        314
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9633,
+      "box": [
+        126,
+        314,
+        517,
+        339
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9754,
+      "box": [
+        128,
+        340,
+        450,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Group, 2016.12–2020.01",
+      "score": 0.9727,
+      "box": [
+        115,
+        382,
+        666,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted risk assessments",
+      "score": 0.9961,
+      "box": [
+        127,
+        407,
+        409,
+        429
+      ]
+    },
+    {
+      "text": "- Managed accounting system updates",
+      "score": 0.9829,
+      "box": [
+        126,
+        431,
+        487,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Co., 2013.11–2016.12",
+      "score": 0.9459,
+      "box": [
+        115,
+        472,
+        673,
+        496
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9759,
+      "box": [
+        125,
+        496,
+        413,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed billing statements",
+      "score": 0.9868,
+      "box": [
+        126,
+        521,
+        402,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Corporate Finance, Brookside University, 2015",
+      "score": 0.9911,
+      "box": [
+        115,
+        632,
+        640,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Supply Chain Management, Shoreline University, 2013",
+      "score": 0.9858,
+      "box": [
+        114,
+        656,
+        733,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of financial regulations",
+      "score": 0.9915,
+      "box": [
+        132,
+        681,
+        527,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in corporate governance",
+      "score": 0.9883,
+      "box": [
+        133,
+        706,
+        593,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "ZACHARY SHEPPARD\nAZ, USA|+1-776-999-5654|zachary.sheppard@example.com\nWORK HISTORY\nAccountants Auditors, Balanced Ledger Co., 2020.01–2023.01\n- Directed enterprise accounting platforms\n- Designed accounting frameworks\nAccountants Auditors, TrustCount Group, 2016.12–2020.01\n- Conducted risk assessments\n- Managed accounting system updates\nAccountants Auditors, Integrity Count Co., 2013.11–2016.12\n- Tracked budget expenditures\n- Reviewed billing statements\nEDUCATION\nMaster's, Corporate Finance, Brookside University, 2015\nBachelor's, Supply Chain Management, Shoreline University, 2013\n• Studied principles of financial regulations\n• Completed coursework in corporate governance"
+}

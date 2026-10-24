@@ -1,0 +1,252 @@
+{
+  "id": "28087",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.838,
+  "n_lines": 18,
+  "mean_score": 0.9822,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JESSE MCDOWELL",
+      "score": 0.988,
+      "box": [
+        116,
+        90,
+        432,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-914-301-3901|jesse.mcdowell@example.com",
+      "score": 0.9825,
+      "box": [
+        115,
+        150,
+        677,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9879,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Solutions, 2020.04–2023.01",
+      "score": 0.9775,
+      "box": [
+        115,
+        289,
+        651,
+        312
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.9799,
+      "box": [
+        126,
+        315,
+        428,
+        338
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.9826,
+      "box": [
+        127,
+        340,
+        396,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Corefield Labs, 2017.06–2020.04",
+      "score": 0.985,
+      "box": [
+        116,
+        382,
+        630,
+        405
+      ]
+    },
+    {
+      "text": "- Developed RESTful APIs",
+      "score": 0.9835,
+      "box": [
+        126,
+        407,
+        376,
+        430
+      ]
+    },
+    {
+      "text": "- Improved memory usage",
+      "score": 0.9758,
+      "box": [
+        126,
+        430,
+        374,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Brightline Software, 2014.08–2017.06",
+      "score": 0.9854,
+      "box": [
+        115,
+        471,
+        672,
+        496
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.9817,
+      "box": [
+        126,
+        498,
+        403,
+        521
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9437,
+      "box": [
+        125,
+        521,
+        364,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Doctorate, Meadowfield University, 2013",
+      "score": 0.9939,
+      "box": [
+        115,
+        632,
+        492,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Blue Ridge University, 2008",
+      "score": 0.9846,
+      "box": [
+        115,
+        658,
+        484,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in microprocessor programming",
+      "score": 0.9711,
+      "box": [
+        132,
+        681,
+        660,
+        707
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of domain-driven design",
+      "score": 0.9892,
+      "box": [
+        131,
+        705,
+        579,
+        732
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of data analysis",
+      "score": 0.9889,
+      "box": [
+        133,
+        732,
+        501,
+        755
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "JESSE MCDOWELL\nMI, USA|+1-914-301-3901|jesse.mcdowell@example.com\nWORK HISTORY\nSoftware Developers, Netline Solutions, 2020.04–2023.01\n- Designed system architectures\n- Designed scalable services\nSoftware Developers, Corefield Labs, 2017.06–2020.04\n- Developed RESTful APIs\n- Improved memory usage\nSoftware Developers, Brightline Software, 2014.08–2017.06\n- Updated database schemas\n- Handled feature toggles\nEDUCATION\nDoctorate, Meadowfield University, 2013\nBachelor's, Blue Ridge University, 2008\n• Completed coursework in microprocessor programming\n• Studied fundamentals of domain-driven design\n• Studied fundamentals of data analysis"
+}

@@ -1,0 +1,239 @@
+{
+  "id": "56798",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.856,
+  "n_lines": 17,
+  "mean_score": 0.9812,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "PHILLIP SCOTT",
+      "score": 0.9747,
+      "box": [
+        116,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-864-204-7078 |phillip.scott@example.com",
+      "score": 0.9577,
+      "box": [
+        115,
+        150,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9797,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Services, 2020.02–2023.01",
+      "score": 0.9756,
+      "box": [
+        114,
+        289,
+        714,
+        314
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9782,
+      "box": [
+        127,
+        315,
+        553,
+        338
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9854,
+      "box": [
+        126,
+        339,
+        527,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Financial, 2017.03–2020.02",
+      "score": 0.9924,
+      "box": [
+        115,
+        381,
+        701,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed financial disclosures",
+      "score": 0.9841,
+      "box": [
+        126,
+        407,
+        427,
+        429
+      ]
+    },
+    {
+      "text": "- Prepared cost allocation models",
+      "score": 0.9873,
+      "box": [
+        126,
+        430,
+        440,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Group, 2012.12–2015.11",
+      "score": 0.9761,
+      "box": [
+        115,
+        472,
+        670,
+        496
+      ]
+    },
+    {
+      "text": "- Compiled financial schedules",
+      "score": 0.9966,
+      "box": [
+        126,
+        498,
+        414,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.987,
+      "box": [
+        126,
+        521,
+        422,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Economics, Forest Hill University, 2005",
+      "score": 0.9626,
+      "box": [
+        115,
+        632,
+        571,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting and Auditing, Larkspur University, 2003",
+      "score": 0.9782,
+      "box": [
+        115,
+        658,
+        699,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of business process analysis",
+      "score": 0.9836,
+      "box": [
+        132,
+        681,
+        584,
+        706
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit evidence",
+      "score": 0.9816,
+      "box": [
+        133,
+        707,
+        513,
+        729
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "PHILLIP SCOTT\nVA, USA|+1-864-204-7078 |phillip.scott@example.com\nWORK HISTORY\nAccountants Auditors, SteadyLedger Services, 2020.02–2023.01\n- Designed financial documentation standards\n- Designed financial accountability systems\nAccountants Auditors, SolidLedger Financial, 2017.03–2020.02\n- Reviewed financial disclosures\n- Prepared cost allocation models\nAccountants Auditors, ClearBooks Group, 2012.12–2015.11\n- Compiled financial schedules\n- Assisted with regulatory filings\nEDUCATION\nMaster's, Economics, Forest Hill University, 2005\nBachelor's, Accounting and Auditing, Larkspur University, 2003\n• Studied principles of business process analysis\n• Studied fundamentals of audit evidence"
+}

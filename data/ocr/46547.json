@@ -1,0 +1,226 @@
+{
+  "id": "46547",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.838,
+  "n_lines": 16,
+  "mean_score": 0.9782,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DENISE LOVE",
+      "score": 0.9715,
+      "box": [
+        116,
+        90,
+        343,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-500-328-7988 |denise.love@example.com",
+      "score": 0.9784,
+      "box": [
+        115,
+        150,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9856,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Care Center, 2020.06–2023.01",
+      "score": 0.9845,
+      "box": [
+        115,
+        289,
+        695,
+        314
+      ]
+    },
+    {
+      "text": "- Developed staffing allocation models",
+      "score": 0.954,
+      "box": [
+        126,
+        314,
+        481,
+        337
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.9877,
+      "box": [
+        126,
+        339,
+        568,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenCare Nursing Services, 2017.11–2020.06",
+      "score": 0.9927,
+      "box": [
+        115,
+        381,
+        736,
+        406
+      ]
+    },
+    {
+      "text": "- Educated patients on treatment plans",
+      "score": 0.9807,
+      "box": [
+        125,
+        406,
+        488,
+        431
+      ]
+    },
+    {
+      "text": "- Managed patient referrals",
+      "score": 0.9795,
+      "box": [
+        126,
+        430,
+        380,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Bridge Nursing, 2015.03–2017.11",
+      "score": 0.9813,
+      "box": [
+        116,
+        472,
+        678,
+        496
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.9851,
+      "box": [
+        125,
+        496,
+        416,
+        521
+      ]
+    },
+    {
+      "text": "- Monitored patient intake and output",
+      "score": 0.9552,
+      "box": [
+        126,
+        521,
+        470,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care, Clear Spring University, 2016",
+      "score": 0.9646,
+      "box": [
+        114,
+        631,
+        621,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of intravenous therapy",
+      "score": 0.98,
+      "box": [
+        132,
+        655,
+        563,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in immunization practices",
+      "score": 0.9707,
+      "box": [
+        136,
+        683,
+        602,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "DENISE LOVE\nPA, USA|+1-500-328-7988 |denise.love@example.com\nWORK HISTORY\nRegistered Nurses, NewSpring Care Center, 2020.06–2023.01\n- Developed staffing allocation models\n- Implemented evidence-based practice models\nRegistered Nurses, OpenCare Nursing Services, 2017.11–2020.06\n- Educated patients on treatment plans\n- Managed patient referrals\nRegistered Nurses, Caring Bridge Nursing, 2015.03–2017.11\n- Checked patient identification\n- Monitored patient intake and output\nEDUCATION\nBachelor's, Health Care, Clear Spring University, 2016\n• Studied fundamentals of intravenous therapy\n• Completed coursework in immunization practices"
+}

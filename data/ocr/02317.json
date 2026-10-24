@@ -1,0 +1,265 @@
+{
+  "id": "02317",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.034,
+  "n_lines": 19,
+  "mean_score": 0.9804,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JORDAN BURNS",
+      "score": 0.9877,
+      "box": [
+        116,
+        90,
+        387,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-676-549-1502 |jordan.burns@example.com",
+      "score": 0.9887,
+      "box": [
+        116,
+        152,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9812,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightSpring Health Services, 2019.02–2023.01",
+      "score": 0.9797,
+      "box": [
+        115,
+        289,
+        741,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.9869,
+      "box": [
+        126,
+        314,
+        517,
+        339
+      ]
+    },
+    {
+      "text": "- Managed clinical compliance programs",
+      "score": 0.96,
+      "box": [
+        127,
+        339,
+        503,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewBridge Care Center, 2015.02–2019.02",
+      "score": 0.9775,
+      "box": [
+        115,
+        381,
+        697,
+        406
+      ]
+    },
+    {
+      "text": "- Directed emergency response planning",
+      "score": 0.9614,
+      "box": [
+        126,
+        406,
+        505,
+        432
+      ]
+    },
+    {
+      "text": "- Developed nursing policy frameworks",
+      "score": 0.9694,
+      "box": [
+        126,
+        431,
+        489,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightLife Health Services, 2011.02–2015.02",
+      "score": 0.9853,
+      "box": [
+        116,
+        473,
+        716,
+        496
+      ]
+    },
+    {
+      "text": "-Monitored cardiac telemetry",
+      "score": 0.9892,
+      "box": [
+        125,
+        496,
+        401,
+        522
+      ]
+    },
+    {
+      "text": "- Provided wound care management",
+      "score": 0.969,
+      "box": [
+        126,
+        521,
+        467,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeSpring Nursing, 2005.07–2009.07",
+      "score": 0.9893,
+      "box": [
+        116,
+        565,
+        648,
+        588
+      ]
+    },
+    {
+      "text": "- Monitored patient recovery",
+      "score": 0.9648,
+      "box": [
+        125,
+        588,
+        390,
+        615
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9677,
+      "box": [
+        126,
+        613,
+        409,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Services Administration, Foxwood University, 2001",
+      "score": 0.9836,
+      "box": [
+        114,
+        723,
+        838,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of trauma care",
+      "score": 0.9968,
+      "box": [
+        133,
+        748,
+        490,
+        770
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical audits basics",
+      "score": 0.9913,
+      "box": [
+        133,
+        772,
+        579,
+        796
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "JORDAN BURNS\nAR, USA|+1-676-549-1502 |jordan.burns@example.com\nWORK HISTORY\nRegistered Nurses, BrightSpring Health Services, 2019.02–2023.01\n- Implemented patient monitoring systems\n- Managed clinical compliance programs\nRegistered Nurses, NewBridge Care Center, 2015.02–2019.02\n- Directed emergency response planning\n- Developed nursing policy frameworks\nRegistered Nurses, BrightLife Health Services, 2011.02–2015.02\n-Monitored cardiac telemetry\n- Provided wound care management\nRegistered Nurses, LifeSpring Nursing, 2005.07–2009.07\n- Monitored patient recovery\n- Recorded shift handoff notes\nEDUCATION\nAssociate's degree, Health Services Administration, Foxwood University, 2001\n• Studied fundamentals of trauma care\n• Completed coursework in clinical audits basics"
+}

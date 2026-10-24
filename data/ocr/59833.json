@@ -1,0 +1,265 @@
+{
+  "id": "59833",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.882,
+  "n_lines": 19,
+  "mean_score": 0.9845,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KYLE FLYNN",
+      "score": 0.96,
+      "box": [
+        115,
+        88,
+        330,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA|+1-985-512-7639|kyle.flynn@example.com",
+      "score": 0.9725,
+      "box": [
+        114,
+        150,
+        633,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Software, 2020.06–2023.01",
+      "score": 0.9923,
+      "box": [
+        116,
+        290,
+        679,
+        313
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9758,
+      "box": [
+        126,
+        313,
+        451,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented disaster recovery plans",
+      "score": 0.9911,
+      "box": [
+        126,
+        339,
+        483,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightcrest Software, 2017.11–2020.06",
+      "score": 0.9883,
+      "box": [
+        115,
+        381,
+        685,
+        406
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9876,
+      "box": [
+        126,
+        406,
+        454,
+        431
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.976,
+      "box": [
+        126,
+        430,
+        439,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Netwave Labs, 2015.04–2017.11",
+      "score": 0.9963,
+      "box": [
+        116,
+        472,
+        629,
+        495
+      ]
+    },
+    {
+      "text": "- Improved APl performance",
+      "score": 0.9729,
+      "box": [
+        125,
+        497,
+        392,
+        522
+      ]
+    },
+    {
+      "text": "- Improved application performance",
+      "score": 0.9869,
+      "box": [
+        126,
+        521,
+        457,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Skycore Software, 2012.09–2015.04",
+      "score": 0.9969,
+      "box": [
+        116,
+        565,
+        660,
+        588
+      ]
+    },
+    {
+      "text": "- Implemented Ul components based on design specs",
+      "score": 0.9915,
+      "box": [
+        125,
+        589,
+        627,
+        614
+      ]
+    },
+    {
+      "text": "- Wrote utility scripts",
+      "score": 0.993,
+      "box": [
+        126,
+        613,
+        318,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Clear Ridge University, 2013",
+      "score": 0.9756,
+      "box": [
+        114,
+        723,
+        491,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of event-driven architecture",
+      "score": 0.9921,
+      "box": [
+        132,
+        747,
+        571,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of error handling",
+      "score": 0.9711,
+      "box": [
+        132,
+        772,
+        507,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "KYLE FLYNN\nWA, USA|+1-985-512-7639|kyle.flynn@example.com\nWORK HISTORY\nSoftware Developers, Stonepath Software, 2020.06–2023.01\n- Defined data governance policies\n- Implemented disaster recovery plans\nSoftware Developers, Brightcrest Software, 2017.11–2020.06\n- Led performance tuning initiatives\n- Led technical roadmap planning\nSoftware Developers, Netwave Labs, 2015.04–2017.11\n- Improved APl performance\n- Improved application performance\nSoftware Developers, Skycore Software, 2012.09–2015.04\n- Implemented Ul components based on design specs\n- Wrote utility scripts\nEDUCATION\nBachelor's, Clear Ridge University, 2013\n• Studied principles of event-driven architecture\n• Studied fundamentals of error handling"
+}

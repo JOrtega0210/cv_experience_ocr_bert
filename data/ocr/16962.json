@@ -1,0 +1,187 @@
+{
+  "id": "16962",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.931,
+  "n_lines": 13,
+  "mean_score": 0.9845,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KELLI HUFF",
+      "score": 0.9719,
+      "box": [
+        114,
+        87,
+        315,
+        123
+      ]
+    },
+    {
+      "text": "ID, USA|+1-312-346-7586|kelli.huff@example.com",
+      "score": 0.9837,
+      "box": [
+        115,
+        150,
+        610,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9791,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenHands Nursing Services, 2021.02–2023.01",
+      "score": 0.9913,
+      "box": [
+        115,
+        289,
+        749,
+        314
+      ]
+    },
+    {
+      "text": "- Managed care delivery innovation",
+      "score": 0.9847,
+      "box": [
+        126,
+        315,
+        455,
+        338
+      ]
+    },
+    {
+      "text": "- Managed clinical workflow redesign",
+      "score": 0.9825,
+      "box": [
+        126,
+        339,
+        470,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeNest Nursing Services, 2018.01–2020.01",
+      "score": 0.9815,
+      "box": [
+        115,
+        381,
+        714,
+        406
+      ]
+    },
+    {
+      "text": "- Checked laboratory results",
+      "score": 0.9775,
+      "box": [
+        125,
+        406,
+        391,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with diagnostic procedures",
+      "score": 0.9857,
+      "box": [
+        126,
+        431,
+        474,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Studies, Greenridge University, 2010",
+      "score": 0.9696,
+      "box": [
+        114,
+        539,
+        639,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of wound assessment",
+      "score": 0.9951,
+      "box": [
+        132,
+        564,
+        559,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in dosage calculations",
+      "score": 0.9979,
+      "box": [
+        135,
+        591,
+        573,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KELLI HUFF\nID, USA|+1-312-346-7586|kelli.huff@example.com\nWORK HISTORY\nRegistered Nurses, OpenHands Nursing Services, 2021.02–2023.01\n- Managed care delivery innovation\n- Managed clinical workflow redesign\nRegistered Nurses, LifeNest Nursing Services, 2018.01–2020.01\n- Checked laboratory results\n- Assisted with diagnostic procedures\nEDUCATION\nBachelor's, Clinical Studies, Greenridge University, 2010\n• Studied fundamentals of wound assessment\n• Completed coursework in dosage calculations"
+}

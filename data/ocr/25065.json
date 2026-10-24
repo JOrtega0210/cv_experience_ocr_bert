@@ -1,0 +1,148 @@
+{
+  "id": "25065",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.794,
+  "n_lines": 10,
+  "mean_score": 0.9823,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KAYLEECHUNG",
+      "score": 0.9985,
+      "box": [
+        116,
+        90,
+        384,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-683-268-6239 |kaylee.chung@example.com",
+      "score": 0.9788,
+      "box": [
+        115,
+        150,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9797,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, CarePath Academy, 2021.11–202.01",
+      "score": 0.9673,
+      "box": [
+        116,
+        290,
+        816,
+        313
+      ]
+    },
+    {
+      "text": "- Administered quizzes and short assessments",
+      "score": 0.9851,
+      "box": [
+        125,
+        314,
+        562,
+        339
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.9822,
+      "box": [
+        126,
+        339,
+        413,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Education Services, Oakway University, 2023",
+      "score": 0.973,
+      "box": [
+        115,
+        447,
+        790,
+        473
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson delivery techniques",
+      "score": 0.9798,
+      "box": [
+        133,
+        474,
+        634,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in introductory child psychology",
+      "score": 0.9803,
+      "box": [
+        133,
+        497,
+        656,
+        524
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "KAYLEECHUNG\nMA, USA|+1-683-268-6239 |kaylee.chung@example.com\nWORK HISTORY\nElementary Middle School Teachers, CarePath Academy, 2021.11–202.01\n- Administered quizzes and short assessments\n- Administered learning games\nEDUCATION\nSome college (no degree), Education Services, Oakway University, 2023\n• Completed coursework in lesson delivery techniques\n• Completed coursework in introductory child psychology"
+}

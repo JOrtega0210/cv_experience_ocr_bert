@@ -1,0 +1,200 @@
+{
+  "id": "58924",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.854,
+  "n_lines": 14,
+  "mean_score": 0.9809,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SKYLA HAMPTON",
+      "score": 0.9701,
+      "box": [
+        116,
+        90,
+        410,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-624-855-7819|skyla.hampton@example.com",
+      "score": 0.9816,
+      "box": [
+        114,
+        150,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9777,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Bridge School, 2020.04–2023.01",
+      "score": 0.9721,
+      "box": [
+        116,
+        290,
+        815,
+        313
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.9869,
+      "box": [
+        126,
+        315,
+        510,
+        338
+      ]
+    },
+    {
+      "text": "- Led professional development planning",
+      "score": 0.9849,
+      "box": [
+        126,
+        339,
+        505,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Bridge Academy, 2015.03–2018.01",
+      "score": 0.984,
+      "box": [
+        115,
+        381,
+        854,
+        406
+      ]
+    },
+    {
+      "text": "- Supervised transitions between lessons",
+      "score": 0.9846,
+      "box": [
+        125,
+        406,
+        509,
+        431
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.9591,
+      "box": [
+        126,
+        432,
+        443,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Master's, Learning Foundations, Oakfield University, 2011",
+      "score": 0.9704,
+      "box": [
+        115,
+        541,
+        650,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Foundations of Learning, Forestfield University, 2009",
+      "score": 0.9855,
+      "box": [
+        114,
+        565,
+        715,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of knowledge retention",
+      "score": 0.9911,
+      "box": [
+        133,
+        591,
+        529,
+        614
+      ]
+    },
+    {
+      "text": "• Studied principles of student comprehension",
+      "score": 0.9854,
+      "box": [
+        134,
+        616,
+        559,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "SKYLA HAMPTON\nWA, USA|+1-624-855-7819|skyla.hampton@example.com\nWORK HISTORY\nElementary Middle School Teachers, Little Bridge School, 2020.04–2023.01\n- Led curriculum transformation initiatives\n- Led professional development planning\nElementary Middle School Teachers, Future Bridge Academy, 2015.03–2018.01\n- Supervised transitions between lessons\n- Scheduled instructional activities\nEDUCATION\nMaster's, Learning Foundations, Oakfield University, 2011\nBachelor's, Foundations of Learning, Forestfield University, 2009\n• Studied principles of knowledge retention\n• Studied principles of student comprehension"
+}

@@ -1,0 +1,213 @@
+{
+  "id": "17066",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.001,
+  "n_lines": 15,
+  "mean_score": 0.9791,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "GARRETT MCCOY",
+      "score": 0.9645,
+      "box": [
+        117,
+        90,
+        414,
+        121
+      ]
+    },
+    {
+      "text": "ID, USA|+1-356-525-4330 |garrett.mccoy@example.com",
+      "score": 0.9799,
+      "box": [
+        116,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9835,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyHand Builders, 2020.06–2023.01",
+      "score": 0.9763,
+      "box": [
+        114,
+        288,
+        703,
+        314
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9799,
+      "box": [
+        126,
+        313,
+        372,
+        339
+      ]
+    },
+    {
+      "text": "- Developed long-term construction strategies",
+      "score": 0.9851,
+      "box": [
+        126,
+        339,
+        551,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardRock Construction, 2017.10–2020.06",
+      "score": 0.9752,
+      "box": [
+        115,
+        381,
+        725,
+        405
+      ]
+    },
+    {
+      "text": "- Interpreted blueprints for task execution",
+      "score": 0.9731,
+      "box": [
+        127,
+        407,
+        508,
+        430
+      ]
+    },
+    {
+      "text": "- Installed retaining structures",
+      "score": 0.9663,
+      "box": [
+        126,
+        430,
+        403,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextStep Construction, 2013.04–2015.12",
+      "score": 0.9892,
+      "box": [
+        115,
+        471,
+        717,
+        496
+      ]
+    },
+    {
+      "text": "- Measured and cut basic building materials",
+      "score": 0.9762,
+      "box": [
+        125,
+        496,
+        532,
+        521
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9751,
+      "box": [
+        126,
+        521,
+        491,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, HVAC Technology, Meadowridge Valley High School, 2002",
+      "score": 0.9824,
+      "box": [
+        116,
+        632,
+        925,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of structural reinforcement",
+      "score": 0.9813,
+      "box": [
+        132,
+        656,
+        563,
+        681
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "GARRETT MCCOY\nID, USA|+1-356-525-4330 |garrett.mccoy@example.com\nWORK HISTORY\nConstruction Laborers, SteadyHand Builders, 2020.06–2023.01\n- Led operational planning\n- Developed long-term construction strategies\nConstruction Laborers, HardRock Construction, 2017.10–2020.06\n- Interpreted blueprints for task execution\n- Installed retaining structures\nConstruction Laborers, NextStep Construction, 2013.04–2015.12\n- Measured and cut basic building materials\n- Performed basic sanding and painting\nEDUCATION\nHigh school graduate/GED, HVAC Technology, Meadowridge Valley High School, 2002\n• Studied principles of structural reinforcement"
+}

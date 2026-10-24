@@ -1,0 +1,148 @@
+{
+  "id": "00518",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.898,
+  "n_lines": 10,
+  "mean_score": 0.9835,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAHLEEL WIGGINS",
+      "score": 0.984,
+      "box": [
+        116,
+        90,
+        427,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-695-571-8252 |jahleel.wiggins@example.com",
+      "score": 0.9896,
+      "box": [
+        116,
+        152,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.981,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Field Academy, 2018.11–2021.01",
+      "score": 0.9887,
+      "box": [
+        115,
+        290,
+        840,
+        313
+      ]
+    },
+    {
+      "text": "-Supportedart instruction",
+      "score": 0.9744,
+      "box": [
+        127,
+        315,
+        368,
+        336
+      ]
+    },
+    {
+      "text": "- Distributed instructional handouts",
+      "score": 0.975,
+      "box": [
+        126,
+        339,
+        450,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Studies, Sagewood University, 2016",
+      "score": 0.96,
+      "box": [
+        115,
+        449,
+        615,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in student motivation concepts",
+      "score": 0.9912,
+      "box": [
+        133,
+        473,
+        647,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom organization",
+      "score": 0.993,
+      "box": [
+        134,
+        499,
+        604,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JAHLEEL WIGGINS\nAL, USA|+1-695-571-8252 |jahleel.wiggins@example.com\nWORK HISTORY\nElementary Middle School Teachers, Future Field Academy, 2018.11–2021.01\n-Supportedart instruction\n- Distributed instructional handouts\nEDUCATION\nBachelor's, Child Studies, Sagewood University, 2016\n• Completed coursework in student motivation concepts\n• Completed coursework in classroom organization"
+}

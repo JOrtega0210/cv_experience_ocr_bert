@@ -1,0 +1,148 @@
+{
+  "id": "56273",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.77,
+  "n_lines": 10,
+  "mean_score": 0.9824,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JESSICA REED",
+      "score": 0.9732,
+      "box": [
+        116,
+        90,
+        363,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-640-219-1206 |jessica.reed@example.com",
+      "score": 0.9864,
+      "box": [
+        115,
+        150,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9813,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Start School, 2018.07–2021.02",
+      "score": 0.9859,
+      "box": [
+        115,
+        289,
+        812,
+        314
+      ]
+    },
+    {
+      "text": "- Updated student performance logs",
+      "score": 0.98,
+      "box": [
+        127,
+        316,
+        462,
+        339
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9791,
+      "box": [
+        126,
+        340,
+        458,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Community Education, Forest Ridge University, 202",
+      "score": 0.9844,
+      "box": [
+        114,
+        448,
+        716,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional goal setting",
+      "score": 0.964,
+      "box": [
+        132,
+        472,
+        603,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional review methods",
+      "score": 0.9915,
+      "box": [
+        135,
+        500,
+        652,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JESSICA REED\nVA, USA|+1-640-219-1206 |jessica.reed@example.com\nWORK HISTORY\nElementary Middle School Teachers, Bright Start School, 2018.07–2021.02\n- Updated student performance logs\n- Recorded behavioral observations\nEDUCATION\nBachelor's, Community Education, Forest Ridge University, 202\n• Studied fundamentals of instructional goal setting\n• Completed coursework in instructional review methods"
+}

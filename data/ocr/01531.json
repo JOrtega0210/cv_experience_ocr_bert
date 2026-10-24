@@ -1,0 +1,239 @@
+{
+  "id": "01531",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.949,
+  "n_lines": 17,
+  "mean_score": 0.9814,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ARLENE KELLER",
+      "score": 0.9728,
+      "box": [
+        116,
+        90,
+        398,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-228-842-7050|arlene.keller@example.com",
+      "score": 0.9827,
+      "box": [
+        115,
+        151,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightline Software, 2020.05–2023.01",
+      "score": 0.9911,
+      "box": [
+        115,
+        288,
+        670,
+        314
+      ]
+    },
+    {
+      "text": "-Defined integration standards",
+      "score": 0.9967,
+      "box": [
+        125,
+        313,
+        416,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9808,
+      "box": [
+        126,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Labs, 2017.08–2020.05",
+      "score": 0.9932,
+      "box": [
+        115,
+        381,
+        648,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented search features",
+      "score": 0.9872,
+      "box": [
+        126,
+        406,
+        414,
+        431
+      ]
+    },
+    {
+      "text": "- Handled load testing",
+      "score": 0.9605,
+      "box": [
+        125,
+        430,
+        333,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Brightgrid Software, 2014.11–2017.08",
+      "score": 0.9789,
+      "box": [
+        116,
+        472,
+        673,
+        496
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9817,
+      "box": [
+        124,
+        496,
+        443,
+        521
+      ]
+    },
+    {
+      "text": "- Handled input sanitization",
+      "score": 0.9692,
+      "box": [
+        126,
+        522,
+        382,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Master's, Morningstar University, 2014",
+      "score": 0.986,
+      "box": [
+        115,
+        632,
+        473,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Hillside University, 212",
+      "score": 0.9531,
+      "box": [
+        115,
+        656,
+        448,
+        679
+      ]
+    },
+    {
+      "text": "• Studied principles of documentation standards",
+      "score": 0.9944,
+      "box": [
+        133,
+        682,
+        577,
+        705
+      ]
+    },
+    {
+      "text": "• Completed coursework in calculus for computing",
+      "score": 0.9703,
+      "box": [
+        132,
+        706,
+        596,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "ARLENE KELLER\nAZ, USA|+1-228-842-7050|arlene.keller@example.com\nWORK HISTORY\nSoftware Developers, Brightline Software, 2020.05–2023.01\n-Defined integration standards\n- Implemented security architectures\nSoftware Developers, Openwave Labs, 2017.08–2020.05\n- Implemented search features\n- Handled load testing\nSoftware Developers, Brightgrid Software, 2014.11–2017.08\n- Handled basic deployment tasks\n- Handled input sanitization\nEDUCATION\nMaster's, Morningstar University, 2014\nBachelor's, Hillside University, 212\n• Studied principles of documentation standards\n• Completed coursework in calculus for computing"
+}

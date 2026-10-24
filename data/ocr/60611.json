@@ -1,0 +1,135 @@
+{
+  "id": "60611",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.772,
+  "n_lines": 9,
+  "mean_score": 0.9811,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MATTHEW DODSON",
+      "score": 0.978,
+      "box": [
+        116,
+        90,
+        443,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-789-836-5690|matthew.dodson@example.com",
+      "score": 0.9816,
+      "box": [
+        115,
+        150,
+        691,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9819,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearRise Builders, 2021.01–2023.01",
+      "score": 0.9912,
+      "box": [
+        116,
+        291,
+        679,
+        311
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9896,
+      "box": [
+        125,
+        314,
+        492,
+        339
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.967,
+      "box": [
+        126,
+        339,
+        399,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Coordination, Willow Ridge High School, 2020",
+      "score": 0.9801,
+      "box": [
+        116,
+        449,
+        926,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic waterproofing",
+      "score": 0.962,
+      "box": [
+        132,
+        473,
+        570,
+        498
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "MATTHEW DODSON\nWI, USA|+1-789-836-5690|matthew.dodson@example.com\nWORK HISTORY\nConstruction Laborers, ClearRise Builders, 2021.01–2023.01\n- Assisted with equipment maintenance\n- Dug trenches for utility lines\nEDUCATION\nHigh school graduate/GED, Construction Coordination, Willow Ridge High School, 2020\n• Completed coursework in basic waterproofing"
+}

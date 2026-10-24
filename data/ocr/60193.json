@@ -1,0 +1,148 @@
+{
+  "id": "60193",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.779,
+  "n_lines": 10,
+  "mean_score": 0.9836,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LARK DALTON",
+      "score": 0.9644,
+      "box": [
+        116,
+        90,
+        360,
+        121
+      ]
+    },
+    {
+      "text": "WV, USA|+1-737-653-4653|lark.dalton@example.com",
+      "score": 0.9849,
+      "box": [
+        115,
+        150,
+        642,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9803,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewPath Nursing Group, 2021.04–2023.01",
+      "score": 0.997,
+      "box": [
+        116,
+        290,
+        700,
+        313
+      ]
+    },
+    {
+      "text": "-Provided catheter care",
+      "score": 0.9963,
+      "box": [
+        126,
+        314,
+        353,
+        337
+      ]
+    },
+    {
+      "text": "- Conducted basic patient assessments",
+      "score": 0.9797,
+      "box": [
+        127,
+        340,
+        494,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Systems, Stonehill University, 2019",
+      "score": 0.9627,
+      "box": [
+        115,
+        449,
+        620,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing informatics basics",
+      "score": 0.9883,
+      "box": [
+        133,
+        474,
+        629,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of wound assessment",
+      "score": 0.9838,
+      "box": [
+        134,
+        498,
+        558,
+        521
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "LARK DALTON\nWV, USA|+1-737-653-4653|lark.dalton@example.com\nWORK HISTORY\nRegistered Nurses, NewPath Nursing Group, 2021.04–2023.01\n-Provided catheter care\n- Conducted basic patient assessments\nEDUCATION\nBachelor's, Health Systems, Stonehill University, 2019\n• Completed coursework in nursing informatics basics\n• Studied fundamentals of wound assessment"
+}

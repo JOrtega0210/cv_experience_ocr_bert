@@ -1,0 +1,187 @@
+{
+  "id": "03706",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.915,
+  "n_lines": 13,
+  "mean_score": 0.9874,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AMANDA HUANG",
+      "score": 0.9918,
+      "box": [
+        117,
+        90,
+        398,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-875-743-4837 |amanda.huang@example.com",
+      "score": 0.9884,
+      "box": [
+        117,
+        151,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Digital Meadow, 2020.05–2023.01",
+      "score": 0.9867,
+      "box": [
+        114,
+        288,
+        637,
+        314
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.9926,
+      "box": [
+        126,
+        315,
+        428,
+        338
+      ]
+    },
+    {
+      "text": "- Led technical audits",
+      "score": 0.9772,
+      "box": [
+        126,
+        338,
+        327,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Softfield Tech, 2014.10–2017.06",
+      "score": 0.9916,
+      "box": [
+        116,
+        382,
+        624,
+        405
+      ]
+    },
+    {
+      "text": "- Implemented Ul components based on design specs",
+      "score": 0.9762,
+      "box": [
+        126,
+        406,
+        627,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented validation logic",
+      "score": 0.9934,
+      "box": [
+        126,
+        430,
+        406,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Stonefield University, 2013",
+      "score": 0.9761,
+      "box": [
+        115,
+        541,
+        474,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of backend frameworks",
+      "score": 0.9935,
+      "box": [
+        133,
+        566,
+        534,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in project documentation",
+      "score": 0.9852,
+      "box": [
+        133,
+        590,
+        594,
+        613
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "AMANDA HUANG\nCA, USA|+1-875-743-4837 |amanda.huang@example.com\nWORK HISTORY\nSoftware Developers, Digital Meadow, 2020.05–2023.01\n- Designed system architectures\n- Led technical audits\nSoftware Developers, Softfield Tech, 2014.10–2017.06\n- Implemented Ul components based on design specs\n- Implemented validation logic\nEDUCATION\nBachelor's, Stonefield University, 2013\n• Studied principles of backend frameworks\n• Completed coursework in project documentation"
+}

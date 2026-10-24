@@ -1,0 +1,148 @@
+{
+  "id": "00006",
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "PP-OCRv5_mobile_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.294,
+  "n_lines": 10,
+  "mean_score": 0.9797,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "EVAN CLAYTON",
+      "score": 0.9649,
+      "box": [
+        118,
+        90,
+        381,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA |+1-362-559-8513 |evan.clayton@example.com",
+      "score": 0.9817,
+      "box": [
+        116,
+        149,
+        655,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9942,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftLine Builders, 2018.05–2020.04",
+      "score": 0.9917,
+      "box": [
+        118,
+        289,
+        673,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9768,
+      "box": [
+        124,
+        312,
+        426,
+        342
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9787,
+      "box": [
+        126,
+        336,
+        493,
+        369
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Industrial Technology, Aspen Grove University, 2012",
+      "score": 0.9683,
+      "box": [
+        116,
+        446,
+        857,
+        476
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic HVAC concepts",
+      "score": 0.9609,
+      "box": [
+        130,
+        472,
+        592,
+        500
+      ]
+    },
+    {
+      "text": "• Studied principles of emergency procedures",
+      "score": 0.9809,
+      "box": [
+        132,
+        497,
+        557,
+        526
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "EVAN CLAYTON\nAL, USA |+1-362-559-8513 |evan.clayton@example.com\nWORK HISTORY\nConstruction Laborers, CraftLine Builders, 2018.05–2020.04\n- Assisted with concrete pouring\n- Performed basic sanding and painting\nEDUCATION\nSome college (no degree), Industrial Technology, Aspen Grove University, 2012\n• Completed coursework in basic HVAC concepts\n• Studied principles of emergency procedures"
+}

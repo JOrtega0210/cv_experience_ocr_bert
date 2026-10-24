@@ -1,0 +1,187 @@
+{
+  "id": "15920",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.986,
+  "n_lines": 13,
+  "mean_score": 0.9794,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DAVID MULLINS",
+      "score": 0.9639,
+      "box": [
+        116,
+        90,
+        379,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-668-595-5282| david.mullins@example.com",
+      "score": 0.9609,
+      "box": [
+        116,
+        151,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9825,
+      "box": [
+        115,
+        242,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Bluebeam Construction, 2020.06–2023.01",
+      "score": 0.99,
+      "box": [
+        115,
+        290,
+        723,
+        312
+      ]
+    },
+    {
+      "text": "- Developed long-term construction strategies",
+      "score": 0.9867,
+      "box": [
+        125,
+        314,
+        550,
+        339
+      ]
+    },
+    {
+      "text": "- Directed equipment operations",
+      "score": 0.9668,
+      "box": [
+        126,
+        339,
+        427,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmBase Builders, 2015.04–2017.11",
+      "score": 0.9808,
+      "box": [
+        115,
+        381,
+        677,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with site cleanup and debris removal",
+      "score": 0.9727,
+      "box": [
+        126,
+        407,
+        565,
+        430
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9823,
+      "box": [
+        126,
+        430,
+        426,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Logistics, High Meadow University, 2007",
+      "score": 0.9812,
+      "box": [
+        116,
+        541,
+        868,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of surface preparation",
+      "score": 0.9822,
+      "box": [
+        133,
+        566,
+        559,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic plumbing concepts",
+      "score": 0.9843,
+      "box": [
+        134,
+        590,
+        618,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "DAVID MULLINS\nGA, USA |+1-668-595-5282| david.mullins@example.com\nWORK HISTORY\nConstruction Laborers, Bluebeam Construction, 2020.06–2023.01\n- Developed long-term construction strategies\n- Directed equipment operations\nConstruction Laborers, FirmBase Builders, 2015.04–2017.11\n- Assisted with site cleanup and debris removal\n- Assisted with concrete pouring\nEDUCATION\nSome college (no degree), Construction Logistics, High Meadow University, 2007\n• Studied fundamentals of surface preparation\n• Completed coursework in basic plumbing concepts"
+}

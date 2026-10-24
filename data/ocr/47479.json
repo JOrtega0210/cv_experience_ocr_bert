@@ -1,0 +1,226 @@
+{
+  "id": "47479",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.874,
+  "n_lines": 16,
+  "mean_score": 0.9793,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MACKENZIE TODD",
+      "score": 0.9717,
+      "box": [
+        116,
+        90,
+        420,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-370-953-7997 |mackenzie.todd@example.com",
+      "score": 0.9889,
+      "box": [
+        116,
+        152,
+        687,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.981,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHands Care Center, 2019.12–2023.01",
+      "score": 0.9869,
+      "box": [
+        116,
+        289,
+        695,
+        312
+      ]
+    },
+    {
+      "text": "- Directed emergency response planning",
+      "score": 0.9575,
+      "box": [
+        126,
+        314,
+        505,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented care pathway frameworks",
+      "score": 0.9763,
+      "box": [
+        127,
+        339,
+        506,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellWay Medical Group, 2016.11–2019.12",
+      "score": 0.9703,
+      "box": [
+        115,
+        381,
+        699,
+        406
+      ]
+    },
+    {
+      "text": "- Provided pediatric nursing care",
+      "score": 0.98,
+      "box": [
+        126,
+        406,
+        431,
+        431
+      ]
+    },
+    {
+      "text": "- Managed pain control plans",
+      "score": 0.9691,
+      "box": [
+        126,
+        430,
+        399,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafePath Health Services, 2013.10–2016.11",
+      "score": 0.9833,
+      "box": [
+        115,
+        471,
+        712,
+        496
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.9924,
+      "box": [
+        126,
+        498,
+        527,
+        521
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9911,
+      "box": [
+        126,
+        521,
+        399,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Practical Nursing, Windridge University, 2012",
+      "score": 0.9762,
+      "box": [
+        114,
+        631,
+        723,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of sleep management in care",
+      "score": 0.9684,
+      "box": [
+        132,
+        656,
+        626,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in palliative care basics",
+      "score": 0.9775,
+      "box": [
+        135,
+        683,
+        582,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "MACKENZIE TODD\nSC, USA|+1-370-953-7997 |mackenzie.todd@example.com\nWORK HISTORY\nRegistered Nurses, KindHands Care Center, 2019.12–2023.01\n- Directed emergency response planning\n- Implemented care pathway frameworks\nRegistered Nurses, WellWay Medical Group, 2016.11–2019.12\n- Provided pediatric nursing care\n- Managed pain control plans\nRegistered Nurses, SafePath Health Services, 2013.10–2016.11\n- Administered injections under supervision\n- Recorded patient vital signs\nEDUCATION\nAssociate's degree, Practical Nursing, Windridge University, 2012\n• Studied fundamentals of sleep management in care\n• Completed coursework in palliative care basics"
+}

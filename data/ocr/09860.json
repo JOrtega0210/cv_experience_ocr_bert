@@ -1,0 +1,174 @@
+{
+  "id": "09860",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.88,
+  "n_lines": 12,
+  "mean_score": 0.9797,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARK FARMER",
+      "score": 0.9818,
+      "box": [
+        116,
+        90,
+        370,
+        120
+      ]
+    },
+    {
+      "text": "CO, USA|+1-909-285-9390|mark.farmer@example.com",
+      "score": 0.9827,
+      "box": [
+        116,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9848,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Systems, 2021.06–2023.01",
+      "score": 0.9912,
+      "box": [
+        115,
+        290,
+        671,
+        313
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.9807,
+      "box": [
+        127,
+        315,
+        469,
+        338
+      ]
+    },
+    {
+      "text": "- Designed configuration management systems",
+      "score": 0.9894,
+      "box": [
+        126,
+        339,
+        566,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Openfield Tech, 2017.06–2019.01",
+      "score": 0.9769,
+      "box": [
+        115,
+        381,
+        636,
+        406
+      ]
+    },
+    {
+      "text": "- Wrote command-line tools",
+      "score": 0.948,
+      "box": [
+        126,
+        406,
+        384,
+        429
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9547,
+      "box": [
+        126,
+        430,
+        447,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Morningstar High School, 2002",
+      "score": 0.9894,
+      "box": [
+        116,
+        541,
+        663,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of profiling tools",
+      "score": 0.9784,
+      "box": [
+        132,
+        564,
+        502,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "MARK FARMER\nCO, USA|+1-909-285-9390|mark.farmer@example.com\nWORK HISTORY\nSoftware Developers, Clearpath Systems, 2021.06–2023.01\n- Led backend platform development\n- Designed configuration management systems\nSoftware Developers, Openfield Tech, 2017.06–2019.01\n- Wrote command-line tools\n- Implemented error handling logic\nEDUCATION\nHigh school graduate/GED, Morningstar High School, 2002\n• Studied fundamentals of profiling tools"
+}

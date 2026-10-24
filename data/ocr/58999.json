@@ -1,0 +1,265 @@
+{
+  "id": "58999",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.926,
+  "n_lines": 19,
+  "mean_score": 0.982,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "GRACE SCHWARTZ",
+      "score": 0.9865,
+      "box": [
+        117,
+        90,
+        440,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-908-822-9372|grace.schwartz@example.com",
+      "score": 0.9922,
+      "box": [
+        115,
+        150,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeSpring Nursing, 2019.11–2023.01",
+      "score": 0.9895,
+      "box": [
+        116,
+        290,
+        645,
+        314
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.9775,
+      "box": [
+        127,
+        315,
+        455,
+        338
+      ]
+    },
+    {
+      "text": "- Managed patient outcome evaluation systems",
+      "score": 0.9879,
+      "box": [
+        126,
+        339,
+        567,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Hands Health Services, 2016.09–2019.11",
+      "score": 0.9864,
+      "box": [
+        115,
+        381,
+        778,
+        406
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.9795,
+      "box": [
+        125,
+        405,
+        520,
+        431
+      ]
+    },
+    {
+      "text": "- Directed patient care coordination",
+      "score": 0.9688,
+      "box": [
+        126,
+        432,
+        454,
+        454
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverLife Health Services, 2012.08–2015.10",
+      "score": 0.9885,
+      "box": [
+        116,
+        472,
+        705,
+        496
+      ]
+    },
+    {
+      "text": "- Provided end-of-life care",
+      "score": 0.9597,
+      "box": [
+        125,
+        497,
+        370,
+        519
+      ]
+    },
+    {
+      "text": "- Supervised junior nursing staff",
+      "score": 0.9814,
+      "box": [
+        126,
+        521,
+        424,
+        546
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindBridge Care Center, 2008.02–2011.04",
+      "score": 0.9851,
+      "box": [
+        116,
+        564,
+        696,
+        587
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9806,
+      "box": [
+        126,
+        590,
+        372,
+        614
+      ]
+    },
+    {
+      "text": "- Monitored patient intake and output",
+      "score": 0.9649,
+      "box": [
+        126,
+        614,
+        471,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health and Wellness, Rockland University, 2002",
+      "score": 0.9672,
+      "box": [
+        114,
+        723,
+        671,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing informatics basics",
+      "score": 0.9858,
+      "box": [
+        133,
+        749,
+        629,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in nutritional assessment",
+      "score": 0.9906,
+      "box": [
+        136,
+        775,
+        598,
+        795
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "GRACE SCHWARTZ\nWA, USA|+1-908-822-9372|grace.schwartz@example.com\nWORK HISTORY\nRegistered Nurses, LifeSpring Nursing, 2019.11–2023.01\n- Led nursing workflow optimization\n- Managed patient outcome evaluation systems\nRegistered Nurses, Harmony Hands Health Services, 2016.09–2019.11\n- Established nursing performance metrics\n- Directed patient care coordination\nRegistered Nurses, EverLife Health Services, 2012.08–2015.10\n- Provided end-of-life care\n- Supervised junior nursing staff\nRegistered Nurses, KindBridge Care Center, 2008.02–2011.04\n- Prepared sterile supplies\n- Monitored patient intake and output\nEDUCATION\nBachelor's, Health and Wellness, Rockland University, 2002\n• Completed coursework in nursing informatics basics\n• Completed coursework in nutritional assessment"
+}

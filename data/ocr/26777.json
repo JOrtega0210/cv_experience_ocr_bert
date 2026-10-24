@@ -1,0 +1,148 @@
+{
+  "id": "26777",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.784,
+  "n_lines": 10,
+  "mean_score": 0.9809,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LAUREN HUNT",
+      "score": 0.9801,
+      "box": [
+        116,
+        90,
+        361,
+        120
+      ]
+    },
+    {
+      "text": "MI, USA|+1-583-499-3351 | lauren.hunt@example.com",
+      "score": 0.9642,
+      "box": [
+        115,
+        150,
+        640,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9805,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Inspire Learning School, 2020.11–2023.01",
+      "score": 0.9937,
+      "box": [
+        115,
+        290,
+        855,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared lesson summaries",
+      "score": 0.9804,
+      "box": [
+        126,
+        315,
+        403,
+        338
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9755,
+      "box": [
+        126,
+        339,
+        409,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        266,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Foundations, Greenfield University, 2022",
+      "score": 0.9656,
+      "box": [
+        115,
+        449,
+        696,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of formative feedback",
+      "score": 0.9864,
+      "box": [
+        133,
+        473,
+        555,
+        495
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of reading comprehension strategies",
+      "score": 0.9841,
+      "box": [
+        133,
+        497,
+        693,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "LAUREN HUNT\nMI, USA|+1-583-499-3351 | lauren.hunt@example.com\nWORK HISTORY\nElementary Middle School Teachers, Inspire Learning School, 2020.11–2023.01\n- Prepared lesson summaries\n- Provided math drill exercises\nEDUCATION\nBachelor's, Teaching Foundations, Greenfield University, 2022\n• Studied fundamentals of formative feedback\n• Studied fundamentals of reading comprehension strategies"
+}

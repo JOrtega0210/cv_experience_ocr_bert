@@ -1,0 +1,187 @@
+{
+  "id": "24985",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.852,
+  "n_lines": 13,
+  "mean_score": 0.9828,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "YADIRA KERR",
+      "score": 0.9699,
+      "box": [
+        113,
+        87,
+        351,
+        123
+      ]
+    },
+    {
+      "text": "MD, USA|+1-550-503-3325 |yadira.kerr@example.com",
+      "score": 0.9685,
+      "box": [
+        115,
+        150,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9793,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Hands School, 2021.03–2023.01",
+      "score": 0.9843,
+      "box": [
+        114,
+        289,
+        833,
+        314
+      ]
+    },
+    {
+      "text": "- Led curriculum alignment initiatives",
+      "score": 0.9872,
+      "box": [
+        126,
+        315,
+        467,
+        338
+      ]
+    },
+    {
+      "text": "- Directed program effectiveness studies",
+      "score": 0.9812,
+      "box": [
+        127,
+        340,
+        502,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Path School, 2019.04–2021.03",
+      "score": 0.9838,
+      "box": [
+        116,
+        382,
+        797,
+        405
+      ]
+    },
+    {
+      "text": "- Distributed assessment rubrics",
+      "score": 0.988,
+      "box": [
+        126,
+        407,
+        427,
+        429
+      ]
+    },
+    {
+      "text": "- Prepared lesson summaries",
+      "score": 0.9876,
+      "box": [
+        125,
+        430,
+        403,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Studies, Forestfield University, 2018",
+      "score": 0.9711,
+      "box": [
+        114,
+        539,
+        658,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom routines",
+      "score": 0.9941,
+      "box": [
+        134,
+        566,
+        565,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of early childhood education",
+      "score": 0.9839,
+      "box": [
+        133,
+        590,
+        578,
+        613
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "YADIRA KERR\nMD, USA|+1-550-503-3325 |yadira.kerr@example.com\nWORK HISTORY\nElementary Middle School Teachers, Caring Hands School, 2021.03–2023.01\n- Led curriculum alignment initiatives\n- Directed program effectiveness studies\nElementary Middle School Teachers, Kind Path School, 2019.04–2021.03\n- Distributed assessment rubrics\n- Prepared lesson summaries\nEDUCATION\nBachelor's, Education Studies, Forestfield University, 2018\n• Completed coursework in classroom routines\n• Studied principles of early childhood education"
+}

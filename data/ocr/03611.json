@@ -1,0 +1,148 @@
+{
+  "id": "03611",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.871,
+  "n_lines": 10,
+  "mean_score": 0.9826,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CHELCEY HUFF",
+      "score": 0.9899,
+      "box": [
+        117,
+        90,
+        377,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-693-653-4949 |chelcey.huff@example.com",
+      "score": 0.9836,
+      "box": [
+        117,
+        151,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9822,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Field School, 2020.10–2023.01",
+      "score": 0.9639,
+      "box": [
+        116,
+        290,
+        801,
+        313
+      ]
+    },
+    {
+      "text": "- Administered quizzes and short assessments",
+      "score": 0.9883,
+      "box": [
+        126,
+        315,
+        562,
+        338
+      ]
+    },
+    {
+      "text": "- Recorded test results",
+      "score": 0.9817,
+      "box": [
+        128,
+        341,
+        339,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Foundations, Seabreeze University, 2022",
+      "score": 0.9868,
+      "box": [
+        115,
+        449,
+        695,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional sequencing",
+      "score": 0.9674,
+      "box": [
+        132,
+        472,
+        613,
+        498
+      ]
+    },
+    {
+      "text": "• Studied foundational teaching methods",
+      "score": 0.9833,
+      "box": [
+        133,
+        497,
+        509,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "CHELCEY HUFF\nCA, USA|+1-693-653-4949 |chelcey.huff@example.com\nWORK HISTORY\nElementary Middle School Teachers, Little Field School, 2020.10–2023.01\n- Administered quizzes and short assessments\n- Recorded test results\nEDUCATION\nBachelor's, Learning Foundations, Seabreeze University, 2022\n• Completed coursework in instructional sequencing\n• Studied foundational teaching methods"
+}

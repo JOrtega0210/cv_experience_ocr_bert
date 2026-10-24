@@ -1,0 +1,239 @@
+{
+  "id": "25429",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.826,
+  "n_lines": 17,
+  "mean_score": 0.9775,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSHUA AHMED",
+      "score": 0.9799,
+      "box": [
+        116,
+        90,
+        389,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-302-472-8311 |joshua.ahmed@example.com",
+      "score": 0.9787,
+      "box": [
+        115,
+        150,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9865,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightloop Systems, 2019.12–2023.01",
+      "score": 0.9821,
+      "box": [
+        116,
+        290,
+        675,
+        313
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.985,
+      "box": [
+        125,
+        313,
+        542,
+        338
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9778,
+      "box": [
+        125,
+        338,
+        439,
+        366
+      ]
+    },
+    {
+      "text": "Software Developers, Brightpoint Software, 2016.05–2019.06",
+      "score": 0.9781,
+      "box": [
+        115,
+        381,
+        684,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented caching strategies",
+      "score": 0.9755,
+      "box": [
+        126,
+        406,
+        437,
+        432
+      ]
+    },
+    {
+      "text": "- Designed data models",
+      "score": 0.9836,
+      "box": [
+        127,
+        432,
+        351,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudstack Digital, 2012.09–2015.11",
+      "score": 0.9829,
+      "box": [
+        116,
+        472,
+        662,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9522,
+      "box": [
+        126,
+        498,
+        418,
+        521
+      ]
+    },
+    {
+      "text": "- Handled input sanitization",
+      "score": 0.9795,
+      "box": [
+        126,
+        521,
+        382,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9748,
+      "box": [
+        115,
+        585,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Crossfield University, 2007",
+      "score": 0.9507,
+      "box": [
+        115,
+        632,
+        456,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Pioneer University, 2005",
+      "score": 0.9767,
+      "box": [
+        114,
+        656,
+        454,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of mutexes and semaphores",
+      "score": 0.9883,
+      "box": [
+        132,
+        681,
+        582,
+        706
+      ]
+    },
+    {
+      "text": "• Studied principles of programming languages",
+      "score": 0.9851,
+      "box": [
+        132,
+        706,
+        567,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "JOSHUA AHMED\nMA, USA|+1-302-472-8311 |joshua.ahmed@example.com\nWORK HISTORY\nSoftware Developers, Brightloop Systems, 2019.12–2023.01\n- Defined technical documentation standards\n- Led technical roadmap planning\nSoftware Developers, Brightpoint Software, 2016.05–2019.06\n- Implemented caching strategies\n- Designed data models\nSoftware Developers, Cloudstack Digital, 2012.09–2015.11\n- Implemented logging features\n- Handled input sanitization\nEDUCATION\nMaster's, Crossfield University, 2007\nBachelor's, Pioneer University, 2005\n• Studied principles of mutexes and semaphores\n• Studied principles of programming languages"
+}

@@ -1,0 +1,265 @@
+{
+  "id": "27534",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.869,
+  "n_lines": 19,
+  "mean_score": 0.9786,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RICHARD STONE",
+      "score": 0.9733,
+      "box": [
+        116,
+        90,
+        397,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-364-368-7465 |richard.stone@example.com",
+      "score": 0.9783,
+      "box": [
+        115,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9866,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Netwave Labs, 2019.10–2023.01",
+      "score": 0.9717,
+      "box": [
+        114,
+        288,
+        628,
+        313
+      ]
+    },
+    {
+      "text": "- Led cross-team technical alignment",
+      "score": 0.9854,
+      "box": [
+        125,
+        313,
+        471,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9653,
+      "box": [
+        126,
+        339,
+        461,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Flowstack Tech, 2016.07–2019.10",
+      "score": 0.9743,
+      "box": [
+        115,
+        381,
+        642,
+        406
+      ]
+    },
+    {
+      "text": "- Defined API standards",
+      "score": 0.9613,
+      "box": [
+        126,
+        406,
+        351,
+        429
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.9782,
+      "box": [
+        126,
+        430,
+        430,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Softstack Digital, 2013.04–216.07",
+      "score": 0.9844,
+      "box": [
+        115,
+        471,
+        646,
+        496
+      ]
+    },
+    {
+      "text": "- Optimized database queries",
+      "score": 0.976,
+      "box": [
+        125,
+        497,
+        403,
+        522
+      ]
+    },
+    {
+      "text": "- Improved code coverage",
+      "score": 0.9739,
+      "box": [
+        126,
+        521,
+        372,
+        549
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Software, 2010.01–2013.04",
+      "score": 0.9771,
+      "box": [
+        115,
+        563,
+        673,
+        588
+      ]
+    },
+    {
+      "text": "- Performed code formatting",
+      "score": 0.9802,
+      "box": [
+        125,
+        587,
+        389,
+        616
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9957,
+      "box": [
+        126,
+        614,
+        340,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Riverfield University, 2008",
+      "score": 0.9689,
+      "box": [
+        115,
+        725,
+        469,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of data modeling",
+      "score": 0.9713,
+      "box": [
+        131,
+        746,
+        473,
+        774
+      ]
+    },
+    {
+      "text": "• Studied principles of operating systems",
+      "score": 0.9921,
+      "box": [
+        133,
+        772,
+        511,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "RICHARD STONE\nMI, USA|+1-364-368-7465 |richard.stone@example.com\nWORK HISTORY\nSoftware Developers, Netwave Labs, 2019.10–2023.01\n- Led cross-team technical alignment\n- Implemented service orchestration\nSoftware Developers, Flowstack Tech, 2016.07–2019.10\n- Defined API standards\n- Led system reliability programs\nSoftware Developers, Softstack Digital, 2013.04–216.07\n- Optimized database queries\n- Improved code coverage\nSoftware Developers, Codefield Software, 2010.01–2013.04\n- Performed code formatting\n- Updated routing logic\nEDUCATION\nBachelor's, Riverfield University, 2008\n• Studied principles of data modeling\n• Studied principles of operating systems"
+}

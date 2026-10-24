@@ -1,0 +1,252 @@
+{
+  "id": "16852",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.11,
+  "n_lines": 18,
+  "mean_score": 0.9784,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ARTHUR ANDERSON",
+      "score": 0.9779,
+      "box": [
+        116,
+        90,
+        458,
+        121
+      ]
+    },
+    {
+      "text": "ID, USA|+1-218-276-4547 |arthur.anderson@example.com",
+      "score": 0.968,
+      "box": [
+        117,
+        152,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9823,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearTrack Construction, 2020.03–2023.01",
+      "score": 0.9872,
+      "box": [
+        114,
+        289,
+        732,
+        313
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9689,
+      "box": [
+        126,
+        314,
+        441,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.9718,
+      "box": [
+        126,
+        339,
+        439,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, EverRise Construction, 2017.05–2020.3",
+      "score": 0.9861,
+      "box": [
+        115,
+        381,
+        716,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed and approved project plans",
+      "score": 0.987,
+      "box": [
+        125,
+        406,
+        491,
+        431
+      ]
+    },
+    {
+      "text": "-Directed installation methodologies",
+      "score": 0.9861,
+      "box": [
+        125,
+        430,
+        466,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardRock Construction, 2014.07–2017.05",
+      "score": 0.9716,
+      "box": [
+        114,
+        471,
+        725,
+        496
+      ]
+    },
+    {
+      "text": "- Installed support beams",
+      "score": 0.9797,
+      "box": [
+        125,
+        496,
+        365,
+        521
+      ]
+    },
+    {
+      "text": "- Installed ceiling systems",
+      "score": 0.9496,
+      "box": [
+        125,
+        521,
+        367,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Build Co., 2009.05–2012.04",
+      "score": 0.9737,
+      "box": [
+        114,
+        563,
+        674,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9744,
+      "box": [
+        125,
+        589,
+        426,
+        614
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9662,
+      "box": [
+        125,
+        614,
+        406,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Concrete Technology, Northfield High School, 2007",
+      "score": 0.9947,
+      "box": [
+        116,
+        725,
+        853,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of construction documentation",
+      "score": 0.987,
+      "box": [
+        134,
+        750,
+        596,
+        770
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "ARTHUR ANDERSON\nID, USA|+1-218-276-4547 |arthur.anderson@example.com\nWORK HISTORY\nConstruction Laborers, ClearTrack Construction, 2020.03–2023.01\n- Led complex demolition projects\n- Reviewed engineering drawings\nConstruction Laborers, EverRise Construction, 2017.05–2020.3\n- Reviewed and approved project plans\n-Directed installation methodologies\nConstruction Laborers, HardRock Construction, 2014.07–2017.05\n- Installed support beams\n- Installed ceiling systems\nConstruction Laborers, Reliable Build Co., 2009.05–2012.04\n- Prepared scaffolding platforms\n- Installed temporary supports\nEDUCATION\nHigh school graduate/GED, Concrete Technology, Northfield High School, 2007\n• Studied principles of construction documentation"
+}

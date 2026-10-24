@@ -1,0 +1,239 @@
+{
+  "id": "12979",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.029,
+  "n_lines": 17,
+  "mean_score": 0.9839,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SHANA HAWKINS",
+      "score": 0.9705,
+      "box": [
+        116,
+        90,
+        406,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-471-555-5564|shana.hawkins@example.com",
+      "score": 0.9861,
+      "box": [
+        115,
+        150,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Services, 2020.12–2023.01",
+      "score": 0.993,
+      "box": [
+        115,
+        290,
+        706,
+        313
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9791,
+      "box": [
+        125,
+        313,
+        323,
+        340
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9893,
+      "box": [
+        126,
+        338,
+        508,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Accounting, 2018.11–202.12",
+      "score": 0.9781,
+      "box": [
+        115,
+        381,
+        718,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed financial systems data",
+      "score": 0.9884,
+      "box": [
+        125,
+        406,
+        446,
+        431
+      ]
+    },
+    {
+      "text": "- Developed audit plans",
+      "score": 0.9672,
+      "box": [
+        125,
+        430,
+        349,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Group, 2016.09–2018.11",
+      "score": 0.9734,
+      "box": [
+        115,
+        472,
+        683,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedures",
+      "score": 0.9883,
+      "box": [
+        125,
+        496,
+        508,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9949,
+      "box": [
+        126,
+        521,
+        422,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Business Law, Pine Valley University, 2019",
+      "score": 0.9852,
+      "box": [
+        115,
+        632,
+        609,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Taxation, Morningstar University, 2017",
+      "score": 0.9821,
+      "box": [
+        115,
+        658,
+        584,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting controls testing",
+      "score": 0.9756,
+      "box": [
+        134,
+        683,
+        635,
+        707
+      ]
+    },
+    {
+      "text": "• Studied principles of financial ratio analysis",
+      "score": 0.9901,
+      "box": [
+        132,
+        706,
+        546,
+        731
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "SHANA HAWKINS\nFL, USA|+1-471-555-5564|shana.hawkins@example.com\nWORK HISTORY\nAccountants Auditors, SolidBalance Services, 2020.12–2023.01\n- Led audit programs\n- Established tax compliance frameworks\nAccountants Auditors, OpenBooks Accounting, 2018.11–202.12\n- Reviewed financial systems data\n- Developed audit plans\nAccountants Auditors, SteadyCount Group, 2016.09–2018.11\n- Assisted with monthly close procedures\n- Assisted with regulatory filings\nEDUCATION\nMaster's, Business Law, Pine Valley University, 2019\nBachelor's, Taxation, Morningstar University, 2017\n• Completed coursework in accounting controls testing\n• Studied principles of financial ratio analysis"
+}

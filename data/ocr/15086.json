@@ -1,0 +1,187 @@
+{
+  "id": "15086",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.001,
+  "n_lines": 13,
+  "mean_score": 0.9812,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TRACY CHURCH",
+      "score": 0.9737,
+      "box": [
+        115,
+        90,
+        388,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-976-556-4667|tracy.church@example.com",
+      "score": 0.9737,
+      "box": [
+        116,
+        151,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.978,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Hills Academy, 2020.07–2023.01",
+      "score": 0.9865,
+      "box": [
+        114,
+        289,
+        858,
+        314
+      ]
+    },
+    {
+      "text": "- Directed program effectiveness studies",
+      "score": 0.9707,
+      "box": [
+        126,
+        315,
+        503,
+        338
+      ]
+    },
+    {
+      "text": "- Developed district-aligned lesson frameworks",
+      "score": 0.9815,
+      "box": [
+        127,
+        340,
+        562,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Harbor School, 2016.10–2019.05",
+      "score": 0.9684,
+      "box": [
+        116,
+        382,
+        821,
+        405
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.992,
+      "box": [
+        126,
+        407,
+        443,
+        429
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.9838,
+      "box": [
+        126,
+        430,
+        399,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Some college (no degree), Child and Youth Studies, Clearstone University, 2001",
+      "score": 0.9815,
+      "box": [
+        116,
+        541,
+        858,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of student engagement",
+      "score": 0.9856,
+      "box": [
+        133,
+        566,
+        534,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of early childhood education",
+      "score": 0.9821,
+      "box": [
+        133,
+        591,
+        579,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "TRACY CHURCH\nGA, USA |+1-976-556-4667|tracy.church@example.com\nWORK HISTORY\nElementary Middle School Teachers, Harmony Hills Academy, 2020.07–2023.01\n- Directed program effectiveness studies\n- Developed district-aligned lesson frameworks\nElementary Middle School Teachers, Little Harbor School, 2016.10–2019.05\n- Scheduled instructional activities\n- Conducted spelling practice\nEDUCATION\nSome college (no degree), Child and Youth Studies, Clearstone University, 2001\n• Studied principles of student engagement\n• Studied principles of early childhood education"
+}

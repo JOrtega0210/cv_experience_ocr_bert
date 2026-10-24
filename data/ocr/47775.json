@@ -1,0 +1,200 @@
+{
+  "id": "47775",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.821,
+  "n_lines": 14,
+  "mean_score": 0.9787,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KRISTINA ALLEN",
+      "score": 0.9887,
+      "box": [
+        116,
+        90,
+        397,
+        120
+      ]
+    },
+    {
+      "text": "SC, USA|+1-788-378-3770 |kristina.allen@example.com",
+      "score": 0.9687,
+      "box": [
+        116,
+        151,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightLife Health Services, 2019.11–222.06",
+      "score": 0.9872,
+      "box": [
+        116,
+        290,
+        716,
+        313
+      ]
+    },
+    {
+      "text": "- Led nursing audit programs",
+      "score": 0.9728,
+      "box": [
+        125,
+        313,
+        397,
+        339
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9771,
+      "box": [
+        127,
+        340,
+        548,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightPath Health Services, 2016.02–2018.10",
+      "score": 0.982,
+      "box": [
+        115,
+        381,
+        725,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored oxygen therapy",
+      "score": 0.9754,
+      "box": [
+        125,
+        406,
+        384,
+        432
+      ]
+    },
+    {
+      "text": "- Performed blood glucose testing",
+      "score": 0.9751,
+      "box": [
+        126,
+        429,
+        441,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Community Health, Greenridge University, 2012",
+      "score": 0.9682,
+      "box": [
+        115,
+        540,
+        650,
+        563
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Studies, Silver Ridge University, 2010",
+      "score": 0.9394,
+      "box": [
+        115,
+        565,
+        647,
+        588
+      ]
+    },
+    {
+      "text": "• Completed coursework in therapeutic exercise basics",
+      "score": 0.9889,
+      "box": [
+        135,
+        593,
+        640,
+        613
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing workflow management",
+      "score": 0.994,
+      "box": [
+        134,
+        615,
+        673,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "KRISTINA ALLEN\nSC, USA|+1-788-378-3770 |kristina.allen@example.com\nWORK HISTORY\nRegistered Nurses, BrightLife Health Services, 2019.11–222.06\n- Led nursing audit programs\n- Developed clinical performance dashboards\nRegistered Nurses, BrightPath Health Services, 2016.02–2018.10\n- Monitored oxygen therapy\n- Performed blood glucose testing\nEDUCATION\nMaster's, Community Health, Greenridge University, 2012\nBachelor's, Clinical Studies, Silver Ridge University, 2010\n• Completed coursework in therapeutic exercise basics\n• Completed coursework in nursing workflow management"
+}

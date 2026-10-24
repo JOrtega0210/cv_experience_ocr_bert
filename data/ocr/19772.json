@@ -1,0 +1,148 @@
+{
+  "id": "19772",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.767,
+  "n_lines": 10,
+  "mean_score": 0.9788,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TIFFANY REED",
+      "score": 0.9863,
+      "box": [
+        115,
+        90,
+        361,
+        121
+      ]
+    },
+    {
+      "text": "IN, USA|+1-927-484-4435|tiffany.reed@example.com",
+      "score": 0.9842,
+      "box": [
+        117,
+        152,
+        636,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9787,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueCraft Builders, 2018.06–2020.08",
+      "score": 0.9588,
+      "box": [
+        115,
+        290,
+        676,
+        312
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.99,
+      "box": [
+        125,
+        314,
+        583,
+        339
+      ]
+    },
+    {
+      "text": "- Performed basic demolition tasks",
+      "score": 0.9841,
+      "box": [
+        127,
+        340,
+        449,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Technology, Willow Creek University, 2009",
+      "score": 0.9673,
+      "box": [
+        116,
+        449,
+        845,
+        473
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of site fencing",
+      "score": 0.9722,
+      "box": [
+        132,
+        472,
+        484,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of wall systems",
+      "score": 0.9681,
+      "box": [
+        133,
+        499,
+        497,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "TIFFANY REED\nIN, USA|+1-927-484-4435|tiffany.reed@example.com\nWORK HISTORY\nConstruction Laborers, TrueCraft Builders, 2018.06–2020.08\n- Assisted with basic electrical conduit placement\n- Performed basic demolition tasks\nEDUCATION\nSome college (no degree), Building Technology, Willow Creek University, 2009\n• Studied fundamentals of site fencing\n• Studied fundamentals of wall systems"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "25637",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.791,
+  "n_lines": 10,
+  "mean_score": 0.9795,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "FAITH LUCAS",
+      "score": 0.9621,
+      "box": [
+        115,
+        90,
+        341,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-790-892-8620 |faith.lucas@example.com",
+      "score": 0.9797,
+      "box": [
+        115,
+        150,
+        637,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9761,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Rising Stars School, 2021.06–2023.01",
+      "score": 0.9748,
+      "box": [
+        116,
+        290,
+        818,
+        313
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9922,
+      "box": [
+        126,
+        315,
+        459,
+        338
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9787,
+      "box": [
+        126,
+        339,
+        394,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Human Development, Oakview University, 2023",
+      "score": 0.977,
+      "box": [
+        116,
+        449,
+        811,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of learning reinforcement",
+      "score": 0.9759,
+      "box": [
+        132,
+        472,
+        588,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of learner motivation",
+      "score": 0.9801,
+      "box": [
+        135,
+        500,
+        507,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "FAITH LUCAS\nMA, USA|+1-790-892-8620 |faith.lucas@example.com\nWORK HISTORY\nElementary Middle School Teachers, Rising Stars School, 2021.06–2023.01\n- Recorded behavioral observations\n- Collected permission forms\nEDUCATION\nSome college (no degree), Human Development, Oakview University, 2023\n• Studied fundamentals of learning reinforcement\n• Studied principles of learner motivation"
+}

@@ -1,0 +1,213 @@
+{
+  "id": "11823",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.945,
+  "n_lines": 15,
+  "mean_score": 0.9841,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TREVER NOVAK",
+      "score": 0.9825,
+      "box": [
+        115,
+        90,
+        385,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-239-534-6248 |trever.novak@example.com",
+      "score": 0.9792,
+      "box": [
+        115,
+        150,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongLine Builders, 2020.06–2023.01",
+      "score": 0.9872,
+      "box": [
+        115,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Managed workforce allocation",
+      "score": 0.9831,
+      "box": [
+        126,
+        315,
+        421,
+        338
+      ]
+    },
+    {
+      "text": "- Supervised large structural repairs",
+      "score": 0.9928,
+      "box": [
+        126,
+        339,
+        459,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Clearline Builders, 2016.09–2019.04",
+      "score": 0.9933,
+      "box": [
+        116,
+        382,
+        672,
+        405
+      ]
+    },
+    {
+      "text": "-Assembled structural frameworks",
+      "score": 0.9919,
+      "box": [
+        125,
+        407,
+        449,
+        430
+      ]
+    },
+    {
+      "text": "- Monitored safety compliance",
+      "score": 0.9763,
+      "box": [
+        126,
+        430,
+        409,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongLine Construction, 2012.08–2015.04",
+      "score": 0.987,
+      "box": [
+        116,
+        472,
+        732,
+        496
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9783,
+      "box": [
+        126,
+        497,
+        367,
+        519
+      ]
+    },
+    {
+      "text": "- Followed safety procedures on site",
+      "score": 0.972,
+      "box": [
+        127,
+        522,
+        464,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Operations, Meadowland High School, 2008",
+      "score": 0.9866,
+      "box": [
+        115,
+        631,
+        908,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in concrete curing methods",
+      "score": 0.9665,
+      "box": [
+        132,
+        656,
+        618,
+        681
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "TREVER NOVAK\nFL, USA|+1-239-534-6248 |trever.novak@example.com\nWORK HISTORY\nConstruction Laborers, StrongLine Builders, 2020.06–2023.01\n- Managed workforce allocation\n- Supervised large structural repairs\nConstruction Laborers, Clearline Builders, 2016.09–2019.04\n-Assembled structural frameworks\n- Monitored safety compliance\nConstruction Laborers, StrongLine Construction, 2012.08–2015.04\n- Installed basic formwork\n- Followed safety procedures on site\nEDUCATION\nHigh school graduate/GED, Construction Operations, Meadowland High School, 2008\n• Completed coursework in concrete curing methods"
+}

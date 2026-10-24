@@ -1,0 +1,239 @@
+{
+  "id": "00044",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.066,
+  "n_lines": 17,
+  "mean_score": 0.9807,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LIBBY CALLAHAN",
+      "score": 0.9815,
+      "box": [
+        116,
+        90,
+        414,
+        120
+      ]
+    },
+    {
+      "text": "AL, USA|+1-697-843-6121 | libby.callahan@example.com",
+      "score": 0.982,
+      "box": [
+        116,
+        152,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9813,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Balance Financial, 2020.09–2023.01",
+      "score": 0.9877,
+      "box": [
+        115,
+        290,
+        751,
+        312
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9889,
+      "box": [
+        126,
+        313,
+        547,
+        339
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9688,
+      "box": [
+        127,
+        339,
+        479,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Services, 2018.04–2020.09",
+      "score": 0.9727,
+      "box": [
+        114,
+        381,
+        726,
+        406
+      ]
+    },
+    {
+      "text": "- Analyzed financial trends",
+      "score": 0.9885,
+      "box": [
+        127,
+        407,
+        375,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared management reports",
+      "score": 0.9809,
+      "box": [
+        126,
+        430,
+        427,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearPath Financial, 2015.11–2018.04",
+      "score": 0.9809,
+      "box": [
+        115,
+        472,
+        682,
+        495
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9799,
+      "box": [
+        125,
+        496,
+        382,
+        522
+      ]
+    },
+    {
+      "text": "-Maintained chart of accounts",
+      "score": 0.9486,
+      "box": [
+        126,
+        522,
+        409,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Investment Management, Clearfield Ridge University, 2018",
+      "score": 0.9788,
+      "box": [
+        114,
+        631,
+        753,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Accounting, Willow Ridge University, 2016",
+      "score": 0.975,
+      "box": [
+        115,
+        658,
+        706,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of forensic accounting",
+      "score": 0.9868,
+      "box": [
+        132,
+        681,
+        558,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in cost accounting",
+      "score": 0.9898,
+      "box": [
+        133,
+        707,
+        534,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "LIBBY CALLAHAN\nAL, USA|+1-697-843-6121 | libby.callahan@example.com\nWORK HISTORY\nAccountants Auditors, Accurate Balance Financial, 2020.09–2023.01\n- Established compliance monitoring systems\n- Led accounting process optimization\nAccountants Auditors, Precise Ledger Services, 2018.04–2020.09\n- Analyzed financial trends\n- Prepared management reports\nAccountants Auditors, ClearPath Financial, 2015.11–2018.04\n- Reviewed ledger postings\n-Maintained chart of accounts\nEDUCATION\nMaster's, Investment Management, Clearfield Ridge University, 2018\nBachelor's, Financial Accounting, Willow Ridge University, 2016\n• Studied fundamentals of forensic accounting\n• Completed coursework in cost accounting"
+}

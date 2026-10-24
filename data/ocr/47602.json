@@ -1,0 +1,226 @@
+{
+  "id": "47602",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.844,
+  "n_lines": 16,
+  "mean_score": 0.9778,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ALICIA EVANS",
+      "score": 0.9702,
+      "box": [
+        116,
+        90,
+        353,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-929-604-9185|alicia.evans@example.com",
+      "score": 0.9785,
+      "box": [
+        116,
+        151,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverHands Health Services, 2019.12–2023.01",
+      "score": 0.9922,
+      "box": [
+        116,
+        290,
+        729,
+        313
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.9811,
+      "box": [
+        127,
+        315,
+        456,
+        338
+      ]
+    },
+    {
+      "text": "- Managed clinical risk assessments",
+      "score": 0.9753,
+      "box": [
+        126,
+        339,
+        463,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Heart Nursing, 2016.11–2019.12",
+      "score": 0.9699,
+      "box": [
+        116,
+        382,
+        681,
+        406
+      ]
+    },
+    {
+      "text": "- Supervised junior nursing staff",
+      "score": 0.9442,
+      "box": [
+        125,
+        406,
+        424,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted clinical audits",
+      "score": 0.9734,
+      "box": [
+        125,
+        432,
+        373,
+        454
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewLife Care Center, 2011.06–2014.07",
+      "score": 0.9765,
+      "box": [
+        115,
+        471,
+        671,
+        496
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.9843,
+      "box": [
+        124,
+        496,
+        416,
+        521
+      ]
+    },
+    {
+      "text": "- Updated patient medical records",
+      "score": 0.977,
+      "box": [
+        126,
+        521,
+        442,
+        545
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Promotion, Forestview University, 2008",
+      "score": 0.9706,
+      "box": [
+        114,
+        631,
+        655,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of chronic disease management",
+      "score": 0.9797,
+      "box": [
+        132,
+        656,
+        616,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in human anatomy and physiology",
+      "score": 0.9865,
+      "box": [
+        134,
+        681,
+        682,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ALICIA EVANS\nSC, USA|+1-929-604-9185|alicia.evans@example.com\nWORK HISTORY\nRegistered Nurses, EverHands Health Services, 2019.12–2023.01\n- Led nursing workflow optimization\n- Managed clinical risk assessments\nRegistered Nurses, Helping Heart Nursing, 2016.11–2019.12\n- Supervised junior nursing staff\n- Conducted clinical audits\nRegistered Nurses, NewLife Care Center, 2011.06–2014.07\n- Checked patient identification\n- Updated patient medical records\nEDUCATION\nBachelor's, Health Promotion, Forestview University, 2008\n• Studied principles of chronic disease management\n• Completed coursework in human anatomy and physiology"
+}

@@ -1,0 +1,161 @@
+{
+  "id": "11090",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.841,
+  "n_lines": 11,
+  "mean_score": 0.9818,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "FELIPE WATERS",
+      "score": 0.9755,
+      "box": [
+        116,
+        90,
+        389,
+        121
+      ]
+    },
+    {
+      "text": "CT, USA|+1-525-697-3541 | felipe.waters@example.com",
+      "score": 0.9824,
+      "box": [
+        117,
+        151,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Digital, 2020.12–2023.01",
+      "score": 0.9864,
+      "box": [
+        115,
+        290,
+        653,
+        313
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9731,
+      "box": [
+        125,
+        314,
+        363,
+        338
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9733,
+      "box": [
+        126,
+        339,
+        562,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Springdale University, 2022",
+      "score": 0.9854,
+      "box": [
+        115,
+        449,
+        463,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Skyline University, 2020",
+      "score": 0.9671,
+      "box": [
+        114,
+        472,
+        449,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in transaction management",
+      "score": 0.9829,
+      "box": [
+        133,
+        498,
+        620,
+        523
+      ]
+    },
+    {
+      "text": "• Completed coursework in information systems",
+      "score": 0.9898,
+      "box": [
+        133,
+        523,
+        575,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "FELIPE WATERS\nCT, USA|+1-525-697-3541 | felipe.waters@example.com\nWORK HISTORY\nSoftware Developers, Codecrest Digital, 2020.12–2023.01\n- Handled feature toggles\n- Fixed software bugs identified through testing\nEDUCATION\nMaster's, Springdale University, 2022\nBachelor's, Skyline University, 2020\n• Completed coursework in transaction management\n• Completed coursework in information systems"
+}

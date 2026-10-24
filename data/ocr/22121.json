@@ -1,0 +1,213 @@
+{
+  "id": "22121",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.87,
+  "n_lines": 15,
+  "mean_score": 0.98,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRANDON BREWER",
+      "score": 0.9653,
+      "box": [
+        116,
+        90,
+        446,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA|+1-743-450-4173 |brandon.brewer@example.com",
+      "score": 0.99,
+      "box": [
+        115,
+        150,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9821,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterFrame Builders, 2021.01–2023.01",
+      "score": 0.9707,
+      "box": [
+        115,
+        290,
+        712,
+        313
+      ]
+    },
+    {
+      "text": "- Developed project risk assessments",
+      "score": 0.9758,
+      "box": [
+        127,
+        315,
+        476,
+        338
+      ]
+    },
+    {
+      "text": "- Directed equipment operations",
+      "score": 0.9691,
+      "box": [
+        126,
+        339,
+        427,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorStone Construction, 2019.01–2021.01",
+      "score": 0.9885,
+      "box": [
+        115,
+        381,
+        751,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed installation quality",
+      "score": 0.9613,
+      "box": [
+        125,
+        406,
+        405,
+        432
+      ]
+    },
+    {
+      "text": "- Reviewed construction drawings",
+      "score": 0.9818,
+      "box": [
+        126,
+        430,
+        442,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Group, 2015.12–2018.01",
+      "score": 0.9902,
+      "box": [
+        116,
+        472,
+        672,
+        496
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.991,
+      "box": [
+        127,
+        498,
+        480,
+        521
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9677,
+      "box": [
+        126,
+        521,
+        332,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Equipment Technology, Meadowfield High School, 2011",
+      "score": 0.984,
+      "box": [
+        116,
+        632,
+        1017,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in safety signage standards",
+      "score": 0.9838,
+      "box": [
+        133,
+        658,
+        621,
+        681
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "BRANDON BREWER\nKY, USA|+1-743-450-4173 |brandon.brewer@example.com\nWORK HISTORY\nConstruction Laborers, MasterFrame Builders, 2021.01–2023.01\n- Developed project risk assessments\n- Directed equipment operations\nConstruction Laborers, AnchorStone Construction, 2019.01–2021.01\n- Reviewed installation quality\n- Reviewed construction drawings\nConstruction Laborers, PrimeBuild Group, 2015.12–2018.01\n- Supported crew leaders during tasks\n- Secured site fencing\nEDUCATION\nHigh school graduate/GED, Construction Equipment Technology, Meadowfield High School, 2011\n• Completed coursework in safety signage standards"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "32138",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.851,
+  "n_lines": 16,
+  "mean_score": 0.9822,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KARI PARK",
+      "score": 0.9576,
+      "box": [
+        114,
+        88,
+        305,
+        122
+      ]
+    },
+    {
+      "text": "NV, USA|+1-296-429-5164|kari.park@example.com",
+      "score": 0.9923,
+      "box": [
+        115,
+        150,
+        622,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Advisors, 2020.03–2023.01",
+      "score": 0.9912,
+      "box": [
+        115,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Led financial forecasting initiatives",
+      "score": 0.9744,
+      "box": [
+        126,
+        313,
+        458,
+        338
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9635,
+      "box": [
+        126,
+        339,
+        429,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Services, 2016.09–2019.07",
+      "score": 0.9878,
+      "box": [
+        114,
+        381,
+        739,
+        406
+      ]
+    },
+    {
+      "text": "-Prepared working capital analysis",
+      "score": 0.9891,
+      "box": [
+        125,
+        406,
+        453,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared regulatory reports",
+      "score": 0.973,
+      "box": [
+        126,
+        430,
+        398,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Group, 2013.02–2016.01",
+      "score": 0.9774,
+      "box": [
+        115,
+        472,
+        683,
+        496
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9873,
+      "box": [
+        125,
+        496,
+        550,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with compliance documentation",
+      "score": 0.9836,
+      "box": [
+        126,
+        521,
+        518,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Services, Elmwood University, 2006",
+      "score": 0.9738,
+      "box": [
+        114,
+        630,
+        648,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in mergers and acquisitions basics",
+      "score": 0.9905,
+      "box": [
+        134,
+        658,
+        685,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of quantitative analysis",
+      "score": 0.9902,
+      "box": [
+        134,
+        681,
+        567,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "KARI PARK\nNV, USA|+1-296-429-5164|kari.park@example.com\nWORK HISTORY\nAccountants Auditors, CoreBooks Advisors, 2020.03–2023.01\n- Led financial forecasting initiatives\n- Led audit planning governance\nAccountants Auditors, Accurate Ledger Services, 2016.09–2019.07\n-Prepared working capital analysis\n- Prepared regulatory reports\nAccountants Auditors, CoreBalance Group, 2013.02–2016.01\n- Processed accounts receivable transactions\n- Assisted with compliance documentation\nEDUCATION\nBachelor's, Financial Services, Elmwood University, 2006\n• Completed coursework in mergers and acquisitions basics\n• Studied fundamentals of quantitative analysis"
+}

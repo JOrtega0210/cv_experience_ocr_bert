@@ -1,0 +1,187 @@
+{
+  "id": "56781",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.812,
+  "n_lines": 13,
+  "mean_score": 0.9807,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JUAN KELLY",
+      "score": 0.9805,
+      "box": [
+        115,
+        88,
+        330,
+        122
+      ]
+    },
+    {
+      "text": "VA, USA|+1-570-849-3363 |juan.kelly@example.com",
+      "score": 0.9842,
+      "box": [
+        114,
+        150,
+        627,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9835,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Financial Group, 2020.08–2023.01",
+      "score": 0.9643,
+      "box": [
+        114,
+        289,
+        752,
+        313
+      ]
+    },
+    {
+      "text": "- Developed financial performance metrics",
+      "score": 0.9789,
+      "box": [
+        126,
+        315,
+        520,
+        338
+      ]
+    },
+    {
+      "text": "- Led internal audit functions",
+      "score": 0.9758,
+      "box": [
+        127,
+        340,
+        393,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Solutions, 2018.02–2020.08",
+      "score": 0.9966,
+      "box": [
+        115,
+        382,
+        694,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with internal control testing",
+      "score": 0.9745,
+      "box": [
+        125,
+        406,
+        474,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.9694,
+      "box": [
+        126,
+        431,
+        436,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Quantitative Finance, Silverview University, 2022",
+      "score": 0.9813,
+      "box": [
+        114,
+        539,
+        678,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of regulatory compliance",
+      "score": 0.9793,
+      "box": [
+        132,
+        564,
+        584,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of business strategy",
+      "score": 0.9833,
+      "box": [
+        133,
+        589,
+        504,
+        616
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JUAN KELLY\nVA, USA|+1-570-849-3363 |juan.kelly@example.com\nWORK HISTORY\nAccountants Auditors, FairLedger Financial Group, 2020.08–2023.01\n- Developed financial performance metrics\n- Led internal audit functions\nAccountants Auditors, AccuCount Solutions, 2018.02–2020.08\n- Assisted with internal control testing\n- Prepared basic financial reports\nEDUCATION\nBachelor's, Quantitative Finance, Silverview University, 2022\n• Studied fundamentals of regulatory compliance\n• Studied principles of business strategy"
+}

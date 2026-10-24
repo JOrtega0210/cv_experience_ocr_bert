@@ -1,0 +1,187 @@
+{
+  "id": "48198",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.871,
+  "n_lines": 13,
+  "mean_score": 0.98,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "PATRICK NICHOLS",
+      "score": 0.9801,
+      "box": [
+        115,
+        90,
+        427,
+        121
+      ]
+    },
+    {
+      "text": "SD,USA|+1-325-225-2770 |patrick.nichols@example.com",
+      "score": 0.9847,
+      "box": [
+        116,
+        151,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9786,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Hills School, 2019.08–2022.07",
+      "score": 0.9599,
+      "box": [
+        116,
+        290,
+        844,
+        313
+      ]
+    },
+    {
+      "text": "- Directed assessment development efforts",
+      "score": 0.9657,
+      "box": [
+        126,
+        315,
+        526,
+        338
+      ]
+    },
+    {
+      "text": "- Directed program effectiveness studies",
+      "score": 0.9833,
+      "box": [
+        127,
+        340,
+        503,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Start Academy, 2016.01–2018.12",
+      "score": 0.9884,
+      "box": [
+        115,
+        381,
+        858,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9732,
+      "box": [
+        126,
+        406,
+        496,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented basic literacy lessons",
+      "score": 0.9927,
+      "box": [
+        126,
+        431,
+        466,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Bachelor's, Elementary Education Preparation, Stonebrook University, 2006",
+      "score": 0.9672,
+      "box": [
+        115,
+        540,
+        815,
+        563
+      ]
+    },
+    {
+      "text": "• Studied principles of content delivery",
+      "score": 0.9907,
+      "box": [
+        133,
+        566,
+        488,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of lesson evaluation",
+      "score": 0.9763,
+      "box": [
+        134,
+        592,
+        539,
+        612
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "PATRICK NICHOLS\nSD,USA|+1-325-225-2770 |patrick.nichols@example.com\nWORK HISTORY\nElementary Middle School Teachers, Discovery Hills School, 2019.08–2022.07\n- Directed assessment development efforts\n- Directed program effectiveness studies\nElementary Middle School Teachers, Growing Start Academy, 2016.01–2018.12\n- Implemented lesson pacing guidelines\n- Implemented basic literacy lessons\nEDUCATION\nBachelor's, Elementary Education Preparation, Stonebrook University, 2006\n• Studied principles of content delivery\n• Studied fundamentals of lesson evaluation"
+}

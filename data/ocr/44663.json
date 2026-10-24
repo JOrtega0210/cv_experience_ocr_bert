@@ -1,0 +1,148 @@
+{
+  "id": "44663",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.753,
+  "n_lines": 10,
+  "mean_score": 0.9759,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MATTHEW FRYE",
+      "score": 0.9849,
+      "box": [
+        116,
+        90,
+        388,
+        120
+      ]
+    },
+    {
+      "text": "PA, USA|+1-897-784-6110|matthew.frye@example.com",
+      "score": 0.9574,
+      "box": [
+        115,
+        150,
+        659,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openstack Digital, 2021.06–2023.01",
+      "score": 0.9944,
+      "box": [
+        116,
+        290,
+        658,
+        313
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9502,
+      "box": [
+        125,
+        313,
+        364,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9807,
+      "box": [
+        127,
+        340,
+        478,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Elmwood Ridge University, 2023",
+      "score": 0.9654,
+      "box": [
+        116,
+        449,
+        669,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of client-side development",
+      "score": 0.9819,
+      "box": [
+        132,
+        472,
+        600,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of collaborative development",
+      "score": 0.9654,
+      "box": [
+        133,
+        499,
+        622,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "MATTHEW FRYE\nPA, USA|+1-897-784-6110|matthew.frye@example.com\nWORK HISTORY\nSoftware Developers, Openstack Digital, 2021.06–2023.01\n- Handled feature toggles\n- Assisted with system documentation\nEDUCATION\nSome college (no degree), Elmwood Ridge University, 2023\n• Studied fundamentals of client-side development\n• Studied fundamentals of collaborative development"
+}

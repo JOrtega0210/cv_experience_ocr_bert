@@ -1,0 +1,278 @@
+{
+  "id": "09039",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.013,
+  "n_lines": 20,
+  "mean_score": 0.9799,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DAVID NORMAN",
+      "score": 0.9803,
+      "box": [
+        116,
+        90,
+        382,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-453-845-1940 |david.norman@example.com",
+      "score": 0.9866,
+      "box": [
+        117,
+        151,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openframe Labs, 2020.01–2023.01",
+      "score": 0.9825,
+      "box": [
+        115,
+        288,
+        651,
+        313
+      ]
+    },
+    {
+      "text": "- Designed software development workflows",
+      "score": 0.9895,
+      "box": [
+        126,
+        314,
+        538,
+        339
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9865,
+      "box": [
+        126,
+        339,
+        444,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudpath Digital, 2017.01–2020.01",
+      "score": 0.9805,
+      "box": [
+        115,
+        381,
+        653,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented disaster recovery plans",
+      "score": 0.9903,
+      "box": [
+        126,
+        406,
+        483,
+        431
+      ]
+    },
+    {
+      "text": "- Designed event-driven architectures",
+      "score": 0.9803,
+      "box": [
+        126,
+        430,
+        477,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Cleargrid Software, 2014.01–2017.01",
+      "score": 0.9756,
+      "box": [
+        116,
+        472,
+        668,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented error handling frameworks",
+      "score": 0.9855,
+      "box": [
+        126,
+        498,
+        510,
+        521
+      ]
+    },
+    {
+      "text": "- Optimized database queries",
+      "score": 0.9851,
+      "box": [
+        127,
+        522,
+        403,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpath Systems, 2011.01–2014.01",
+      "score": 0.9761,
+      "box": [
+        113,
+        562,
+        666,
+        590
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.972,
+      "box": [
+        125,
+        588,
+        364,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.963,
+      "box": [
+        126,
+        614,
+        477,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Silverfield University, 2009",
+      "score": 0.9784,
+      "box": [
+        115,
+        725,
+        453,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Summit University, 2007",
+      "score": 0.9772,
+      "box": [
+        114,
+        747,
+        453,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in quality assurance",
+      "score": 0.954,
+      "box": [
+        132,
+        772,
+        553,
+        798
+      ]
+    },
+    {
+      "text": "• Completed coursework in requirements engineering",
+      "score": 0.9702,
+      "box": [
+        132,
+        798,
+        625,
+        823
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "DAVID NORMAN\nCA, USA|+1-453-845-1940 |david.norman@example.com\nWORK HISTORY\nSoftware Developers, Openframe Labs, 2020.01–2023.01\n- Designed software development workflows\n- Designed observability platforms\nSoftware Developers, Cloudpath Digital, 2017.01–2020.01\n- Implemented disaster recovery plans\n- Designed event-driven architectures\nSoftware Developers, Cleargrid Software, 2014.01–2017.01\n- Implemented error handling frameworks\n- Optimized database queries\nSoftware Developers, Flowpath Systems, 2011.01–2014.01\n- Handled feature toggles\n- Assisted with system documentation\nEDUCATION\nMaster's, Silverfield University, 2009\nBachelor's, Summit University, 2007\n• Completed coursework in quality assurance\n• Completed coursework in requirements engineering"
+}

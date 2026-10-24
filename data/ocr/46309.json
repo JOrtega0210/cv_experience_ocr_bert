@@ -1,0 +1,161 @@
+{
+  "id": "46309",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.817,
+  "n_lines": 11,
+  "mean_score": 0.9766,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MADISON PERRY",
+      "score": 0.98,
+      "box": [
+        116,
+        90,
+        401,
+        120
+      ]
+    },
+    {
+      "text": "PA, USA|+1-482-920-5016|madison.perry@example.com",
+      "score": 0.9594,
+      "box": [
+        115,
+        150,
+        672,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9755,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Horizons School, 2022.04–2023.01",
+      "score": 0.9745,
+      "box": [
+        116,
+        290,
+        855,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented basic literacy lessons",
+      "score": 0.9664,
+      "box": [
+        126,
+        314,
+        466,
+        339
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9865,
+      "box": [
+        126,
+        340,
+        399,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        266,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Education Services, Golden Meadow University, 2020",
+      "score": 0.9678,
+      "box": [
+        115,
+        449,
+        705,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Assistance, Northway University, 218",
+      "score": 0.9723,
+      "box": [
+        114,
+        472,
+        697,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of learning assessment",
+      "score": 0.9969,
+      "box": [
+        134,
+        499,
+        572,
+        522
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of science education",
+      "score": 0.9651,
+      "box": [
+        135,
+        525,
+        545,
+        545
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "MADISON PERRY\nPA, USA|+1-482-920-5016|madison.perry@example.com\nWORK HISTORY\nElementary Middle School Teachers, Caring Horizons School, 2022.04–2023.01\n- Implemented basic literacy lessons\n- Recorded student feedback\nEDUCATION\nMaster's, Education Services, Golden Meadow University, 2020\nBachelor's, Educational Assistance, Northway University, 218\n• Studied fundamentals of learning assessment\n• Studied fundamentals of science education"
+}

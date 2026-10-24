@@ -1,0 +1,226 @@
+{
+  "id": "45099",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.887,
+  "n_lines": 16,
+  "mean_score": 0.9849,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARY BENNETT",
+      "score": 0.984,
+      "box": [
+        116,
+        90,
+        384,
+        120
+      ]
+    },
+    {
+      "text": "PA, USA|+1-320-790-5391 |mary.bennett@example.com",
+      "score": 0.9818,
+      "box": [
+        115,
+        150,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9789,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Meadow School, 2020.10–2023.01",
+      "score": 0.9739,
+      "box": [
+        116,
+        290,
+        845,
+        313
+      ]
+    },
+    {
+      "text": "- Designed instructional accountability systems",
+      "score": 0.9838,
+      "box": [
+        125,
+        314,
+        562,
+        339
+      ]
+    },
+    {
+      "text": "- Led professional development planning",
+      "score": 0.9894,
+      "box": [
+        126,
+        338,
+        505,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Start School, 2017.06–2019.10",
+      "score": 0.9852,
+      "box": [
+        116,
+        382,
+        816,
+        406
+      ]
+    },
+    {
+      "text": "- Created instructional units",
+      "score": 0.99,
+      "box": [
+        126,
+        407,
+        383,
+        429
+      ]
+    },
+    {
+      "text": "- Integrated educational technology tools",
+      "score": 0.991,
+      "box": [
+        127,
+        433,
+        505,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Grove Academy, 2013.09–2016.01",
+      "score": 0.9831,
+      "box": [
+        116,
+        472,
+        873,
+        496
+      ]
+    },
+    {
+      "text": "- Distributed assessment rubrics",
+      "score": 0.9828,
+      "box": [
+        127,
+        499,
+        427,
+        519
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.9924,
+      "box": [
+        128,
+        523,
+        484,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Community Education, Harborview University, 2002",
+      "score": 0.971,
+      "box": [
+        115,
+        632,
+        702,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional modeling",
+      "score": 0.9807,
+      "box": [
+        134,
+        658,
+        591,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of learner diversity",
+      "score": 0.9912,
+      "box": [
+        134,
+        681,
+        488,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "MARY BENNETT\nPA, USA|+1-320-790-5391 |mary.bennett@example.com\nWORK HISTORY\nElementary Middle School Teachers, Bright Meadow School, 2020.10–2023.01\n- Designed instructional accountability systems\n- Led professional development planning\nElementary Middle School Teachers, Sunny Start School, 2017.06–2019.10\n- Created instructional units\n- Integrated educational technology tools\nElementary Middle School Teachers, Learning Grove Academy, 2013.09–2016.01\n- Distributed assessment rubrics\n- Conducted reading practice sessions\nEDUCATION\nBachelor's, Community Education, Harborview University, 2002\n• Completed coursework in instructional modeling\n• Studied principles of learner diversity"
+}

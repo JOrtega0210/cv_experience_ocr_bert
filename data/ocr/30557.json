@@ -1,0 +1,226 @@
+{
+  "id": "30557",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.865,
+  "n_lines": 16,
+  "mean_score": 0.9808,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CARLOS RILEY",
+      "score": 0.9762,
+      "box": [
+        116,
+        88,
+        368,
+        122
+      ]
+    },
+    {
+      "text": "MO, USA |+1-798-657-7772|carlos.riley@example.com",
+      "score": 0.9808,
+      "box": [
+        116,
+        151,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9858,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softbridge Digital, 2020.07–2023.01",
+      "score": 0.9785,
+      "box": [
+        115,
+        289,
+        653,
+        314
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9885,
+      "box": [
+        126,
+        314,
+        448,
+        339
+      ]
+    },
+    {
+      "text": "- Built fault-tolerant systems",
+      "score": 0.9603,
+      "box": [
+        126,
+        338,
+        388,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Openfield Labs, 2016.04–2018.11",
+      "score": 0.9928,
+      "box": [
+        116,
+        382,
+        636,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented logging frameworks",
+      "score": 0.9835,
+      "box": [
+        126,
+        407,
+        448,
+        431
+      ]
+    },
+    {
+      "text": "- Designed application modules",
+      "score": 0.9811,
+      "box": [
+        127,
+        432,
+        421,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Softframe Labs, 2012.05–2014.12",
+      "score": 0.9845,
+      "box": [
+        116,
+        472,
+        638,
+        495
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.9915,
+      "box": [
+        128,
+        499,
+        374,
+        521
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.9672,
+      "box": [
+        127,
+        523,
+        462,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Associate's degree, Skyview University, 2009",
+      "score": 0.97,
+      "box": [
+        115,
+        632,
+        537,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of collaborative development",
+      "score": 0.9708,
+      "box": [
+        132,
+        656,
+        623,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in performance benchmarking",
+      "score": 0.983,
+      "box": [
+        135,
+        683,
+        642,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "CARLOS RILEY\nMO, USA |+1-798-657-7772|carlos.riley@example.com\nWORK HISTORY\nSoftware Developers, Softbridge Digital, 2020.07–2023.01\n- Designed data storage strategies\n- Built fault-tolerant systems\nSoftware Developers, Openfield Labs, 2016.04–2018.11\n- Implemented logging frameworks\n- Designed application modules\nSoftware Developers, Softframe Labs, 2012.05–2014.12\n- Updated localization files\n- Updated application dependencies\nEDUCATION\nAssociate's degree, Skyview University, 2009\n• Studied fundamentals of collaborative development\n• Completed coursework in performance benchmarking"
+}

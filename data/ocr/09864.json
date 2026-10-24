@@ -1,0 +1,200 @@
+{
+  "id": "09864",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.934,
+  "n_lines": 14,
+  "mean_score": 0.9795,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DYLAN STEVENS",
+      "score": 0.9636,
+      "box": [
+        116,
+        90,
+        399,
+        121
+      ]
+    },
+    {
+      "text": "CO, USA | +1-576-941-7363|dylan.stevens@example.com",
+      "score": 0.9779,
+      "box": [
+        117,
+        151,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Co., 2021.01–2023.01",
+      "score": 0.9619,
+      "box": [
+        114,
+        289,
+        675,
+        313
+      ]
+    },
+    {
+      "text": "-Led financial data standardization",
+      "score": 0.9853,
+      "box": [
+        125,
+        313,
+        453,
+        338
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9767,
+      "box": [
+        126,
+        339,
+        530,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial Group, 2018.12–2021.01",
+      "score": 0.9882,
+      "box": [
+        114,
+        381,
+        789,
+        406
+      ]
+    },
+    {
+      "text": "- Maintained chart of accounts",
+      "score": 0.9586,
+      "box": [
+        126,
+        407,
+        409,
+        429
+      ]
+    },
+    {
+      "text": "- Reviewed billing statements",
+      "score": 0.9672,
+      "box": [
+        125,
+        430,
+        402,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Applied Accounting, Meadowcrest University, 2023",
+      "score": 0.9851,
+      "box": [
+        115,
+        541,
+        676,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Risk Management, Harborview University, 2022",
+      "score": 0.9859,
+      "box": [
+        115,
+        566,
+        666,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of forensic accounting",
+      "score": 0.9948,
+      "box": [
+        132,
+        590,
+        559,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in spreadsheet applications",
+      "score": 0.9848,
+      "box": [
+        133,
+        615,
+        620,
+        638
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "DYLAN STEVENS\nCO, USA | +1-576-941-7363|dylan.stevens@example.com\nWORK HISTORY\nAccountants Auditors, Integrity Books Co., 2021.01–2023.01\n-Led financial data standardization\n- Established reporting automation systems\nAccountants Auditors, Integrity Books Financial Group, 2018.12–2021.01\n- Maintained chart of accounts\n- Reviewed billing statements\nEDUCATION\nMaster's, Applied Accounting, Meadowcrest University, 2023\nBachelor's, Risk Management, Harborview University, 2022\n• Studied fundamentals of forensic accounting\n• Completed coursework in spreadsheet applications"
+}

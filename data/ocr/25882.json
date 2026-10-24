@@ -1,0 +1,200 @@
+{
+  "id": "25882",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.859,
+  "n_lines": 14,
+  "mean_score": 0.984,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TIFFANY BERGER",
+      "score": 0.9928,
+      "box": [
+        116,
+        90,
+        411,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-844-391-7374 |tiffany.berger@example.com",
+      "score": 0.978,
+      "box": [
+        115,
+        150,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.978,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Bridge Academy, 2021.04–2023.01",
+      "score": 0.9873,
+      "box": [
+        115,
+        290,
+        873,
+        313
+      ]
+    },
+    {
+      "text": "- Led instructional technology integration",
+      "score": 0.9724,
+      "box": [
+        125,
+        313,
+        505,
+        338
+      ]
+    },
+    {
+      "text": "- Developed system-wide assessment tools",
+      "score": 0.9836,
+      "box": [
+        126,
+        339,
+        530,
+        362
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Harbor School, 2018.07–2020.04",
+      "score": 0.9705,
+      "box": [
+        116,
+        382,
+        821,
+        405
+      ]
+    },
+    {
+      "text": "– Monitored independent work sessions",
+      "score": 0.9645,
+      "box": [
+        125,
+        406,
+        493,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared instructional materials and worksheets",
+      "score": 0.9881,
+      "box": [
+        125,
+        432,
+        587,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Learning and Development, Lakewood University, 2007",
+      "score": 0.9849,
+      "box": [
+        115,
+        541,
+        720,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Basic Education Studies, Crestview University, 2005",
+      "score": 0.9909,
+      "box": [
+        115,
+        566,
+        709,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional consistency",
+      "score": 0.9939,
+      "box": [
+        132,
+        590,
+        606,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of classroom inclusivity",
+      "score": 0.9934,
+      "box": [
+        133,
+        614,
+        532,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "TIFFANY BERGER\nMA, USA|+1-844-391-7374 |tiffany.berger@example.com\nWORK HISTORY\nElementary Middle School Teachers, Growing Bridge Academy, 2021.04–2023.01\n- Led instructional technology integration\n- Developed system-wide assessment tools\nElementary Middle School Teachers, Little Harbor School, 2018.07–2020.04\n– Monitored independent work sessions\n- Prepared instructional materials and worksheets\nEDUCATION\nMaster's, Learning and Development, Lakewood University, 2007\nBachelor's, Basic Education Studies, Crestview University, 2005\n• Studied fundamentals of instructional consistency\n• Studied principles of classroom inclusivity"
+}

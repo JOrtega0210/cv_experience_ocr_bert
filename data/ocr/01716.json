@@ -1,0 +1,187 @@
+{
+  "id": "01716",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.921,
+  "n_lines": 13,
+  "mean_score": 0.9833,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RACHEL SHORT",
+      "score": 0.9697,
+      "box": [
+        115,
+        88,
+        386,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-878-948-3225|rachel.short@example.com",
+      "score": 0.9851,
+      "box": [
+        115,
+        151,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpath Systems, 2020.10–2023.01",
+      "score": 0.9882,
+      "box": [
+        114,
+        288,
+        665,
+        314
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9738,
+      "box": [
+        126,
+        314,
+        453,
+        337
+      ]
+    },
+    {
+      "text": "- Defined quality assurance frameworks",
+      "score": 0.98,
+      "box": [
+        126,
+        339,
+        496,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Dataframe Labs, 2018.07–2020.10",
+      "score": 0.9939,
+      "box": [
+        116,
+        382,
+        645,
+        405
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9758,
+      "box": [
+        125,
+        406,
+        364,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9812,
+      "box": [
+        126,
+        431,
+        509,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearway University, 2017",
+      "score": 0.9946,
+      "box": [
+        115,
+        541,
+        468,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of dependency injection",
+      "score": 0.9735,
+      "box": [
+        133,
+        566,
+        538,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in computer programming fundamentals",
+      "score": 0.9851,
+      "box": [
+        133,
+        590,
+        736,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "RACHEL SHORT\nAZ, USA|+1-878-948-3225|rachel.short@example.com\nWORK HISTORY\nSoftware Developers, Flowpath Systems, 2020.10–2023.01\n- Led performance tuning initiatives\n- Defined quality assurance frameworks\nSoftware Developers, Dataframe Labs, 2018.07–2020.10\n- Handled feature toggles\n- Assisted with version control operations\nEDUCATION\nBachelor's, Clearway University, 2017\n• Studied principles of dependency injection\n• Completed coursework in computer programming fundamentals"
+}

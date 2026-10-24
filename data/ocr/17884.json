@@ -1,0 +1,226 @@
+{
+  "id": "17884",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.967,
+  "n_lines": 16,
+  "mean_score": 0.9811,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JORDAN BATES",
+      "score": 0.9854,
+      "box": [
+        116,
+        90,
+        381,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-659-881-9887 |jordan.bates@example.com",
+      "score": 0.9789,
+      "box": [
+        116,
+        151,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Group, 2020.11–2023.01",
+      "score": 0.9896,
+      "box": [
+        115,
+        289,
+        663,
+        313
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9837,
+      "box": [
+        127,
+        315,
+        512,
+        338
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.9761,
+      "box": [
+        127,
+        340,
+        485,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Group, 2016.09–2018.11",
+      "score": 0.9749,
+      "box": [
+        115,
+        382,
+        668,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared tax compliance filings",
+      "score": 0.9703,
+      "box": [
+        126,
+        406,
+        433,
+        431
+      ]
+    },
+    {
+      "text": "- Managed accounts receivable cycles",
+      "score": 0.9871,
+      "box": [
+        126,
+        431,
+        483,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Financial Group, 2013.09–2015.11",
+      "score": 0.9877,
+      "box": [
+        115,
+        472,
+        755,
+        496
+      ]
+    },
+    {
+      "text": "- Performed data validation checks",
+      "score": 0.9654,
+      "box": [
+        126,
+        497,
+        449,
+        519
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.9588,
+      "box": [
+        126,
+        521,
+        384,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Analytics, Northfield University, 2008",
+      "score": 0.9865,
+      "box": [
+        115,
+        632,
+        656,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in lease accounting",
+      "score": 0.9878,
+      "box": [
+        134,
+        658,
+        546,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in management information systems",
+      "score": 0.9812,
+      "box": [
+        134,
+        681,
+        702,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JORDAN BATES\nIL, USA|+1-659-881-9887 |jordan.bates@example.com\nWORK HISTORY\nAccountants Auditors, AccuCount Group, 2020.11–2023.01\n- Designed financial control environments\n- Designed financial policy frameworks\nAccountants Auditors, ClearCount Group, 2016.09–2018.11\n- Prepared tax compliance filings\n- Managed accounts receivable cycles\nAccountants Auditors, AccuCount Financial Group, 2013.09–2015.11\n- Performed data validation checks\n- Prepared variance reports\nEDUCATION\nBachelor's, Business Analytics, Northfield University, 2008\n• Completed coursework in lease accounting\n• Completed coursework in management information systems"
+}

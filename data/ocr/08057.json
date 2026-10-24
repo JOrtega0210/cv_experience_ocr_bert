@@ -1,0 +1,187 @@
+{
+  "id": "08057",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.978,
+  "n_lines": 13,
+  "mean_score": 0.9853,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "WILLIAM ALLEN",
+      "score": 0.9863,
+      "box": [
+        116,
+        90,
+        381,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA|+1-964-338-3419 |william.allen@example.com",
+      "score": 0.9651,
+      "box": [
+        116,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9927,
+      "box": [
+        115,
+        242,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearStone Construction, 2020.12–2023.01",
+      "score": 0.9906,
+      "box": [
+        115,
+        290,
+        733,
+        312
+      ]
+    },
+    {
+      "text": "-Designed construction staging plans",
+      "score": 0.9985,
+      "box": [
+        125,
+        314,
+        478,
+        339
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.9852,
+      "box": [
+        128,
+        341,
+        447,
+        361
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Builders, 2018.11–2020.12",
+      "score": 0.9947,
+      "box": [
+        116,
+        382,
+        655,
+        404
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9851,
+      "box": [
+        125,
+        405,
+        492,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9652,
+      "box": [
+        126,
+        430,
+        492,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Electrical Technology, Cedar Valley University, 2017",
+      "score": 0.974,
+      "box": [
+        116,
+        541,
+        854,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction inspection reporting",
+      "score": 0.9849,
+      "box": [
+        133,
+        565,
+        689,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction fundamentals",
+      "score": 0.9885,
+      "box": [
+        134,
+        591,
+        633,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "WILLIAM ALLEN\nCA, USA|+1-964-338-3419 |william.allen@example.com\nWORK HISTORY\nConstruction Laborers, ClearStone Construction, 2020.12–2023.01\n-Designed construction staging plans\n- Led cross-functional coordination\nConstruction Laborers, Unified Builders, 2018.11–2020.12\n- Performed basic sanding and painting\n- Assisted with equipment maintenance\nEDUCATION\nSome college (no degree), Electrical Technology, Cedar Valley University, 2017\n• Completed coursework in construction inspection reporting\n• Completed coursework in construction fundamentals"
+}

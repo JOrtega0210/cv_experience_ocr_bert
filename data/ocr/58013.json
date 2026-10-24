@@ -1,0 +1,239 @@
+{
+  "id": "58013",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.902,
+  "n_lines": 17,
+  "mean_score": 0.9801,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ROCIO PHAM",
+      "score": 0.9855,
+      "box": [
+        115,
+        88,
+        337,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA|+1-466-611-3616|rocio.pham@example.com",
+      "score": 0.9764,
+      "box": [
+        114,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Financial Group, 2020.12–2023.01",
+      "score": 0.9825,
+      "box": [
+        114,
+        289,
+        801,
+        313
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9564,
+      "box": [
+        125,
+        313,
+        478,
+        338
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9667,
+      "box": [
+        126,
+        339,
+        361,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Services, 2018.11–2020.12",
+      "score": 0.9804,
+      "box": [
+        115,
+        382,
+        731,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted account reconciliations",
+      "score": 0.9752,
+      "box": [
+        126,
+        407,
+        461,
+        430
+      ]
+    },
+    {
+      "text": "- Managed accounts payable cycles",
+      "score": 0.9827,
+      "box": [
+        126,
+        431,
+        461,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenLedger Financial Group, 2016.09–2018.11",
+      "score": 0.9859,
+      "box": [
+        115,
+        472,
+        767,
+        496
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9724,
+      "box": [
+        125,
+        496,
+        490,
+        521
+      ]
+    },
+    {
+      "text": "- Compiled financial schedules",
+      "score": 0.9928,
+      "box": [
+        126,
+        521,
+        413,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Data Analytics, Briarwood University, 2016",
+      "score": 0.9805,
+      "box": [
+        115,
+        631,
+        601,
+        654
+      ]
+    },
+    {
+      "text": "Bachelor's, Operations Management, Briar Ridge University, 2014",
+      "score": 0.978,
+      "box": [
+        114,
+        656,
+        727,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of corporate finance",
+      "score": 0.9843,
+      "box": [
+        132,
+        681,
+        503,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in intermediate accounting",
+      "score": 0.9775,
+      "box": [
+        132,
+        706,
+        611,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "ROCIO PHAM\nWA, USA|+1-466-611-3616|rocio.pham@example.com\nWORK HISTORY\nAccountants Auditors, Precise Balance Financial Group, 2020.12–2023.01\n- Established financial quality controls\n- Designed tax strategies\nAccountants Auditors, Integrity Ledger Services, 2018.11–2020.12\n- Conducted account reconciliations\n- Managed accounts payable cycles\nAccountants Auditors, OpenLedger Financial Group, 2016.09–2018.11\n- Processed accounts payable invoices\n- Compiled financial schedules\nEDUCATION\nMaster's, Data Analytics, Briarwood University, 2016\nBachelor's, Operations Management, Briar Ridge University, 2014\n• Studied principles of corporate finance\n• Completed coursework in intermediate accounting"
+}

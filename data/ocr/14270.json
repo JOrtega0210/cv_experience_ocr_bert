@@ -1,0 +1,226 @@
+{
+  "id": "14270",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.016,
+  "n_lines": 16,
+  "mean_score": 0.9818,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JACOB CARSON",
+      "score": 0.9641,
+      "box": [
+        116,
+        90,
+        389,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-986-288-7844 |jacob.carson@example.com",
+      "score": 0.9885,
+      "box": [
+        116,
+        151,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.982,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Start School, 2020.05–2023.01",
+      "score": 0.9702,
+      "box": [
+        116,
+        290,
+        798,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented long-term academic plans",
+      "score": 0.9845,
+      "box": [
+        127,
+        315,
+        507,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented academic policy updates",
+      "score": 0.9795,
+      "box": [
+        126,
+        339,
+        497,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Bridge School, 2017.09–2020.05",
+      "score": 0.988,
+      "box": [
+        115,
+        381,
+        855,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented formative assessment strategies",
+      "score": 0.9853,
+      "box": [
+        127,
+        408,
+        569,
+        431
+      ]
+    },
+    {
+      "text": "- Evaluated learning outcomes",
+      "score": 0.9839,
+      "box": [
+        126,
+        430,
+        412,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Meadow Academy, 2015.01–2017.09",
+      "score": 0.9912,
+      "box": [
+        115,
+        471,
+        896,
+        496
+      ]
+    },
+    {
+      "text": "- Maintained instructional logs",
+      "score": 0.9789,
+      "box": [
+        125,
+        496,
+        406,
+        522
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.982,
+      "box": [
+        126,
+        521,
+        413,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Academic Foundations, Brightwater University, 2016",
+      "score": 0.9723,
+      "box": [
+        115,
+        632,
+        711,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in student motivation concepts",
+      "score": 0.9641,
+      "box": [
+        132,
+        657,
+        647,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational data basics",
+      "score": 0.9948,
+      "box": [
+        135,
+        682,
+        608,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JACOB CARSON\nFL, USA|+1-986-288-7844 |jacob.carson@example.com\nWORK HISTORY\nElementary Middle School Teachers, Kind Start School, 2020.05–2023.01\n- Implemented long-term academic plans\n- Implemented academic policy updates\nElementary Middle School Teachers, Learning Bridge School, 2017.09–2020.05\n- Implemented formative assessment strategies\n- Evaluated learning outcomes\nElementary Middle School Teachers, Learning Meadow Academy, 2015.01–2017.09\n- Maintained instructional logs\n- Administered learning games\nEDUCATION\nBachelor's, Academic Foundations, Brightwater University, 2016\n• Completed coursework in student motivation concepts\n• Completed coursework in educational data basics"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "60201",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.792,
+  "n_lines": 13,
+  "mean_score": 0.9847,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "VICTORIA LEVY",
+      "score": 0.9895,
+      "box": [
+        115,
+        88,
+        376,
+        122
+      ]
+    },
+    {
+      "text": "WV, USA|+1-418-743-5341 |victoria.levy@example.com",
+      "score": 0.9721,
+      "box": [
+        115,
+        150,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9865,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skybridge Software, 2018.12–201.06",
+      "score": 0.9927,
+      "box": [
+        116,
+        290,
+        677,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9797,
+      "box": [
+        127,
+        315,
+        461,
+        338
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.976,
+      "box": [
+        126,
+        339,
+        409,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudline Solutions, 2015.11–2018.06",
+      "score": 0.9978,
+      "box": [
+        116,
+        382,
+        675,
+        405
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9653,
+      "box": [
+        127,
+        408,
+        340,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9827,
+      "box": [
+        126,
+        430,
+        421,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Bachelor's, Summit Ridge University, 2012",
+      "score": 0.9796,
+      "box": [
+        115,
+        541,
+        513,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in debugging techniques",
+      "score": 0.9909,
+      "box": [
+        133,
+        565,
+        594,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in signal processing basics",
+      "score": 0.9891,
+      "box": [
+        133,
+        590,
+        616,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "VICTORIA LEVY\nWV, USA|+1-418-743-5341 |victoria.levy@example.com\nWORK HISTORY\nSoftware Developers, Skybridge Software, 2018.12–201.06\n- Implemented service orchestration\n- Defined scalability roadmaps\nSoftware Developers, Cloudline Solutions, 2015.11–2018.06\n- Updated routing logic\n- Implemented REST endpoints\nEDUCATION\nBachelor's, Summit Ridge University, 2012\n• Completed coursework in debugging techniques\n• Completed coursework in signal processing basics"
+}

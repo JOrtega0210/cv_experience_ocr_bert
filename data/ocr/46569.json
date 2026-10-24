@@ -1,0 +1,226 @@
+{
+  "id": "46569",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.808,
+  "n_lines": 16,
+  "mean_score": 0.9806,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CORY YATES",
+      "score": 0.9619,
+      "box": [
+        116,
+        90,
+        336,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-552-954-6842 |cory.yates@example.com",
+      "score": 0.9783,
+      "box": [
+        115,
+        150,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9852,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netwave Tech, 2020.03–2023.01",
+      "score": 0.9784,
+      "box": [
+        115,
+        290,
+        628,
+        313
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9875,
+      "box": [
+        126,
+        315,
+        446,
+        338
+      ]
+    },
+    {
+      "text": "- Designed microservice architectures",
+      "score": 0.9894,
+      "box": [
+        126,
+        339,
+        478,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Skycore Software, 2017.05–2020.03",
+      "score": 0.977,
+      "box": [
+        115,
+        381,
+        660,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented error handling frameworks",
+      "score": 0.9763,
+      "box": [
+        127,
+        407,
+        511,
+        430
+      ]
+    },
+    {
+      "text": "- Integrated analytics services",
+      "score": 0.9874,
+      "box": [
+        126,
+        430,
+        406,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Openpoint Tech, 2014.06–2017.05",
+      "score": 0.9865,
+      "box": [
+        115,
+        471,
+        645,
+        496
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.983,
+      "box": [
+        125,
+        496,
+        448,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9623,
+      "box": [
+        126,
+        521,
+        447,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Riverstone Ridge University, 2014",
+      "score": 0.9772,
+      "box": [
+        115,
+        632,
+        542,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of software metrics",
+      "score": 0.9961,
+      "box": [
+        133,
+        657,
+        530,
+        679
+      ]
+    },
+    {
+      "text": "• Completed coursework in information systems",
+      "score": 0.9644,
+      "box": [
+        136,
+        683,
+        575,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "CORY YATES\nPA, USA|+1-552-954-6842 |cory.yates@example.com\nWORK HISTORY\nSoftware Developers, Netwave Tech, 2020.03–2023.01\n- Designed caching infrastructures\n- Designed microservice architectures\nSoftware Developers, Skycore Software, 2017.05–2020.03\n- Implemented error handling frameworks\n- Integrated analytics services\nSoftware Developers, Openpoint Tech, 2014.06–2017.05\n- Performed basic APl integrations\n- Implemented error handling logic\nEDUCATION\nBachelor's, Riverstone Ridge University, 2014\n• Studied fundamentals of software metrics\n• Completed coursework in information systems"
+}

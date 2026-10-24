@@ -1,0 +1,265 @@
+{
+  "id": "47167",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.924,
+  "n_lines": 19,
+  "mean_score": 0.9789,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARISSA SANDERS",
+      "score": 0.9758,
+      "box": [
+        116,
+        90,
+        444,
+        121
+      ]
+    },
+    {
+      "text": "RI, USA|+1-310-444-8070 |marissa.sanders@example.com",
+      "score": 0.9879,
+      "box": [
+        116,
+        152,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9796,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverWell Health Services, 2020.07–2023.01",
+      "score": 0.9812,
+      "box": [
+        116,
+        290,
+        709,
+        313
+      ]
+    },
+    {
+      "text": "- Developed staffing allocation models",
+      "score": 0.9675,
+      "box": [
+        127,
+        315,
+        482,
+        338
+      ]
+    },
+    {
+      "text": "- Directed clinical training standards",
+      "score": 0.9809,
+      "box": [
+        127,
+        340,
+        460,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellHands Medical Group, 2018.01–2020.07",
+      "score": 0.9627,
+      "box": [
+        115,
+        381,
+        718,
+        406
+      ]
+    },
+    {
+      "text": "- Directed patient care coordination",
+      "score": 0.9821,
+      "box": [
+        126,
+        407,
+        454,
+        430
+      ]
+    },
+    {
+      "text": "- Directed interdisciplinary workflow alignment",
+      "score": 0.9798,
+      "box": [
+        126,
+        431,
+        554,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Bridge Nursing, 2015.06–2018.01",
+      "score": 0.9774,
+      "box": [
+        116,
+        473,
+        679,
+        496
+      ]
+    },
+    {
+      "text": "- Managed patient referrals",
+      "score": 0.9835,
+      "box": [
+        126,
+        498,
+        381,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented infection prevention protocols",
+      "score": 0.9913,
+      "box": [
+        126,
+        521,
+        540,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunLife Care Group, 2012.11–2015.06",
+      "score": 0.9709,
+      "box": [
+        116,
+        564,
+        660,
+        588
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.9849,
+      "box": [
+        125,
+        589,
+        471,
+        614
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.973,
+      "box": [
+        125,
+        612,
+        513,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Allied Health, Parkview University, 2016",
+      "score": 0.9743,
+      "box": [
+        115,
+        723,
+        738,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in cultural competence",
+      "score": 0.9679,
+      "box": [
+        132,
+        748,
+        577,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of infection surveillance",
+      "score": 0.9786,
+      "box": [
+        135,
+        775,
+        535,
+        795
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "MARISSA SANDERS\nRI, USA|+1-310-444-8070 |marissa.sanders@example.com\nWORK HISTORY\nRegistered Nurses, EverWell Health Services, 2020.07–2023.01\n- Developed staffing allocation models\n- Directed clinical training standards\nRegistered Nurses, WellHands Medical Group, 2018.01–2020.07\n- Directed patient care coordination\n- Directed interdisciplinary workflow alignment\nRegistered Nurses, Caring Bridge Nursing, 2015.06–2018.01\n- Managed patient referrals\n- Implemented infection prevention protocols\nRegistered Nurses, SunLife Care Group, 2012.11–2015.06\n- Recorded patient weight and height\n- Performed basic life support procedures\nEDUCATION\nSome college (no degree), Allied Health, Parkview University, 2016\n• Completed coursework in cultural competence\n• Studied principles of infection surveillance"
+}

@@ -1,0 +1,200 @@
+{
+  "id": "47145",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.812,
+  "n_lines": 14,
+  "mean_score": 0.9851,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSHUA HEATH",
+      "score": 0.9917,
+      "box": [
+        116,
+        90,
+        382,
+        121
+      ]
+    },
+    {
+      "text": "RI, USA|+1-659-98-1600|joshua.heath@example.com",
+      "score": 0.9815,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corelink Software, 2020.11–2023.01",
+      "score": 0.9933,
+      "box": [
+        116,
+        289,
+        659,
+        312
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9846,
+      "box": [
+        125,
+        314,
+        451,
+        339
+      ]
+    },
+    {
+      "text": "- Designed microservice architectures",
+      "score": 0.9918,
+      "box": [
+        126,
+        339,
+        478,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Skyline Digital, 2018.08–2020.11",
+      "score": 0.9872,
+      "box": [
+        115,
+        381,
+        626,
+        406
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.9676,
+      "box": [
+        127,
+        407,
+        485,
+        430
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9939,
+      "box": [
+        126,
+        431,
+        604,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Westfield University, 2023",
+      "score": 0.9739,
+      "box": [
+        115,
+        541,
+        449,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Bright Ridge University, 2022",
+      "score": 0.9841,
+      "box": [
+        115,
+        566,
+        496,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in calculus for computing",
+      "score": 0.9886,
+      "box": [
+        133,
+        590,
+        596,
+        616
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of build systems",
+      "score": 0.9712,
+      "box": [
+        133,
+        614,
+        506,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "JOSHUA HEATH\nRI, USA|+1-659-98-1600|joshua.heath@example.com\nWORK HISTORY\nSoftware Developers, Corelink Software, 2020.11–2023.01\n- Defined data governance policies\n- Designed microservice architectures\nSoftware Developers, Skyline Digital, 2018.08–2020.11\n- Logged and tracked software defects\n- Implemented basic features in existing codebases\nEDUCATION\nMaster's, Westfield University, 2023\nBachelor's, Bright Ridge University, 2022\n• Completed coursework in calculus for computing\n• Studied fundamentals of build systems"
+}

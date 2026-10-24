@@ -1,0 +1,265 @@
+{
+  "id": "01225",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.034,
+  "n_lines": 19,
+  "mean_score": 0.984,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KELLY BOOKER",
+      "score": 0.9859,
+      "box": [
+        116,
+        90,
+        384,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-234-874-5804|kelly.booker@example.com",
+      "score": 0.9826,
+      "box": [
+        116,
+        152,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellBridge Medical Group, 2020.04–2023.01",
+      "score": 0.9649,
+      "box": [
+        115,
+        289,
+        716,
+        314
+      ]
+    },
+    {
+      "text": "- Developed patient safety programs",
+      "score": 0.9895,
+      "box": [
+        126,
+        314,
+        466,
+        339
+      ]
+    },
+    {
+      "text": "- Directed care coordination strategies",
+      "score": 0.9874,
+      "box": [
+        126,
+        339,
+        482,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeNest Nursing Services, 2017.07–2020.04",
+      "score": 0.9844,
+      "box": [
+        115,
+        381,
+        716,
+        406
+      ]
+    },
+    {
+      "text": "- Managed patient outcome evaluation systems",
+      "score": 0.9916,
+      "box": [
+        126,
+        406,
+        567,
+        432
+      ]
+    },
+    {
+      "text": "- Directed clinical training standards",
+      "score": 0.9844,
+      "box": [
+        126,
+        431,
+        459,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindCare Medical Services, 2014.10–2017.07",
+      "score": 0.9873,
+      "box": [
+        116,
+        472,
+        727,
+        496
+      ]
+    },
+    {
+      "text": "- Provided perioperative nursing care",
+      "score": 0.9781,
+      "box": [
+        125,
+        496,
+        472,
+        522
+      ]
+    },
+    {
+      "text": "- Administered complex medication regimens",
+      "score": 0.9891,
+      "box": [
+        126,
+        521,
+        546,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenLife Care Services, 2010.03–2013.01",
+      "score": 0.9849,
+      "box": [
+        116,
+        565,
+        695,
+        588
+      ]
+    },
+    {
+      "text": "- Updated patient medical records",
+      "score": 0.9587,
+      "box": [
+        127,
+        590,
+        443,
+        613
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.9835,
+      "box": [
+        127,
+        615,
+        527,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Nursing Studies, Briarwood University, 2006",
+      "score": 0.9837,
+      "box": [
+        115,
+        723,
+        713,
+        748
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical skills practice",
+      "score": 0.9873,
+      "box": [
+        133,
+        749,
+        582,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in fatigue management basics",
+      "score": 0.9889,
+      "box": [
+        135,
+        774,
+        644,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "KELLY BOOKER\nAZ, USA|+1-234-874-5804|kelly.booker@example.com\nWORK HISTORY\nRegistered Nurses, WellBridge Medical Group, 2020.04–2023.01\n- Developed patient safety programs\n- Directed care coordination strategies\nRegistered Nurses, LifeNest Nursing Services, 2017.07–2020.04\n- Managed patient outcome evaluation systems\n- Directed clinical training standards\nRegistered Nurses, KindCare Medical Services, 2014.10–2017.07\n- Provided perioperative nursing care\n- Administered complex medication regimens\nRegistered Nurses, OpenLife Care Services, 2010.03–2013.01\n- Updated patient medical records\n- Administered injections under supervision\nEDUCATION\nAssociate's degree, Nursing Studies, Briarwood University, 2006\n• Completed coursework in clinical skills practice\n• Completed coursework in fatigue management basics"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "00287",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.801,
+  "n_lines": 16,
+  "mean_score": 0.982,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANTHONY FREEMAN",
+      "score": 0.99,
+      "box": [
+        117,
+        90,
+        457,
+        120
+      ]
+    },
+    {
+      "text": "AL, USA|+1-549-251-1367 | anthony.freeman@example.com",
+      "score": 0.979,
+      "box": [
+        116,
+        152,
+        694,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9817,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Datacrest Software, 2019.12–2023.01",
+      "score": 0.9872,
+      "box": [
+        115,
+        288,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "- Designed Cl/CD frameworks",
+      "score": 0.9698,
+      "box": [
+        126,
+        315,
+        407,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9577,
+      "box": [
+        127,
+        340,
+        515,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Brightscale Labs, 2016.11–2019.12",
+      "score": 0.9909,
+      "box": [
+        115,
+        381,
+        651,
+        406
+      ]
+    },
+    {
+      "text": "- Developed reporting modules",
+      "score": 0.9948,
+      "box": [
+        126,
+        407,
+        415,
+        431
+      ]
+    },
+    {
+      "text": "- Developed RESTful APIs",
+      "score": 0.9754,
+      "box": [
+        127,
+        432,
+        376,
+        454
+      ]
+    },
+    {
+      "text": "Software Developers, Openline Labs, 2013.09–201.11",
+      "score": 0.9734,
+      "box": [
+        116,
+        472,
+        629,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented basic authentication logic",
+      "score": 0.9904,
+      "box": [
+        125,
+        496,
+        502,
+        522
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.967,
+      "box": [
+        127,
+        522,
+        346,
+        545
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Stonefield University, 2011",
+      "score": 0.9835,
+      "box": [
+        115,
+        632,
+        472,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in configuration management",
+      "score": 0.9903,
+      "box": [
+        134,
+        658,
+        637,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of ACID properties",
+      "score": 0.9819,
+      "box": [
+        134,
+        681,
+        490,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ANTHONY FREEMAN\nAL, USA|+1-549-251-1367 | anthony.freeman@example.com\nWORK HISTORY\nSoftware Developers, Datacrest Software, 2019.12–2023.01\n- Designed Cl/CD frameworks\n- Implemented access control frameworks\nSoftware Developers, Brightscale Labs, 2016.11–2019.12\n- Developed reporting modules\n- Developed RESTful APIs\nSoftware Developers, Openline Labs, 2013.09–201.11\n- Implemented basic authentication logic\n- Created test data sets\nEDUCATION\nBachelor's, Stonefield University, 2011\n• Completed coursework in configuration management\n• Studied principles of ACID properties"
+}

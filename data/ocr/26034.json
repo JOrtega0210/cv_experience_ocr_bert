@@ -1,0 +1,265 @@
+{
+  "id": "26034",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.883,
+  "n_lines": 19,
+  "mean_score": 0.9811,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRIAN YU",
+      "score": 0.9346,
+      "box": [
+        115,
+        88,
+        281,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA|+1-341-208-1336|brian.yu@example.com",
+      "score": 0.9912,
+      "box": [
+        114,
+        150,
+        618,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9867,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightloop Systems, 2019.08–2023.01",
+      "score": 0.9915,
+      "box": [
+        115,
+        289,
+        675,
+        314
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9812,
+      "box": [
+        125,
+        313,
+        410,
+        339
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9918,
+      "box": [
+        126,
+        339,
+        450,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Softstack Digital, 2016.03–2019.08",
+      "score": 0.985,
+      "box": [
+        115,
+        381,
+        646,
+        406
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9902,
+      "box": [
+        126,
+        406,
+        447,
+        431
+      ]
+    },
+    {
+      "text": "- Designed software development workflows",
+      "score": 0.9852,
+      "box": [
+        126,
+        431,
+        538,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Digital, 2012.10–2016.03",
+      "score": 0.9786,
+      "box": [
+        114,
+        470,
+        669,
+        498
+      ]
+    },
+    {
+      "text": "- Integrated analytics services",
+      "score": 0.9893,
+      "box": [
+        126,
+        498,
+        406,
+        521
+      ]
+    },
+    {
+      "text": "- Designed Ul workflows",
+      "score": 0.9425,
+      "box": [
+        125,
+        521,
+        355,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Flowstack Tech, 2008.04–2011.09",
+      "score": 0.9882,
+      "box": [
+        114,
+        563,
+        642,
+        588
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9683,
+      "box": [
+        126,
+        589,
+        418,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with container setup",
+      "score": 0.9854,
+      "box": [
+        125,
+        613,
+        414,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Valley View University, 2002",
+      "score": 0.9689,
+      "box": [
+        114,
+        723,
+        489,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in frontend frameworks basics",
+      "score": 0.9861,
+      "box": [
+        133,
+        749,
+        644,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of discrete mathematics",
+      "score": 0.9969,
+      "box": [
+        133,
+        773,
+        576,
+        795
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "BRIAN YU\nMA, USA|+1-341-208-1336|brian.yu@example.com\nWORK HISTORY\nSoftware Developers, Brightloop Systems, 2019.08–2023.01\n- Defined scalability roadmaps\n- Defined data governance policies\nSoftware Developers, Softstack Digital, 2016.03–2019.08\n- Designed caching infrastructures\n- Designed software development workflows\nSoftware Developers, Datastream Digital, 2012.10–2016.03\n- Integrated analytics services\n- Designed Ul workflows\nSoftware Developers, Flowstack Tech, 2008.04–2011.09\n- Implemented logging features\n- Assisted with container setup\nEDUCATION\nBachelor's, Valley View University, 2002\n• Completed coursework in frontend frameworks basics\n• Studied fundamentals of discrete mathematics"
+}

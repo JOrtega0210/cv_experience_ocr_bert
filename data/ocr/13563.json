@@ -1,0 +1,148 @@
+{
+  "id": "13563",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.853,
+  "n_lines": 10,
+  "mean_score": 0.9848,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JONATHAN HURST",
+      "score": 0.9867,
+      "box": [
+        116,
+        90,
+        429,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-681-747-9798 |jonathan.hurst@example.com",
+      "score": 0.9887,
+      "box": [
+        116,
+        152,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkForce Builders, 2020.02–2023.01",
+      "score": 0.9841,
+      "box": [
+        115,
+        290,
+        690,
+        313
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9759,
+      "box": [
+        127,
+        315,
+        510,
+        338
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9772,
+      "box": [
+        126,
+        339,
+        406,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Trades, Oakridge Valley University, 2023",
+      "score": 0.9751,
+      "box": [
+        116,
+        449,
+        827,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of equipment calibration",
+      "score": 0.98,
+      "box": [
+        132,
+        472,
+        540,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site layout",
+      "score": 0.9977,
+      "box": [
+        134,
+        499,
+        508,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JONATHAN HURST\nFL, USA|+1-681-747-9798 |jonathan.hurst@example.com\nWORK HISTORY\nConstruction Laborers, WorkForce Builders, 2020.02–2023.01\n- Operated hand tools for assembly tasks\n- Installed temporary supports\nEDUCATION\nSome college (no degree), Building Trades, Oakridge Valley University, 2023\n• Studied principles of equipment calibration\n• Studied fundamentals of job site layout"
+}

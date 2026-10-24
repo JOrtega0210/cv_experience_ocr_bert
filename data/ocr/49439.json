@@ -1,0 +1,213 @@
+{
+  "id": "49439",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.877,
+  "n_lines": 15,
+  "mean_score": 0.9818,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ALBERT ROSS",
+      "score": 0.9631,
+      "box": [
+        115,
+        88,
+        359,
+        122
+      ]
+    },
+    {
+      "text": "TN, USA|+1-705-653-6699|albert.ross@example.com",
+      "score": 0.9757,
+      "box": [
+        115,
+        150,
+        637,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidLine Contractors, 2020.02–2023.01",
+      "score": 0.9837,
+      "box": [
+        115,
+        290,
+        707,
+        313
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.9793,
+      "box": [
+        126,
+        314,
+        487,
+        336
+      ]
+    },
+    {
+      "text": "- Directed quality assurance programs",
+      "score": 0.9723,
+      "box": [
+        126,
+        339,
+        482,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardWay Builders, 2015.08–2018.08",
+      "score": 0.9818,
+      "box": [
+        115,
+        381,
+        676,
+        406
+      ]
+    },
+    {
+      "text": "- Managed material inventories",
+      "score": 0.9759,
+      "box": [
+        126,
+        407,
+        417,
+        430
+      ]
+    },
+    {
+      "text": "- Coordinated task assignments",
+      "score": 0.9886,
+      "box": [
+        126,
+        430,
+        423,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, SafeRise Construction, 2011.12–2014.12",
+      "score": 0.9925,
+      "box": [
+        116,
+        472,
+        717,
+        495
+      ]
+    },
+    {
+      "text": "- Installed simple fixtures",
+      "score": 0.9887,
+      "box": [
+        125,
+        496,
+        360,
+        521
+      ]
+    },
+    {
+      "text": "- Followed safety procedures on site",
+      "score": 0.9804,
+      "box": [
+        126,
+        521,
+        464,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        585,
+        267,
+        612
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Infrastructure, Meadowridge Valley High School, 2007",
+      "score": 0.9813,
+      "box": [
+        116,
+        632,
+        999,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction quality assurance",
+      "score": 0.9795,
+      "box": [
+        132,
+        655,
+        660,
+        682
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "ALBERT ROSS\nTN, USA|+1-705-653-6699|albert.ross@example.com\nWORK HISTORY\nConstruction Laborers, SolidLine Contractors, 2020.02–2023.01\n- Established construction benchmarks\n- Directed quality assurance programs\nConstruction Laborers, HardWay Builders, 2015.08–2018.08\n- Managed material inventories\n- Coordinated task assignments\nConstruction Laborers, SafeRise Construction, 2011.12–2014.12\n- Installed simple fixtures\n- Followed safety procedures on site\nEDUCATION\nHigh school graduate/GED, Construction Infrastructure, Meadowridge Valley High School, 2007\n• Studied fundamentals of construction quality assurance"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "60055",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.811,
+  "n_lines": 13,
+  "mean_score": 0.9749,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MICHAEL SNOW",
+      "score": 0.9591,
+      "box": [
+        115,
+        88,
+        385,
+        122
+      ]
+    },
+    {
+      "text": "WV, USA|+1-718-418-6886|michael.snow@example.com",
+      "score": 0.9773,
+      "box": [
+        114,
+        150,
+        672,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudframe Software, 2020.12–2023.01",
+      "score": 0.9874,
+      "box": [
+        114,
+        288,
+        691,
+        313
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9318,
+      "box": [
+        125,
+        313,
+        380,
+        338
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9879,
+      "box": [
+        126,
+        339,
+        447,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpath Digital 2018.11–2020.12",
+      "score": 0.9779,
+      "box": [
+        115,
+        381,
+        645,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9834,
+      "box": [
+        127,
+        408,
+        446,
+        431
+      ]
+    },
+    {
+      "text": "- Refactored simple functions for readability",
+      "score": 0.9598,
+      "box": [
+        126,
+        431,
+        529,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Brookside University, 2021",
+      "score": 0.9667,
+      "box": [
+        115,
+        541,
+        472,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in logic and computation",
+      "score": 0.9731,
+      "box": [
+        132,
+        565,
+        593,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in RESTful services",
+      "score": 0.9859,
+      "box": [
+        133,
+        590,
+        549,
+        613
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "MICHAEL SNOW\nWV, USA|+1-718-418-6886|michael.snow@example.com\nWORK HISTORY\nSoftware Developers, Cloudframe Software, 2020.12–2023.01\n- Defined coding standards\n- Designed caching infrastructures\nSoftware Developers, Flowpath Digital 2018.11–2020.12\n- Implemented error handling logic\n- Refactored simple functions for readability\nEDUCATION\nBachelor's, Brookside University, 2021\n• Completed coursework in logic and computation\n• Completed coursework in RESTful services"
+}

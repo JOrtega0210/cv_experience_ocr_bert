@@ -1,0 +1,278 @@
+{
+  "id": "14121",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.069,
+  "n_lines": 20,
+  "mean_score": 0.9816,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MAE STRONG",
+      "score": 0.9822,
+      "box": [
+        116,
+        90,
+        344,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-217-697-6357 |mae.strong@example.com",
+      "score": 0.9814,
+      "box": [
+        116,
+        151,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9808,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeBridge Nursing Services, 2020.06–2023.01",
+      "score": 0.9715,
+      "box": [
+        115,
+        289,
+        732,
+        314
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9799,
+      "box": [
+        126,
+        313,
+        471,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9706,
+      "box": [
+        127,
+        339,
+        571,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeBridge Nursing Services, 2017.11–2020.06",
+      "score": 0.9799,
+      "box": [
+        115,
+        381,
+        743,
+        406
+      ]
+    },
+    {
+      "text": "- Managed nursing unit operations",
+      "score": 0.9758,
+      "box": [
+        126,
+        406,
+        447,
+        431
+      ]
+    },
+    {
+      "text": "- Developed patient safety metrics",
+      "score": 0.9691,
+      "box": [
+        126,
+        430,
+        446,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearBridge Nursing Services, 2015.03–2017.11",
+      "score": 0.9829,
+      "box": [
+        116,
+        472,
+        748,
+        496
+      ]
+    },
+    {
+      "text": "- Administered sedation protocols",
+      "score": 0.996,
+      "box": [
+        125,
+        496,
+        440,
+        521
+      ]
+    },
+    {
+      "text": "- Monitored respiratory therapy treatments",
+      "score": 0.9753,
+      "box": [
+        126,
+        521,
+        519,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverPath Health Center, 2012.07–2015.03",
+      "score": 0.9901,
+      "box": [
+        116,
+        565,
+        696,
+        588
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9792,
+      "box": [
+        124,
+        588,
+        410,
+        613
+      ]
+    },
+    {
+      "text": "- Provided catheter care",
+      "score": 0.9822,
+      "box": [
+        126,
+        614,
+        352,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        679,
+        266,
+        703
+      ]
+    },
+    {
+      "text": "Professional degree, Health Systems, Riverstone Ridge University, 2013",
+      "score": 0.9913,
+      "box": [
+        114,
+        723,
+        788,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Systems, Fieldstone University, 209",
+      "score": 0.9742,
+      "box": [
+        114,
+        747,
+        635,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of health disparities",
+      "score": 0.9843,
+      "box": [
+        133,
+        773,
+        535,
+        795
+      ]
+    },
+    {
+      "text": "• Completed coursework in documentation standards",
+      "score": 0.9868,
+      "box": [
+        134,
+        800,
+        622,
+        820
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "MAE STRONG\nFL, USA|+1-217-697-6357 |mae.strong@example.com\nWORK HISTORY\nRegistered Nurses, LifeBridge Nursing Services, 2020.06–2023.01\n- Established care delivery standards\n- Implemented clinical decision support systems\nRegistered Nurses, SafeBridge Nursing Services, 2017.11–2020.06\n- Managed nursing unit operations\n- Developed patient safety metrics\nRegistered Nurses, ClearBridge Nursing Services, 2015.03–2017.11\n- Administered sedation protocols\n- Monitored respiratory therapy treatments\nRegistered Nurses, EverPath Health Center, 2012.07–2015.03\n- Recorded shift handoff notes\n- Provided catheter care\nEDUCATION\nProfessional degree, Health Systems, Riverstone Ridge University, 2013\nBachelor's, Health Systems, Fieldstone University, 209\n• Studied fundamentals of health disparities\n• Completed coursework in documentation standards"
+}

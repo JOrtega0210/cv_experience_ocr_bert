@@ -1,0 +1,135 @@
+{
+  "id": "06924",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.847,
+  "n_lines": 9,
+  "mean_score": 0.9739,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ERIK REILLY",
+      "score": 0.986,
+      "box": [
+        117,
+        90,
+        327,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-820-942-8712 |erik.reilly@example.com",
+      "score": 0.9434,
+      "box": [
+        117,
+        151,
+        623,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9822,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearLine Construction, 2018.07–2021.02",
+      "score": 0.991,
+      "box": [
+        115,
+        290,
+        721,
+        313
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9531,
+      "box": [
+        126,
+        315,
+        424,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9649,
+      "box": [
+        126,
+        339,
+        417,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Infrastructure, Greenwood High School, 2009",
+      "score": 0.9792,
+      "box": [
+        116,
+        449,
+        919,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site coordination",
+      "score": 0.9668,
+      "box": [
+        132,
+        472,
+        565,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "ERIK REILLY\nCA, USA|+1-820-942-8712 |erik.reilly@example.com\nWORK HISTORY\nConstruction Laborers, ClearLine Construction, 2018.07–2021.02\n- Followed blueprint instructions\n- Assisted with framing support\nEDUCATION\nHigh school graduate/GED, Construction Infrastructure, Greenwood High School, 2009\n• Studied fundamentals of job site coordination"
+}

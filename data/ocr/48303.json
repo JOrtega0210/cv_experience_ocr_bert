@@ -1,0 +1,161 @@
+{
+  "id": "48303",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.83,
+  "n_lines": 11,
+  "mean_score": 0.9791,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "GISEL SWEENEY",
+      "score": 0.9717,
+      "box": [
+        117,
+        90,
+        396,
+        121
+      ]
+    },
+    {
+      "text": "SD, USA|+1-594-256-9614 |gisel.sweeney@example.com",
+      "score": 0.9894,
+      "box": [
+        116,
+        152,
+        672,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9797,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Minds School, 2021.01–2023.01",
+      "score": 0.9601,
+      "box": [
+        116,
+        290,
+        811,
+        313
+      ]
+    },
+    {
+      "text": "-Conducted spelling practice",
+      "score": 0.9871,
+      "box": [
+        125,
+        314,
+        399,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed lesson objectives",
+      "score": 0.9943,
+      "box": [
+        126,
+        339,
+        399,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Teaching Foundations, Stonehill University, 2023",
+      "score": 0.9724,
+      "box": [
+        114,
+        447,
+        660,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, General Academic Studies, Redfield University, 2023",
+      "score": 0.9597,
+      "box": [
+        114,
+        472,
+        716,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson delivery techniques",
+      "score": 0.9818,
+      "box": [
+        133,
+        498,
+        634,
+        523
+      ]
+    },
+    {
+      "text": "• Completed coursework in introductory child psychology",
+      "score": 0.9751,
+      "box": [
+        134,
+        522,
+        656,
+        549
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "GISEL SWEENEY\nSD, USA|+1-594-256-9614 |gisel.sweeney@example.com\nWORK HISTORY\nElementary Middle School Teachers, Little Minds School, 2021.01–2023.01\n-Conducted spelling practice\n- Reviewed lesson objectives\nEDUCATION\nMaster's, Teaching Foundations, Stonehill University, 2023\nBachelor's, General Academic Studies, Redfield University, 2023\n• Completed coursework in lesson delivery techniques\n• Completed coursework in introductory child psychology"
+}

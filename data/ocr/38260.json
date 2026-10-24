@@ -1,0 +1,226 @@
+{
+  "id": "38260",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.851,
+  "n_lines": 16,
+  "mean_score": 0.9799,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RAQUELLECHASE",
+      "score": 0.9994,
+      "box": [
+        116,
+        90,
+        429,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-465-781-8973|raquelle.chase@example.com",
+      "score": 0.9803,
+      "box": [
+        115,
+        150,
+        677,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9813,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Services, 2021.01–2023.01",
+      "score": 0.9838,
+      "box": [
+        115,
+        289,
+        687,
+        312
+      ]
+    },
+    {
+      "text": "- Designed budgeting methodologies",
+      "score": 0.9763,
+      "box": [
+        126,
+        314,
+        469,
+        339
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9849,
+      "box": [
+        127,
+        340,
+        437,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Balance Group, 2018.12–2021.01",
+      "score": 0.9803,
+      "box": [
+        114,
+        381,
+        726,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed payroll reconciliations",
+      "score": 0.9575,
+      "box": [
+        126,
+        407,
+        440,
+        430
+      ]
+    },
+    {
+      "text": "- Conducted compliance reviews",
+      "score": 0.9534,
+      "box": [
+        127,
+        432,
+        432,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Group, 2016.11–2018.12",
+      "score": 0.9859,
+      "box": [
+        115,
+        472,
+        672,
+        495
+      ]
+    },
+    {
+      "text": "- Prepared supporting schedules",
+      "score": 0.975,
+      "box": [
+        126,
+        498,
+        431,
+        521
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.9707,
+      "box": [
+        126,
+        520,
+        362,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Services, Woodview University, 2014",
+      "score": 0.9956,
+      "box": [
+        115,
+        632,
+        659,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of business strategy",
+      "score": 0.9829,
+      "box": [
+        133,
+        656,
+        504,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in general ledger accounting",
+      "score": 0.9718,
+      "box": [
+        135,
+        683,
+        628,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "RAQUELLECHASE\nNY, USA|+1-465-781-8973|raquelle.chase@example.com\nWORK HISTORY\nAccountants Auditors, SolidBooks Services, 2021.01–2023.01\n- Designed budgeting methodologies\n- Developed financial risk models\nAccountants Auditors, Accurate Balance Group, 2018.12–2021.01\n- Reviewed payroll reconciliations\n- Conducted compliance reviews\nAccountants Auditors, ClearBooks Group, 2016.11–2018.12\n- Prepared supporting schedules\n- Recorded cash receipts\nEDUCATION\nBachelor's, Financial Services, Woodview University, 2014\n• Studied principles of business strategy\n• Completed coursework in general ledger accounting"
+}

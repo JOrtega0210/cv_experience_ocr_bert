@@ -1,0 +1,174 @@
+{
+  "id": "01086",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.953,
+  "n_lines": 12,
+  "mean_score": 0.9848,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANTHONY CRAIG",
+      "score": 0.9808,
+      "box": [
+        117,
+        90,
+        400,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-923-750-6782|anthony.craig@example.com",
+      "score": 0.9887,
+      "box": [
+        116,
+        152,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9796,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyFrame Builders, 2020.05–2023.01",
+      "score": 0.9814,
+      "box": [
+        114,
+        289,
+        712,
+        313
+      ]
+    },
+    {
+      "text": "-Coordinated large-scale material logistics",
+      "score": 0.9851,
+      "box": [
+        125,
+        313,
+        524,
+        339
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.9867,
+      "box": [
+        127,
+        338,
+        448,
+        362
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Structures, 2015.09–2018.6",
+      "score": 0.9946,
+      "box": [
+        116,
+        382,
+        673,
+        404
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9651,
+      "box": [
+        125,
+        404,
+        332,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9914,
+      "box": [
+        126,
+        431,
+        423,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, HVAC Technology, Maplewood High School, 2013",
+      "score": 0.9782,
+      "box": [
+        116,
+        541,
+        843,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in concrete curing methods",
+      "score": 0.9878,
+      "box": [
+        134,
+        566,
+        618,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "ANTHONY CRAIG\nAZ, USA|+1-923-750-6782|anthony.craig@example.com\nWORK HISTORY\nConstruction Laborers, SteadyFrame Builders, 2020.05–2023.01\n-Coordinated large-scale material logistics\n- Led cross-functional coordination\nConstruction Laborers, Unified Structures, 2015.09–2018.6\n- Secured site fencing\n- Assisted with excavation tasks\nEDUCATION\nHigh school graduate/GED, HVAC Technology, Maplewood High School, 2013\n• Completed coursework in concrete curing methods"
+}

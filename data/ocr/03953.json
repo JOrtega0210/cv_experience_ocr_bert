@@ -1,0 +1,148 @@
+{
+  "id": "03953",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.888,
+  "n_lines": 10,
+  "mean_score": 0.9803,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MAEVE HOGAN",
+      "score": 0.987,
+      "box": [
+        116,
+        90,
+        371,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-902-222-4436 |maeve.hogan@example.com",
+      "score": 0.9871,
+      "box": [
+        117,
+        151,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9733,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Steps Academy, 2020.04–2023.01",
+      "score": 0.9705,
+      "box": [
+        116,
+        290,
+        847,
+        313
+      ]
+    },
+    {
+      "text": "- Supported individual student learning activities",
+      "score": 0.9822,
+      "box": [
+        126,
+        314,
+        572,
+        339
+      ]
+    },
+    {
+      "text": "- Maintained instructional logs",
+      "score": 0.9805,
+      "box": [
+        126,
+        339,
+        406,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Skills, Briar Ridge University, 2021",
+      "score": 0.9634,
+      "box": [
+        115,
+        449,
+        630,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in student progress monitoring",
+      "score": 0.9855,
+      "box": [
+        133,
+        474,
+        647,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in creative teaching strategies",
+      "score": 0.9753,
+      "box": [
+        133,
+        498,
+        643,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "MAEVE HOGAN\nCA, USA|+1-902-222-4436 |maeve.hogan@example.com\nWORK HISTORY\nElementary Middle School Teachers, Sunny Steps Academy, 2020.04–2023.01\n- Supported individual student learning activities\n- Maintained instructional logs\nEDUCATION\nBachelor's, Learning Skills, Briar Ridge University, 2021\n• Completed coursework in student progress monitoring\n• Completed coursework in creative teaching strategies"
+}

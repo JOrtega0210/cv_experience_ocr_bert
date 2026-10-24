@@ -1,0 +1,135 @@
+{
+  "id": "10772",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.831,
+  "n_lines": 9,
+  "mean_score": 0.9783,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JACOB WILLIAMS",
+      "score": 0.9729,
+      "box": [
+        116,
+        90,
+        410,
+        121
+      ]
+    },
+    {
+      "text": "CT, USA|+1-970-418-1757 |jacob.williams@example.com",
+      "score": 0.968,
+      "box": [
+        116,
+        151,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9834,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, EverStrong Construction, 2022.03–2023.1",
+      "score": 0.9871,
+      "box": [
+        115,
+        290,
+        734,
+        313
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9733,
+      "box": [
+        126,
+        315,
+        485,
+        338
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9538,
+      "box": [
+        126,
+        339,
+        424,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Planning, Parkview High School, 2022",
+      "score": 0.9824,
+      "box": [
+        116,
+        449,
+        853,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of site access planning",
+      "score": 0.9855,
+      "box": [
+        132,
+        473,
+        529,
+        498
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "JACOB WILLIAMS\nCT, USA|+1-970-418-1757 |jacob.williams@example.com\nWORK HISTORY\nConstruction Laborers, EverStrong Construction, 2022.03–2023.1\n- Maintained cleanliness of work areas\n- Followed blueprint instructions\nEDUCATION\nHigh school graduate/GED, Construction Planning, Parkview High School, 2022\n• Studied principles of site access planning"
+}
