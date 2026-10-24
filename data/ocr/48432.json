@@ -1,0 +1,226 @@
+{
+  "id": "48432",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.858,
+  "n_lines": 16,
+  "mean_score": 0.9835,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BETTY STANTON",
+      "score": 0.9688,
+      "box": [
+        116,
+        90,
+        399,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-619-392-1643 |betty.stanton@example.com",
+      "score": 0.9753,
+      "box": [
+        115,
+        150,
+        659,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Life Nursing, 2020.09–2023.01",
+      "score": 0.9676,
+      "box": [
+        115,
+        289,
+        662,
+        314
+      ]
+    },
+    {
+      "text": "- Directed nursing education initiatives",
+      "score": 0.9784,
+      "box": [
+        127,
+        315,
+        482,
+        338
+      ]
+    },
+    {
+      "text": "- Established clinical evaluation protocols",
+      "score": 0.9913,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindCare Medical Services, 2017.06–2019.10",
+      "score": 0.9891,
+      "box": [
+        116,
+        383,
+        727,
+        406
+      ]
+    },
+    {
+      "text": "- Coordinated patient discharge planning",
+      "score": 0.9937,
+      "box": [
+        126,
+        406,
+        504,
+        432
+      ]
+    },
+    {
+      "text": "- Monitored fluid and electrolyte balance",
+      "score": 0.9836,
+      "box": [
+        126,
+        430,
+        499,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafePath Health, 2013.07–2015.12",
+      "score": 0.9885,
+      "box": [
+        115,
+        471,
+        628,
+        496
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.995,
+      "box": [
+        125,
+        496,
+        484,
+        521
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9678,
+      "box": [
+        126,
+        520,
+        365,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Technology, Goldenview University, 2005",
+      "score": 0.9846,
+      "box": [
+        114,
+        631,
+        727,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of teamwork in healthcare",
+      "score": 0.9749,
+      "box": [
+        132,
+        656,
+        558,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of adverse drug reactions",
+      "score": 0.9945,
+      "box": [
+        133,
+        681,
+        554,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "BETTY STANTON\nTN, USA|+1-619-392-1643 |betty.stanton@example.com\nWORK HISTORY\nRegistered Nurses, Helping Life Nursing, 2020.09–2023.01\n- Directed nursing education initiatives\n- Established clinical evaluation protocols\nRegistered Nurses, KindCare Medical Services, 2017.06–2019.10\n- Coordinated patient discharge planning\n- Monitored fluid and electrolyte balance\nRegistered Nurses, SafePath Health, 2013.07–2015.12\n- Administered prescribed medications\n- Recorded nursing notes\nEDUCATION\nBachelor's, Health Care Technology, Goldenview University, 2005\n• Studied principles of teamwork in healthcare\n• Studied principles of adverse drug reactions"
+}

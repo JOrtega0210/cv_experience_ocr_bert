@@ -1,0 +1,226 @@
+{
+  "id": "50560",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.831,
+  "n_lines": 16,
+  "mean_score": 0.9803,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RYAN MAY",
+      "score": 0.9639,
+      "box": [
+        115,
+        88,
+        299,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA|+1-708-240-2251|ryan.may@example.com",
+      "score": 0.989,
+      "box": [
+        116,
+        151,
+        625,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9852,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudstack Labs, 2021.01–2023.01",
+      "score": 0.9912,
+      "box": [
+        116,
+        289,
+        648,
+        312
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9915,
+      "box": [
+        126,
+        315,
+        451,
+        338
+      ]
+    },
+    {
+      "text": "- Defined engineering best practices",
+      "score": 0.9772,
+      "box": [
+        126,
+        339,
+        463,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Stonebyte Solutions, 2018.12–2021.01",
+      "score": 0.9896,
+      "box": [
+        115,
+        381,
+        680,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented security controls",
+      "score": 0.9816,
+      "box": [
+        126,
+        406,
+        420,
+        431
+      ]
+    },
+    {
+      "text": "- Built data visualization tools",
+      "score": 0.9733,
+      "box": [
+        126,
+        431,
+        399,
+        453
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstone Systems, 2016.11–2018.12",
+      "score": 0.9758,
+      "box": [
+        115,
+        471,
+        683,
+        496
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9786,
+      "box": [
+        125,
+        496,
+        403,
+        521
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.9628,
+      "box": [
+        127,
+        523,
+        484,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Northcrest University, 2015",
+      "score": 0.9762,
+      "box": [
+        115,
+        632,
+        478,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in frontend frameworks basics",
+      "score": 0.9862,
+      "box": [
+        133,
+        658,
+        644,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of linear algebra",
+      "score": 0.9636,
+      "box": [
+        134,
+        681,
+        469,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "RYAN MAY\nTX, USA|+1-708-240-2251|ryan.may@example.com\nWORK HISTORY\nSoftware Developers, Cloudstack Labs, 2021.01–2023.01\n- Defined data governance policies\n- Defined engineering best practices\nSoftware Developers, Stonebyte Solutions, 2018.12–2021.01\n- Implemented security controls\n- Built data visualization tools\nSoftware Developers, Clearstone Systems, 2016.11–2018.12\n- Participated in code reviews\n- Logged and tracked software defects\nEDUCATION\nBachelor's, Northcrest University, 2015\n• Completed coursework in frontend frameworks basics\n• Studied principles of linear algebra"
+}

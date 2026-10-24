@@ -1,0 +1,226 @@
+{
+  "id": "19465",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.867,
+  "n_lines": 16,
+  "mean_score": 0.9785,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "STEVEN RICHARD",
+      "score": 0.9745,
+      "box": [
+        116,
+        90,
+        415,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-382-314-8005 |steven.richard@example.com",
+      "score": 0.9853,
+      "box": [
+        116,
+        152,
+        660,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerCraft Builders, 2020.08–2023.01",
+      "score": 0.9858,
+      "box": [
+        115,
+        290,
+        697,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9736,
+      "box": [
+        125,
+        313,
+        477,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented workflow optimization",
+      "score": 0.9866,
+      "box": [
+        126,
+        339,
+        467,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidTrack Contractors, 2018.03–2020.08",
+      "score": 0.9956,
+      "box": [
+        116,
+        382,
+        721,
+        405
+      ]
+    },
+    {
+      "text": "– Managed material inventories",
+      "score": 0.962,
+      "box": [
+        127,
+        407,
+        417,
+        430
+      ]
+    },
+    {
+      "text": "- Reviewed construction drawings",
+      "score": 0.9655,
+      "box": [
+        125,
+        430,
+        442,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Builders, 2015.10–2018.03",
+      "score": 0.9906,
+      "box": [
+        116,
+        472,
+        654,
+        495
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9662,
+      "box": [
+        125,
+        496,
+        435,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9592,
+      "box": [
+        126,
+        521,
+        417,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Civil Technology, Meadowland University, 2018",
+      "score": 0.9728,
+      "box": [
+        115,
+        631,
+        807,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of building permits overview",
+      "score": 0.9841,
+      "box": [
+        132,
+        656,
+        577,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction materials handling",
+      "score": 0.9699,
+      "box": [
+        135,
+        683,
+        675,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "STEVEN RICHARD\nIL, USA|+1-382-314-8005 |steven.richard@example.com\nWORK HISTORY\nConstruction Laborers, CornerCraft Builders, 2020.08–2023.01\n- Reviewed material quality standards\n- Implemented workflow optimization\nConstruction Laborers, SolidTrack Contractors, 2018.03–2020.08\n– Managed material inventories\n- Reviewed construction drawings\nConstruction Laborers, Unified Builders, 2015.10–2018.03\n- Installed temporary site barriers\n- Assisted with framing support\nEDUCATION\nSome college (no degree), Civil Technology, Meadowland University, 2018\n• Studied principles of building permits overview\n• Completed coursework in construction materials handling"
+}

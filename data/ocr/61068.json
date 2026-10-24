@@ -1,0 +1,200 @@
+{
+  "id": "61068",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.85,
+  "n_lines": 14,
+  "mean_score": 0.9826,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JENNIFER PAGE",
+      "score": 0.9817,
+      "box": [
+        116,
+        90,
+        388,
+        120
+      ]
+    },
+    {
+      "text": "WI, USA|+1-730-338-3812|jennifer.page@example.com",
+      "score": 0.9896,
+      "box": [
+        115,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9782,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverBridge Health Group, 2020.03–2023.01",
+      "score": 0.9866,
+      "box": [
+        115,
+        289,
+        707,
+        314
+      ]
+    },
+    {
+      "text": "- Managed clinical compliance programs",
+      "score": 0.9884,
+      "box": [
+        126,
+        314,
+        502,
+        339
+      ]
+    },
+    {
+      "text": "- Developed interdisciplinary care strategies",
+      "score": 0.9773,
+      "box": [
+        126,
+        339,
+        534,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightWay Nursing Services, 2016.01–2018.11",
+      "score": 0.9832,
+      "box": [
+        115,
+        381,
+        734,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared discharge instructions",
+      "score": 0.9748,
+      "box": [
+        125,
+        406,
+        436,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9681,
+      "box": [
+        125,
+        430,
+        386,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Health Studies, Pebble Creek University, 2008",
+      "score": 0.9833,
+      "box": [
+        115,
+        541,
+        636,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Assisting, Skyline University, 2006",
+      "score": 0.9681,
+      "box": [
+        115,
+        566,
+        621,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in perioperative care",
+      "score": 0.9866,
+      "box": [
+        134,
+        592,
+        557,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in oncology nursing basics",
+      "score": 0.9929,
+      "box": [
+        134,
+        615,
+        612,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "JENNIFER PAGE\nWI, USA|+1-730-338-3812|jennifer.page@example.com\nWORK HISTORY\nRegistered Nurses, EverBridge Health Group, 2020.03–2023.01\n- Managed clinical compliance programs\n- Developed interdisciplinary care strategies\nRegistered Nurses, BrightWay Nursing Services, 2016.01–2018.11\n- Prepared discharge instructions\n- Prepared treatment rooms\nEDUCATION\nMaster's, Health Studies, Pebble Creek University, 2008\nBachelor's, Medical Assisting, Skyline University, 2006\n• Completed coursework in perioperative care\n• Completed coursework in oncology nursing basics"
+}

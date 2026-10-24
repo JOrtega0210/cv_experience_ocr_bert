@@ -1,0 +1,148 @@
+{
+  "id": "31933",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.783,
+  "n_lines": 10,
+  "mean_score": 0.9837,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TIMOTHY SHAFFER",
+      "score": 0.973,
+      "box": [
+        115,
+        90,
+        435,
+        120
+      ]
+    },
+    {
+      "text": "NE, USA|+1-938-438-3698|timothy.shaffer@example.com",
+      "score": 0.9869,
+      "box": [
+        115,
+        150,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9754,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureStone Construction, 2020.04–2023.01",
+      "score": 0.9919,
+      "box": [
+        116,
+        291,
+        727,
+        311
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.9573,
+      "box": [
+        125,
+        314,
+        372,
+        339
+      ]
+    },
+    {
+      "text": "- Transported waste materials",
+      "score": 0.9926,
+      "box": [
+        126,
+        339,
+        406,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Site Management, Brookside University, 2023",
+      "score": 0.9906,
+      "box": [
+        115,
+        447,
+        915,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction safety documentation",
+      "score": 0.9905,
+      "box": [
+        133,
+        474,
+        706,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of material estimation",
+      "score": 0.9804,
+      "box": [
+        135,
+        500,
+        516,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "TIMOTHY SHAFFER\nNE, USA|+1-938-438-3698|timothy.shaffer@example.com\nWORK HISTORY\nConstruction Laborers, SureStone Construction, 2020.04–2023.01\n- Sorted building materials\n- Transported waste materials\nEDUCATION\nSome college (no degree), Construction Site Management, Brookside University, 2023\n• Completed coursework in construction safety documentation\n• Studied principles of material estimation"
+}

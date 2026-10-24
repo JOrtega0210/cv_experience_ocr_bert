@@ -1,0 +1,148 @@
+{
+  "id": "00089",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.748,
+  "n_lines": 10,
+  "mean_score": 0.9793,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TAYLOR WALTERS",
+      "score": 0.9671,
+      "box": [
+        114,
+        90,
+        430,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-673-811-7446 |taylor.walters@example.com",
+      "score": 0.9898,
+      "box": [
+        116,
+        152,
+        661,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9809,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Steps Academy, 2021.08–2023.01",
+      "score": 0.9867,
+      "box": [
+        116,
+        289,
+        868,
+        312
+      ]
+    },
+    {
+      "text": "- Maintained student folders",
+      "score": 0.9624,
+      "box": [
+        126,
+        315,
+        388,
+        338
+      ]
+    },
+    {
+      "text": "- Updated student performance logs",
+      "score": 0.9929,
+      "box": [
+        126,
+        339,
+        462,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Child and Family Studies, Willowhaven University, 2021",
+      "score": 0.9643,
+      "box": [
+        115,
+        449,
+        739,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in creative teaching strategies",
+      "score": 0.9714,
+      "box": [
+        132,
+        473,
+        643,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in early literacy instruction",
+      "score": 0.9791,
+      "box": [
+        134,
+        499,
+        608,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "TAYLOR WALTERS\nAL, USA|+1-673-811-7446 |taylor.walters@example.com\nWORK HISTORY\nElementary Middle School Teachers, Learning Steps Academy, 2021.08–2023.01\n- Maintained student folders\n- Updated student performance logs\nEDUCATION\nBachelor's, Child and Family Studies, Willowhaven University, 2021\n• Completed coursework in creative teaching strategies\n• Completed coursework in early literacy instruction"
+}

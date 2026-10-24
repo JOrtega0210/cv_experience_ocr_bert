@@ -1,0 +1,265 @@
+{
+  "id": "60773",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.895,
+  "n_lines": 19,
+  "mean_score": 0.9777,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "PHILIP MORRIS",
+      "score": 0.9781,
+      "box": [
+        116,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-481-339-2801 |philip.morris@example.com",
+      "score": 0.9653,
+      "box": [
+        115,
+        150,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9881,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Digital, 2018.12–2023.01",
+      "score": 0.995,
+      "box": [
+        116,
+        290,
+        654,
+        313
+      ]
+    },
+    {
+      "text": "- Designed configuration management systems",
+      "score": 0.9807,
+      "box": [
+        126,
+        314,
+        566,
+        339
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9512,
+      "box": [
+        127,
+        340,
+        380,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Openstack Digital, 2014.10–2018.12",
+      "score": 0.9648,
+      "box": [
+        115,
+        381,
+        660,
+        406
+      ]
+    },
+    {
+      "text": "- Designed software development workflows",
+      "score": 0.9925,
+      "box": [
+        126,
+        406,
+        538,
+        431
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9755,
+      "box": [
+        126,
+        430,
+        439,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudfield Software, 2010.08–2014.10",
+      "score": 0.9861,
+      "box": [
+        115,
+        471,
+        678,
+        496
+      ]
+    },
+    {
+      "text": "- Developed microservices",
+      "score": 0.9654,
+      "box": [
+        125,
+        496,
+        376,
+        521
+      ]
+    },
+    {
+      "text": "- Refactored legacy code",
+      "score": 0.9774,
+      "box": [
+        125,
+        521,
+        362,
+        548
+      ]
+    },
+    {
+      "text": "Software Developers, Stonebyte Tech, 2006.06–2010.08",
+      "score": 0.9874,
+      "box": [
+        114,
+        563,
+        643,
+        588
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9485,
+      "box": [
+        126,
+        590,
+        446,
+        614
+      ]
+    },
+    {
+      "text": "- Maintained code repositories",
+      "score": 0.9859,
+      "box": [
+        126,
+        613,
+        410,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Windfield University, 2004",
+      "score": 0.9585,
+      "box": [
+        114,
+        723,
+        467,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in thread synchronization",
+      "score": 0.9833,
+      "box": [
+        133,
+        749,
+        599,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in schema design",
+      "score": 0.9932,
+      "box": [
+        133,
+        772,
+        530,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "PHILIP MORRIS\nWI, USA|+1-481-339-2801 |philip.morris@example.com\nWORK HISTORY\nSoftware Developers, Stonepath Digital, 2018.12–2023.01\n- Designed configuration management systems\n- Defined coding standards\nSoftware Developers, Openstack Digital, 2014.10–2018.12\n- Designed software development workflows\n- Led technical roadmap planning\nSoftware Developers, Cloudfield Software, 2010.08–2014.10\n- Developed microservices\n- Refactored legacy code\nSoftware Developers, Stonebyte Tech, 2006.06–2010.08\n- Implemented error handling logic\n- Maintained code repositories\nEDUCATION\nBachelor's, Windfield University, 2004\n• Completed coursework in thread synchronization\n• Completed coursework in schema design"
+}

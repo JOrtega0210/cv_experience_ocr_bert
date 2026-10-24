@@ -1,0 +1,148 @@
+{
+  "id": "23824",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.762,
+  "n_lines": 10,
+  "mean_score": 0.9799,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAMES BELL",
+      "score": 0.9861,
+      "box": [
+        116,
+        90,
+        330,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA|+1-279-342-9573 |james.bell@example.com",
+      "score": 0.957,
+      "box": [
+        115,
+        150,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9822,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerBuild Co., 2020.06–2023.01",
+      "score": 0.9787,
+      "box": [
+        115,
+        289,
+        654,
+        312
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9595,
+      "box": [
+        126,
+        314,
+        510,
+        339
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9766,
+      "box": [
+        126,
+        339,
+        332,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Maintenance, Clearview University, 2023",
+      "score": 0.9818,
+      "box": [
+        115,
+        447,
+        826,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of structural reinforcement",
+      "score": 0.9937,
+      "box": [
+        133,
+        473,
+        563,
+        496
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic HVAC concepts",
+      "score": 0.9851,
+      "box": [
+        133,
+        498,
+        592,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JAMES BELL\nMD, USA|+1-279-342-9573 |james.bell@example.com\nWORK HISTORY\nConstruction Laborers, CornerBuild Co., 2020.06–2023.01\n- Operated hand tools for assembly tasks\n- Secured site fencing\nEDUCATION\nSome college (no degree), Building Maintenance, Clearview University, 2023\n• Studied principles of structural reinforcement\n• Completed coursework in basic HVAC concepts"
+}

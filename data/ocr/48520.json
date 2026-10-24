@@ -1,0 +1,265 @@
+{
+  "id": "48520",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.912,
+  "n_lines": 19,
+  "mean_score": 0.9813,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BOBBI PUGH",
+      "score": 0.9565,
+      "box": [
+        116,
+        90,
+        332,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-514-536-4966 |bobbi.pugh@example.com",
+      "score": 0.9777,
+      "box": [
+        115,
+        150,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Life Care, 2018.11–2023.01",
+      "score": 0.9669,
+      "box": [
+        116,
+        290,
+        649,
+        314
+      ]
+    },
+    {
+      "text": "- Developed patient safety metrics",
+      "score": 0.967,
+      "box": [
+        126,
+        314,
+        444,
+        338
+      ]
+    },
+    {
+      "text": "- Managed clinical risk assessments",
+      "score": 0.9752,
+      "box": [
+        126,
+        339,
+        463,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightBridge Nursing Services, 2014.08–2018.11",
+      "score": 0.9811,
+      "box": [
+        115,
+        381,
+        753,
+        406
+      ]
+    },
+    {
+      "text": "- Developed patient safety metrics",
+      "score": 0.9898,
+      "box": [
+        126,
+        406,
+        445,
+        431
+      ]
+    },
+    {
+      "text": "- Managed clinical resource planning",
+      "score": 0.9848,
+      "box": [
+        126,
+        431,
+        468,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueLife Nursing, 2010.05–2014.8",
+      "score": 0.9833,
+      "box": [
+        116,
+        472,
+        629,
+        496
+      ]
+    },
+    {
+      "text": "- Managed patient referrals",
+      "score": 0.9816,
+      "box": [
+        126,
+        498,
+        381,
+        521
+      ]
+    },
+    {
+      "text": "- Managed care for chronic conditions",
+      "score": 0.9837,
+      "box": [
+        126,
+        521,
+        478,
+        546
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleSpring Health, 2006.02–2010.05",
+      "score": 0.979,
+      "box": [
+        116,
+        565,
+        664,
+        589
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.993,
+      "box": [
+        125,
+        589,
+        473,
+        614
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9929,
+      "box": [
+        126,
+        614,
+        365,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Health and Human Services, Evergreen University, 2010",
+      "score": 0.9772,
+      "box": [
+        114,
+        723,
+        827,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient safety culture",
+      "score": 0.98,
+      "box": [
+        133,
+        749,
+        582,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing ethics",
+      "score": 0.9903,
+      "box": [
+        134,
+        774,
+        518,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "BOBBI PUGH\nTN, USA|+1-514-536-4966 |bobbi.pugh@example.com\nWORK HISTORY\nRegistered Nurses, Harmony Life Care, 2018.11–2023.01\n- Developed patient safety metrics\n- Managed clinical risk assessments\nRegistered Nurses, BrightBridge Nursing Services, 2014.08–2018.11\n- Developed patient safety metrics\n- Managed clinical resource planning\nRegistered Nurses, TrueLife Nursing, 2010.05–2014.8\n- Managed patient referrals\n- Managed care for chronic conditions\nRegistered Nurses, GentleSpring Health, 2006.02–2010.05\n- Assisted with respiratory treatments\n- Recorded nursing notes\nEDUCATION\nAssociate's degree, Health and Human Services, Evergreen University, 2010\n• Completed coursework in patient safety culture\n• Completed coursework in nursing ethics"
+}

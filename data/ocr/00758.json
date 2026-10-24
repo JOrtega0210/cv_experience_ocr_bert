@@ -1,0 +1,187 @@
+{
+  "id": "00758",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.92,
+  "n_lines": 13,
+  "mean_score": 0.9845,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SHANEQWA ROBBINS",
+      "score": 0.9685,
+      "box": [
+        116,
+        90,
+        478,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-275-877-9141 | shaneqwa.robbins@example.com",
+      "score": 0.9895,
+      "box": [
+        116,
+        152,
+        707,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9799,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Labs, 2020.07–2023.01",
+      "score": 0.9931,
+      "box": [
+        115,
+        290,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.9806,
+      "box": [
+        126,
+        313,
+        469,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9777,
+      "box": [
+        126,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Labs, 2016.11–2019.06",
+      "score": 0.9925,
+      "box": [
+        116,
+        382,
+        618,
+        405
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.9696,
+      "box": [
+        125,
+        405,
+        332,
+        431
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9839,
+      "box": [
+        126,
+        430,
+        448,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Skycrest University, 2013",
+      "score": 0.985,
+      "box": [
+        116,
+        541,
+        605,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in pointer arithmetic basics",
+      "score": 0.9905,
+      "box": [
+        133,
+        566,
+        615,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of client-side development",
+      "score": 0.9895,
+      "box": [
+        132,
+        590,
+        600,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "SHANEQWA ROBBINS\nAL, USA|+1-275-877-9141 | shaneqwa.robbins@example.com\nWORK HISTORY\nSoftware Developers, Codepath Labs, 2020.07–2023.01\n- Led backend platform development\n- Implemented security architectures\nSoftware Developers, Netfield Labs, 2016.11–2019.06\n- Handled file uploads\n- Performed basic APl integrations\nEDUCATION\nSome college (no degree), Skycrest University, 2013\n• Completed coursework in pointer arithmetic basics\n• Studied fundamentals of client-side development"
+}

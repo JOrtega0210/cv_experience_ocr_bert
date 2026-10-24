@@ -1,0 +1,135 @@
+{
+  "id": "02292",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.884,
+  "n_lines": 9,
+  "mean_score": 0.9815,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CALEB HALE",
+      "score": 0.9755,
+      "box": [
+        116,
+        90,
+        334,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-804-872-6806|caleb.hale@example.com",
+      "score": 0.9689,
+      "box": [
+        115,
+        150,
+        636,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, EverStrong Construction, 2021.08–2023.01",
+      "score": 0.9841,
+      "box": [
+        114,
+        289,
+        735,
+        313
+      ]
+    },
+    {
+      "text": "- Measured and cut basic building materials",
+      "score": 0.9768,
+      "box": [
+        126,
+        315,
+        532,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.9678,
+      "box": [
+        126,
+        339,
+        583,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        116,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Equipment Technology, Sunnyside High School, 2022",
+      "score": 0.9931,
+      "box": [
+        116,
+        449,
+        998,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of emergency procedures",
+      "score": 0.9888,
+      "box": [
+        132,
+        474,
+        554,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "CALEB HALE\nAR, USA|+1-804-872-6806|caleb.hale@example.com\nWORK HISTORY\nConstruction Laborers, EverStrong Construction, 2021.08–2023.01\n- Measured and cut basic building materials\n- Assisted with basic electrical conduit placement\nEDUCATION\nHigh school graduate/GED, Construction Equipment Technology, Sunnyside High School, 2022\n• Studied principles of emergency procedures"
+}

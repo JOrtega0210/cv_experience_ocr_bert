@@ -1,0 +1,226 @@
+{
+  "id": "61480",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.918,
+  "n_lines": 16,
+  "mean_score": 0.9781,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SADIE GRAHAM",
+      "score": 0.9576,
+      "box": [
+        115,
+        90,
+        380,
+        121
+      ]
+    },
+    {
+      "text": "WY, USA|+1-779-641-4502|sadie.graham@example.com",
+      "score": 0.9798,
+      "box": [
+        115,
+        150,
+        672,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9776,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindSpring Care Center, 2020.01–2023.01",
+      "score": 0.9748,
+      "box": [
+        115,
+        289,
+        695,
+        314
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9873,
+      "box": [
+        127,
+        315,
+        549,
+        338
+      ]
+    },
+    {
+      "text": "- Led patient experience improvement programs",
+      "score": 0.979,
+      "box": [
+        127,
+        339,
+        574,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindLife Care Center, 2016.04–2019.05",
+      "score": 0.9838,
+      "box": [
+        116,
+        383,
+        671,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented patient education programs",
+      "score": 0.9746,
+      "box": [
+        126,
+        406,
+        522,
+        432
+      ]
+    },
+    {
+      "text": "- Educated patients on treatment plans",
+      "score": 0.9779,
+      "box": [
+        126,
+        431,
+        488,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeHarbor Nursing, 2011.10–2014.11",
+      "score": 0.9725,
+      "box": [
+        115,
+        471,
+        660,
+        496
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9731,
+      "box": [
+        125,
+        496,
+        410,
+        521
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9645,
+      "box": [
+        126,
+        521,
+        479,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Care Management, Greenway University, 04",
+      "score": 0.9792,
+      "box": [
+        114,
+        631,
+        740,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in nutrition for health",
+      "score": 0.9781,
+      "box": [
+        135,
+        659,
+        556,
+        679
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of conflict resolution basics",
+      "score": 0.9907,
+      "box": [
+        134,
+        682,
+        605,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "SADIE GRAHAM\nWY, USA|+1-779-641-4502|sadie.graham@example.com\nWORK HISTORY\nRegistered Nurses, KindSpring Care Center, 2020.01–2023.01\n- Developed clinical performance dashboards\n- Led patient experience improvement programs\nRegistered Nurses, KindLife Care Center, 2016.04–2019.05\n- Implemented patient education programs\n- Educated patients on treatment plans\nRegistered Nurses, SafeHarbor Nursing, 2011.10–2014.11\n- Recorded shift handoff notes\n- Provided patient education materials\nEDUCATION\nAssociate's degree, Care Management, Greenway University, 04\n• Completed coursework in nutrition for health\n• Studied fundamentals of conflict resolution basics"
+}

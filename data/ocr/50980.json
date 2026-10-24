@@ -1,0 +1,226 @@
+{
+  "id": "50980",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.809,
+  "n_lines": 16,
+  "mean_score": 0.9807,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ODIS MAYS",
+      "score": 0.966,
+      "box": [
+        115,
+        88,
+        307,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA|+1-528-764-8650|odis.mays@example.com",
+      "score": 0.9792,
+      "box": [
+        115,
+        150,
+        633,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9877,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Bluecrest Software, 2020.02–2023.01",
+      "score": 0.9907,
+      "box": [
+        115,
+        288,
+        670,
+        313
+      ]
+    },
+    {
+      "text": "- Defined APl standards",
+      "score": 0.9793,
+      "box": [
+        127,
+        315,
+        351,
+        336
+      ]
+    },
+    {
+      "text": "- Implemented release management strategies",
+      "score": 0.9782,
+      "box": [
+        126,
+        339,
+        561,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Cleargrid Systems, 2016.09–2019.08",
+      "score": 0.9833,
+      "box": [
+        115,
+        381,
+        667,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented backend services",
+      "score": 0.9791,
+      "box": [
+        127,
+        407,
+        431,
+        430
+      ]
+    },
+    {
+      "text": "- Handled load testing",
+      "score": 0.9582,
+      "box": [
+        125,
+        429,
+        333,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Skyframe Labs, 2012.06–2015.06",
+      "score": 0.9836,
+      "box": [
+        116,
+        472,
+        635,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented caching logic",
+      "score": 0.9691,
+      "box": [
+        125,
+        496,
+        391,
+        522
+      ]
+    },
+    {
+      "text": "- Updated monitoring dashboards",
+      "score": 0.9777,
+      "box": [
+        126,
+        521,
+        439,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Pinefield University, 2006",
+      "score": 0.9932,
+      "box": [
+        115,
+        632,
+        462,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of linear algebra",
+      "score": 0.9877,
+      "box": [
+        133,
+        657,
+        468,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of artificial intelligence",
+      "score": 0.9798,
+      "box": [
+        133,
+        681,
+        560,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ODIS MAYS\nTX, USA|+1-528-764-8650|odis.mays@example.com\nWORK HISTORY\nSoftware Developers, Bluecrest Software, 2020.02–2023.01\n- Defined APl standards\n- Implemented release management strategies\nSoftware Developers, Cleargrid Systems, 2016.09–2019.08\n- Implemented backend services\n- Handled load testing\nSoftware Developers, Skyframe Labs, 2012.06–2015.06\n- Implemented caching logic\n- Updated monitoring dashboards\nEDUCATION\nBachelor's, Pinefield University, 2006\n• Studied principles of linear algebra\n• Studied fundamentals of artificial intelligence"
+}

@@ -1,0 +1,278 @@
+{
+  "id": "27580",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.887,
+  "n_lines": 20,
+  "mean_score": 0.9839,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SCOTT HUFFMAN",
+      "score": 0.9778,
+      "box": [
+        116,
+        90,
+        406,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-565-908-5052| scott.huffman@example.com",
+      "score": 0.9833,
+      "box": [
+        116,
+        152,
+        660,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9943,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Solutions, 2019.06–2023.01",
+      "score": 0.9796,
+      "box": [
+        115,
+        289,
+        651,
+        312
+      ]
+    },
+    {
+      "text": "- Reviewed architectural proposals",
+      "score": 0.9889,
+      "box": [
+        126,
+        315,
+        449,
+        338
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.9943,
+      "box": [
+        126,
+        339,
+        469,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Flowframe Digital, 2015.11–2019.06",
+      "score": 0.9806,
+      "box": [
+        115,
+        381,
+        657,
+        406
+      ]
+    },
+    {
+      "text": "- Built core libraries",
+      "score": 0.9729,
+      "box": [
+        126,
+        406,
+        308,
+        429
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9872,
+      "box": [
+        126,
+        431,
+        515,
+        454
+      ]
+    },
+    {
+      "text": "Software Developers, Netbridge Tech, 2011.06–2015.01",
+      "score": 0.9748,
+      "box": [
+        116,
+        472,
+        638,
+        496
+      ]
+    },
+    {
+      "text": "-Built containerized services",
+      "score": 0.9873,
+      "box": [
+        125,
+        497,
+        395,
+        519
+      ]
+    },
+    {
+      "text": "- Developed RESTful APIs",
+      "score": 0.9671,
+      "box": [
+        125,
+        521,
+        376,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Silverstack Solutions, 2006.09–2010.04",
+      "score": 0.9814,
+      "box": [
+        114,
+        563,
+        690,
+        588
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9886,
+      "box": [
+        127,
+        590,
+        501,
+        613
+      ]
+    },
+    {
+      "text": "- Maintained code repositories",
+      "score": 0.9828,
+      "box": [
+        125,
+        614,
+        409,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Driftwood University, 2004",
+      "score": 0.9853,
+      "box": [
+        116,
+        726,
+        450,
+        745
+      ]
+    },
+    {
+      "text": "Bachelor's, Clear Spring University, 2002",
+      "score": 0.9874,
+      "box": [
+        115,
+        748,
+        497,
+        771
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of game development",
+      "score": 0.9915,
+      "box": [
+        132,
+        772,
+        558,
+        797
+      ]
+    },
+    {
+      "text": "• Studied principles of caching strategies",
+      "score": 0.9748,
+      "box": [
+        132,
+        798,
+        510,
+        823
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "SCOTT HUFFMAN\nMI, USA|+1-565-908-5052| scott.huffman@example.com\nWORK HISTORY\nSoftware Developers, Netline Solutions, 2019.06–2023.01\n- Reviewed architectural proposals\n- Led backend platform development\nSoftware Developers, Flowframe Digital, 2015.11–2019.06\n- Built core libraries\n- Implemented access control frameworks\nSoftware Developers, Netbridge Tech, 2011.06–2015.01\n-Built containerized services\n- Developed RESTful APIs\nSoftware Developers, Silverstack Solutions, 2006.09–2010.04\n- Configured development environments\n- Maintained code repositories\nEDUCATION\nMaster's, Driftwood University, 2004\nBachelor's, Clear Spring University, 2002\n• Studied fundamentals of game development\n• Studied principles of caching strategies"
+}

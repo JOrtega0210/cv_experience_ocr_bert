@@ -1,0 +1,226 @@
+{
+  "id": "60071",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.866,
+  "n_lines": 16,
+  "mean_score": 0.982,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JACOB MURPHY",
+      "score": 0.968,
+      "box": [
+        115,
+        88,
+        391,
+        122
+      ]
+    },
+    {
+      "text": "WV, USA|+1-290-691-4358|jacob.murphy@example.com",
+      "score": 0.9653,
+      "box": [
+        115,
+        150,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Services, 2020.09–2023.01",
+      "score": 0.98,
+      "box": [
+        114,
+        289,
+        731,
+        313
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9739,
+      "box": [
+        126,
+        315,
+        479,
+        338
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.969,
+      "box": [
+        127,
+        340,
+        436,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, PrimeBalance Accounting, 2017.07–2019.11",
+      "score": 0.9827,
+      "box": [
+        114,
+        381,
+        738,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed journal entries",
+      "score": 0.9931,
+      "box": [
+        127,
+        408,
+        371,
+        429
+      ]
+    },
+    {
+      "text": "- Reviewed audit workpapers",
+      "score": 0.9762,
+      "box": [
+        125,
+        429,
+        399,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ExactCount Services, 2014.08–2016.12",
+      "score": 0.9829,
+      "box": [
+        115,
+        472,
+        694,
+        495
+      ]
+    },
+    {
+      "text": "- Assisted with compliance documentation",
+      "score": 0.9708,
+      "box": [
+        125,
+        496,
+        518,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.9926,
+      "box": [
+        126,
+        521,
+        423,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Finance, Clearstone University, 2008",
+      "score": 0.9861,
+      "box": [
+        115,
+        632,
+        569,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in corporate governance",
+      "score": 0.9895,
+      "box": [
+        133,
+        656,
+        593,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial accounting",
+      "score": 0.9972,
+      "box": [
+        134,
+        681,
+        572,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JACOB MURPHY\nWV, USA|+1-290-691-4358|jacob.murphy@example.com\nWORK HISTORY\nAccountants Auditors, Reliable Ledger Services, 2020.09–2023.01\n- Led accounting process optimization\n- Developed financial risk models\nAccountants Auditors, PrimeBalance Accounting, 2017.07–2019.11\n- Reviewed journal entries\n- Reviewed audit workpapers\nAccountants Auditors, ExactCount Services, 2014.08–2016.12\n- Assisted with compliance documentation\n- Assisted with inventory counts\nEDUCATION\nBachelor's, Finance, Clearstone University, 2008\n• Completed coursework in corporate governance\n• Completed coursework in financial accounting"
+}

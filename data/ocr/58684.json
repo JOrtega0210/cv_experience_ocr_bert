@@ -1,0 +1,174 @@
+{
+  "id": "58684",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.861,
+  "n_lines": 12,
+  "mean_score": 0.9844,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TRUNG YODER",
+      "score": 0.9588,
+      "box": [
+        115,
+        90,
+        365,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-730-382-2658|trung.yoder@example.com",
+      "score": 0.9805,
+      "box": [
+        114,
+        150,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.982,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmLine Construction, 2020.06–2022.04",
+      "score": 0.9794,
+      "box": [
+        115,
+        290,
+        713,
+        313
+      ]
+    },
+    {
+      "text": "- Developed long-term construction strategies",
+      "score": 0.984,
+      "box": [
+        126,
+        314,
+        550,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented quality control systems",
+      "score": 0.9851,
+      "box": [
+        126,
+        339,
+        480,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Frame Co., 2017.06–2019.05",
+      "score": 0.9836,
+      "box": [
+        116,
+        382,
+        664,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with site cleanup and debris removal",
+      "score": 0.9972,
+      "box": [
+        126,
+        407,
+        566,
+        430
+      ]
+    },
+    {
+      "text": "- Applied basic sealants and adhesives",
+      "score": 0.9854,
+      "box": [
+        127,
+        433,
+        490,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9978,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Operations, Briarwood High School, 2014",
+      "score": 0.9936,
+      "box": [
+        116,
+        541,
+        884,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction safety",
+      "score": 0.9854,
+      "box": [
+        132,
+        564,
+        553,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "TRUNG YODER\nWA, USA|+1-730-382-2658|trung.yoder@example.com\nWORK HISTORY\nConstruction Laborers, FirmLine Construction, 2020.06–2022.04\n- Developed long-term construction strategies\n- Implemented quality control systems\nConstruction Laborers, Allied Frame Co., 2017.06–2019.05\n- Assisted with site cleanup and debris removal\n- Applied basic sealants and adhesives\nEDUCATION\nHigh school graduate/GED, Construction Operations, Briarwood High School, 2014\n• Studied fundamentals of construction safety"
+}

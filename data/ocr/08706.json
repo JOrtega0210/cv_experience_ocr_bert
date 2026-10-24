@@ -1,0 +1,200 @@
+{
+  "id": "08706",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.94,
+  "n_lines": 14,
+  "mean_score": 0.9787,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LUCY FITZGERALD",
+      "score": 0.9926,
+      "box": [
+        116,
+        90,
+        430,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA|+1-687-365-9860 |lucy.fitzgerald@example.com",
+      "score": 0.9801,
+      "box": [
+        116,
+        150,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.98,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrueBalance Financial, 2020.08–2023.01",
+      "score": 0.9685,
+      "box": [
+        114,
+        289,
+        706,
+        313
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9731,
+      "box": [
+        127,
+        315,
+        450,
+        338
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9667,
+      "box": [
+        127,
+        340,
+        553,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Services, 2018.02–2020.08",
+      "score": 0.9943,
+      "box": [
+        115,
+        382,
+        697,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed vendor payments",
+      "score": 0.9701,
+      "box": [
+        125,
+        406,
+        400,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9692,
+      "box": [
+        126,
+        430,
+        413,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Accounting, Sagewood University, 2021",
+      "score": 0.9691,
+      "box": [
+        115,
+        541,
+        574,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Analysis, Stone Valley University, 2019",
+      "score": 0.9721,
+      "box": [
+        114,
+        565,
+        677,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of portfolio management",
+      "score": 0.9831,
+      "box": [
+        132,
+        590,
+        582,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of depreciation methods",
+      "score": 0.9849,
+      "box": [
+        134,
+        616,
+        578,
+        638
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "LUCY FITZGERALD\nCA, USA|+1-687-365-9860 |lucy.fitzgerald@example.com\nWORK HISTORY\nAccountants Auditors, TrueBalance Financial, 2020.08–2023.01\n- Designed accounting frameworks\n- Designed financial documentation standards\nAccountants Auditors, AccuLedger Services, 2018.02–2020.08\n- Reviewed vendor payments\n- Assisted with budget tracking\nEDUCATION\nMaster's, Accounting, Sagewood University, 2021\nBachelor's, Financial Analysis, Stone Valley University, 2019\n• Studied fundamentals of portfolio management\n• Studied fundamentals of depreciation methods"
+}

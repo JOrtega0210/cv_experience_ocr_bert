@@ -1,0 +1,148 @@
+{
+  "id": "00618",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.925,
+  "n_lines": 10,
+  "mean_score": 0.9811,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LUCA HARDING",
+      "score": 0.9715,
+      "box": [
+        116,
+        90,
+        376,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-811-369-6934|luca.harding@example.com",
+      "score": 0.9898,
+      "box": [
+        116,
+        151,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9793,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Minds School, 2020.08–2022.02",
+      "score": 0.9798,
+      "box": [
+        116,
+        290,
+        829,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.9699,
+      "box": [
+        126,
+        315,
+        412,
+        337
+      ]
+    },
+    {
+      "text": "- Reviewed homework assignments",
+      "score": 0.9723,
+      "box": [
+        126,
+        339,
+        459,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Teaching Studies, Northway University, 2009",
+      "score": 0.9794,
+      "box": [
+        115,
+        447,
+        721,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational teaching practices",
+      "score": 0.9861,
+      "box": [
+        133,
+        474,
+        677,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic instruction methods",
+      "score": 0.985,
+      "box": [
+        135,
+        500,
+        664,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "LUCA HARDING\nAL, USA|+1-811-369-6934|luca.harding@example.com\nWORK HISTORY\nElementary Middle School Teachers, Future Minds School, 2020.08–2022.02\n- Reviewed curriculum content\n- Reviewed homework assignments\nEDUCATION\nAssociate's degree, Teaching Studies, Northway University, 2009\n• Completed coursework in foundational teaching practices\n• Completed coursework in academic instruction methods"
+}

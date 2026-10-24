@@ -1,0 +1,148 @@
+{
+  "id": "19533",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.766,
+  "n_lines": 10,
+  "mean_score": 0.9764,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSHUA SHANNON",
+      "score": 0.969,
+      "box": [
+        116,
+        90,
+        436,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-980-782-1116 |joshua.shannon@example.com",
+      "score": 0.9905,
+      "box": [
+        116,
+        152,
+        677,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9796,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Financial Group, 2017.11–2020.11",
+      "score": 0.9922,
+      "box": [
+        115,
+        290,
+        746,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9413,
+      "box": [
+        126,
+        315,
+        439,
+        338
+      ]
+    },
+    {
+      "text": "- Updated accounting policies documentation",
+      "score": 0.9587,
+      "box": [
+        128,
+        340,
+        546,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Public Accounting, Willow Creek University, 2016",
+      "score": 0.9831,
+      "box": [
+        115,
+        449,
+        680,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of employee benefit accounting",
+      "score": 0.9742,
+      "box": [
+        132,
+        472,
+        643,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting research methods",
+      "score": 0.9774,
+      "box": [
+        134,
+        499,
+        662,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JOSHUA SHANNON\nIL, USA|+1-980-782-1116 |joshua.shannon@example.com\nWORK HISTORY\nAccountants Auditors, OpenPath Financial Group, 2017.11–2020.11\n- Reviewed timesheets for payroll\n- Updated accounting policies documentation\nEDUCATION\nBachelor's, Public Accounting, Willow Creek University, 2016\n• Studied fundamentals of employee benefit accounting\n• Completed coursework in accounting research methods"
+}

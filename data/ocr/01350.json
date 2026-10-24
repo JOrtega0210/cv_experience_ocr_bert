@@ -1,0 +1,226 @@
+{
+  "id": "01350",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.951,
+  "n_lines": 16,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ALICIA BERRY",
+      "score": 0.9829,
+      "box": [
+        117,
+        90,
+        356,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-649-866-7652|alicia.berry@example.com",
+      "score": 0.9854,
+      "box": [
+        116,
+        151,
+        639,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9847,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Bridge Health, 2021.01–2023.01",
+      "score": 0.9909,
+      "box": [
+        115,
+        289,
+        691,
+        314
+      ]
+    },
+    {
+      "text": "- Directed clinical quality improvement initiatives",
+      "score": 0.9699,
+      "box": [
+        127,
+        315,
+        573,
+        338
+      ]
+    },
+    {
+      "text": "- Managed nursing unit operations",
+      "score": 0.9616,
+      "box": [
+        127,
+        339,
+        446,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellHands Medical Group, 2019.01–2021.01",
+      "score": 0.9716,
+      "box": [
+        115,
+        381,
+        717,
+        406
+      ]
+    },
+    {
+      "text": "-Conducted medication reconciliation",
+      "score": 0.9828,
+      "box": [
+        126,
+        407,
+        476,
+        429
+      ]
+    },
+    {
+      "text": "- Conducted post-operative assessments",
+      "score": 0.9912,
+      "box": [
+        126,
+        431,
+        508,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearBridge Health Group, 2017.01–2019.01",
+      "score": 0.9903,
+      "box": [
+        116,
+        473,
+        714,
+        496
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9753,
+      "box": [
+        125,
+        496,
+        410,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9865,
+      "box": [
+        126,
+        521,
+        479,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Sciences, Oakridge Valley University, 2016",
+      "score": 0.9879,
+      "box": [
+        114,
+        631,
+        691,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of health screening",
+      "score": 0.963,
+      "box": [
+        134,
+        658,
+        495,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in dosage calculations",
+      "score": 0.9966,
+      "box": [
+        134,
+        681,
+        573,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ALICIA BERRY\nAZ, USA|+1-649-866-7652|alicia.berry@example.com\nWORK HISTORY\nRegistered Nurses, Harmony Bridge Health, 2021.01–2023.01\n- Directed clinical quality improvement initiatives\n- Managed nursing unit operations\nRegistered Nurses, WellHands Medical Group, 2019.01–2021.01\n-Conducted medication reconciliation\n- Conducted post-operative assessments\nRegistered Nurses, ClearBridge Health Group, 2017.01–2019.01\n- Recorded shift handoff notes\n- Prepared medical equipment for use\nEDUCATION\nBachelor's, Health Sciences, Oakridge Valley University, 2016\n• Studied principles of health screening\n• Completed coursework in dosage calculations"
+}

@@ -1,0 +1,213 @@
+{
+  "id": "50895",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.845,
+  "n_lines": 15,
+  "mean_score": 0.9813,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JORDAN BLANKENSHIP",
+      "score": 0.9919,
+      "box": [
+        116,
+        90,
+        509,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-528-812-6691 |jordan.blankenship@example.com",
+      "score": 0.9764,
+      "box": [
+        115,
+        150,
+        714,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9799,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Crafted Structures, 2020.05–2023.01",
+      "score": 0.9926,
+      "box": [
+        115,
+        290,
+        676,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9867,
+      "box": [
+        127,
+        315,
+        488,
+        338
+      ]
+    },
+    {
+      "text": "- Directed site construction operations",
+      "score": 0.9831,
+      "box": [
+        126,
+        338,
+        480,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearTrack Construction, 2017.08–2020.05",
+      "score": 0.9876,
+      "box": [
+        115,
+        381,
+        733,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared structural joints",
+      "score": 0.9693,
+      "box": [
+        126,
+        406,
+        375,
+        431
+      ]
+    },
+    {
+      "text": "- Documented daily work progress",
+      "score": 0.9725,
+      "box": [
+        126,
+        430,
+        447,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongWay Builders, 2013.07–2016.04",
+      "score": 0.9754,
+      "box": [
+        115,
+        471,
+        693,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.99,
+      "box": [
+        125,
+        498,
+        511,
+        521
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.9409,
+      "box": [
+        126,
+        521,
+        360,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Systems, Clearfield High School, 2001",
+      "score": 0.9841,
+      "box": [
+        116,
+        632,
+        811,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of site fencing",
+      "score": 0.99,
+      "box": [
+        132,
+        656,
+        484,
+        681
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "JORDAN BLANKENSHIP\nTX, USA|+1-528-812-6691 |jordan.blankenship@example.com\nWORK HISTORY\nConstruction Laborers, Crafted Structures, 2020.05–2023.01\n- Reviewed compliance documentation\n- Directed site construction operations\nConstruction Laborers, ClearTrack Construction, 2017.08–2020.05\n- Prepared structural joints\n- Documented daily work progress\nConstruction Laborers, StrongWay Builders, 2013.07–2016.04\n- Prepared surfaces for construction work\n- Installed safety signage\nEDUCATION\nHigh school graduate/GED, Building Systems, Clearfield High School, 2001\n• Studied fundamentals of site fencing"
+}

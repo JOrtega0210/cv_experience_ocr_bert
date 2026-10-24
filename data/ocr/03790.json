@@ -1,0 +1,187 @@
+{
+  "id": "03790",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.908,
+  "n_lines": 13,
+  "mean_score": 0.9785,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "IBAN VINCENT",
+      "score": 0.9727,
+      "box": [
+        115,
+        90,
+        357,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA|+1-330-656-8119 |iban.vincent@example.com",
+      "score": 0.9778,
+      "box": [
+        116,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.981,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Co., 2020.11–2023.01",
+      "score": 0.9806,
+      "box": [
+        114,
+        289,
+        660,
+        313
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9562,
+      "box": [
+        125,
+        314,
+        361,
+        339
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9677,
+      "box": [
+        127,
+        340,
+        553,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Financial, 2018.09–2020.11",
+      "score": 0.983,
+      "box": [
+        114,
+        381,
+        718,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.981,
+      "box": [
+        126,
+        406,
+        384,
+        431
+      ]
+    },
+    {
+      "text": "- Filed financial documents",
+      "score": 0.9789,
+      "box": [
+        126,
+        431,
+        378,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Operations Management, Meadowridge University, 2017",
+      "score": 0.9725,
+      "box": [
+        115,
+        541,
+        748,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of internal controls",
+      "score": 0.9816,
+      "box": [
+        131,
+        564,
+        527,
+        588
+      ]
+    },
+    {
+      "text": "• Studied principles of financial review procedures",
+      "score": 0.989,
+      "box": [
+        132,
+        590,
+        594,
+        613
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "IBAN VINCENT\nCA, USA|+1-330-656-8119 |iban.vincent@example.com\nWORK HISTORY\nAccountants Auditors, Reliable Path Co., 2020.11–2023.01\n- Designed tax strategies\n- Designed financial documentation standards\nAccountants Auditors, SteadyLedger Financial, 2018.09–2020.11\n- Prepared variance reports\n- Filed financial documents\nEDUCATION\nBachelor's, Operations Management, Meadowridge University, 2017\n• Studied fundamentals of internal controls\n• Studied principles of financial review procedures"
+}

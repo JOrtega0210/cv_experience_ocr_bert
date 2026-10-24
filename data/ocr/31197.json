@@ -1,0 +1,187 @@
+{
+  "id": "31197",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.821,
+  "n_lines": 13,
+  "mean_score": 0.9818,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JEREMY HAMMOND",
+      "score": 0.9921,
+      "box": [
+        116,
+        90,
+        443,
+        120
+      ]
+    },
+    {
+      "text": "MO, USA|+1-207-876-9928|jeremy.hammond@example.com",
+      "score": 0.9811,
+      "box": [
+        115,
+        150,
+        706,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9796,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueNorth Builders, 2020.02–2022.01",
+      "score": 0.9649,
+      "box": [
+        115,
+        290,
+        681,
+        313
+      ]
+    },
+    {
+      "text": "- Directed site construction operations",
+      "score": 0.9819,
+      "box": [
+        126,
+        315,
+        480,
+        338
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9664,
+      "box": [
+        127,
+        340,
+        467,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmLine Builders, 2017.04–2019.04",
+      "score": 0.9874,
+      "box": [
+        115,
+        381,
+        671,
+        405
+      ]
+    },
+    {
+      "text": "- Applied basic sealants and adhesives",
+      "score": 0.9797,
+      "box": [
+        127,
+        408,
+        490,
+        431
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.974,
+      "box": [
+        126,
+        431,
+        485,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Surveying Technology, Morningstar University, 2014",
+      "score": 0.9894,
+      "box": [
+        116,
+        541,
+        789,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site inspections",
+      "score": 0.9803,
+      "box": [
+        132,
+        564,
+        555,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of site drainage",
+      "score": 0.9881,
+      "box": [
+        133,
+        590,
+        462,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JEREMY HAMMOND\nMO, USA|+1-207-876-9928|jeremy.hammond@example.com\nWORK HISTORY\nConstruction Laborers, TrueNorth Builders, 2020.02–2022.01\n- Directed site construction operations\n- Directed site optimization initiatives\nConstruction Laborers, FirmLine Builders, 2017.04–2019.04\n- Applied basic sealants and adhesives\n- Maintained cleanliness of work areas\nEDUCATION\nAssociate's degree, Surveying Technology, Morningstar University, 2014\n• Studied fundamentals of job site inspections\n• Studied principles of site drainage"
+}

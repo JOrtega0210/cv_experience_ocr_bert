@@ -1,0 +1,200 @@
+{
+  "id": "16266",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.943,
+  "n_lines": 14,
+  "mean_score": 0.9824,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "STEPHANIE KENT",
+      "score": 0.9894,
+      "box": [
+        116,
+        90,
+        411,
+        120
+      ]
+    },
+    {
+      "text": "GA, USA|+1-660-502-9820 |stephanie.kent@example.com",
+      "score": 0.9749,
+      "box": [
+        117,
+        151,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9781,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Care Group, 2020.09–2023.01",
+      "score": 0.9849,
+      "box": [
+        115,
+        289,
+        673,
+        314
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9711,
+      "box": [
+        126,
+        314,
+        510,
+        339
+      ]
+    },
+    {
+      "text": "- Managed clinical workflow redesign",
+      "score": 0.9806,
+      "box": [
+        126,
+        339,
+        470,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Bridge Nursing, 2016.02–2018.06",
+      "score": 0.9759,
+      "box": [
+        115,
+        381,
+        690,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored patient pain levels",
+      "score": 0.9718,
+      "box": [
+        126,
+        407,
+        409,
+        430
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.9818,
+      "box": [
+        127,
+        432,
+        484,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Nursing Foundations, Brookhaven University, 26",
+      "score": 0.9889,
+      "box": [
+        115,
+        541,
+        677,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Information Management, Parkview University, 2004",
+      "score": 0.9746,
+      "box": [
+        115,
+        566,
+        776,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in health promotion",
+      "score": 0.9946,
+      "box": [
+        134,
+        590,
+        545,
+        614
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of conflict resolution basics",
+      "score": 0.989,
+      "box": [
+        134,
+        616,
+        606,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "STEPHANIE KENT\nGA, USA|+1-660-502-9820 |stephanie.kent@example.com\nWORK HISTORY\nRegistered Nurses, Harmony Care Group, 2020.09–2023.01\n- Directed nursing process improvements\n- Managed clinical workflow redesign\nRegistered Nurses, Helping Bridge Nursing, 2016.02–2018.06\n- Monitored patient pain levels\n- Administered prescribed medications\nEDUCATION\nMaster's, Nursing Foundations, Brookhaven University, 26\nBachelor's, Health Information Management, Parkview University, 2004\n• Completed coursework in health promotion\n• Studied fundamentals of conflict resolution basics"
+}

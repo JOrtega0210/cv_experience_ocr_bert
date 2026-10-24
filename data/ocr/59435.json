@@ -1,0 +1,265 @@
+{
+  "id": "59435",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.856,
+  "n_lines": 19,
+  "mean_score": 0.9773,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DAVID WU",
+      "score": 0.9426,
+      "box": [
+        115,
+        88,
+        289,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA|+1-304-717-6215|david.wu@example.com",
+      "score": 0.9809,
+      "box": [
+        114,
+        150,
+        628,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Labs, 2018.08–2023.01",
+      "score": 0.9789,
+      "box": [
+        114,
+        288,
+        654,
+        313
+      ]
+    },
+    {
+      "text": "- Designed high-availability systems",
+      "score": 0.9907,
+      "box": [
+        126,
+        315,
+        461,
+        339
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9784,
+      "box": [
+        127,
+        340,
+        380,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Netstream Software, 2014.03–2018.08",
+      "score": 0.9868,
+      "box": [
+        115,
+        381,
+        681,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed system design documents",
+      "score": 0.9888,
+      "box": [
+        126,
+        406,
+        481,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9643,
+      "box": [
+        127,
+        432,
+        515,
+        454
+      ]
+    },
+    {
+      "text": "Software Developers, Openstack Digital, 2009.09–2014.03",
+      "score": 0.9784,
+      "box": [
+        116,
+        472,
+        659,
+        496
+      ]
+    },
+    {
+      "text": "- Developed reporting modules",
+      "score": 0.9717,
+      "box": [
+        125,
+        498,
+        414,
+        521
+      ]
+    },
+    {
+      "text": "- Designed data models",
+      "score": 0.9559,
+      "box": [
+        125,
+        521,
+        350,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Northstar Software, 2005.03–2009.09",
+      "score": 0.9574,
+      "box": [
+        114,
+        563,
+        671,
+        588
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9858,
+      "box": [
+        125,
+        589,
+        421,
+        614
+      ]
+    },
+    {
+      "text": "- Maintained code repositories",
+      "score": 0.9666,
+      "box": [
+        125,
+        613,
+        410,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Riverside University, 2009",
+      "score": 0.9858,
+      "box": [
+        115,
+        724,
+        469,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of responsive design",
+      "score": 0.9777,
+      "box": [
+        131,
+        746,
+        546,
+        774
+      ]
+    },
+    {
+      "text": "• Studied principles of virtualization",
+      "score": 0.9926,
+      "box": [
+        133,
+        772,
+        458,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "DAVID WU\nWA, USA|+1-304-717-6215|david.wu@example.com\nWORK HISTORY\nSoftware Developers, Datastream Labs, 2018.08–2023.01\n- Designed high-availability systems\n- Defined coding standards\nSoftware Developers, Netstream Software, 2014.03–2018.08\n- Reviewed system design documents\n- Implemented access control frameworks\nSoftware Developers, Openstack Digital, 2009.09–2014.03\n- Developed reporting modules\n- Designed data models\nSoftware Developers, Northstar Software, 2005.03–2009.09\n- Implemented REST endpoints\n- Maintained code repositories\nEDUCATION\nBachelor's, Riverside University, 2009\n• Studied fundamentals of responsive design\n• Studied principles of virtualization"
+}

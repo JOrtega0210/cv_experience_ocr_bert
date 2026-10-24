@@ -1,0 +1,187 @@
+{
+  "id": "13788",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.926,
+  "n_lines": 13,
+  "mean_score": 0.9761,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRANDIE WALLER",
+      "score": 0.9782,
+      "box": [
+        117,
+        90,
+        422,
+        120
+      ]
+    },
+    {
+      "text": "FL, USA|+1-917-790-4407 |brandie.waller@example.com",
+      "score": 0.9853,
+      "box": [
+        115,
+        150,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Life Nursing, 2020.02–2023.01",
+      "score": 0.9871,
+      "box": [
+        115,
+        289,
+        662,
+        314
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.9676,
+      "box": [
+        125,
+        313,
+        424,
+        339
+      ]
+    },
+    {
+      "text": "- Directed emergency response planning",
+      "score": 0.9628,
+      "box": [
+        126,
+        339,
+        504,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Bridge Health, 2014.05–2017.04",
+      "score": 0.9689,
+      "box": [
+        116,
+        383,
+        693,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.9852,
+      "box": [
+        126,
+        406,
+        473,
+        431
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.9707,
+      "box": [
+        127,
+        432,
+        484,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Systems, Meadowridge University, 2006",
+      "score": 0.9857,
+      "box": [
+        114,
+        539,
+        664,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of hospice care",
+      "score": 0.9729,
+      "box": [
+        132,
+        565,
+        461,
+        590
+      ]
+    },
+    {
+      "text": "•Studied principles of endocrine nursing",
+      "score": 0.9414,
+      "box": [
+        132,
+        590,
+        506,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "BRANDIE WALLER\nFL, USA|+1-917-790-4407 |brandie.waller@example.com\nWORK HISTORY\nRegistered Nurses, Helping Life Nursing, 2020.02–2023.01\n- Led infection control programs\n- Directed emergency response planning\nRegistered Nurses, Harmony Bridge Health, 2014.05–2017.04\n- Assisted with respiratory treatments\n- Administered prescribed medications\nEDUCATION\nBachelor's, Health Systems, Meadowridge University, 2006\n• Studied principles of hospice care\n•Studied principles of endocrine nursing"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "04401",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.918,
+  "n_lines": 13,
+  "mean_score": 0.9862,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MELINDA PHAM",
+      "score": 0.9831,
+      "box": [
+        116,
+        90,
+        378,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-534-576-1389 |melinda.pham@example.com",
+      "score": 0.9914,
+      "box": [
+        117,
+        151,
+        672,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9777,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Way Care, 2018.07–2021.02",
+      "score": 0.9928,
+      "box": [
+        116,
+        290,
+        635,
+        313
+      ]
+    },
+    {
+      "text": "- Managed patient outcome evaluation systems",
+      "score": 0.9871,
+      "box": [
+        126,
+        314,
+        567,
+        339
+      ]
+    },
+    {
+      "text": "- Directed clinical quality improvement initiatives",
+      "score": 0.9592,
+      "box": [
+        126,
+        339,
+        572,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeLife Health Group, 2015.01–2017.09",
+      "score": 0.9926,
+      "box": [
+        115,
+        381,
+        682,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared patients for examinations",
+      "score": 0.976,
+      "box": [
+        126,
+        406,
+        466,
+        431
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9918,
+      "box": [
+        126,
+        430,
+        399,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Services, Aspen Grove University, 2012",
+      "score": 0.9879,
+      "box": [
+        115,
+        541,
+        661,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of disease prevention",
+      "score": 0.9904,
+      "box": [
+        133,
+        566,
+        517,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of tracheostomy care",
+      "score": 0.9921,
+      "box": [
+        132,
+        590,
+        551,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "MELINDA PHAM\nCA, USA|+1-534-576-1389 |melinda.pham@example.com\nWORK HISTORY\nRegistered Nurses, Caring Way Care, 2018.07–2021.02\n- Managed patient outcome evaluation systems\n- Directed clinical quality improvement initiatives\nRegistered Nurses, SafeLife Health Group, 2015.01–2017.09\n- Prepared patients for examinations\n- Recorded patient vital signs\nEDUCATION\nBachelor's, Health Services, Aspen Grove University, 2012\n• Studied principles of disease prevention\n• Studied fundamentals of tracheostomy care"
+}

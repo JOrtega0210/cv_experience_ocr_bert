@@ -1,0 +1,200 @@
+{
+  "id": "02007",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.94,
+  "n_lines": 14,
+  "mean_score": 0.9868,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TANYAANTHONY",
+      "score": 0.9982,
+      "box": [
+        112,
+        87,
+        409,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-618-242-1720|tanya.anthony@example.com",
+      "score": 0.9875,
+      "box": [
+        115,
+        151,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9835,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Co., 2020.07–2023.01",
+      "score": 0.9888,
+      "box": [
+        115,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9723,
+      "box": [
+        125,
+        313,
+        518,
+        338
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9865,
+      "box": [
+        126,
+        339,
+        467,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Group, 2016.11–2019.05",
+      "score": 0.9848,
+      "box": [
+        114,
+        381,
+        666,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9897,
+      "box": [
+        125,
+        406,
+        456,
+        431
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.979,
+      "box": [
+        126,
+        432,
+        550,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Accounting Practice, Morningstar University, 2008",
+      "score": 0.9929,
+      "box": [
+        115,
+        541,
+        668,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Commerce, Windcrest University, 2006",
+      "score": 0.984,
+      "box": [
+        115,
+        566,
+        588,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of corporate finance",
+      "score": 0.9893,
+      "box": [
+        133,
+        591,
+        503,
+        614
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of sustainability accounting basics",
+      "score": 0.9806,
+      "box": [
+        133,
+        615,
+        669,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "TANYAANTHONY\nAZ, USA|+1-618-242-1720|tanya.anthony@example.com\nWORK HISTORY\nAccountants Auditors, Balanced Books Co., 2020.07–2023.01\n- Established financial reporting standards\n- Developed internal control systems\nAccountants Auditors, AccuCount Group, 2016.11–2019.05\n- Assisted with tax form preparation\n- Processed accounts receivable transactions\nEDUCATION\nMaster's, Accounting Practice, Morningstar University, 2008\nBachelor's, Commerce, Windcrest University, 2006\n• Studied principles of corporate finance\n• Studied fundamentals of sustainability accounting basics"
+}

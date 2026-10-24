@@ -1,0 +1,148 @@
+{
+  "id": "16564",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.87,
+  "n_lines": 10,
+  "mean_score": 0.9753,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MAX POTTS",
+      "score": 0.9828,
+      "box": [
+        116,
+        90,
+        313,
+        121
+      ]
+    },
+    {
+      "text": "GA,USA|+1-350-811-4812|max.potts@example.com",
+      "score": 0.9469,
+      "box": [
+        115,
+        150,
+        633,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidLine Construction, 2020.10–2023.01",
+      "score": 0.9813,
+      "box": [
+        115,
+        290,
+        716,
+        313
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9495,
+      "box": [
+        126,
+        315,
+        440,
+        338
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9891,
+      "box": [
+        126,
+        339,
+        489,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Design, Pineview Ridge University, 2023",
+      "score": 0.9895,
+      "box": [
+        115,
+        447,
+        867,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of framing methods",
+      "score": 0.9797,
+      "box": [
+        132,
+        472,
+        498,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of job site efficiency",
+      "score": 0.9509,
+      "box": [
+        133,
+        499,
+        500,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "MAX POTTS\nGA,USA|+1-350-811-4812|max.potts@example.com\nWORK HISTORY\nConstruction Laborers, SolidLine Construction, 2020.10–2023.01\n- Installed basic flooring materials\n- Performed basic plumbing assistance\nEDUCATION\nSome college (no degree), Construction Design, Pineview Ridge University, 2023\n• Studied principles of framing methods\n• Studied principles of job site efficiency"
+}

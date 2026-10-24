@@ -1,0 +1,265 @@
+{
+  "id": "58960",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.926,
+  "n_lines": 19,
+  "mean_score": 0.9815,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JENNY OLSON",
+      "score": 0.9783,
+      "box": [
+        116,
+        90,
+        357,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-931-868-6028 |jenny.olson@example.com",
+      "score": 0.9625,
+      "box": [
+        114,
+        150,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9808,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Services, 2020.07–2023.01",
+      "score": 0.9894,
+      "box": [
+        114,
+        289,
+        690,
+        313
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9863,
+      "box": [
+        126,
+        314,
+        467,
+        339
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9784,
+      "box": [
+        126,
+        339,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Group, 2018.01–2020.07",
+      "score": 0.9883,
+      "box": [
+        115,
+        381,
+        709,
+        406
+      ]
+    },
+    {
+      "text": "- Directed revenue recognition policies",
+      "score": 0.9722,
+      "box": [
+        126,
+        406,
+        484,
+        431
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9888,
+      "box": [
+        126,
+        430,
+        494,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Co., 2015.07–2018.01",
+      "score": 0.9794,
+      "box": [
+        114,
+        471,
+        704,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared management reports",
+      "score": 0.9624,
+      "box": [
+        125,
+        497,
+        427,
+        522
+      ]
+    },
+    {
+      "text": "- Reviewed financial disclosures",
+      "score": 0.9961,
+      "box": [
+        127,
+        522,
+        426,
+        544
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Group, 2011.02–2013.08",
+      "score": 0.9817,
+      "box": [
+        116,
+        565,
+        702,
+        588
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9963,
+      "box": [
+        126,
+        590,
+        453,
+        613
+      ]
+    },
+    {
+      "text": "- Assisted with internal control testing",
+      "score": 0.9801,
+      "box": [
+        127,
+        615,
+        473,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Operations, Willow Creek University, 2010",
+      "score": 0.9673,
+      "box": [
+        115,
+        725,
+        707,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting process improvement",
+      "score": 0.9717,
+      "box": [
+        132,
+        748,
+        697,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of hedge accounting",
+      "score": 0.9898,
+      "box": [
+        133,
+        773,
+        506,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "JENNY OLSON\nWA, USA|+1-931-868-6028 |jenny.olson@example.com\nWORK HISTORY\nAccountants Auditors, ClearCount Services, 2020.07–2023.01\n- Developed internal control systems\n- Directed accounting operations planning\nAccountants Auditors, Integrity Ledger Group, 2018.01–2020.07\n- Directed revenue recognition policies\n- Established financial data governance\nAccountants Auditors, Reliable Accounts Co., 2015.07–2018.01\n- Prepared management reports\n- Reviewed financial disclosures\nAccountants Auditors, Integrity Books Group, 2011.02–2013.08\n- Reviewed expense classifications\n- Assisted with internal control testing\nEDUCATION\nBachelor's, Business Operations, Willow Creek University, 2010\n• Completed coursework in accounting process improvement\n• Studied principles of hedge accounting"
+}

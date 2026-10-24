@@ -1,0 +1,252 @@
+{
+  "id": "08790",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.982,
+  "n_lines": 18,
+  "mean_score": 0.9762,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "IAN TRAN",
+      "score": 0.9897,
+      "box": [
+        114,
+        88,
+        280,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-767-280-8017 |ian.tran@example.com",
+      "score": 0.9841,
+      "box": [
+        116,
+        151,
+        611,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9865,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skywave Software, 2020.03–2023.01",
+      "score": 0.9739,
+      "box": [
+        114,
+        288,
+        667,
+        314
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.9763,
+      "box": [
+        126,
+        314,
+        431,
+        340
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9739,
+      "box": [
+        126,
+        339,
+        400,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Systems, 2017.05–2020.03",
+      "score": 0.9828,
+      "box": [
+        115,
+        381,
+        654,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented feature flags",
+      "score": 0.9571,
+      "box": [
+        126,
+        406,
+        384,
+        432
+      ]
+    },
+    {
+      "text": "- Developed Cl/CD scripts",
+      "score": 0.9578,
+      "box": [
+        124,
+        428,
+        372,
+        458
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudframe Digital, 2012.09–2015.07",
+      "score": 0.9677,
+      "box": [
+        115,
+        471,
+        668,
+        496
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9601,
+      "box": [
+        124,
+        496,
+        448,
+        521
+      ]
+    },
+    {
+      "text": "- Wrote unit tests for application modules",
+      "score": 0.9826,
+      "box": [
+        126,
+        521,
+        507,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Doctorate, Redwood University, 2010",
+      "score": 0.9685,
+      "box": [
+        115,
+        632,
+        463,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Goldenbrook University, 005",
+      "score": 0.9842,
+      "box": [
+        114,
+        656,
+        502,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of mutexes and semaphores",
+      "score": 0.9882,
+      "box": [
+        132,
+        681,
+        582,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in data structures implementation",
+      "score": 0.9643,
+      "box": [
+        132,
+        706,
+        674,
+        731
+      ]
+    },
+    {
+      "text": "• Studied principles of linear algebra",
+      "score": 0.9742,
+      "box": [
+        133,
+        732,
+        468,
+        755
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "IAN TRAN\nCA, USA|+1-767-280-8017 |ian.tran@example.com\nWORK HISTORY\nSoftware Developers, Skywave Software, 2020.03–2023.01\n- Led system reliability programs\n- Led database design efforts\nSoftware Developers, Softgrid Systems, 2017.05–2020.03\n- Implemented feature flags\n- Developed Cl/CD scripts\nSoftware Developers, Cloudframe Digital, 2012.09–2015.07\n- Performed basic APl integrations\n- Wrote unit tests for application modules\nEDUCATION\nDoctorate, Redwood University, 2010\nBachelor's, Goldenbrook University, 005\n• Studied principles of mutexes and semaphores\n• Completed coursework in data structures implementation\n• Studied principles of linear algebra"
+}

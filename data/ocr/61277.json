@@ -1,0 +1,252 @@
+{
+  "id": "61277",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.954,
+  "n_lines": 18,
+  "mean_score": 0.9782,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ADAM SPARKS",
+      "score": 0.9705,
+      "box": [
+        116,
+        90,
+        367,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-653-949-6694|adam.sparks@example.com",
+      "score": 0.9665,
+      "box": [
+        115,
+        150,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueNorth Builders, 2020.02–2023.01",
+      "score": 0.9762,
+      "box": [
+        115,
+        290,
+        682,
+        313
+      ]
+    },
+    {
+      "text": "- Directed project execution strategies",
+      "score": 0.9767,
+      "box": [
+        126,
+        314,
+        480,
+        339
+      ]
+    },
+    {
+      "text": "- Directed quality assurance programs",
+      "score": 0.9722,
+      "box": [
+        126,
+        339,
+        482,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmStone Construction, 2017.02–2020.2",
+      "score": 0.9805,
+      "box": [
+        115,
+        381,
+        727,
+        406
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9679,
+      "box": [
+        125,
+        406,
+        441,
+        431
+      ]
+    },
+    {
+      "text": "- Supervised foundation installations",
+      "score": 0.9741,
+      "box": [
+        126,
+        431,
+        465,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Build Co., 2014.02–2017.02",
+      "score": 0.9625,
+      "box": [
+        115,
+        472,
+        674,
+        495
+      ]
+    },
+    {
+      "text": "- Supervised junior laborers",
+      "score": 0.9942,
+      "box": [
+        126,
+        498,
+        386,
+        521
+      ]
+    },
+    {
+      "text": "- Installed plumbing fixtures",
+      "score": 0.9812,
+      "box": [
+        125,
+        521,
+        384,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftFrame Builders, 2008.03—–2011.03",
+      "score": 0.9724,
+      "box": [
+        114,
+        563,
+        695,
+        588
+      ]
+    },
+    {
+      "text": "- Performed basic demolition tasks",
+      "score": 0.9784,
+      "box": [
+        125,
+        589,
+        448,
+        611
+      ]
+    },
+    {
+      "text": "- Measured and cut basic building materials",
+      "score": 0.9858,
+      "box": [
+        126,
+        613,
+        532,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Operations, Edgewood High School, 2006",
+      "score": 0.979,
+      "box": [
+        116,
+        725,
+        888,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of site access planning",
+      "score": 0.9849,
+      "box": [
+        132,
+        747,
+        529,
+        773
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "ADAM SPARKS\nWI, USA|+1-653-949-6694|adam.sparks@example.com\nWORK HISTORY\nConstruction Laborers, TrueNorth Builders, 2020.02–2023.01\n- Directed project execution strategies\n- Directed quality assurance programs\nConstruction Laborers, FirmStone Construction, 2017.02–2020.2\n- Led complex demolition projects\n- Supervised foundation installations\nConstruction Laborers, Reliable Build Co., 2014.02–2017.02\n- Supervised junior laborers\n- Installed plumbing fixtures\nConstruction Laborers, CraftFrame Builders, 2008.03—–2011.03\n- Performed basic demolition tasks\n- Measured and cut basic building materials\nEDUCATION\nHigh school graduate/GED, Construction Operations, Edgewood High School, 2006\n• Studied principles of site access planning"
+}

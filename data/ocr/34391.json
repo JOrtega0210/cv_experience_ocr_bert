@@ -1,0 +1,187 @@
+{
+  "id": "34391",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.829,
+  "n_lines": 13,
+  "mean_score": 0.9766,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LISA GOULD",
+      "score": 0.9677,
+      "box": [
+        116,
+        90,
+        324,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-859-592-5249 |lisa.gould@example.com",
+      "score": 0.9752,
+      "box": [
+        116,
+        151,
+        625,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9772,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Financial, 2019.01–2021.10",
+      "score": 0.9701,
+      "box": [
+        114,
+        289,
+        734,
+        313
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9811,
+      "box": [
+        126,
+        315,
+        554,
+        338
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9569,
+      "box": [
+        126,
+        339,
+        525,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Financial, 2015.05–2018.02",
+      "score": 0.9778,
+      "box": [
+        114,
+        381,
+        725,
+        406
+      ]
+    },
+    {
+      "text": "- Filed financial documents",
+      "score": 0.9828,
+      "box": [
+        126,
+        406,
+        378,
+        429
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.9799,
+      "box": [
+        126,
+        430,
+        384,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Statistics, Meadowcrest University, 2008",
+      "score": 0.9649,
+      "box": [
+        115,
+        541,
+        601,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of financial risk management",
+      "score": 0.979,
+      "box": [
+        132,
+        565,
+        586,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of regulatory compliance",
+      "score": 0.9857,
+      "box": [
+        132,
+        590,
+        584,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "LISA GOULD\nNJ, USA|+1-859-592-5249 |lisa.gould@example.com\nWORK HISTORY\nAccountants Auditors, Integrity Ledger Financial, 2019.01–2021.10\n- Designed financial documentation standards\n- Developed regulatory reporting strategies\nAccountants Auditors, Integrity Count Financial, 2015.05–2018.02\n- Filed financial documents\n- Prepared variance reports\nEDUCATION\nBachelor's, Statistics, Meadowcrest University, 2008\n• Studied principles of financial risk management\n• Studied fundamentals of regulatory compliance"
+}

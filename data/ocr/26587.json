@@ -1,0 +1,200 @@
+{
+  "id": "26587",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.846,
+  "n_lines": 14,
+  "mean_score": 0.9861,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RAUL NIXON",
+      "score": 0.9873,
+      "box": [
+        115,
+        88,
+        328,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA|+1-465-761-8565|raul.nixon@example.com",
+      "score": 0.9841,
+      "box": [
+        114,
+        150,
+        634,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Meadow Academy, 2019.10–2022.04",
+      "score": 0.978,
+      "box": [
+        115,
+        290,
+        875,
+        313
+      ]
+    },
+    {
+      "text": "- Directed content standardization",
+      "score": 0.974,
+      "box": [
+        126,
+        313,
+        442,
+        337
+      ]
+    },
+    {
+      "text": "- Led curriculum integration projects",
+      "score": 0.9884,
+      "box": [
+        126,
+        338,
+        461,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Evergreen Academy, 2016.03–2018.09",
+      "score": 0.9876,
+      "box": [
+        115,
+        381,
+        826,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.9948,
+      "box": [
+        125,
+        406,
+        484,
+        431
+      ]
+    },
+    {
+      "text": "- Distributed instructional handouts",
+      "score": 0.9861,
+      "box": [
+        126,
+        432,
+        450,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, General Education, Lakeside University, 2008",
+      "score": 0.9805,
+      "box": [
+        115,
+        540,
+        629,
+        563
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Education, Fairview Ridge University, 2006",
+      "score": 0.9859,
+      "box": [
+        114,
+        565,
+        699,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in introductory child psychology",
+      "score": 0.9907,
+      "box": [
+        133,
+        590,
+        656,
+        616
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of learning environments",
+      "score": 0.9866,
+      "box": [
+        134,
+        616,
+        584,
+        638
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "RAUL NIXON\nMA, USA|+1-465-761-8565|raul.nixon@example.com\nWORK HISTORY\nElementary Middle School Teachers, Sunny Meadow Academy, 2019.10–2022.04\n- Directed content standardization\n- Led curriculum integration projects\nElementary Middle School Teachers, Evergreen Academy, 2016.03–2018.09\n- Conducted reading practice sessions\n- Distributed instructional handouts\nEDUCATION\nMaster's, General Education, Lakeside University, 2008\nBachelor's, Applied Education, Fairview Ridge University, 2006\n• Completed coursework in introductory child psychology\n• Studied fundamentals of learning environments"
+}

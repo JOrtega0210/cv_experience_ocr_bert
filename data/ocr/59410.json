@@ -1,0 +1,226 @@
+{
+  "id": "59410",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.878,
+  "n_lines": 16,
+  "mean_score": 0.9814,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SARAH MCDOWELL",
+      "score": 0.9723,
+      "box": [
+        116,
+        90,
+        443,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-219-224-9673|sarah.mcdowell@example.com",
+      "score": 0.9807,
+      "box": [
+        114,
+        150,
+        691,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Hearts Academy, 2020.09–2023.01",
+      "score": 0.9801,
+      "box": [
+        116,
+        290,
+        838,
+        313
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.9887,
+      "box": [
+        127,
+        316,
+        509,
+        336
+      ]
+    },
+    {
+      "text": "- Directed assessment development efforts",
+      "score": 0.9722,
+      "box": [
+        127,
+        340,
+        526,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Path School, 2018.04–2020.09",
+      "score": 0.9863,
+      "box": [
+        116,
+        382,
+        807,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented differentiated instruction strategies",
+      "score": 0.9821,
+      "box": [
+        126,
+        406,
+        586,
+        431
+      ]
+    },
+    {
+      "text": "- Analyzed assessment trends",
+      "score": 0.9803,
+      "box": [
+        126,
+        430,
+        409,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Futures School, 2015.11–2018.04",
+      "score": 0.986,
+      "box": [
+        115,
+        472,
+        826,
+        495
+      ]
+    },
+    {
+      "text": "- Maintained student folders",
+      "score": 0.9793,
+      "box": [
+        125,
+        497,
+        387,
+        519
+      ]
+    },
+    {
+      "text": "- Prepared lesson summaries",
+      "score": 0.9733,
+      "box": [
+        126,
+        521,
+        403,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Education, Windermere University, 2020",
+      "score": 0.9686,
+      "box": [
+        115,
+        632,
+        674,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional objectives",
+      "score": 0.9857,
+      "box": [
+        132,
+        656,
+        590,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom assessment techniques",
+      "score": 0.9819,
+      "box": [
+        134,
+        681,
+        708,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "SARAH MCDOWELL\nWA, USA|+1-219-224-9673|sarah.mcdowell@example.com\nWORK HISTORY\nElementary Middle School Teachers, Kind Hearts Academy, 2020.09–2023.01\n- Led curriculum transformation initiatives\n- Directed assessment development efforts\nElementary Middle School Teachers, Open Path School, 2018.04–2020.09\n- Implemented differentiated instruction strategies\n- Analyzed assessment trends\nElementary Middle School Teachers, Kind Futures School, 2015.11–2018.04\n- Maintained student folders\n- Prepared lesson summaries\nEDUCATION\nBachelor's, Applied Education, Windermere University, 2020\n• Studied fundamentals of instructional objectives\n• Completed coursework in classroom assessment techniques"
+}

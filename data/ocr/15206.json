@@ -1,0 +1,226 @@
+{
+  "id": "15206",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.996,
+  "n_lines": 16,
+  "mean_score": 0.9815,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ASHLEYBEIL",
+      "score": 0.9976,
+      "box": [
+        116,
+        90,
+        337,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-914-794-8297|ashley.beil@example.com",
+      "score": 0.9834,
+      "box": [
+        116,
+        151,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Accounting, 2020.12–2023.01",
+      "score": 0.983,
+      "box": [
+        114,
+        289,
+        726,
+        314
+      ]
+    },
+    {
+      "text": "- Designed financial modeling standards",
+      "score": 0.9643,
+      "box": [
+        127,
+        315,
+        500,
+        338
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9888,
+      "box": [
+        126,
+        339,
+        467,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Summit Accounting Services, 2018.10–2020.12",
+      "score": 0.9887,
+      "box": [
+        114,
+        381,
+        766,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed audit workpapers",
+      "score": 0.9741,
+      "box": [
+        125,
+        405,
+        400,
+        431
+      ]
+    },
+    {
+      "text": "- Managed general ledger maintenance",
+      "score": 0.9831,
+      "box": [
+        126,
+        431,
+        494,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Group, 2016.08–2018.10",
+      "score": 0.9675,
+      "box": [
+        115,
+        472,
+        674,
+        496
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9873,
+      "box": [
+        125,
+        496,
+        550,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.9583,
+      "box": [
+        126,
+        521,
+        384,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Cost Accounting, Silver Ridge University, 2014",
+      "score": 0.9687,
+      "box": [
+        114,
+        631,
+        657,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of quality control in auditing",
+      "score": 0.9846,
+      "box": [
+        132,
+        656,
+        572,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of business process analysis",
+      "score": 0.9918,
+      "box": [
+        134,
+        681,
+        584,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ASHLEYBEIL\nGA, USA |+1-914-794-8297|ashley.beil@example.com\nWORK HISTORY\nAccountants Auditors, EverBalance Accounting, 2020.12–2023.01\n- Designed financial modeling standards\n- Developed internal control systems\nAccountants Auditors, Summit Accounting Services, 2018.10–2020.12\n- Reviewed audit workpapers\n- Managed general ledger maintenance\nAccountants Auditors, FairBalance Group, 2016.08–2018.10\n- Processed accounts receivable transactions\n- Prepared variance reports\nEDUCATION\nBachelor's, Cost Accounting, Silver Ridge University, 2014\n• Studied principles of quality control in auditing\n• Studied principles of business process analysis"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "24495",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.738,
+  "n_lines": 10,
+  "mean_score": 0.9805,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LINDA COLLIER",
+      "score": 0.9635,
+      "box": [
+        116,
+        90,
+        376,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA|+1-873-966-6679 |linda.collier@example.com",
+      "score": 0.9718,
+      "box": [
+        115,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Sky School, 2020.04–2021.06",
+      "score": 0.9813,
+      "box": [
+        115,
+        289,
+        798,
+        312
+      ]
+    },
+    {
+      "text": "- Prepared lesson summaries",
+      "score": 0.9802,
+      "box": [
+        126,
+        315,
+        403,
+        338
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9787,
+      "box": [
+        126,
+        339,
+        395,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Child and Youth Studies, Stonehaven University, 2018",
+      "score": 0.9804,
+      "box": [
+        115,
+        449,
+        728,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of learner diversity",
+      "score": 0.9901,
+      "box": [
+        132,
+        472,
+        489,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in student progress monitoring",
+      "score": 0.9757,
+      "box": [
+        133,
+        498,
+        647,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "LINDA COLLIER\nMD, USA|+1-873-966-6679 |linda.collier@example.com\nWORK HISTORY\nElementary Middle School Teachers, Open Sky School, 2020.04–2021.06\n- Prepared lesson summaries\n- Collected permission forms\nEDUCATION\nBachelor's, Child and Youth Studies, Stonehaven University, 2018\n• Studied principles of learner diversity\n• Completed coursework in student progress monitoring"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "27692",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.793,
+  "n_lines": 16,
+  "mean_score": 0.9809,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "VALERIE FISCHER",
+      "score": 0.9886,
+      "box": [
+        115,
+        90,
+        418,
+        120
+      ]
+    },
+    {
+      "text": "MI, USA|+1-773-441-4781 |valerie.fischer@example.com",
+      "score": 0.9834,
+      "box": [
+        116,
+        152,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9944,
+      "box": [
+        115,
+        242,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Systems, 2020.07–2023.01",
+      "score": 0.966,
+      "box": [
+        115,
+        289,
+        652,
+        314
+      ]
+    },
+    {
+      "text": "- Designed Cl/CD frameworks",
+      "score": 0.9702,
+      "box": [
+        126,
+        315,
+        408,
+        338
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.9819,
+      "box": [
+        126,
+        339,
+        428,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Datawave Digital, 2018.01–2020.07",
+      "score": 0.9718,
+      "box": [
+        115,
+        381,
+        653,
+        406
+      ]
+    },
+    {
+      "text": "- Handled concurrency issues",
+      "score": 0.9857,
+      "box": [
+        125,
+        406,
+        406,
+        431
+      ]
+    },
+    {
+      "text": "- Developed background jobs",
+      "score": 0.9878,
+      "box": [
+        126,
+        430,
+        402,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Softfield Labs, 2015.07–2018.01",
+      "score": 0.9768,
+      "box": [
+        116,
+        472,
+        620,
+        495
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9736,
+      "box": [
+        126,
+        496,
+        346,
+        521
+      ]
+    },
+    {
+      "text": "- Updated monitoring dashboards",
+      "score": 0.967,
+      "box": [
+        127,
+        523,
+        439,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Pioneer University, 2016",
+      "score": 0.9819,
+      "box": [
+        115,
+        632,
+        454,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of computational thinking",
+      "score": 0.9784,
+      "box": [
+        132,
+        656,
+        548,
+        682
+      ]
+    },
+    {
+      "text": "• Studied principles of augmented reality",
+      "score": 0.9884,
+      "box": [
+        133,
+        681,
+        507,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "VALERIE FISCHER\nMI, USA|+1-773-441-4781 |valerie.fischer@example.com\nWORK HISTORY\nSoftware Developers, Softgrid Systems, 2020.07–2023.01\n- Designed Cl/CD frameworks\n- Designed system architectures\nSoftware Developers, Datawave Digital, 2018.01–2020.07\n- Handled concurrency issues\n- Developed background jobs\nSoftware Developers, Softfield Labs, 2015.07–2018.01\n- Created test data sets\n- Updated monitoring dashboards\nEDUCATION\nBachelor's, Pioneer University, 2016\n• Studied principles of computational thinking\n• Studied principles of augmented reality"
+}

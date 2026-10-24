@@ -1,0 +1,239 @@
+{
+  "id": "30650",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.89,
+  "n_lines": 17,
+  "mean_score": 0.9836,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JUSTIN HOLT",
+      "score": 0.9929,
+      "box": [
+        115,
+        88,
+        340,
+        122
+      ]
+    },
+    {
+      "text": "MO, USA |+1-628-466-4778 |justin.holt@example.com",
+      "score": 0.9721,
+      "box": [
+        116,
+        150,
+        633,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9819,
+      "box": [
+        114,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerTrack Construction, 2020.09–2023.01",
+      "score": 0.9866,
+      "box": [
+        114,
+        288,
+        746,
+        313
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9566,
+      "box": [
+        125,
+        313,
+        407,
+        338
+      ]
+    },
+    {
+      "text": "- Established material procurement strategies",
+      "score": 0.9685,
+      "box": [
+        126,
+        338,
+        550,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyRise Builders, 2018.04–2020.09",
+      "score": 0.9903,
+      "box": [
+        115,
+        380,
+        696,
+        406
+      ]
+    },
+    {
+      "text": "- Installed mechanical supports",
+      "score": 0.9892,
+      "box": [
+        125,
+        405,
+        418,
+        431
+      ]
+    },
+    {
+      "text": "- Supervised demolition tasks",
+      "score": 0.9781,
+      "box": [
+        126,
+        432,
+        402,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterFrame Builders, 2015.11–2018.04",
+      "score": 0.9883,
+      "box": [
+        115,
+        472,
+        714,
+        495
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9696,
+      "box": [
+        125,
+        496,
+        440,
+        521
+      ]
+    },
+    {
+      "text": "- Loaded and unloaded construction materials",
+      "score": 0.989,
+      "box": [
+        127,
+        521,
+        552,
+        545
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Construction Practices, Stonehill University, 2014",
+      "score": 0.9806,
+      "box": [
+        115,
+        632,
+        663,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Supervision, Woodcrest University, 2012",
+      "score": 0.9904,
+      "box": [
+        114,
+        656,
+        725,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of material delivery coordination",
+      "score": 0.9944,
+      "box": [
+        133,
+        682,
+        614,
+        705
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction inspection reporting",
+      "score": 0.9935,
+      "box": [
+        133,
+        706,
+        689,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "JUSTIN HOLT\nMO, USA |+1-628-466-4778 |justin.holt@example.com\nWORK HISTORY\nConstruction Laborers, CornerTrack Construction, 2020.09–2023.01\n- Established site layout plans\n- Established material procurement strategies\nConstruction Laborers, SteadyRise Builders, 2018.04–2020.09\n- Installed mechanical supports\n- Supervised demolition tasks\nConstruction Laborers, MasterFrame Builders, 2015.11–2018.04\n- Installed basic flooring materials\n- Loaded and unloaded construction materials\nEDUCATION\nMaster's, Construction Practices, Stonehill University, 2014\nBachelor's, Construction Supervision, Woodcrest University, 2012\n• Studied principles of material delivery coordination\n• Completed coursework in construction inspection reporting"
+}

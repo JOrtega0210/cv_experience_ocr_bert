@@ -1,0 +1,187 @@
+{
+  "id": "14264",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.917,
+  "n_lines": 13,
+  "mean_score": 0.978,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KELSEY HOOD",
+      "score": 0.9856,
+      "box": [
+        116,
+        90,
+        361,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-439-999-5486 |kelsey.hood@example.com",
+      "score": 0.9706,
+      "box": [
+        115,
+        150,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9803,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Services, 2020.05–2022.04",
+      "score": 0.9796,
+      "box": [
+        114,
+        289,
+        712,
+        313
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9783,
+      "box": [
+        126,
+        315,
+        450,
+        338
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9845,
+      "box": [
+        126,
+        339,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Group, 2017.08–2019.07",
+      "score": 0.9804,
+      "box": [
+        114,
+        381,
+        704,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9825,
+      "box": [
+        125,
+        406,
+        382,
+        432
+      ]
+    },
+    {
+      "text": "- Prepared expense reports",
+      "score": 0.9622,
+      "box": [
+        126,
+        430,
+        383,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Services, Oakwood University, 2012",
+      "score": 0.9738,
+      "box": [
+        114,
+        539,
+        650,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit software tools",
+      "score": 0.9778,
+      "box": [
+        132,
+        564,
+        559,
+        588
+      ]
+    },
+    {
+      "text": "• Completed coursework in cost accounting",
+      "score": 0.9602,
+      "box": [
+        134,
+        590,
+        533,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KELSEY HOOD\nFL, USA|+1-439-999-5486 |kelsey.hood@example.com\nWORK HISTORY\nAccountants Auditors, OpenBalance Services, 2020.05–2022.04\n- Designed accounting frameworks\n- Developed long-term financial strategies\nAccountants Auditors, Precise Ledger Group, 2017.08–2019.07\n- Reviewed ledger postings\n- Prepared expense reports\nEDUCATION\nBachelor's, Financial Services, Oakwood University, 2012\n• Studied fundamentals of audit software tools\n• Completed coursework in cost accounting"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "04210",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.952,
+  "n_lines": 13,
+  "mean_score": 0.9833,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BAILEY BRAVO",
+      "score": 0.9716,
+      "box": [
+        116,
+        90,
+        370,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-880-343-8453 |bailey.bravo@example.com",
+      "score": 0.9788,
+      "box": [
+        116,
+        151,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Financial, 2021.05–2023.01",
+      "score": 0.9907,
+      "box": [
+        115,
+        290,
+        703,
+        313
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9719,
+      "box": [
+        125,
+        313,
+        478,
+        338
+      ]
+    },
+    {
+      "text": "- Developed financial analytics frameworks",
+      "score": 0.9827,
+      "box": [
+        127,
+        340,
+        525,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearView Accounting, 2019.09–2021.05",
+      "score": 0.987,
+      "box": [
+        114,
+        381,
+        705,
+        405
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9781,
+      "box": [
+        126,
+        407,
+        549,
+        429
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9968,
+      "box": [
+        127,
+        432,
+        453,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Quantitative Finance, Wildflower University, 2022",
+      "score": 0.9813,
+      "box": [
+        114,
+        539,
+        680,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial accounting",
+      "score": 0.9802,
+      "box": [
+        134,
+        566,
+        572,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting process improvement",
+      "score": 0.9829,
+      "box": [
+        134,
+        590,
+        696,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "BAILEY BRAVO\nCA, USA|+1-880-343-8453 |bailey.bravo@example.com\nWORK HISTORY\nAccountants Auditors, ClearLedger Financial, 2021.05–2023.01\n- Established financial quality controls\n- Developed financial analytics frameworks\nAccountants Auditors, ClearView Accounting, 2019.09–2021.05\n- Processed accounts receivable transactions\n- Reviewed expense classifications\nEDUCATION\nBachelor's, Quantitative Finance, Wildflower University, 2022\n• Completed coursework in financial accounting\n• Completed coursework in accounting process improvement"
+}

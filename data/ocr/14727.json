@@ -1,0 +1,265 @@
+{
+  "id": "14727",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.058,
+  "n_lines": 19,
+  "mean_score": 0.9864,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AMBERCLAY",
+      "score": 0.9983,
+      "box": [
+        116,
+        90,
+        342,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-634-605-9271|amber.clay@example.com",
+      "score": 0.9932,
+      "box": [
+        116,
+        151,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9799,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Hands Medical, 2020.03–2023.01",
+      "score": 0.9893,
+      "box": [
+        115,
+        289,
+        734,
+        314
+      ]
+    },
+    {
+      "text": "- Directed emergency response planning",
+      "score": 0.9669,
+      "box": [
+        126,
+        314,
+        504,
+        339
+      ]
+    },
+    {
+      "text": "- Developed patient safety programs",
+      "score": 0.9705,
+      "box": [
+        127,
+        339,
+        466,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Hands Medical, 2017.05–2020.03",
+      "score": 0.9869,
+      "box": [
+        115,
+        381,
+        689,
+        406
+      ]
+    },
+    {
+      "text": "- Established clinical evaluation protocols",
+      "score": 0.9906,
+      "box": [
+        125,
+        406,
+        510,
+        431
+      ]
+    },
+    {
+      "text": "- Designed clinical documentation standards",
+      "score": 0.988,
+      "box": [
+        126,
+        431,
+        539,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Group, 2014.07–2017.05",
+      "score": 0.9899,
+      "box": [
+        116,
+        473,
+        690,
+        496
+      ]
+    },
+    {
+      "text": "- Managed patient referrals",
+      "score": 0.9827,
+      "box": [
+        126,
+        498,
+        381,
+        521
+      ]
+    },
+    {
+      "text": "- Supervised junior nursing staf",
+      "score": 0.9874,
+      "box": [
+        126,
+        521,
+        424,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeSpring Health Group, 2009.06–2012.04",
+      "score": 0.993,
+      "box": [
+        116,
+        565,
+        709,
+        589
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.9935,
+      "box": [
+        126,
+        590,
+        453,
+        613
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.9841,
+      "box": [
+        126,
+        614,
+        483,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Services, Northcrest University, 2008",
+      "score": 0.9807,
+      "box": [
+        115,
+        725,
+        635,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in oncology nursing basics",
+      "score": 0.9813,
+      "box": [
+        133,
+        749,
+        612,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of clinical documentation",
+      "score": 0.9867,
+      "box": [
+        135,
+        775,
+        584,
+        795
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "AMBERCLAY\nGA, USA|+1-634-605-9271|amber.clay@example.com\nWORK HISTORY\nRegistered Nurses, Compassion Hands Medical, 2020.03–2023.01\n- Directed emergency response planning\n- Developed patient safety programs\nRegistered Nurses, Helping Hands Medical, 2017.05–2020.03\n- Established clinical evaluation protocols\n- Designed clinical documentation standards\nRegistered Nurses, Harmony Health Group, 2014.07–2017.05\n- Managed patient referrals\n- Supervised junior nursing staf\nRegistered Nurses, SafeSpring Health Group, 2009.06–2012.04\n- Documented patient observations\n- Assisted with emergency procedures\nEDUCATION\nBachelor's, Health Services, Northcrest University, 2008\n• Completed coursework in oncology nursing basics\n• Studied fundamentals of clinical documentation"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "43366",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.786,
+  "n_lines": 10,
+  "mean_score": 0.9816,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AARONWISE",
+      "score": 0.9988,
+      "box": [
+        116,
+        90,
+        336,
+        121
+      ]
+    },
+    {
+      "text": "OK, USA|+1-736-788-9500|aaron.wise@example.com",
+      "score": 0.9805,
+      "box": [
+        115,
+        150,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9835,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, EverRise Construction, 2019.12–2021.09",
+      "score": 0.9852,
+      "box": [
+        115,
+        290,
+        716,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.9675,
+      "box": [
+        126,
+        315,
+        512,
+        338
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.9759,
+      "box": [
+        127,
+        340,
+        373,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Practices, Edgewood University, 2008",
+      "score": 0.9795,
+      "box": [
+        115,
+        447,
+        843,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site layout",
+      "score": 0.9575,
+      "box": [
+        132,
+        472,
+        508,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction site organization",
+      "score": 0.9893,
+      "box": [
+        134,
+        499,
+        659,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "AARONWISE\nOK, USA|+1-736-788-9500|aaron.wise@example.com\nWORK HISTORY\nConstruction Laborers, EverRise Construction, 2019.12–2021.09\n- Prepared surfaces for construction work\n- Sorted building materials\nEDUCATION\nSome college (no degree), Construction Practices, Edgewood University, 2008\n• Studied fundamentals of job site layout\n• Completed coursework in construction site organization"
+}

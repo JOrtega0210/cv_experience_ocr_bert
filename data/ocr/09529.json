@@ -1,0 +1,265 @@
+{
+  "id": "09529",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.046,
+  "n_lines": 19,
+  "mean_score": 0.978,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SOFIA SHAFFER",
+      "score": 0.9712,
+      "box": [
+        115,
+        90,
+        387,
+        121
+      ]
+    },
+    {
+      "text": "CO, USA |+1-912-301-8185 | sofia.shaffer@example.com",
+      "score": 0.9672,
+      "box": [
+        117,
+        151,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Advisors, 2019.04–2023.01",
+      "score": 0.9809,
+      "box": [
+        114,
+        289,
+        695,
+        314
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9666,
+      "box": [
+        126,
+        315,
+        424,
+        338
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.9754,
+      "box": [
+        126,
+        339,
+        456,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Financial Group, 2015.07–2019.04",
+      "score": 0.9935,
+      "box": [
+        115,
+        381,
+        747,
+        406
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.9755,
+      "box": [
+        125,
+        406,
+        433,
+        431
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9863,
+      "box": [
+        125,
+        431,
+        514,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Services, 2011.10–2015.07",
+      "score": 0.9775,
+      "box": [
+        114,
+        471,
+        681,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared working capital analysis",
+      "score": 0.9756,
+      "box": [
+        126,
+        498,
+        453,
+        521
+      ]
+    },
+    {
+      "text": "- Conducted compliance reviews",
+      "score": 0.9684,
+      "box": [
+        126,
+        521,
+        432,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Advisors, 2007.12–2011.10",
+      "score": 0.9888,
+      "box": [
+        115,
+        565,
+        680,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.969,
+      "box": [
+        127,
+        591,
+        365,
+        612
+      ]
+    },
+    {
+      "text": "- Maintained vendor records",
+      "score": 0.9917,
+      "box": [
+        127,
+        616,
+        389,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Operations, Vista University, 207",
+      "score": 0.976,
+      "box": [
+        114,
+        723,
+        631,
+        747
+      ]
+    },
+    {
+      "text": "•Completed coursework in economics for accounting",
+      "score": 0.9389,
+      "box": [
+        132,
+        748,
+        624,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial accounting",
+      "score": 0.9957,
+      "box": [
+        134,
+        772,
+        572,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "SOFIA SHAFFER\nCO, USA |+1-912-301-8185 | sofia.shaffer@example.com\nWORK HISTORY\nAccountants Auditors, AccuLedger Advisors, 2019.04–2023.01\n- Designed audit methodologies\n- Developed audit quality standards\nAccountants Auditors, OpenPath Financial Group, 2015.07–2019.04\n- Established accounting policies\n- Directed accounting operations planning\nAccountants Auditors, FairBooks Services, 2011.10–2015.07\n- Prepared working capital analysis\n- Conducted compliance reviews\nAccountants Auditors, FairBooks Advisors, 2007.12–2011.10\n- Prepared journal entries\n- Maintained vendor records\nEDUCATION\nBachelor's, Business Operations, Vista University, 207\n•Completed coursework in economics for accounting\n• Completed coursework in financial accounting"
+}

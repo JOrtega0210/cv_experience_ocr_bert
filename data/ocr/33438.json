@@ -1,0 +1,148 @@
+{
+  "id": "33438",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.725,
+  "n_lines": 10,
+  "mean_score": 0.9804,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BYRON PHAN",
+      "score": 0.959,
+      "box": [
+        116,
+        90,
+        343,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-549-241-3505 |byron.phan@example.com",
+      "score": 0.9872,
+      "box": [
+        116,
+        152,
+        642,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Financial, 2021.03–2023.01",
+      "score": 0.9892,
+      "box": [
+        115,
+        290,
+        697,
+        313
+      ]
+    },
+    {
+      "text": "- Verified transaction accuracy",
+      "score": 0.9888,
+      "box": [
+        126,
+        313,
+        411,
+        340
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9628,
+      "box": [
+        127,
+        340,
+        418,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Accounting, Driftwood University, 2023",
+      "score": 0.9741,
+      "box": [
+        115,
+        449,
+        659,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of continuous auditing",
+      "score": 0.9798,
+      "box": [
+        133,
+        474,
+        522,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in spreadsheet applications",
+      "score": 0.9803,
+      "box": [
+        134,
+        499,
+        620,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "BYRON PHAN\nNJ, USA|+1-549-241-3505 |byron.phan@example.com\nWORK HISTORY\nAccountants Auditors, OpenBooks Financial, 2021.03–2023.01\n- Verified transaction accuracy\n- Processed journal corrections\nEDUCATION\nBachelor's, Applied Accounting, Driftwood University, 2023\n• Studied principles of continuous auditing\n• Completed coursework in spreadsheet applications"
+}

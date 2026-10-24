@@ -1,0 +1,278 @@
+{
+  "id": "03965",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.993,
+  "n_lines": 20,
+  "mean_score": 0.9796,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DARRIN FOSTER",
+      "score": 0.964,
+      "box": [
+        116,
+        90,
+        391,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-296-892-7663 |darrin.foster@example.com",
+      "score": 0.9653,
+      "box": [
+        117,
+        151,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9817,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Digital, 2018.06–2023.01",
+      "score": 0.9856,
+      "box": [
+        116,
+        290,
+        649,
+        313
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.9944,
+      "box": [
+        127,
+        314,
+        427,
+        338
+      ]
+    },
+    {
+      "text": "- Designed configuration management systems",
+      "score": 0.9894,
+      "box": [
+        126,
+        339,
+        566,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Clearwave Tech, 2013.11–2018.06",
+      "score": 0.9947,
+      "box": [
+        115,
+        381,
+        648,
+        406
+      ]
+    },
+    {
+      "text": "- Designed event-driven architectures",
+      "score": 0.9825,
+      "box": [
+        126,
+        406,
+        476,
+        431
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.9937,
+      "box": [
+        126,
+        430,
+        469,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Openbyte Systems, 2009.04–2013.11",
+      "score": 0.9755,
+      "box": [
+        115,
+        471,
+        672,
+        496
+      ]
+    },
+    {
+      "text": "- Optimized database queries",
+      "score": 0.9788,
+      "box": [
+        126,
+        497,
+        403,
+        522
+      ]
+    },
+    {
+      "text": "- Developed microservices",
+      "score": 0.9844,
+      "box": [
+        126,
+        521,
+        376,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudframe Digital, 2004.08–29.04",
+      "score": 0.9758,
+      "box": [
+        115,
+        563,
+        668,
+        588
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9644,
+      "box": [
+        126,
+        589,
+        604,
+        614
+      ]
+    },
+    {
+      "text": "- Performed code formatting",
+      "score": 0.9708,
+      "box": [
+        126,
+        613,
+        389,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Clear Ridge University, 2012",
+      "score": 0.9811,
+      "box": [
+        115,
+        725,
+        473,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Oakfield University, 2010",
+      "score": 0.937,
+      "box": [
+        115,
+        748,
+        457,
+        771
+      ]
+    },
+    {
+      "text": "• Completed coursework in tree data structures",
+      "score": 0.993,
+      "box": [
+        133,
+        774,
+        569,
+        796
+      ]
+    },
+    {
+      "text": "• Studied principles of big data systems",
+      "score": 0.9806,
+      "box": [
+        132,
+        798,
+        498,
+        823
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "DARRIN FOSTER\nCA, USA|+1-296-892-7663 |darrin.foster@example.com\nWORK HISTORY\nSoftware Developers, Clearpath Digital, 2018.06–2023.01\n- Designed system architectures\n- Designed configuration management systems\nSoftware Developers, Clearwave Tech, 2013.11–2018.06\n- Designed event-driven architectures\n- Led backend platform development\nSoftware Developers, Openbyte Systems, 2009.04–2013.11\n- Optimized database queries\n- Developed microservices\nSoftware Developers, Cloudframe Digital, 2004.08–29.04\n- Implemented basic features in existing codebases\n- Performed code formatting\nEDUCATION\nMaster's, Clear Ridge University, 2012\nBachelor's, Oakfield University, 2010\n• Completed coursework in tree data structures\n• Studied principles of big data systems"
+}

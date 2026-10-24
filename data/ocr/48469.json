@@ -1,0 +1,226 @@
+{
+  "id": "48469",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.863,
+  "n_lines": 16,
+  "mean_score": 0.9776,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "COREY ROTH",
+      "score": 0.9824,
+      "box": [
+        116,
+        90,
+        342,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-866-287-2170 |corey.roth@example.com",
+      "score": 0.9705,
+      "box": [
+        115,
+        150,
+        633,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearFrame Construction, 2020.09–2023.01",
+      "score": 0.9898,
+      "box": [
+        114,
+        289,
+        740,
+        313
+      ]
+    },
+    {
+      "text": "- Directed quality assurance programs",
+      "score": 0.9692,
+      "box": [
+        126,
+        314,
+        483,
+        340
+      ]
+    },
+    {
+      "text": "- Established project documentation systems",
+      "score": 0.9875,
+      "box": [
+        126,
+        339,
+        544,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongFrame Builders, 2018.05–2020.09",
+      "score": 0.9885,
+      "box": [
+        115,
+        381,
+        711,
+        406
+      ]
+    },
+    {
+      "text": "- Performed site leveling tasks",
+      "score": 0.9714,
+      "box": [
+        125,
+        405,
+        410,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared cost estimates",
+      "score": 0.9341,
+      "box": [
+        126,
+        430,
+        368,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardRock Construction, 2015.01–2017.05",
+      "score": 0.989,
+      "box": [
+        115,
+        471,
+        725,
+        496
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9811,
+      "box": [
+        127,
+        498,
+        510,
+        521
+      ]
+    },
+    {
+      "text": "- Applied basic sealants and adhesives",
+      "score": 0.969,
+      "box": [
+        128,
+        523,
+        490,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Skills, Elm Valley University, 2012",
+      "score": 0.9681,
+      "box": [
+        115,
+        631,
+        806,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic window installation",
+      "score": 0.9724,
+      "box": [
+        133,
+        657,
+        619,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in building layout techniques",
+      "score": 0.9855,
+      "box": [
+        134,
+        681,
+        629,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "COREY ROTH\nTN, USA|+1-866-287-2170 |corey.roth@example.com\nWORK HISTORY\nConstruction Laborers, ClearFrame Construction, 2020.09–2023.01\n- Directed quality assurance programs\n- Established project documentation systems\nConstruction Laborers, StrongFrame Builders, 2018.05–2020.09\n- Performed site leveling tasks\n- Prepared cost estimates\nConstruction Laborers, HardRock Construction, 2015.01–2017.05\n- Operated hand tools for assembly tasks\n- Applied basic sealants and adhesives\nEDUCATION\nSome college (no degree), Construction Skills, Elm Valley University, 2012\n• Completed coursework in basic window installation\n• Completed coursework in building layout techniques"
+}

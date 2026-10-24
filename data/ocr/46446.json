@@ -1,0 +1,161 @@
+{
+  "id": "46446",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.833,
+  "n_lines": 11,
+  "mean_score": 0.9815,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KRYSTLE SHAW",
+      "score": 0.962,
+      "box": [
+        116,
+        90,
+        386,
+        120
+      ]
+    },
+    {
+      "text": "PA, USA|+1-593-445-3743 |krystle.shaw@example.com",
+      "score": 0.9835,
+      "box": [
+        115,
+        150,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9784,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightStart Academy, 2019.11–2021.02",
+      "score": 0.9777,
+      "box": [
+        116,
+        290,
+        829,
+        313
+      ]
+    },
+    {
+      "text": "- Conducted group reading activitties",
+      "score": 0.9823,
+      "box": [
+        126,
+        314,
+        462,
+        338
+      ]
+    },
+    {
+      "text": "- Distributed assessment rubrics",
+      "score": 0.9626,
+      "box": [
+        127,
+        340,
+        428,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Education and Development, Sunnyside University, 2013",
+      "score": 0.9919,
+      "box": [
+        114,
+        448,
+        734,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Preparation, Brightfield Ridge University, 2011",
+      "score": 0.9851,
+      "box": [
+        114,
+        472,
+        751,
+        498
+      ]
+    },
+    {
+      "text": "• Completed introductory coursework in educational psychology",
+      "score": 0.9865,
+      "box": [
+        133,
+        497,
+        721,
+        524
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom learning strategies",
+      "score": 0.9879,
+      "box": [
+        134,
+        523,
+        660,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "KRYSTLE SHAW\nPA, USA|+1-593-445-3743 |krystle.shaw@example.com\nWORK HISTORY\nElementary Middle School Teachers, BrightStart Academy, 2019.11–2021.02\n- Conducted group reading activitties\n- Distributed assessment rubrics\nEDUCATION\nMaster's, Education and Development, Sunnyside University, 2013\nBachelor's, Education Preparation, Brightfield Ridge University, 2011\n• Completed introductory coursework in educational psychology\n• Completed coursework in classroom learning strategies"
+}

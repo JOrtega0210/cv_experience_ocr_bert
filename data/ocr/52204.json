@@ -1,0 +1,187 @@
+{
+  "id": "52204",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.845,
+  "n_lines": 13,
+  "mean_score": 0.9828,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JACOB AVERY",
+      "score": 0.9535,
+      "box": [
+        114,
+        87,
+        362,
+        123
+      ]
+    },
+    {
+      "text": "TX, USA|+1-245-311-1679 |jacob.avery@example.com",
+      "score": 0.9792,
+      "box": [
+        114,
+        150,
+        645,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeFrame Construction, 2019.05–2021.12",
+      "score": 0.9889,
+      "box": [
+        114,
+        289,
+        747,
+        313
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9721,
+      "box": [
+        125,
+        313,
+        407,
+        338
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9795,
+      "box": [
+        126,
+        338,
+        467,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardLine Construction, 2015.12–2018.07",
+      "score": 0.9947,
+      "box": [
+        116,
+        382,
+        716,
+        405
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9846,
+      "box": [
+        125,
+        406,
+        493,
+        431
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9915,
+      "box": [
+        126,
+        429,
+        492,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Technology, Plainview University, 2012",
+      "score": 0.9696,
+      "box": [
+        115,
+        539,
+        855,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction measurements",
+      "score": 0.9882,
+      "box": [
+        134,
+        566,
+        645,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction ergonomics",
+      "score": 0.9925,
+      "box": [
+        135,
+        591,
+        616,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JACOB AVERY\nTX, USA|+1-245-311-1679 |jacob.avery@example.com\nWORK HISTORY\nConstruction Laborers, PrimeFrame Construction, 2019.05–2021.12\n- Established site layout plans\n- Directed site optimization initiatives\nConstruction Laborers, HardLine Construction, 2015.12–2018.07\n- Assembled prefabricated components\n- Performed basic sanding and painting\nEDUCATION\nSome college (no degree), Construction Technology, Plainview University, 2012\n• Completed coursework in construction measurements\n• Completed coursework in construction ergonomics"
+}

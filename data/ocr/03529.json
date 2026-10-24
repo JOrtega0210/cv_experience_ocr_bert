@@ -1,0 +1,278 @@
+{
+  "id": "03529",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.01,
+  "n_lines": 20,
+  "mean_score": 0.9823,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DANIEL WILEY",
+      "score": 0.964,
+      "box": [
+        116,
+        90,
+        359,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-805-774-5911 |daniel.wiley@example.com",
+      "score": 0.985,
+      "box": [
+        117,
+        151,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9865,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datawave Systems, 2020.05–2023.01",
+      "score": 0.9768,
+      "box": [
+        115,
+        289,
+        673,
+        314
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9814,
+      "box": [
+        125,
+        313,
+        439,
+        339
+      ]
+    },
+    {
+      "text": "- Led technical audits",
+      "score": 0.978,
+      "box": [
+        126,
+        338,
+        328,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Corefield Software, 2017.08–2020.05",
+      "score": 0.9823,
+      "box": [
+        115,
+        381,
+        668,
+        406
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9908,
+      "box": [
+        126,
+        406,
+        400,
+        431
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.993,
+      "box": [
+        126,
+        431,
+        469,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstack Systems, 2013.11–2016.08",
+      "score": 0.9797,
+      "box": [
+        115,
+        471,
+        685,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented error handling frameworks",
+      "score": 0.9864,
+      "box": [
+        126,
+        498,
+        510,
+        521
+      ]
+    },
+    {
+      "text": "- Integrated third-party services",
+      "score": 0.9742,
+      "box": [
+        126,
+        521,
+        419,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Systems, 2009.08–2012.05",
+      "score": 0.9854,
+      "box": [
+        114,
+        563,
+        673,
+        588
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.9841,
+      "box": [
+        126,
+        590,
+        403,
+        613
+      ]
+    },
+    {
+      "text": "- Handled input sanitization",
+      "score": 0.9865,
+      "box": [
+        126,
+        615,
+        382,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Goldenwood University, 2007",
+      "score": 0.9588,
+      "box": [
+        116,
+        726,
+        479,
+        745
+      ]
+    },
+    {
+      "text": "Bachelor's, Stoneview University, 2005",
+      "score": 0.9906,
+      "box": [
+        115,
+        748,
+        478,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in mobile application development",
+      "score": 0.9914,
+      "box": [
+        133,
+        772,
+        682,
+        798
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of user interface development",
+      "score": 0.9714,
+      "box": [
+        133,
+        797,
+        630,
+        822
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "DANIEL WILEY\nCA, USA|+1-805-774-5911 |daniel.wiley@example.com\nWORK HISTORY\nSoftware Developers, Datawave Systems, 2020.05–2023.01\n- Led technical roadmap planning\n- Led technical audits\nSoftware Developers, Corefield Software, 2017.08–2020.05\n- Led database design efforts\n- Led backend platform development\nSoftware Developers, Brightstack Systems, 2013.11–2016.08\n- Implemented error handling frameworks\n- Integrated third-party services\nSoftware Developers, Clearpath Systems, 2009.08–2012.05\n- Updated database schemas\n- Handled input sanitization\nEDUCATION\nMaster's, Goldenwood University, 2007\nBachelor's, Stoneview University, 2005\n• Completed coursework in mobile application development\n• Studied fundamentals of user interface development"
+}

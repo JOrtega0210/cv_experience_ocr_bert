@@ -1,0 +1,187 @@
+{
+  "id": "59047",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.831,
+  "n_lines": 13,
+  "mean_score": 0.9788,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KRISTEN BERNARD",
+      "score": 0.9804,
+      "box": [
+        116,
+        90,
+        441,
+        120
+      ]
+    },
+    {
+      "text": "WA, USA|+1-417-391-3586|kristen.bernard@example.com",
+      "score": 0.9812,
+      "box": [
+        114,
+        150,
+        685,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9807,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Advisors, 2019.06–2021.06",
+      "score": 0.9751,
+      "box": [
+        114,
+        289,
+        741,
+        313
+      ]
+    },
+    {
+      "text": "-Directed financial reporting processes",
+      "score": 0.9785,
+      "box": [
+        125,
+        313,
+        491,
+        340
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9814,
+      "box": [
+        127,
+        340,
+        436,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Accounting, 2015.12–2018.01",
+      "score": 0.9768,
+      "box": [
+        114,
+        381,
+        723,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9371,
+      "box": [
+        125,
+        405,
+        423,
+        432
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.9794,
+      "box": [
+        126,
+        430,
+        384,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Accounting Information Systems, Foxwood University, 205",
+      "score": 0.9856,
+      "box": [
+        116,
+        541,
+        855,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in internal auditing",
+      "score": 0.9878,
+      "box": [
+        133,
+        566,
+        536,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting controls testing",
+      "score": 0.9817,
+      "box": [
+        133,
+        590,
+        635,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KRISTEN BERNARD\nWA, USA|+1-417-391-3586|kristen.bernard@example.com\nWORK HISTORY\nAccountants Auditors, Integrity Balance Advisors, 2019.06–2021.06\n-Directed financial reporting processes\n- Developed financial risk models\nAccountants Auditors, ClearLedger Accounting, 2015.12–2018.01\n- Assisted with regulatory filings\n- Prepared variance reports\nEDUCATION\nAssociate's degree, Accounting Information Systems, Foxwood University, 205\n• Completed coursework in internal auditing\n• Completed coursework in accounting controls testing"
+}

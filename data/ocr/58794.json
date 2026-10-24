@@ -1,0 +1,265 @@
+{
+  "id": "58794",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.891,
+  "n_lines": 19,
+  "mean_score": 0.9827,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HANNAH JOSEPH",
+      "score": 0.9848,
+      "box": [
+        116,
+        90,
+        409,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-337-708-4145|hannah.joseph@example.com",
+      "score": 0.9761,
+      "box": [
+        115,
+        150,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9821,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Touch Health, 2018.08–2023.01",
+      "score": 0.9889,
+      "box": [
+        116,
+        290,
+        665,
+        314
+      ]
+    },
+    {
+      "text": "- Supervised multidisciplinary care teams",
+      "score": 0.9864,
+      "box": [
+        126,
+        314,
+        508,
+        339
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.9515,
+      "box": [
+        126,
+        338,
+        424,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueLife Nursing, 2014.02–2018.08",
+      "score": 0.9812,
+      "box": [
+        115,
+        381,
+        629,
+        406
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.9919,
+      "box": [
+        126,
+        406,
+        459,
+        431
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9932,
+      "box": [
+        126,
+        431,
+        548,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearWay Nursing Group, 2009.08–2014.02",
+      "score": 0.9919,
+      "box": [
+        116,
+        473,
+        708,
+        497
+      ]
+    },
+    {
+      "text": "- Managed patient advocacy tasks",
+      "score": 0.9886,
+      "box": [
+        126,
+        498,
+        446,
+        521
+      ]
+    },
+    {
+      "text": "- Administered sedation protocols",
+      "score": 0.9743,
+      "box": [
+        126,
+        521,
+        440,
+        546
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverSpring Health Services, 2002.08–2007.02",
+      "score": 0.9927,
+      "box": [
+        116,
+        565,
+        731,
+        589
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9616,
+      "box": [
+        125,
+        588,
+        435,
+        614
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9895,
+      "box": [
+        125,
+        613,
+        531,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Informatics, Evergreen University, 2002",
+      "score": 0.978,
+      "box": [
+        114,
+        722,
+        657,
+        748
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of infusion pump use",
+      "score": 0.9737,
+      "box": [
+        132,
+        747,
+        549,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in medical terminology",
+      "score": 0.9869,
+      "box": [
+        134,
+        772,
+        574,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "HANNAH JOSEPH\nWA, USA|+1-337-708-4145|hannah.joseph@example.com\nWORK HISTORY\nRegistered Nurses, Caring Touch Health, 2018.08–2023.01\n- Supervised multidisciplinary care teams\n- Led infection control programs\nRegistered Nurses, TrueLife Nursing, 2014.02–2018.08\n- Developed patient care algorithms\n- Developed clinical performance dashboards\nRegistered Nurses, ClearWay Nursing Group, 2009.08–2014.02\n- Managed patient advocacy tasks\n- Administered sedation protocols\nRegistered Nurses, EverSpring Health Services, 2002.08–2007.02\n- Monitored patient dietary needs\n- Recorded medication administration times\nEDUCATION\nBachelor's, Health Informatics, Evergreen University, 2002\n• Studied fundamentals of infusion pump use\n• Completed coursework in medical terminology"
+}

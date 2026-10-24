@@ -1,0 +1,226 @@
+{
+  "id": "48462",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.862,
+  "n_lines": 16,
+  "mean_score": 0.9813,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TIFFINY JACOBSON",
+      "score": 0.9897,
+      "box": [
+        116,
+        90,
+        443,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-247-380-9310 |tiffiny.jacobson@example.com",
+      "score": 0.9669,
+      "box": [
+        115,
+        150,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindCare Medical Services, 2020.06–2023.01",
+      "score": 0.9888,
+      "box": [
+        116,
+        290,
+        725,
+        313
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.9785,
+      "box": [
+        127,
+        315,
+        455,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9719,
+      "box": [
+        127,
+        340,
+        456,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverWay Nursing Services, 2016.04–2018.12",
+      "score": 0.9871,
+      "box": [
+        115,
+        381,
+        724,
+        406
+      ]
+    },
+    {
+      "text": "- Supervised clinical documentation",
+      "score": 0.9883,
+      "box": [
+        126,
+        407,
+        458,
+        430
+      ]
+    },
+    {
+      "text": "- Performed patient triage",
+      "score": 0.98,
+      "box": [
+        125,
+        429,
+        367,
+        457
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightCare Clinics, 2012.02–2014.10",
+      "score": 0.9794,
+      "box": [
+        116,
+        472,
+        643,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.9793,
+      "box": [
+        124,
+        496,
+        420,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9865,
+      "box": [
+        126,
+        521,
+        479,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9965,
+      "box": [
+        115,
+        585,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Information Management, Prairie Ridge University, 2010",
+      "score": 0.9844,
+      "box": [
+        114,
+        631,
+        811,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in human anatomy and physiology",
+      "score": 0.9879,
+      "box": [
+        133,
+        657,
+        683,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient discharge planning",
+      "score": 0.9504,
+      "box": [
+        134,
+        681,
+        631,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "TIFFINY JACOBSON\nTN, USA|+1-247-380-9310 |tiffiny.jacobson@example.com\nWORK HISTORY\nRegistered Nurses, KindCare Medical Services, 2020.06–2023.01\n- Led nursing workflow optimization\n- Implemented care standardization\nRegistered Nurses, EverWay Nursing Services, 2016.04–2018.12\n- Supervised clinical documentation\n- Performed patient triage\nRegistered Nurses, BrightCare Clinics, 2012.02–2014.10\n- Assisted with patient transfers\n- Prepared medical equipment for use\nEDUCATION\nBachelor's, Health Information Management, Prairie Ridge University, 2010\n• Completed coursework in human anatomy and physiology\n• Completed coursework in patient discharge planning"
+}

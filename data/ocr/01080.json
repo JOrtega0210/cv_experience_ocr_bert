@@ -1,0 +1,187 @@
+{
+  "id": "01080",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.897,
+  "n_lines": 13,
+  "mean_score": 0.9801,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KAYLA WANG",
+      "score": 0.9731,
+      "box": [
+        116,
+        90,
+        348,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-726-356-8169|kayla.wang@example.com",
+      "score": 0.9769,
+      "box": [
+        115,
+        151,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9833,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellHands Health Group, 2020.10–2022.05",
+      "score": 0.9575,
+      "box": [
+        115,
+        289,
+        706,
+        314
+      ]
+    },
+    {
+      "text": "- Established quality assurance systems",
+      "score": 0.9852,
+      "box": [
+        125,
+        313,
+        501,
+        339
+      ]
+    },
+    {
+      "text": "- Established clinical best practices",
+      "score": 0.9821,
+      "box": [
+        126,
+        338,
+        453,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Life Nursing, 2018.04–2019.12",
+      "score": 0.9818,
+      "box": [
+        116,
+        382,
+        663,
+        406
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9885,
+      "box": [
+        126,
+        407,
+        411,
+        430
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.983,
+      "box": [
+        126,
+        431,
+        514,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Assisting, Elmwood University, 2016",
+      "score": 0.9677,
+      "box": [
+        114,
+        539,
+        640,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in maternal health nursing",
+      "score": 0.9839,
+      "box": [
+        133,
+        565,
+        606,
+        588
+      ]
+    },
+    {
+      "text": "• Completed coursework in electronic health records",
+      "score": 0.9804,
+      "box": [
+        135,
+        591,
+        618,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KAYLA WANG\nAZ, USA|+1-726-356-8169|kayla.wang@example.com\nWORK HISTORY\nRegistered Nurses, WellHands Health Group, 2020.10–2022.05\n- Established quality assurance systems\n- Established clinical best practices\nRegistered Nurses, Helping Life Nursing, 2018.04–2019.12\n- Recorded shift handoff notes\n- Assisted with physical therapy exercises\nEDUCATION\nBachelor's, Medical Assisting, Elmwood University, 2016\n• Completed coursework in maternal health nursing\n• Completed coursework in electronic health records"
+}

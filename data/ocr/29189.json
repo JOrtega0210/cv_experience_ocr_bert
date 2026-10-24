@@ -1,0 +1,265 @@
+{
+  "id": "29189",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.926,
+  "n_lines": 19,
+  "mean_score": 0.9847,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ALBERT CLAYTON",
+      "score": 0.9813,
+      "box": [
+        117,
+        90,
+        425,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-747-915-4887 |albert.clayton@example.com",
+      "score": 0.9829,
+      "box": [
+        115,
+        150,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9875,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildForce Contractors, 2018.09–2023.01",
+      "score": 0.9772,
+      "box": [
+        114,
+        288,
+        720,
+        313
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9706,
+      "box": [
+        125,
+        313,
+        407,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed material specifications",
+      "score": 0.9791,
+      "box": [
+        126,
+        338,
+        445,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeRise Builders, 2014.04–2018.09",
+      "score": 0.9883,
+      "box": [
+        116,
+        382,
+        686,
+        405
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9833,
+      "box": [
+        125,
+        406,
+        371,
+        432
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9898,
+      "box": [
+        125,
+        431,
+        477,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeFrame Construction, 2009.11–2014.04",
+      "score": 0.9853,
+      "box": [
+        115,
+        472,
+        746,
+        495
+      ]
+    },
+    {
+      "text": "-Maintained equipment logs",
+      "score": 0.9614,
+      "box": [
+        124,
+        496,
+        392,
+        522
+      ]
+    },
+    {
+      "text": "- Installed roofing materials",
+      "score": 0.9846,
+      "box": [
+        125,
+        521,
+        380,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronFrame Construction, 2005.06–2009.11",
+      "score": 0.9818,
+      "box": [
+        115,
+        564,
+        726,
+        587
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.9935,
+      "box": [
+        126,
+        591,
+        372,
+        613
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.9916,
+      "box": [
+        125,
+        613,
+        441,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Engineering Technology, Silverview University, 2004",
+      "score": 0.9923,
+      "box": [
+        115,
+        723,
+        977,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic rigging techniques",
+      "score": 0.992,
+      "box": [
+        133,
+        749,
+        614,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic welding concepts",
+      "score": 0.988,
+      "box": [
+        134,
+        774,
+        603,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "ALBERT CLAYTON\nMN, USA|+1-747-915-4887 |albert.clayton@example.com\nWORK HISTORY\nConstruction Laborers, BuildForce Contractors, 2018.09–2023.01\n- Established site layout plans\n- Reviewed material specifications\nConstruction Laborers, PrimeRise Builders, 2014.04–2018.09\n- Led operational planning\n- Reviewed material quality standards\nConstruction Laborers, PrimeFrame Construction, 2009.11–2014.04\n-Maintained equipment logs\n- Installed roofing materials\nConstruction Laborers, IronFrame Construction, 2005.06–2009.11\n- Sorted building materials\n- Handled delivery documentation\nEDUCATION\nSome college (no degree), Construction Engineering Technology, Silverview University, 2004\n• Completed coursework in basic rigging techniques\n• Completed coursework in basic welding concepts"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "03356",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.961,
+  "n_lines": 16,
+  "mean_score": 0.9793,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ERICK LI",
+      "score": 0.9467,
+      "box": [
+        116,
+        89,
+        264,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-241-826-7297 | erick.li@example.com",
+      "score": 0.9647,
+      "box": [
+        116,
+        150,
+        600,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Group, 2020.12–2023.01",
+      "score": 0.964,
+      "box": [
+        114,
+        289,
+        692,
+        314
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9758,
+      "box": [
+        126,
+        315,
+        437,
+        338
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9803,
+      "box": [
+        126,
+        339,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Accounting, 2018.11–2020.12",
+      "score": 0.9778,
+      "box": [
+        114,
+        381,
+        714,
+        406
+      ]
+    },
+    {
+      "text": "- Developed financial policies",
+      "score": 0.9809,
+      "box": [
+        125,
+        406,
+        400,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed internal controls",
+      "score": 0.9692,
+      "box": [
+        126,
+        431,
+        387,
+        453
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Advisors, 2016.09–2018.11",
+      "score": 0.9826,
+      "box": [
+        115,
+        472,
+        711,
+        496
+      ]
+    },
+    {
+      "text": "- Compiled financial schedules",
+      "score": 0.998,
+      "box": [
+        126,
+        498,
+        413,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9906,
+      "box": [
+        126,
+        521,
+        382,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Management, Willowfield University, 2018",
+      "score": 0.9795,
+      "box": [
+        114,
+        631,
+        702,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial disclosure",
+      "score": 0.9888,
+      "box": [
+        135,
+        659,
+        565,
+        679
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting project management",
+      "score": 0.9846,
+      "box": [
+        134,
+        681,
+        687,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ERICK LI\nCA, USA|+1-241-826-7297 | erick.li@example.com\nWORK HISTORY\nAccountants Auditors, SteadyLedger Group, 2020.12–2023.01\n- Developed financial risk models\n- Directed accounting operations planning\nAccountants Auditors, SolidBooks Accounting, 2018.11–2020.12\n- Developed financial policies\n- Reviewed internal controls\nAccountants Auditors, OpenBalance Advisors, 2016.09–2018.11\n- Compiled financial schedules\n- Reviewed ledger postings\nEDUCATION\nBachelor's, Financial Management, Willowfield University, 2018\n• Completed coursework in financial disclosure\n• Completed coursework in accounting project management"
+}

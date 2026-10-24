@@ -1,0 +1,135 @@
+{
+  "id": "31131",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.724,
+  "n_lines": 9,
+  "mean_score": 0.9821,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DANIEL JONES",
+      "score": 0.9683,
+      "box": [
+        116,
+        90,
+        365,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA |+1-417-367-2276 | daniel.jones@example.com",
+      "score": 0.9675,
+      "box": [
+        116,
+        151,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Builders, 2021.08–2023.01",
+      "score": 0.9763,
+      "box": [
+        115,
+        290,
+        653,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9916,
+      "box": [
+        125,
+        314,
+        426,
+        340
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.9883,
+      "box": [
+        127,
+        340,
+        512,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Maintenance, Shoreline High School, 2022",
+      "score": 0.9752,
+      "box": [
+        116,
+        449,
+        852,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in site logistics",
+      "score": 0.9892,
+      "box": [
+        133,
+        474,
+        502,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "DANIEL JONES\nMO, USA |+1-417-367-2276 | daniel.jones@example.com\nWORK HISTORY\nConstruction Laborers, Unified Builders, 2021.08–2023.01\n- Assisted with concrete pouring\n- Prepared surfaces for construction work\nEDUCATION\nHigh school graduate/GED, Building Maintenance, Shoreline High School, 2022\n• Completed coursework in site logistics"
+}

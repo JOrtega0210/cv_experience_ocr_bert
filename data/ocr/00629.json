@@ -1,0 +1,239 @@
+{
+  "id": "00629",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.061,
+  "n_lines": 17,
+  "mean_score": 0.9832,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARLENE PENA",
+      "score": 0.9582,
+      "box": [
+        116,
+        90,
+        385,
+        120
+      ]
+    },
+    {
+      "text": "AL, USA|+1-777-362-2843 |marlene.pena@example.com",
+      "score": 0.9788,
+      "box": [
+        116,
+        151,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Financial, 2020.03–2023.01",
+      "score": 0.9861,
+      "box": [
+        115,
+        289,
+        691,
+        313
+      ]
+    },
+    {
+      "text": "- Directed accounting leadership initiatives",
+      "score": 0.9758,
+      "box": [
+        127,
+        315,
+        520,
+        338
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.9763,
+      "box": [
+        126,
+        339,
+        503,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBook Accounting, 2015.02–2018.01",
+      "score": 0.9971,
+      "box": [
+        115,
+        381,
+        706,
+        406
+      ]
+    },
+    {
+      "text": "- Developed budget forecasts",
+      "score": 0.9815,
+      "box": [
+        127,
+        407,
+        403,
+        430
+      ]
+    },
+    {
+      "text": "- Implemented new accounting standards",
+      "score": 0.9887,
+      "box": [
+        126,
+        431,
+        511,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrueLedger Advisors, 2011.07–2014.06",
+      "score": 0.9783,
+      "box": [
+        116,
+        472,
+        694,
+        496
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.9918,
+      "box": [
+        126,
+        498,
+        481,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.98,
+      "box": [
+        127,
+        523,
+        423,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Supply Chain Management, Brookside University, 2007",
+      "score": 0.9858,
+      "box": [
+        114,
+        631,
+        719,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Enterprise Management, Lakewood University, 2005",
+      "score": 0.9868,
+      "box": [
+        114,
+        656,
+        711,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in environmental accounting basics",
+      "score": 0.9859,
+      "box": [
+        133,
+        681,
+        692,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit risk modeling",
+      "score": 0.9806,
+      "box": [
+        133,
+        706,
+        563,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "MARLENE PENA\nAL, USA|+1-777-362-2843 |marlene.pena@example.com\nWORK HISTORY\nAccountants Auditors, TrustCount Financial, 2020.03–2023.01\n- Directed accounting leadership initiatives\n- Directed strategic accounting initiatives\nAccountants Auditors, OpenBook Accounting, 2015.02–2018.01\n- Developed budget forecasts\n- Implemented new accounting standards\nAccountants Auditors, TrueLedger Advisors, 2011.07–2014.06\n- Processed expense reimbursements\n- Assisted with inventory counts\nEDUCATION\nMaster's, Supply Chain Management, Brookside University, 2007\nBachelor's, Enterprise Management, Lakewood University, 2005\n• Completed coursework in environmental accounting basics\n• Completed coursework in audit risk modeling"
+}

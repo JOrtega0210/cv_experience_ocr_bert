@@ -1,0 +1,278 @@
+{
+  "id": "18818",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.084,
+  "n_lines": 20,
+  "mean_score": 0.9816,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CHRISTIAN HUDSON",
+      "score": 0.9799,
+      "box": [
+        117,
+        90,
+        453,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-607-698-5999 |christian.hudson@example.com",
+      "score": 0.9766,
+      "box": [
+        116,
+        152,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Services, 2017.01–2023.01",
+      "score": 0.9806,
+      "box": [
+        114,
+        289,
+        741,
+        313
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9761,
+      "box": [
+        126,
+        314,
+        495,
+        339
+      ]
+    },
+    {
+      "text": "- Developed financial performance metrics",
+      "score": 0.9813,
+      "box": [
+        126,
+        339,
+        520,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Financial, 2011.01–2017.01",
+      "score": 0.9814,
+      "box": [
+        115,
+        381,
+        685,
+        405
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.9852,
+      "box": [
+        126,
+        406,
+        478,
+        430
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9737,
+      "box": [
+        126,
+        430,
+        518,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Financial Group, 2005.01–2011.01",
+      "score": 0.9909,
+      "box": [
+        114,
+        471,
+        807,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared tax compliance filings",
+      "score": 0.974,
+      "box": [
+        125,
+        497,
+        433,
+        522
+      ]
+    },
+    {
+      "text": "- Prepared management reports",
+      "score": 0.9746,
+      "box": [
+        126,
+        521,
+        427,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Financial, 1998.12–2005.01",
+      "score": 0.9944,
+      "box": [
+        115,
+        564,
+        713,
+        587
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.975,
+      "box": [
+        125,
+        589,
+        413,
+        614
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.9863,
+      "box": [
+        127,
+        614,
+        414,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Master's, Applied Accounting, Clearbrook University, 204",
+      "score": 0.9815,
+      "box": [
+        115,
+        725,
+        655,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Government Accounting, Cedar Ridge University, 2002",
+      "score": 0.9726,
+      "box": [
+        114,
+        747,
+        734,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit planning techniques",
+      "score": 0.9776,
+      "box": [
+        134,
+        773,
+        624,
+        797
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of portfolio management",
+      "score": 0.9917,
+      "box": [
+        132,
+        798,
+        582,
+        823
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "CHRISTIAN HUDSON\nIL, USA|+1-607-698-5999 |christian.hudson@example.com\nWORK HISTORY\nAccountants Auditors, Reliable Balance Services, 2017.01–2023.01\n- Directed accounting training programs\n- Developed financial performance metrics\nAccountants Auditors, EverCount Financial, 2011.01–2017.01\n- Led regulatory compliance initiatives\n- Established financial reporting standards\nAccountants Auditors, Reliable Balance Financial Group, 2005.01–2011.01\n- Prepared tax compliance filings\n- Prepared management reports\nAccountants Auditors, OpenBalance Financial, 1998.12–2005.01\n- Tracked budget expenditures\n- Verified financial transactions\nEDUCATION\nMaster's, Applied Accounting, Clearbrook University, 204\nBachelor's, Government Accounting, Cedar Ridge University, 2002\n• Completed coursework in audit planning techniques\n• Studied fundamentals of portfolio management"
+}

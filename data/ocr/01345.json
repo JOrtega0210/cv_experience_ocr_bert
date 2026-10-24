@@ -1,0 +1,174 @@
+{
+  "id": "01345",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.938,
+  "n_lines": 12,
+  "mean_score": 0.9792,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DALTON MCDONALD",
+      "score": 0.9848,
+      "box": [
+        116,
+        90,
+        461,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-549-757-9370|dalton.mcdonald@example.com",
+      "score": 0.9859,
+      "box": [
+        115,
+        151,
+        691,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9839,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorWorks Construction, 2020.03–2023.01",
+      "score": 0.9765,
+      "box": [
+        115,
+        289,
+        755,
+        313
+      ]
+    },
+    {
+      "text": "- Managed subcontractor coordination",
+      "score": 0.985,
+      "box": [
+        126,
+        315,
+        481,
+        338
+      ]
+    },
+    {
+      "text": "- Directed project execution strategies",
+      "score": 0.9633,
+      "box": [
+        126,
+        339,
+        480,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeWorks Contractors, 2017.05–2020.03",
+      "score": 0.9775,
+      "box": [
+        115,
+        381,
+        736,
+        405
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9807,
+      "box": [
+        127,
+        408,
+        367,
+        429
+      ]
+    },
+    {
+      "text": "- Assisted with drywall installation",
+      "score": 0.9552,
+      "box": [
+        127,
+        432,
+        439,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Structural Technology, Wildflower High School, 2015",
+      "score": 0.9793,
+      "box": [
+        116,
+        541,
+        864,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in site logistics",
+      "score": 0.9804,
+      "box": [
+        134,
+        566,
+        502,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "DALTON MCDONALD\nAZ, USA|+1-549-757-9370|dalton.mcdonald@example.com\nWORK HISTORY\nConstruction Laborers, AnchorWorks Construction, 2020.03–2023.01\n- Managed subcontractor coordination\n- Directed project execution strategies\nConstruction Laborers, PrimeWorks Contractors, 2017.05–2020.03\n- Installed basic formwork\n- Assisted with drywall installation\nEDUCATION\nHigh school graduate/GED, Structural Technology, Wildflower High School, 2015\n• Completed coursework in site logistics"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "60558",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.755,
+  "n_lines": 10,
+  "mean_score": 0.9823,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HOLLY HUBER",
+      "score": 0.9875,
+      "box": [
+        116,
+        90,
+        359,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-723-472-2043|holly.huber@example.com",
+      "score": 0.98,
+      "box": [
+        115,
+        150,
+        639,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9786,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Way Nursing, 2021.04–2023.01",
+      "score": 0.9856,
+      "box": [
+        115,
+        289,
+        660,
+        314
+      ]
+    },
+    {
+      "text": "- Maintained infection control protocols",
+      "score": 0.9707,
+      "box": [
+        126,
+        315,
+        487,
+        338
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9896,
+      "box": [
+        126,
+        339,
+        365,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Systems, Rolling Hills University, 2020",
+      "score": 0.9733,
+      "box": [
+        116,
+        449,
+        727,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in maternal health nursing",
+      "score": 0.9712,
+      "box": [
+        132,
+        473,
+        607,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of data privacy",
+      "score": 0.9882,
+      "box": [
+        133,
+        497,
+        491,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "HOLLY HUBER\nWI, USA|+1-723-472-2043|holly.huber@example.com\nWORK HISTORY\nRegistered Nurses, Caring Way Nursing, 2021.04–2023.01\n- Maintained infection control protocols\n- Recorded nursing notes\nEDUCATION\nAssociate's degree, Health Systems, Rolling Hills University, 2020\n• Completed coursework in maternal health nursing\n• Studied fundamentals of data privacy"
+}

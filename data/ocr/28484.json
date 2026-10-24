@@ -1,0 +1,174 @@
+{
+  "id": "28484",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.846,
+  "n_lines": 12,
+  "mean_score": 0.9812,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "GUSTAVO WOOD",
+      "score": 0.9812,
+      "box": [
+        116,
+        88,
+        402,
+        122
+      ]
+    },
+    {
+      "text": "MN, USA|+1-465-323-6783|gustavo.wood@example.com",
+      "score": 0.9705,
+      "box": [
+        116,
+        150,
+        672,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueFrame Construction, 2021.06–2023.01",
+      "score": 0.9772,
+      "box": [
+        114,
+        288,
+        733,
+        313
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.9718,
+      "box": [
+        125,
+        313,
+        488,
+        337
+      ]
+    },
+    {
+      "text": "- Reviewed material specifications",
+      "score": 0.9801,
+      "box": [
+        126,
+        338,
+        446,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Hardrock Builders, 2019.11–2021.06",
+      "score": 0.9892,
+      "box": [
+        116,
+        382,
+        674,
+        405
+      ]
+    },
+    {
+      "text": "- Set up ladders and basic scaffolding",
+      "score": 0.9813,
+      "box": [
+        125,
+        406,
+        476,
+        431
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9717,
+      "box": [
+        125,
+        431,
+        440,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Estimating, Greenwood High School, 2019",
+      "score": 0.9942,
+      "box": [
+        116,
+        541,
+        893,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of structural load paths",
+      "score": 0.9747,
+      "box": [
+        134,
+        566,
+        530,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "GUSTAVO WOOD\nMN, USA|+1-465-323-6783|gustavo.wood@example.com\nWORK HISTORY\nConstruction Laborers, TrueFrame Construction, 2021.06–2023.01\n- Established construction benchmarks\n- Reviewed material specifications\nConstruction Laborers, Hardrock Builders, 2019.11–2021.06\n- Set up ladders and basic scaffolding\n- Installed basic flooring materials\nEDUCATION\nHigh school graduate/GED, Construction Estimating, Greenwood High School, 2019\n• Studied principles of structural load paths"
+}

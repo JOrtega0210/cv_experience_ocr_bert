@@ -1,0 +1,135 @@
+{
+  "id": "03314",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.869,
+  "n_lines": 9,
+  "mean_score": 0.9749,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAYDEN CHRISTIAN",
+      "score": 0.9766,
+      "box": [
+        116,
+        90,
+        444,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-785-237-7419 |jayden.christian@example.com",
+      "score": 0.9718,
+      "box": [
+        116,
+        151,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextGen Builders, 2022.10–2023.01",
+      "score": 0.9641,
+      "box": [
+        115,
+        290,
+        670,
+        313
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.9529,
+      "box": [
+        125,
+        314,
+        399,
+        339
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.9789,
+      "box": [
+        126,
+        339,
+        474,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Construction, Elmwood Ridge High School, 2023",
+      "score": 0.9851,
+      "box": [
+        116,
+        449,
+        908,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of fire safety in construction",
+      "score": 0.9657,
+      "box": [
+        132,
+        472,
+        610,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "JAYDEN CHRISTIAN\nCA, USA|+1-785-237-7419 |jayden.christian@example.com\nWORK HISTORY\nConstruction Laborers, NextGen Builders, 2022.10–2023.01\n- Dug trenches for utility lines\n- Marked measurements on materials\nEDUCATION\nHigh school graduate/GED, Building Construction, Elmwood Ridge High School, 2023\n• Studied fundamentals of fire safety in construction"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "14855",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.975,
+  "n_lines": 13,
+  "mean_score": 0.9834,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AHMADKELLY",
+      "score": 0.9957,
+      "box": [
+        115,
+        88,
+        364,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA |+1-846-703-4557|ahmad.kelly@example.com",
+      "score": 0.9616,
+      "box": [
+        116,
+        151,
+        654,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Co., 2021.06–2023.01",
+      "score": 0.9877,
+      "box": [
+        115,
+        290,
+        646,
+        313
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9717,
+      "box": [
+        125,
+        313,
+        406,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9883,
+      "box": [
+        127,
+        340,
+        488,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureStone Construction, 2019.11–2021.06",
+      "score": 0.99,
+      "box": [
+        115,
+        381,
+        730,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with drywall installation",
+      "score": 0.9817,
+      "box": [
+        126,
+        407,
+        440,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.9782,
+      "box": [
+        126,
+        432,
+        511,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Building Maintenance, Pine Valley University, 2019",
+      "score": 0.9664,
+      "box": [
+        115,
+        539,
+        776,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of equipment calibration",
+      "score": 0.9912,
+      "box": [
+        133,
+        566,
+        540,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in site drainage planning",
+      "score": 0.9902,
+      "box": [
+        133,
+        590,
+        593,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "AHMADKELLY\nGA, USA |+1-846-703-4557|ahmad.kelly@example.com\nWORK HISTORY\nConstruction Laborers, PrimeBuild Co., 2021.06–2023.01\n- Established site layout plans\n- Reviewed compliance documentation\nConstruction Laborers, SureStone Construction, 2019.11–2021.06\n- Assisted with drywall installation\n- Prepared surfaces for construction work\nEDUCATION\nAssociate's degree, Building Maintenance, Pine Valley University, 2019\n• Studied principles of equipment calibration\n• Completed coursework in site drainage planning"
+}

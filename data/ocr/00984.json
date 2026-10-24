@@ -1,0 +1,148 @@
+{
+  "id": "00984",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.837,
+  "n_lines": 10,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CHRISTOPHER SHERMAN",
+      "score": 0.9901,
+      "box": [
+        117,
+        90,
+        539,
+        120
+      ]
+    },
+    {
+      "text": "AK, USA|+1-809-985-6112 | christopher.sherman@example.com",
+      "score": 0.9758,
+      "box": [
+        116,
+        152,
+        730,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.978,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Group, 2020.05–2020.08",
+      "score": 0.9836,
+      "box": [
+        114,
+        289,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "-Recorded cash receipts",
+      "score": 0.9962,
+      "box": [
+        125,
+        313,
+        362,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.9807,
+      "box": [
+        126,
+        339,
+        410,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Public Accounting, Brookfield University, 2016",
+      "score": 0.9848,
+      "box": [
+        115,
+        449,
+        651,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in intermediate accounting",
+      "score": 0.9717,
+      "box": [
+        132,
+        472,
+        611,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of journal entries",
+      "score": 0.9787,
+      "box": [
+        133,
+        497,
+        510,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "CHRISTOPHER SHERMAN\nAK, USA|+1-809-985-6112 | christopher.sherman@example.com\nWORK HISTORY\nAccountants Auditors, ClearBooks Group, 2020.05–2020.08\n-Recorded cash receipts\n- Prepared audit confirmations\nEDUCATION\nBachelor's, Public Accounting, Brookfield University, 2016\n• Completed coursework in intermediate accounting\n• Studied fundamentals of journal entries"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "61430",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.882,
+  "n_lines": 16,
+  "mean_score": 0.9835,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KELLY STANTON",
+      "score": 0.9829,
+      "box": [
+        116,
+        90,
+        397,
+        121
+      ]
+    },
+    {
+      "text": "WY, USA|+1-828-729-3914|kelly.stanton@example.com",
+      "score": 0.9757,
+      "box": [
+        115,
+        150,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9867,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerBuild Group, 2019.11–2023.01",
+      "score": 0.9691,
+      "box": [
+        115,
+        289,
+        679,
+        313
+      ]
+    },
+    {
+      "text": "- Managed equipment maintenance programs",
+      "score": 0.9713,
+      "box": [
+        126,
+        314,
+        552,
+        339
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.994,
+      "box": [
+        127,
+        340,
+        487,
+        362
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerBuild Co., 2016.02–2019.05",
+      "score": 0.9928,
+      "box": [
+        116,
+        382,
+        656,
+        405
+      ]
+    },
+    {
+      "text": "- Performed site leveling tasks",
+      "score": 0.9778,
+      "box": [
+        125,
+        405,
+        410,
+        431
+      ]
+    },
+    {
+      "text": "- Installed exterior cladding",
+      "score": 0.9782,
+      "box": [
+        126,
+        430,
+        380,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftLine Builders, 2012.05–2015.08",
+      "score": 0.9844,
+      "box": [
+        116,
+        472,
+        674,
+        495
+      ]
+    },
+    {
+      "text": "- Transported waste materials",
+      "score": 0.9842,
+      "box": [
+        125,
+        496,
+        407,
+        521
+      ]
+    },
+    {
+      "text": "- Loaded and unloaded construction materials",
+      "score": 0.9943,
+      "box": [
+        127,
+        522,
+        552,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Systems, Willowstone University, 2007",
+      "score": 0.9585,
+      "box": [
+        115,
+        631,
+        808,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural basics",
+      "score": 0.991,
+      "box": [
+        133,
+        657,
+        541,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction measurements",
+      "score": 0.9968,
+      "box": [
+        134,
+        681,
+        644,
+        704
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "KELLY STANTON\nWY, USA|+1-828-729-3914|kelly.stanton@example.com\nWORK HISTORY\nConstruction Laborers, CornerBuild Group, 2019.11–2023.01\n- Managed equipment maintenance programs\n- Established construction benchmarks\nConstruction Laborers, CornerBuild Co., 2016.02–2019.05\n- Performed site leveling tasks\n- Installed exterior cladding\nConstruction Laborers, CraftLine Builders, 2012.05–2015.08\n- Transported waste materials\n- Loaded and unloaded construction materials\nEDUCATION\nSome college (no degree), Building Systems, Willowstone University, 2007\n• Completed coursework in structural basics\n• Completed coursework in construction measurements"
+}

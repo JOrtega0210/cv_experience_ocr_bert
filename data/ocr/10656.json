@@ -1,0 +1,226 @@
+{
+  "id": "10656",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.917,
+  "n_lines": 16,
+  "mean_score": 0.9836,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JUSTINE WALLER",
+      "score": 0.9803,
+      "box": [
+        117,
+        90,
+        411,
+        121
+      ]
+    },
+    {
+      "text": "CO, USA | +1-428-231-8789 |justine.waller@example.com",
+      "score": 0.9708,
+      "box": [
+        117,
+        151,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Software, 2020.07–2023.01",
+      "score": 0.9917,
+      "box": [
+        116,
+        290,
+        654,
+        313
+      ]
+    },
+    {
+      "text": "-Reviewed architectural proposals",
+      "score": 0.9797,
+      "box": [
+        125,
+        314,
+        448,
+        337
+      ]
+    },
+    {
+      "text": "- Defined engineering best practices",
+      "score": 0.9907,
+      "box": [
+        126,
+        339,
+        463,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstream Labs, 2018.01–2020.07",
+      "score": 0.9895,
+      "box": [
+        115,
+        381,
+        666,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented search features",
+      "score": 0.9868,
+      "box": [
+        126,
+        406,
+        414,
+        431
+      ]
+    },
+    {
+      "text": "- Built notification systems",
+      "score": 0.9689,
+      "box": [
+        125,
+        430,
+        371,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Clearwave Tech, 2015.07–2018.01",
+      "score": 0.9847,
+      "box": [
+        116,
+        472,
+        646,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9727,
+      "box": [
+        126,
+        498,
+        422,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with database queries",
+      "score": 0.9872,
+      "box": [
+        126,
+        521,
+        431,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Cedar Ridge University, 2013",
+      "score": 0.9692,
+      "box": [
+        115,
+        632,
+        499,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in network security",
+      "score": 0.987,
+      "box": [
+        133,
+        657,
+        540,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of collaborative development",
+      "score": 0.9935,
+      "box": [
+        133,
+        681,
+        623,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JUSTINE WALLER\nCO, USA | +1-428-231-8789 |justine.waller@example.com\nWORK HISTORY\nSoftware Developers, Netfield Software, 2020.07–2023.01\n-Reviewed architectural proposals\n- Defined engineering best practices\nSoftware Developers, Brightstream Labs, 2018.01–2020.07\n- Implemented search features\n- Built notification systems\nSoftware Developers, Clearwave Tech, 2015.07–2018.01\n- Implemented REST endpoints\n- Assisted with database queries\nEDUCATION\nBachelor's, Cedar Ridge University, 2013\n• Completed coursework in network security\n• Studied fundamentals of collaborative development"
+}

@@ -1,0 +1,265 @@
+{
+  "id": "59419",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.923,
+  "n_lines": 19,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RYAN MAYER",
+      "score": 0.9756,
+      "box": [
+        116,
+        90,
+        341,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-906-273-2477 |ryan.mayer@example.com",
+      "score": 0.9723,
+      "box": [
+        114,
+        150,
+        650,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9799,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Financial, 2020.01–2023.01",
+      "score": 0.9812,
+      "box": [
+        114,
+        289,
+        692,
+        313
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9862,
+      "box": [
+        126,
+        313,
+        504,
+        339
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9898,
+      "box": [
+        126,
+        338,
+        494,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuBalance Advisors, 2017.01–2020.01",
+      "score": 0.9948,
+      "box": [
+        115,
+        381,
+        707,
+        406
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9859,
+      "box": [
+        126,
+        406,
+        517,
+        431
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.9876,
+      "box": [
+        126,
+        431,
+        485,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Advisors, 2014.01–2017.01",
+      "score": 0.9813,
+      "box": [
+        114,
+        471,
+        688,
+        496
+      ]
+    },
+    {
+      "text": "- Developed audit plans",
+      "score": 0.9673,
+      "box": [
+        125,
+        496,
+        350,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed balance sheet accounts",
+      "score": 0.976,
+      "box": [
+        126,
+        522,
+        458,
+        544
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Group, 2010.12–2014.01",
+      "score": 0.9948,
+      "box": [
+        115,
+        565,
+        672,
+        588
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9953,
+      "box": [
+        126,
+        590,
+        453,
+        613
+      ]
+    },
+    {
+      "text": "- Prepared supporting schedules",
+      "score": 0.9831,
+      "box": [
+        127,
+        615,
+        431,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Accounting, Rosewood University, 2011",
+      "score": 0.9687,
+      "box": [
+        114,
+        723,
+        668,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of professional judgment",
+      "score": 0.9841,
+      "box": [
+        132,
+        747,
+        584,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in governmental accounting basics",
+      "score": 0.9901,
+      "box": [
+        133,
+        773,
+        687,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "RYAN MAYER\nWA, USA|+1-906-273-2477 |ryan.mayer@example.com\nWORK HISTORY\nAccountants Auditors, SolidBooks Financial, 2020.01–2023.01\n- Established cost management systems\n- Established financial data governance\nAccountants Auditors, AccuBalance Advisors, 2017.01–2020.01\n- Directed enterprise accounting platforms\n- Designed financial policy frameworks\nAccountants Auditors, TrustCount Advisors, 2014.01–2017.01\n- Developed audit plans\n- Reviewed balance sheet accounts\nAccountants Auditors, CoreLedger Group, 2010.12–2014.01\n- Reviewed expense classifications\n- Prepared supporting schedules\nEDUCATION\nBachelor's, Applied Accounting, Rosewood University, 2011\n• Studied fundamentals of professional judgment\n• Completed coursework in governmental accounting basics"
+}

@@ -1,0 +1,252 @@
+{
+  "id": "26137",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.849,
+  "n_lines": 18,
+  "mean_score": 0.9809,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HOLLYGREEN",
+      "score": 0.9977,
+      "box": [
+        114,
+        88,
+        360,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA|+1-281-737-6318 |holly.green@example.com",
+      "score": 0.9845,
+      "box": [
+        115,
+        150,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Digital 2020.12–2023.01",
+      "score": 0.9725,
+      "box": [
+        115,
+        290,
+        666,
+        313
+      ]
+    },
+    {
+      "text": "- Designed Cl/CD frameworks",
+      "score": 0.9707,
+      "box": [
+        126,
+        315,
+        407,
+        338
+      ]
+    },
+    {
+      "text": "- Built core libraries",
+      "score": 0.9784,
+      "box": [
+        125,
+        338,
+        309,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Softbridge Digital, 2018.10–2020.12",
+      "score": 0.9832,
+      "box": [
+        116,
+        382,
+        656,
+        406
+      ]
+    },
+    {
+      "text": "- Built feature management systems",
+      "score": 0.9634,
+      "box": [
+        125,
+        406,
+        463,
+        431
+      ]
+    },
+    {
+      "text": "- Built containerized services",
+      "score": 0.9764,
+      "box": [
+        126,
+        431,
+        395,
+        453
+      ]
+    },
+    {
+      "text": "Software Developers, Stonefield Software, 2016.08–2018.10",
+      "score": 0.9784,
+      "box": [
+        114,
+        471,
+        678,
+        496
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9833,
+      "box": [
+        124,
+        496,
+        400,
+        522
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9859,
+      "box": [
+        125,
+        521,
+        443,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Doctorate, Highland University, 2017",
+      "score": 0.9755,
+      "box": [
+        115,
+        631,
+        457,
+        654
+      ]
+    },
+    {
+      "text": "Bachelor's, Stonefield University, 2012",
+      "score": 0.9728,
+      "box": [
+        115,
+        657,
+        474,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in frontend frameworks basics",
+      "score": 0.9858,
+      "box": [
+        133,
+        682,
+        644,
+        705
+      ]
+    },
+    {
+      "text": "• Completed coursework in RESTful services",
+      "score": 0.9901,
+      "box": [
+        133,
+        707,
+        550,
+        730
+      ]
+    },
+    {
+      "text": "• Completed coursework in distributed databases",
+      "score": 0.9727,
+      "box": [
+        133,
+        731,
+        587,
+        753
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "HOLLYGREEN\nMA, USA|+1-281-737-6318 |holly.green@example.com\nWORK HISTORY\nSoftware Developers, Datastream Digital 2020.12–2023.01\n- Designed Cl/CD frameworks\n- Built core libraries\nSoftware Developers, Softbridge Digital, 2018.10–2020.12\n- Built feature management systems\n- Built containerized services\nSoftware Developers, Stonefield Software, 2016.08–2018.10\n- Wrote configuration parsers\n- Handled basic deployment tasks\nEDUCATION\nDoctorate, Highland University, 2017\nBachelor's, Stonefield University, 2012\n• Completed coursework in frontend frameworks basics\n• Completed coursework in RESTful services\n• Completed coursework in distributed databases"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "09395",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.956,
+  "n_lines": 16,
+  "mean_score": 0.9857,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "COLE MCINTOSH",
+      "score": 0.9959,
+      "box": [
+        117,
+        90,
+        399,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-536-642-6492 |cole.mcintosh@example.com",
+      "score": 0.9924,
+      "box": [
+        117,
+        151,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Advisors, 2020.09–2023.01",
+      "score": 0.9795,
+      "box": [
+        114,
+        289,
+        720,
+        313
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9825,
+      "box": [
+        126,
+        314,
+        528,
+        339
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9904,
+      "box": [
+        126,
+        339,
+        518,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Group, 2017.03–2019.07",
+      "score": 0.9904,
+      "box": [
+        115,
+        381,
+        676,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed accounting estimates",
+      "score": 0.9805,
+      "box": [
+        126,
+        406,
+        437,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed internal controls",
+      "score": 0.969,
+      "box": [
+        126,
+        431,
+        387,
+        453
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Advisors, 2014.02–2016.06",
+      "score": 0.9817,
+      "box": [
+        114,
+        471,
+        696,
+        496
+      ]
+    },
+    {
+      "text": "- Updated fixed asset registers",
+      "score": 0.9764,
+      "box": [
+        126,
+        497,
+        413,
+        522
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9873,
+      "box": [
+        126,
+        521,
+        413,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting, Driftwood University, 2008",
+      "score": 0.9935,
+      "box": [
+        114,
+        631,
+        585,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of compliance auditing",
+      "score": 0.9903,
+      "box": [
+        132,
+        656,
+        526,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit documentation",
+      "score": 0.9767,
+      "box": [
+        133,
+        681,
+        567,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "COLE MCINTOSH\nCA, USA|+1-536-642-6492 |cole.mcintosh@example.com\nWORK HISTORY\nAccountants Auditors, Balanced Path Advisors, 2020.09–2023.01\n- Designed financial accountability systems\n- Established financial reporting standards\nAccountants Auditors, TrustLedger Group, 2017.03–2019.07\n- Reviewed accounting estimates\n- Reviewed internal controls\nAccountants Auditors, CoreLedger Advisors, 2014.02–2016.06\n- Updated fixed asset registers\n- Tracked budget expenditures\nEDUCATION\nBachelor's, Accounting, Driftwood University, 2008\n• Studied principles of compliance auditing\n• Studied fundamentals of audit documentation"
+}

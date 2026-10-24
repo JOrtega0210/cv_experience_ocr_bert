@@ -1,0 +1,148 @@
+{
+  "id": "27980",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.74,
+  "n_lines": 10,
+  "mean_score": 0.9791,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JACOB FOSTER",
+      "score": 0.9798,
+      "box": [
+        116,
+        90,
+        379,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-837-502-3473 |jacob.foster@example.com",
+      "score": 0.9756,
+      "box": [
+        116,
+        151,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9817,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softpath Labs, 2019.11–2022.06",
+      "score": 0.9807,
+      "box": [
+        115,
+        290,
+        625,
+        313
+      ]
+    },
+    {
+      "text": "- Wrote command-line tools",
+      "score": 0.9502,
+      "box": [
+        126,
+        315,
+        384,
+        335
+      ]
+    },
+    {
+      "text": "- Updated documentation for implemented features",
+      "score": 0.975,
+      "box": [
+        127,
+        341,
+        601,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Horizon University, 2008",
+      "score": 0.9702,
+      "box": [
+        115,
+        449,
+        454,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of hardware-software integration",
+      "score": 0.9812,
+      "box": [
+        132,
+        472,
+        654,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of normalization",
+      "score": 0.9979,
+      "box": [
+        133,
+        498,
+        503,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JACOB FOSTER\nMI, USA|+1-837-502-3473 |jacob.foster@example.com\nWORK HISTORY\nSoftware Developers, Softpath Labs, 2019.11–2022.06\n- Wrote command-line tools\n- Updated documentation for implemented features\nEDUCATION\nBachelor's, Horizon University, 2008\n• Studied fundamentals of hardware-software integration\n• Studied fundamentals of normalization"
+}

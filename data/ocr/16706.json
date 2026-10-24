@@ -1,0 +1,226 @@
+{
+  "id": "16706",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.962,
+  "n_lines": 16,
+  "mean_score": 0.9774,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HEATHER CHANG",
+      "score": 0.9779,
+      "box": [
+        116,
+        90,
+        411,
+        121
+      ]
+    },
+    {
+      "text": "HI, USA|+1-657-844-2397 |heather.chang@example.com",
+      "score": 0.9783,
+      "box": [
+        116,
+        152,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9821,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Bridge Health, 2020.07–2023.01",
+      "score": 0.9831,
+      "box": [
+        115,
+        289,
+        691,
+        314
+      ]
+    },
+    {
+      "text": "- Directed nursing education initiatives",
+      "score": 0.9661,
+      "box": [
+        126,
+        315,
+        482,
+        338
+      ]
+    },
+    {
+      "text": "- Developed patient safety programs",
+      "score": 0.9718,
+      "box": [
+        127,
+        339,
+        466,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Spring Nursing, 2018.01–2020.07",
+      "score": 0.983,
+      "box": [
+        116,
+        383,
+        681,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed care plan outcomes",
+      "score": 0.9725,
+      "box": [
+        125,
+        406,
+        423,
+        431
+      ]
+    },
+    {
+      "text": "- Provided end-of-life care",
+      "score": 0.9789,
+      "box": [
+        125,
+        428,
+        371,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIPath Medical Group, 2015.07–2018.01",
+      "score": 0.9904,
+      "box": [
+        116,
+        472,
+        699,
+        496
+      ]
+    },
+    {
+      "text": "- Checked laboratory results",
+      "score": 0.9893,
+      "box": [
+        124,
+        496,
+        391,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9443,
+      "box": [
+        126,
+        521,
+        372,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Services Administration, Clearbrook University, 2017",
+      "score": 0.9824,
+      "box": [
+        114,
+        631,
+        780,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of fall prevention",
+      "score": 0.9664,
+      "box": [
+        132,
+        656,
+        472,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of musculoskeletal nursing",
+      "score": 0.9738,
+      "box": [
+        133,
+        681,
+        602,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "HEATHER CHANG\nHI, USA|+1-657-844-2397 |heather.chang@example.com\nWORK HISTORY\nRegistered Nurses, Harmony Bridge Health, 2020.07–2023.01\n- Directed nursing education initiatives\n- Developed patient safety programs\nRegistered Nurses, Caring Spring Nursing, 2018.01–2020.07\n- Reviewed care plan outcomes\n- Provided end-of-life care\nRegistered Nurses, WelIPath Medical Group, 2015.07–2018.01\n- Checked laboratory results\n- Prepared sterile supplies\nEDUCATION\nBachelor's, Health Services Administration, Clearbrook University, 2017\n• Studied principles of fall prevention\n• Studied fundamentals of musculoskeletal nursing"
+}

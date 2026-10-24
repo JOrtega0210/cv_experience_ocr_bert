@@ -1,0 +1,213 @@
+{
+  "id": "61516",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.833,
+  "n_lines": 15,
+  "mean_score": 0.9812,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "THOMAS HARMON",
+      "score": 0.9901,
+      "box": [
+        115,
+        90,
+        422,
+        121
+      ]
+    },
+    {
+      "text": "WY, USA|+1-924-764-3474|thomas.harmon@example.com",
+      "score": 0.9821,
+      "box": [
+        115,
+        150,
+        690,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9882,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Dataframe Labs, 2020.07–2023.01",
+      "score": 0.9751,
+      "box": [
+        114,
+        288,
+        644,
+        313
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9787,
+      "box": [
+        125,
+        313,
+        368,
+        339
+      ]
+    },
+    {
+      "text": "- Designed logging infrastructures",
+      "score": 0.9825,
+      "box": [
+        126,
+        339,
+        443,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightnode Software, 2017.01–2019.07",
+      "score": 0.9878,
+      "box": [
+        116,
+        382,
+        686,
+        406
+      ]
+    },
+    {
+      "text": "- Designed data models",
+      "score": 0.9788,
+      "box": [
+        127,
+        408,
+        350,
+        429
+      ]
+    },
+    {
+      "text": "- Built containerized services",
+      "score": 0.9595,
+      "box": [
+        126,
+        432,
+        396,
+        454
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Solutions, 2013.12–2016.07",
+      "score": 0.9842,
+      "box": [
+        116,
+        472,
+        696,
+        495
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.9817,
+      "box": [
+        125,
+        496,
+        495,
+        522
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.9907,
+      "box": [
+        126,
+        521,
+        355,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Westview High School, 2003",
+      "score": 0.9834,
+      "box": [
+        116,
+        632,
+        642,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in software architecture",
+      "score": 0.9554,
+      "box": [
+        132,
+        656,
+        584,
+        681
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "THOMAS HARMON\nWY, USA|+1-924-764-3474|thomas.harmon@example.com\nWORK HISTORY\nSoftware Developers, Dataframe Labs, 2020.07–2023.01\n- Built distributed systems\n- Designed logging infrastructures\nSoftware Developers, Brightnode Software, 2017.01–2019.07\n- Designed data models\n- Built containerized services\nSoftware Developers, Datastream Solutions, 2013.12–2016.07\n- Performed basic performance profiling\n- Reviewed error reports\nEDUCATION\nHigh school graduate/GED, Westview High School, 2003\n• Completed coursework in software architecture"
+}

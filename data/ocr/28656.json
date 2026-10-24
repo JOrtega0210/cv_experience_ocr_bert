@@ -1,0 +1,187 @@
+{
+  "id": "28656",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.78,
+  "n_lines": 13,
+  "mean_score": 0.9779,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRANDON JACOBSON",
+      "score": 0.9751,
+      "box": [
+        117,
+        90,
+        487,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-436-471-6711 |brandon.jacobson@example.com",
+      "score": 0.9863,
+      "box": [
+        115,
+        150,
+        710,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9808,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Tech, 2020.09–2023.01",
+      "score": 0.9764,
+      "box": [
+        114,
+        288,
+        624,
+        313
+      ]
+    },
+    {
+      "text": "- Built core libraries",
+      "score": 0.9556,
+      "box": [
+        126,
+        313,
+        308,
+        339
+      ]
+    },
+    {
+      "text": "- Designed deployment strategies",
+      "score": 0.9813,
+      "box": [
+        126,
+        339,
+        441,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Openbyte Systems, 2018.05–220.09",
+      "score": 0.9865,
+      "box": [
+        115,
+        381,
+        672,
+        406
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9632,
+      "box": [
+        127,
+        408,
+        340,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.989,
+      "box": [
+        125,
+        430,
+        509,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Fairway University, 2018",
+      "score": 0.9743,
+      "box": [
+        115,
+        541,
+        454,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in virtual reality basics",
+      "score": 0.9582,
+      "box": [
+        132,
+        565,
+        572,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of scalability concepts",
+      "score": 0.9881,
+      "box": [
+        132,
+        590,
+        559,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "BRANDON JACOBSON\nMN, USA|+1-436-471-6711 |brandon.jacobson@example.com\nWORK HISTORY\nSoftware Developers, Flowline Tech, 2020.09–2023.01\n- Built core libraries\n- Designed deployment strategies\nSoftware Developers, Openbyte Systems, 2018.05–220.09\n- Updated routing logic\n- Assisted with version control operations\nEDUCATION\nBachelor's, Fairway University, 2018\n• Completed coursework in virtual reality basics\n• Studied fundamentals of scalability concepts"
+}

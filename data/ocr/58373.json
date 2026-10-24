@@ -1,0 +1,187 @@
+{
+  "id": "58373",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.815,
+  "n_lines": 13,
+  "mean_score": 0.9874,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DOROTHEA BUCKLEY",
+      "score": 0.9894,
+      "box": [
+        117,
+        90,
+        479,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-799-874-7667|dorothea.buckley@example.com",
+      "score": 0.9944,
+      "box": [
+        115,
+        150,
+        705,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9789,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeWay Health Group, 2018.10–2021.02",
+      "score": 0.9814,
+      "box": [
+        115,
+        289,
+        690,
+        314
+      ]
+    },
+    {
+      "text": "- Developed interdisciplinary care strategies",
+      "score": 0.9825,
+      "box": [
+        125,
+        314,
+        534,
+        339
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9901,
+      "box": [
+        126,
+        339,
+        474,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenWay Care Services, 2015.04–2017.09",
+      "score": 0.9902,
+      "box": [
+        115,
+        381,
+        705,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.9911,
+      "box": [
+        125,
+        406,
+        418,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9804,
+      "box": [
+        126,
+        430,
+        437,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Nursing, Highland University, 2010",
+      "score": 0.9753,
+      "box": [
+        115,
+        540,
+        620,
+        563
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing standards of practice",
+      "score": 0.9912,
+      "box": [
+        133,
+        565,
+        657,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of medical imaging basics",
+      "score": 0.9929,
+      "box": [
+        132,
+        590,
+        595,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "DOROTHEA BUCKLEY\nWA, USA|+1-799-874-7667|dorothea.buckley@example.com\nWORK HISTORY\nRegistered Nurses, SafeWay Health Group, 2018.10–2021.02\n- Developed interdisciplinary care strategies\n- Developed care quality benchmarks\nRegistered Nurses, OpenWay Care Services, 2015.04–2017.09\n- Assisted with feeding patients\n- Assisted with patient positioning\nEDUCATION\nBachelor's, Clinical Nursing, Highland University, 2010\n• Completed coursework in nursing standards of practice\n• Studied fundamentals of medical imaging basics"
+}

@@ -1,0 +1,200 @@
+{
+  "id": "18939",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.911,
+  "n_lines": 14,
+  "mean_score": 0.9869,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JUDITH ARCHER",
+      "score": 0.9939,
+      "box": [
+        116,
+        90,
+        390,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-738-948-6639 |judith.archer@example.com",
+      "score": 0.9906,
+      "box": [
+        116,
+        151,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Balance Advisors, 2020.07–2023.01",
+      "score": 0.9866,
+      "box": [
+        115,
+        290,
+        747,
+        312
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9774,
+      "box": [
+        126,
+        315,
+        424,
+        338
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.977,
+      "box": [
+        126,
+        339,
+        530,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Services, 2018.01–2020.07",
+      "score": 0.9919,
+      "box": [
+        115,
+        382,
+        692,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9938,
+      "box": [
+        127,
+        408,
+        404,
+        428
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.9833,
+      "box": [
+        127,
+        432,
+        436,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Financial Accounting, Greenwood University, 2019",
+      "score": 0.9806,
+      "box": [
+        115,
+        541,
+        674,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Commerce, Stonebrook University, 2017",
+      "score": 0.9755,
+      "box": [
+        115,
+        566,
+        603,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting software applications",
+      "score": 0.9933,
+      "box": [
+        133,
+        590,
+        690,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in general ledger accounting",
+      "score": 0.9895,
+      "box": [
+        134,
+        615,
+        628,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "JUDITH ARCHER\nIL, USA|+1-738-948-6639 |judith.archer@example.com\nWORK HISTORY\nAccountants Auditors, Accurate Balance Advisors, 2020.07–2023.01\n- Designed audit methodologies\n- Established reporting automation systems\nAccountants Auditors, ClearCount Services, 2018.01–2020.07\n- Assisted with audit fieldwork\n- Updated general ledger records\nEDUCATION\nMaster's, Financial Accounting, Greenwood University, 2019\nBachelor's, Commerce, Stonebrook University, 2017\n• Completed coursework in accounting software applications\n• Completed coursework in general ledger accounting"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "00770",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.942,
+  "n_lines": 13,
+  "mean_score": 0.9792,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SONIA RICHARD",
+      "score": 0.9774,
+      "box": [
+        115,
+        90,
+        387,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-647-997-5671 | sonia.richard@example.com",
+      "score": 0.9785,
+      "box": [
+        116,
+        151,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeNest Nursing Services, 2019.02–2021.02",
+      "score": 0.9836,
+      "box": [
+        115,
+        289,
+        716,
+        314
+      ]
+    },
+    {
+      "text": "– Managed clinical data analysis",
+      "score": 0.9553,
+      "box": [
+        127,
+        315,
+        426,
+        338
+      ]
+    },
+    {
+      "text": "- Led patient experience improvement programs",
+      "score": 0.9857,
+      "box": [
+        126,
+        339,
+        574,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunHands Nursing, 2016.06–2018.07",
+      "score": 0.9939,
+      "box": [
+        116,
+        382,
+        651,
+        405
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9969,
+      "box": [
+        125,
+        406,
+        444,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9428,
+      "box": [
+        126,
+        430,
+        372,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Studies, Harvest University, 2010",
+      "score": 0.9742,
+      "box": [
+        114,
+        539,
+        601,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in sterile technique",
+      "score": 0.9862,
+      "box": [
+        134,
+        566,
+        542,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of diet therapy basics",
+      "score": 0.9707,
+      "box": [
+        132,
+        590,
+        553,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "SONIA RICHARD\nAL, USA|+1-647-997-5671 | sonia.richard@example.com\nWORK HISTORY\nRegistered Nurses, LifeNest Nursing Services, 2019.02–2021.02\n– Managed clinical data analysis\n- Led patient experience improvement programs\nRegistered Nurses, SunHands Nursing, 2016.06–2018.07\n- Collected patient health histories\n- Prepared sterile supplies\nEDUCATION\nBachelor's, Health Studies, Harvest University, 2010\n• Completed coursework in sterile technique\n• Studied fundamentals of diet therapy basics"
+}

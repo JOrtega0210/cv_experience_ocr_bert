@@ -1,0 +1,278 @@
+{
+  "id": "26434",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.906,
+  "n_lines": 20,
+  "mean_score": 0.9837,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ROBERT CHAMBERS",
+      "score": 0.9786,
+      "box": [
+        116,
+        90,
+        460,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-516-515-2056 |robert.chambers@example.com",
+      "score": 0.9803,
+      "box": [
+        115,
+        150,
+        695,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netcore Solutions, 2019.08–2023.01",
+      "score": 0.988,
+      "box": [
+        115,
+        288,
+        660,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented data pipeline architectures",
+      "score": 0.9814,
+      "box": [
+        127,
+        315,
+        512,
+        338
+      ]
+    },
+    {
+      "text": "- Defined quality assurance frameworks",
+      "score": 0.9929,
+      "box": [
+        126,
+        339,
+        495,
+        362
+      ]
+    },
+    {
+      "text": "Software Developers, Brightline Systems, 2016.02–2019.08",
+      "score": 0.9885,
+      "box": [
+        115,
+        381,
+        669,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented data pipeline architectures",
+      "score": 0.9949,
+      "box": [
+        126,
+        406,
+        512,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed architectural proposals",
+      "score": 0.9762,
+      "box": [
+        126,
+        431,
+        449,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Opencrest Solutions, 2012.08–2016.02",
+      "score": 0.9728,
+      "box": [
+        115,
+        471,
+        685,
+        496
+      ]
+    },
+    {
+      "text": "- Improved application performance",
+      "score": 0.9925,
+      "box": [
+        126,
+        498,
+        458,
+        521
+      ]
+    },
+    {
+      "text": "- Developed microservices",
+      "score": 0.9655,
+      "box": [
+        125,
+        521,
+        376,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Clearwave Systems, 2007.04–2010.10",
+      "score": 0.9881,
+      "box": [
+        115,
+        565,
+        682,
+        588
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.9927,
+      "box": [
+        125,
+        589,
+        495,
+        614
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.9699,
+      "box": [
+        127,
+        615,
+        376,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Seabreeze University, 204",
+      "score": 0.9788,
+      "box": [
+        116,
+        726,
+        463,
+        745
+      ]
+    },
+    {
+      "text": "Bachelor's, Forest Ridge University, 2002",
+      "score": 0.9816,
+      "box": [
+        115,
+        749,
+        501,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of software documentation",
+      "score": 0.9926,
+      "box": [
+        133,
+        774,
+        563,
+        797
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of profiling tools",
+      "score": 0.9752,
+      "box": [
+        133,
+        799,
+        502,
+        822
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "ROBERT CHAMBERS\nMA, USA|+1-516-515-2056 |robert.chambers@example.com\nWORK HISTORY\nSoftware Developers, Netcore Solutions, 2019.08–2023.01\n- Implemented data pipeline architectures\n- Defined quality assurance frameworks\nSoftware Developers, Brightline Systems, 2016.02–2019.08\n- Implemented data pipeline architectures\n- Reviewed architectural proposals\nSoftware Developers, Opencrest Solutions, 2012.08–2016.02\n- Improved application performance\n- Developed microservices\nSoftware Developers, Clearwave Systems, 2007.04–2010.10\n- Performed basic performance profiling\n- Resolved merge conflicts\nEDUCATION\nMaster's, Seabreeze University, 204\nBachelor's, Forest Ridge University, 2002\n• Studied principles of software documentation\n• Studied fundamentals of profiling tools"
+}

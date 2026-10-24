@@ -1,0 +1,187 @@
+{
+  "id": "35291",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.84,
+  "n_lines": 13,
+  "mean_score": 0.9811,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ROBERT HENSON",
+      "score": 0.9856,
+      "box": [
+        116,
+        90,
+        412,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-701-529-2796|robert.henson@example.com",
+      "score": 0.9836,
+      "box": [
+        115,
+        150,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9776,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Financial, 2020.11–2023.01",
+      "score": 0.9903,
+      "box": [
+        115,
+        290,
+        698,
+        312
+      ]
+    },
+    {
+      "text": "- Developed financial performance metrics",
+      "score": 0.9678,
+      "box": [
+        127,
+        315,
+        520,
+        338
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9771,
+      "box": [
+        126,
+        339,
+        495,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Group, 2018.09–2020.11",
+      "score": 0.9778,
+      "box": [
+        114,
+        381,
+        708,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.9823,
+      "box": [
+        126,
+        406,
+        384,
+        431
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9792,
+      "box": [
+        127,
+        432,
+        511,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting and Auditing, Willow Ridge University, 2019",
+      "score": 0.9643,
+      "box": [
+        114,
+        539,
+        738,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in cost accounting",
+      "score": 0.9819,
+      "box": [
+        134,
+        566,
+        534,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of internal controls",
+      "score": 0.9882,
+      "box": [
+        135,
+        592,
+        526,
+        612
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ROBERT HENSON\nNY, USA|+1-701-529-2796|robert.henson@example.com\nWORK HISTORY\nAccountants Auditors, FairBalance Financial, 2020.11–2023.01\n- Developed financial performance metrics\n- Directed accounting training programs\nAccountants Auditors, Integrity Ledger Group, 2018.09–2020.11\n- Prepared variance reports\n- Maintained accounting software records\nEDUCATION\nBachelor's, Accounting and Auditing, Willow Ridge University, 2019\n• Completed coursework in cost accounting\n• Studied fundamentals of internal controls"
+}

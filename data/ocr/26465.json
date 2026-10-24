@@ -1,0 +1,265 @@
+{
+  "id": "26465",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.878,
+  "n_lines": 19,
+  "mean_score": 0.9815,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TARA MORTON",
+      "score": 0.9887,
+      "box": [
+        114,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-587-947-2643 |tara.morton@example.com",
+      "score": 0.9861,
+      "box": [
+        115,
+        150,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Tech, 2019.11–2023.01",
+      "score": 0.9907,
+      "box": [
+        114,
+        288,
+        620,
+        313
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.9829,
+      "box": [
+        125,
+        313,
+        374,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9785,
+      "box": [
+        127,
+        340,
+        461,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstack Labs, 2016.09–2019.11",
+      "score": 0.9774,
+      "box": [
+        116,
+        382,
+        650,
+        406
+      ]
+    },
+    {
+      "text": "- Designed high-availability systems",
+      "score": 0.9847,
+      "box": [
+        125,
+        406,
+        461,
+        431
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9839,
+      "box": [
+        125,
+        430,
+        410,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Software, 2013.07–2016.09",
+      "score": 0.9831,
+      "box": [
+        115,
+        472,
+        673,
+        496
+      ]
+    },
+    {
+      "text": "- Developed background jobs",
+      "score": 0.9755,
+      "box": [
+        125,
+        496,
+        402,
+        521
+      ]
+    },
+    {
+      "text": "- Designed API contracts",
+      "score": 0.9536,
+      "box": [
+        125,
+        521,
+        361,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Stonefield Software, 2010.05–2013.07",
+      "score": 0.9809,
+      "box": [
+        114,
+        563,
+        678,
+        588
+      ]
+    },
+    {
+      "text": "- Updated monitoring dashboards",
+      "score": 0.9969,
+      "box": [
+        126,
+        590,
+        440,
+        613
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9775,
+      "box": [
+        127,
+        615,
+        604,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Goldenview University, 2008",
+      "score": 0.948,
+      "box": [
+        114,
+        723,
+        491,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in model-view-controller pattern",
+      "score": 0.9768,
+      "box": [
+        132,
+        748,
+        658,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in code review practices",
+      "score": 0.9986,
+      "box": [
+        135,
+        774,
+        590,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "TARA MORTON\nMA, USA|+1-587-947-2643 |tara.morton@example.com\nWORK HISTORY\nSoftware Developers, Softgrid Tech, 2019.11–2023.01\n- Led architectural reviews\n- Implemented service orchestration\nSoftware Developers, Brightstack Labs, 2016.09–2019.11\n- Designed high-availability systems\n- Defined scalability roadmaps\nSoftware Developers, Codefield Software, 2013.07–2016.09\n- Developed background jobs\n- Designed API contracts\nSoftware Developers, Stonefield Software, 2010.05–2013.07\n- Updated monitoring dashboards\n- Implemented basic features in existing codebases\nEDUCATION\nBachelor's, Goldenview University, 2008\n• Completed coursework in model-view-controller pattern\n• Completed coursework in code review practices"
+}

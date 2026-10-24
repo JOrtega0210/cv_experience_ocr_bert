@@ -1,0 +1,187 @@
+{
+  "id": "25618",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.855,
+  "n_lines": 13,
+  "mean_score": 0.9805,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TAYLOR LITTLE",
+      "score": 0.9718,
+      "box": [
+        114,
+        90,
+        378,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-926-909-4548 |taylor.litle@example.com",
+      "score": 0.9596,
+      "box": [
+        115,
+        150,
+        637,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9833,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Inspire Academy, 2019.06–2021.09",
+      "score": 0.9827,
+      "box": [
+        114,
+        289,
+        793,
+        314
+      ]
+    },
+    {
+      "text": "- Developed district-aligned lesson frameworks",
+      "score": 0.9672,
+      "box": [
+        126,
+        315,
+        562,
+        338
+      ]
+    },
+    {
+      "text": "- Directed instructional planning processes",
+      "score": 0.9867,
+      "box": [
+        126,
+        338,
+        522,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Futures School, 2015.09–2017.12",
+      "score": 0.992,
+      "box": [
+        115,
+        381,
+        835,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.9819,
+      "box": [
+        125,
+        406,
+        484,
+        431
+      ]
+    },
+    {
+      "text": "- Distributed assessment rubrics",
+      "score": 0.9675,
+      "box": [
+        126,
+        432,
+        428,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Instructional Support, Windridge University, 2015",
+      "score": 0.9794,
+      "box": [
+        115,
+        541,
+        678,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in writing instruction",
+      "score": 0.9906,
+      "box": [
+        134,
+        566,
+        551,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in developmental psychology basics",
+      "score": 0.9856,
+      "box": [
+        134,
+        590,
+        700,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "TAYLOR LITTLE\nMA, USA|+1-926-909-4548 |taylor.litle@example.com\nWORK HISTORY\nElementary Middle School Teachers, Inspire Academy, 2019.06–2021.09\n- Developed district-aligned lesson frameworks\n- Directed instructional planning processes\nElementary Middle School Teachers, Open Futures School, 2015.09–2017.12\n- Conducted reading practice sessions\n- Distributed assessment rubrics\nEDUCATION\nBachelor's, Instructional Support, Windridge University, 2015\n• Completed coursework in writing instruction\n• Completed coursework in developmental psychology basics"
+}

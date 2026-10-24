@@ -1,0 +1,226 @@
+{
+  "id": "14128",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.987,
+  "n_lines": 16,
+  "mean_score": 0.9839,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LAUREN HUTCHINSON",
+      "score": 0.9773,
+      "box": [
+        116,
+        90,
+        488,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-865-828-2716 | lauren.hutchinson@example.com",
+      "score": 0.9832,
+      "box": [
+        116,
+        152,
+        701,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Minds School, 2020.12–2023.01",
+      "score": 0.99,
+      "box": [
+        115,
+        290,
+        845,
+        313
+      ]
+    },
+    {
+      "text": "- Led instructional design reviews",
+      "score": 0.9925,
+      "box": [
+        126,
+        315,
+        439,
+        338
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.9852,
+      "box": [
+        126,
+        339,
+        431,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Meadow Academy, 2018.04–2020.06",
+      "score": 0.9836,
+      "box": [
+        116,
+        382,
+        893,
+        406
+      ]
+    },
+    {
+      "text": "- Developed math enrichment lessons",
+      "score": 0.9656,
+      "box": [
+        125,
+        406,
+        480,
+        431
+      ]
+    },
+    {
+      "text": "- Maintained academic records",
+      "score": 0.9777,
+      "box": [
+        126,
+        431,
+        415,
+        453
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Horizons School, 2015.05–2017.07",
+      "score": 0.9847,
+      "box": [
+        115,
+        472,
+        837,
+        495
+      ]
+    },
+    {
+      "text": "- Supervised transitions between lessons",
+      "score": 0.983,
+      "box": [
+        126,
+        498,
+        509,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed lesson objectives",
+      "score": 0.9944,
+      "box": [
+        126,
+        521,
+        399,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Youth Studies, Westfield University, 2013",
+      "score": 0.9731,
+      "box": [
+        115,
+        632,
+        609,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of formative feedback",
+      "score": 0.9867,
+      "box": [
+        134,
+        658,
+        555,
+        678
+      ]
+    },
+    {
+      "text": "• Completed coursework in introductory child psychology",
+      "score": 0.9818,
+      "box": [
+        135,
+        681,
+        656,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "LAUREN HUTCHINSON\nFL, USA|+1-865-828-2716 | lauren.hutchinson@example.com\nWORK HISTORY\nElementary Middle School Teachers, Growing Minds School, 2020.12–2023.01\n- Led instructional design reviews\n- Designed assessment systems\nElementary Middle School Teachers, Growing Meadow Academy, 2018.04–2020.06\n- Developed math enrichment lessons\n- Maintained academic records\nElementary Middle School Teachers, Kind Horizons School, 2015.05–2017.07\n- Supervised transitions between lessons\n- Reviewed lesson objectives\nEDUCATION\nBachelor's, Youth Studies, Westfield University, 2013\n• Studied fundamentals of formative feedback\n• Completed coursework in introductory child psychology"
+}

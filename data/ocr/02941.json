@@ -1,0 +1,200 @@
+{
+  "id": "02941",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.878,
+  "n_lines": 14,
+  "mean_score": 0.9796,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOHN VO",
+      "score": 0.9816,
+      "box": [
+        114,
+        88,
+        270,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA|+1-670-851-4474 |john.vo@example.com",
+      "score": 0.9801,
+      "box": [
+        116,
+        151,
+        609,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9848,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skyframe Labs, 2021.03–2023.01",
+      "score": 0.9742,
+      "box": [
+        114,
+        289,
+        634,
+        314
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.9721,
+      "box": [
+        125,
+        313,
+        469,
+        339
+      ]
+    },
+    {
+      "text": "- Led technical audits",
+      "score": 0.9636,
+      "box": [
+        125,
+        338,
+        328,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Digital, 2019.04–2021.03",
+      "score": 0.976,
+      "box": [
+        115,
+        381,
+        659,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed API documentation",
+      "score": 0.9606,
+      "box": [
+        125,
+        405,
+        417,
+        430
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9811,
+      "box": [
+        125,
+        431,
+        444,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Meadowland University, 2019",
+      "score": 0.9935,
+      "box": [
+        115,
+        541,
+        482,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Sunfield University, 2017",
+      "score": 0.9825,
+      "box": [
+        115,
+        565,
+        457,
+        588
+      ]
+    },
+    {
+      "text": "• Completed coursework in transaction management",
+      "score": 0.981,
+      "box": [
+        133,
+        590,
+        620,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of operating systems",
+      "score": 0.9852,
+      "box": [
+        133,
+        615,
+        511,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "JOHN VO\nCA, USA|+1-670-851-4474 |john.vo@example.com\nWORK HISTORY\nSoftware Developers, Skyframe Labs, 2021.03–2023.01\n- Led backend platform development\n- Led technical audits\nSoftware Developers, Openwave Digital, 2019.04–2021.03\n- Reviewed API documentation\n- Handled basic deployment tasks\nEDUCATION\nMaster's, Meadowland University, 2019\nBachelor's, Sunfield University, 2017\n• Completed coursework in transaction management\n• Studied principles of operating systems"
+}

@@ -1,0 +1,174 @@
+{
+  "id": "19792",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.837,
+  "n_lines": 12,
+  "mean_score": 0.9828,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAMES FREEMAN",
+      "score": 0.9891,
+      "box": [
+        116,
+        90,
+        408,
+        120
+      ]
+    },
+    {
+      "text": "IN, USA|+1-954-379-4892 |james.freeman@example.com",
+      "score": 0.9875,
+      "box": [
+        116,
+        150,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterBuild Group, 2021.05–2023.01",
+      "score": 0.9857,
+      "box": [
+        115,
+        290,
+        679,
+        312
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9851,
+      "box": [
+        125,
+        314,
+        441,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.9633,
+      "box": [
+        126,
+        339,
+        439,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterFrame Builders, 2019.09–2021.05",
+      "score": 0.9698,
+      "box": [
+        115,
+        381,
+        714,
+        405
+      ]
+    },
+    {
+      "text": "- Mixed concrete and mortar",
+      "score": 0.9665,
+      "box": [
+        126,
+        407,
+        391,
+        429
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.9906,
+      "box": [
+        126,
+        431,
+        480,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, General Construction, Sunnyside High School, 2018",
+      "score": 0.9976,
+      "box": [
+        116,
+        541,
+        859,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of building envelope basics",
+      "score": 0.9787,
+      "box": [
+        134,
+        566,
+        570,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "JAMES FREEMAN\nIN, USA|+1-954-379-4892 |james.freeman@example.com\nWORK HISTORY\nConstruction Laborers, MasterBuild Group, 2021.05–2023.01\n- Led complex demolition projects\n- Reviewed engineering drawings\nConstruction Laborers, MasterFrame Builders, 2019.09–2021.05\n- Mixed concrete and mortar\n- Supported crew leaders during tasks\nEDUCATION\nHigh school graduate/GED, General Construction, Sunnyside High School, 2018\n• Studied principles of building envelope basics"
+}

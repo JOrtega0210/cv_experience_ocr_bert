@@ -1,0 +1,187 @@
+{
+  "id": "13121",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.959,
+  "n_lines": 13,
+  "mean_score": 0.9835,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "FRANCISCO WILKINS",
+      "score": 0.9752,
+      "box": [
+        115,
+        88,
+        467,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA|+1-420-558-4346|francisco.wilkins@example.com",
+      "score": 0.9886,
+      "box": [
+        115,
+        150,
+        687,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9882,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterStone Construction, 2020.03–2023.01",
+      "score": 0.9793,
+      "box": [
+        115,
+        289,
+        747,
+        313
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.9818,
+      "box": [
+        127,
+        315,
+        524,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed structural integrity assessments",
+      "score": 0.9791,
+      "box": [
+        126,
+        339,
+        532,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Frontier Build Co., 2017.05–2020.03",
+      "score": 0.9685,
+      "box": [
+        115,
+        381,
+        671,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.9809,
+      "box": [
+        125,
+        406,
+        419,
+        432
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9844,
+      "box": [
+        126,
+        431,
+        492,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Electrical Technology, Silverton University, 2015",
+      "score": 0.9773,
+      "box": [
+        116,
+        541,
+        752,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of site preparation",
+      "score": 0.994,
+      "box": [
+        133,
+        566,
+        486,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic paving techniques",
+      "score": 0.9895,
+      "box": [
+        133,
+        590,
+        612,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "FRANCISCO WILKINS\nFL, USA|+1-420-558-4346|francisco.wilkins@example.com\nWORK HISTORY\nConstruction Laborers, MasterStone Construction, 2020.03–2023.01\n- Coordinated large-scale material logistics\n- Reviewed structural integrity assessments\nConstruction Laborers, Frontier Build Co., 2017.05–2020.03\n- Maintained tool storage areas\n- Assembled prefabricated components\nEDUCATION\nAssociate's degree, Electrical Technology, Silverton University, 2015\n• Studied principles of site preparation\n• Completed coursework in basic paving techniques"
+}

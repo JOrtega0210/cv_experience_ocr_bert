@@ -1,0 +1,148 @@
+{
+  "id": "49753",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.727,
+  "n_lines": 10,
+  "mean_score": 0.9848,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JORDAN LIN",
+      "score": 0.9879,
+      "box": [
+        116,
+        90,
+        322,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-936-751-2048 |jordan.lin@example.com",
+      "score": 0.9863,
+      "box": [
+        116,
+        151,
+        623,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9821,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skyline Digital, 2020.05–2023.01",
+      "score": 0.9891,
+      "box": [
+        116,
+        290,
+        626,
+        313
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9725,
+      "box": [
+        125,
+        314,
+        443,
+        339
+      ]
+    },
+    {
+      "text": "- Updated monitoring dashboards",
+      "score": 0.9867,
+      "box": [
+        126,
+        339,
+        440,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Springdale University, 2022",
+      "score": 0.9756,
+      "box": [
+        116,
+        449,
+        624,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in stream processing basics",
+      "score": 0.9909,
+      "box": [
+        133,
+        474,
+        624,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of artificial intelligence",
+      "score": 0.9787,
+      "box": [
+        133,
+        497,
+        561,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JORDAN LIN\nTX, USA|+1-936-751-2048 |jordan.lin@example.com\nWORK HISTORY\nSoftware Developers, Skyline Digital, 2020.05–2023.01\n- Handled basic deployment tasks\n- Updated monitoring dashboards\nEDUCATION\nSome college (no degree), Springdale University, 2022\n• Completed coursework in stream processing basics\n• Studied fundamentals of artificial intelligence"
+}

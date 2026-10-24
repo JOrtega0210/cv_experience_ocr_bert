@@ -1,0 +1,187 @@
+{
+  "id": "29215",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.786,
+  "n_lines": 13,
+  "mean_score": 0.9837,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KRISTINA WOLF",
+      "score": 0.9757,
+      "box": [
+        116,
+        90,
+        384,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-766-274-5898|kristina.wolf@example.com",
+      "score": 0.9939,
+      "box": [
+        115,
+        150,
+        654,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Nextline Software, 2019.02–2022.01",
+      "score": 0.9826,
+      "box": [
+        116,
+        290,
+        659,
+        313
+      ]
+    },
+    {
+      "text": "- Designed software development workflows",
+      "score": 0.9783,
+      "box": [
+        125,
+        314,
+        538,
+        339
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9596,
+      "box": [
+        125,
+        339,
+        368,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Labs, 2015.05–2018.05",
+      "score": 0.9935,
+      "box": [
+        115,
+        381,
+        648,
+        406
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.9717,
+      "box": [
+        127,
+        408,
+        462,
+        431
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9914,
+      "box": [
+        125,
+        430,
+        352,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Meadowridge Valley University, 2007",
+      "score": 0.9771,
+      "box": [
+        116,
+        541,
+        712,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of version control systems",
+      "score": 0.9901,
+      "box": [
+        132,
+        565,
+        561,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in full-stack development",
+      "score": 0.9915,
+      "box": [
+        133,
+        590,
+        598,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KRISTINA WOLF\nMN, USA|+1-766-274-5898|kristina.wolf@example.com\nWORK HISTORY\nSoftware Developers, Nextline Software, 2019.02–2022.01\n- Designed software development workflows\n- Built distributed systems\nSoftware Developers, Openwave Labs, 2015.05–2018.05\n- Updated application dependencies\n- Wrote integration tests\nEDUCATION\nSome college (no degree), Meadowridge Valley University, 2007\n• Studied principles of version control systems\n• Completed coursework in full-stack development"
+}

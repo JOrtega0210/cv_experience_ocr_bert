@@ -1,0 +1,226 @@
+{
+  "id": "47714",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.832,
+  "n_lines": 16,
+  "mean_score": 0.9802,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RYAN BECKER",
+      "score": 0.9754,
+      "box": [
+        116,
+        90,
+        362,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-291-644-6097 |ryan.becker@example.com",
+      "score": 0.9756,
+      "box": [
+        116,
+        151,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Touch Health, 2020.08–2023.01",
+      "score": 0.9917,
+      "box": [
+        116,
+        289,
+        664,
+        313
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.9842,
+      "box": [
+        126,
+        314,
+        426,
+        339
+      ]
+    },
+    {
+      "text": "- Directed care coordination strategies",
+      "score": 0.9655,
+      "box": [
+        126,
+        338,
+        482,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Care Group, 2018.03–2020.08",
+      "score": 0.9734,
+      "box": [
+        115,
+        381,
+        706,
+        406
+      ]
+    },
+    {
+      "text": "- Managed patient referrals",
+      "score": 0.9849,
+      "box": [
+        126,
+        407,
+        380,
+        430
+      ]
+    },
+    {
+      "text": "- Developed patient care plans",
+      "score": 0.9926,
+      "box": [
+        126,
+        430,
+        413,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindWay Care Center, 2015.10–2018.03",
+      "score": 0.9856,
+      "box": [
+        116,
+        472,
+        678,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored patient alarms",
+      "score": 0.96,
+      "box": [
+        125,
+        496,
+        373,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.9703,
+      "box": [
+        125,
+        520,
+        484,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Mental Health Studies, Riverfield University, 2016",
+      "score": 0.9866,
+      "box": [
+        114,
+        631,
+        684,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of pharmacology",
+      "score": 0.98,
+      "box": [
+        132,
+        656,
+        473,
+        682
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of clinical decision making",
+      "score": 0.9727,
+      "box": [
+        133,
+        681,
+        596,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "RYAN BECKER\nSC, USA|+1-291-644-6097 |ryan.becker@example.com\nWORK HISTORY\nRegistered Nurses, Caring Touch Health, 2020.08–2023.01\n- Managed clinical data analysis\n- Directed care coordination strategies\nRegistered Nurses, Compassion Care Group, 2018.03–2020.08\n- Managed patient referrals\n- Developed patient care plans\nRegistered Nurses, KindWay Care Center, 2015.10–2018.03\n- Monitored patient alarms\n- Assisted with emergency procedures\nEDUCATION\nBachelor's, Mental Health Studies, Riverfield University, 2016\n• Studied principles of pharmacology\n• Studied fundamentals of clinical decision making"
+}

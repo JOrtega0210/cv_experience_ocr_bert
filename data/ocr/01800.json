@@ -1,0 +1,187 @@
+{
+  "id": "01800",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.904,
+  "n_lines": 13,
+  "mean_score": 0.9795,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LANDRY CONRAD",
+      "score": 0.9706,
+      "box": [
+        115,
+        88,
+        414,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-348-883-2350|landry.conrad@example.com",
+      "score": 0.9949,
+      "box": [
+        116,
+        151,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9807,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Financial, 2020.11–2023.01",
+      "score": 0.9905,
+      "box": [
+        115,
+        289,
+        687,
+        312
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9813,
+      "box": [
+        125,
+        313,
+        429,
+        339
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.9706,
+      "box": [
+        126,
+        339,
+        456,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Advisors, 2018.09–2020.11",
+      "score": 0.9922,
+      "box": [
+        115,
+        382,
+        693,
+        405
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.9657,
+      "box": [
+        125,
+        406,
+        420,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed vendor payments",
+      "score": 0.9698,
+      "box": [
+        125,
+        430,
+        400,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting, Vista University, 2023",
+      "score": 0.967,
+      "box": [
+        114,
+        539,
+        542,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of sustainability accounting basics",
+      "score": 0.9659,
+      "box": [
+        132,
+        564,
+        670,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of professional responsibility",
+      "score": 0.9866,
+      "box": [
+        133,
+        590,
+        580,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "LANDRY CONRAD\nAZ, USA|+1-348-883-2350|landry.conrad@example.com\nWORK HISTORY\nAccountants Auditors, CoreCount Financial, 2020.11–2023.01\n- Led audit planning governance\n- Developed audit quality standards\nAccountants Auditors, ClearBooks Advisors, 2018.09–2020.11\n- Reconciled subsidiary ledgers\n- Reviewed vendor payments\nEDUCATION\nBachelor's, Accounting, Vista University, 2023\n• Studied fundamentals of sustainability accounting basics\n• Studied principles of professional responsibility"
+}

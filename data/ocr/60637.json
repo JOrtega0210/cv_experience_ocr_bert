@@ -1,0 +1,265 @@
+{
+  "id": "60637",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.932,
+  "n_lines": 19,
+  "mean_score": 0.9801,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANNAALICIA BOYER",
+      "score": 0.9849,
+      "box": [
+        117,
+        90,
+        453,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-740-789-2424|annaalicia.boyer@example.com",
+      "score": 0.9824,
+      "box": [
+        115,
+        150,
+        690,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9821,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Bridge Medical, 2020.04–2023.01",
+      "score": 0.9868,
+      "box": [
+        115,
+        289,
+        734,
+        314
+      ]
+    },
+    {
+      "text": "- Directed clinical quality improvement initiatives",
+      "score": 0.9614,
+      "box": [
+        126,
+        313,
+        573,
+        338
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.9545,
+      "box": [
+        126,
+        338,
+        424,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindWay Nursing Services, 2017.07–2020.04",
+      "score": 0.9822,
+      "box": [
+        115,
+        381,
+        722,
+        406
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.9887,
+      "box": [
+        125,
+        405,
+        424,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.9914,
+      "box": [
+        126,
+        431,
+        568,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Care Group, 2014.10–2017.07",
+      "score": 0.9761,
+      "box": [
+        116,
+        472,
+        675,
+        496
+      ]
+    },
+    {
+      "text": "- Managed geriatric care plans",
+      "score": 0.9621,
+      "box": [
+        125,
+        498,
+        411,
+        521
+      ]
+    },
+    {
+      "text": "- Coordinated patient discharge planning",
+      "score": 0.9913,
+      "box": [
+        126,
+        521,
+        504,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeWay Nursing Services, 2010.07–2013.05",
+      "score": 0.9762,
+      "box": [
+        116,
+        565,
+        715,
+        589
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9944,
+      "box": [
+        126,
+        590,
+        531,
+        613
+      ]
+    },
+    {
+      "text": "- Prepared discharge instructions",
+      "score": 0.9708,
+      "box": [
+        126,
+        613,
+        436,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Education, Sunnyside University, 2008",
+      "score": 0.9817,
+      "box": [
+        115,
+        725,
+        649,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of blood transfusion basics",
+      "score": 0.9672,
+      "box": [
+        134,
+        750,
+        565,
+        770
+      ]
+    },
+    {
+      "text": "• Completed coursework in immunization practices",
+      "score": 0.9885,
+      "box": [
+        135,
+        774,
+        602,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "ANNAALICIA BOYER\nWI, USA|+1-740-789-2424|annaalicia.boyer@example.com\nWORK HISTORY\nRegistered Nurses, Compassion Bridge Medical, 2020.04–2023.01\n- Directed clinical quality improvement initiatives\n- Led infection control programs\nRegistered Nurses, KindWay Nursing Services, 2017.07–2020.04\n- Led infection control programs\n- Implemented evidence-based practice models\nRegistered Nurses, Harmony Care Group, 2014.10–2017.07\n- Managed geriatric care plans\n- Coordinated patient discharge planning\nRegistered Nurses, LifeWay Nursing Services, 2010.07–2013.05\n- Recorded medication administration times\n- Prepared discharge instructions\nEDUCATION\nBachelor's, Health Education, Sunnyside University, 2008\n• Studied principles of blood transfusion basics\n• Completed coursework in immunization practices"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "44542",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.745,
+  "n_lines": 10,
+  "mean_score": 0.9814,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "WILLIAMMCINTYRE",
+      "score": 0.9986,
+      "box": [
+        116,
+        90,
+        443,
+        120
+      ]
+    },
+    {
+      "text": "OR, USA|+1-951-329-4063|william.mcintyre@example.com",
+      "score": 0.9747,
+      "box": [
+        117,
+        151,
+        690,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueBuild Services, 2021.03–2023.01",
+      "score": 0.9887,
+      "box": [
+        116,
+        291,
+        681,
+        311
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9514,
+      "box": [
+        126,
+        315,
+        424,
+        338
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9571,
+      "box": [
+        127,
+        340,
+        416,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Plumbing Technology, Woodcrest University, 223",
+      "score": 0.9838,
+      "box": [
+        115,
+        449,
+        692,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural layout",
+      "score": 0.9912,
+      "box": [
+        133,
+        474,
+        539,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of load-bearing structures",
+      "score": 0.9865,
+      "box": [
+        133,
+        498,
+        555,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "WILLIAMMCINTYRE\nOR, USA|+1-951-329-4063|william.mcintyre@example.com\nWORK HISTORY\nConstruction Laborers, TrueBuild Services, 2021.03–2023.01\n- Followed blueprint instructions\n- Set up workstations for crews\nEDUCATION\nBachelor's, Plumbing Technology, Woodcrest University, 223\n• Completed coursework in structural layout\n• Studied principles of load-bearing structures"
+}

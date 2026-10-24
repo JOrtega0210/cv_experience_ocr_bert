@@ -1,0 +1,187 @@
+{
+  "id": "00327",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.873,
+  "n_lines": 13,
+  "mean_score": 0.9804,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KELLY MAYER",
+      "score": 0.9652,
+      "box": [
+        116,
+        90,
+        358,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-994-330-5922|kelly.mayer@example.com",
+      "score": 0.9698,
+      "box": [
+        116,
+        151,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9783,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightStart Academy, 2019.05–2020.11",
+      "score": 0.9929,
+      "box": [
+        115,
+        289,
+        828,
+        314
+      ]
+    },
+    {
+      "text": "- Established instructional review cycles",
+      "score": 0.9855,
+      "box": [
+        125,
+        313,
+        497,
+        338
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.9829,
+      "box": [
+        126,
+        339,
+        525,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Field Academy, 2017.03–2018.09",
+      "score": 0.9891,
+      "box": [
+        115,
+        381,
+        858,
+        406
+      ]
+    },
+    {
+      "text": "- Maintained student folders",
+      "score": 0.9639,
+      "box": [
+        126,
+        407,
+        387,
+        429
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9733,
+      "box": [
+        126,
+        431,
+        458,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, General Academic Studies, Stonecrest University, 2014",
+      "score": 0.9748,
+      "box": [
+        114,
+        539,
+        740,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of formative assessment",
+      "score": 0.9811,
+      "box": [
+        133,
+        566,
+        546,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic teaching ethics",
+      "score": 0.9898,
+      "box": [
+        134,
+        591,
+        583,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KELLY MAYER\nAL, USA|+1-994-330-5922|kelly.mayer@example.com\nWORK HISTORY\nElementary Middle School Teachers, BrightStart Academy, 2019.05–2020.11\n- Established instructional review cycles\n- Directed academic intervention strategies\nElementary Middle School Teachers, Growing Field Academy, 2017.03–2018.09\n- Maintained student folders\n- Recorded behavioral observations\nEDUCATION\nBachelor's, General Academic Studies, Stonecrest University, 2014\n• Studied principles of formative assessment\n• Completed coursework in basic teaching ethics"
+}

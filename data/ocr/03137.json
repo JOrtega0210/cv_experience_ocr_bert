@@ -1,0 +1,187 @@
+{
+  "id": "03137",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.902,
+  "n_lines": 13,
+  "mean_score": 0.9855,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NICOLAS BANKS",
+      "score": 0.9772,
+      "box": [
+        115,
+        88,
+        398,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-483-910-3043 |nicolas.banks@example.com",
+      "score": 0.9729,
+      "box": [
+        116,
+        151,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Solutions, 2020.03–2023.01",
+      "score": 0.9747,
+      "box": [
+        114,
+        288,
+        695,
+        313
+      ]
+    },
+    {
+      "text": "- Led platform migrations",
+      "score": 0.9815,
+      "box": [
+        125,
+        313,
+        361,
+        339
+      ]
+    },
+    {
+      "text": "- Defined integration standards",
+      "score": 0.9911,
+      "box": [
+        126,
+        340,
+        415,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Opencrest Solutions, 2017.04–220.03",
+      "score": 0.9912,
+      "box": [
+        115,
+        382,
+        684,
+        405
+      ]
+    },
+    {
+      "text": "- Wrote command-line tools",
+      "score": 0.9928,
+      "box": [
+        126,
+        405,
+        385,
+        430
+      ]
+    },
+    {
+      "text": "- Updated documentation for implemented features",
+      "score": 0.9953,
+      "box": [
+        126,
+        431,
+        601,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Cedar Valley University, 2018",
+      "score": 0.9749,
+      "box": [
+        114,
+        539,
+        501,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in mobile application development",
+      "score": 0.9864,
+      "box": [
+        134,
+        566,
+        682,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in computer programming fundamentals",
+      "score": 0.9886,
+      "box": [
+        134,
+        591,
+        736,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "NICOLAS BANKS\nCA, USA|+1-483-910-3043 |nicolas.banks@example.com\nWORK HISTORY\nSoftware Developers, Datastream Solutions, 2020.03–2023.01\n- Led platform migrations\n- Defined integration standards\nSoftware Developers, Opencrest Solutions, 2017.04–220.03\n- Wrote command-line tools\n- Updated documentation for implemented features\nEDUCATION\nBachelor's, Cedar Valley University, 2018\n• Completed coursework in mobile application development\n• Completed coursework in computer programming fundamentals"
+}

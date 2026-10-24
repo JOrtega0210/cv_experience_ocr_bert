@@ -1,0 +1,278 @@
+{
+  "id": "00621",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.152,
+  "n_lines": 20,
+  "mean_score": 0.9835,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "COLLEEN RHODES",
+      "score": 0.989,
+      "box": [
+        117,
+        90,
+        430,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-648-803-5480 |colleen.rhodes@example.com",
+      "score": 0.9767,
+      "box": [
+        116,
+        152,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9805,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Sky School, 2020.06–2023.01",
+      "score": 0.9869,
+      "box": [
+        116,
+        289,
+        798,
+        313
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.9831,
+      "box": [
+        125,
+        313,
+        535,
+        338
+      ]
+    },
+    {
+      "text": "- Directed instructional benchmarking",
+      "score": 0.9822,
+      "box": [
+        126,
+        338,
+        474,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Futures School, 2017.11–2020.06",
+      "score": 0.9819,
+      "box": [
+        116,
+        382,
+        845,
+        406
+      ]
+    },
+    {
+      "text": "- Led instructional design reviews",
+      "score": 0.9717,
+      "box": [
+        125,
+        406,
+        439,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented performance evaluation systems",
+      "score": 0.9943,
+      "box": [
+        126,
+        431,
+        569,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Meadow School, 2015.04–2017.11",
+      "score": 0.9731,
+      "box": [
+        115,
+        472,
+        833,
+        495
+      ]
+    },
+    {
+      "text": "- Reviewed assessment results",
+      "score": 0.9758,
+      "box": [
+        126,
+        497,
+        418,
+        519
+      ]
+    },
+    {
+      "text": "- Developed homework policies",
+      "score": 0.9884,
+      "box": [
+        126,
+        521,
+        419,
+        546
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Fields School, 2012.09–2015.04",
+      "score": 0.9779,
+      "box": [
+        116,
+        565,
+        820,
+        588
+      ]
+    },
+    {
+      "text": "- Maintained classroom bulletin boards",
+      "score": 0.9922,
+      "box": [
+        126,
+        590,
+        487,
+        613
+      ]
+    },
+    {
+      "text": "- Reviewed learning standards",
+      "score": 0.9951,
+      "box": [
+        126,
+        614,
+        411,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Master's, Learning and Teaching Studies, Clearfield University, 2011",
+      "score": 0.9794,
+      "box": [
+        115,
+        725,
+        749,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Youth Development, Windermere University, 2009",
+      "score": 0.9732,
+      "box": [
+        114,
+        747,
+        690,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in literacy development",
+      "score": 0.994,
+      "box": [
+        134,
+        774,
+        583,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic monitoring strategies",
+      "score": 0.9768,
+      "box": [
+        132,
+        798,
+        677,
+        823
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "COLLEEN RHODES\nAL, USA|+1-648-803-5480 |colleen.rhodes@example.com\nWORK HISTORY\nElementary Middle School Teachers, Open Sky School, 2020.06–2023.01\n- Established learning outcome benchmarks\n- Directed instructional benchmarking\nElementary Middle School Teachers, Caring Futures School, 2017.11–2020.06\n- Led instructional design reviews\n- Implemented performance evaluation systems\nElementary Middle School Teachers, Kind Meadow School, 2015.04–2017.11\n- Reviewed assessment results\n- Developed homework policies\nElementary Middle School Teachers, Open Fields School, 2012.09–2015.04\n- Maintained classroom bulletin boards\n- Reviewed learning standards\nEDUCATION\nMaster's, Learning and Teaching Studies, Clearfield University, 2011\nBachelor's, Youth Development, Windermere University, 2009\n• Completed coursework in literacy development\n• Completed coursework in academic monitoring strategies"
+}

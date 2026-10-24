@@ -1,0 +1,148 @@
+{
+  "id": "29823",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.802,
+  "n_lines": 10,
+  "mean_score": 0.9781,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "IVAN CLARK",
+      "score": 0.9721,
+      "box": [
+        115,
+        90,
+        324,
+        121
+      ]
+    },
+    {
+      "text": "MS, USA|+1-591-330-1611 |ivan.clark@example.com",
+      "score": 0.9767,
+      "box": [
+        115,
+        150,
+        631,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9763,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidBuild Group, 2020.04–2023.01",
+      "score": 0.9784,
+      "box": [
+        115,
+        290,
+        663,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with roofing material handling",
+      "score": 0.9706,
+      "box": [
+        127,
+        315,
+        498,
+        339
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.9729,
+      "box": [
+        126,
+        339,
+        481,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Equipment Technology, Cedarfield University, 2023",
+      "score": 0.9721,
+      "box": [
+        116,
+        449,
+        967,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of equipment calibration",
+      "score": 0.9907,
+      "box": [
+        132,
+        472,
+        541,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of electrical systems basics",
+      "score": 0.9729,
+      "box": [
+        134,
+        499,
+        572,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "IVAN CLARK\nMS, USA|+1-591-330-1611 |ivan.clark@example.com\nWORK HISTORY\nConstruction Laborers, SolidBuild Group, 2020.04–2023.01\n- Assisted with roofing material handling\n- Supported crew leaders during tasks\nEDUCATION\nSome college (no degree), Construction Equipment Technology, Cedarfield University, 2023\n• Studied principles of equipment calibration\n• Studied principles of electrical systems basics"
+}

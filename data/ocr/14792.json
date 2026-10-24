@@ -1,0 +1,148 @@
+{
+  "id": "14792",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.925,
+  "n_lines": 10,
+  "mean_score": 0.979,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LAUREN FOX",
+      "score": 0.9698,
+      "box": [
+        116,
+        90,
+        336,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-348-278-3493|lauren.fox@example.com",
+      "score": 0.9656,
+      "box": [
+        116,
+        151,
+        634,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9806,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Path Academy, 2020.09–2023.01",
+      "score": 0.9808,
+      "box": [
+        116,
+        290,
+        862,
+        313
+      ]
+    },
+    {
+      "text": "-Maintained instructional logs",
+      "score": 0.9761,
+      "box": [
+        125,
+        313,
+        406,
+        339
+      ]
+    },
+    {
+      "text": "- Delivered structured lectures",
+      "score": 0.9859,
+      "box": [
+        127,
+        340,
+        408,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, General Academic Studies, Brookwood University, 2022",
+      "score": 0.9659,
+      "box": [
+        114,
+        447,
+        744,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional objectives",
+      "score": 0.9882,
+      "box": [
+        132,
+        472,
+        590,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson effectiveness analysis",
+      "score": 0.9784,
+      "box": [
+        133,
+        497,
+        658,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "LAUREN FOX\nGA, USA |+1-348-278-3493|lauren.fox@example.com\nWORK HISTORY\nElementary Middle School Teachers, Harmony Path Academy, 2020.09–2023.01\n-Maintained instructional logs\n- Delivered structured lectures\nEDUCATION\nBachelor's, General Academic Studies, Brookwood University, 2022\n• Studied fundamentals of instructional objectives\n• Completed coursework in lesson effectiveness analysis"
+}

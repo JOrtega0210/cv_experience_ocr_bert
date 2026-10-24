@@ -1,0 +1,265 @@
+{
+  "id": "01413",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.981,
+  "n_lines": 19,
+  "mean_score": 0.9787,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "STEVEN BERGER",
+      "score": 0.9609,
+      "box": [
+        116,
+        90,
+        404,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-800-414-8650|steven.berger@example.com",
+      "score": 0.9795,
+      "box": [
+        116,
+        151,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openframe Labs, 2019.09–2023.01",
+      "score": 0.9878,
+      "box": [
+        114,
+        288,
+        651,
+        313
+      ]
+    },
+    {
+      "text": "- Defined engineering best practices",
+      "score": 0.9575,
+      "box": [
+        126,
+        315,
+        463,
+        339
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9683,
+      "box": [
+        125,
+        338,
+        368,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Stoneframe Software, 2016.04–2019.09",
+      "score": 0.9891,
+      "box": [
+        115,
+        380,
+        693,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9691,
+      "box": [
+        126,
+        407,
+        423,
+        431
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.9938,
+      "box": [
+        126,
+        431,
+        469,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Datawave Digital, 2012.11–2016.04",
+      "score": 0.9826,
+      "box": [
+        115,
+        472,
+        653,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented caching strategies",
+      "score": 0.9721,
+      "box": [
+        125,
+        496,
+        438,
+        522
+      ]
+    },
+    {
+      "text": "- Built containerized services",
+      "score": 0.9723,
+      "box": [
+        125,
+        520,
+        396,
+        545
+      ]
+    },
+    {
+      "text": "Software Developers, Openline Labs, 2006.08–2010.01",
+      "score": 0.973,
+      "box": [
+        114,
+        563,
+        629,
+        588
+      ]
+    },
+    {
+      "text": "-Reviewed API documentation",
+      "score": 0.971,
+      "box": [
+        124,
+        588,
+        417,
+        613
+      ]
+    },
+    {
+      "text": "- Implemented basic authentication logic",
+      "score": 0.9867,
+      "box": [
+        126,
+        613,
+        502,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Pinecrest University, 2004",
+      "score": 0.9691,
+      "box": [
+        114,
+        723,
+        469,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of object-oriented programming",
+      "score": 0.989,
+      "box": [
+        131,
+        747,
+        645,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in code refactoring",
+      "score": 0.9881,
+      "box": [
+        133,
+        772,
+        539,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "STEVEN BERGER\nAZ, USA|+1-800-414-8650|steven.berger@example.com\nWORK HISTORY\nSoftware Developers, Openframe Labs, 2019.09–2023.01\n- Defined engineering best practices\n- Built distributed systems\nSoftware Developers, Stoneframe Software, 2016.04–2019.09\n- Implemented core frameworks\n- Led backend platform development\nSoftware Developers, Datawave Digital, 2012.11–2016.04\n- Implemented caching strategies\n- Built containerized services\nSoftware Developers, Openline Labs, 2006.08–2010.01\n-Reviewed API documentation\n- Implemented basic authentication logic\nEDUCATION\nBachelor's, Pinecrest University, 2004\n• Studied fundamentals of object-oriented programming\n• Completed coursework in code refactoring"
+}

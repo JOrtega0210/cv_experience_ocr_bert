@@ -1,0 +1,265 @@
+{
+  "id": "06580",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.044,
+  "n_lines": 19,
+  "mean_score": 0.98,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LATARA MOON",
+      "score": 0.9912,
+      "box": [
+        116,
+        90,
+        368,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-807-219-9207 |latara.moon@example.com",
+      "score": 0.9903,
+      "box": [
+        117,
+        151,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9888,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Financial Group, 2019.06–2023.01",
+      "score": 0.988,
+      "box": [
+        114,
+        289,
+        746,
+        314
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9787,
+      "box": [
+        126,
+        314,
+        515,
+        339
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9822,
+      "box": [
+        126,
+        339,
+        527,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Advisors, 2015.11–2019.06",
+      "score": 0.9952,
+      "box": [
+        115,
+        381,
+        753,
+        406
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9848,
+      "box": [
+        125,
+        406,
+        477,
+        431
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.97,
+      "box": [
+        126,
+        431,
+        527,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Services, 2012.04–2015.11",
+      "score": 0.9803,
+      "box": [
+        115,
+        472,
+        737,
+        495
+      ]
+    },
+    {
+      "text": "- Reviewed journal entries",
+      "score": 0.9741,
+      "box": [
+        125,
+        496,
+        371,
+        521
+      ]
+    },
+    {
+      "text": "- Developed audit plans",
+      "score": 0.9694,
+      "box": [
+        125,
+        521,
+        350,
+        548
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Co., 2007.06–2011.01",
+      "score": 0.988,
+      "box": [
+        115,
+        565,
+        661,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9651,
+      "box": [
+        125,
+        590,
+        405,
+        613
+      ]
+    },
+    {
+      "text": "- Prepared expense reports",
+      "score": 0.9657,
+      "box": [
+        126,
+        613,
+        384,
+        641
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Strategic Management, Briar Ridge University, 2004",
+      "score": 0.9566,
+      "box": [
+        114,
+        723,
+        707,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of business analytics",
+      "score": 0.9785,
+      "box": [
+        132,
+        747,
+        511,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of management reporting",
+      "score": 0.9738,
+      "box": [
+        132,
+        772,
+        588,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "LATARA MOON\nCA, USA|+1-807-219-9207 |latara.moon@example.com\nWORK HISTORY\nAccountants Auditors, OpenPath Financial Group, 2019.06–2023.01\n- Directed accounting operations planning\n- Designed financial accountability systems\nAccountants Auditors, Reliable Accounts Advisors, 2015.11–2019.06\n- Established financial quality controls\n- Designed financial accountability systems\nAccountants Auditors, Precise Balance Services, 2012.04–2015.11\n- Reviewed journal entries\n- Developed audit plans\nAccountants Auditors, Reliable Path Co., 2007.06–2011.01\n- Assisted with audit fieldwork\n- Prepared expense reports\nEDUCATION\nBachelor's, Strategic Management, Briar Ridge University, 2004\n• Studied principles of business analytics\n• Studied fundamentals of management reporting"
+}

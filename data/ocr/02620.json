@@ -1,0 +1,148 @@
+{
+  "id": "02620",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.871,
+  "n_lines": 10,
+  "mean_score": 0.9827,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DEVIN ATKINS",
+      "score": 0.9673,
+      "box": [
+        116,
+        90,
+        354,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-604-847-7429 |devin.atkins@example.com",
+      "score": 0.9825,
+      "box": [
+        116,
+        150,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9833,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftStone Builders, 2022.08–2023.01",
+      "score": 0.9899,
+      "box": [
+        115,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.9823,
+      "box": [
+        126,
+        315,
+        400,
+        338
+      ]
+    },
+    {
+      "text": "- Performed basic demolition tasks",
+      "score": 0.9909,
+      "box": [
+        126,
+        338,
+        450,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Industrial Maintenance, Harborview University, 2023",
+      "score": 0.9819,
+      "box": [
+        115,
+        447,
+        851,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in framing layout",
+      "score": 0.9624,
+      "box": [
+        132,
+        472,
+        522,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic concrete reinforcement",
+      "score": 0.9877,
+      "box": [
+        135,
+        500,
+        657,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "DEVIN ATKINS\nCA, USA|+1-604-847-7429 |devin.atkins@example.com\nWORK HISTORY\nConstruction Laborers, CraftStone Builders, 2022.08–2023.01\n- Dug trenches for utility lines\n- Performed basic demolition tasks\nEDUCATION\nSome college (no degree), Industrial Maintenance, Harborview University, 2023\n• Completed coursework in framing layout\n• Completed coursework in basic concrete reinforcement"
+}

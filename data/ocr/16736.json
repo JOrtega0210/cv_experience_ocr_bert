@@ -1,0 +1,148 @@
+{
+  "id": "16736",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.872,
+  "n_lines": 10,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HEATHER LIU",
+      "score": 0.9733,
+      "box": [
+        116,
+        90,
+        342,
+        121
+      ]
+    },
+    {
+      "text": "HI, USA|+1-244-884-6058|heather.liu@example.com",
+      "score": 0.9848,
+      "box": [
+        115,
+        150,
+        630,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Services, 2021.06–2021.09",
+      "score": 0.9817,
+      "box": [
+        115,
+        290,
+        687,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9635,
+      "box": [
+        126,
+        313,
+        423,
+        340
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.9809,
+      "box": [
+        127,
+        339,
+        436,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Operations Management, Clearfield Ridge University, 2010",
+      "score": 0.993,
+      "box": [
+        115,
+        449,
+        771,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounts receivable",
+      "score": 0.9884,
+      "box": [
+        133,
+        474,
+        575,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in cost allocation methods",
+      "score": 0.979,
+      "box": [
+        135,
+        500,
+        607,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "HEATHER LIU\nHI, USA|+1-244-884-6058|heather.liu@example.com\nWORK HISTORY\nAccountants Auditors, FairLedger Services, 2021.06–2021.09\n- Assisted with regulatory filings\n- Updated general ledger records\nEDUCATION\nBachelor's, Operations Management, Clearfield Ridge University, 2010\n• Completed coursework in accounts receivable\n• Completed coursework in cost allocation methods"
+}

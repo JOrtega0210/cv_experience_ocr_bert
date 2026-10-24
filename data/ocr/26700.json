@@ -1,0 +1,226 @@
+{
+  "id": "26700",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.822,
+  "n_lines": 16,
+  "mean_score": 0.9846,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NICHOLAS PALMER",
+      "score": 0.9831,
+      "box": [
+        116,
+        90,
+        443,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-665-313-4342|nicholas.palmer@example.com",
+      "score": 0.982,
+      "box": [
+        116,
+        152,
+        689,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9887,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softfield Tech, 2020.02–2023.01",
+      "score": 0.9921,
+      "box": [
+        116,
+        290,
+        623,
+        313
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9557,
+      "box": [
+        127,
+        315,
+        454,
+        339
+      ]
+    },
+    {
+      "text": "- Built core libraries",
+      "score": 0.9803,
+      "box": [
+        125,
+        338,
+        309,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightgrid Software, 2017.03–2020.02",
+      "score": 0.9866,
+      "box": [
+        115,
+        381,
+        674,
+        406
+      ]
+    },
+    {
+      "text": "-Built frontend components",
+      "score": 0.9914,
+      "box": [
+        125,
+        406,
+        386,
+        431
+      ]
+    },
+    {
+      "text": "- Designed integration tests",
+      "score": 0.9822,
+      "box": [
+        126,
+        430,
+        384,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Tech, 2014.03–2017.03",
+      "score": 0.9968,
+      "box": [
+        116,
+        472,
+        637,
+        495
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.983,
+      "box": [
+        127,
+        498,
+        340,
+        522
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9859,
+      "box": [
+        126,
+        521,
+        364,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Meadowway University, 2013",
+      "score": 0.9757,
+      "box": [
+        115,
+        632,
+        498,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in message queues",
+      "score": 0.9882,
+      "box": [
+        133,
+        656,
+        548,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in data structures implementation",
+      "score": 0.9835,
+      "box": [
+        134,
+        681,
+        674,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "NICHOLAS PALMER\nMA, USA|+1-665-313-4342|nicholas.palmer@example.com\nWORK HISTORY\nSoftware Developers, Softfield Tech, 2020.02–2023.01\n- Led performance tuning initiatives\n- Built core libraries\nSoftware Developers, Brightgrid Software, 2017.03–2020.02\n-Built frontend components\n- Designed integration tests\nSoftware Developers, Codefield Tech, 2014.03–2017.03\n- Updated routing logic\n- Handled feature toggles\nEDUCATION\nBachelor's, Meadowway University, 2013\n• Completed coursework in message queues\n• Completed coursework in data structures implementation"
+}

@@ -1,0 +1,265 @@
+{
+  "id": "26425",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.894,
+  "n_lines": 19,
+  "mean_score": 0.98,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ERIC KIM",
+      "score": 0.968,
+      "box": [
+        115,
+        88,
+        271,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA|+1-504-847-1964 |eric.kim@example.com",
+      "score": 0.9869,
+      "box": [
+        115,
+        152,
+        616,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Path Nursing, 2020.06–2023.01",
+      "score": 0.9808,
+      "box": [
+        115,
+        289,
+        662,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9832,
+      "box": [
+        126,
+        313,
+        571,
+        340
+      ]
+    },
+    {
+      "text": "- Directed care delivery improvements",
+      "score": 0.9499,
+      "box": [
+        126,
+        339,
+        480,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Way Nursing, 2017.11–2020.06",
+      "score": 0.9743,
+      "box": [
+        115,
+        381,
+        672,
+        407
+      ]
+    },
+    {
+      "text": "- Directed clinical quality improvement initiatives",
+      "score": 0.9655,
+      "box": [
+        126,
+        406,
+        573,
+        431
+      ]
+    },
+    {
+      "text": "- Developed patient safety programs",
+      "score": 0.9917,
+      "box": [
+        126,
+        430,
+        466,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleLife Nursing, 2015.03–2017.11",
+      "score": 0.9838,
+      "box": [
+        116,
+        473,
+        646,
+        496
+      ]
+    },
+    {
+      "text": "- Coordinated interdisciplinary care",
+      "score": 0.9849,
+      "box": [
+        125,
+        496,
+        452,
+        522
+      ]
+    },
+    {
+      "text": "- Performed advanced wound assessments",
+      "score": 0.9809,
+      "box": [
+        126,
+        521,
+        531,
+        546
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleCare Health, 2012.07–2015.03",
+      "score": 0.9921,
+      "box": [
+        116,
+        565,
+        649,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared discharge instructions",
+      "score": 0.9741,
+      "box": [
+        126,
+        590,
+        436,
+        614
+      ]
+    },
+    {
+      "text": "- Monitored patient intake and output",
+      "score": 0.973,
+      "box": [
+        126,
+        614,
+        470,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Informatics, Greenfield Ridge University, 2011",
+      "score": 0.9812,
+      "box": [
+        114,
+        723,
+        716,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in disaster nursing basics",
+      "score": 0.9745,
+      "box": [
+        134,
+        749,
+        602,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical reasoning",
+      "score": 0.9915,
+      "box": [
+        135,
+        774,
+        549,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "ERIC KIM\nMA, USA|+1-504-847-1964 |eric.kim@example.com\nWORK HISTORY\nRegistered Nurses, Caring Path Nursing, 2020.06–2023.01\n- Implemented clinical decision support systems\n- Directed care delivery improvements\nRegistered Nurses, Helping Way Nursing, 2017.11–2020.06\n- Directed clinical quality improvement initiatives\n- Developed patient safety programs\nRegistered Nurses, GentleLife Nursing, 2015.03–2017.11\n- Coordinated interdisciplinary care\n- Performed advanced wound assessments\nRegistered Nurses, GentleCare Health, 2012.07–2015.03\n- Prepared discharge instructions\n- Monitored patient intake and output\nEDUCATION\nBachelor's, Health Informatics, Greenfield Ridge University, 2011\n• Completed coursework in disaster nursing basics\n• Completed coursework in clinical reasoning"
+}

@@ -1,0 +1,265 @@
+{
+  "id": "06780",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.07,
+  "n_lines": 19,
+  "mean_score": 0.9829,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOHN HOOD",
+      "score": 0.9865,
+      "box": [
+        115,
+        88,
+        322,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-342-819-9921 |john.hood@example.com",
+      "score": 0.9829,
+      "box": [
+        116,
+        150,
+        632,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Pillar Construction, 2018.11–2023.01",
+      "score": 0.9808,
+      "box": [
+        115,
+        290,
+        676,
+        313
+      ]
+    },
+    {
+      "text": "- Established project documentation systems",
+      "score": 0.9695,
+      "box": [
+        125,
+        313,
+        544,
+        339
+      ]
+    },
+    {
+      "text": "- Directed training programs for crews",
+      "score": 0.9745,
+      "box": [
+        126,
+        338,
+        479,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidCore Contractors, 2014.09–2018.11",
+      "score": 0.997,
+      "box": [
+        116,
+        382,
+        712,
+        405
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.9861,
+      "box": [
+        125,
+        406,
+        478,
+        431
+      ]
+    },
+    {
+      "text": "- Managed multi-phase projects",
+      "score": 0.9827,
+      "box": [
+        126,
+        430,
+        422,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmLine Construction, 2010.07–2014.09",
+      "score": 0.9751,
+      "box": [
+        114,
+        471,
+        713,
+        496
+      ]
+    },
+    {
+      "text": "- Coordinated material deliveries",
+      "score": 0.9879,
+      "box": [
+        126,
+        497,
+        430,
+        519
+      ]
+    },
+    {
+      "text": "- Aligned structural components",
+      "score": 0.9775,
+      "box": [
+        126,
+        521,
+        424,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueLine Services, 2006.04–2010.07",
+      "score": 0.9925,
+      "box": [
+        115,
+        563,
+        677,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.9846,
+      "box": [
+        125,
+        589,
+        583,
+        614
+      ]
+    },
+    {
+      "text": "- Set up ladders and basic scaffolding",
+      "score": 0.9796,
+      "box": [
+        127,
+        615,
+        476,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Planning, Ridgeway University, 2006",
+      "score": 0.9824,
+      "box": [
+        115,
+        723,
+        768,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction inspection reporting",
+      "score": 0.9616,
+      "box": [
+        132,
+        748,
+        689,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction fundamentals",
+      "score": 0.9906,
+      "box": [
+        135,
+        775,
+        632,
+        795
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "JOHN HOOD\nCA, USA|+1-342-819-9921 |john.hood@example.com\nWORK HISTORY\nConstruction Laborers, Pillar Construction, 2018.11–2023.01\n- Established project documentation systems\n- Directed training programs for crews\nConstruction Laborers, SolidCore Contractors, 2014.09–2018.11\n- Designed construction staging plans\n- Managed multi-phase projects\nConstruction Laborers, FirmLine Construction, 2010.07–2014.09\n- Coordinated material deliveries\n- Aligned structural components\nConstruction Laborers, TrueLine Services, 2006.04–2010.07\n- Assisted with basic electrical conduit placement\n- Set up ladders and basic scaffolding\nEDUCATION\nAssociate's degree, Construction Planning, Ridgeway University, 2006\n• Completed coursework in construction inspection reporting\n• Completed coursework in construction fundamentals"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "42201",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.891,
+  "n_lines": 16,
+  "mean_score": 0.9817,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KAYLA MACDONALD",
+      "score": 0.9866,
+      "box": [
+        116,
+        90,
+        461,
+        121
+      ]
+    },
+    {
+      "text": "OH, USA|+1-568-667-2309 |kayla.macdonald@example.com",
+      "score": 0.9758,
+      "box": [
+        116,
+        150,
+        700,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9813,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Advisors, 2021.01–2023.01",
+      "score": 0.9726,
+      "box": [
+        114,
+        289,
+        700,
+        314
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9736,
+      "box": [
+        125,
+        313,
+        530,
+        339
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9858,
+      "box": [
+        126,
+        339,
+        467,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Balance Financial, 2019.01–221.01",
+      "score": 0.9783,
+      "box": [
+        115,
+        382,
+        752,
+        405
+      ]
+    },
+    {
+      "text": "- Analyzed cost structures",
+      "score": 0.9818,
+      "box": [
+        125,
+        406,
+        371,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared consolidation entries",
+      "score": 0.9763,
+      "box": [
+        127,
+        432,
+        425,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Accounting, 2016.12–2019.01",
+      "score": 0.9748,
+      "box": [
+        115,
+        472,
+        701,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.985,
+      "box": [
+        126,
+        497,
+        404,
+        519
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9735,
+      "box": [
+        126,
+        521,
+        511,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Managerial Accounting, Goldenfield University, 2014",
+      "score": 0.978,
+      "box": [
+        114,
+        630,
+        711,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of documentation standards",
+      "score": 0.9898,
+      "box": [
+        133,
+        657,
+        613,
+        679
+      ]
+    },
+    {
+      "text": "• Completed coursework in professional standards",
+      "score": 0.9954,
+      "box": [
+        135,
+        682,
+        600,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "KAYLA MACDONALD\nOH, USA|+1-568-667-2309 |kayla.macdonald@example.com\nWORK HISTORY\nAccountants Auditors, ClearLedger Advisors, 2021.01–2023.01\n- Established reporting automation systems\n- Developed internal control systems\nAccountants Auditors, Accurate Balance Financial, 2019.01–221.01\n- Analyzed cost structures\n- Prepared consolidation entries\nAccountants Auditors, FairBooks Accounting, 2016.12–2019.01\n- Assisted with audit fieldwork\n- Maintained accounting software records\nEDUCATION\nBachelor's, Managerial Accounting, Goldenfield University, 2014\n• Studied fundamentals of documentation standards\n• Completed coursework in professional standards"
+}

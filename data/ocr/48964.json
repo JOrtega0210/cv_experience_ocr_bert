@@ -1,0 +1,187 @@
+{
+  "id": "48964",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.808,
+  "n_lines": 13,
+  "mean_score": 0.9834,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TROY CAMERON",
+      "score": 0.9832,
+      "box": [
+        115,
+        90,
+        393,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-570-656-6525|troy.cameron@example.com",
+      "score": 0.9884,
+      "box": [
+        115,
+        150,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Build Co., 2020.09–2023.01",
+      "score": 0.9798,
+      "box": [
+        115,
+        290,
+        683,
+        313
+      ]
+    },
+    {
+      "text": "- Developed cost estimation models",
+      "score": 0.9787,
+      "box": [
+        126,
+        315,
+        460,
+        338
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.9688,
+      "box": [
+        126,
+        339,
+        477,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronLine Contractors, 2018.04–2020.09",
+      "score": 0.9881,
+      "box": [
+        116,
+        382,
+        697,
+        405
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9681,
+      "box": [
+        126,
+        407,
+        416,
+        430
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9854,
+      "box": [
+        125,
+        430,
+        425,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Drafting Technology, Greenwood University, 2017",
+      "score": 0.9855,
+      "box": [
+        114,
+        539,
+        767,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of dust control",
+      "score": 0.9939,
+      "box": [
+        133,
+        566,
+        450,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural layout",
+      "score": 0.9804,
+      "box": [
+        133,
+        590,
+        538,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "TROY CAMERON\nTN, USA|+1-570-656-6525|troy.cameron@example.com\nWORK HISTORY\nConstruction Laborers, Precision Build Co., 2020.09–2023.01\n- Developed cost estimation models\n- Designed construction staging plans\nConstruction Laborers, IronLine Contractors, 2018.04–2020.09\n- Set up workstations for crews\n- Assisted with concrete pouring\nEDUCATION\nAssociate's degree, Drafting Technology, Greenwood University, 2017\n• Studied principles of dust control\n• Completed coursework in structural layout"
+}

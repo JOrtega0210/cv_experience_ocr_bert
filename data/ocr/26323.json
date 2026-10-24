@@ -1,0 +1,187 @@
+{
+  "id": "26323",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.869,
+  "n_lines": 13,
+  "mean_score": 0.9823,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SHAHZAD LEBLANC",
+      "score": 0.9708,
+      "box": [
+        115,
+        88,
+        451,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA|+1-260-735-6779 |shahzad.leblanc@example.com",
+      "score": 0.9843,
+      "box": [
+        115,
+        150,
+        694,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9873,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Frame Builders, 2019.10–2022.05",
+      "score": 0.9776,
+      "box": [
+        115,
+        290,
+        741,
+        312
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9639,
+      "box": [
+        127,
+        315,
+        441,
+        338
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.9972,
+      "box": [
+        128,
+        341,
+        487,
+        361
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidTrack Contractors, 2015.09–2018.04",
+      "score": 0.9879,
+      "box": [
+        116,
+        381,
+        720,
+        405
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9868,
+      "box": [
+        125,
+        406,
+        489,
+        431
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.9852,
+      "box": [
+        126,
+        431,
+        556,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Equipment Technology, Meadowcrest University, 2008",
+      "score": 0.9628,
+      "box": [
+        116,
+        540,
+        994,
+        563
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic roofing installation",
+      "score": 0.9778,
+      "box": [
+        133,
+        566,
+        612,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of structural alignment",
+      "score": 0.9907,
+      "box": [
+        132,
+        590,
+        563,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "SHAHZAD LEBLANC\nMA, USA|+1-260-735-6779 |shahzad.leblanc@example.com\nWORK HISTORY\nConstruction Laborers, Precision Frame Builders, 2019.10–2022.05\n- Led complex demolition projects\n- Established construction benchmarks\nConstruction Laborers, SolidTrack Contractors, 2015.09–2018.04\n- Performed basic plumbing assistance\n- Stacked and organized construction supplies\nEDUCATION\nSome college (no degree), Construction Equipment Technology, Meadowcrest University, 2008\n• Completed coursework in basic roofing installation\n• Studied fundamentals of structural alignment"
+}

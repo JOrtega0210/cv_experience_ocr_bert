@@ -1,0 +1,200 @@
+{
+  "id": "47460",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.846,
+  "n_lines": 14,
+  "mean_score": 0.984,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SHAYLASIMPSON",
+      "score": 0.9994,
+      "box": [
+        116,
+        90,
+        419,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-336-221-6886 |shayla.simpson@example.com",
+      "score": 0.9723,
+      "box": [
+        116,
+        151,
+        685,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9774,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Start Academy, 2020.02–2023.01",
+      "score": 0.9859,
+      "box": [
+        115,
+        289,
+        863,
+        314
+      ]
+    },
+    {
+      "text": "- Designed performance monitoring systems",
+      "score": 0.9918,
+      "box": [
+        126,
+        314,
+        539,
+        339
+      ]
+    },
+    {
+      "text": "- Directed instructional planning processes",
+      "score": 0.9867,
+      "box": [
+        126,
+        339,
+        523,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Field School, 2015.10–2018.10",
+      "score": 0.9721,
+      "box": [
+        116,
+        382,
+        800,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained classroom attendance and grading records",
+      "score": 0.9843,
+      "box": [
+        125,
+        406,
+        645,
+        431
+      ]
+    },
+    {
+      "text": "- Tracked student participation",
+      "score": 0.9689,
+      "box": [
+        126,
+        430,
+        411,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Family and Child Studies, Stonebrook University, 2004",
+      "score": 0.9875,
+      "box": [
+        115,
+        541,
+        711,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Support, Meadowland University, 2002",
+      "score": 0.9764,
+      "box": [
+        114,
+        564,
+        676,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of student assessment",
+      "score": 0.981,
+      "box": [
+        133,
+        591,
+        529,
+        614
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom assessment techniques",
+      "score": 0.9945,
+      "box": [
+        133,
+        615,
+        708,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "SHAYLASIMPSON\nSC, USA|+1-336-221-6886 |shayla.simpson@example.com\nWORK HISTORY\nElementary Middle School Teachers, Harmony Start Academy, 2020.02–2023.01\n- Designed performance monitoring systems\n- Directed instructional planning processes\nElementary Middle School Teachers, Kind Field School, 2015.10–2018.10\n- Maintained classroom attendance and grading records\n- Tracked student participation\nEDUCATION\nMaster's, Family and Child Studies, Stonebrook University, 2004\nBachelor's, Teaching Support, Meadowland University, 2002\n• Studied principles of student assessment\n• Completed coursework in classroom assessment techniques"
+}

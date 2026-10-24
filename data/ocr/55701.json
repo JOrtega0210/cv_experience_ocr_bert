@@ -1,0 +1,174 @@
+{
+  "id": "55701",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.845,
+  "n_lines": 12,
+  "mean_score": 0.9793,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JESSE BROWNING",
+      "score": 0.9913,
+      "box": [
+        115,
+        88,
+        425,
+        122
+      ]
+    },
+    {
+      "text": "UT, USA|+1-304-276-5660 |jesse.browning@example.com",
+      "score": 0.9821,
+      "box": [
+        117,
+        151,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeLine Construction, 2020.10–2023.01",
+      "score": 0.9855,
+      "box": [
+        115,
+        290,
+        724,
+        313
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.9767,
+      "box": [
+        126,
+        315,
+        436,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.9394,
+      "box": [
+        125,
+        338,
+        444,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronBuild Contractors, 2015.07–2017.11",
+      "score": 0.9772,
+      "box": [
+        115,
+        381,
+        703,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.9705,
+      "box": [
+        125,
+        406,
+        583,
+        431
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.9832,
+      "box": [
+        126,
+        432,
+        446,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Inspection, Stonefield High School, 2003",
+      "score": 0.9919,
+      "box": [
+        116,
+        541,
+        875,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction safety",
+      "score": 0.971,
+      "box": [
+        132,
+        564,
+        553,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "JESSE BROWNING\nUT, USA|+1-304-276-5660 |jesse.browning@example.com\nWORK HISTORY\nConstruction Laborers, PrimeLine Construction, 2020.10–2023.01\n- Supervised high-risk operations\n- Reviewed site inspection reports\nConstruction Laborers, IronBuild Contractors, 2015.07–2017.11\n- Assisted with basic electrical conduit placement\n- Secured materials with fasteners\nEDUCATION\nHigh school graduate/GED, Construction Inspection, Stonefield High School, 2003\n• Studied fundamentals of construction safety"
+}

@@ -1,0 +1,161 @@
+{
+  "id": "28163",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.737,
+  "n_lines": 11,
+  "mean_score": 0.9822,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KAMAL PORTER",
+      "score": 0.9863,
+      "box": [
+        116,
+        90,
+        387,
+        120
+      ]
+    },
+    {
+      "text": "MI, USA|+1-910-562-2189|kamal.porter@example.com",
+      "score": 0.9897,
+      "box": [
+        116,
+        152,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Digital, 2019.07–2022.07",
+      "score": 0.9915,
+      "box": [
+        115,
+        289,
+        651,
+        314
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9934,
+      "box": [
+        126,
+        314,
+        414,
+        339
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.9769,
+      "box": [
+        127,
+        341,
+        462,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Sunrise University, 2016",
+      "score": 0.9759,
+      "box": [
+        115,
+        449,
+        435,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Brightwood University, 2014",
+      "score": 0.9583,
+      "box": [
+        115,
+        474,
+        485,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of client-side development",
+      "score": 0.9779,
+      "box": [
+        133,
+        499,
+        599,
+        522
+      ]
+    },
+    {
+      "text": "• Completed coursework in software design patterns",
+      "score": 0.9705,
+      "box": [
+        134,
+        523,
+        617,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "KAMAL PORTER\nMI, USA|+1-910-562-2189|kamal.porter@example.com\nWORK HISTORY\nSoftware Developers, Codepath Digital, 2019.07–2022.07\n- Updated frontend stylesheets\n- Updated application dependencies\nEDUCATION\nMaster's, Sunrise University, 2016\nBachelor's, Brightwood University, 2014\n• Studied fundamentals of client-side development\n• Completed coursework in software design patterns"
+}

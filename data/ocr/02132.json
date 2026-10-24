@@ -1,0 +1,265 @@
+{
+  "id": "02132",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.051,
+  "n_lines": 19,
+  "mean_score": 0.9824,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MAGDALENA MAYO",
+      "score": 0.9843,
+      "box": [
+        116,
+        90,
+        444,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-814-300-7144 |magdalena.mayo@example.com",
+      "score": 0.9844,
+      "box": [
+        116,
+        151,
+        700,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Care Center, 2020.06–2023.01",
+      "score": 0.991,
+      "box": [
+        116,
+        290,
+        716,
+        313
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.9825,
+      "box": [
+        126,
+        313,
+        520,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.9871,
+      "box": [
+        127,
+        339,
+        569,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeHands Nursing Services, 2017.11–2020.06",
+      "score": 0.9729,
+      "box": [
+        115,
+        381,
+        733,
+        406
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9888,
+      "box": [
+        127,
+        407,
+        548,
+        430
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.9869,
+      "box": [
+        126,
+        430,
+        424,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunHands Nursing, 2013.07–2016.02",
+      "score": 0.9894,
+      "box": [
+        116,
+        472,
+        650,
+        496
+      ]
+    },
+    {
+      "text": "- Managed isolation procedures",
+      "score": 0.9684,
+      "box": [
+        125,
+        496,
+        423,
+        521
+      ]
+    },
+    {
+      "text": "- Monitored fluid and electrolyte balance",
+      "score": 0.9709,
+      "box": [
+        126,
+        521,
+        499,
+        546
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenPath Nursing Services, 2010.04–2012.11",
+      "score": 0.9852,
+      "box": [
+        116,
+        565,
+        732,
+        588
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.9933,
+      "box": [
+        126,
+        590,
+        453,
+        613
+      ]
+    },
+    {
+      "text": "- Assisted with hygiene care",
+      "score": 0.9722,
+      "box": [
+        126,
+        613,
+        391,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Biomedical Sciences, Silverton University, 2005",
+      "score": 0.9674,
+      "box": [
+        114,
+        723,
+        666,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of time management in care",
+      "score": 0.9843,
+      "box": [
+        133,
+        749,
+        578,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of stress management in care",
+      "score": 0.9728,
+      "box": [
+        133,
+        772,
+        631,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "MAGDALENA MAYO\nAR, USA|+1-814-300-7144 |magdalena.mayo@example.com\nWORK HISTORY\nRegistered Nurses, GentleHands Care Center, 2020.06–2023.01\n- Established nursing performance metrics\n- Implemented evidence-based practice models\nRegistered Nurses, LifeHands Nursing Services, 2017.11–2020.06\n- Developed clinical performance dashboards\n- Led infection control programs\nRegistered Nurses, SunHands Nursing, 2013.07–2016.02\n- Managed isolation procedures\n- Monitored fluid and electrolyte balance\nRegistered Nurses, OpenPath Nursing Services, 2010.04–2012.11\n- Documented patient observations\n- Assisted with hygiene care\nEDUCATION\nBachelor's, Biomedical Sciences, Silverton University, 2005\n• Studied principles of time management in care\n• Studied fundamentals of stress management in care"
+}

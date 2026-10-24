@@ -1,0 +1,226 @@
+{
+  "id": "11632",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.98,
+  "n_lines": 16,
+  "mean_score": 0.9848,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TIERRATUCKER",
+      "score": 0.9961,
+      "box": [
+        113,
+        87,
+        391,
+        123
+      ]
+    },
+    {
+      "text": "DE, USA|+1-673-679-5086|tierra.tucker@example.com",
+      "score": 0.9729,
+      "box": [
+        116,
+        151,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Balance Financial, 2020.04–2023.01",
+      "score": 0.9876,
+      "box": [
+        115,
+        290,
+        751,
+        312
+      ]
+    },
+    {
+      "text": "- Established audit governance structures",
+      "score": 0.9872,
+      "box": [
+        125,
+        313,
+        514,
+        339
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.978,
+      "box": [
+        127,
+        340,
+        553,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Services, 2017.07–2020.04",
+      "score": 0.9849,
+      "box": [
+        114,
+        381,
+        696,
+        406
+      ]
+    },
+    {
+      "text": "- Supervised junior accountants",
+      "score": 0.9824,
+      "box": [
+        127,
+        407,
+        423,
+        430
+      ]
+    },
+    {
+      "text": "- Managed general ledger maintenance",
+      "score": 0.9835,
+      "box": [
+        126,
+        431,
+        494,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Group, 2014.09–2017.07",
+      "score": 0.9757,
+      "box": [
+        115,
+        472,
+        662,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.985,
+      "box": [
+        126,
+        497,
+        404,
+        519
+      ]
+    },
+    {
+      "text": "- Verified transaction accuracy",
+      "score": 0.9927,
+      "box": [
+        126,
+        521,
+        411,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Quantitative Finance, Rockland University, 2017",
+      "score": 0.9813,
+      "box": [
+        114,
+        630,
+        671,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit software tools",
+      "score": 0.9796,
+      "box": [
+        133,
+        657,
+        559,
+        680
+      ]
+    },
+    {
+      "text": "• Studied principles of financial review procedures",
+      "score": 0.9854,
+      "box": [
+        134,
+        681,
+        595,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "TIERRATUCKER\nDE, USA|+1-673-679-5086|tierra.tucker@example.com\nWORK HISTORY\nAccountants Auditors, Accurate Balance Financial, 2020.04–2023.01\n- Established audit governance structures\n- Designed financial documentation standards\nAccountants Auditors, CoreLedger Services, 2017.07–2020.04\n- Supervised junior accountants\n- Managed general ledger maintenance\nAccountants Auditors, EverCount Group, 2014.09–2017.07\n- Assisted with audit fieldwork\n- Verified transaction accuracy\nEDUCATION\nBachelor's, Quantitative Finance, Rockland University, 2017\n• Studied fundamentals of audit software tools\n• Studied principles of financial review procedures"
+}

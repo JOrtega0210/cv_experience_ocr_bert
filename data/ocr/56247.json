@@ -1,0 +1,187 @@
+{
+  "id": "56247",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.841,
+  "n_lines": 13,
+  "mean_score": 0.985,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SARAH HUTCHINSON",
+      "score": 0.9867,
+      "box": [
+        116,
+        90,
+        468,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-823-544-8742 |sarah.hutchinson@example.com",
+      "score": 0.9797,
+      "box": [
+        115,
+        150,
+        699,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9777,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Sky School, 2020.06–2023.01",
+      "score": 0.9799,
+      "box": [
+        114,
+        289,
+        798,
+        314
+      ]
+    },
+    {
+      "text": "- Developed data-driven teaching models",
+      "score": 0.9915,
+      "box": [
+        126,
+        315,
+        510,
+        338
+      ]
+    },
+    {
+      "text": "- Developed long-term instructional strategies",
+      "score": 0.9856,
+      "box": [
+        126,
+        339,
+        550,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Futures School, 2014.11–2017.07",
+      "score": 0.9825,
+      "box": [
+        115,
+        381,
+        843,
+        406
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9879,
+      "box": [
+        126,
+        407,
+        409,
+        429
+      ]
+    },
+    {
+      "text": "- Prepared daily instructional agendas",
+      "score": 0.9933,
+      "box": [
+        126,
+        431,
+        479,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning and Teaching Studies, Brookfield University, 2003",
+      "score": 0.9676,
+      "box": [
+        114,
+        539,
+        775,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of science education",
+      "score": 0.9878,
+      "box": [
+        132,
+        564,
+        547,
+        588
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of numeracy development",
+      "score": 0.9868,
+      "box": [
+        133,
+        590,
+        597,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "SARAH HUTCHINSON\nVA, USA|+1-823-544-8742 |sarah.hutchinson@example.com\nWORK HISTORY\nElementary Middle School Teachers, Open Sky School, 2020.06–2023.01\n- Developed data-driven teaching models\n- Developed long-term instructional strategies\nElementary Middle School Teachers, Sunny Futures School, 2014.11–2017.07\n- Provided math drill exercises\n- Prepared daily instructional agendas\nEDUCATION\nBachelor's, Learning and Teaching Studies, Brookfield University, 2003\n• Studied fundamentals of science education\n• Studied fundamentals of numeracy development"
+}

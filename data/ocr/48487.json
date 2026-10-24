@@ -1,0 +1,148 @@
+{
+  "id": "48487",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.743,
+  "n_lines": 10,
+  "mean_score": 0.9847,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "STEPHANIE KNAPP",
+      "score": 0.9888,
+      "box": [
+        116,
+        90,
+        435,
+        120
+      ]
+    },
+    {
+      "text": "TN, USA|+1-252-343-4581 |stephanie.knapp@example.com",
+      "score": 0.9834,
+      "box": [
+        115,
+        150,
+        693,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9832,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, CareBridge Health Services, 2020.08–2023.01",
+      "score": 0.9934,
+      "box": [
+        116,
+        290,
+        732,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9842,
+      "box": [
+        126,
+        314,
+        514,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9882,
+      "box": [
+        126,
+        339,
+        479,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Life Sciences, Elmwood University, 2021",
+      "score": 0.968,
+      "box": [
+        115,
+        449,
+        601,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of respiratory nursing",
+      "score": 0.9813,
+      "box": [
+        132,
+        472,
+        552,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of end-of-life care",
+      "score": 0.9775,
+      "box": [
+        133,
+        497,
+        518,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "STEPHANIE KNAPP\nTN, USA|+1-252-343-4581 |stephanie.knapp@example.com\nWORK HISTORY\nRegistered Nurses, CareBridge Health Services, 2020.08–2023.01\n- Assisted with physical therapy exercises\n- Prepared medical equipment for use\nEDUCATION\nBachelor's, Life Sciences, Elmwood University, 2021\n• Studied fundamentals of respiratory nursing\n• Studied fundamentals of end-of-life care"
+}

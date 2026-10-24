@@ -1,0 +1,187 @@
+{
+  "id": "47420",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.903,
+  "n_lines": 13,
+  "mean_score": 0.9785,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KATRINA DENNIS",
+      "score": 0.9727,
+      "box": [
+        116,
+        90,
+        404,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-712-334-9848 |katrina.dennis@example.com",
+      "score": 0.9679,
+      "box": [
+        116,
+        151,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9755,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, SunnySteps School, 2019.12–2022.02",
+      "score": 0.9713,
+      "box": [
+        116,
+        290,
+        820,
+        313
+      ]
+    },
+    {
+      "text": "- Designed instructional accountability systems",
+      "score": 0.9921,
+      "box": [
+        126,
+        314,
+        563,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented instructional improvement programs",
+      "score": 0.969,
+      "box": [
+        126,
+        339,
+        600,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Meadow Academy, 2017.02–2019.04",
+      "score": 0.9867,
+      "box": [
+        115,
+        381,
+        875,
+        406
+      ]
+    },
+    {
+      "text": "- Updated student performance logs",
+      "score": 0.9663,
+      "box": [
+        127,
+        408,
+        462,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented classroom seating plans",
+      "score": 0.9925,
+      "box": [
+        126,
+        431,
+        492,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9978,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Child and Youth Studies, Redwood University, 2002",
+      "score": 0.9631,
+      "box": [
+        114,
+        539,
+        705,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson structure design",
+      "score": 0.9898,
+      "box": [
+        133,
+        565,
+        603,
+        588
+      ]
+    },
+    {
+      "text": "• Completed coursework in student progress monitoring",
+      "score": 0.976,
+      "box": [
+        134,
+        590,
+        647,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KATRINA DENNIS\nSC, USA|+1-712-334-9848 |katrina.dennis@example.com\nWORK HISTORY\nElementary Middle School Teachers, SunnySteps School, 2019.12–2022.02\n- Designed instructional accountability systems\n- Implemented instructional improvement programs\nElementary Middle School Teachers, Future Meadow Academy, 2017.02–2019.04\n- Updated student performance logs\n- Implemented classroom seating plans\nEDUCATION\nBachelor's, Child and Youth Studies, Redwood University, 2002\n• Completed coursework in lesson structure design\n• Completed coursework in student progress monitoring"
+}

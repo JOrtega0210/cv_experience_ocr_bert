@@ -1,0 +1,265 @@
+{
+  "id": "01565",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.051,
+  "n_lines": 19,
+  "mean_score": 0.9806,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NANCY SIMMONS",
+      "score": 0.9688,
+      "box": [
+        116,
+        90,
+        406,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-247-540-9458|nancy.simmons@example.com",
+      "score": 0.9867,
+      "box": [
+        116,
+        152,
+        684,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellBridge Medical Group, 2020.03–2023.01",
+      "score": 0.9641,
+      "box": [
+        115,
+        289,
+        716,
+        314
+      ]
+    },
+    {
+      "text": "– Managed clinical data analysis",
+      "score": 0.9467,
+      "box": [
+        127,
+        315,
+        426,
+        338
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.9842,
+      "box": [
+        126,
+        339,
+        520,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellSpring Nursing Services, 2017.04–2020.03",
+      "score": 0.9652,
+      "box": [
+        115,
+        381,
+        740,
+        406
+      ]
+    },
+    {
+      "text": "- Established quality assurance systems",
+      "score": 0.9882,
+      "box": [
+        126,
+        406,
+        501,
+        432
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.9736,
+      "box": [
+        126,
+        431,
+        458,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Hands Health Services, 2014.05–2017.04",
+      "score": 0.9904,
+      "box": [
+        116,
+        472,
+        779,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed care plan outcomes",
+      "score": 0.9861,
+      "box": [
+        125,
+        496,
+        423,
+        521
+      ]
+    },
+    {
+      "text": "- Administered chemotherapy protocols",
+      "score": 0.9889,
+      "box": [
+        126,
+        521,
+        492,
+        546
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunHands Nursing, 2009.06–2012.05",
+      "score": 0.9886,
+      "box": [
+        116,
+        565,
+        651,
+        588
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.9898,
+      "box": [
+        125,
+        589,
+        418,
+        614
+      ]
+    },
+    {
+      "text": "- Monitored patient recovery",
+      "score": 0.963,
+      "box": [
+        126,
+        614,
+        390,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Sciences, Greenwood Ridge University, 2001",
+      "score": 0.9829,
+      "box": [
+        114,
+        723,
+        789,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in suctioning techniques",
+      "score": 0.992,
+      "box": [
+        133,
+        749,
+        591,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in transition of care basics",
+      "score": 0.9876,
+      "box": [
+        136,
+        775,
+        608,
+        795
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "NANCY SIMMONS\nAZ, USA|+1-247-540-9458|nancy.simmons@example.com\nWORK HISTORY\nRegistered Nurses, WellBridge Medical Group, 2020.03–2023.01\n– Managed clinical data analysis\n- Established nursing performance metrics\nRegistered Nurses, WellSpring Nursing Services, 2017.04–2020.03\n- Established quality assurance systems\n- Developed patient care algorithms\nRegistered Nurses, Harmony Hands Health Services, 2014.05–2017.04\n- Reviewed care plan outcomes\n- Administered chemotherapy protocols\nRegistered Nurses, SunHands Nursing, 2009.06–2012.05\n- Provided post-procedure care\n- Monitored patient recovery\nEDUCATION\nAssociate's degree, Health Sciences, Greenwood Ridge University, 2001\n• Completed coursework in suctioning techniques\n• Completed coursework in transition of care basics"
+}

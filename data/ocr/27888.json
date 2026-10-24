@@ -1,0 +1,213 @@
+{
+  "id": "27888",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.841,
+  "n_lines": 15,
+  "mean_score": 0.9791,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RAYMOND CARPENTER",
+      "score": 0.9789,
+      "box": [
+        116,
+        90,
+        507,
+        120
+      ]
+    },
+    {
+      "text": "MI, USA|+1-836-332-2376 |raymond.carpenter@example.com",
+      "score": 0.9762,
+      "box": [
+        115,
+        150,
+        710,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureBuild Group, 2020.07–2023.01",
+      "score": 0.9811,
+      "box": [
+        114,
+        288,
+        660,
+        314
+      ]
+    },
+    {
+      "text": "- Directed site safety audits",
+      "score": 0.9763,
+      "box": [
+        125,
+        314,
+        381,
+        337
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9907,
+      "box": [
+        126,
+        339,
+        487,
+        362
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildLine Co., 2018.01–2020.07",
+      "score": 0.9927,
+      "box": [
+        116,
+        382,
+        633,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared site reports",
+      "score": 0.9633,
+      "box": [
+        126,
+        406,
+        338,
+        432
+      ]
+    },
+    {
+      "text": "- Operated power tools independently",
+      "score": 0.9687,
+      "box": [
+        126,
+        431,
+        477,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWay Contractors, 2015.06–2018.01",
+      "score": 0.9851,
+      "box": [
+        115,
+        471,
+        708,
+        496
+      ]
+    },
+    {
+      "text": "-Maintained cleanliness of work areas",
+      "score": 0.9688,
+      "box": [
+        125,
+        496,
+        485,
+        521
+      ]
+    },
+    {
+      "text": "- Moved equipment between work zones",
+      "score": 0.9451,
+      "box": [
+        126,
+        521,
+        504,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Carpentry, North Ridge High School, 2013",
+      "score": 0.989,
+      "box": [
+        116,
+        633,
+        768,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of construction record keeping",
+      "score": 0.9877,
+      "box": [
+        132,
+        656,
+        598,
+        682
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "RAYMOND CARPENTER\nMI, USA|+1-836-332-2376 |raymond.carpenter@example.com\nWORK HISTORY\nConstruction Laborers, SureBuild Group, 2020.07–2023.01\n- Directed site safety audits\n- Reviewed compliance documentation\nConstruction Laborers, BuildLine Co., 2018.01–2020.07\n- Prepared site reports\n- Operated power tools independently\nConstruction Laborers, SolidWay Contractors, 2015.06–2018.01\n-Maintained cleanliness of work areas\n- Moved equipment between work zones\nEDUCATION\nHigh school graduate/GED, Carpentry, North Ridge High School, 2013\n• Studied principles of construction record keeping"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "25571",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.834,
+  "n_lines": 13,
+  "mean_score": 0.9813,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARIA CONWAY",
+      "score": 0.9701,
+      "box": [
+        116,
+        90,
+        390,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-778-287-6465 |maria.conway@example.com",
+      "score": 0.9834,
+      "box": [
+        115,
+        150,
+        672,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.98,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewWay Health Group, 2020.12–2022.06",
+      "score": 0.99,
+      "box": [
+        115,
+        289,
+        689,
+        314
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.9884,
+      "box": [
+        127,
+        315,
+        392,
+        338
+      ]
+    },
+    {
+      "text": "- Managed patient safety reporting systems",
+      "score": 0.9702,
+      "box": [
+        127,
+        339,
+        530,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewPath Care Center, 2017.11–2019.06",
+      "score": 0.9876,
+      "box": [
+        116,
+        382,
+        680,
+        405
+      ]
+    },
+    {
+      "text": "- Monitored intravenous lines",
+      "score": 0.9791,
+      "box": [
+        126,
+        407,
+        398,
+        430
+      ]
+    },
+    {
+      "text": "- Monitored patient skin condition",
+      "score": 0.9833,
+      "box": [
+        127,
+        432,
+        436,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Support Services, Hawthorne University, 2009",
+      "score": 0.9768,
+      "box": [
+        114,
+        539,
+        719,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in medical terminology",
+      "score": 0.9792,
+      "box": [
+        133,
+        565,
+        574,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of population health",
+      "score": 0.9709,
+      "box": [
+        134,
+        591,
+        500,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "MARIA CONWAY\nMA, USA|+1-778-287-6465 |maria.conway@example.com\nWORK HISTORY\nRegistered Nurses, NewWay Health Group, 2020.12–2022.06\n- Led nursing process audits\n- Managed patient safety reporting systems\nRegistered Nurses, NewPath Care Center, 2017.11–2019.06\n- Monitored intravenous lines\n- Monitored patient skin condition\nEDUCATION\nBachelor's, Health Support Services, Hawthorne University, 2009\n• Completed coursework in medical terminology\n• Studied principles of population health"
+}

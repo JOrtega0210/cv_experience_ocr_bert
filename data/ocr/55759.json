@@ -1,0 +1,187 @@
+{
+  "id": "55759",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.885,
+  "n_lines": 13,
+  "mean_score": 0.98,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MINERVA STANTON",
+      "score": 0.9749,
+      "box": [
+        117,
+        90,
+        443,
+        121
+      ]
+    },
+    {
+      "text": "UT, USA|+1-617-456-4780 |minerva.stanton@example.com",
+      "score": 0.9898,
+      "box": [
+        115,
+        150,
+        689,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9743,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Hills School, 2021.06–202.01",
+      "score": 0.9704,
+      "box": [
+        114,
+        289,
+        812,
+        313
+      ]
+    },
+    {
+      "text": "- Established instructional leadership protocols",
+      "score": 0.9915,
+      "box": [
+        125,
+        313,
+        560,
+        338
+      ]
+    },
+    {
+      "text": "- Developed district-aligned lesson frameworks",
+      "score": 0.982,
+      "box": [
+        127,
+        340,
+        562,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Horizons School, 2019.10–2021.06",
+      "score": 0.9816,
+      "box": [
+        115,
+        381,
+        876,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.9588,
+      "box": [
+        126,
+        407,
+        411,
+        429
+      ]
+    },
+    {
+      "text": "- Assisted with small group instruction activities",
+      "score": 0.959,
+      "box": [
+        127,
+        432,
+        564,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9978,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Instructional Studies, Hawthorne University, 2022",
+      "score": 0.9715,
+      "box": [
+        115,
+        541,
+        681,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional objectives",
+      "score": 0.9973,
+      "box": [
+        133,
+        565,
+        589,
+        588
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of lesson goal alignment",
+      "score": 0.9905,
+      "box": [
+        134,
+        590,
+        582,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "MINERVA STANTON\nUT, USA|+1-617-456-4780 |minerva.stanton@example.com\nWORK HISTORY\nElementary Middle School Teachers, Caring Hills School, 2021.06–202.01\n- Established instructional leadership protocols\n- Developed district-aligned lesson frameworks\nElementary Middle School Teachers, Learning Horizons School, 2019.10–2021.06\n- Reviewed curriculum content\n- Assisted with small group instruction activities\nEDUCATION\nBachelor's, Instructional Studies, Hawthorne University, 2022\n• Studied fundamentals of instructional objectives\n• Studied fundamentals of lesson goal alignment"
+}

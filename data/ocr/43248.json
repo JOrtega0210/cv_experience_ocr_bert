@@ -1,0 +1,187 @@
+{
+  "id": "43248",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.833,
+  "n_lines": 13,
+  "mean_score": 0.9806,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MILAD DANIELS",
+      "score": 0.9809,
+      "box": [
+        116,
+        90,
+        380,
+        121
+      ]
+    },
+    {
+      "text": "OH, USA|+1-438-592-8204 |milad.daniels@example.com",
+      "score": 0.978,
+      "box": [
+        115,
+        150,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmBuild Services, 2019.08–2021.04",
+      "score": 0.9684,
+      "box": [
+        114,
+        289,
+        683,
+        313
+      ]
+    },
+    {
+      "text": "- Established project documentation systems",
+      "score": 0.9695,
+      "box": [
+        125,
+        313,
+        544,
+        339
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.9749,
+      "box": [
+        127,
+        340,
+        462,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWorks Builders, 2016.09–2018.05",
+      "score": 0.9655,
+      "box": [
+        115,
+        381,
+        696,
+        405
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.985,
+      "box": [
+        125,
+        405,
+        492,
+        432
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9741,
+      "box": [
+        126,
+        430,
+        426,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Planning, Sunrise University, 2014",
+      "score": 0.9975,
+      "box": [
+        116,
+        541,
+        747,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction site organization",
+      "score": 0.991,
+      "box": [
+        133,
+        566,
+        659,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in building codes overview",
+      "score": 0.9811,
+      "box": [
+        134,
+        591,
+        612,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "MILAD DANIELS\nOH, USA|+1-438-592-8204 |milad.daniels@example.com\nWORK HISTORY\nConstruction Laborers, FirmBuild Services, 2019.08–2021.04\n- Established project documentation systems\n- Designed site logistics frameworks\nConstruction Laborers, SolidWorks Builders, 2016.09–2018.05\n- Performed basic sanding and painting\n- Prepared scaffolding platforms\nEDUCATION\nAssociate's degree, Construction Planning, Sunrise University, 2014\n• Completed coursework in construction site organization\n• Completed coursework in building codes overview"
+}

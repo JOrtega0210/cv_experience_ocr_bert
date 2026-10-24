@@ -1,0 +1,187 @@
+{
+  "id": "33293",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.823,
+  "n_lines": 13,
+  "mean_score": 0.9801,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SOLOMON CHAMBERS",
+      "score": 0.9692,
+      "box": [
+        116,
+        90,
+        491,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-378-803-6059 | solomon.chambers@example.com",
+      "score": 0.9775,
+      "box": [
+        116,
+        152,
+        714,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9778,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Advisors, 2020.02–2023.01",
+      "score": 0.9895,
+      "box": [
+        115,
+        289,
+        724,
+        313
+      ]
+    },
+    {
+      "text": "- Established audit governance structures",
+      "score": 0.9866,
+      "box": [
+        125,
+        313,
+        514,
+        339
+      ]
+    },
+    {
+      "text": "- Designed financial modeling standards",
+      "score": 0.9803,
+      "box": [
+        127,
+        340,
+        500,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Financial, 2017.03–2020.02",
+      "score": 0.9804,
+      "box": [
+        115,
+        382,
+        725,
+        405
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9744,
+      "box": [
+        125,
+        406,
+        490,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedures",
+      "score": 0.9815,
+      "box": [
+        127,
+        432,
+        507,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Auditing, Stone Valley University, 221",
+      "score": 0.9663,
+      "box": [
+        114,
+        539,
+        584,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial disclosure",
+      "score": 0.9783,
+      "box": [
+        134,
+        566,
+        566,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of statistics for business",
+      "score": 0.981,
+      "box": [
+        134,
+        592,
+        577,
+        612
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "SOLOMON CHAMBERS\nNJ, USA|+1-378-803-6059 | solomon.chambers@example.com\nWORK HISTORY\nAccountants Auditors, Precise Ledger Advisors, 2020.02–2023.01\n- Established audit governance structures\n- Designed financial modeling standards\nAccountants Auditors, Balanced Path Financial, 2017.03–2020.02\n- Processed accounts payable invoices\n- Assisted with monthly close procedures\nEDUCATION\nBachelor's, Auditing, Stone Valley University, 221\n• Completed coursework in financial disclosure\n• Studied fundamentals of statistics for business"
+}

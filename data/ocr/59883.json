@@ -1,0 +1,239 @@
+{
+  "id": "59883",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.838,
+  "n_lines": 17,
+  "mean_score": 0.9823,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TIMOTHY GILLESPIE",
+      "score": 0.9714,
+      "box": [
+        115,
+        90,
+        451,
+        120
+      ]
+    },
+    {
+      "text": "WA, USA|+1-204-961-3758|timothy.gillespie@example.com",
+      "score": 0.9851,
+      "box": [
+        115,
+        150,
+        694,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Tech, 2020.07–2023.01",
+      "score": 0.9867,
+      "box": [
+        116,
+        290,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9905,
+      "box": [
+        126,
+        314,
+        450,
+        339
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.984,
+      "box": [
+        126,
+        339,
+        469,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Openline Labs, 2017.03–2019.10",
+      "score": 0.9891,
+      "box": [
+        115,
+        381,
+        631,
+        406
+      ]
+    },
+    {
+      "text": "- Handled schema migrations",
+      "score": 0.9864,
+      "box": [
+        125,
+        406,
+        402,
+        431
+      ]
+    },
+    {
+      "text": "- Designed integration tests",
+      "score": 0.9711,
+      "box": [
+        126,
+        430,
+        384,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Labs, 2013.06–2016.01",
+      "score": 0.9832,
+      "box": [
+        116,
+        472,
+        640,
+        495
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9749,
+      "box": [
+        126,
+        498,
+        604,
+        521
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.9636,
+      "box": [
+        125,
+        521,
+        332,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Greenwood Ridge University, 2007",
+      "score": 0.979,
+      "box": [
+        115,
+        632,
+        531,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Brookhaven University, 2005",
+      "score": 0.9771,
+      "box": [
+        115,
+        657,
+        493,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in software lifecycle models",
+      "score": 0.9881,
+      "box": [
+        134,
+        683,
+        621,
+        706
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of refactoring techniques",
+      "score": 0.9888,
+      "box": [
+        132,
+        706,
+        585,
+        731
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "TIMOTHY GILLESPIE\nWA, USA|+1-204-961-3758|timothy.gillespie@example.com\nWORK HISTORY\nSoftware Developers, Codefield Tech, 2020.07–2023.01\n- Defined data governance policies\n- Led backend platform development\nSoftware Developers, Openline Labs, 2017.03–2019.10\n- Handled schema migrations\n- Designed integration tests\nSoftware Developers, Corewave Labs, 2013.06–2016.01\n- Implemented basic features in existing codebases\n- Handled file uploads\nEDUCATION\nMaster's, Greenwood Ridge University, 2007\nBachelor's, Brookhaven University, 2005\n• Completed coursework in software lifecycle models\n• Studied fundamentals of refactoring techniques"
+}

@@ -1,0 +1,200 @@
+{
+  "id": "46871",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.819,
+  "n_lines": 14,
+  "mean_score": 0.9837,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CHELSEA CROSS",
+      "score": 0.9769,
+      "box": [
+        117,
+        90,
+        406,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-613-900-3278|chelsea.cross@example.com",
+      "score": 0.9909,
+      "box": [
+        115,
+        150,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9791,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, CarePath Academy, 2020.03–2023.01",
+      "score": 0.9854,
+      "box": [
+        115,
+        289,
+        816,
+        314
+      ]
+    },
+    {
+      "text": "- Established instructional best practices",
+      "score": 0.9808,
+      "box": [
+        125,
+        313,
+        502,
+        338
+      ]
+    },
+    {
+      "text": "- Established data reporting standards",
+      "score": 0.9898,
+      "box": [
+        126,
+        339,
+        482,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Path Academy, 2017.04–2020.03",
+      "score": 0.9854,
+      "box": [
+        115,
+        381,
+        863,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed homework assignments",
+      "score": 0.9895,
+      "box": [
+        125,
+        406,
+        459,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.9666,
+      "box": [
+        126,
+        430,
+        399,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Human Development, Fairview University, 2022",
+      "score": 0.9875,
+      "box": [
+        115,
+        541,
+        648,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Support, Heritage University, 2020",
+      "score": 0.9725,
+      "box": [
+        115,
+        566,
+        636,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional objectives",
+      "score": 0.9872,
+      "box": [
+        132,
+        590,
+        589,
+        614
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic curriculum planning",
+      "score": 0.9822,
+      "box": [
+        133,
+        615,
+        624,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "CHELSEA CROSS\nPA, USA|+1-613-900-3278|chelsea.cross@example.com\nWORK HISTORY\nElementary Middle School Teachers, CarePath Academy, 2020.03–2023.01\n- Established instructional best practices\n- Established data reporting standards\nElementary Middle School Teachers, Harmony Path Academy, 2017.04–2020.03\n- Reviewed homework assignments\n- Conducted spelling practice\nEDUCATION\nMaster's, Human Development, Fairview University, 2022\nBachelor's, Teaching Support, Heritage University, 2020\n• Studied fundamentals of instructional objectives\n• Completed coursework in basic curriculum planning"
+}

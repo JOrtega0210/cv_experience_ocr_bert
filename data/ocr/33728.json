@@ -1,0 +1,148 @@
+{
+  "id": "33728",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.738,
+  "n_lines": 10,
+  "mean_score": 0.9831,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LUTHER KOCH",
+      "score": 0.9765,
+      "box": [
+        116,
+        90,
+        361,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-630-822-7640 |luther.koch@example.com",
+      "score": 0.9776,
+      "box": [
+        116,
+        151,
+        639,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9826,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Group, 2020.05–2023.01",
+      "score": 0.973,
+      "box": [
+        114,
+        289,
+        663,
+        313
+      ]
+    },
+    {
+      "text": "- Updated fixed asset registers",
+      "score": 0.9746,
+      "box": [
+        126,
+        314,
+        414,
+        339
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.9765,
+      "box": [
+        126,
+        339,
+        420,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Management, Brookridge University, 2023",
+      "score": 0.9947,
+      "box": [
+        115,
+        449,
+        705,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting theory",
+      "score": 0.9922,
+      "box": [
+        133,
+        473,
+        555,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in trial balance preparation",
+      "score": 0.9846,
+      "box": [
+        133,
+        497,
+        614,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "LUTHER KOCH\nNJ, USA|+1-630-822-7640 |luther.koch@example.com\nWORK HISTORY\nAccountants Auditors, FairLedger Group, 2020.05–2023.01\n- Updated fixed asset registers\n- Reconciled subsidiary ledgers\nEDUCATION\nBachelor's, Business Management, Brookridge University, 2023\n• Completed coursework in accounting theory\n• Completed coursework in trial balance preparation"
+}

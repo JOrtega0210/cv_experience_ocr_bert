@@ -1,0 +1,187 @@
+{
+  "id": "10744",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.891,
+  "n_lines": 13,
+  "mean_score": 0.9762,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANGEL DUNN",
+      "score": 0.9922,
+      "box": [
+        117,
+        90,
+        341,
+        121
+      ]
+    },
+    {
+      "text": "CO, USA|+1-926-679-9905 |angel.dunn@example.com",
+      "score": 0.9609,
+      "box": [
+        116,
+        150,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Group, 2021.05–202.01",
+      "score": 0.9773,
+      "box": [
+        114,
+        289,
+        665,
+        313
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9573,
+      "box": [
+        125,
+        313,
+        504,
+        339
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9593,
+      "box": [
+        126,
+        338,
+        323,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Group, 2019.08–2021.05",
+      "score": 0.9951,
+      "box": [
+        115,
+        382,
+        669,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.9711,
+      "box": [
+        125,
+        406,
+        423,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared expense reports",
+      "score": 0.9638,
+      "box": [
+        126,
+        430,
+        384,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Statistics, Highland University, 2018",
+      "score": 0.9618,
+      "box": [
+        114,
+        539,
+        559,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in nonprofit financial management",
+      "score": 0.9817,
+      "box": [
+        132,
+        565,
+        681,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial controls",
+      "score": 0.9857,
+      "box": [
+        133,
+        590,
+        544,
+        613
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ANGEL DUNN\nCO, USA|+1-926-679-9905 |angel.dunn@example.com\nWORK HISTORY\nAccountants Auditors, TrustCount Group, 2021.05–202.01\n- Established cost management systems\n- Led audit programs\nAccountants Auditors, ClearCount Group, 2019.08–2021.05\n- Assisted with inventory counts\n- Prepared expense reports\nEDUCATION\nBachelor's, Statistics, Highland University, 2018\n• Completed coursework in nonprofit financial management\n• Completed coursework in financial controls"
+}

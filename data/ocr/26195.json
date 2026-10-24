@@ -1,0 +1,187 @@
+{
+  "id": "26195",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.776,
+  "n_lines": 13,
+  "mean_score": 0.9829,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "WILLIAM CHAN",
+      "score": 0.9828,
+      "box": [
+        116,
+        90,
+        367,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-805-341-5176 |william.chan@example.com",
+      "score": 0.9819,
+      "box": [
+        115,
+        150,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softpath Labs, 2021.02–2023.01",
+      "score": 0.9844,
+      "box": [
+        115,
+        290,
+        624,
+        313
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9758,
+      "box": [
+        125,
+        313,
+        452,
+        339
+      ]
+    },
+    {
+      "text": "- Designed Cl/CD frameworks",
+      "score": 0.9766,
+      "box": [
+        127,
+        340,
+        407,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Softpath Labs, 2019.02–2021.02",
+      "score": 0.986,
+      "box": [
+        115,
+        381,
+        625,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.9659,
+      "box": [
+        125,
+        406,
+        355,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented basic authentication logic",
+      "score": 0.9794,
+      "box": [
+        126,
+        430,
+        502,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Riverwood University, 2020",
+      "score": 0.9796,
+      "box": [
+        114,
+        539,
+        480,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in fault tolerance",
+      "score": 0.9941,
+      "box": [
+        134,
+        566,
+        521,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of domain-driven design",
+      "score": 0.9876,
+      "box": [
+        133,
+        591,
+        578,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "WILLIAM CHAN\nMA, USA|+1-805-341-5176 |william.chan@example.com\nWORK HISTORY\nSoftware Developers, Softpath Labs, 2021.02–2023.01\n- Defined data governance policies\n- Designed Cl/CD frameworks\nSoftware Developers, Softpath Labs, 2019.02–2021.02\n- Reviewed error reports\n- Implemented basic authentication logic\nEDUCATION\nBachelor's, Riverwood University, 2020\n• Completed coursework in fault tolerance\n• Studied fundamentals of domain-driven design"
+}

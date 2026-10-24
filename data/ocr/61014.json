@@ -1,0 +1,226 @@
+{
+  "id": "61014",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.877,
+  "n_lines": 16,
+  "mean_score": 0.9842,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RYAN GOLDEN",
+      "score": 0.9674,
+      "box": [
+        116,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-257-530-8050|ryan.golden@example.com",
+      "score": 0.9782,
+      "box": [
+        115,
+        150,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Advisors Group, 2020.11–2023.01",
+      "score": 0.9932,
+      "box": [
+        115,
+        290,
+        770,
+        313
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9863,
+      "box": [
+        126,
+        314,
+        361,
+        339
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9744,
+      "box": [
+        126,
+        339,
+        424,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Co., 2018.09–2020.11",
+      "score": 0.9863,
+      "box": [
+        115,
+        382,
+        661,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed balance sheet accounts",
+      "score": 0.9806,
+      "box": [
+        126,
+        407,
+        458,
+        429
+      ]
+    },
+    {
+      "text": "- Managed accounts receivable cycles",
+      "score": 0.9873,
+      "box": [
+        126,
+        431,
+        483,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Fairview Financial Services, 2014.04–2016.06",
+      "score": 0.9925,
+      "box": [
+        115,
+        472,
+        753,
+        495
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.9782,
+      "box": [
+        125,
+        496,
+        410,
+        521
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9828,
+      "box": [
+        126,
+        521,
+        371,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Accounting, Crestview University, 22",
+      "score": 0.9821,
+      "box": [
+        114,
+        631,
+        677,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of taxation",
+      "score": 0.9903,
+      "box": [
+        132,
+        656,
+        416,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in internal auditing",
+      "score": 0.982,
+      "box": [
+        134,
+        681,
+        536,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "RYAN GOLDEN\nWI, USA|+1-257-530-8050|ryan.golden@example.com\nWORK HISTORY\nAccountants Auditors, SolidBalance Advisors Group, 2020.11–2023.01\n- Designed tax strategies\n- Designed audit methodologies\nAccountants Auditors, Reliable Path Co., 2018.09–2020.11\n- Reviewed balance sheet accounts\n- Managed accounts receivable cycles\nAccountants Auditors, Fairview Financial Services, 2014.04–2016.06\n- Prepared audit confirmations\n- Compiled audit evidence\nEDUCATION\nBachelor's, Financial Accounting, Crestview University, 22\n• Studied principles of taxation\n• Completed coursework in internal auditing"
+}

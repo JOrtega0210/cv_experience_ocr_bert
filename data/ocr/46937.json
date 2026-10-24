@@ -1,0 +1,174 @@
+{
+  "id": "46937",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.836,
+  "n_lines": 12,
+  "mean_score": 0.9819,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "STEPHEN SUMMERS",
+      "score": 0.9697,
+      "box": [
+        116,
+        90,
+        455,
+        120
+      ]
+    },
+    {
+      "text": "PA, USA|+1-783-407-6881 |stephen.summers@example.com",
+      "score": 0.9841,
+      "box": [
+        115,
+        150,
+        706,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9798,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Works, 2021.03–2023.01",
+      "score": 0.988,
+      "box": [
+        114,
+        289,
+        647,
+        313
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9912,
+      "box": [
+        126,
+        315,
+        458,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.9699,
+      "box": [
+        126,
+        339,
+        532,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyFrame Builders, 2018.04–2020.02",
+      "score": 0.9811,
+      "box": [
+        116,
+        382,
+        715,
+        405
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9578,
+      "box": [
+        125,
+        406,
+        332,
+        432
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.992,
+      "box": [
+        127,
+        433,
+        366,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Estimating, Stone Valley High School, 1997",
+      "score": 0.9785,
+      "box": [
+        116,
+        541,
+        903,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural reinforcement methods",
+      "score": 0.9921,
+      "box": [
+        135,
+        567,
+        694,
+        587
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "STEPHEN SUMMERS\nPA, USA|+1-783-407-6881 |stephen.summers@example.com\nWORK HISTORY\nConstruction Laborers, Reliable Works, 2021.03–2023.01\n- Developed construction standards\n- Implemented safety compliance strategies\nConstruction Laborers, SteadyFrame Builders, 2018.04–2020.02\n- Secured site fencing\n- Installed basic formwork\nEDUCATION\nHigh school graduate/GED, Construction Estimating, Stone Valley High School, 1997\n• Completed coursework in structural reinforcement methods"
+}

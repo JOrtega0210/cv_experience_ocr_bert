@@ -1,0 +1,265 @@
+{
+  "id": "15686",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.027,
+  "n_lines": 19,
+  "mean_score": 0.9787,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JESSICA ESTES",
+      "score": 0.9887,
+      "box": [
+        116,
+        90,
+        380,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-757-632-1408 |jessica.estes@example.com",
+      "score": 0.9696,
+      "box": [
+        116,
+        151,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9884,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Path Medical, 2020.03–2023.01",
+      "score": 0.9885,
+      "box": [
+        116,
+        290,
+        716,
+        313
+      ]
+    },
+    {
+      "text": "- Designed clinical documentation standards",
+      "score": 0.9932,
+      "box": [
+        126,
+        315,
+        539,
+        338
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.9725,
+      "box": [
+        127,
+        340,
+        392,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellWay Medical Group, 2017.05–220.03",
+      "score": 0.9649,
+      "box": [
+        115,
+        381,
+        699,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.9905,
+      "box": [
+        126,
+        406,
+        517,
+        432
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.9717,
+      "box": [
+        126,
+        430,
+        424,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Touch Health, 2014.06–2017.05",
+      "score": 0.9941,
+      "box": [
+        116,
+        472,
+        668,
+        496
+      ]
+    },
+    {
+      "text": "- Developed patient care plans",
+      "score": 0.96,
+      "box": [
+        125,
+        496,
+        413,
+        522
+      ]
+    },
+    {
+      "text": "- Managed patient referrals",
+      "score": 0.9778,
+      "box": [
+        126,
+        521,
+        380,
+        546
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueWell Nursing, 2011.07–2014.06",
+      "score": 0.9855,
+      "box": [
+        116,
+        565,
+        637,
+        588
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9605,
+      "box": [
+        125,
+        589,
+        435,
+        614
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9757,
+      "box": [
+        127,
+        615,
+        399,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Health Sciences, Fairview University, 2009",
+      "score": 0.981,
+      "box": [
+        114,
+        723,
+        697,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in care plan development",
+      "score": 0.9549,
+      "box": [
+        132,
+        748,
+        601,
+        771
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of end-of-life care",
+      "score": 0.9789,
+      "box": [
+        133,
+        772,
+        519,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "JESSICA ESTES\nGA, USA |+1-757-632-1408 |jessica.estes@example.com\nWORK HISTORY\nRegistered Nurses, Compassion Path Medical, 2020.03–2023.01\n- Designed clinical documentation standards\n- Led nursing process audits\nRegistered Nurses, WellWay Medical Group, 2017.05–220.03\n- Implemented patient monitoring systems\n- Led infection control programs\nRegistered Nurses, Caring Touch Health, 2014.06–2017.05\n- Developed patient care plans\n- Managed patient referrals\nRegistered Nurses, TrueWell Nursing, 2011.07–2014.06\n- Monitored patient dietary needs\n- Recorded patient vital signs\nEDUCATION\nBachelor's, Applied Health Sciences, Fairview University, 2009\n• Completed coursework in care plan development\n• Studied fundamentals of end-of-life care"
+}

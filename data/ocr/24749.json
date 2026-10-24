@@ -1,0 +1,226 @@
+{
+  "id": "24749",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.919,
+  "n_lines": 16,
+  "mean_score": 0.9773,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JENNIFER CONRAD",
+      "score": 0.9754,
+      "box": [
+        116,
+        90,
+        439,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA| +1-266-685-4881 |jennifer.conrad@example.com",
+      "score": 0.9775,
+      "box": [
+        115,
+        150,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Hands Care, 2020.03–2023.01",
+      "score": 0.9841,
+      "box": [
+        116,
+        290,
+        707,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.9794,
+      "box": [
+        126,
+        314,
+        517,
+        339
+      ]
+    },
+    {
+      "text": "- Directed clinical quality improvement initiatives",
+      "score": 0.9593,
+      "box": [
+        126,
+        339,
+        572,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightPath Nursing Services, 2016.10–2019.08",
+      "score": 0.9729,
+      "box": [
+        115,
+        381,
+        737,
+        406
+      ]
+    },
+    {
+      "text": "- Provided catheter and ostomy care",
+      "score": 0.9789,
+      "box": [
+        125,
+        406,
+        466,
+        431
+      ]
+    },
+    {
+      "text": "-Conducted medication reconciliation",
+      "score": 0.9644,
+      "box": [
+        127,
+        432,
+        476,
+        453
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindSpring Care Center, 2012.08–2015.06",
+      "score": 0.972,
+      "box": [
+        116,
+        473,
+        697,
+        496
+      ]
+    },
+    {
+      "text": "- Maintained infection control protocols",
+      "score": 0.9781,
+      "box": [
+        125,
+        496,
+        486,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9574,
+      "box": [
+        126,
+        521,
+        387,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Information Management, Brightwater University, 205",
+      "score": 0.9826,
+      "box": [
+        114,
+        631,
+        875,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of nursing assessment",
+      "score": 0.986,
+      "box": [
+        132,
+        656,
+        528,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in metabolic disorders basics",
+      "score": 0.985,
+      "box": [
+        135,
+        683,
+        633,
+        703
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JENNIFER CONRAD\nMD, USA| +1-266-685-4881 |jennifer.conrad@example.com\nWORK HISTORY\nRegistered Nurses, Compassion Hands Care, 2020.03–2023.01\n- Implemented patient monitoring systems\n- Directed clinical quality improvement initiatives\nRegistered Nurses, BrightPath Nursing Services, 2016.10–2019.08\n- Provided catheter and ostomy care\n-Conducted medication reconciliation\nRegistered Nurses, KindSpring Care Center, 2012.08–2015.06\n- Maintained infection control protocols\n- Prepared treatment rooms\nEDUCATION\nAssociate's degree, Health Information Management, Brightwater University, 205\n• Studied principles of nursing assessment\n• Completed coursework in metabolic disorders basics"
+}

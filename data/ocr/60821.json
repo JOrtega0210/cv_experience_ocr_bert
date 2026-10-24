@@ -1,0 +1,252 @@
+{
+  "id": "60821",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.942,
+  "n_lines": 18,
+  "mean_score": 0.9849,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DAVID WELLS",
+      "score": 0.9683,
+      "box": [
+        116,
+        90,
+        348,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-969-705-4967|david.wells@example.com",
+      "score": 0.9744,
+      "box": [
+        114,
+        150,
+        640,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Co., 2020.05–2023.01",
+      "score": 0.9566,
+      "box": [
+        114,
+        288,
+        648,
+        313
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9816,
+      "box": [
+        126,
+        313,
+        371,
+        340
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9841,
+      "box": [
+        126,
+        338,
+        406,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardLine Construction, 2017.09–2020.5",
+      "score": 0.9901,
+      "box": [
+        115,
+        380,
+        717,
+        406
+      ]
+    },
+    {
+      "text": "- Developed long-term construction strategies",
+      "score": 0.9886,
+      "box": [
+        125,
+        406,
+        550,
+        431
+      ]
+    },
+    {
+      "text": "- Managed subcontractor coordination",
+      "score": 0.9852,
+      "box": [
+        126,
+        432,
+        481,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeStone Contractors, 2014.12–2017.09",
+      "score": 0.9811,
+      "box": [
+        115,
+        472,
+        731,
+        496
+      ]
+    },
+    {
+      "text": "- Supervised demolition tasks",
+      "score": 0.983,
+      "box": [
+        126,
+        499,
+        402,
+        519
+      ]
+    },
+    {
+      "text": "- Installed retaining structures",
+      "score": 0.9881,
+      "box": [
+        125,
+        521,
+        404,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearView Construction, 2010.04–2013.01",
+      "score": 0.9833,
+      "box": [
+        114,
+        563,
+        725,
+        588
+      ]
+    },
+    {
+      "text": "-Secured site fencing",
+      "score": 0.9985,
+      "box": [
+        124,
+        588,
+        332,
+        614
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.9914,
+      "box": [
+        125,
+        613,
+        512,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Design, Summit High School, 1998",
+      "score": 0.9954,
+      "box": [
+        116,
+        725,
+        824,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of hazard identification",
+      "score": 0.9941,
+      "box": [
+        133,
+        748,
+        528,
+        771
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "DAVID WELLS\nWI, USA|+1-969-705-4967|david.wells@example.com\nWORK HISTORY\nConstruction Laborers, Allied Build Co., 2020.05–2023.01\n- Led operational planning\n- Established site layout plans\nConstruction Laborers, HardLine Construction, 2017.09–2020.5\n- Developed long-term construction strategies\n- Managed subcontractor coordination\nConstruction Laborers, PrimeStone Contractors, 2014.12–2017.09\n- Supervised demolition tasks\n- Installed retaining structures\nConstruction Laborers, ClearView Construction, 2010.04–2013.01\n-Secured site fencing\n- Prepared surfaces for construction work\nEDUCATION\nHigh school graduate/GED, Construction Design, Summit High School, 1998\n• Studied principles of hazard identification"
+}

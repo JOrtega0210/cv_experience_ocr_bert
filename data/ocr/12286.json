@@ -1,0 +1,135 @@
+{
+  "id": "12286",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.852,
+  "n_lines": 9,
+  "mean_score": 0.9808,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "GEOVANNI MADDOX",
+      "score": 0.9863,
+      "box": [
+        117,
+        90,
+        454,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-453-293-9000|geovanni.maddox@example.com",
+      "score": 0.9937,
+      "box": [
+        116,
+        152,
+        701,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9807,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearPath Construction, 2022.04–2023.01",
+      "score": 0.9812,
+      "box": [
+        115,
+        290,
+        723,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.9834,
+      "box": [
+        125,
+        314,
+        583,
+        339
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9611,
+      "box": [
+        126,
+        339,
+        416,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, HVAC Technology, Brightwater High School, 2023",
+      "score": 0.9813,
+      "box": [
+        116,
+        449,
+        841,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic siding installation",
+      "score": 0.9608,
+      "box": [
+        132,
+        474,
+        603,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "GEOVANNI MADDOX\nFL, USA|+1-453-293-9000|geovanni.maddox@example.com\nWORK HISTORY\nConstruction Laborers, ClearPath Construction, 2022.04–2023.01\n- Assisted with basic electrical conduit placement\n- Set up workstations for crews\nEDUCATION\nHigh school graduate/GED, HVAC Technology, Brightwater High School, 2023\n• Completed coursework in basic siding installation"
+}

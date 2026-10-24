@@ -1,0 +1,187 @@
+{
+  "id": "46775",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.782,
+  "n_lines": 13,
+  "mean_score": 0.9835,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JASMINE CAIN",
+      "score": 0.9818,
+      "box": [
+        115,
+        88,
+        358,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA|+1-795-236-5286|jasmine.cain@example.com",
+      "score": 0.9902,
+      "box": [
+        115,
+        150,
+        656,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleBridge Health, 2020.04–202.05",
+      "score": 0.9673,
+      "box": [
+        116,
+        290,
+        664,
+        314
+      ]
+    },
+    {
+      "text": "- Developed patient safety programs",
+      "score": 0.9863,
+      "box": [
+        126,
+        314,
+        465,
+        339
+      ]
+    },
+    {
+      "text": "- Managed clinical risk assessments",
+      "score": 0.9768,
+      "box": [
+        126,
+        339,
+        464,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Hands Medical, 2017.09–2019.10",
+      "score": 0.9773,
+      "box": [
+        115,
+        381,
+        690,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9906,
+      "box": [
+        126,
+        406,
+        479,
+        431
+      ]
+    },
+    {
+      "text": "- Monitored patient intake and output",
+      "score": 0.9758,
+      "box": [
+        126,
+        431,
+        471,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Biological Sciences, Lakeside University, 2015",
+      "score": 0.9821,
+      "box": [
+        114,
+        539,
+        656,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing workflow management",
+      "score": 0.9928,
+      "box": [
+        133,
+        565,
+        673,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of hospice care",
+      "score": 0.9824,
+      "box": [
+        133,
+        590,
+        461,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JASMINE CAIN\nPA, USA|+1-795-236-5286|jasmine.cain@example.com\nWORK HISTORY\nRegistered Nurses, GentleBridge Health, 2020.04–202.05\n- Developed patient safety programs\n- Managed clinical risk assessments\nRegistered Nurses, Helping Hands Medical, 2017.09–2019.10\n- Prepared medical equipment for use\n- Monitored patient intake and output\nEDUCATION\nBachelor's, Biological Sciences, Lakeside University, 2015\n• Completed coursework in nursing workflow management\n• Studied principles of hospice care"
+}

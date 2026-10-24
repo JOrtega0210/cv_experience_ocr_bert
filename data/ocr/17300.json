@@ -1,0 +1,265 @@
+{
+  "id": "17300",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.051,
+  "n_lines": 19,
+  "mean_score": 0.9815,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MYRA ODOM",
+      "score": 0.9522,
+      "box": [
+        116,
+        90,
+        330,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-706-927-9746|myra.odom@example.com",
+      "score": 0.9821,
+      "box": [
+        116,
+        151,
+        634,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Services, 2019.09–2023.01",
+      "score": 0.9877,
+      "box": [
+        115,
+        289,
+        694,
+        312
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9896,
+      "box": [
+        126,
+        313,
+        508,
+        338
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9816,
+      "box": [
+        126,
+        339,
+        505,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Financial, 2016.05–2019.09",
+      "score": 0.9839,
+      "box": [
+        115,
+        381,
+        693,
+        406
+      ]
+    },
+    {
+      "text": "- Established audit governance structures",
+      "score": 0.9908,
+      "box": [
+        125,
+        406,
+        514,
+        431
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9741,
+      "box": [
+        126,
+        431,
+        514,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Group, 2012.12–2016.05",
+      "score": 0.9844,
+      "box": [
+        114,
+        471,
+        685,
+        496
+      ]
+    },
+    {
+      "text": "- Developed internal audit programs",
+      "score": 0.981,
+      "box": [
+        125,
+        497,
+        461,
+        522
+      ]
+    },
+    {
+      "text": "- Reviewed tax provisions",
+      "score": 0.975,
+      "box": [
+        125,
+        521,
+        368,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Advisors, 2009.07–2012.12",
+      "score": 0.988,
+      "box": [
+        115,
+        565,
+        711,
+        588
+      ]
+    },
+    {
+      "text": "- Updated accounting policies documentation",
+      "score": 0.9924,
+      "box": [
+        126,
+        589,
+        546,
+        614
+      ]
+    },
+    {
+      "text": "- Reviewed vendor payments",
+      "score": 0.9908,
+      "box": [
+        126,
+        613,
+        400,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Taxation, Clearhaven University, 2011",
+      "score": 0.9719,
+      "box": [
+        114,
+        723,
+        578,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in expense cycle management",
+      "score": 0.9583,
+      "box": [
+        132,
+        748,
+        649,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of quality control in auditing",
+      "score": 0.9799,
+      "box": [
+        134,
+        774,
+        571,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "MYRA ODOM\nIL, USA|+1-706-927-9746|myra.odom@example.com\nWORK HISTORY\nAccountants Auditors, CoreLedger Services, 2019.09–2023.01\n- Established tax compliance frameworks\n- Established cost management systems\nAccountants Auditors, CoreBooks Financial, 2016.05–2019.09\n- Established audit governance structures\n- Developed long-term financial strategies\nAccountants Auditors, SteadyCount Group, 2012.12–2016.05\n- Developed internal audit programs\n- Reviewed tax provisions\nAccountants Auditors, Reliable Path Advisors, 2009.07–2012.12\n- Updated accounting policies documentation\n- Reviewed vendor payments\nEDUCATION\nBachelor's, Taxation, Clearhaven University, 2011\n• Completed coursework in expense cycle management\n• Studied principles of quality control in auditing"
+}

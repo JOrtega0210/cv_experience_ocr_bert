@@ -1,0 +1,226 @@
+{
+  "id": "00061",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.914,
+  "n_lines": 16,
+  "mean_score": 0.9819,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TEREZA ROBERTS",
+      "score": 0.9843,
+      "box": [
+        115,
+        90,
+        425,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-983-712-3364 |tereza.roberts@example.com",
+      "score": 0.9907,
+      "box": [
+        116,
+        152,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Financial, 2020.10–2023.01",
+      "score": 0.9842,
+      "box": [
+        115,
+        290,
+        690,
+        313
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9847,
+      "box": [
+        126,
+        313,
+        454,
+        338
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9866,
+      "box": [
+        126,
+        339,
+        547,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Financial Group, 2018.06–2020.10",
+      "score": 0.9815,
+      "box": [
+        115,
+        381,
+        754,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared regulatory reports",
+      "score": 0.9737,
+      "box": [
+        126,
+        406,
+        398,
+        432
+      ]
+    },
+    {
+      "text": "- Developed internal audit programs",
+      "score": 0.984,
+      "box": [
+        126,
+        431,
+        461,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Co., 2014.06–2016.10",
+      "score": 0.9591,
+      "box": [
+        115,
+        472,
+        676,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9917,
+      "box": [
+        125,
+        496,
+        456,
+        522
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9785,
+      "box": [
+        126,
+        521,
+        418,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Finance, Clearway University, 2009",
+      "score": 0.9826,
+      "box": [
+        115,
+        632,
+        554,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of financial risk management",
+      "score": 0.9807,
+      "box": [
+        132,
+        656,
+        585,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial accounting",
+      "score": 0.9634,
+      "box": [
+        136,
+        683,
+        572,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "TEREZA ROBERTS\nAL, USA|+1-983-712-3364 |tereza.roberts@example.com\nWORK HISTORY\nAccountants Auditors, AccuCount Financial, 2020.10–2023.01\n- Led financial data standardization\n- Established compliance monitoring systems\nAccountants Auditors, FairLedger Financial Group, 2018.06–2020.10\n- Prepared regulatory reports\n- Developed internal audit programs\nAccountants Auditors, Integrity Books Co., 2014.06–2016.10\n- Assisted with tax form preparation\n- Processed journal corrections\nEDUCATION\nBachelor's, Finance, Clearway University, 2009\n• Studied principles of financial risk management\n• Completed coursework in financial accounting"
+}

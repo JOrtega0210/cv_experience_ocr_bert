@@ -1,0 +1,148 @@
+{
+  "id": "14096",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.874,
+  "n_lines": 10,
+  "mean_score": 0.9765,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JESSICA LEE",
+      "score": 0.9713,
+      "box": [
+        116,
+        90,
+        334,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-336-534-9266|jessica.lee@example.com",
+      "score": 0.9803,
+      "box": [
+        115,
+        150,
+        634,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9827,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Horizons Academy, 2020.07–2023.01",
+      "score": 0.9861,
+      "box": [
+        116,
+        289,
+        883,
+        312
+      ]
+    },
+    {
+      "text": "- Maintained student folders",
+      "score": 0.9595,
+      "box": [
+        126,
+        315,
+        388,
+        338
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9819,
+      "box": [
+        126,
+        339,
+        394,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Academic Support Studies, Larkspur University, 2023",
+      "score": 0.9597,
+      "box": [
+        115,
+        449,
+        719,
+        472
+      ]
+    },
+    {
+      "text": "•Completed coursework in reading fluency strategies",
+      "score": 0.9717,
+      "box": [
+        132,
+        473,
+        626,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of teaching effectiveness",
+      "score": 0.9729,
+      "box": [
+        134,
+        499,
+        549,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JESSICA LEE\nFL, USA|+1-336-534-9266|jessica.lee@example.com\nWORK HISTORY\nElementary Middle School Teachers, Golden Horizons Academy, 2020.07–2023.01\n- Maintained student folders\n- Collected permission forms\nEDUCATION\nBachelor's, Academic Support Studies, Larkspur University, 2023\n•Completed coursework in reading fluency strategies\n• Studied principles of teaching effectiveness"
+}

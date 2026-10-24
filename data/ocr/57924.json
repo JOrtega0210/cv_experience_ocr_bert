@@ -1,0 +1,187 @@
+{
+  "id": "57924",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.818,
+  "n_lines": 13,
+  "mean_score": 0.9819,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CODY ROTH",
+      "score": 0.9837,
+      "box": [
+        116,
+        90,
+        319,
+        121
+      ]
+    },
+    {
+      "text": "WA,USA|+1-970-656-7090|cody.roth@example.com",
+      "score": 0.9838,
+      "box": [
+        114,
+        150,
+        631,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkFrame Builders, 2021.03–2023.01",
+      "score": 0.9847,
+      "box": [
+        115,
+        290,
+        697,
+        313
+      ]
+    },
+    {
+      "text": "- Managed subcontractor coordination",
+      "score": 0.9849,
+      "box": [
+        126,
+        315,
+        481,
+        338
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.978,
+      "box": [
+        126,
+        339,
+        476,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterBuild Group, 2017.02–2018.12",
+      "score": 0.9806,
+      "box": [
+        115,
+        381,
+        682,
+        405
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9575,
+      "box": [
+        125,
+        407,
+        423,
+        430
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.9762,
+      "box": [
+        125,
+        430,
+        418,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Site Management, Pinewood University, 2016",
+      "score": 0.9836,
+      "box": [
+        114,
+        539,
+        772,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic welding concepts",
+      "score": 0.9837,
+      "box": [
+        133,
+        565,
+        605,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of material delivery coordination",
+      "score": 0.9848,
+      "box": [
+        134,
+        591,
+        614,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "CODY ROTH\nWA,USA|+1-970-656-7090|cody.roth@example.com\nWORK HISTORY\nConstruction Laborers, WorkFrame Builders, 2021.03–2023.01\n- Managed subcontractor coordination\n- Developed site performance metrics\nConstruction Laborers, MasterBuild Group, 2017.02–2018.12\n- Followed blueprint instructions\n- Maintained tool storage areas\nEDUCATION\nBachelor's, Construction Site Management, Pinewood University, 2016\n• Completed coursework in basic welding concepts\n• Studied principles of material delivery coordination"
+}

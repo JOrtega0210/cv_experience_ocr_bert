@@ -1,0 +1,148 @@
+{
+  "id": "19368",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.752,
+  "n_lines": 10,
+  "mean_score": 0.9839,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JUSTIN BASS",
+      "score": 0.9773,
+      "box": [
+        116,
+        90,
+        339,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-564-962-9490|justin.bass@example.com",
+      "score": 0.9789,
+      "box": [
+        116,
+        150,
+        627,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9827,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Advisors, 2021.01–2023.01",
+      "score": 0.9936,
+      "box": [
+        115,
+        290,
+        741,
+        313
+      ]
+    },
+    {
+      "text": "-Reviewed account balances",
+      "score": 0.9867,
+      "box": [
+        125,
+        313,
+        404,
+        338
+      ]
+    },
+    {
+      "text": "- Recorded payroll entries",
+      "score": 0.9785,
+      "box": [
+        128,
+        341,
+        368,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Finance, Silver Ridge University, 2021",
+      "score": 0.975,
+      "box": [
+        115,
+        449,
+        578,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in international taxation basics",
+      "score": 0.9881,
+      "box": [
+        133,
+        474,
+        646,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of accounts payable",
+      "score": 0.9801,
+      "box": [
+        133,
+        497,
+        542,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JUSTIN BASS\nIL, USA|+1-564-962-9490|justin.bass@example.com\nWORK HISTORY\nAccountants Auditors, Reliable Balance Advisors, 2021.01–2023.01\n-Reviewed account balances\n- Recorded payroll entries\nEDUCATION\nBachelor's, Finance, Silver Ridge University, 2021\n• Completed coursework in international taxation basics\n• Studied fundamentals of accounts payable"
+}

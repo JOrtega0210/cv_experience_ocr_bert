@@ -1,0 +1,226 @@
+{
+  "id": "50658",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.838,
+  "n_lines": 16,
+  "mean_score": 0.9812,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "WILLIAM LANDRY",
+      "score": 0.9797,
+      "box": [
+        116,
+        90,
+        410,
+        120
+      ]
+    },
+    {
+      "text": "TX, USA|+1-573-696-2324|william.landry@example.com",
+      "score": 0.9681,
+      "box": [
+        115,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Solutions, 2020.10–2023.01",
+      "score": 0.9929,
+      "box": [
+        115,
+        288,
+        687,
+        313
+      ]
+    },
+    {
+      "text": "- Designed Cl/CD frameworks",
+      "score": 0.9716,
+      "box": [
+        127,
+        315,
+        407,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9565,
+      "box": [
+        127,
+        340,
+        515,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Silverstack Solutions, 2018.06–2020.10",
+      "score": 0.9848,
+      "box": [
+        115,
+        381,
+        689,
+        406
+      ]
+    },
+    {
+      "text": "- Developed access control logic",
+      "score": 0.9767,
+      "box": [
+        126,
+        406,
+        431,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented authentication workflows",
+      "score": 0.9658,
+      "box": [
+        127,
+        432,
+        496,
+        454
+      ]
+    },
+    {
+      "text": "Software Developers, Openframe Labs, 2016.02–2018.06",
+      "score": 0.9851,
+      "box": [
+        116,
+        472,
+        652,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented Ul components based on design specs",
+      "score": 0.9761,
+      "box": [
+        126,
+        496,
+        628,
+        522
+      ]
+    },
+    {
+      "text": "- Updated monitoring dashboards",
+      "score": 0.9933,
+      "box": [
+        128,
+        523,
+        440,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Stonehill University, 2018",
+      "score": 0.9878,
+      "box": [
+        115,
+        632,
+        462,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of documentation standards",
+      "score": 0.9935,
+      "box": [
+        133,
+        657,
+        577,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in SQL and data querying",
+      "score": 0.9837,
+      "box": [
+        135,
+        683,
+        603,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "WILLIAM LANDRY\nTX, USA|+1-573-696-2324|william.landry@example.com\nWORK HISTORY\nSoftware Developers, Openwave Solutions, 2020.10–2023.01\n- Designed Cl/CD frameworks\n- Implemented access control frameworks\nSoftware Developers, Silverstack Solutions, 2018.06–2020.10\n- Developed access control logic\n- Implemented authentication workflows\nSoftware Developers, Openframe Labs, 2016.02–2018.06\n- Implemented Ul components based on design specs\n- Updated monitoring dashboards\nEDUCATION\nBachelor's, Stonehill University, 2018\n• Studied principles of documentation standards\n• Completed coursework in SQL and data querying"
+}

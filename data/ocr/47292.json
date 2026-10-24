@@ -1,0 +1,187 @@
+{
+  "id": "47292",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.824,
+  "n_lines": 13,
+  "mean_score": 0.9807,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOEL POPE",
+      "score": 0.9786,
+      "box": [
+        114,
+        88,
+        310,
+        122
+      ]
+    },
+    {
+      "text": "SC,USA|+1-354-908-9674|joel.pope@example.com",
+      "score": 0.9526,
+      "box": [
+        116,
+        150,
+        624,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9825,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronLine Contractors, 2021.06–2023.01",
+      "score": 0.9906,
+      "box": [
+        115,
+        290,
+        696,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed structural integrity assessments",
+      "score": 0.9658,
+      "box": [
+        125,
+        313,
+        532,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9769,
+      "box": [
+        127,
+        340,
+        477,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Group, 2019.10–221.06",
+      "score": 0.9927,
+      "box": [
+        115,
+        381,
+        673,
+        406
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.969,
+      "box": [
+        126,
+        407,
+        474,
+        429
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9933,
+      "box": [
+        127,
+        432,
+        540,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Estimating, Amber Hills University, 2022",
+      "score": 0.9641,
+      "box": [
+        116,
+        541,
+        862,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of load handling",
+      "score": 0.9931,
+      "box": [
+        133,
+        566,
+        466,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of building envelope basics",
+      "score": 0.9919,
+      "box": [
+        134,
+        591,
+        569,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JOEL POPE\nSC,USA|+1-354-908-9674|joel.pope@example.com\nWORK HISTORY\nConstruction Laborers, IronLine Contractors, 2021.06–2023.01\n- Reviewed structural integrity assessments\n- Reviewed material quality standards\nConstruction Laborers, PrimeBuild Group, 2019.10–221.06\n- Marked measurements on materials\n- Carried materials to designated work areas\nEDUCATION\nSome college (no degree), Construction Estimating, Amber Hills University, 2022\n• Studied principles of load handling\n• Studied principles of building envelope basics"
+}

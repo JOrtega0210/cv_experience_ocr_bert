@@ -1,0 +1,187 @@
+{
+  "id": "47760",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.793,
+  "n_lines": 13,
+  "mean_score": 0.9891,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JEFFREYCRAWFORD",
+      "score": 0.9979,
+      "box": [
+        116,
+        90,
+        475,
+        120
+      ]
+    },
+    {
+      "text": "SC, USA|+1-377-985-9713 |jeffrey.crawford@example.com",
+      "score": 0.9859,
+      "box": [
+        117,
+        151,
+        683,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindWay Nursing, 2020.11–2023.01",
+      "score": 0.9919,
+      "box": [
+        116,
+        290,
+        635,
+        313
+      ]
+    },
+    {
+      "text": "- Established quality assurance systems",
+      "score": 0.9842,
+      "box": [
+        126,
+        313,
+        500,
+        339
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.985,
+      "box": [
+        126,
+        339,
+        426,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Way Care, 2015.11–2018.02",
+      "score": 0.9878,
+      "box": [
+        115,
+        381,
+        690,
+        406
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9723,
+      "box": [
+        126,
+        406,
+        444,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with specimen labeling",
+      "score": 0.9973,
+      "box": [
+        126,
+        431,
+        437,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Human Biology, Foxwood University, 2002",
+      "score": 0.9904,
+      "box": [
+        116,
+        541,
+        698,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in suctioning techniques",
+      "score": 0.9926,
+      "box": [
+        133,
+        566,
+        590,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in nutrition for health",
+      "score": 0.995,
+      "box": [
+        134,
+        591,
+        556,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JEFFREYCRAWFORD\nSC, USA|+1-377-985-9713 |jeffrey.crawford@example.com\nWORK HISTORY\nRegistered Nurses, KindWay Nursing, 2020.11–2023.01\n- Established quality assurance systems\n- Managed clinical data analysis\nRegistered Nurses, Compassion Way Care, 2015.11–2018.02\n- Collected patient health histories\n- Assisted with specimen labeling\nEDUCATION\nAssociate's degree, Human Biology, Foxwood University, 2002\n• Completed coursework in suctioning techniques\n• Completed coursework in nutrition for health"
+}

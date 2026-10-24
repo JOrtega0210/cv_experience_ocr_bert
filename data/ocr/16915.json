@@ -1,0 +1,226 @@
+{
+  "id": "16915",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.001,
+  "n_lines": 16,
+  "mean_score": 0.9836,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TALITHA BOONE",
+      "score": 0.9669,
+      "box": [
+        114,
+        90,
+        393,
+        121
+      ]
+    },
+    {
+      "text": "ID, USA|+1-322-629-5686|talitha.boone@example.com",
+      "score": 0.9929,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeLife Health Group, 2020.01–2023.01",
+      "score": 0.9825,
+      "box": [
+        115,
+        289,
+        680,
+        314
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9671,
+      "box": [
+        125,
+        313,
+        471,
+        338
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9733,
+      "box": [
+        126,
+        339,
+        509,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Way Nursing, 2017.01–2020.01",
+      "score": 0.9955,
+      "box": [
+        116,
+        383,
+        670,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored fluid and electrolyte balance",
+      "score": 0.9784,
+      "box": [
+        125,
+        406,
+        500,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented patient education programs",
+      "score": 0.9855,
+      "box": [
+        126,
+        430,
+        522,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIWay Medical Group, 2014.01–2017.01",
+      "score": 0.9847,
+      "box": [
+        116,
+        472,
+        698,
+        496
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.9856,
+      "box": [
+        125,
+        496,
+        512,
+        522
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9868,
+      "box": [
+        126,
+        520,
+        416,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Administration, Rockland University, 2012",
+      "score": 0.9826,
+      "box": [
+        114,
+        631,
+        678,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in metabolic disorders basics",
+      "score": 0.9829,
+      "box": [
+        135,
+        659,
+        634,
+        679
+      ]
+    },
+    {
+      "text": "• Completed coursework in medical-surgical nursing",
+      "score": 0.991,
+      "box": [
+        134,
+        681,
+        614,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "TALITHA BOONE\nID, USA|+1-322-629-5686|talitha.boone@example.com\nWORK HISTORY\nRegistered Nurses, SafeLife Health Group, 2020.01–2023.01\n- Established care delivery standards\n- Directed nursing process improvements\nRegistered Nurses, Helping Way Nursing, 2017.01–2020.01\n- Monitored fluid and electrolyte balance\n- Implemented patient education programs\nRegistered Nurses, WelIWay Medical Group, 2014.01–2017.01\n- Performed basic life support procedures\n- Checked medication dosages\nEDUCATION\nBachelor's, Health Administration, Rockland University, 2012\n• Completed coursework in metabolic disorders basics\n• Completed coursework in medical-surgical nursing"
+}

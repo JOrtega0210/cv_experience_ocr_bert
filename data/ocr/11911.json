@@ -1,0 +1,213 @@
+{
+  "id": "11911",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.958,
+  "n_lines": 15,
+  "mean_score": 0.9837,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRYCEYATES",
+      "score": 0.9988,
+      "box": [
+        116,
+        90,
+        356,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-879-727-3066|bryce.yates@example.com",
+      "score": 0.9851,
+      "box": [
+        115,
+        150,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9854,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorStone Construction, 2020.11–2023.01",
+      "score": 0.9916,
+      "box": [
+        114,
+        289,
+        751,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.9755,
+      "box": [
+        125,
+        313,
+        444,
+        339
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9678,
+      "box": [
+        127,
+        340,
+        467,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWorks Builders, 2018.09–2020.11",
+      "score": 0.9842,
+      "box": [
+        116,
+        382,
+        694,
+        405
+      ]
+    },
+    {
+      "text": "- Installed insulation systems",
+      "score": 0.9816,
+      "box": [
+        125,
+        406,
+        397,
+        431
+      ]
+    },
+    {
+      "text": "- Documented daily work progress",
+      "score": 0.9798,
+      "box": [
+        125,
+        430,
+        447,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextGen Builders, 2016.07–2018.09",
+      "score": 0.9905,
+      "box": [
+        116,
+        472,
+        672,
+        495
+      ]
+    },
+    {
+      "text": "- Followed safety procedures on site",
+      "score": 0.9769,
+      "box": [
+        125,
+        496,
+        465,
+        521
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9696,
+      "box": [
+        126,
+        521,
+        440,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Materials, Northwood High School, 2015",
+      "score": 0.9906,
+      "box": [
+        115,
+        631,
+        873,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction safety documentation",
+      "score": 0.9784,
+      "box": [
+        132,
+        656,
+        706,
+        681
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "BRYCEYATES\nFL, USA|+1-879-727-3066|bryce.yates@example.com\nWORK HISTORY\nConstruction Laborers, AnchorStone Construction, 2020.11–2023.01\n- Reviewed site inspection reports\n- Directed site optimization initiatives\nConstruction Laborers, SolidWorks Builders, 2018.09–2020.11\n- Installed insulation systems\n- Documented daily work progress\nConstruction Laborers, NextGen Builders, 2016.07–2018.09\n- Followed safety procedures on site\n- Installed basic flooring materials\nEDUCATION\nHigh school graduate/GED, Construction Materials, Northwood High School, 2015\n• Completed coursework in construction safety documentation"
+}

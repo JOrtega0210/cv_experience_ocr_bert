@@ -1,0 +1,174 @@
+{
+  "id": "24482",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.814,
+  "n_lines": 12,
+  "mean_score": 0.98,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AMYCONRAD",
+      "score": 0.9966,
+      "box": [
+        116,
+        90,
+        347,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA|+1-258-519-5115|amy.conrad@example.com",
+      "score": 0.9924,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.983,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenArms Care Services, 2020.06–223.01",
+      "score": 0.9867,
+      "box": [
+        116,
+        290,
+        711,
+        313
+      ]
+    },
+    {
+      "text": "-Maintained supply inventory",
+      "score": 0.9877,
+      "box": [
+        125,
+        313,
+        401,
+        341
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9426,
+      "box": [
+        126,
+        339,
+        387,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Doctorate, Health Management, Oakfield University, 2023",
+      "score": 0.9633,
+      "box": [
+        115,
+        449,
+        651,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Mental Health Studies, Willowhaven University, 2018",
+      "score": 0.9698,
+      "box": [
+        115,
+        474,
+        714,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient advocacy",
+      "score": 0.9687,
+      "box": [
+        133,
+        497,
+        536,
+        523
+      ]
+    },
+    {
+      "text": "• Completed coursework in home health nursing basics",
+      "score": 0.9881,
+      "box": [
+        134,
+        523,
+        642,
+        548
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of clinical decision making",
+      "score": 0.9825,
+      "box": [
+        132,
+        547,
+        597,
+        573
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "AMYCONRAD\nMD, USA|+1-258-519-5115|amy.conrad@example.com\nWORK HISTORY\nRegistered Nurses, OpenArms Care Services, 2020.06–223.01\n-Maintained supply inventory\n- Prepared treatment rooms\nEDUCATION\nDoctorate, Health Management, Oakfield University, 2023\nBachelor's, Mental Health Studies, Willowhaven University, 2018\n• Studied fundamentals of patient advocacy\n• Completed coursework in home health nursing basics\n• Studied fundamentals of clinical decision making"
+}

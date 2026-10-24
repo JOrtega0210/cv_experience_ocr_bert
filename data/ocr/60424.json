@@ -1,0 +1,148 @@
+{
+  "id": "60424",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.795,
+  "n_lines": 10,
+  "mean_score": 0.9828,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CLAYTON STUART",
+      "score": 0.9891,
+      "box": [
+        117,
+        90,
+        426,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA |+1-226-287-1658|clayton.stuart@example.com",
+      "score": 0.9811,
+      "box": [
+        116,
+        151,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftWay Builders, 2022.09–2023.01",
+      "score": 0.9691,
+      "box": [
+        115,
+        290,
+        675,
+        313
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.968,
+      "box": [
+        126,
+        313,
+        361,
+        341
+      ]
+    },
+    {
+      "text": "- Followed safety procedures on site",
+      "score": 0.9757,
+      "box": [
+        126,
+        339,
+        465,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Methods, Bright Ridge University, 2023",
+      "score": 0.9861,
+      "box": [
+        115,
+        447,
+        853,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of construction record keeping",
+      "score": 0.9888,
+      "box": [
+        132,
+        472,
+        598,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of material estimation",
+      "score": 0.9879,
+      "box": [
+        133,
+        499,
+        517,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "CLAYTON STUART\nWI, USA |+1-226-287-1658|clayton.stuart@example.com\nWORK HISTORY\nConstruction Laborers, CraftWay Builders, 2022.09–2023.01\n- Installed safety signage\n- Followed safety procedures on site\nEDUCATION\nSome college (no degree), Construction Methods, Bright Ridge University, 2023\n• Studied principles of construction record keeping\n• Studied principles of material estimation"
+}

@@ -1,0 +1,200 @@
+{
+  "id": "47389",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.786,
+  "n_lines": 14,
+  "mean_score": 0.975,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LANE WANG",
+      "score": 0.9571,
+      "box": [
+        115,
+        90,
+        324,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-817-293-2260 |lane.wang@example.com",
+      "score": 0.9744,
+      "box": [
+        116,
+        151,
+        636,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Tech, 2020.05–2023.01",
+      "score": 0.9624,
+      "box": [
+        114,
+        288,
+        642,
+        313
+      ]
+    },
+    {
+      "text": "- Defined code review processes",
+      "score": 0.9808,
+      "box": [
+        125,
+        313,
+        433,
+        339
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9714,
+      "box": [
+        126,
+        338,
+        447,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Brightnode Software, 2017.09–2020.05",
+      "score": 0.987,
+      "box": [
+        115,
+        381,
+        685,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented Ul components based on design specs",
+      "score": 0.9913,
+      "box": [
+        125,
+        406,
+        627,
+        431
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9542,
+      "box": [
+        125,
+        430,
+        364,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Brookway University, 2017",
+      "score": 0.9485,
+      "box": [
+        116,
+        542,
+        453,
+        562
+      ]
+    },
+    {
+      "text": "Bachelor's, Springdale University, 2015",
+      "score": 0.9606,
+      "box": [
+        114,
+        564,
+        482,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of software development",
+      "score": 0.9892,
+      "box": [
+        132,
+        590,
+        547,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in dynamic analysis",
+      "score": 0.9895,
+      "box": [
+        133,
+        615,
+        548,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "LANE WANG\nSC, USA|+1-817-293-2260 |lane.wang@example.com\nWORK HISTORY\nSoftware Developers, Codecrest Tech, 2020.05–2023.01\n- Defined code review processes\n- Designed caching infrastructures\nSoftware Developers, Brightnode Software, 2017.09–2020.05\n- Implemented Ul components based on design specs\n- Handled feature toggles\nEDUCATION\nMaster's, Brookway University, 2017\nBachelor's, Springdale University, 2015\n• Studied principles of software development\n• Completed coursework in dynamic analysis"
+}

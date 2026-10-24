@@ -1,0 +1,187 @@
+{
+  "id": "46653",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.798,
+  "n_lines": 13,
+  "mean_score": 0.9773,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "IRIS WELCH",
+      "score": 0.9822,
+      "box": [
+        114,
+        88,
+        317,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA|+1-847-842-9945 |iris.welch@example.com",
+      "score": 0.967,
+      "box": [
+        115,
+        150,
+        625,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9791,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Hands Health, 2021.02–2023.01",
+      "score": 0.9855,
+      "box": [
+        116,
+        290,
+        691,
+        313
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9744,
+      "box": [
+        125,
+        313,
+        471,
+        338
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9794,
+      "box": [
+        127,
+        340,
+        548,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIWay Medical Group, 2019.02–2021.02",
+      "score": 0.9831,
+      "box": [
+        116,
+        382,
+        699,
+        406
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.9772,
+      "box": [
+        125,
+        407,
+        483,
+        430
+      ]
+    },
+    {
+      "text": "- Checked laboratory results",
+      "score": 0.9771,
+      "box": [
+        126,
+        430,
+        391,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Health and Wellness, Springdale University, 2023",
+      "score": 0.9653,
+      "box": [
+        114,
+        539,
+        763,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of infection diseases nursing",
+      "score": 0.9638,
+      "box": [
+        131,
+        564,
+        619,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient education",
+      "score": 0.9726,
+      "box": [
+        133,
+        591,
+        538,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "IRIS WELCH\nPA, USA|+1-847-842-9945 |iris.welch@example.com\nWORK HISTORY\nRegistered Nurses, Harmony Hands Health, 2021.02–2023.01\n- Established care delivery standards\n- Developed clinical performance dashboards\nRegistered Nurses, WelIWay Medical Group, 2019.02–2021.02\n- Administered prescribed medications\n- Checked laboratory results\nEDUCATION\nAssociate's degree, Health and Wellness, Springdale University, 2023\n• Studied fundamentals of infection diseases nursing\n• Studied fundamentals of patient education"
+}

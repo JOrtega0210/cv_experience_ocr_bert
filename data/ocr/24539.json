@@ -1,0 +1,187 @@
+{
+  "id": "24539",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.823,
+  "n_lines": 13,
+  "mean_score": 0.9855,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ROBERTO GOOD",
+      "score": 0.9777,
+      "box": [
+        116,
+        90,
+        397,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA|+1-551-791-4893 |roberto.good@example.com",
+      "score": 0.9787,
+      "box": [
+        115,
+        150,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9848,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindWay Nursing Services, 2020.07–2023.01",
+      "score": 0.9846,
+      "box": [
+        115,
+        289,
+        721,
+        314
+      ]
+    },
+    {
+      "text": "– Managed clinical risk assessments",
+      "score": 0.9751,
+      "box": [
+        127,
+        315,
+        463,
+        338
+      ]
+    },
+    {
+      "text": "- Developed medication management policies",
+      "score": 0.9889,
+      "box": [
+        126,
+        339,
+        552,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearPath Nursing Group, 2018.01–2020.07",
+      "score": 0.99,
+      "box": [
+        115,
+        381,
+        710,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9918,
+      "box": [
+        126,
+        406,
+        479,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9955,
+      "box": [
+        126,
+        430,
+        438,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Health and Human Services, Brightfield Ridge University, 2021",
+      "score": 0.9753,
+      "box": [
+        115,
+        541,
+        803,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in delegation principles",
+      "score": 0.9836,
+      "box": [
+        134,
+        566,
+        580,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of stress management in care",
+      "score": 0.9879,
+      "box": [
+        132,
+        590,
+        631,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ROBERTO GOOD\nMD, USA|+1-551-791-4893 |roberto.good@example.com\nWORK HISTORY\nRegistered Nurses, KindWay Nursing Services, 2020.07–2023.01\n– Managed clinical risk assessments\n- Developed medication management policies\nRegistered Nurses, ClearPath Nursing Group, 2018.01–2020.07\n- Prepared medical equipment for use\n- Assisted with patient positioning\nEDUCATION\nBachelor's, Health and Human Services, Brightfield Ridge University, 2021\n• Completed coursework in delegation principles\n• Studied fundamentals of stress management in care"
+}

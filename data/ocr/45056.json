@@ -1,0 +1,239 @@
+{
+  "id": "45056",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.886,
+  "n_lines": 17,
+  "mean_score": 0.9822,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KIEFER PITTMAN",
+      "score": 0.984,
+      "box": [
+        117,
+        90,
+        399,
+        120
+      ]
+    },
+    {
+      "text": "PA, USA|+1-429-873-6367|kiefer.pittman@example.com",
+      "score": 0.9809,
+      "box": [
+        115,
+        150,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerBuild Group, 2020.12–2023.01",
+      "score": 0.9881,
+      "box": [
+        114,
+        289,
+        680,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.9593,
+      "box": [
+        126,
+        314,
+        531,
+        339
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.9948,
+      "box": [
+        126,
+        339,
+        478,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SafeRise Construction, 2018.10–2020.12",
+      "score": 0.9887,
+      "box": [
+        115,
+        381,
+        716,
+        406
+      ]
+    },
+    {
+      "text": "- Installed roofing materials",
+      "score": 0.9728,
+      "box": [
+        125,
+        407,
+        379,
+        430
+      ]
+    },
+    {
+      "text": "- Installed electrical wiring supports",
+      "score": 0.9844,
+      "box": [
+        126,
+        430,
+        454,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyRise Contractors, 2016.08–2018.10",
+      "score": 0.9928,
+      "box": [
+        115,
+        471,
+        729,
+        496
+      ]
+    },
+    {
+      "text": "-Maintained cleanliness of work areas",
+      "score": 0.9682,
+      "box": [
+        125,
+        496,
+        485,
+        521
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.9762,
+      "box": [
+        127,
+        522,
+        474,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Construction Materials, Greenfield University, 2019",
+      "score": 0.9702,
+      "box": [
+        115,
+        632,
+        678,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Structural Technology, Clearview University, 2017",
+      "score": 0.9913,
+      "box": [
+        114,
+        656,
+        688,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of load-bearing structures",
+      "score": 0.9912,
+      "box": [
+        132,
+        681,
+        556,
+        706
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site documentation",
+      "score": 0.9708,
+      "box": [
+        132,
+        706,
+        588,
+        731
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "KIEFER PITTMAN\nPA, USA|+1-429-873-6367|kiefer.pittman@example.com\nWORK HISTORY\nConstruction Laborers, CornerBuild Group, 2020.12–2023.01\n- Implemented safety compliance strategies\n- Designed construction staging plans\nConstruction Laborers, SafeRise Construction, 2018.10–2020.12\n- Installed roofing materials\n- Installed electrical wiring supports\nConstruction Laborers, SteadyRise Contractors, 2016.08–2018.10\n-Maintained cleanliness of work areas\n- Marked measurements on materials\nEDUCATION\nMaster's, Construction Materials, Greenfield University, 2019\nBachelor's, Structural Technology, Clearview University, 2017\n• Studied principles of load-bearing structures\n• Studied fundamentals of job site documentation"
+}

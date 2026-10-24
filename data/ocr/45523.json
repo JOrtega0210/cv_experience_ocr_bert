@@ -1,0 +1,187 @@
+{
+  "id": "45523",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.866,
+  "n_lines": 13,
+  "mean_score": 0.981,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DAVID BECKER",
+      "score": 0.9619,
+      "box": [
+        116,
+        90,
+        372,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-878-647-3737 |david.becker@example.com",
+      "score": 0.978,
+      "box": [
+        115,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9777,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Futures Academy, 2020.07–2022.07",
+      "score": 0.9913,
+      "box": [
+        115,
+        289,
+        885,
+        314
+      ]
+    },
+    {
+      "text": "- Designed learning analytics frameworks",
+      "score": 0.9854,
+      "box": [
+        127,
+        315,
+        511,
+        338
+      ]
+    },
+    {
+      "text": "- Led instructional leadership initiatives",
+      "score": 0.9795,
+      "box": [
+        127,
+        340,
+        488,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright River Academy, 2017.02–2019.03",
+      "score": 0.984,
+      "box": [
+        115,
+        381,
+        839,
+        406
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9832,
+      "box": [
+        126,
+        406,
+        517,
+        432
+      ]
+    },
+    {
+      "text": "-Supported art instruction",
+      "score": 0.9851,
+      "box": [
+        125,
+        430,
+        369,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Basic Education Studies, Foxwood University, 2007",
+      "score": 0.9675,
+      "box": [
+        115,
+        541,
+        702,
+        564
+      ]
+    },
+    {
+      "text": "• Completed introductory coursework in educational psychology",
+      "score": 0.9763,
+      "box": [
+        132,
+        565,
+        720,
+        591
+      ]
+    },
+    {
+      "text": "• Studied principles of differentiated instruction",
+      "score": 0.985,
+      "box": [
+        134,
+        592,
+        563,
+        612
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "DAVID BECKER\nPA, USA|+1-878-647-3737 |david.becker@example.com\nWORK HISTORY\nElementary Middle School Teachers, Growing Futures Academy, 2020.07–2022.07\n- Designed learning analytics frameworks\n- Led instructional leadership initiatives\nElementary Middle School Teachers, Bright River Academy, 2017.02–2019.03\n- Organized classroom learning resources\n-Supported art instruction\nEDUCATION\nBachelor's, Basic Education Studies, Foxwood University, 2007\n• Completed introductory coursework in educational psychology\n• Studied principles of differentiated instruction"
+}

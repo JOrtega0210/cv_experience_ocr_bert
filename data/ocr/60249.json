@@ -1,0 +1,148 @@
+{
+  "id": "60249",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.818,
+  "n_lines": 10,
+  "mean_score": 0.9823,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANTOINE MORSE",
+      "score": 0.9838,
+      "box": [
+        117,
+        90,
+        401,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-907-983-5131 |antoine.morse@example.com",
+      "score": 0.9746,
+      "box": [
+        115,
+        150,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9787,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterBuild Group, 2021.12–2023.01",
+      "score": 0.9872,
+      "box": [
+        115,
+        289,
+        679,
+        312
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9744,
+      "box": [
+        127,
+        316,
+        424,
+        336
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9678,
+      "box": [
+        126,
+        339,
+        439,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Skills, Meadowridge University, 2023",
+      "score": 0.9868,
+      "box": [
+        115,
+        447,
+        832,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction measurements",
+      "score": 0.9858,
+      "box": [
+        132,
+        472,
+        646,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction workflow coordination",
+      "score": 0.9857,
+      "box": [
+        135,
+        500,
+        707,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ANTOINE MORSE\nWI, USA|+1-907-983-5131 |antoine.morse@example.com\nWORK HISTORY\nConstruction Laborers, MasterBuild Group, 2021.12–2023.01\n- Assisted with excavation tasks\n- Helped position heavy materials\nEDUCATION\nSome college (no degree), Construction Skills, Meadowridge University, 2023\n• Completed coursework in construction measurements\n• Completed coursework in construction workflow coordination"
+}

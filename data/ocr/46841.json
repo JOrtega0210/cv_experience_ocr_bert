@@ -1,0 +1,148 @@
+{
+  "id": "46841",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.771,
+  "n_lines": 10,
+  "mean_score": 0.9789,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LORI PECK",
+      "score": 0.9443,
+      "box": [
+        115,
+        90,
+        300,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-999-487-4267|lori.peck@example.com",
+      "score": 0.9821,
+      "box": [
+        115,
+        150,
+        619,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9813,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Field Academy, 2021.07–2021.11",
+      "score": 0.9817,
+      "box": [
+        116,
+        290,
+        835,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed learning standards",
+      "score": 0.9919,
+      "box": [
+        126,
+        315,
+        412,
+        338
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9883,
+      "box": [
+        126,
+        339,
+        417,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Support, Silverwood University, 2005",
+      "score": 0.9607,
+      "box": [
+        115,
+        449,
+        660,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in creative teaching strategies",
+      "score": 0.9706,
+      "box": [
+        132,
+        473,
+        643,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional sequencing",
+      "score": 0.9901,
+      "box": [
+        133,
+        497,
+        613,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "LORI PECK\nPA, USA|+1-999-487-4267|lori.peck@example.com\nWORK HISTORY\nElementary Middle School Teachers, Bright Field Academy, 2021.07–2021.11\n- Reviewed learning standards\n- Prepared visual teaching aids\nEDUCATION\nBachelor's, Teaching Support, Silverwood University, 2005\n• Completed coursework in creative teaching strategies\n• Completed coursework in instructional sequencing"
+}

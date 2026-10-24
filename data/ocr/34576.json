@@ -1,0 +1,148 @@
+{
+  "id": "34576",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.716,
+  "n_lines": 10,
+  "mean_score": 0.984,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TY CAMERON",
+      "score": 0.9906,
+      "box": [
+        115,
+        90,
+        343,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-393-271-7011 |ty.cameron@example.com",
+      "score": 0.98,
+      "box": [
+        116,
+        151,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Solutions, 2020.06–2021.11",
+      "score": 0.9957,
+      "box": [
+        115,
+        290,
+        693,
+        313
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.9819,
+      "box": [
+        127,
+        315,
+        435,
+        338
+      ]
+    },
+    {
+      "text": "- Verified transaction accuracy",
+      "score": 0.978,
+      "box": [
+        126,
+        339,
+        411,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Economics, Stonecrest University, 2018",
+      "score": 0.9653,
+      "box": [
+        114,
+        447,
+        685,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of journal entries",
+      "score": 0.9767,
+      "box": [
+        132,
+        472,
+        510,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of forecast modeling",
+      "score": 0.9889,
+      "box": [
+        133,
+        499,
+        505,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "TY CAMERON\nNJ, USA|+1-393-271-7011 |ty.cameron@example.com\nWORK HISTORY\nAccountants Auditors, AccuCount Solutions, 2020.06–2021.11\n- Updated general ledger records\n- Verified transaction accuracy\nEDUCATION\nBachelor's, Business Economics, Stonecrest University, 2018\n• Studied fundamentals of journal entries\n• Studied principles of forecast modeling"
+}

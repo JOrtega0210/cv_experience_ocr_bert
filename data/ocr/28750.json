@@ -1,0 +1,174 @@
+{
+  "id": "28750",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.848,
+  "n_lines": 12,
+  "mean_score": 0.978,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MAJID FRENCH",
+      "score": 0.9695,
+      "box": [
+        116,
+        90,
+        370,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-745-345-1734 |majid.french@example.com",
+      "score": 0.9705,
+      "box": [
+        115,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongForm Builders, 2019.06–2022.04",
+      "score": 0.9701,
+      "box": [
+        115,
+        289,
+        699,
+        312
+      ]
+    },
+    {
+      "text": "- Led structural installation projects",
+      "score": 0.9565,
+      "box": [
+        125,
+        313,
+        452,
+        339
+      ]
+    },
+    {
+      "text": "- Developed project risk assessments",
+      "score": 0.991,
+      "box": [
+        126,
+        339,
+        476,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Track Builders, 2015.02–2017.12",
+      "score": 0.9849,
+      "box": [
+        116,
+        382,
+        713,
+        405
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.9846,
+      "box": [
+        126,
+        406,
+        481,
+        431
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.9643,
+      "box": [
+        125,
+        431,
+        502,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Inspection, Morningstar High School, 2003",
+      "score": 0.9913,
+      "box": [
+        116,
+        541,
+        893,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site coordination",
+      "score": 0.9714,
+      "box": [
+        132,
+        564,
+        565,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "MAJID FRENCH\nMN, USA|+1-745-345-1734 |majid.french@example.com\nWORK HISTORY\nConstruction Laborers, StrongForm Builders, 2019.06–2022.04\n- Led structural installation projects\n- Developed project risk assessments\nConstruction Laborers, Unified Track Builders, 2015.02–2017.12\n- Supported crew leaders during tasks\n- Handled power tools under supervision\nEDUCATION\nHigh school graduate/GED, Construction Inspection, Morningstar High School, 2003\n• Studied fundamentals of job site coordination"
+}

@@ -1,0 +1,174 @@
+{
+  "id": "51376",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.85,
+  "n_lines": 12,
+  "mean_score": 0.9827,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "FRANCISCO BRAVO",
+      "score": 0.979,
+      "box": [
+        115,
+        88,
+        447,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA|+1-442-239-5240|francisco.bravo@example.com",
+      "score": 0.9869,
+      "box": [
+        114,
+        150,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9839,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Line Contractors, 2021.03–2023.01",
+      "score": 0.9648,
+      "box": [
+        115,
+        290,
+        752,
+        313
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9747,
+      "box": [
+        126,
+        313,
+        441,
+        339
+      ]
+    },
+    {
+      "text": "- Managed subcontractor coordination",
+      "score": 0.9794,
+      "box": [
+        127,
+        340,
+        480,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Co., 2019.05–2021.03",
+      "score": 0.9683,
+      "box": [
+        116,
+        382,
+        648,
+        405
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.9889,
+      "box": [
+        127,
+        408,
+        481,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.9828,
+      "box": [
+        125,
+        430,
+        583,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Coordination, Fairfield High School, 2018",
+      "score": 0.9931,
+      "box": [
+        116,
+        541,
+        881,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of site hazard controls",
+      "score": 0.9924,
+      "box": [
+        133,
+        566,
+        523,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "FRANCISCO BRAVO\nTX, USA|+1-442-239-5240|francisco.bravo@example.com\nWORK HISTORY\nConstruction Laborers, Precision Line Contractors, 2021.03–2023.01\n- Led complex demolition projects\n- Managed subcontractor coordination\nConstruction Laborers, PrimeBuild Co., 2019.05–2021.03\n- Supported crew leaders during tasks\n- Assisted with basic electrical conduit placement\nEDUCATION\nHigh school graduate/GED, Construction Coordination, Fairfield High School, 2018\n• Studied principles of site hazard controls"
+}

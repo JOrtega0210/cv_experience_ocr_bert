@@ -1,0 +1,226 @@
+{
+  "id": "26586",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.852,
+  "n_lines": 16,
+  "mean_score": 0.9791,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JASMINE BARBER",
+      "score": 0.9913,
+      "box": [
+        116,
+        90,
+        418,
+        120
+      ]
+    },
+    {
+      "text": "MA, USA|+1-295-471-6184 |jasmine.barber@example.com",
+      "score": 0.9843,
+      "box": [
+        115,
+        150,
+        681,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9814,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWell Nursing Services, 2020.11–2023.01",
+      "score": 0.9705,
+      "box": [
+        115,
+        289,
+        715,
+        314
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.988,
+      "box": [
+        127,
+        315,
+        392,
+        338
+      ]
+    },
+    {
+      "text": "- Led patient experience improvement programs",
+      "score": 0.9817,
+      "box": [
+        127,
+        339,
+        574,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindSpring Care Center, 2018.03–2020.05",
+      "score": 0.982,
+      "box": [
+        116,
+        383,
+        697,
+        406
+      ]
+    },
+    {
+      "text": "- Educated patients on treatment plans",
+      "score": 0.9945,
+      "box": [
+        126,
+        406,
+        488,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted comprehensive patient assessments",
+      "score": 0.9969,
+      "box": [
+        126,
+        431,
+        587,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafePath Nursing, 2015.03–2017.06",
+      "score": 0.982,
+      "box": [
+        116,
+        473,
+        639,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9569,
+      "box": [
+        125,
+        496,
+        435,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9293,
+      "box": [
+        126,
+        521,
+        372,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Associate's degree, General Nursing, Riverstone University, 2011",
+      "score": 0.9802,
+      "box": [
+        114,
+        631,
+        722,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of hospice care",
+      "score": 0.9872,
+      "box": [
+        132,
+        656,
+        460,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of mental health nursing",
+      "score": 0.9609,
+      "box": [
+        134,
+        682,
+        539,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JASMINE BARBER\nMA, USA|+1-295-471-6184 |jasmine.barber@example.com\nWORK HISTORY\nRegistered Nurses, SunWell Nursing Services, 2020.11–2023.01\n- Led nursing process audits\n- Led patient experience improvement programs\nRegistered Nurses, KindSpring Care Center, 2018.03–2020.05\n- Educated patients on treatment plans\n- Conducted comprehensive patient assessments\nRegistered Nurses, SafePath Nursing, 2015.03–2017.06\n- Monitored patient dietary needs\n- Prepared sterile supplies\nEDUCATION\nAssociate's degree, General Nursing, Riverstone University, 2011\n• Studied principles of hospice care\n• Studied principles of mental health nursing"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "15085",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.961,
+  "n_lines": 13,
+  "mean_score": 0.9788,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MILLIE MCCOY",
+      "score": 0.9836,
+      "box": [
+        115,
+        88,
+        363,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA|+1-828-903-8314|millie.mccoy@example.com",
+      "score": 0.9573,
+      "box": [
+        116,
+        151,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Financial Group, 2021.01–2023.01",
+      "score": 0.9758,
+      "box": [
+        114,
+        288,
+        757,
+        314
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9616,
+      "box": [
+        125,
+        313,
+        547,
+        339
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9867,
+      "box": [
+        127,
+        340,
+        518,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearView Accounting, 2019.01–2021.01",
+      "score": 0.996,
+      "box": [
+        115,
+        382,
+        703,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with internal control testing",
+      "score": 0.9869,
+      "box": [
+        125,
+        406,
+        473,
+        432
+      ]
+    },
+    {
+      "text": "- Verified transaction accuracy",
+      "score": 0.9647,
+      "box": [
+        126,
+        429,
+        411,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Finance, Brookfield University, 2023",
+      "score": 0.9763,
+      "box": [
+        115,
+        541,
+        635,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of auditing",
+      "score": 0.9594,
+      "box": [
+        132,
+        565,
+        451,
+        588
+      ]
+    },
+    {
+      "text": "• Completed coursework in business mathematics",
+      "score": 0.9942,
+      "box": [
+        134,
+        591,
+        596,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "MILLIE MCCOY\nGA, USA|+1-828-903-8314|millie.mccoy@example.com\nWORK HISTORY\nAccountants Auditors, ClearCount Financial Group, 2021.01–2023.01\n- Established compliance monitoring systems\n- Established financial reporting standards\nAccountants Auditors, ClearView Accounting, 2019.01–2021.01\n- Assisted with internal control testing\n- Verified transaction accuracy\nEDUCATION\nBachelor's, Applied Finance, Brookfield University, 2023\n• Studied fundamentals of auditing\n• Completed coursework in business mathematics"
+}

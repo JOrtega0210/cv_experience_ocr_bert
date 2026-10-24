@@ -1,0 +1,200 @@
+{
+  "id": "36994",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.888,
+  "n_lines": 14,
+  "mean_score": 0.9781,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "VICTOR CHOI",
+      "score": 0.9656,
+      "box": [
+        114,
+        88,
+        339,
+        122
+      ]
+    },
+    {
+      "text": "NY, USA|+1-974-722-4124|victor.choi@example.com",
+      "score": 0.9819,
+      "box": [
+        115,
+        150,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9835,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Financial Group, 2020.09–2023.01",
+      "score": 0.9813,
+      "box": [
+        114,
+        289,
+        807,
+        313
+      ]
+    },
+    {
+      "text": "- Developed risk management frameworks",
+      "score": 0.9578,
+      "box": [
+        125,
+        314,
+        520,
+        337
+      ]
+    },
+    {
+      "text": "- Established audit governance structures",
+      "score": 0.9695,
+      "box": [
+        126,
+        339,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Advisors, 2016.11–2019.03",
+      "score": 0.9927,
+      "box": [
+        115,
+        382,
+        680,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained vendor records",
+      "score": 0.9794,
+      "box": [
+        126,
+        406,
+        389,
+        429
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.9715,
+      "box": [
+        125,
+        430,
+        362,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Managerial Accounting, Cedar Valley University, 2015",
+      "score": 0.9786,
+      "box": [
+        115,
+        541,
+        706,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting and Auditing, Clearstone University, 2013",
+      "score": 0.9591,
+      "box": [
+        114,
+        564,
+        719,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in contribution margin analysis",
+      "score": 0.9881,
+      "box": [
+        133,
+        590,
+        648,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in fraud examination basics",
+      "score": 0.9868,
+      "box": [
+        134,
+        616,
+        620,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "VICTOR CHOI\nNY, USA|+1-974-722-4124|victor.choi@example.com\nWORK HISTORY\nAccountants Auditors, Reliable Balance Financial Group, 2020.09–2023.01\n- Developed risk management frameworks\n- Established audit governance structures\nAccountants Auditors, FairBooks Advisors, 2016.11–2019.03\n- Maintained vendor records\n- Recorded cash receipts\nEDUCATION\nMaster's, Managerial Accounting, Cedar Valley University, 2015\nBachelor's, Accounting and Auditing, Clearstone University, 2013\n• Completed coursework in contribution margin analysis\n• Completed coursework in fraud examination basics"
+}

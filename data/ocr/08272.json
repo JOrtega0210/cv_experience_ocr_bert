@@ -1,0 +1,265 @@
+{
+  "id": "08272",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.023,
+  "n_lines": 19,
+  "mean_score": 0.9799,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ALLYSON TANG",
+      "score": 0.9696,
+      "box": [
+        117,
+        90,
+        381,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-544-983-8004 |allyson.tang@example.com",
+      "score": 0.9393,
+      "box": [
+        117,
+        151,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9816,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Group, 2019.10–2023.01",
+      "score": 0.9717,
+      "box": [
+        114,
+        289,
+        692,
+        314
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9828,
+      "box": [
+        126,
+        314,
+        528,
+        339
+      ]
+    },
+    {
+      "text": "- Managed consolidation processes",
+      "score": 0.9896,
+      "box": [
+        126,
+        339,
+        458,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Advisors, 2016.07–2019.10",
+      "score": 0.9823,
+      "box": [
+        115,
+        381,
+        731,
+        406
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9792,
+      "box": [
+        126,
+        406,
+        479,
+        431
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9885,
+      "box": [
+        127,
+        432,
+        553,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Advisors, 2013.04–2016.07",
+      "score": 0.9779,
+      "box": [
+        114,
+        471,
+        739,
+        496
+      ]
+    },
+    {
+      "text": "- Developed budget forecasts",
+      "score": 0.972,
+      "box": [
+        126,
+        498,
+        403,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed contract accounting",
+      "score": 0.9876,
+      "box": [
+        126,
+        521,
+        421,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Advisors, 2010.01–2013.04",
+      "score": 0.9862,
+      "box": [
+        115,
+        565,
+        727,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9692,
+      "box": [
+        125,
+        589,
+        356,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9773,
+      "box": [
+        126,
+        614,
+        423,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Analytics, Woodland University, 2015",
+      "score": 0.983,
+      "box": [
+        114,
+        723,
+        661,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of financial ratio analysis",
+      "score": 0.9922,
+      "box": [
+        133,
+        749,
+        546,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in business communication",
+      "score": 0.9883,
+      "box": [
+        135,
+        775,
+        618,
+        795
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "ALLYSON TANG\nCA, USA|+1-544-983-8004 |allyson.tang@example.com\nWORK HISTORY\nAccountants Auditors, SteadyLedger Group, 2019.10–2023.01\n- Designed financial accountability systems\n- Managed consolidation processes\nAccountants Auditors, Integrity Ledger Advisors, 2016.07–2019.10\n- Led accounting process optimization\n- Designed financial documentation standards\nAccountants Auditors, Accurate Ledger Advisors, 2013.04–2016.07\n- Developed budget forecasts\n- Reviewed contract accounting\nAccountants Auditors, Precise Ledger Advisors, 2010.01–2013.04\n- Prepared aging reports\n- Assisted with regulatory filings\nEDUCATION\nBachelor's, Business Analytics, Woodland University, 2015\n• Studied principles of financial ratio analysis\n• Completed coursework in business communication"
+}

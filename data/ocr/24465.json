@@ -1,0 +1,239 @@
+{
+  "id": "24465",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.951,
+  "n_lines": 17,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NATLIE WASHINGTON",
+      "score": 0.9898,
+      "box": [
+        116,
+        90,
+        479,
+        120
+      ]
+    },
+    {
+      "text": "MD, USA|+1-741-669-2618 |natlie.washington@example.com",
+      "score": 0.988,
+      "box": [
+        115,
+        150,
+        706,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.98,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Evergreen Academy, 2019.10–2023.01",
+      "score": 0.9923,
+      "box": [
+        115,
+        289,
+        825,
+        314
+      ]
+    },
+    {
+      "text": "- Designed performance monitoring systems",
+      "score": 0.9917,
+      "box": [
+        126,
+        314,
+        538,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented academic policy updates",
+      "score": 0.98,
+      "box": [
+        126,
+        339,
+        497,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Start Academy, 2016.06–2019.10",
+      "score": 0.9896,
+      "box": [
+        115,
+        381,
+        858,
+        406
+      ]
+    },
+    {
+      "text": "- Maintained academic records",
+      "score": 0.9605,
+      "box": [
+        126,
+        407,
+        414,
+        429
+      ]
+    },
+    {
+      "text": "- Supervised student projects",
+      "score": 0.9898,
+      "box": [
+        126,
+        430,
+        400,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Valley School, 2010.07–2013.11",
+      "score": 0.9863,
+      "box": [
+        115,
+        471,
+        822,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared daily lesson plans aligned with curriculum guidelines",
+      "score": 0.9577,
+      "box": [
+        127,
+        498,
+        716,
+        521
+      ]
+    },
+    {
+      "text": "- Collected student assignments",
+      "score": 0.9878,
+      "box": [
+        126,
+        521,
+        427,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Applied Education, Brighton University, 2008",
+      "score": 0.9681,
+      "box": [
+        115,
+        632,
+        620,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Assistance, Oakridge University, 2006",
+      "score": 0.9888,
+      "box": [
+        115,
+        658,
+        693,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of early childhood education",
+      "score": 0.9883,
+      "box": [
+        132,
+        681,
+        579,
+        705
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic tutoring methods",
+      "score": 0.9876,
+      "box": [
+        133,
+        706,
+        600,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "NATLIE WASHINGTON\nMD, USA|+1-741-669-2618 |natlie.washington@example.com\nWORK HISTORY\nElementary Middle School Teachers, Evergreen Academy, 2019.10–2023.01\n- Designed performance monitoring systems\n- Implemented academic policy updates\nElementary Middle School Teachers, Growing Start Academy, 2016.06–2019.10\n- Maintained academic records\n- Supervised student projects\nElementary Middle School Teachers, Bright Valley School, 2010.07–2013.11\n- Prepared daily lesson plans aligned with curriculum guidelines\n- Collected student assignments\nEDUCATION\nMaster's, Applied Education, Brighton University, 2008\nBachelor's, Educational Assistance, Oakridge University, 2006\n• Studied principles of early childhood education\n• Completed coursework in basic tutoring methods"
+}

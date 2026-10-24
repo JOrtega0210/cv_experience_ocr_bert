@@ -1,0 +1,265 @@
+{
+  "id": "59079",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.884,
+  "n_lines": 19,
+  "mean_score": 0.9818,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KRIEG WU",
+      "score": 0.9557,
+      "box": [
+        114,
+        88,
+        290,
+        123
+      ]
+    },
+    {
+      "text": "WA, USA|+1-640-448-7019 |krieg.wu@example.com",
+      "score": 0.9809,
+      "box": [
+        114,
+        150,
+        624,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Advisors, 2019.08–2023.01",
+      "score": 0.9862,
+      "box": [
+        115,
+        290,
+        679,
+        313
+      ]
+    },
+    {
+      "text": "-Directed budget planning cycles",
+      "score": 0.9946,
+      "box": [
+        125,
+        313,
+        439,
+        339
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9791,
+      "box": [
+        126,
+        339,
+        323,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Advisors, 2016.02–2019.08",
+      "score": 0.9655,
+      "box": [
+        114,
+        381,
+        687,
+        406
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9889,
+      "box": [
+        125,
+        406,
+        517,
+        431
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.9768,
+      "box": [
+        125,
+        431,
+        433,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, PrimeLedger Group, 2012.08–2016.02",
+      "score": 0.9879,
+      "box": [
+        114,
+        471,
+        684,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared tax compliance filings",
+      "score": 0.9843,
+      "box": [
+        125,
+        496,
+        433,
+        522
+      ]
+    },
+    {
+      "text": "- Reviewed tax provisions",
+      "score": 0.9754,
+      "box": [
+        125,
+        521,
+        368,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Accounting, 2009.02–2012.08",
+      "score": 0.9778,
+      "box": [
+        116,
+        564,
+        702,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with financial statement preparation",
+      "score": 0.9922,
+      "box": [
+        125,
+        588,
+        555,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9966,
+      "box": [
+        126,
+        613,
+        413,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Accounting, Brookfield University, 2008",
+      "score": 0.9776,
+      "box": [
+        114,
+        722,
+        678,
+        748
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial modeling basics",
+      "score": 0.9661,
+      "box": [
+        132,
+        748,
+        622,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in segment reporting",
+      "score": 0.9838,
+      "box": [
+        134,
+        772,
+        557,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "KRIEG WU\nWA, USA|+1-640-448-7019 |krieg.wu@example.com\nWORK HISTORY\nAccountants Auditors, OpenPath Advisors, 2019.08–2023.01\n-Directed budget planning cycles\n- Led audit programs\nAccountants Auditors, FairLedger Advisors, 2016.02–2019.08\n- Directed enterprise accounting platforms\n- Established accounting policies\nAccountants Auditors, PrimeLedger Group, 2012.08–2016.02\n- Prepared tax compliance filings\n- Reviewed tax provisions\nAccountants Auditors, OpenPath Accounting, 2009.02–2012.08\n- Assisted with financial statement preparation\n- Assisted with budget tracking\nEDUCATION\nBachelor's, Financial Accounting, Brookfield University, 2008\n• Completed coursework in financial modeling basics\n• Completed coursework in segment reporting"
+}

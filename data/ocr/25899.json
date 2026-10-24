@@ -1,0 +1,226 @@
+{
+  "id": "25899",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.873,
+  "n_lines": 16,
+  "mean_score": 0.9808,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RACHEL KOCH",
+      "score": 0.9646,
+      "box": [
+        116,
+        90,
+        366,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-917-999-2673 |rachel.koch@example.com",
+      "score": 0.9793,
+      "box": [
+        115,
+        150,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9828,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellWay Nursing Services, 2020.12–2023.01",
+      "score": 0.9726,
+      "box": [
+        115,
+        289,
+        720,
+        314
+      ]
+    },
+    {
+      "text": "- Directed interdisciplinary workflow alignment",
+      "score": 0.9764,
+      "box": [
+        127,
+        315,
+        554,
+        338
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9875,
+      "box": [
+        127,
+        340,
+        549,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Path Medical, 2018.04–2020.05",
+      "score": 0.9771,
+      "box": [
+        115,
+        381,
+        718,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted post-operative assessments",
+      "score": 0.9789,
+      "box": [
+        126,
+        406,
+        509,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with emergency interventions",
+      "score": 0.9831,
+      "box": [
+        126,
+        431,
+        497,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunHands Nursing, 2015.08–2017.10",
+      "score": 0.9923,
+      "box": [
+        116,
+        472,
+        651,
+        496
+      ]
+    },
+    {
+      "text": "-Maintained supply inventory",
+      "score": 0.9903,
+      "box": [
+        125,
+        496,
+        401,
+        522
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9777,
+      "box": [
+        126,
+        521,
+        531,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Geriatric Care, Brightfield University, 2010",
+      "score": 0.972,
+      "box": [
+        114,
+        631,
+        616,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient-centered care",
+      "score": 0.9747,
+      "box": [
+        134,
+        658,
+        587,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in acute care nursing",
+      "score": 0.9851,
+      "box": [
+        135,
+        683,
+        561,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "RACHEL KOCH\nMA, USA|+1-917-999-2673 |rachel.koch@example.com\nWORK HISTORY\nRegistered Nurses, WellWay Nursing Services, 2020.12–2023.01\n- Directed interdisciplinary workflow alignment\n- Developed clinical performance dashboards\nRegistered Nurses, Compassion Path Medical, 2018.04–2020.05\n- Conducted post-operative assessments\n- Assisted with emergency interventions\nRegistered Nurses, SunHands Nursing, 2015.08–2017.10\n-Maintained supply inventory\n- Recorded medication administration times\nEDUCATION\nBachelor's, Geriatric Care, Brightfield University, 2010\n• Completed coursework in patient-centered care\n• Completed coursework in acute care nursing"
+}

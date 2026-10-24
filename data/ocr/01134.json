@@ -1,0 +1,265 @@
+{
+  "id": "01134",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.014,
+  "n_lines": 19,
+  "mean_score": 0.9822,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CURTIS BURNS",
+      "score": 0.9586,
+      "box": [
+        116,
+        88,
+        371,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-936-689-9386|curtis.burns@example.com",
+      "score": 0.9901,
+      "box": [
+        116,
+        151,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9858,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunHands Care Group, 2020.06–2023.01",
+      "score": 0.9769,
+      "box": [
+        115,
+        289,
+        686,
+        314
+      ]
+    },
+    {
+      "text": "- Designed clinical care protocols",
+      "score": 0.9849,
+      "box": [
+        127,
+        315,
+        436,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9923,
+      "box": [
+        126,
+        339,
+        572,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHands Nursing, 2017.11–2020.06",
+      "score": 0.9784,
+      "box": [
+        115,
+        381,
+        656,
+        406
+      ]
+    },
+    {
+      "text": "- Designed clinical documentation standards",
+      "score": 0.9933,
+      "box": [
+        126,
+        406,
+        539,
+        431
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.9879,
+      "box": [
+        126,
+        430,
+        426,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearPath Health, 2014.08–2017.03",
+      "score": 0.9826,
+      "box": [
+        115,
+        471,
+        634,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored fluid and electrolyte balance",
+      "score": 0.971,
+      "box": [
+        125,
+        496,
+        499,
+        521
+      ]
+    },
+    {
+      "text": "-Monitored cardiac telemetry",
+      "score": 0.9806,
+      "box": [
+        125,
+        521,
+        400,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearWay Nursing Group, 2011.01–2013.08",
+      "score": 0.9938,
+      "box": [
+        116,
+        565,
+        709,
+        589
+      ]
+    },
+    {
+      "text": "- Maintained supply inventory",
+      "score": 0.9731,
+      "box": [
+        125,
+        589,
+        401,
+        615
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.9869,
+      "box": [
+        126,
+        613,
+        418,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Registered Nursing, Oakridge University, 2002",
+      "score": 0.9832,
+      "box": [
+        114,
+        723,
+        735,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of chronic disease management",
+      "score": 0.9823,
+      "box": [
+        132,
+        747,
+        616,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient care",
+      "score": 0.9604,
+      "box": [
+        133,
+        772,
+        487,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "CURTIS BURNS\nAZ, USA|+1-936-689-9386|curtis.burns@example.com\nWORK HISTORY\nRegistered Nurses, SunHands Care Group, 2020.06–2023.01\n- Designed clinical care protocols\n- Implemented clinical decision support systems\nRegistered Nurses, KindHands Nursing, 2017.11–2020.06\n- Designed clinical documentation standards\n- Managed clinical data analysis\nRegistered Nurses, ClearPath Health, 2014.08–2017.03\n- Monitored fluid and electrolyte balance\n-Monitored cardiac telemetry\nRegistered Nurses, ClearWay Nursing Group, 2011.01–2013.08\n- Maintained supply inventory\n- Provided post-procedure care\nEDUCATION\nAssociate's degree, Registered Nursing, Oakridge University, 2002\n• Studied principles of chronic disease management\n• Studied fundamentals of patient care"
+}

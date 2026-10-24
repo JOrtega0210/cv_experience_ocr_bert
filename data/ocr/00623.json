@@ -1,0 +1,187 @@
+{
+  "id": "00623",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.971,
+  "n_lines": 13,
+  "mean_score": 0.9812,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOHNNY HOOVER",
+      "score": 0.9847,
+      "box": [
+        116,
+        90,
+        412,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-687-974-5994 |johnny.hoover@example.com",
+      "score": 0.9797,
+      "box": [
+        116,
+        151,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9823,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyStone Builders, 2020.08–2022.02",
+      "score": 0.9796,
+      "box": [
+        114,
+        289,
+        709,
+        314
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.9865,
+      "box": [
+        127,
+        315,
+        476,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed structural integrity assessments",
+      "score": 0.9791,
+      "box": [
+        126,
+        339,
+        532,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongBase Builders, 2018.02–2019.09",
+      "score": 0.9888,
+      "box": [
+        115,
+        381,
+        698,
+        406
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9714,
+      "box": [
+        127,
+        407,
+        439,
+        430
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.9857,
+      "box": [
+        125,
+        430,
+        583,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Drafting Technology, Harvest University, 2013",
+      "score": 0.9919,
+      "box": [
+        115,
+        540,
+        730,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic welding concepts",
+      "score": 0.9463,
+      "box": [
+        132,
+        565,
+        604,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of construction scheduling",
+      "score": 0.9815,
+      "box": [
+        134,
+        591,
+        560,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JOHNNY HOOVER\nAL, USA|+1-687-974-5994 |johnny.hoover@example.com\nWORK HISTORY\nConstruction Laborers, SteadyStone Builders, 2020.08–2022.02\n- Developed site performance metrics\n- Reviewed structural integrity assessments\nConstruction Laborers, StrongBase Builders, 2018.02–2019.09\n- Helped position heavy materials\n- Assisted with basic electrical conduit placement\nEDUCATION\nAssociate's degree, Drafting Technology, Harvest University, 2013\n• Completed coursework in basic welding concepts\n• Studied principles of construction scheduling"
+}

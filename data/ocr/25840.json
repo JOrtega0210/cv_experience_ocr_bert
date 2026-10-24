@@ -1,0 +1,187 @@
+{
+  "id": "25840",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.791,
+  "n_lines": 13,
+  "mean_score": 0.987,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DANIEL ELLIOTT",
+      "score": 0.9864,
+      "box": [
+        116,
+        90,
+        392,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-647-700-7064 |daniel.elliott@example.com",
+      "score": 0.9818,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9796,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Vertexline Tech, 2019.05–2022.03",
+      "score": 0.9826,
+      "box": [
+        115,
+        290,
+        640,
+        312
+      ]
+    },
+    {
+      "text": "- Developed system monitoring strategies",
+      "score": 0.9741,
+      "box": [
+        126,
+        314,
+        513,
+        339
+      ]
+    },
+    {
+      "text": "- Designed event-driven architectures",
+      "score": 0.9881,
+      "box": [
+        126,
+        339,
+        476,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Clearwave Tech, 2015.10–2018.08",
+      "score": 0.988,
+      "box": [
+        116,
+        382,
+        648,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.9838,
+      "box": [
+        126,
+        407,
+        424,
+        430
+      ]
+    },
+    {
+      "text": "- Updated monitoring dashboards",
+      "score": 0.9971,
+      "box": [
+        127,
+        433,
+        440,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Pinefield University, 2012",
+      "score": 0.993,
+      "box": [
+        115,
+        541,
+        462,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of graph algorithms",
+      "score": 0.9927,
+      "box": [
+        133,
+        566,
+        497,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in containerization basics",
+      "score": 0.9861,
+      "box": [
+        133,
+        590,
+        600,
+        613
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "DANIEL ELLIOTT\nMA, USA|+1-647-700-7064 |daniel.elliott@example.com\nWORK HISTORY\nSoftware Developers, Vertexline Tech, 2019.05–2022.03\n- Developed system monitoring strategies\n- Designed event-driven architectures\nSoftware Developers, Clearwave Tech, 2015.10–2018.08\n- Assisted with build automation\n- Updated monitoring dashboards\nEDUCATION\nBachelor's, Pinefield University, 2012\n• Studied principles of graph algorithms\n• Completed coursework in containerization basics"
+}

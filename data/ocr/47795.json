@@ -1,0 +1,226 @@
+{
+  "id": "47795",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.819,
+  "n_lines": 16,
+  "mean_score": 0.981,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KELLY BOYD",
+      "score": 0.9582,
+      "box": [
+        116,
+        90,
+        334,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-650-561-8452|kelly.boyd@example.com",
+      "score": 0.9844,
+      "box": [
+        116,
+        151,
+        634,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafePath Health, 2020.10–2023.01",
+      "score": 0.986,
+      "box": [
+        115,
+        289,
+        626,
+        314
+      ]
+    },
+    {
+      "text": "-Directed nursing operations planning",
+      "score": 0.9983,
+      "box": [
+        125,
+        314,
+        481,
+        339
+      ]
+    },
+    {
+      "text": "- Directed patient care coordination",
+      "score": 0.9604,
+      "box": [
+        126,
+        339,
+        454,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Sunrise Health Services, 2017.04–2019.07",
+      "score": 0.9878,
+      "box": [
+        115,
+        381,
+        699,
+        406
+      ]
+    },
+    {
+      "text": "- Managed pain control plans",
+      "score": 0.9637,
+      "box": [
+        126,
+        406,
+        400,
+        431
+      ]
+    },
+    {
+      "text": "- Monitored patient compliance",
+      "score": 0.9704,
+      "box": [
+        126,
+        430,
+        415,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindLife Care Center, 2013.07–2015.10",
+      "score": 0.9858,
+      "box": [
+        116,
+        472,
+        671,
+        496
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.973,
+      "box": [
+        125,
+        496,
+        444,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with specimen labeling",
+      "score": 0.9943,
+      "box": [
+        126,
+        521,
+        437,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Human Biology, Forestview University, 2003",
+      "score": 0.9839,
+      "box": [
+        115,
+        632,
+        635,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of population health",
+      "score": 0.9873,
+      "box": [
+        132,
+        656,
+        500,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of data privacy",
+      "score": 0.9769,
+      "box": [
+        133,
+        681,
+        491,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "KELLY BOYD\nSC, USA|+1-650-561-8452|kelly.boyd@example.com\nWORK HISTORY\nRegistered Nurses, SafePath Health, 2020.10–2023.01\n-Directed nursing operations planning\n- Directed patient care coordination\nRegistered Nurses, Sunrise Health Services, 2017.04–2019.07\n- Managed pain control plans\n- Monitored patient compliance\nRegistered Nurses, KindLife Care Center, 2013.07–2015.10\n- Collected patient health histories\n- Assisted with specimen labeling\nEDUCATION\nBachelor's, Human Biology, Forestview University, 2003\n• Studied principles of population health\n• Studied fundamentals of data privacy"
+}

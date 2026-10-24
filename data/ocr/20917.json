@@ -1,0 +1,226 @@
+{
+  "id": "20917",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.871,
+  "n_lines": 16,
+  "mean_score": 0.9808,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSEPH SOLOMON",
+      "score": 0.9886,
+      "box": [
+        116,
+        90,
+        436,
+        121
+      ]
+    },
+    {
+      "text": "IA, USA|+1-960-597-5625 |joseph.solomon@example.com",
+      "score": 0.9859,
+      "box": [
+        116,
+        152,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronStone Builders, 2020.08–2023.01",
+      "score": 0.9849,
+      "box": [
+        115,
+        290,
+        678,
+        312
+      ]
+    },
+    {
+      "text": "- Reviewed and approved project plans",
+      "score": 0.9811,
+      "box": [
+        125,
+        313,
+        491,
+        339
+      ]
+    },
+    {
+      "text": "- Managed workforce allocation",
+      "score": 0.9631,
+      "box": [
+        127,
+        340,
+        420,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronBuild Contractors, 2018.03–2020.08",
+      "score": 0.9772,
+      "box": [
+        115,
+        381,
+        705,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared cost estimates",
+      "score": 0.9817,
+      "box": [
+        127,
+        408,
+        367,
+        429
+      ]
+    },
+    {
+      "text": "- Coordinated material deliveries",
+      "score": 0.9641,
+      "box": [
+        126,
+        432,
+        431,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextRise Construction, 2015.09–2018.03",
+      "score": 0.9918,
+      "box": [
+        116,
+        472,
+        715,
+        495
+      ]
+    },
+    {
+      "text": "- Monitored material usage",
+      "score": 0.9748,
+      "box": [
+        125,
+        496,
+        379,
+        522
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9925,
+      "box": [
+        126,
+        521,
+        425,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Site Management, Stonegate University, 2016",
+      "score": 0.9888,
+      "box": [
+        114,
+        631,
+        853,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural layout",
+      "score": 0.9414,
+      "box": [
+        132,
+        656,
+        538,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in site drainage planning",
+      "score": 0.9917,
+      "box": [
+        134,
+        681,
+        593,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JOSEPH SOLOMON\nIA, USA|+1-960-597-5625 |joseph.solomon@example.com\nWORK HISTORY\nConstruction Laborers, IronStone Builders, 2020.08–2023.01\n- Reviewed and approved project plans\n- Managed workforce allocation\nConstruction Laborers, IronBuild Contractors, 2018.03–2020.08\n- Prepared cost estimates\n- Coordinated material deliveries\nConstruction Laborers, NextRise Construction, 2015.09–2018.03\n- Monitored material usage\n- Assisted with concrete pouring\nEDUCATION\nAssociate's degree, Construction Site Management, Stonegate University, 2016\n• Completed coursework in structural layout\n• Completed coursework in site drainage planning"
+}

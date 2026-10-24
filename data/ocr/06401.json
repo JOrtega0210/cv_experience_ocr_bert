@@ -1,0 +1,226 @@
+{
+  "id": "06401",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.945,
+  "n_lines": 16,
+  "mean_score": 0.9786,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KAREEM ALI",
+      "score": 0.9887,
+      "box": [
+        116,
+        90,
+        326,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-721-823-1159 |kareem.ali@example.com",
+      "score": 0.9784,
+      "box": [
+        116,
+        151,
+        637,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Group, 2020.05–2023.01",
+      "score": 0.9658,
+      "box": [
+        114,
+        289,
+        729,
+        314
+      ]
+    },
+    {
+      "text": "-Directed financial reporting processes",
+      "score": 0.9689,
+      "box": [
+        125,
+        314,
+        491,
+        339
+      ]
+    },
+    {
+      "text": "- Developed risk management frameworks",
+      "score": 0.9829,
+      "box": [
+        126,
+        339,
+        521,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Advisors, 2016.10–2019.06",
+      "score": 0.9826,
+      "box": [
+        114,
+        381,
+        701,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared statutory filings",
+      "score": 0.9467,
+      "box": [
+        126,
+        406,
+        374,
+        432
+      ]
+    },
+    {
+      "text": "- Managed accounting system updates",
+      "score": 0.983,
+      "box": [
+        126,
+        431,
+        488,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Co., 2012.12–2015.09",
+      "score": 0.9603,
+      "box": [
+        115,
+        472,
+        676,
+        496
+      ]
+    },
+    {
+      "text": "- Recorded payroll entries",
+      "score": 0.974,
+      "box": [
+        125,
+        496,
+        369,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.9968,
+      "box": [
+        126,
+        521,
+        420,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Administration, Silverwood University, 2005",
+      "score": 0.9914,
+      "box": [
+        114,
+        631,
+        717,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of consolidation accounting",
+      "score": 0.9726,
+      "box": [
+        132,
+        656,
+        607,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of audit sampling",
+      "score": 0.9808,
+      "box": [
+        134,
+        681,
+        476,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "KAREEM ALI\nCA, USA|+1-721-823-1159 |kareem.ali@example.com\nWORK HISTORY\nAccountants Auditors, Reliable Accounts Group, 2020.05–2023.01\n-Directed financial reporting processes\n- Developed risk management frameworks\nAccountants Auditors, ClearLedger Advisors, 2016.10–2019.06\n- Prepared statutory filings\n- Managed accounting system updates\nAccountants Auditors, Integrity Books Co., 2012.12–2015.09\n- Recorded payroll entries\n- Assisted with forecasting data\nEDUCATION\nBachelor's, Business Administration, Silverwood University, 2005\n• Studied fundamentals of consolidation accounting\n• Studied principles of audit sampling"
+}

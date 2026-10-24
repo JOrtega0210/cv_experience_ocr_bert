@@ -1,0 +1,278 @@
+{
+  "id": "31581",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.873,
+  "n_lines": 20,
+  "mean_score": 0.9831,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JEFFREY HESS",
+      "score": 0.9591,
+      "box": [
+        116,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "NE, USA|+1-200-990-3253 |jeffrey.hess@example.com",
+      "score": 0.9838,
+      "box": [
+        115,
+        150,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.982,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Skybridge Labs, 2020.02–2023.01",
+      "score": 0.9909,
+      "box": [
+        115,
+        289,
+        639,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented performance optimization plans",
+      "score": 0.9903,
+      "box": [
+        126,
+        314,
+        558,
+        339
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.966,
+      "box": [
+        126,
+        339,
+        395,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Coreline Labs, 2017.02–2020.02",
+      "score": 0.9956,
+      "box": [
+        116,
+        382,
+        625,
+        405
+      ]
+    },
+    {
+      "text": "- Defined code review processes",
+      "score": 0.9841,
+      "box": [
+        125,
+        405,
+        434,
+        432
+      ]
+    },
+    {
+      "text": "- Designed high-availability systems",
+      "score": 0.9755,
+      "box": [
+        126,
+        430,
+        461,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Clearline Software, 2014.02–2017.02",
+      "score": 0.9895,
+      "box": [
+        115,
+        471,
+        667,
+        496
+      ]
+    },
+    {
+      "text": "- Refactored legacy code",
+      "score": 0.9834,
+      "box": [
+        125,
+        496,
+        363,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented security controls",
+      "score": 0.9547,
+      "box": [
+        126,
+        521,
+        420,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Stonegrid Labs, 2008.11–2011.11",
+      "score": 0.9852,
+      "box": [
+        114,
+        563,
+        636,
+        588
+      ]
+    },
+    {
+      "text": "- Updated monitoring dashboards",
+      "score": 0.988,
+      "box": [
+        126,
+        590,
+        439,
+        614
+      ]
+    },
+    {
+      "text": "- Implemented validation logic",
+      "score": 0.9934,
+      "box": [
+        126,
+        614,
+        406,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Summit University, 2004",
+      "score": 0.9829,
+      "box": [
+        115,
+        725,
+        435,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Greenfield University, 2002",
+      "score": 0.992,
+      "box": [
+        115,
+        749,
+        478,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of functional programming",
+      "score": 0.9736,
+      "box": [
+        133,
+        774,
+        559,
+        798
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of domain-driven design",
+      "score": 0.9923,
+      "box": [
+        132,
+        798,
+        579,
+        823
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "JEFFREY HESS\nNE, USA|+1-200-990-3253 |jeffrey.hess@example.com\nWORK HISTORY\nSoftware Developers, Skybridge Labs, 2020.02–2023.01\n- Implemented performance optimization plans\n- Designed scalable services\nSoftware Developers, Coreline Labs, 2017.02–2020.02\n- Defined code review processes\n- Designed high-availability systems\nSoftware Developers, Clearline Software, 2014.02–2017.02\n- Refactored legacy code\n- Implemented security controls\nSoftware Developers, Stonegrid Labs, 2008.11–2011.11\n- Updated monitoring dashboards\n- Implemented validation logic\nEDUCATION\nMaster's, Summit University, 2004\nBachelor's, Greenfield University, 2002\n• Studied principles of functional programming\n• Studied fundamentals of domain-driven design"
+}

@@ -1,0 +1,200 @@
+{
+  "id": "00606",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.979,
+  "n_lines": 14,
+  "mean_score": 0.9822,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CURTIS MOSS",
+      "score": 0.9657,
+      "box": [
+        116,
+        88,
+        352,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA|+1-411-260-1220|curtis.moss@example.com",
+      "score": 0.9803,
+      "box": [
+        115,
+        150,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9835,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightPath Learning Center, 2021.07–223.0",
+      "score": 0.9811,
+      "box": [
+        115,
+        290,
+        879,
+        313
+      ]
+    },
+    {
+      "text": "- Led instructional leadership initiatives",
+      "score": 0.9711,
+      "box": [
+        125,
+        313,
+        488,
+        338
+      ]
+    },
+    {
+      "text": "- Directed curriculum revision cycles",
+      "score": 0.9634,
+      "box": [
+        126,
+        339,
+        464,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Steps Academy, 2018.08–2020.03",
+      "score": 0.9857,
+      "box": [
+        115,
+        381,
+        848,
+        406
+      ]
+    },
+    {
+      "text": "- Managed classroom supplies",
+      "score": 0.9887,
+      "box": [
+        126,
+        406,
+        413,
+        431
+      ]
+    },
+    {
+      "text": "- Delivered structured lessons in reading and mathematics",
+      "score": 0.9776,
+      "box": [
+        125,
+        430,
+        667,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, General Education, Willowgate University, 2014",
+      "score": 0.9865,
+      "box": [
+        115,
+        541,
+        648,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Human Development, Clearway University, 2012",
+      "score": 0.9923,
+      "box": [
+        115,
+        566,
+        676,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of educational goal setting",
+      "score": 0.9905,
+      "box": [
+        132,
+        590,
+        598,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic differentiation basics",
+      "score": 0.9861,
+      "box": [
+        135,
+        616,
+        674,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "CURTIS MOSS\nAL, USA|+1-411-260-1220|curtis.moss@example.com\nWORK HISTORY\nElementary Middle School Teachers, BrightPath Learning Center, 2021.07–223.0\n- Led instructional leadership initiatives\n- Directed curriculum revision cycles\nElementary Middle School Teachers, Sunny Steps Academy, 2018.08–2020.03\n- Managed classroom supplies\n- Delivered structured lessons in reading and mathematics\nEDUCATION\nMaster's, General Education, Willowgate University, 2014\nBachelor's, Human Development, Clearway University, 2012\n• Studied fundamentals of educational goal setting\n• Completed coursework in academic differentiation basics"
+}

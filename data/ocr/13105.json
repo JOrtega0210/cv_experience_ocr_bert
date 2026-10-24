@@ -1,0 +1,161 @@
+{
+  "id": "13105",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.871,
+  "n_lines": 11,
+  "mean_score": 0.9872,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSHUA NIELSEN",
+      "score": 0.9792,
+      "box": [
+        116,
+        90,
+        412,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-983-807-3502 |joshua.nielsen@example.com",
+      "score": 0.99,
+      "box": [
+        116,
+        151,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9833,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Financial, 2020.07–2023.01",
+      "score": 0.9771,
+      "box": [
+        115,
+        290,
+        687,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9832,
+      "box": [
+        127,
+        315,
+        453,
+        338
+      ]
+    },
+    {
+      "text": "- Maintained chart of accounts",
+      "score": 0.9886,
+      "box": [
+        127,
+        340,
+        409,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Financial Management, Pebble Creek University, 2019",
+      "score": 0.9945,
+      "box": [
+        115,
+        449,
+        712,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Investment Management, Silver Ridge University, 2017",
+      "score": 0.981,
+      "box": [
+        115,
+        474,
+        735,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit software tools",
+      "score": 0.9885,
+      "box": [
+        135,
+        500,
+        558,
+        520
+      ]
+    },
+    {
+      "text": "• Studied principles of revenue recognition",
+      "score": 0.9947,
+      "box": [
+        135,
+        524,
+        525,
+        547
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "JOSHUA NIELSEN\nFL, USA|+1-983-807-3502 |joshua.nielsen@example.com\nWORK HISTORY\nAccountants Auditors, EverCount Financial, 2020.07–2023.01\n- Reviewed expense classifications\n- Maintained chart of accounts\nEDUCATION\nMaster's, Financial Management, Pebble Creek University, 2019\nBachelor's, Investment Management, Silver Ridge University, 2017\n• Studied fundamentals of audit software tools\n• Studied principles of revenue recognition"
+}

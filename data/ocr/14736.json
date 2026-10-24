@@ -1,0 +1,200 @@
+{
+  "id": "14736",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.964,
+  "n_lines": 14,
+  "mean_score": 0.9867,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SARASWANSON",
+      "score": 0.9993,
+      "box": [
+        115,
+        90,
+        397,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-734-406-6522| sara.swanson@example.com",
+      "score": 0.9789,
+      "box": [
+        116,
+        151,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Hands Health, 2020.11–2023.01",
+      "score": 0.9781,
+      "box": [
+        116,
+        290,
+        668,
+        313
+      ]
+    },
+    {
+      "text": "-Directed emergency response planning",
+      "score": 0.9969,
+      "box": [
+        125,
+        314,
+        504,
+        339
+      ]
+    },
+    {
+      "text": "- Designed clinical care protocols",
+      "score": 0.9914,
+      "box": [
+        126,
+        339,
+        437,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenWay Nursing Services, 2018.08–2020.11",
+      "score": 0.9915,
+      "box": [
+        115,
+        381,
+        731,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with specimen labeling",
+      "score": 0.984,
+      "box": [
+        125,
+        406,
+        437,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.9928,
+      "box": [
+        126,
+        431,
+        472,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Master's, Allied Health, Summit Ridge University, 2017",
+      "score": 0.9684,
+      "box": [
+        115,
+        541,
+        622,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, General Nursing, Hillview University, 2015",
+      "score": 0.9793,
+      "box": [
+        114,
+        565,
+        617,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in oncology nursing basics",
+      "score": 0.9904,
+      "box": [
+        133,
+        591,
+        612,
+        614
+      ]
+    },
+    {
+      "text": "• Studied principles of emergency nursing",
+      "score": 0.98,
+      "box": [
+        133,
+        615,
+        519,
+        641
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "SARASWANSON\nGA, USA |+1-734-406-6522| sara.swanson@example.com\nWORK HISTORY\nRegistered Nurses, Caring Hands Health, 2020.11–2023.01\n-Directed emergency response planning\n- Designed clinical care protocols\nRegistered Nurses, OpenWay Nursing Services, 2018.08–2020.11\n- Assisted with specimen labeling\n- Assisted with respiratory treatments\nEDUCATION\nMaster's, Allied Health, Summit Ridge University, 2017\nBachelor's, General Nursing, Hillview University, 2015\n• Completed coursework in oncology nursing basics\n• Studied principles of emergency nursing"
+}

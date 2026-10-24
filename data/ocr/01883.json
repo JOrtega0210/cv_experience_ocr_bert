@@ -1,0 +1,226 @@
+{
+  "id": "01883",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.911,
+  "n_lines": 16,
+  "mean_score": 0.982,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KODY FULLER",
+      "score": 0.9864,
+      "box": [
+        116,
+        90,
+        355,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-394-515-1765|kody.fuller@example.com",
+      "score": 0.9932,
+      "box": [
+        116,
+        151,
+        634,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonegrid Labs, 2020.09–2023.01",
+      "score": 0.9904,
+      "box": [
+        115,
+        289,
+        635,
+        314
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9794,
+      "box": [
+        126,
+        313,
+        439,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9573,
+      "box": [
+        127,
+        340,
+        515,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Openfield Tech, 2018.05–2020.09",
+      "score": 0.9895,
+      "box": [
+        115,
+        381,
+        638,
+        406
+      ]
+    },
+    {
+      "text": "- Designed documentation templates",
+      "score": 0.9903,
+      "box": [
+        126,
+        406,
+        470,
+        431
+      ]
+    },
+    {
+      "text": "- Developed access control logic",
+      "score": 0.9616,
+      "box": [
+        126,
+        430,
+        431,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Corecrest Labs, 2015.12–2018.05",
+      "score": 0.9868,
+      "box": [
+        116,
+        472,
+        638,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9664,
+      "box": [
+        126,
+        498,
+        422,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9716,
+      "box": [
+        126,
+        521,
+        478,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Sunnyside University, 2019",
+      "score": 0.968,
+      "box": [
+        115,
+        632,
+        479,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of test-driven development",
+      "score": 0.9926,
+      "box": [
+        132,
+        656,
+        565,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of graph algorithms",
+      "score": 0.9938,
+      "box": [
+        133,
+        681,
+        497,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "KODY FULLER\nAZ, USA|+1-394-515-1765|kody.fuller@example.com\nWORK HISTORY\nSoftware Developers, Stonegrid Labs, 2020.09–2023.01\n- Led technical roadmap planning\n- Implemented access control frameworks\nSoftware Developers, Openfield Tech, 2018.05–2020.09\n- Designed documentation templates\n- Developed access control logic\nSoftware Developers, Corecrest Labs, 2015.12–2018.05\n- Implemented REST endpoints\n- Assisted with system documentation\nEDUCATION\nBachelor's, Sunnyside University, 2019\n• Studied principles of test-driven development\n• Studied principles of graph algorithms"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "27240",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.79,
+  "n_lines": 13,
+  "mean_score": 0.982,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LAURA EVANS",
+      "score": 0.9908,
+      "box": [
+        116,
+        90,
+        360,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-662-967-5033 |laura.evans@example.com",
+      "score": 0.9888,
+      "box": [
+        116,
+        151,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearBridge Health Group, 2021.05–2023.01",
+      "score": 0.9844,
+      "box": [
+        115,
+        289,
+        714,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented care pathway frameworks",
+      "score": 0.9787,
+      "box": [
+        127,
+        315,
+        506,
+        338
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.9861,
+      "box": [
+        126,
+        339,
+        426,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeHarbor Nursing, 2019.08–2021.05",
+      "score": 0.9795,
+      "box": [
+        115,
+        381,
+        660,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9897,
+      "box": [
+        125,
+        406,
+        437,
+        432
+      ]
+    },
+    {
+      "text": "- Monitored patient recovery",
+      "score": 0.9496,
+      "box": [
+        126,
+        430,
+        390,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Management, Stonebridge University, 2019",
+      "score": 0.9766,
+      "box": [
+        114,
+        539,
+        693,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of public health nursing",
+      "score": 0.9769,
+      "box": [
+        132,
+        564,
+        570,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of medical imaging basics",
+      "score": 0.9807,
+      "box": [
+        132,
+        590,
+        595,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "LAURA EVANS\nMI, USA|+1-662-967-5033 |laura.evans@example.com\nWORK HISTORY\nRegistered Nurses, ClearBridge Health Group, 2021.05–2023.01\n- Implemented care pathway frameworks\n- Managed clinical data analysis\nRegistered Nurses, SafeHarbor Nursing, 2019.08–2021.05\n- Assisted with patient positioning\n- Monitored patient recovery\nEDUCATION\nBachelor's, Health Management, Stonebridge University, 2019\n• Studied fundamentals of public health nursing\n• Studied fundamentals of medical imaging basics"
+}

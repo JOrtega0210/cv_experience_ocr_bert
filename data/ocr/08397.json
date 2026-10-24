@@ -1,0 +1,239 @@
+{
+  "id": "08397",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.928,
+  "n_lines": 17,
+  "mean_score": 0.9824,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CAROLINA KIM",
+      "score": 0.9773,
+      "box": [
+        117,
+        90,
+        365,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-529-742-4558 |carolina.kim@example.com",
+      "score": 0.9865,
+      "box": [
+        117,
+        151,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9879,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Software, 2021.01–2023.01",
+      "score": 0.9898,
+      "box": [
+        115,
+        290,
+        677,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.9834,
+      "box": [
+        126,
+        314,
+        538,
+        339
+      ]
+    },
+    {
+      "text": "- Led platform migrations",
+      "score": 0.968,
+      "box": [
+        127,
+        340,
+        361,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Flowstack Tech, 2018.06–2020.07",
+      "score": 0.992,
+      "box": [
+        116,
+        382,
+        642,
+        405
+      ]
+    },
+    {
+      "text": "- Integrated payment gateways",
+      "score": 0.9556,
+      "box": [
+        126,
+        406,
+        416,
+        432
+      ]
+    },
+    {
+      "text": "- Developed microservices",
+      "score": 0.9821,
+      "box": [
+        126,
+        430,
+        376,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Nextwave Systems, 2015.05–2017.06",
+      "score": 0.9898,
+      "box": [
+        115,
+        471,
+        674,
+        496
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.9846,
+      "box": [
+        126,
+        498,
+        484,
+        521
+      ]
+    },
+    {
+      "text": "- Optimized simple queries",
+      "score": 0.9873,
+      "box": [
+        126,
+        521,
+        377,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Master's, Cloverfield University, 2010",
+      "score": 0.9817,
+      "box": [
+        115,
+        631,
+        461,
+        654
+      ]
+    },
+    {
+      "text": "Bachelor's, Oakfield University, 2008",
+      "score": 0.9643,
+      "box": [
+        114,
+        656,
+        459,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of discrete mathematics",
+      "score": 0.9827,
+      "box": [
+        132,
+        682,
+        577,
+        705
+      ]
+    },
+    {
+      "text": "• Studied principles of documentation standards",
+      "score": 0.9892,
+      "box": [
+        132,
+        706,
+        576,
+        729
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "CAROLINA KIM\nCA, USA|+1-529-742-4558 |carolina.kim@example.com\nWORK HISTORY\nSoftware Developers, Corewave Software, 2021.01–2023.01\n- Implemented long-term maintenance plans\n- Led platform migrations\nSoftware Developers, Flowstack Tech, 2018.06–2020.07\n- Integrated payment gateways\n- Developed microservices\nSoftware Developers, Nextwave Systems, 2015.05–2017.06\n- Logged and tracked software defects\n- Optimized simple queries\nEDUCATION\nMaster's, Cloverfield University, 2010\nBachelor's, Oakfield University, 2008\n• Studied fundamentals of discrete mathematics\n• Studied principles of documentation standards"
+}

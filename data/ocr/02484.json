@@ -1,0 +1,148 @@
+{
+  "id": "02484",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.849,
+  "n_lines": 10,
+  "mean_score": 0.9787,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HAYLEY OCONNELL",
+      "score": 0.9676,
+      "box": [
+        114,
+        87,
+        451,
+        123
+      ]
+    },
+    {
+      "text": "AR, USA|+1-247-707-3803 |hayley.oconnell@example.com",
+      "score": 0.9811,
+      "box": [
+        116,
+        152,
+        685,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9825,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Health, 2022.12–2023.01",
+      "score": 0.9849,
+      "box": [
+        116,
+        290,
+        663,
+        313
+      ]
+    },
+    {
+      "text": "- Monitored patient alarms",
+      "score": 0.9533,
+      "box": [
+        126,
+        315,
+        373,
+        339
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.9649,
+      "box": [
+        127,
+        340,
+        415,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Medical Technology, Brightwood University, 2020",
+      "score": 0.9874,
+      "box": [
+        115,
+        447,
+        762,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in first aid principles",
+      "score": 0.9852,
+      "box": [
+        133,
+        474,
+        551,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in medication administration",
+      "score": 0.9816,
+      "box": [
+        135,
+        500,
+        625,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "HAYLEY OCONNELL\nAR, USA|+1-247-707-3803 |hayley.oconnell@example.com\nWORK HISTORY\nRegistered Nurses, GentleHands Health, 2022.12–2023.01\n- Monitored patient alarms\n- Checked patient identification\nEDUCATION\nAssociate's degree, Medical Technology, Brightwood University, 2020\n• Completed coursework in first aid principles\n• Completed coursework in medication administration"
+}

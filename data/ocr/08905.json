@@ -1,0 +1,200 @@
+{
+  "id": "08905",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.879,
+  "n_lines": 14,
+  "mean_score": 0.978,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "PERLA SINGH",
+      "score": 0.9579,
+      "box": [
+        116,
+        90,
+        347,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-320-569-5725 |perla.singh@example.com",
+      "score": 0.9786,
+      "box": [
+        117,
+        151,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9877,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softway Solutions, 2021.06–2023.01",
+      "score": 0.9817,
+      "box": [
+        115,
+        289,
+        660,
+        314
+      ]
+    },
+    {
+      "text": "- Developed system monitoring strategies",
+      "score": 0.9826,
+      "box": [
+        125,
+        314,
+        513,
+        339
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.957,
+      "box": [
+        125,
+        339,
+        368,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Datapoint Labs, 2019.11–2021.06",
+      "score": 0.9909,
+      "box": [
+        116,
+        382,
+        637,
+        406
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9827,
+      "box": [
+        125,
+        406,
+        348,
+        431
+      ]
+    },
+    {
+      "text": "- Monitored application logs",
+      "score": 0.9742,
+      "box": [
+        126,
+        430,
+        385,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Hawthorne University, 2018",
+      "score": 0.9699,
+      "box": [
+        115,
+        541,
+        464,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Pinefield University, 2016",
+      "score": 0.986,
+      "box": [
+        115,
+        565,
+        461,
+        588
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of software testing",
+      "score": 0.9682,
+      "box": [
+        132,
+        590,
+        524,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in quality assurance",
+      "score": 0.9756,
+      "box": [
+        133,
+        615,
+        552,
+        641
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "PERLA SINGH\nCA, USA|+1-320-569-5725 |perla.singh@example.com\nWORK HISTORY\nSoftware Developers, Softway Solutions, 2021.06–2023.01\n- Developed system monitoring strategies\n- Built distributed systems\nSoftware Developers, Datapoint Labs, 2019.11–2021.06\n- Created test data sets\n- Monitored application logs\nEDUCATION\nMaster's, Hawthorne University, 2018\nBachelor's, Pinefield University, 2016\n• Studied fundamentals of software testing\n• Completed coursework in quality assurance"
+}

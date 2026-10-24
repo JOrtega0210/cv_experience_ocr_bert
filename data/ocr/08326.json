@@ -1,0 +1,174 @@
+{
+  "id": "08326",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.934,
+  "n_lines": 12,
+  "mean_score": 0.9845,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TAYLORCLINE",
+      "score": 0.9967,
+      "box": [
+        113,
+        88,
+        366,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-200-274-8530 |taylor.cline@example.com",
+      "score": 0.9838,
+      "box": [
+        116,
+        151,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongLine Construction, 2020.12–2023.01",
+      "score": 0.9925,
+      "box": [
+        115,
+        290,
+        731,
+        313
+      ]
+    },
+    {
+      "text": "- Managed multi-phase projects",
+      "score": 0.9663,
+      "box": [
+        125,
+        313,
+        422,
+        339
+      ]
+    },
+    {
+      "text": "- Supervised multiple work crews",
+      "score": 0.9798,
+      "box": [
+        126,
+        339,
+        436,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmLine Construction, 2018.11–2020.12",
+      "score": 0.9899,
+      "box": [
+        116,
+        382,
+        713,
+        405
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9735,
+      "box": [
+        125,
+        406,
+        416,
+        431
+      ]
+    },
+    {
+      "text": "- Mixed concrete and mortar",
+      "score": 0.9778,
+      "box": [
+        126,
+        432,
+        392,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Concrete Technology, Riverhaven High School, 2016",
+      "score": 0.9876,
+      "box": [
+        116,
+        541,
+        868,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of site drainage",
+      "score": 0.9814,
+      "box": [
+        132,
+        565,
+        461,
+        590
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "TAYLORCLINE\nCA, USA|+1-200-274-8530 |taylor.cline@example.com\nWORK HISTORY\nConstruction Laborers, StrongLine Construction, 2020.12–2023.01\n- Managed multi-phase projects\n- Supervised multiple work crews\nConstruction Laborers, FirmLine Construction, 2018.11–2020.12\n- Set up workstations for crews\n- Mixed concrete and mortar\nEDUCATION\nHigh school graduate/GED, Concrete Technology, Riverhaven High School, 2016\n• Studied principles of site drainage"
+}

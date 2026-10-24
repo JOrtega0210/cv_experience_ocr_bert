@@ -1,0 +1,161 @@
+{
+  "id": "03307",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.826,
+  "n_lines": 11,
+  "mean_score": 0.9765,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRETT VO",
+      "score": 0.9511,
+      "box": [
+        115,
+        89,
+        288,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA|+1-777-778-3753 |brett.vo@example.com",
+      "score": 0.985,
+      "box": [
+        116,
+        151,
+        611,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datacore Labs, 2019.11–2022.04",
+      "score": 0.9634,
+      "box": [
+        114,
+        288,
+        633,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.9675,
+      "box": [
+        125,
+        313,
+        424,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9828,
+      "box": [
+        126,
+        339,
+        437,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Larkspur University, 2017",
+      "score": 0.9904,
+      "box": [
+        115,
+        449,
+        444,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Pinewood University, 2015",
+      "score": 0.9663,
+      "box": [
+        114,
+        472,
+        474,
+        496
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of user interface development",
+      "score": 0.9866,
+      "box": [
+        134,
+        499,
+        631,
+        522
+      ]
+    },
+    {
+      "text": "• Completed coursework in logging and monitoring",
+      "score": 0.9646,
+      "box": [
+        135,
+        524,
+        600,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "BRETT VO\nCA, USA|+1-777-778-3753 |brett.vo@example.com\nWORK HISTORY\nSoftware Developers, Datacore Labs, 2019.11–2022.04\n- Assisted with build automation\n- Reviewed test coverage reports\nEDUCATION\nMaster's, Larkspur University, 2017\nBachelor's, Pinewood University, 2015\n• Studied fundamentals of user interface development\n• Completed coursework in logging and monitoring"
+}

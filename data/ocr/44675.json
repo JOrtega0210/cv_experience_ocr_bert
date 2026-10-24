@@ -1,0 +1,148 @@
+{
+  "id": "44675",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.736,
+  "n_lines": 10,
+  "mean_score": 0.9799,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAMESON SILVA",
+      "score": 0.9659,
+      "box": [
+        116,
+        90,
+        392,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-815-301-4179|jameson.silva@example.com",
+      "score": 0.979,
+      "box": [
+        115,
+        150,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9825,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Labs, 2022.10–2023.01",
+      "score": 0.9827,
+      "box": [
+        115,
+        290,
+        640,
+        313
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.9691,
+      "box": [
+        127,
+        315,
+        485,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9659,
+      "box": [
+        126,
+        339,
+        604,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Greenfield Ridge University, 2023",
+      "score": 0.9629,
+      "box": [
+        116,
+        449,
+        680,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in database systems",
+      "score": 0.9942,
+      "box": [
+        133,
+        474,
+        558,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of software development",
+      "score": 0.9981,
+      "box": [
+        134,
+        499,
+        548,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JAMESON SILVA\nPA, USA|+1-815-301-4179|jameson.silva@example.com\nWORK HISTORY\nSoftware Developers, Corewave Labs, 2022.10–2023.01\n- Logged and tracked software defects\n- Implemented basic features in existing codebases\nEDUCATION\nSome college (no degree), Greenfield Ridge University, 2023\n• Completed coursework in database systems\n• Studied principles of software development"
+}

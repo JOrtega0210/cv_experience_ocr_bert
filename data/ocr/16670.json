@@ -1,0 +1,239 @@
+{
+  "id": "16670",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.04,
+  "n_lines": 17,
+  "mean_score": 0.9819,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAZMIN PATEL",
+      "score": 0.9819,
+      "box": [
+        116,
+        90,
+        361,
+        120
+      ]
+    },
+    {
+      "text": "HI, USA|+1-457-610-1016 |jazmin.patel@example.com",
+      "score": 0.9884,
+      "box": [
+        116,
+        152,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9798,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Path Nursing, 2019.12–2023.01",
+      "score": 0.9764,
+      "box": [
+        115,
+        289,
+        662,
+        314
+      ]
+    },
+    {
+      "text": "- Directed clinical training standards",
+      "score": 0.9857,
+      "box": [
+        125,
+        313,
+        460,
+        338
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.993,
+      "box": [
+        126,
+        339,
+        520,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunLife Nursing Services, 2016.10–2019.12",
+      "score": 0.9803,
+      "box": [
+        115,
+        381,
+        710,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with emergency interventions",
+      "score": 0.9902,
+      "box": [
+        125,
+        406,
+        497,
+        431
+      ]
+    },
+    {
+      "text": "- Educated patients on treatment plans",
+      "score": 0.9823,
+      "box": [
+        126,
+        431,
+        488,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleCare Health, 2013.08–2016.10",
+      "score": 0.9814,
+      "box": [
+        115,
+        471,
+        649,
+        496
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9822,
+      "box": [
+        125,
+        497,
+        409,
+        519
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.986,
+      "box": [
+        126,
+        521,
+        479,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Health Care Management, Fairhill University, 2013",
+      "score": 0.953,
+      "box": [
+        114,
+        631,
+        674,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Health and Human Services, Larkspur University, 2011",
+      "score": 0.9824,
+      "box": [
+        114,
+        656,
+        732,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of skin integrity maintenance",
+      "score": 0.9702,
+      "box": [
+        132,
+        681,
+        621,
+        706
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of nursing communication",
+      "score": 0.9806,
+      "box": [
+        133,
+        706,
+        593,
+        730
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "JAZMIN PATEL\nHI, USA|+1-457-610-1016 |jazmin.patel@example.com\nWORK HISTORY\nRegistered Nurses, Caring Path Nursing, 2019.12–2023.01\n- Directed clinical training standards\n- Established nursing performance metrics\nRegistered Nurses, SunLife Nursing Services, 2016.10–2019.12\n- Assisted with emergency interventions\n- Educated patients on treatment plans\nRegistered Nurses, GentleCare Health, 2013.08–2016.10\n- Recorded shift handoff notes\n- Prepared medical equipment for use\nEDUCATION\nMaster's, Health Care Management, Fairhill University, 2013\nBachelor's, Health and Human Services, Larkspur University, 2011\n• Studied fundamentals of skin integrity maintenance\n• Studied fundamentals of nursing communication"
+}

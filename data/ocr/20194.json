@@ -1,0 +1,226 @@
+{
+  "id": "20194",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.868,
+  "n_lines": 16,
+  "mean_score": 0.9841,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANNEYANG",
+      "score": 0.9982,
+      "box": [
+        115,
+        88,
+        319,
+        122
+      ]
+    },
+    {
+      "text": "IN, USA|+1-734-324-3080 |anne.yang@example.com",
+      "score": 0.9814,
+      "box": [
+        116,
+        150,
+        630,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9856,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Group, 2020.01–2023.01",
+      "score": 0.9863,
+      "box": [
+        114,
+        289,
+        664,
+        314
+      ]
+    },
+    {
+      "text": "- Directed budget planning cycles",
+      "score": 0.9761,
+      "box": [
+        126,
+        314,
+        439,
+        339
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9705,
+      "box": [
+        126,
+        339,
+        495,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Services, 2017.01–2020.01",
+      "score": 0.9803,
+      "box": [
+        114,
+        381,
+        751,
+        406
+      ]
+    },
+    {
+      "text": "- Supervised junior accountants",
+      "score": 0.9914,
+      "box": [
+        126,
+        406,
+        423,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented accounting procedures",
+      "score": 0.985,
+      "box": [
+        126,
+        431,
+        479,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Services, 2012.08–2015.09",
+      "score": 0.9651,
+      "box": [
+        114,
+        471,
+        697,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.9784,
+      "box": [
+        127,
+        498,
+        445,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9904,
+      "box": [
+        126,
+        521,
+        381,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Accounting, Meadowcrest University, 2004",
+      "score": 0.9848,
+      "box": [
+        115,
+        632,
+        696,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial compliance basics",
+      "score": 0.9874,
+      "box": [
+        133,
+        656,
+        641,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in cost allocation methods",
+      "score": 0.9858,
+      "box": [
+        135,
+        682,
+        608,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ANNEYANG\nIN, USA|+1-734-324-3080 |anne.yang@example.com\nWORK HISTORY\nAccountants Auditors, AccuCount Group, 2020.01–2023.01\n- Directed budget planning cycles\n- Directed accounting training programs\nAccountants Auditors, Reliable Accounts Services, 2017.01–2020.01\n- Supervised junior accountants\n- Implemented accounting procedures\nAccountants Auditors, AccuLedger Services, 2012.08–2015.09\n- Prepared account reconciliations\n- Reviewed ledger postings\nEDUCATION\nBachelor's, Applied Accounting, Meadowcrest University, 2004\n• Completed coursework in financial compliance basics\n• Completed coursework in cost allocation methods"
+}

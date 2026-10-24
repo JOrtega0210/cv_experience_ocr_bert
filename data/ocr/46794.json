@@ -1,0 +1,187 @@
+{
+  "id": "46794",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.79,
+  "n_lines": 13,
+  "mean_score": 0.9848,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AARON TRAN",
+      "score": 0.9487,
+      "box": [
+        115,
+        88,
+        344,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA|+1-281-569-7894 |aaron.tran@example.com",
+      "score": 0.9798,
+      "box": [
+        115,
+        150,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9839,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowbyte Systems, 2021.01–2023.01",
+      "score": 0.9878,
+      "box": [
+        115,
+        289,
+        663,
+        312
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.9833,
+      "box": [
+        125,
+        313,
+        543,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed architectural proposals",
+      "score": 0.9915,
+      "box": [
+        126,
+        339,
+        450,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Digital, 2018.12–2021.01",
+      "score": 0.9839,
+      "box": [
+        115,
+        381,
+        649,
+        406
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9908,
+      "box": [
+        125,
+        406,
+        444,
+        431
+      ]
+    },
+    {
+      "text": "- Updated documentation for implemented features",
+      "score": 0.9962,
+      "box": [
+        126,
+        431,
+        601,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Lakeview University, 2022",
+      "score": 0.9855,
+      "box": [
+        115,
+        541,
+        469,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in continuous integration",
+      "score": 0.9822,
+      "box": [
+        134,
+        566,
+        594,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in exception management",
+      "score": 0.9911,
+      "box": [
+        133,
+        590,
+        608,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "AARON TRAN\nPA, USA|+1-281-569-7894 |aaron.tran@example.com\nWORK HISTORY\nSoftware Developers, Flowbyte Systems, 2021.01–2023.01\n- Defined technical documentation standards\n- Reviewed architectural proposals\nSoftware Developers, Clearpath Digital, 2018.12–2021.01\n- Handled basic deployment tasks\n- Updated documentation for implemented features\nEDUCATION\nBachelor's, Lakeview University, 2022\n• Completed coursework in continuous integration\n• Completed coursework in exception management"
+}

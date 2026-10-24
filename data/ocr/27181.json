@@ -1,0 +1,265 @@
+{
+  "id": "27181",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.908,
+  "n_lines": 19,
+  "mean_score": 0.9754,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DANIEL MIRANDA",
+      "score": 0.9883,
+      "box": [
+        115,
+        88,
+        411,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA|+1-625-648-8410 |daniel.miranda@example.com",
+      "score": 0.9732,
+      "box": [
+        115,
+        150,
+        672,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightsoft Solutions, 2020.07–2023.01",
+      "score": 0.9587,
+      "box": [
+        113,
+        287,
+        676,
+        315
+      ]
+    },
+    {
+      "text": "- Defined APl standards",
+      "score": 0.9838,
+      "box": [
+        127,
+        315,
+        351,
+        336
+      ]
+    },
+    {
+      "text": "- Led cross-team technical alignment",
+      "score": 0.9787,
+      "box": [
+        126,
+        339,
+        472,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstack Labs, 2017.12–2020.07",
+      "score": 0.9621,
+      "box": [
+        116,
+        382,
+        650,
+        406
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.9737,
+      "box": [
+        125,
+        405,
+        542,
+        430
+      ]
+    },
+    {
+      "text": "- Defined API governance models",
+      "score": 0.9566,
+      "box": [
+        125,
+        431,
+        442,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudline Solutions, 2015.05–2017.12",
+      "score": 0.9763,
+      "box": [
+        114,
+        471,
+        676,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed pull requests",
+      "score": 0.9654,
+      "box": [
+        124,
+        496,
+        359,
+        521
+      ]
+    },
+    {
+      "text": "- Integrated payment gateways",
+      "score": 0.9695,
+      "box": [
+        125,
+        521,
+        416,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Skyline Tech, 2012.10–2015.05",
+      "score": 0.984,
+      "box": [
+        114,
+        563,
+        618,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.9723,
+      "box": [
+        124,
+        588,
+        424,
+        613
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9895,
+      "box": [
+        125,
+        613,
+        444,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Goldenview University, 2010",
+      "score": 0.9725,
+      "box": [
+        114,
+        723,
+        491,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of virtualization",
+      "score": 0.9776,
+      "box": [
+        132,
+        748,
+        458,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of indexing techniques",
+      "score": 0.9656,
+      "box": [
+        132,
+        771,
+        563,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "DANIEL MIRANDA\nMI, USA|+1-625-648-8410 |daniel.miranda@example.com\nWORK HISTORY\nSoftware Developers, Brightsoft Solutions, 2020.07–2023.01\n- Defined APl standards\n- Led cross-team technical alignment\nSoftware Developers, Brightstack Labs, 2017.12–2020.07\n- Defined technical documentation standards\n- Defined API governance models\nSoftware Developers, Cloudline Solutions, 2015.05–2017.12\n- Reviewed pull requests\n- Integrated payment gateways\nSoftware Developers, Skyline Tech, 2012.10–2015.05\n- Assisted with build automation\n- Handled basic deployment tasks\nEDUCATION\nBachelor's, Goldenview University, 2010\n• Studied principles of virtualization\n• Studied fundamentals of indexing techniques"
+}

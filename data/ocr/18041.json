@@ -1,0 +1,239 @@
+{
+  "id": "18041",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.012,
+  "n_lines": 17,
+  "mean_score": 0.9834,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CURTIS MANNING",
+      "score": 0.9866,
+      "box": [
+        117,
+        90,
+        411,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-675-217-7492|curtis.manning@example.com",
+      "score": 0.992,
+      "box": [
+        116,
+        152,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Advisors, 2020.11–2023.01",
+      "score": 0.978,
+      "box": [
+        114,
+        289,
+        695,
+        313
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.9863,
+      "box": [
+        126,
+        313,
+        434,
+        338
+      ]
+    },
+    {
+      "text": "- Led financial forecasting initiatives",
+      "score": 0.9617,
+      "box": [
+        126,
+        338,
+        458,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Advisors, 2018.09–2020.11",
+      "score": 0.9727,
+      "box": [
+        114,
+        381,
+        679,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed financial systems data",
+      "score": 0.9858,
+      "box": [
+        125,
+        405,
+        446,
+        431
+      ]
+    },
+    {
+      "text": "- Supervised junior accountants",
+      "score": 0.9928,
+      "box": [
+        126,
+        430,
+        422,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, BlueLine Accounting, 2016.07–2018.09",
+      "score": 0.9773,
+      "box": [
+        114,
+        471,
+        690,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.9721,
+      "box": [
+        125,
+        496,
+        423,
+        521
+      ]
+    },
+    {
+      "text": "- Matched invoices to purchase orders",
+      "score": 0.9847,
+      "box": [
+        126,
+        521,
+        483,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Accounting Information Systems, Blue Ridge University, 2016",
+      "score": 0.9762,
+      "box": [
+        114,
+        631,
+        776,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Accounting, Brookway University, 2014",
+      "score": 0.9922,
+      "box": [
+        115,
+        658,
+        663,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of nonprofit accounting",
+      "score": 0.9835,
+      "box": [
+        132,
+        681,
+        529,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in business mathematics",
+      "score": 0.9922,
+      "box": [
+        133,
+        706,
+        596,
+        730
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "CURTIS MANNING\nIL, USA|+1-675-217-7492|curtis.manning@example.com\nWORK HISTORY\nAccountants Auditors, TrustLedger Advisors, 2020.11–2023.01\n- Established accounting policies\n- Led financial forecasting initiatives\nAccountants Auditors, FairBooks Advisors, 2018.09–2020.11\n- Reviewed financial systems data\n- Supervised junior accountants\nAccountants Auditors, BlueLine Accounting, 2016.07–2018.09\n- Assisted with inventory counts\n- Matched invoices to purchase orders\nEDUCATION\nMaster's, Accounting Information Systems, Blue Ridge University, 2016\nBachelor's, Applied Accounting, Brookway University, 2014\n• Studied principles of nonprofit accounting\n• Completed coursework in business mathematics"
+}

@@ -1,0 +1,200 @@
+{
+  "id": "16171",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.936,
+  "n_lines": 14,
+  "mean_score": 0.9826,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "PAULA RYAN",
+      "score": 0.9545,
+      "box": [
+        114,
+        88,
+        339,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA|+1-992-997-7991|paula.ryan@example.com",
+      "score": 0.9742,
+      "box": [
+        116,
+        151,
+        639,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9833,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Care Center, 2020.02–2023.01",
+      "score": 0.9791,
+      "box": [
+        115,
+        289,
+        695,
+        314
+      ]
+    },
+    {
+      "text": "- Directed patient care coordination",
+      "score": 0.9841,
+      "box": [
+        127,
+        315,
+        454,
+        338
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9696,
+      "box": [
+        126,
+        339,
+        510,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Path Health, 2014.07–2017.06",
+      "score": 0.9886,
+      "box": [
+        115,
+        381,
+        675,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with hygiene care",
+      "score": 0.9914,
+      "box": [
+        125,
+        406,
+        391,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.986,
+      "box": [
+        126,
+        431,
+        514,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Medical Sciences, Northwood University, 2009",
+      "score": 0.9799,
+      "box": [
+        115,
+        541,
+        637,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Information Management, Stoneview University, 2007",
+      "score": 0.99,
+      "box": [
+        115,
+        566,
+        788,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of health informatics",
+      "score": 0.9932,
+      "box": [
+        133,
+        591,
+        506,
+        614
+      ]
+    },
+    {
+      "text": "• Studied principles of time management in care",
+      "score": 0.9839,
+      "box": [
+        133,
+        615,
+        578,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "PAULA RYAN\nGA, USA|+1-992-997-7991|paula.ryan@example.com\nWORK HISTORY\nRegistered Nurses, NewSpring Care Center, 2020.02–2023.01\n- Directed patient care coordination\n- Directed nursing process improvements\nRegistered Nurses, Harmony Path Health, 2014.07–2017.06\n- Assisted with hygiene care\n- Assisted with physical therapy exercises\nEDUCATION\nMaster's, Medical Sciences, Northwood University, 2009\nBachelor's, Health Information Management, Stoneview University, 2007\n• Studied principles of health informatics\n• Studied principles of time management in care"
+}

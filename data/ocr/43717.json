@@ -1,0 +1,226 @@
+{
+  "id": "43717",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.861,
+  "n_lines": 16,
+  "mean_score": 0.9834,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "WENDY WOODS",
+      "score": 0.9766,
+      "box": [
+        115,
+        88,
+        383,
+        122
+      ]
+    },
+    {
+      "text": "OK, USA |+1-814-763-8973|wendy.woods@example.com",
+      "score": 0.9836,
+      "box": [
+        116,
+        151,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Advisors, 2020.03–2023.01",
+      "score": 0.991,
+      "box": [
+        115,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Directed budget planning cycles",
+      "score": 0.9783,
+      "box": [
+        125,
+        313,
+        439,
+        339
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9882,
+      "box": [
+        126,
+        338,
+        494,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Financial, 2017.04–2020.03",
+      "score": 0.9957,
+      "box": [
+        115,
+        381,
+        716,
+        406
+      ]
+    },
+    {
+      "text": "- Managed general ledger maintenance",
+      "score": 0.9747,
+      "box": [
+        126,
+        406,
+        494,
+        431
+      ]
+    },
+    {
+      "text": "- Managed fixed asset accounting",
+      "score": 0.9753,
+      "box": [
+        126,
+        430,
+        442,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Financial, 2013.01–2015.12",
+      "score": 0.975,
+      "box": [
+        115,
+        472,
+        688,
+        495
+      ]
+    },
+    {
+      "text": "- Maintained chart of accounts",
+      "score": 0.962,
+      "box": [
+        126,
+        496,
+        409,
+        521
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.9914,
+      "box": [
+        128,
+        523,
+        436,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Investment Management, Willowstone University, 2002",
+      "score": 0.9776,
+      "box": [
+        114,
+        631,
+        734,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in mergers and acquisitions basics",
+      "score": 0.9964,
+      "box": [
+        134,
+        658,
+        686,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit planning",
+      "score": 0.9847,
+      "box": [
+        134,
+        681,
+        519,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "WENDY WOODS\nOK, USA |+1-814-763-8973|wendy.woods@example.com\nWORK HISTORY\nAccountants Auditors, CoreBooks Advisors, 2020.03–2023.01\n- Directed budget planning cycles\n- Established financial data governance\nAccountants Auditors, OpenBalance Financial, 2017.04–2020.03\n- Managed general ledger maintenance\n- Managed fixed asset accounting\nAccountants Auditors, EverCount Financial, 2013.01–2015.12\n- Maintained chart of accounts\n- Updated general ledger records\nEDUCATION\nBachelor's, Investment Management, Willowstone University, 2002\n• Completed coursework in mergers and acquisitions basics\n• Completed coursework in audit planning"
+}

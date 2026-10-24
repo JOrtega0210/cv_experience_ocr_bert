@@ -1,0 +1,265 @@
+{
+  "id": "60518",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.916,
+  "n_lines": 19,
+  "mean_score": 0.9815,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SHARIKA MCLAUGHLIN",
+      "score": 0.9868,
+      "box": [
+        116,
+        90,
+        503,
+        120
+      ]
+    },
+    {
+      "text": "WI, USA|+1-867-784-2374|sharika.mclaughlin@example.com",
+      "score": 0.9813,
+      "box": [
+        115,
+        150,
+        710,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9817,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafePath Health, 2020.05–2023.01",
+      "score": 0.9732,
+      "box": [
+        116,
+        289,
+        625,
+        312
+      ]
+    },
+    {
+      "text": "- Established clinical evaluation protocols",
+      "score": 0.9832,
+      "box": [
+        125,
+        313,
+        510,
+        339
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.981,
+      "box": [
+        127,
+        340,
+        425,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHands Nursing, 2017.08–2020.05",
+      "score": 0.9774,
+      "box": [
+        115,
+        381,
+        656,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.992,
+      "box": [
+        126,
+        406,
+        517,
+        432
+      ]
+    },
+    {
+      "text": "- Managed care delivery innovation",
+      "score": 0.9828,
+      "box": [
+        126,
+        431,
+        454,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHands Health Group, 2014.11–2017.08",
+      "score": 0.9823,
+      "box": [
+        116,
+        473,
+        707,
+        497
+      ]
+    },
+    {
+      "text": "- Coordinated patient discharge planning",
+      "score": 0.9826,
+      "box": [
+        124,
+        496,
+        505,
+        522
+      ]
+    },
+    {
+      "text": "- Monitored patient compliance",
+      "score": 0.9661,
+      "box": [
+        126,
+        521,
+        416,
+        546
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Health Group, 2009.04–2012.01",
+      "score": 0.969,
+      "box": [
+        116,
+        565,
+        720,
+        589
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9779,
+      "box": [
+        124,
+        588,
+        531,
+        613
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9947,
+      "box": [
+        126,
+        613,
+        399,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Studies, Skyview University, 2006",
+      "score": 0.9809,
+      "box": [
+        114,
+        723,
+        613,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of ostomy care",
+      "score": 0.9751,
+      "box": [
+        131,
+        747,
+        456,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of healthcare ethics",
+      "score": 0.9811,
+      "box": [
+        134,
+        774,
+        499,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "SHARIKA MCLAUGHLIN\nWI, USA|+1-867-784-2374|sharika.mclaughlin@example.com\nWORK HISTORY\nRegistered Nurses, SafePath Health, 2020.05–2023.01\n- Established clinical evaluation protocols\n- Led clinical governance efforts\nRegistered Nurses, KindHands Nursing, 2017.08–2020.05\n- Implemented patient monitoring systems\n- Managed care delivery innovation\nRegistered Nurses, NewHands Health Group, 2014.11–2017.08\n- Coordinated patient discharge planning\n- Monitored patient compliance\nRegistered Nurses, Compassion Health Group, 2009.04–2012.01\n- Recorded medication administration times\n- Recorded patient vital signs\nEDUCATION\nBachelor's, Clinical Studies, Skyview University, 2006\n• Studied principles of ostomy care\n• Studied principles of healthcare ethics"
+}

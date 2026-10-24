@@ -1,0 +1,187 @@
+{
+  "id": "07101",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.948,
+  "n_lines": 13,
+  "mean_score": 0.9801,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CARLY TRAN",
+      "score": 0.9785,
+      "box": [
+        116,
+        88,
+        337,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-866-321-4714 |carly.tran@example.com",
+      "score": 0.974,
+      "box": [
+        116,
+        150,
+        627,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9781,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Advisors, 2020.10–2023.01",
+      "score": 0.9785,
+      "box": [
+        115,
+        290,
+        686,
+        312
+      ]
+    },
+    {
+      "text": "- Designed financial modeling standards",
+      "score": 0.9666,
+      "box": [
+        127,
+        315,
+        500,
+        338
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.984,
+      "box": [
+        126,
+        339,
+        556,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Group, 2017.03–2019.07",
+      "score": 0.9903,
+      "box": [
+        115,
+        382,
+        717,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9742,
+      "box": [
+        126,
+        406,
+        366,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.9669,
+      "box": [
+        126,
+        431,
+        436,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Forensic Accounting, Northwood University, 2014",
+      "score": 0.9783,
+      "box": [
+        115,
+        541,
+        683,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of revenue recognition",
+      "score": 0.9932,
+      "box": [
+        133,
+        566,
+        525,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in segment reporting",
+      "score": 0.9809,
+      "box": [
+        133,
+        590,
+        557,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "CARLY TRAN\nCA, USA|+1-866-321-4714 |carly.tran@example.com\nWORK HISTORY\nAccountants Auditors, SolidCount Advisors, 2020.10–2023.01\n- Designed financial modeling standards\n- Directed accounting system implementations\nAccountants Auditors, Accurate Ledger Group, 2017.03–2019.07\n- Prepared journal entries\n- Prepared basic financial reports\nEDUCATION\nBachelor's, Forensic Accounting, Northwood University, 2014\n• Studied principles of revenue recognition\n• Completed coursework in segment reporting"
+}

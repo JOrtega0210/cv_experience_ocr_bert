@@ -1,0 +1,148 @@
+{
+  "id": "14215",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.851,
+  "n_lines": 10,
+  "mean_score": 0.9795,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SARAH MAYO",
+      "score": 0.9686,
+      "box": [
+        115,
+        90,
+        346,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-739-593-2468|sarah.mayo@example.com",
+      "score": 0.9858,
+      "box": [
+        115,
+        150,
+        645,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9811,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunBridge Nursing, 2019.07–2022.04",
+      "score": 0.9814,
+      "box": [
+        116,
+        290,
+        651,
+        314
+      ]
+    },
+    {
+      "text": "-Maintained infection control protocols",
+      "score": 0.9948,
+      "box": [
+        125,
+        314,
+        486,
+        337
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9525,
+      "box": [
+        126,
+        339,
+        372,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Informatics, Forestview University, 2017",
+      "score": 0.9764,
+      "box": [
+        115,
+        447,
+        741,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in human anatomy and physiology",
+      "score": 0.9728,
+      "box": [
+        132,
+        472,
+        683,
+        499
+      ]
+    },
+    {
+      "text": "• Completed coursework in nutritional assessment",
+      "score": 0.9829,
+      "box": [
+        134,
+        499,
+        599,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "SARAH MAYO\nFL, USA|+1-739-593-2468|sarah.mayo@example.com\nWORK HISTORY\nRegistered Nurses, SunBridge Nursing, 2019.07–2022.04\n-Maintained infection control protocols\n- Prepared sterile supplies\nEDUCATION\nAssociate's degree, Health Informatics, Forestview University, 2017\n• Completed coursework in human anatomy and physiology\n• Completed coursework in nutritional assessment"
+}

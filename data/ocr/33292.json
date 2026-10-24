@@ -1,0 +1,187 @@
+{
+  "id": "33292",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.829,
+  "n_lines": 13,
+  "mean_score": 0.9829,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DIANASIMON",
+      "score": 0.9972,
+      "box": [
+        115,
+        88,
+        344,
+        122
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-389-764-4055|diana.simon@example.com",
+      "score": 0.9953,
+      "box": [
+        115,
+        150,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Advisors, 2020.08–2023.01",
+      "score": 0.9869,
+      "box": [
+        115,
+        290,
+        709,
+        312
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.9691,
+      "box": [
+        127,
+        315,
+        456,
+        338
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9883,
+      "box": [
+        127,
+        340,
+        508,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Financial, 2015.07–2018.01",
+      "score": 0.9829,
+      "box": [
+        114,
+        381,
+        692,
+        405
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9727,
+      "box": [
+        126,
+        407,
+        418,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9702,
+      "box": [
+        126,
+        432,
+        364,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Investment Management, Greenfield Ridge University, 2006",
+      "score": 0.9917,
+      "box": [
+        114,
+        539,
+        779,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of hedge accounting",
+      "score": 0.9716,
+      "box": [
+        132,
+        565,
+        506,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit quality management",
+      "score": 0.9687,
+      "box": [
+        133,
+        590,
+        629,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "DIANASIMON\nNJ, USA|+1-389-764-4055|diana.simon@example.com\nWORK HISTORY\nAccountants Auditors, ClearBalance Advisors, 2020.08–2023.01\n- Developed audit quality standards\n- Established tax compliance frameworks\nAccountants Auditors, CoreBooks Financial, 2015.07–2018.01\n- Processed journal corrections\n- Prepared journal entries\nEDUCATION\nBachelor's, Investment Management, Greenfield Ridge University, 2006\n• Studied principles of hedge accounting\n• Completed coursework in audit quality management"
+}

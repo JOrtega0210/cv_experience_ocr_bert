@@ -1,0 +1,187 @@
+{
+  "id": "28963",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.773,
+  "n_lines": 13,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "STEPHEN LOGAN",
+      "score": 0.9694,
+      "box": [
+        116,
+        90,
+        406,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-712-670-1694 |stephen.logan@example.com",
+      "score": 0.9851,
+      "box": [
+        115,
+        150,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9798,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Tech, 2020.01–2021.11",
+      "score": 0.9761,
+      "box": [
+        116,
+        289,
+        637,
+        312
+      ]
+    },
+    {
+      "text": "- Reviewed architectural proposals",
+      "score": 0.9904,
+      "box": [
+        126,
+        315,
+        449,
+        338
+      ]
+    },
+    {
+      "text": "- Defined engineering best practices",
+      "score": 0.9912,
+      "box": [
+        126,
+        339,
+        463,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Corecrest Labs, 2017.07–2019.05",
+      "score": 0.9858,
+      "box": [
+        115,
+        381,
+        638,
+        406
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.9884,
+      "box": [
+        126,
+        406,
+        501,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented validation logic",
+      "score": 0.9673,
+      "box": [
+        126,
+        430,
+        406,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Goldenwood University, 2011",
+      "score": 0.983,
+      "box": [
+        116,
+        541,
+        576,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of cryptography basics",
+      "score": 0.9937,
+      "box": [
+        132,
+        565,
+        528,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in cloud computing basics",
+      "score": 0.981,
+      "box": [
+        133,
+        590,
+        606,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "STEPHEN LOGAN\nMN, USA|+1-712-670-1694 |stephen.logan@example.com\nWORK HISTORY\nSoftware Developers, Codepath Tech, 2020.01–2021.11\n- Reviewed architectural proposals\n- Defined engineering best practices\nSoftware Developers, Corecrest Labs, 2017.07–2019.05\n- Wrote scripts for data processing tasks\n- Implemented validation logic\nEDUCATION\nAssociate's degree, Goldenwood University, 2011\n• Studied principles of cryptography basics\n• Completed coursework in cloud computing basics"
+}

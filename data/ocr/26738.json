@@ -1,0 +1,252 @@
+{
+  "id": "26738",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.942,
+  "n_lines": 18,
+  "mean_score": 0.982,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JASON SMALL",
+      "score": 0.9811,
+      "box": [
+        116,
+        90,
+        357,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-848-265-8891 |jason.small@example.com",
+      "score": 0.9777,
+      "box": [
+        115,
+        150,
+        639,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9802,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, EverStrong Construction, 2020.04–2023.01",
+      "score": 0.9807,
+      "box": [
+        114,
+        289,
+        734,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.9664,
+      "box": [
+        126,
+        314,
+        532,
+        339
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9751,
+      "box": [
+        127,
+        340,
+        467,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, Frontier Build Co., 2017.07–2020.04",
+      "score": 0.9755,
+      "box": [
+        116,
+        382,
+        671,
+        405
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.9888,
+      "box": [
+        126,
+        407,
+        448,
+        430
+      ]
+    },
+    {
+      "text": "- Developed construction workflows",
+      "score": 0.9883,
+      "box": [
+        127,
+        432,
+        457,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueNorth Builders, 2013.07–2016.04",
+      "score": 0.9854,
+      "box": [
+        115,
+        472,
+        684,
+        495
+      ]
+    },
+    {
+      "text": "- Supervised demolition tasks",
+      "score": 0.9961,
+      "box": [
+        127,
+        499,
+        401,
+        519
+      ]
+    },
+    {
+      "text": "- Prepared structural joints",
+      "score": 0.9621,
+      "box": [
+        126,
+        521,
+        374,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, Foundation Force, 2009.11–2012.08",
+      "score": 0.9853,
+      "box": [
+        116,
+        565,
+        672,
+        588
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.9903,
+      "box": [
+        125,
+        589,
+        556,
+        614
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.972,
+      "box": [
+        128,
+        616,
+        371,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, General Construction, Brookfield High School, 1998",
+      "score": 0.9862,
+      "box": [
+        116,
+        725,
+        855,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in demolition procedures",
+      "score": 0.9859,
+      "box": [
+        133,
+        749,
+        595,
+        772
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "JASON SMALL\nMI, USA|+1-848-265-8891 |jason.small@example.com\nWORK HISTORY\nConstruction Laborers, EverStrong Construction, 2020.04–2023.01\n- Implemented safety compliance strategies\n- Directed site optimization initiatives\nConstruction Laborers, Frontier Build Co., 2017.07–2020.04\n- Led cross-functional coordination\n- Developed construction workflows\nConstruction Laborers, TrueNorth Builders, 2013.07–2016.04\n- Supervised demolition tasks\n- Prepared structural joints\nConstruction Laborers, Foundation Force, 2009.11–2012.08\n- Stacked and organized construction supplies\n- Sorted building materials\nEDUCATION\nHigh school graduate/GED, General Construction, Brookfield High School, 1998\n• Completed coursework in demolition procedures"
+}

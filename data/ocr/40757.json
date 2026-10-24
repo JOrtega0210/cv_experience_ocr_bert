@@ -1,0 +1,148 @@
+{
+  "id": "40757",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.772,
+  "n_lines": 10,
+  "mean_score": 0.9779,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KEVIN TODD",
+      "score": 0.9654,
+      "box": [
+        116,
+        90,
+        324,
+        121
+      ]
+    },
+    {
+      "text": "NC, USA|+1-436-623-2781|kevin.todd@example.com",
+      "score": 0.9792,
+      "box": [
+        115,
+        150,
+        637,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Ledger Co., 2020.06–2023.01",
+      "score": 0.9828,
+      "box": [
+        115,
+        289,
+        694,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9634,
+      "box": [
+        126,
+        314,
+        423,
+        340
+      ]
+    },
+    {
+      "text": "- Assisted with compliance documentation",
+      "score": 0.9837,
+      "box": [
+        127,
+        340,
+        518,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting, Oakway University, 2022",
+      "score": 0.9607,
+      "box": [
+        115,
+        449,
+        572,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of continuous auditing",
+      "score": 0.9739,
+      "box": [
+        132,
+        472,
+        521,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of forensic accounting",
+      "score": 0.9871,
+      "box": [
+        132,
+        497,
+        558,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "KEVIN TODD\nNC, USA|+1-436-623-2781|kevin.todd@example.com\nWORK HISTORY\nAccountants Auditors, Balanced Ledger Co., 2020.06–2023.01\n- Assisted with regulatory filings\n- Assisted with compliance documentation\nEDUCATION\nBachelor's, Accounting, Oakway University, 2022\n• Studied principles of continuous auditing\n• Studied fundamentals of forensic accounting"
+}

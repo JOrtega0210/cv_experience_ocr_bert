@@ -1,0 +1,226 @@
+{
+  "id": "03521",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.949,
+  "n_lines": 16,
+  "mean_score": 0.9829,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ISMAEL TANG",
+      "score": 0.9773,
+      "box": [
+        115,
+        90,
+        348,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-460-408-6423 |ismael.tang@example.com",
+      "score": 0.9842,
+      "box": [
+        116,
+        150,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9865,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudframe Software, 2020.10–2023.01",
+      "score": 0.9855,
+      "box": [
+        114,
+        288,
+        691,
+        313
+      ]
+    },
+    {
+      "text": "- Led platform migrations",
+      "score": 0.9804,
+      "box": [
+        126,
+        313,
+        361,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9756,
+      "box": [
+        127,
+        340,
+        424,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Clearbyte Software, 2018.06–2020.10",
+      "score": 0.9824,
+      "box": [
+        115,
+        381,
+        674,
+        406
+      ]
+    },
+    {
+      "text": "- Designed data models",
+      "score": 0.978,
+      "box": [
+        127,
+        408,
+        350,
+        429
+      ]
+    },
+    {
+      "text": "- Optimized database queries",
+      "score": 0.9829,
+      "box": [
+        126,
+        432,
+        402,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Digital, 2016.02–2018.06",
+      "score": 0.9853,
+      "box": [
+        115,
+        471,
+        655,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.9839,
+      "box": [
+        125,
+        497,
+        423,
+        519
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9799,
+      "box": [
+        126,
+        521,
+        400,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Sunset Ridge University, 2014",
+      "score": 0.9768,
+      "box": [
+        115,
+        632,
+        507,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in containerization basics",
+      "score": 0.9925,
+      "box": [
+        134,
+        659,
+        600,
+        679
+      ]
+    },
+    {
+      "text": "• Studied principles of augmented reality",
+      "score": 0.976,
+      "box": [
+        134,
+        681,
+        507,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ISMAEL TANG\nCA, USA|+1-460-408-6423 |ismael.tang@example.com\nWORK HISTORY\nSoftware Developers, Cloudframe Software, 2020.10–2023.01\n- Led platform migrations\n- Implemented core frameworks\nSoftware Developers, Clearbyte Software, 2018.06–2020.10\n- Designed data models\n- Optimized database queries\nSoftware Developers, Codecrest Digital, 2016.02–2018.06\n- Assisted with build automation\n- Wrote configuration parsers\nEDUCATION\nBachelor's, Sunset Ridge University, 2014\n• Completed coursework in containerization basics\n• Studied principles of augmented reality"
+}

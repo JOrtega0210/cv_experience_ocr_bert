@@ -1,0 +1,278 @@
+{
+  "id": "15345",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.096,
+  "n_lines": 20,
+  "mean_score": 0.9812,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MELISSA GOULD",
+      "score": 0.9779,
+      "box": [
+        116,
+        90,
+        397,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-587-929-8422 |melissa.gould@example.com",
+      "score": 0.98,
+      "box": [
+        117,
+        152,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9848,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Financial Group, 2019.11–2023.01",
+      "score": 0.9789,
+      "box": [
+        114,
+        288,
+        757,
+        314
+      ]
+    },
+    {
+      "text": "-Directed financial reporting processes",
+      "score": 0.9953,
+      "box": [
+        125,
+        314,
+        492,
+        339
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.978,
+      "box": [
+        127,
+        340,
+        553,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Advisors, 2016.09–2019.11",
+      "score": 0.9911,
+      "box": [
+        116,
+        382,
+        695,
+        405
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9859,
+      "box": [
+        126,
+        405,
+        517,
+        431
+      ]
+    },
+    {
+      "text": "- Managed financial compliance programs",
+      "score": 0.9661,
+      "box": [
+        126,
+        430,
+        517,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Financial Group, 2012.04–2015.07",
+      "score": 0.985,
+      "box": [
+        114,
+        471,
+        775,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared cost allocation models",
+      "score": 0.9592,
+      "box": [
+        127,
+        499,
+        439,
+        519
+      ]
+    },
+    {
+      "text": "- Conducted inventory valuation",
+      "score": 0.9891,
+      "box": [
+        126,
+        521,
+        423,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Advisors, 2008.02–2011.05",
+      "score": 0.9938,
+      "box": [
+        115,
+        565,
+        689,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared account reconcilliations",
+      "score": 0.9697,
+      "box": [
+        125,
+        589,
+        444,
+        612
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9694,
+      "box": [
+        125,
+        613,
+        418,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        679,
+        266,
+        703
+      ]
+    },
+    {
+      "text": "Master's, Business Economics, Summit University, 2005",
+      "score": 0.979,
+      "box": [
+        115,
+        725,
+        637,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Government Accounting, Silverview University, 2003",
+      "score": 0.9815,
+      "box": [
+        114,
+        747,
+        710,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit evidence",
+      "score": 0.9849,
+      "box": [
+        133,
+        773,
+        513,
+        795
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting analytics basics",
+      "score": 0.9747,
+      "box": [
+        134,
+        799,
+        641,
+        822
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "MELISSA GOULD\nGA, USA|+1-587-929-8422 |melissa.gould@example.com\nWORK HISTORY\nAccountants Auditors, ClearCount Financial Group, 2019.11–2023.01\n-Directed financial reporting processes\n- Designed financial documentation standards\nAccountants Auditors, FairBalance Advisors, 2016.09–2019.11\n- Directed enterprise accounting platforms\n- Managed financial compliance programs\nAccountants Auditors, CoreBalance Financial Group, 2012.04–2015.07\n- Prepared cost allocation models\n- Conducted inventory valuation\nAccountants Auditors, SolidCount Advisors, 2008.02–2011.05\n- Prepared account reconcilliations\n- Processed journal corrections\nEDUCATION\nMaster's, Business Economics, Summit University, 2005\nBachelor's, Government Accounting, Silverview University, 2003\n• Studied fundamentals of audit evidence\n• Completed coursework in accounting analytics basics"
+}

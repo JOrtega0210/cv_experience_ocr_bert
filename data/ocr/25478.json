@@ -1,0 +1,278 @@
+{
+  "id": "25478",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.896,
+  "n_lines": 20,
+  "mean_score": 0.9793,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ROBERT MCDONALD",
+      "score": 0.9771,
+      "box": [
+        115,
+        88,
+        464,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA|+1-522-681-9223 |robert.mcdonald@example.com",
+      "score": 0.9859,
+      "box": [
+        115,
+        150,
+        694,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9886,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skyline Tech, 2020.05–2023.01",
+      "score": 0.9772,
+      "box": [
+        115,
+        289,
+        616,
+        313
+      ]
+    },
+    {
+      "text": "- Defined integration standards",
+      "score": 0.9811,
+      "box": [
+        125,
+        313,
+        416,
+        338
+      ]
+    },
+    {
+      "text": "- Led refactoring initiatives",
+      "score": 0.9636,
+      "box": [
+        127,
+        340,
+        374,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Solutions, 2017.08–2020.05",
+      "score": 0.9891,
+      "box": [
+        115,
+        382,
+        697,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9881,
+      "box": [
+        126,
+        406,
+        461,
+        431
+      ]
+    },
+    {
+      "text": "- Led technical audits",
+      "score": 0.9781,
+      "box": [
+        127,
+        433,
+        326,
+        453
+      ]
+    },
+    {
+      "text": "Software Developers, Skybridge Software, 2013.05–2016.02",
+      "score": 0.981,
+      "box": [
+        114,
+        471,
+        677,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented logging frameworks",
+      "score": 0.9799,
+      "box": [
+        126,
+        498,
+        449,
+        521
+      ]
+    },
+    {
+      "text": "- Designed service interfaces",
+      "score": 0.9751,
+      "box": [
+        125,
+        521,
+        399,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Labs, 2009.04–2012.01",
+      "score": 0.971,
+      "box": [
+        114,
+        563,
+        613,
+        588
+      ]
+    },
+    {
+      "text": "- Reviewed code changes for syntax and logic issues",
+      "score": 0.9719,
+      "box": [
+        124,
+        589,
+        620,
+        614
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9915,
+      "box": [
+        125,
+        613,
+        352,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Stonehill University, 2008",
+      "score": 0.9577,
+      "box": [
+        114,
+        723,
+        444,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Willowbrook University, 2006",
+      "score": 0.9655,
+      "box": [
+        114,
+        747,
+        494,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in programming in C++",
+      "score": 0.9786,
+      "box": [
+        133,
+        774,
+        579,
+        798
+      ]
+    },
+    {
+      "text": "• Completed coursework in fault tolerance",
+      "score": 0.9858,
+      "box": [
+        133,
+        799,
+        521,
+        822
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "ROBERT MCDONALD\nMA, USA|+1-522-681-9223 |robert.mcdonald@example.com\nWORK HISTORY\nSoftware Developers, Skyline Tech, 2020.05–2023.01\n- Defined integration standards\n- Led refactoring initiatives\nSoftware Developers, Datastream Solutions, 2017.08–2020.05\n- Implemented service orchestration\n- Led technical audits\nSoftware Developers, Skybridge Software, 2013.05–2016.02\n- Implemented logging frameworks\n- Designed service interfaces\nSoftware Developers, Netline Labs, 2009.04–2012.01\n- Reviewed code changes for syntax and logic issues\n- Wrote integration tests\nEDUCATION\nMaster's, Stonehill University, 2008\nBachelor's, Willowbrook University, 2006\n• Completed coursework in programming in C++\n• Completed coursework in fault tolerance"
+}

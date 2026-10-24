@@ -1,0 +1,226 @@
+{
+  "id": "50281",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.798,
+  "n_lines": 16,
+  "mean_score": 0.9868,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SARAISTOKES",
+      "score": 0.9985,
+      "box": [
+        115,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-248-255-5862| sarai.stokes@example.com",
+      "score": 0.9645,
+      "box": [
+        115,
+        150,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9865,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Labs, 2021.01–2023.01",
+      "score": 0.9962,
+      "box": [
+        116,
+        290,
+        654,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed system design documents",
+      "score": 0.9868,
+      "box": [
+        127,
+        315,
+        481,
+        338
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.9929,
+      "box": [
+        127,
+        339,
+        541,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Flowstack Digital, 2017.04–2019.04",
+      "score": 0.9714,
+      "box": [
+        115,
+        381,
+        653,
+        406
+      ]
+    },
+    {
+      "text": "- Improved memory usage",
+      "score": 0.9901,
+      "box": [
+        126,
+        406,
+        374,
+        433
+      ]
+    },
+    {
+      "text": "- Implemented authentication workflows",
+      "score": 0.9884,
+      "box": [
+        126,
+        431,
+        496,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Brightcrest Systems, 2014.04–2016.05",
+      "score": 0.9857,
+      "box": [
+        116,
+        472,
+        682,
+        496
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.993,
+      "box": [
+        127,
+        499,
+        372,
+        520
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.9899,
+      "box": [
+        126,
+        521,
+        355,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Willowview University, 2006",
+      "score": 0.9636,
+      "box": [
+        115,
+        632,
+        484,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of linear algebra",
+      "score": 0.9853,
+      "box": [
+        132,
+        656,
+        469,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of software metrics",
+      "score": 0.9974,
+      "box": [
+        134,
+        681,
+        530,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "SARAISTOKES\nTX, USA|+1-248-255-5862| sarai.stokes@example.com\nWORK HISTORY\nSoftware Developers, Datastream Labs, 2021.01–2023.01\n- Reviewed system design documents\n- Defined technical documentation standards\nSoftware Developers, Flowstack Digital, 2017.04–2019.04\n- Improved memory usage\n- Implemented authentication workflows\nSoftware Developers, Brightcrest Systems, 2014.04–2016.05\n- Updated localization files\n- Reviewed error reports\nEDUCATION\nBachelor's, Willowview University, 2006\n• Studied principles of linear algebra\n• Studied fundamentals of software metrics"
+}

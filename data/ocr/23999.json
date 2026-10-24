@@ -1,0 +1,148 @@
+{
+  "id": "23999",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.767,
+  "n_lines": 10,
+  "mean_score": 0.9796,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "VICTORIA MILES",
+      "score": 0.9882,
+      "box": [
+        114,
+        87,
+        390,
+        123
+      ]
+    },
+    {
+      "text": "MD, USA|+1-580-551-5058 |victoria.miles@example.com",
+      "score": 0.9781,
+      "box": [
+        115,
+        150,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9773,
+      "box": [
+        114,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Start School, 2019.04–2021.12",
+      "score": 0.9807,
+      "box": [
+        115,
+        290,
+        812,
+        313
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9936,
+      "box": [
+        127,
+        316,
+        398,
+        336
+      ]
+    },
+    {
+      "text": "- Prepared daily instructional agendas",
+      "score": 0.9864,
+      "box": [
+        126,
+        339,
+        480,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Applied Education, Foxwood University, 2008",
+      "score": 0.9689,
+      "box": [
+        115,
+        447,
+        724,
+        473
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic instructional coaching",
+      "score": 0.9468,
+      "box": [
+        132,
+        474,
+        642,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in reading instruction",
+      "score": 0.9769,
+      "box": [
+        134,
+        499,
+        560,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "VICTORIA MILES\nMD, USA|+1-580-551-5058 |victoria.miles@example.com\nWORK HISTORY\nElementary Middle School Teachers, Bright Start School, 2019.04–2021.12\n- Recorded student feedback\n- Prepared daily instructional agendas\nEDUCATION\nAssociate's degree, Applied Education, Foxwood University, 2008\n• Completed coursework in basic instructional coaching\n• Completed coursework in reading instruction"
+}

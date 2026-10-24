@@ -1,0 +1,226 @@
+{
+  "id": "59733",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.835,
+  "n_lines": 16,
+  "mean_score": 0.9853,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TIMOTHY XIONG",
+      "score": 0.9811,
+      "box": [
+        115,
+        90,
+        385,
+        121
+      ]
+    },
+    {
+      "text": "WA,USA|+1-328-650-3410|timothy.xiong@example.com",
+      "score": 0.9856,
+      "box": [
+        114,
+        150,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skyframe Labs, 2020.04–2023.01",
+      "score": 0.9951,
+      "box": [
+        116,
+        290,
+        634,
+        313
+      ]
+    },
+    {
+      "text": "- Defined integration standards",
+      "score": 0.9891,
+      "box": [
+        126,
+        313,
+        416,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented data pipeline architectures",
+      "score": 0.9879,
+      "box": [
+        126,
+        339,
+        512,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightloop Systems, 2017.07–2020.04",
+      "score": 0.9739,
+      "box": [
+        115,
+        381,
+        676,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented search features",
+      "score": 0.99,
+      "box": [
+        126,
+        406,
+        414,
+        431
+      ]
+    },
+    {
+      "text": "- Improved build processes",
+      "score": 0.991,
+      "box": [
+        126,
+        430,
+        380,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Softnode Systems, 2014.09–2017.07",
+      "score": 0.9775,
+      "box": [
+        115,
+        471,
+        665,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed code changes for syntax and logic issues",
+      "score": 0.9868,
+      "box": [
+        125,
+        496,
+        621,
+        522
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9835,
+      "box": [
+        126,
+        521,
+        448,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Brookridge University, 2013",
+      "score": 0.9692,
+      "box": [
+        115,
+        632,
+        482,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of programming languages",
+      "score": 0.9782,
+      "box": [
+        132,
+        656,
+        567,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of programming paradigms",
+      "score": 0.9904,
+      "box": [
+        134,
+        681,
+        605,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "TIMOTHY XIONG\nWA,USA|+1-328-650-3410|timothy.xiong@example.com\nWORK HISTORY\nSoftware Developers, Skyframe Labs, 2020.04–2023.01\n- Defined integration standards\n- Implemented data pipeline architectures\nSoftware Developers, Brightloop Systems, 2017.07–2020.04\n- Implemented search features\n- Improved build processes\nSoftware Developers, Softnode Systems, 2014.09–2017.07\n- Reviewed code changes for syntax and logic issues\n- Performed basic APl integrations\nEDUCATION\nBachelor's, Brookridge University, 2013\n• Studied principles of programming languages\n• Studied fundamentals of programming paradigms"
+}

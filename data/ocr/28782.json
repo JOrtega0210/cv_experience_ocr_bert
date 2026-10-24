@@ -1,0 +1,226 @@
+{
+  "id": "28782",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.884,
+  "n_lines": 16,
+  "mean_score": 0.982,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CHEYENNE RANDOLPH",
+      "score": 0.9719,
+      "box": [
+        117,
+        90,
+        502,
+        120
+      ]
+    },
+    {
+      "text": "MN, USA|+1-782-335-6803|cheyenne.randolph@example.com",
+      "score": 0.9927,
+      "box": [
+        115,
+        150,
+        722,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9803,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterFrame Builders, 2020.12–2023.01",
+      "score": 0.988,
+      "box": [
+        114,
+        289,
+        712,
+        313
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9803,
+      "box": [
+        126,
+        315,
+        467,
+        338
+      ]
+    },
+    {
+      "text": "- Developed cost estimation models",
+      "score": 0.9664,
+      "box": [
+        127,
+        340,
+        460,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongTrack Construction, 2018.11–2020.12",
+      "score": 0.9971,
+      "box": [
+        116,
+        382,
+        745,
+        405
+      ]
+    },
+    {
+      "text": "- Operated power tools independently",
+      "score": 0.9534,
+      "box": [
+        127,
+        408,
+        477,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted site safety inspections",
+      "score": 0.9775,
+      "box": [
+        126,
+        431,
+        453,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, LevelLine Builders, 2016.10–2018.11",
+      "score": 0.9907,
+      "box": [
+        116,
+        472,
+        678,
+        495
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.9842,
+      "box": [
+        125,
+        496,
+        361,
+        523
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.9735,
+      "box": [
+        126,
+        521,
+        418,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Workflow, Brighton University, 2016",
+      "score": 0.9798,
+      "box": [
+        115,
+        631,
+        823,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction safety",
+      "score": 0.9842,
+      "box": [
+        131,
+        656,
+        553,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of flooring installation",
+      "score": 0.9932,
+      "box": [
+        134,
+        682,
+        552,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "CHEYENNE RANDOLPH\nMN, USA|+1-782-335-6803|cheyenne.randolph@example.com\nWORK HISTORY\nConstruction Laborers, MasterFrame Builders, 2020.12–2023.01\n- Directed site optimization initiatives\n- Developed cost estimation models\nConstruction Laborers, StrongTrack Construction, 2018.11–2020.12\n- Operated power tools independently\n- Conducted site safety inspections\nConstruction Laborers, LevelLine Builders, 2016.10–2018.11\n- Installed safety signage\n- Maintained tool storage areas\nEDUCATION\nSome college (no degree), Construction Workflow, Brighton University, 2016\n• Studied fundamentals of construction safety\n• Studied fundamentals of flooring installation"
+}

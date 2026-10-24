@@ -1,0 +1,187 @@
+{
+  "id": "14439",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.924,
+  "n_lines": 13,
+  "mean_score": 0.9788,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KIMBERLY WARD",
+      "score": 0.9616,
+      "box": [
+        116,
+        90,
+        406,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-465-239-5871 |kimberly.ward@example.com",
+      "score": 0.9632,
+      "box": [
+        115,
+        150,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9807,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeNest Nursing Services, 2019.04–2021.08",
+      "score": 0.9795,
+      "box": [
+        116,
+        290,
+        716,
+        313
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.9787,
+      "box": [
+        125,
+        313,
+        425,
+        338
+      ]
+    },
+    {
+      "text": "- Developed patient safety metrics",
+      "score": 0.9846,
+      "box": [
+        126,
+        339,
+        445,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Way Nursing, 2015.11–2018.04",
+      "score": 0.9721,
+      "box": [
+        115,
+        381,
+        672,
+        406
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.983,
+      "box": [
+        126,
+        407,
+        531,
+        430
+      ]
+    },
+    {
+      "text": "- Monitored oxygen therapy",
+      "score": 0.9675,
+      "box": [
+        126,
+        430,
+        384,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Human Biology, Brookhaven University, 2005",
+      "score": 0.99,
+      "box": [
+        115,
+        539,
+        724,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in maternal health nursing",
+      "score": 0.982,
+      "box": [
+        133,
+        565,
+        606,
+        588
+      ]
+    },
+    {
+      "text": "• Completed coursework in therapeutic communication",
+      "score": 0.9827,
+      "box": [
+        134,
+        591,
+        638,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KIMBERLY WARD\nFL, USA|+1-465-239-5871 |kimberly.ward@example.com\nWORK HISTORY\nRegistered Nurses, LifeNest Nursing Services, 2019.04–2021.08\n- Led clinical governance efforts\n- Developed patient safety metrics\nRegistered Nurses, Helping Way Nursing, 2015.11–2018.04\n- Recorded medication administration times\n- Monitored oxygen therapy\nEDUCATION\nAssociate's degree, Human Biology, Brookhaven University, 2005\n• Completed coursework in maternal health nursing\n• Completed coursework in therapeutic communication"
+}

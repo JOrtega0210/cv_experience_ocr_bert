@@ -1,0 +1,148 @@
+{
+  "id": "27798",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.726,
+  "n_lines": 10,
+  "mean_score": 0.9882,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CHEYENNE CHANG",
+      "score": 0.9754,
+      "box": [
+        117,
+        90,
+        434,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-546-961-3444|cheyenne.chang@example.com",
+      "score": 0.9945,
+      "box": [
+        116,
+        152,
+        688,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Tech, 2020.01–2023.01",
+      "score": 0.9959,
+      "box": [
+        116,
+        290,
+        620,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented caching logic",
+      "score": 0.9841,
+      "box": [
+        127,
+        315,
+        390,
+        339
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.9925,
+      "box": [
+        128,
+        341,
+        462,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearwater University, 2020",
+      "score": 0.9864,
+      "box": [
+        115,
+        449,
+        482,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of dependency management",
+      "score": 0.9867,
+      "box": [
+        132,
+        473,
+        584,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in mobile application development",
+      "score": 0.9837,
+      "box": [
+        133,
+        498,
+        682,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "CHEYENNE CHANG\nMI, USA|+1-546-961-3444|cheyenne.chang@example.com\nWORK HISTORY\nSoftware Developers, Softgrid Tech, 2020.01–2023.01\n- Implemented caching logic\n- Updated application dependencies\nEDUCATION\nBachelor's, Clearwater University, 2020\n• Studied principles of dependency management\n• Completed coursework in mobile application development"
+}

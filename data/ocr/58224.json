@@ -1,0 +1,200 @@
+{
+  "id": "58224",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.854,
+  "n_lines": 14,
+  "mean_score": 0.9832,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "APRILBURKE",
+      "score": 0.9986,
+      "box": [
+        115,
+        88,
+        348,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA|+1-585-599-4714|april.burke@example.com",
+      "score": 0.9779,
+      "box": [
+        114,
+        150,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Star Academy, 2020.01–222.06",
+      "score": 0.9852,
+      "box": [
+        114,
+        289,
+        856,
+        314
+      ]
+    },
+    {
+      "text": "- Led strategic curriculum planning",
+      "score": 0.9586,
+      "box": [
+        126,
+        315,
+        448,
+        339
+      ]
+    },
+    {
+      "text": "- Designed curriculum frameworks for grade-level instruction",
+      "score": 0.9755,
+      "box": [
+        127,
+        340,
+        685,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Start Academy, 2016.02–2018.08",
+      "score": 0.9893,
+      "box": [
+        115,
+        381,
+        840,
+        406
+      ]
+    },
+    {
+      "text": "- Collected student assignments",
+      "score": 0.9668,
+      "box": [
+        125,
+        406,
+        428,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared instructional materials and worksheets",
+      "score": 0.9879,
+      "box": [
+        125,
+        431,
+        588,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Learning Foundations, Fieldview University, 2014",
+      "score": 0.9705,
+      "box": [
+        115,
+        541,
+        663,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Foundational Education, Oakridge University, 2012",
+      "score": 0.991,
+      "box": [
+        114,
+        565,
+        697,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of classroom inclusivity",
+      "score": 0.9902,
+      "box": [
+        132,
+        590,
+        532,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in student progress monitoring",
+      "score": 0.9921,
+      "box": [
+        133,
+        615,
+        647,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "APRILBURKE\nWA, USA|+1-585-599-4714|april.burke@example.com\nWORK HISTORY\nElementary Middle School Teachers, Learning Star Academy, 2020.01–222.06\n- Led strategic curriculum planning\n- Designed curriculum frameworks for grade-level instruction\nElementary Middle School Teachers, Future Start Academy, 2016.02–2018.08\n- Collected student assignments\n- Prepared instructional materials and worksheets\nEDUCATION\nMaster's, Learning Foundations, Fieldview University, 2014\nBachelor's, Foundational Education, Oakridge University, 2012\n• Studied principles of classroom inclusivity\n• Completed coursework in student progress monitoring"
+}

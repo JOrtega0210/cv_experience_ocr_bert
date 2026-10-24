@@ -1,0 +1,226 @@
+{
+  "id": "61057",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.854,
+  "n_lines": 16,
+  "mean_score": 0.9839,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANDREW HUYNH",
+      "score": 0.9777,
+      "box": [
+        117,
+        90,
+        397,
+        120
+      ]
+    },
+    {
+      "text": "WI, USA|+1-298-890-6060|andrew.huynh@example.com",
+      "score": 0.9751,
+      "box": [
+        115,
+        150,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9808,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Openpoint Tech, 2020.06–2023.01",
+      "score": 0.983,
+      "box": [
+        115,
+        289,
+        644,
+        313
+      ]
+    },
+    {
+      "text": "- Designed event-driven architectures",
+      "score": 0.9869,
+      "box": [
+        126,
+        315,
+        476,
+        338
+      ]
+    },
+    {
+      "text": "- Designed deployment strategies",
+      "score": 0.9813,
+      "box": [
+        126,
+        339,
+        441,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Corepath Solutions, 2016.12–2019.08",
+      "score": 0.9895,
+      "box": [
+        115,
+        381,
+        674,
+        406
+      ]
+    },
+    {
+      "text": "- Built containerized services",
+      "score": 0.9768,
+      "box": [
+        126,
+        407,
+        395,
+        429
+      ]
+    },
+    {
+      "text": "- Developed data processing pipelines",
+      "score": 0.9927,
+      "box": [
+        126,
+        431,
+        483,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Brightnode Systems, 2012.11–2015.07",
+      "score": 0.9724,
+      "box": [
+        115,
+        471,
+        683,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with Cl pipeline tasks",
+      "score": 0.9794,
+      "box": [
+        125,
+        496,
+        423,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.9888,
+      "box": [
+        126,
+        521,
+        355,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Greenfield Ridge University, 2010",
+      "score": 0.9902,
+      "box": [
+        115,
+        632,
+        538,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in project documentation",
+      "score": 0.986,
+      "box": [
+        133,
+        657,
+        594,
+        680
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of indexing techniques",
+      "score": 0.9831,
+      "box": [
+        133,
+        681,
+        563,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ANDREW HUYNH\nWI, USA|+1-298-890-6060|andrew.huynh@example.com\nWORK HISTORY\nSoftware Developers, Openpoint Tech, 2020.06–2023.01\n- Designed event-driven architectures\n- Designed deployment strategies\nSoftware Developers, Corepath Solutions, 2016.12–2019.08\n- Built containerized services\n- Developed data processing pipelines\nSoftware Developers, Brightnode Systems, 2012.11–2015.07\n- Assisted with Cl pipeline tasks\n- Reviewed error reports\nEDUCATION\nBachelor's, Greenfield Ridge University, 2010\n• Completed coursework in project documentation\n• Studied fundamentals of indexing techniques"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "48531",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.772,
+  "n_lines": 10,
+  "mean_score": 0.9819,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SHANNONCROSBY",
+      "score": 0.9996,
+      "box": [
+        116,
+        90,
+        440,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-248-743-7541 |shannon.crosby@example.com",
+      "score": 0.985,
+      "box": [
+        115,
+        150,
+        688,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9816,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverCare Health Services, 2021.05–2021.12",
+      "score": 0.984,
+      "box": [
+        116,
+        290,
+        717,
+        313
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.97,
+      "box": [
+        125,
+        313,
+        399,
+        339
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9672,
+      "box": [
+        126,
+        339,
+        435,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Services Administration, Forest Hill University, 2016",
+      "score": 0.9678,
+      "box": [
+        114,
+        447,
+        849,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in cardiovascular nursing basics",
+      "score": 0.9723,
+      "box": [
+        132,
+        472,
+        663,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of intravenous therapy",
+      "score": 0.9931,
+      "box": [
+        132,
+        497,
+        562,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "SHANNONCROSBY\nTN, USA|+1-248-743-7541 |shannon.crosby@example.com\nWORK HISTORY\nRegistered Nurses, EverCare Health Services, 2021.05–2021.12\n- Recorded patient vital signs\n- Monitored patient dietary needs\nEDUCATION\nAssociate's degree, Health Services Administration, Forest Hill University, 2016\n• Completed coursework in cardiovascular nursing basics\n• Studied fundamentals of intravenous therapy"
+}

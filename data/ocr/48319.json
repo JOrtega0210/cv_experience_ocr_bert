@@ -1,0 +1,187 @@
+{
+  "id": "48319",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.84,
+  "n_lines": 13,
+  "mean_score": 0.9847,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DAKOTA ROWLAND",
+      "score": 0.969,
+      "box": [
+        116,
+        90,
+        444,
+        121
+      ]
+    },
+    {
+      "text": "SD, USA|+1-823-521-7423 |dakota.rowland@example.com",
+      "score": 0.9808,
+      "box": [
+        116,
+        152,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9783,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Bridge Medical, 2019.12–2021.11",
+      "score": 0.977,
+      "box": [
+        116,
+        290,
+        735,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.9809,
+      "box": [
+        126,
+        314,
+        517,
+        339
+      ]
+    },
+    {
+      "text": "- Developed nursing policy frameworks",
+      "score": 0.9638,
+      "box": [
+        126,
+        339,
+        489,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueSpring Nursing, 2016.10–2018.10",
+      "score": 0.9878,
+      "box": [
+        115,
+        381,
+        657,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with specimen labeling",
+      "score": 0.9937,
+      "box": [
+        126,
+        406,
+        436,
+        432
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.9927,
+      "box": [
+        127,
+        432,
+        415,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Associate's degree, Care Management, Lakeside University, 2014",
+      "score": 0.9965,
+      "box": [
+        116,
+        541,
+        728,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in geriatric nursing",
+      "score": 0.9899,
+      "box": [
+        133,
+        565,
+        538,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in integumentary system care",
+      "score": 0.9919,
+      "box": [
+        133,
+        590,
+        640,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "DAKOTA ROWLAND\nSD, USA|+1-823-521-7423 |dakota.rowland@example.com\nWORK HISTORY\nRegistered Nurses, Compassion Bridge Medical, 2019.12–2021.11\n- Implemented patient monitoring systems\n- Developed nursing policy frameworks\nRegistered Nurses, TrueSpring Nursing, 2016.10–2018.10\n- Assisted with specimen labeling\n- Checked patient identification\nEDUCATION\nAssociate's degree, Care Management, Lakeside University, 2014\n• Completed coursework in geriatric nursing\n• Completed coursework in integumentary system care"
+}

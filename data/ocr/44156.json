@@ -1,0 +1,213 @@
+{
+  "id": "44156",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.876,
+  "n_lines": 15,
+  "mean_score": 0.9819,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DUSTIN MCDOWELL",
+      "score": 0.9706,
+      "box": [
+        117,
+        90,
+        447,
+        121
+      ]
+    },
+    {
+      "text": "OR, USA|+1-853-492-2249 |dustin.mcdowell@example.com",
+      "score": 0.9791,
+      "box": [
+        115,
+        150,
+        691,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftLine Construction, 2020.06–2023.01",
+      "score": 0.9882,
+      "box": [
+        115,
+        290,
+        715,
+        313
+      ]
+    },
+    {
+      "text": "- Managed equipment maintenance programs",
+      "score": 0.9645,
+      "box": [
+        125,
+        314,
+        552,
+        340
+      ]
+    },
+    {
+      "text": "- Managed workforce allocation",
+      "score": 0.9589,
+      "box": [
+        126,
+        339,
+        419,
+        362
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Structures, 2017.10–2020.06",
+      "score": 0.9948,
+      "box": [
+        116,
+        382,
+        695,
+        405
+      ]
+    },
+    {
+      "text": "- Installed framing components",
+      "score": 0.9824,
+      "box": [
+        125,
+        406,
+        415,
+        431
+      ]
+    },
+    {
+      "text": "- Assembled structural frameworks",
+      "score": 0.9643,
+      "box": [
+        127,
+        433,
+        449,
+        452
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextRise Construction, 2015.02–2017.10",
+      "score": 0.987,
+      "box": [
+        115,
+        472,
+        716,
+        495
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9907,
+      "box": [
+        126,
+        497,
+        424,
+        519
+      ]
+    },
+    {
+      "text": "- Assisted with site cleanup and debris removal",
+      "score": 0.9911,
+      "box": [
+        126,
+        521,
+        565,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Field Operations, Cedarfield High School, 2015",
+      "score": 0.9931,
+      "box": [
+        115,
+        631,
+        936,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction time management",
+      "score": 0.9795,
+      "box": [
+        132,
+        656,
+        675,
+        681
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "DUSTIN MCDOWELL\nOR, USA|+1-853-492-2249 |dustin.mcdowell@example.com\nWORK HISTORY\nConstruction Laborers, CraftLine Construction, 2020.06–2023.01\n- Managed equipment maintenance programs\n- Managed workforce allocation\nConstruction Laborers, Precision Structures, 2017.10–2020.06\n- Installed framing components\n- Assembled structural frameworks\nConstruction Laborers, NextRise Construction, 2015.02–2017.10\n- Assisted with excavation tasks\n- Assisted with site cleanup and debris removal\nEDUCATION\nHigh school graduate/GED, Construction Field Operations, Cedarfield High School, 2015\n• Completed coursework in construction time management"
+}

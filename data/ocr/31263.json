@@ -1,0 +1,226 @@
+{
+  "id": "31263",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.835,
+  "n_lines": 16,
+  "mean_score": 0.9858,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DAVID BARRY",
+      "score": 0.9616,
+      "box": [
+        116,
+        90,
+        351,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA|+1-763-900-6028|david.barry@example.com",
+      "score": 0.9928,
+      "box": [
+        115,
+        150,
+        649,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9832,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Digital, 2020.01–2023.01",
+      "score": 0.988,
+      "box": [
+        116,
+        290,
+        649,
+        313
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.9834,
+      "box": [
+        125,
+        313,
+        542,
+        338
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9905,
+      "box": [
+        126,
+        339,
+        448,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Openridge Technologies, 2016.12–2020.01",
+      "score": 0.9942,
+      "box": [
+        115,
+        381,
+        723,
+        406
+      ]
+    },
+    {
+      "text": "- Developed RESTful APIs",
+      "score": 0.9841,
+      "box": [
+        126,
+        407,
+        377,
+        430
+      ]
+    },
+    {
+      "text": "- Designed integration tests",
+      "score": 0.9889,
+      "box": [
+        126,
+        430,
+        384,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpath Digital, 2013.11–2016.12",
+      "score": 0.9898,
+      "box": [
+        116,
+        472,
+        645,
+        496
+      ]
+    },
+    {
+      "text": "- Debugged runtime errors",
+      "score": 0.9841,
+      "box": [
+        125,
+        498,
+        374,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with database queries",
+      "score": 0.9895,
+      "box": [
+        126,
+        521,
+        431,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Clearfield Ridge University, 2015",
+      "score": 0.9705,
+      "box": [
+        115,
+        631,
+        673,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of user interface development",
+      "score": 0.9945,
+      "box": [
+        132,
+        656,
+        631,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in system programming",
+      "score": 0.9793,
+      "box": [
+        135,
+        682,
+        584,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "DAVID BARRY\nMO, USA|+1-763-900-6028|david.barry@example.com\nWORK HISTORY\nSoftware Developers, Codepath Digital, 2020.01–2023.01\n- Defined technical documentation standards\n- Designed data storage strategies\nSoftware Developers, Openridge Technologies, 2016.12–2020.01\n- Developed RESTful APIs\n- Designed integration tests\nSoftware Developers, Flowpath Digital, 2013.11–2016.12\n- Debugged runtime errors\n- Assisted with database queries\nEDUCATION\nSome college (no degree), Clearfield Ridge University, 2015\n• Studied fundamentals of user interface development\n• Completed coursework in system programming"
+}

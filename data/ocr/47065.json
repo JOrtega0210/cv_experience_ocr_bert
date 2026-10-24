@@ -1,0 +1,187 @@
+{
+  "id": "47065",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.815,
+  "n_lines": 13,
+  "mean_score": 0.9852,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SAMANTHA DAUGHERTY",
+      "score": 0.9804,
+      "box": [
+        116,
+        90,
+        529,
+        120
+      ]
+    },
+    {
+      "text": "RI, USA|+1-553-261-4784 |samantha.daugherty@example.com",
+      "score": 0.9734,
+      "box": [
+        116,
+        150,
+        723,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9891,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Nursing, 2020.11–2022.07",
+      "score": 0.9934,
+      "box": [
+        116,
+        290,
+        675,
+        313
+      ]
+    },
+    {
+      "text": "- Directed care delivery improvements",
+      "score": 0.9762,
+      "box": [
+        125,
+        314,
+        480,
+        337
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.9826,
+      "box": [
+        127,
+        340,
+        568,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverBridge Health Group, 2018.09–2020.05",
+      "score": 0.979,
+      "box": [
+        115,
+        381,
+        708,
+        406
+      ]
+    },
+    {
+      "text": "- Collected laboratory specimens",
+      "score": 0.9771,
+      "box": [
+        125,
+        406,
+        434,
+        431
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.9892,
+      "box": [
+        127,
+        432,
+        453,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Studies, Clearview University, 2006",
+      "score": 0.9851,
+      "box": [
+        114,
+        539,
+        699,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in suctioning techniques",
+      "score": 0.9926,
+      "box": [
+        133,
+        565,
+        590,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in geriatric nursing",
+      "score": 0.991,
+      "box": [
+        134,
+        590,
+        538,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "SAMANTHA DAUGHERTY\nRI, USA|+1-553-261-4784 |samantha.daugherty@example.com\nWORK HISTORY\nRegistered Nurses, GentleHands Nursing, 2020.11–2022.07\n- Directed care delivery improvements\n- Implemented evidence-based practice models\nRegistered Nurses, EverBridge Health Group, 2018.09–2020.05\n- Collected laboratory specimens\n- Documented patient observations\nEDUCATION\nAssociate's degree, Health Studies, Clearview University, 2006\n• Completed coursework in suctioning techniques\n• Completed coursework in geriatric nursing"
+}

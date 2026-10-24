@@ -1,0 +1,226 @@
+{
+  "id": "03161",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.035,
+  "n_lines": 16,
+  "mean_score": 0.9801,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MATTHEW MAYER",
+      "score": 0.979,
+      "box": [
+        116,
+        90,
+        418,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA|+1-663-353-9580 |matthew.mayer@example.com",
+      "score": 0.9808,
+      "box": [
+        117,
+        152,
+        684,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9783,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Star School, 2019.11–2023.01",
+      "score": 0.9812,
+      "box": [
+        115,
+        289,
+        804,
+        314
+      ]
+    },
+    {
+      "text": "- Led academic improvement programs",
+      "score": 0.9841,
+      "box": [
+        126,
+        314,
+        493,
+        339
+      ]
+    },
+    {
+      "text": "- Designed performance monitoring systems",
+      "score": 0.9632,
+      "box": [
+        127,
+        339,
+        539,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Futures School, 2014.07–2017.09",
+      "score": 0.981,
+      "box": [
+        115,
+        381,
+        875,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented differentiated instruction strategies",
+      "score": 0.9817,
+      "box": [
+        126,
+        406,
+        586,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared instructional guides",
+      "score": 0.9745,
+      "box": [
+        126,
+        430,
+        413,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Path Academy, 2010.08–2013.10",
+      "score": 0.9864,
+      "box": [
+        116,
+        472,
+        864,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9646,
+      "box": [
+        127,
+        498,
+        496,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented basic literacy lessons",
+      "score": 0.9824,
+      "box": [
+        126,
+        521,
+        466,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Practice, Seabreeze University, 2007",
+      "score": 0.9808,
+      "box": [
+        115,
+        632,
+        684,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of special education awareness",
+      "score": 0.9795,
+      "box": [
+        132,
+        656,
+        647,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication skills",
+      "score": 0.9849,
+      "box": [
+        136,
+        682,
+        693,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "MATTHEW MAYER\nCA, USA|+1-663-353-9580 |matthew.mayer@example.com\nWORK HISTORY\nElementary Middle School Teachers, Bright Star School, 2019.11–2023.01\n- Led academic improvement programs\n- Designed performance monitoring systems\nElementary Middle School Teachers, Discovery Futures School, 2014.07–2017.09\n- Implemented differentiated instruction strategies\n- Prepared instructional guides\nElementary Middle School Teachers, Harmony Path Academy, 2010.08–2013.10\n- Implemented lesson pacing guidelines\n- Implemented basic literacy lessons\nEDUCATION\nBachelor's, Educational Practice, Seabreeze University, 2007\n• Studied fundamentals of special education awareness\n• Completed coursework in educational communication skills"
+}

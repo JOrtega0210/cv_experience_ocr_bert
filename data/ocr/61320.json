@@ -1,0 +1,174 @@
+{
+  "id": "61320",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.842,
+  "n_lines": 12,
+  "mean_score": 0.9806,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSHUA DICKSON",
+      "score": 0.9764,
+      "box": [
+        116,
+        90,
+        421,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-395-328-2634 |joshua.dickson@example.com",
+      "score": 0.9708,
+      "box": [
+        116,
+        151,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterCraft Builders, 2019.09–2021.04",
+      "score": 0.977,
+      "box": [
+        115,
+        289,
+        698,
+        312
+      ]
+    },
+    {
+      "text": "- Developed project risk assessments",
+      "score": 0.9744,
+      "box": [
+        127,
+        315,
+        476,
+        338
+      ]
+    },
+    {
+      "text": "- Directed installation methodologies",
+      "score": 0.9719,
+      "box": [
+        126,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidForm Construction, 2016.12–2018.08",
+      "score": 0.9888,
+      "box": [
+        116,
+        382,
+        727,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9728,
+      "box": [
+        125,
+        405,
+        416,
+        432
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9726,
+      "box": [
+        126,
+        431,
+        491,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Drafting Technology, Riverbend High School, 1999",
+      "score": 0.994,
+      "box": [
+        115,
+        540,
+        846,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of site preparation",
+      "score": 0.9863,
+      "box": [
+        133,
+        565,
+        484,
+        588
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "JOSHUA DICKSON\nWI, USA|+1-395-328-2634 |joshua.dickson@example.com\nWORK HISTORY\nConstruction Laborers, MasterCraft Builders, 2019.09–2021.04\n- Developed project risk assessments\n- Directed installation methodologies\nConstruction Laborers, SolidForm Construction, 2016.12–2018.08\n- Assisted with framing support\n- Performed basic sanding and painting\nEDUCATION\nHigh school graduate/GED, Drafting Technology, Riverbend High School, 1999\n• Studied principles of site preparation"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "38835",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.872,
+  "n_lines": 16,
+  "mean_score": 0.9799,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TERRYN HO",
+      "score": 0.9817,
+      "box": [
+        115,
+        90,
+        315,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-801-675-2468|terryn.ho@example.com",
+      "score": 0.9927,
+      "box": [
+        115,
+        150,
+        624,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Accounts, 2019.11–2023.01",
+      "score": 0.9805,
+      "box": [
+        114,
+        289,
+        664,
+        314
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9893,
+      "box": [
+        126,
+        313,
+        547,
+        339
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9682,
+      "box": [
+        126,
+        339,
+        428,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Group, 2016.09–2019.11",
+      "score": 0.9818,
+      "box": [
+        115,
+        382,
+        692,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared audit reports",
+      "score": 0.9632,
+      "box": [
+        126,
+        406,
+        351,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed payroll reconciliations",
+      "score": 0.958,
+      "box": [
+        126,
+        431,
+        440,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Services, 2011.04–2014.07",
+      "score": 0.9832,
+      "box": [
+        114,
+        471,
+        737,
+        496
+      ]
+    },
+    {
+      "text": "- Entered financial data into accounting systems",
+      "score": 0.9719,
+      "box": [
+        125,
+        496,
+        573,
+        522
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.9831,
+      "box": [
+        126,
+        521,
+        420,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Government Accounting, Pinehaven University, 2007",
+      "score": 0.9749,
+      "box": [
+        114,
+        631,
+        715,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in lease accounting",
+      "score": 0.9867,
+      "box": [
+        134,
+        658,
+        546,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of transfer pricing",
+      "score": 0.9777,
+      "box": [
+        134,
+        681,
+        480,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "TERRYN HO\nNY, USA|+1-801-675-2468|terryn.ho@example.com\nWORK HISTORY\nAccountants Auditors, Integrity Accounts, 2019.11–2023.01\n- Established compliance monitoring systems\n- Led audit planning governance\nAccountants Auditors, SteadyLedger Group, 2016.09–2019.11\n- Prepared audit reports\n- Reviewed payroll reconciliations\nAccountants Auditors, Precise Balance Services, 2011.04–2014.07\n- Entered financial data into accounting systems\n- Reconciled subsidiary ledgers\nEDUCATION\nBachelor's, Government Accounting, Pinehaven University, 2007\n• Completed coursework in lease accounting\n• Studied principles of transfer pricing"
+}

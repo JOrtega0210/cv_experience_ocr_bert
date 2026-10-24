@@ -1,0 +1,135 @@
+{
+  "id": "30851",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.756,
+  "n_lines": 9,
+  "mean_score": 0.98,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "GRAYSON VARGAS",
+      "score": 0.9731,
+      "box": [
+        117,
+        90,
+        440,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA |+1-451-94-2930|grayson.vargas@example.com",
+      "score": 0.9901,
+      "box": [
+        116,
+        151,
+        689,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9806,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidRise Construction, 2020.04–2023.01",
+      "score": 0.9803,
+      "box": [
+        115,
+        290,
+        718,
+        313
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9597,
+      "box": [
+        126,
+        315,
+        416,
+        338
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.9634,
+      "box": [
+        127,
+        340,
+        445,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Materials, Brookhaven High School, 2019",
+      "score": 0.9953,
+      "box": [
+        116,
+        449,
+        884,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic roofing installation",
+      "score": 0.9792,
+      "box": [
+        133,
+        474,
+        612,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "GRAYSON VARGAS\nMO, USA |+1-451-94-2930|grayson.vargas@example.com\nWORK HISTORY\nConstruction Laborers, SolidRise Construction, 2020.04–2023.01\n- Set up workstations for crews\n- Secured materials with fasteners\nEDUCATION\nHigh school graduate/GED, Construction Materials, Brookhaven High School, 2019\n• Completed coursework in basic roofing installation"
+}

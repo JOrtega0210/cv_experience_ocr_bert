@@ -1,0 +1,226 @@
+{
+  "id": "50898",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.815,
+  "n_lines": 16,
+  "mean_score": 0.9832,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "WENDY GOLDEN",
+      "score": 0.9729,
+      "box": [
+        116,
+        90,
+        395,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-992-765-2681|wendy.golden@example.com",
+      "score": 0.9803,
+      "box": [
+        115,
+        150,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9822,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Openline Labs, 2020.12–2023.01",
+      "score": 0.9938,
+      "box": [
+        115,
+        289,
+        628,
+        312
+      ]
+    },
+    {
+      "text": "- Designed Cl/CD frameworks",
+      "score": 0.9695,
+      "box": [
+        126,
+        315,
+        407,
+        338
+      ]
+    },
+    {
+      "text": "- Designed event-driven architectures",
+      "score": 0.9866,
+      "box": [
+        126,
+        339,
+        476,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Nextline Software, 2018.10–2020.12",
+      "score": 0.9884,
+      "box": [
+        116,
+        382,
+        660,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed pull requests",
+      "score": 0.9691,
+      "box": [
+        125,
+        406,
+        359,
+        431
+      ]
+    },
+    {
+      "text": "- Integrated monitoring tools",
+      "score": 0.9809,
+      "box": [
+        126,
+        430,
+        390,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Systems, 2016.08–2018.10",
+      "score": 0.9863,
+      "box": [
+        115,
+        471,
+        673,
+        496
+      ]
+    },
+    {
+      "text": "- Refactored simple functions for readability",
+      "score": 0.9837,
+      "box": [
+        125,
+        496,
+        530,
+        522
+      ]
+    },
+    {
+      "text": "- Debugged runtime errors",
+      "score": 0.9906,
+      "box": [
+        126,
+        522,
+        374,
+        545
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Brightfield University, 2016",
+      "score": 0.9754,
+      "box": [
+        115,
+        632,
+        475,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of embedded systems",
+      "score": 0.981,
+      "box": [
+        132,
+        656,
+        523,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in data structures and algorithms",
+      "score": 0.9918,
+      "box": [
+        135,
+        683,
+        670,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "WENDY GOLDEN\nTX, USA|+1-992-765-2681|wendy.golden@example.com\nWORK HISTORY\nSoftware Developers, Openline Labs, 2020.12–2023.01\n- Designed Cl/CD frameworks\n- Designed event-driven architectures\nSoftware Developers, Nextline Software, 2018.10–2020.12\n- Reviewed pull requests\n- Integrated monitoring tools\nSoftware Developers, Clearpath Systems, 2016.08–2018.10\n- Refactored simple functions for readability\n- Debugged runtime errors\nEDUCATION\nBachelor's, Brightfield University, 2016\n• Studied principles of embedded systems\n• Completed coursework in data structures and algorithms"
+}

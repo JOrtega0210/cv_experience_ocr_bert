@@ -1,0 +1,265 @@
+{
+  "id": "19544",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.947,
+  "n_lines": 19,
+  "mean_score": 0.9844,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KATHERINE MCBRIDE",
+      "score": 0.9882,
+      "box": [
+        116,
+        90,
+        478,
+        120
+      ]
+    },
+    {
+      "text": "IL, USA|+1-240-297-9776 |katherine.mcbride@example.com",
+      "score": 0.9905,
+      "box": [
+        116,
+        152,
+        695,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9856,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Group, 2019.07–2023.01",
+      "score": 0.9791,
+      "box": [
+        114,
+        289,
+        708,
+        314
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9891,
+      "box": [
+        126,
+        313,
+        509,
+        338
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9699,
+      "box": [
+        126,
+        339,
+        428,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Services, 2016.01–2019.07",
+      "score": 0.9807,
+      "box": [
+        114,
+        381,
+        687,
+        405
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9789,
+      "box": [
+        125,
+        406,
+        361,
+        431
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9885,
+      "box": [
+        127,
+        432,
+        553,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Financial, 2012.07–2016.01",
+      "score": 0.9934,
+      "box": [
+        115,
+        472,
+        692,
+        495
+      ]
+    },
+    {
+      "text": "- Prepared financial statements",
+      "score": 0.9795,
+      "box": [
+        126,
+        496,
+        418,
+        520
+      ]
+    },
+    {
+      "text": "- Reviewed internal controls",
+      "score": 0.9624,
+      "box": [
+        126,
+        521,
+        387,
+        544
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Services, 2009.01–2012.07",
+      "score": 0.994,
+      "box": [
+        115,
+        565,
+        708,
+        588
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9785,
+      "box": [
+        125,
+        589,
+        489,
+        612
+      ]
+    },
+    {
+      "text": "- Verified transaction accuracy",
+      "score": 0.9855,
+      "box": [
+        126,
+        613,
+        410,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Associate's degree, Government Accounting, Highpoint University, 2009",
+      "score": 0.9799,
+      "box": [
+        115,
+        723,
+        784,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting research methods",
+      "score": 0.9901,
+      "box": [
+        133,
+        749,
+        663,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting ethics",
+      "score": 0.9912,
+      "box": [
+        135,
+        774,
+        551,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "KATHERINE MCBRIDE\nIL, USA|+1-240-297-9776 |katherine.mcbride@example.com\nWORK HISTORY\nAccountants Auditors, Reliable Ledger Group, 2019.07–2023.01\n- Established tax compliance frameworks\n- Led audit planning governance\nAccountants Auditors, CoreCount Services, 2016.01–2019.07\n- Designed tax strategies\n- Designed financial documentation standards\nAccountants Auditors, CoreBooks Financial, 2012.07–2016.01\n- Prepared financial statements\n- Reviewed internal controls\nAccountants Auditors, SolidBalance Services, 2009.01–2012.07\n- Processed accounts payable invoices\n- Verified transaction accuracy\nEDUCATION\nAssociate's degree, Government Accounting, Highpoint University, 2009\n• Completed coursework in accounting research methods\n• Completed coursework in accounting ethics"
+}

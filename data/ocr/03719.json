@@ -1,0 +1,187 @@
+{
+  "id": "03719",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.892,
+  "n_lines": 13,
+  "mean_score": 0.9809,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DANIEL TRAN",
+      "score": 0.9764,
+      "box": [
+        115,
+        88,
+        346,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-364-409-6844 |daniel.tran@example.com",
+      "score": 0.9858,
+      "box": [
+        116,
+        150,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9797,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Bluepoint Digital, 2019.12–2021.11",
+      "score": 0.9894,
+      "box": [
+        114,
+        289,
+        646,
+        314
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.9701,
+      "box": [
+        127,
+        315,
+        428,
+        338
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.9869,
+      "box": [
+        126,
+        339,
+        469,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Stonefield Tech, 2016.11–2018.11",
+      "score": 0.9938,
+      "box": [
+        116,
+        382,
+        641,
+        405
+      ]
+    },
+    {
+      "text": "- Monitored application logs",
+      "score": 0.9582,
+      "box": [
+        125,
+        406,
+        385,
+        432
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9832,
+      "box": [
+        126,
+        431,
+        500,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Springfield University, 2006",
+      "score": 0.9822,
+      "box": [
+        115,
+        541,
+        480,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of ACID properties",
+      "score": 0.9832,
+      "box": [
+        132,
+        565,
+        490,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in programming in Python",
+      "score": 0.9643,
+      "box": [
+        133,
+        590,
+        605,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "DANIEL TRAN\nCA, USA|+1-364-409-6844 |daniel.tran@example.com\nWORK HISTORY\nSoftware Developers, Bluepoint Digital, 2019.12–2021.11\n- Designed system architectures\n- Led backend platform development\nSoftware Developers, Stonefield Tech, 2016.11–2018.11\n- Monitored application logs\n- Configured development environments\nEDUCATION\nBachelor's, Springfield University, 2006\n• Studied principles of ACID properties\n• Completed coursework in programming in Python"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "57833",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.763,
+  "n_lines": 10,
+  "mean_score": 0.9782,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KRISTA LANE",
+      "score": 0.962,
+      "box": [
+        116,
+        90,
+        343,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-737-547-4438|krista.lane@example.com",
+      "score": 0.9769,
+      "box": [
+        114,
+        150,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9828,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Meadow School, 2021.09–2023.01",
+      "score": 0.9639,
+      "box": [
+        116,
+        290,
+        851,
+        313
+      ]
+    },
+    {
+      "text": "- Delivered structured lectures",
+      "score": 0.9899,
+      "box": [
+        126,
+        315,
+        409,
+        338
+      ]
+    },
+    {
+      "text": "- Tracked student participation",
+      "score": 0.9762,
+      "box": [
+        126,
+        339,
+        411,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Teaching Support, Stonebrook University, 2023",
+      "score": 0.9645,
+      "box": [
+        115,
+        447,
+        806,
+        473
+      ]
+    },
+    {
+      "text": "• Completed introductory coursework in educational psychology",
+      "score": 0.9779,
+      "box": [
+        131,
+        471,
+        721,
+        500
+      ]
+    },
+    {
+      "text": "• Studied principles of cooperative learning",
+      "score": 0.989,
+      "box": [
+        133,
+        498,
+        529,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "KRISTA LANE\nWA, USA|+1-737-547-4438|krista.lane@example.com\nWORK HISTORY\nElementary Middle School Teachers, Caring Meadow School, 2021.09–2023.01\n- Delivered structured lectures\n- Tracked student participation\nEDUCATION\nSome college (no degree), Teaching Support, Stonebrook University, 2023\n• Completed introductory coursework in educational psychology\n• Studied principles of cooperative learning"
+}

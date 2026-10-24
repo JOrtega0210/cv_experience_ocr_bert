@@ -1,0 +1,187 @@
+{
+  "id": "58414",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.807,
+  "n_lines": 13,
+  "mean_score": 0.985,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DARRYLWARNER",
+      "score": 0.9994,
+      "box": [
+        116,
+        90,
+        416,
+        120
+      ]
+    },
+    {
+      "text": "WA, USA|+1-712-220-4812|darryl.warner@example.com",
+      "score": 0.9777,
+      "box": [
+        114,
+        150,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Financial Group, 2021.05–2023.01",
+      "score": 0.9789,
+      "box": [
+        114,
+        289,
+        782,
+        313
+      ]
+    },
+    {
+      "text": "- Designed financial modeling standards",
+      "score": 0.9902,
+      "box": [
+        126,
+        315,
+        501,
+        338
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9616,
+      "box": [
+        126,
+        339,
+        428,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Co., 2019.08–2021.05",
+      "score": 0.9879,
+      "box": [
+        115,
+        382,
+        705,
+        405
+      ]
+    },
+    {
+      "text": "- Filed financial documents",
+      "score": 0.9852,
+      "box": [
+        126,
+        406,
+        378,
+        429
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.989,
+      "box": [
+        127,
+        429,
+        414,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Professional Accounting, Willowhaven University, 2023",
+      "score": 0.9805,
+      "box": [
+        114,
+        539,
+        733,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of financial statement preparation",
+      "score": 0.99,
+      "box": [
+        132,
+        565,
+        627,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in segment reporting",
+      "score": 0.9842,
+      "box": [
+        133,
+        590,
+        557,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "DARRYLWARNER\nWA, USA|+1-712-220-4812|darryl.warner@example.com\nWORK HISTORY\nAccountants Auditors, SteadyLedger Financial Group, 2021.05–2023.01\n- Designed financial modeling standards\n- Led audit planning governance\nAccountants Auditors, Reliable Accounts Co., 2019.08–2021.05\n- Filed financial documents\n- Verified financial transactions\nEDUCATION\nBachelor's, Professional Accounting, Willowhaven University, 2023\n• Studied principles of financial statement preparation\n• Completed coursework in segment reporting"
+}

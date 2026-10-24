@@ -1,0 +1,187 @@
+{
+  "id": "14368",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.903,
+  "n_lines": 13,
+  "mean_score": 0.9791,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DEBROAH DEAN",
+      "score": 0.9885,
+      "box": [
+        117,
+        90,
+        391,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-394-304-3574 |debroah.dean@example.com",
+      "score": 0.9752,
+      "box": [
+        115,
+        150,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellHands Health Group, 2020.03–2022.06",
+      "score": 0.961,
+      "box": [
+        115,
+        289,
+        706,
+        314
+      ]
+    },
+    {
+      "text": "-Managed clinical resource planning",
+      "score": 0.9763,
+      "box": [
+        125,
+        314,
+        468,
+        339
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.982,
+      "box": [
+        126,
+        339,
+        392,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunPath Nursing, 2017.01–2019.04",
+      "score": 0.9763,
+      "box": [
+        115,
+        381,
+        633,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored patient recovery",
+      "score": 0.9558,
+      "box": [
+        125,
+        404,
+        390,
+        433
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.9704,
+      "box": [
+        126,
+        430,
+        473,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, General Nursing, Crossfield University, 2008",
+      "score": 0.9856,
+      "box": [
+        114,
+        539,
+        637,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of wound care",
+      "score": 0.9818,
+      "box": [
+        133,
+        566,
+        450,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of tracheostomy care",
+      "score": 0.9919,
+      "box": [
+        132,
+        590,
+        551,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "DEBROAH DEAN\nFL, USA|+1-394-304-3574 |debroah.dean@example.com\nWORK HISTORY\nRegistered Nurses, WellHands Health Group, 2020.03–2022.06\n-Managed clinical resource planning\n- Led nursing process audits\nRegistered Nurses, SunPath Nursing, 2017.01–2019.04\n- Monitored patient recovery\n- Assisted with respiratory treatments\nEDUCATION\nBachelor's, General Nursing, Crossfield University, 2008\n• Studied principles of wound care\n• Studied fundamentals of tracheostomy care"
+}

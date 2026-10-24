@@ -1,0 +1,213 @@
+{
+  "id": "02830",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.927,
+  "n_lines": 15,
+  "mean_score": 0.9799,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AARON LI",
+      "score": 0.9431,
+      "box": [
+        115,
+        88,
+        282,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-577-315-8202 |aaron.li@example.com",
+      "score": 0.9787,
+      "box": [
+        116,
+        151,
+        610,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cleargrid Systems, 2020.05–2023.01",
+      "score": 0.9769,
+      "box": [
+        115,
+        289,
+        664,
+        312
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.985,
+      "box": [
+        127,
+        315,
+        538,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9736,
+      "box": [
+        126,
+        339,
+        514,
+        362
+      ]
+    },
+    {
+      "text": "Software Developers, Clearbyte Software, 2015.03–2017.12",
+      "score": 0.9914,
+      "box": [
+        116,
+        382,
+        674,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.9843,
+      "box": [
+        126,
+        406,
+        423,
+        430
+      ]
+    },
+    {
+      "text": "- Assisted with container setup",
+      "score": 0.9827,
+      "box": [
+        125,
+        430,
+        413,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        268,
+        520
+      ]
+    },
+    {
+      "text": "Doctorate, North Ridge University, 2014",
+      "score": 0.969,
+      "box": [
+        115,
+        540,
+        486,
+        563
+      ]
+    },
+    {
+      "text": "Bachelor's, Meadowway University, 2009",
+      "score": 0.9668,
+      "box": [
+        115,
+        566,
+        498,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of user interface development",
+      "score": 0.9948,
+      "box": [
+        132,
+        590,
+        631,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of graph algorithms",
+      "score": 0.9838,
+      "box": [
+        132,
+        615,
+        498,
+        640
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of game development",
+      "score": 0.9868,
+      "box": [
+        132,
+        640,
+        557,
+        665
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "AARON LI\nCA, USA|+1-577-315-8202 |aaron.li@example.com\nWORK HISTORY\nSoftware Developers, Cleargrid Systems, 2020.05–2023.01\n- Implemented long-term maintenance plans\n- Implemented access control frameworks\nSoftware Developers, Clearbyte Software, 2015.03–2017.12\n- Assisted with build automation\n- Assisted with container setup\nEDUCATION\nDoctorate, North Ridge University, 2014\nBachelor's, Meadowway University, 2009\n• Studied fundamentals of user interface development\n• Studied principles of graph algorithms\n• Studied fundamentals of game development"
+}

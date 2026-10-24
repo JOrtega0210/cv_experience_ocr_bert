@@ -1,0 +1,265 @@
+{
+  "id": "09486",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.038,
+  "n_lines": 19,
+  "mean_score": 0.9826,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LINDACROSBY",
+      "score": 0.9989,
+      "box": [
+        115,
+        88,
+        374,
+        122
+      ]
+    },
+    {
+      "text": "CO, USA | +1-412-929-6135 | linda.crosby@example.com",
+      "score": 0.9642,
+      "box": [
+        117,
+        151,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Advisors, 2018.10–2023.01",
+      "score": 0.9906,
+      "box": [
+        115,
+        290,
+        676,
+        313
+      ]
+    },
+    {
+      "text": "-Directed accounting training programs",
+      "score": 0.9971,
+      "box": [
+        125,
+        314,
+        495,
+        339
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9845,
+      "box": [
+        127,
+        340,
+        512,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Financial Group, 2014.07–2018.10",
+      "score": 0.985,
+      "box": [
+        114,
+        381,
+        759,
+        406
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9863,
+      "box": [
+        125,
+        406,
+        556,
+        431
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.9858,
+      "box": [
+        126,
+        432,
+        477,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Advisors, 2009.02–2013.05",
+      "score": 0.9807,
+      "box": [
+        115,
+        472,
+        690,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed journal entries",
+      "score": 0.9659,
+      "box": [
+        125,
+        496,
+        372,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed revenue forecasts",
+      "score": 0.968,
+      "box": [
+        126,
+        522,
+        405,
+        544
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Advisors, 2003.06–2007.09",
+      "score": 0.9873,
+      "box": [
+        114,
+        563,
+        688,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.9902,
+      "box": [
+        125,
+        589,
+        419,
+        612
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9774,
+      "box": [
+        125,
+        613,
+        456,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Law, Wildflower University, 2003",
+      "score": 0.9767,
+      "box": [
+        114,
+        723,
+        618,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of auditing",
+      "score": 0.9578,
+      "box": [
+        132,
+        747,
+        452,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in investment analysis basics",
+      "score": 0.9887,
+      "box": [
+        134,
+        772,
+        636,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "LINDACROSBY\nCO, USA | +1-412-929-6135 | linda.crosby@example.com\nWORK HISTORY\nAccountants Auditors, FairCount Advisors, 2018.10–2023.01\n-Directed accounting training programs\n- Designed financial control environments\nAccountants Auditors, ClearCount Financial Group, 2014.07–2018.10\n- Directed accounting system implementations\n- Led regulatory compliance initiatives\nAccountants Auditors, SolidBooks Advisors, 2009.02–2013.05\n- Reviewed journal entries\n- Reviewed revenue forecasts\nAccountants Auditors, AccuCount Advisors, 2003.06–2007.09\n- Assisted with forecasting data\n- Assisted with tax form preparation\nEDUCATION\nBachelor's, Business Law, Wildflower University, 2003\n• Studied fundamentals of auditing\n• Completed coursework in investment analysis basics"
+}

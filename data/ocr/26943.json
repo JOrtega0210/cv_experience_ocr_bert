@@ -1,0 +1,226 @@
+{
+  "id": "26943",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.842,
+  "n_lines": 16,
+  "mean_score": 0.9871,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MEGHAN MILLS",
+      "score": 0.9888,
+      "box": [
+        116,
+        90,
+        377,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-257-732-6161 |meghan.mills@example.com",
+      "score": 0.9699,
+      "box": [
+        116,
+        151,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Health, 2020.08–2023.01",
+      "score": 0.9917,
+      "box": [
+        116,
+        290,
+        662,
+        313
+      ]
+    },
+    {
+      "text": "-Directed clinical quality improvement initiatives",
+      "score": 0.995,
+      "box": [
+        125,
+        313,
+        572,
+        339
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.991,
+      "box": [
+        126,
+        339,
+        425,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Way Care, 2018.03–2020.08",
+      "score": 0.9859,
+      "box": [
+        116,
+        382,
+        636,
+        406
+      ]
+    },
+    {
+      "text": "- Managed intravenous therapy",
+      "score": 0.9864,
+      "box": [
+        126,
+        406,
+        419,
+        432
+      ]
+    },
+    {
+      "text": "- Supervised junior nursing staff",
+      "score": 0.9848,
+      "box": [
+        126,
+        430,
+        424,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverCare Health Services, 2012.12–2015.05",
+      "score": 0.9862,
+      "box": [
+        116,
+        472,
+        716,
+        496
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.9938,
+      "box": [
+        125,
+        496,
+        484,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9726,
+      "box": [
+        126,
+        521,
+        514,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Associate's degree, Nursing Studies, Riverstone University, 2010",
+      "score": 0.9857,
+      "box": [
+        114,
+        631,
+        719,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in laboratory values interpretation",
+      "score": 0.9887,
+      "box": [
+        133,
+        658,
+        675,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient positioning",
+      "score": 0.9878,
+      "box": [
+        134,
+        681,
+        557,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "MEGHAN MILLS\nMI, USA|+1-257-732-6161 |meghan.mills@example.com\nWORK HISTORY\nRegistered Nurses, GentleHands Health, 2020.08–2023.01\n-Directed clinical quality improvement initiatives\n- Led clinical governance efforts\nRegistered Nurses, Caring Way Care, 2018.03–2020.08\n- Managed intravenous therapy\n- Supervised junior nursing staff\nRegistered Nurses, EverCare Health Services, 2012.12–2015.05\n- Administered prescribed medications\n- Assisted with physical therapy exercises\nEDUCATION\nAssociate's degree, Nursing Studies, Riverstone University, 2010\n• Completed coursework in laboratory values interpretation\n• Completed coursework in patient positioning"
+}

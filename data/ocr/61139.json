@@ -1,0 +1,226 @@
+{
+  "id": "61139",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.867,
+  "n_lines": 16,
+  "mean_score": 0.9808,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JADE BOOKER",
+      "score": 0.9924,
+      "box": [
+        116,
+        90,
+        363,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA |+1-523-672-2938 |jade.booker@example.com",
+      "score": 0.9702,
+      "box": [
+        116,
+        151,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Workforce Construction, 2020.01–2023.01",
+      "score": 0.9917,
+      "box": [
+        115,
+        290,
+        725,
+        313
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9697,
+      "box": [
+        127,
+        315,
+        372,
+        339
+      ]
+    },
+    {
+      "text": "- Managed construction schedules",
+      "score": 0.9595,
+      "box": [
+        127,
+        340,
+        447,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildLine Co., 2016.12–2020.01",
+      "score": 0.9773,
+      "box": [
+        115,
+        382,
+        631,
+        405
+      ]
+    },
+    {
+      "text": "- Performed masonry work",
+      "score": 0.9851,
+      "box": [
+        125,
+        405,
+        377,
+        431
+      ]
+    },
+    {
+      "text": "- Supervised demolition tasks",
+      "score": 0.9832,
+      "box": [
+        127,
+        432,
+        402,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterStone Construction, 2011.12–2015.01",
+      "score": 0.9891,
+      "box": [
+        115,
+        472,
+        749,
+        495
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9752,
+      "box": [
+        124,
+        496,
+        493,
+        521
+      ]
+    },
+    {
+      "text": "- Transported waste materials",
+      "score": 0.9889,
+      "box": [
+        126,
+        521,
+        406,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Facilities Maintenance, Fairview University, 2010",
+      "score": 0.9664,
+      "box": [
+        115,
+        631,
+        820,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of roofing methods",
+      "score": 0.9664,
+      "box": [
+        133,
+        657,
+        529,
+        680
+      ]
+    },
+    {
+      "text": "• Studied principles of weatherproofing basics",
+      "score": 0.9927,
+      "box": [
+        134,
+        682,
+        556,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JADE BOOKER\nWI, USA |+1-523-672-2938 |jade.booker@example.com\nWORK HISTORY\nConstruction Laborers, Workforce Construction, 2020.01–2023.01\n- Led operational planning\n- Managed construction schedules\nConstruction Laborers, BuildLine Co., 2016.12–2020.01\n- Performed masonry work\n- Supervised demolition tasks\nConstruction Laborers, MasterStone Construction, 2011.12–2015.01\n- Assisted with equipment maintenance\n- Transported waste materials\nEDUCATION\nSome college (no degree), Facilities Maintenance, Fairview University, 2010\n• Studied fundamentals of roofing methods\n• Studied principles of weatherproofing basics"
+}

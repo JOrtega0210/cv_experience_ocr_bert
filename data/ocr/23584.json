@@ -1,0 +1,187 @@
+{
+  "id": "23584",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.861,
+  "n_lines": 13,
+  "mean_score": 0.9842,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TRAVIS SANDERS",
+      "score": 0.9801,
+      "box": [
+        115,
+        90,
+        414,
+        121
+      ]
+    },
+    {
+      "text": "LA, USA|+1-378-439-5502 |travis.sanders@example.com",
+      "score": 0.9743,
+      "box": [
+        116,
+        151,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, EverRise Construction, 2020.02–2023.01",
+      "score": 0.986,
+      "box": [
+        115,
+        290,
+        713,
+        312
+      ]
+    },
+    {
+      "text": "- Implemented quality control systems",
+      "score": 0.9724,
+      "box": [
+        127,
+        315,
+        480,
+        338
+      ]
+    },
+    {
+      "text": "- Established material procurement strategies",
+      "score": 0.9858,
+      "box": [
+        126,
+        339,
+        550,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, LevelLine Builders, 2017.02–2020.02",
+      "score": 0.9844,
+      "box": [
+        115,
+        381,
+        679,
+        405
+      ]
+    },
+    {
+      "text": "- Performed basic carpentry tasks",
+      "score": 0.9907,
+      "box": [
+        125,
+        406,
+        442,
+        431
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.9852,
+      "box": [
+        126,
+        431,
+        556,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Logistics, Silverlake University, 2016",
+      "score": 0.983,
+      "box": [
+        115,
+        540,
+        830,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction quality control",
+      "score": 0.9843,
+      "box": [
+        133,
+        566,
+        636,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of scaffold safety",
+      "score": 0.9868,
+      "box": [
+        132,
+        590,
+        512,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "TRAVIS SANDERS\nLA, USA|+1-378-439-5502 |travis.sanders@example.com\nWORK HISTORY\nConstruction Laborers, EverRise Construction, 2020.02–2023.01\n- Implemented quality control systems\n- Established material procurement strategies\nConstruction Laborers, LevelLine Builders, 2017.02–2020.02\n- Performed basic carpentry tasks\n- Stacked and organized construction supplies\nEDUCATION\nSome college (no degree), Construction Logistics, Silverlake University, 2016\n• Completed coursework in construction quality control\n• Studied fundamentals of scaffold safety"
+}

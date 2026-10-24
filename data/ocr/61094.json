@@ -1,0 +1,226 @@
+{
+  "id": "61094",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.878,
+  "n_lines": 16,
+  "mean_score": 0.9823,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TERRA WOLF",
+      "score": 0.9693,
+      "box": [
+        115,
+        90,
+        341,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-255-766-3861 |terra.wolf@example.com",
+      "score": 0.9821,
+      "box": [
+        115,
+        150,
+        624,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9839,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Care Center, 2020.09–2023.01",
+      "score": 0.9877,
+      "box": [
+        115,
+        289,
+        695,
+        314
+      ]
+    },
+    {
+      "text": "- Developed nursing training programs",
+      "score": 0.9854,
+      "box": [
+        126,
+        314,
+        484,
+        340
+      ]
+    },
+    {
+      "text": "- Established clinical best practices",
+      "score": 0.9756,
+      "box": [
+        126,
+        339,
+        453,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightCare Nursing, 2017.03–2019.07",
+      "score": 0.9821,
+      "box": [
+        116,
+        383,
+        653,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented patient education programs",
+      "score": 0.986,
+      "box": [
+        126,
+        406,
+        522,
+        432
+      ]
+    },
+    {
+      "text": "- Reviewed diagnostic imaging results",
+      "score": 0.9715,
+      "box": [
+        126,
+        431,
+        479,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Path Nursing, 2014.04–2016.08",
+      "score": 0.9892,
+      "box": [
+        116,
+        472,
+        663,
+        496
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.9929,
+      "box": [
+        126,
+        498,
+        527,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9704,
+      "box": [
+        126,
+        521,
+        371,
+        545
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, General Nursing, Cedarfield University, 2005",
+      "score": 0.9602,
+      "box": [
+        115,
+        632,
+        640,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in maternal health nursing",
+      "score": 0.9837,
+      "box": [
+        133,
+        657,
+        606,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in health promotion",
+      "score": 0.9975,
+      "box": [
+        134,
+        681,
+        545,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "TERRA WOLF\nWI, USA|+1-255-766-3861 |terra.wolf@example.com\nWORK HISTORY\nRegistered Nurses, NewSpring Care Center, 2020.09–2023.01\n- Developed nursing training programs\n- Established clinical best practices\nRegistered Nurses, BrightCare Nursing, 2017.03–2019.07\n- Implemented patient education programs\n- Reviewed diagnostic imaging results\nRegistered Nurses, Caring Path Nursing, 2014.04–2016.08\n- Administered injections under supervision\n- Prepared sterile supplies\nEDUCATION\nBachelor's, General Nursing, Cedarfield University, 2005\n• Completed coursework in maternal health nursing\n• Completed coursework in health promotion"
+}

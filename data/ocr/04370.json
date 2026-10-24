@@ -1,0 +1,187 @@
+{
+  "id": "04370",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.984,
+  "n_lines": 13,
+  "mean_score": 0.9829,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CORINNE KELLER",
+      "score": 0.9932,
+      "box": [
+        117,
+        90,
+        415,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-821-965-6103 |corinne.keller@example.com",
+      "score": 0.982,
+      "box": [
+        116,
+        151,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9787,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Grove School, 2018.04–2020.10",
+      "score": 0.9919,
+      "box": [
+        115,
+        290,
+        812,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented data analysis frameworks",
+      "score": 0.9745,
+      "box": [
+        127,
+        315,
+        504,
+        338
+      ]
+    },
+    {
+      "text": "- Established curriculum evaluation protocols",
+      "score": 0.9757,
+      "box": [
+        126,
+        339,
+        542,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Futures Academy, 2014.12–2017.07",
+      "score": 0.9849,
+      "box": [
+        116,
+        382,
+        873,
+        405
+      ]
+    },
+    {
+      "text": "- Administered quizzes and short assessments",
+      "score": 0.9541,
+      "box": [
+        125,
+        406,
+        561,
+        431
+      ]
+    },
+    {
+      "text": "- Supervised classroom activities",
+      "score": 0.9896,
+      "box": [
+        127,
+        432,
+        434,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, General Learning Studies, Meadowridge University, 2003",
+      "score": 0.9804,
+      "box": [
+        114,
+        539,
+        755,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom assessment techniques",
+      "score": 0.9838,
+      "box": [
+        133,
+        566,
+        709,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of learner diversity",
+      "score": 0.9915,
+      "box": [
+        133,
+        591,
+        489,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "CORINNE KELLER\nCA, USA|+1-821-965-6103 |corinne.keller@example.com\nWORK HISTORY\nElementary Middle School Teachers, Kind Grove School, 2018.04–2020.10\n- Implemented data analysis frameworks\n- Established curriculum evaluation protocols\nElementary Middle School Teachers, Golden Futures Academy, 2014.12–2017.07\n- Administered quizzes and short assessments\n- Supervised classroom activities\nEDUCATION\nBachelor's, General Learning Studies, Meadowridge University, 2003\n• Completed coursework in classroom assessment techniques\n• Studied principles of learner diversity"
+}

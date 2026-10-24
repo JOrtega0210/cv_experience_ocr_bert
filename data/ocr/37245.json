@@ -1,0 +1,278 @@
+{
+  "id": "37245",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.931,
+  "n_lines": 20,
+  "mean_score": 0.9854,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AMBERWEST",
+      "score": 0.9972,
+      "box": [
+        116,
+        90,
+        348,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-467-469-4937|amber.west@example.com",
+      "score": 0.9848,
+      "box": [
+        115,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Financial, 2019.11–2023.01",
+      "score": 0.9876,
+      "box": [
+        115,
+        290,
+        712,
+        313
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.972,
+      "box": [
+        126,
+        314,
+        486,
+        339
+      ]
+    },
+    {
+      "text": "- Led internal audit functions",
+      "score": 0.9871,
+      "box": [
+        126,
+        338,
+        393,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Solutions, 2016.09–2019.11",
+      "score": 0.9951,
+      "box": [
+        115,
+        382,
+        693,
+        405
+      ]
+    },
+    {
+      "text": "- Directed accounting leadership initiatives",
+      "score": 0.9835,
+      "box": [
+        125,
+        406,
+        520,
+        431
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.982,
+      "box": [
+        126,
+        431,
+        502,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Advisors, 2013.06–2016.09",
+      "score": 0.9915,
+      "box": [
+        113,
+        470,
+        733,
+        498
+      ]
+    },
+    {
+      "text": "- Reviewed contract accounting",
+      "score": 0.9707,
+      "box": [
+        125,
+        496,
+        421,
+        522
+      ]
+    },
+    {
+      "text": "- Developed internal audit programs",
+      "score": 0.9885,
+      "box": [
+        126,
+        521,
+        461,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Accounting, 2010.03–2013.06",
+      "score": 0.9812,
+      "box": [
+        115,
+        565,
+        708,
+        589
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9845,
+      "box": [
+        125,
+        590,
+        403,
+        610
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedures",
+      "score": 0.9877,
+      "box": [
+        126,
+        613,
+        508,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Master's, Information Systems, Ridgeway University, 2016",
+      "score": 0.9878,
+      "box": [
+        115,
+        724,
+        655,
+        746
+      ]
+    },
+    {
+      "text": "Bachelor's, Finance, Silver Ridge University, 2014",
+      "score": 0.9617,
+      "box": [
+        114,
+        747,
+        581,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of governmental auditing",
+      "score": 0.9888,
+      "box": [
+        133,
+        774,
+        584,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in budgeting techniques",
+      "score": 0.9936,
+      "box": [
+        134,
+        799,
+        588,
+        822
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "AMBERWEST\nNY, USA|+1-467-469-4937|amber.west@example.com\nWORK HISTORY\nAccountants Auditors, Reliable Path Financial, 2019.11–2023.01\n- Designed financial oversight systems\n- Led internal audit functions\nAccountants Auditors, AccuCount Solutions, 2016.09–2019.11\n- Directed accounting leadership initiatives\n- Led accounting transformation projects\nAccountants Auditors, Reliable Ledger Advisors, 2013.06–2016.09\n- Reviewed contract accounting\n- Developed internal audit programs\nAccountants Auditors, EverCount Accounting, 2010.03–2013.06\n- Assisted with audit fieldwork\n- Assisted with monthly close procedures\nEDUCATION\nMaster's, Information Systems, Ridgeway University, 2016\nBachelor's, Finance, Silver Ridge University, 2014\n• Studied fundamentals of governmental auditing\n• Completed coursework in budgeting techniques"
+}

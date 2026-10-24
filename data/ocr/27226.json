@@ -1,0 +1,187 @@
+{
+  "id": "27226",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.885,
+  "n_lines": 13,
+  "mean_score": 0.9861,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "IVY PATRICK",
+      "score": 0.9941,
+      "box": [
+        115,
+        90,
+        330,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-357-927-9824 |ivy.patrick@example.com",
+      "score": 0.9814,
+      "box": [
+        115,
+        150,
+        628,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9781,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Futures Academy, 2019.11–2022.0",
+      "score": 0.9844,
+      "box": [
+        114,
+        289,
+        877,
+        313
+      ]
+    },
+    {
+      "text": "-Directed academic intervention strategies",
+      "score": 0.9743,
+      "box": [
+        125,
+        314,
+        525,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented long-term academic plans",
+      "score": 0.9819,
+      "box": [
+        126,
+        339,
+        507,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Grove School, 2016.07–2018.09",
+      "score": 0.9928,
+      "box": [
+        115,
+        381,
+        861,
+        406
+      ]
+    },
+    {
+      "text": "- Managed classroom supplies",
+      "score": 0.989,
+      "box": [
+        126,
+        406,
+        413,
+        431
+      ]
+    },
+    {
+      "text": "- Tracked student participation",
+      "score": 0.9848,
+      "box": [
+        126,
+        430,
+        411,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Studies, Lakeview University, 2009",
+      "score": 0.9897,
+      "box": [
+        114,
+        539,
+        603,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational education methods",
+      "score": 0.9894,
+      "box": [
+        134,
+        566,
+        685,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in student-centered learning",
+      "score": 0.9813,
+      "box": [
+        134,
+        590,
+        625,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "IVY PATRICK\nMI, USA|+1-357-927-9824 |ivy.patrick@example.com\nWORK HISTORY\nElementary Middle School Teachers, Learning Futures Academy, 2019.11–2022.0\n-Directed academic intervention strategies\n- Implemented long-term academic plans\nElementary Middle School Teachers, Discovery Grove School, 2016.07–2018.09\n- Managed classroom supplies\n- Tracked student participation\nEDUCATION\nBachelor's, Child Studies, Lakeview University, 2009\n• Completed coursework in foundational education methods\n• Completed coursework in student-centered learning"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "27704",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.764,
+  "n_lines": 10,
+  "mean_score": 0.9812,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JACOB FRIEDMAN",
+      "score": 0.9854,
+      "box": [
+        116,
+        90,
+        420,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-497-247-5799 |jacob.friedman@example.com",
+      "score": 0.9723,
+      "box": [
+        116,
+        151,
+        672,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9811,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafePath Health Services, 2021.02–2023.01",
+      "score": 0.9942,
+      "box": [
+        116,
+        290,
+        712,
+        313
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9696,
+      "box": [
+        126,
+        315,
+        530,
+        337
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9846,
+      "box": [
+        126,
+        339,
+        409,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Support Services, Blue Ridge University, 2022",
+      "score": 0.9756,
+      "box": [
+        115,
+        449,
+        720,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic life support concepts",
+      "score": 0.96,
+      "box": [
+        132,
+        472,
+        635,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of patient safety",
+      "score": 0.9912,
+      "box": [
+        133,
+        497,
+        466,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JACOB FRIEDMAN\nMI, USA|+1-497-247-5799 |jacob.friedman@example.com\nWORK HISTORY\nRegistered Nurses, SafePath Health Services, 2021.02–2023.01\n- Recorded medication administration times\n- Recorded shift handoff notes\nEDUCATION\nBachelor's, Health Support Services, Blue Ridge University, 2022\n• Completed coursework in basic life support concepts\n• Studied principles of patient safety"
+}

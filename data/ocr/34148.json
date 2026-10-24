@@ -1,0 +1,226 @@
+{
+  "id": "34148",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.832,
+  "n_lines": 16,
+  "mean_score": 0.9811,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KATEY KHAN",
+      "score": 0.9516,
+      "box": [
+        116,
+        90,
+        337,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-973-261-6148|katey.khan@example.com",
+      "score": 0.9863,
+      "box": [
+        116,
+        151,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Group, 2020.12–2023.01",
+      "score": 0.9782,
+      "box": [
+        114,
+        289,
+        680,
+        314
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.962,
+      "box": [
+        126,
+        314,
+        424,
+        339
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.9899,
+      "box": [
+        126,
+        339,
+        478,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Co., 2018.11–2020.12",
+      "score": 0.9847,
+      "box": [
+        114,
+        381,
+        674,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared financial statements",
+      "score": 0.9827,
+      "box": [
+        127,
+        407,
+        419,
+        430
+      ]
+    },
+    {
+      "text": "- Reviewed audit workpapers",
+      "score": 0.9756,
+      "box": [
+        125,
+        429,
+        400,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Balance Services, 2014.07–2016.08",
+      "score": 0.9956,
+      "box": [
+        115,
+        472,
+        750,
+        495
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.9763,
+      "box": [
+        124,
+        496,
+        362,
+        522
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9874,
+      "box": [
+        126,
+        521,
+        413,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Public Accounting, Lakewood University, 25",
+      "score": 0.9746,
+      "box": [
+        114,
+        630,
+        653,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of consolidation accounting",
+      "score": 0.9732,
+      "box": [
+        132,
+        656,
+        607,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of financial risk management",
+      "score": 0.994,
+      "box": [
+        134,
+        681,
+        586,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "KATEY KHAN\nNJ, USA|+1-973-261-6148|katey.khan@example.com\nWORK HISTORY\nAccountants Auditors, EverBalance Group, 2020.12–2023.01\n- Designed audit methodologies\n- Led regulatory compliance initiatives\nAccountants Auditors, Integrity Count Co., 2018.11–2020.12\n- Prepared financial statements\n- Reviewed audit workpapers\nAccountants Auditors, Accurate Balance Services, 2014.07–2016.08\n- Recorded cash receipts\n- Tracked budget expenditures\nEDUCATION\nBachelor's, Public Accounting, Lakewood University, 25\n• Studied fundamentals of consolidation accounting\n• Studied principles of financial risk management"
+}

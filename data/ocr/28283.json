@@ -1,0 +1,226 @@
+{
+  "id": "28283",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.849,
+  "n_lines": 16,
+  "mean_score": 0.9812,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ROBERT BALL",
+      "score": 0.9688,
+      "box": [
+        116,
+        90,
+        356,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-676-395-6201 |robert.ball@example.com",
+      "score": 0.9773,
+      "box": [
+        115,
+        150,
+        627,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ProBuild Solutions, 2020.09–2023.01",
+      "score": 0.9854,
+      "box": [
+        115,
+        290,
+        677,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9875,
+      "box": [
+        126,
+        315,
+        478,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented quality control systems",
+      "score": 0.985,
+      "box": [
+        126,
+        339,
+        479,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmStep Builders, 2018.05–2020.09",
+      "score": 0.9871,
+      "box": [
+        115,
+        381,
+        674,
+        406
+      ]
+    },
+    {
+      "text": "- Supervised junior laborers",
+      "score": 0.9931,
+      "box": [
+        126,
+        406,
+        386,
+        431
+      ]
+    },
+    {
+      "text": "- Laid flooring materials",
+      "score": 0.9859,
+      "box": [
+        125,
+        430,
+        347,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearForm Builders, 2014.12–2017.04",
+      "score": 0.9914,
+      "box": [
+        115,
+        472,
+        688,
+        495
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9562,
+      "box": [
+        125,
+        496,
+        485,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.9546,
+      "box": [
+        126,
+        521,
+        511,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Services, Cedar Valley University, 2005",
+      "score": 0.9892,
+      "box": [
+        114,
+        631,
+        715,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic site surveying",
+      "score": 0.9802,
+      "box": [
+        133,
+        656,
+        571,
+        682
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of site preparation planning",
+      "score": 0.9755,
+      "box": [
+        133,
+        681,
+        607,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ROBERT BALL\nMI, USA|+1-676-395-6201 |robert.ball@example.com\nWORK HISTORY\nConstruction Laborers, ProBuild Solutions, 2020.09–2023.01\n- Reviewed material quality standards\n- Implemented quality control systems\nConstruction Laborers, FirmStep Builders, 2018.05–2020.09\n- Supervised junior laborers\n- Laid flooring materials\nConstruction Laborers, ClearForm Builders, 2014.12–2017.04\n- Maintained cleanliness of work areas\n- Prepared surfaces for construction work\nEDUCATION\nBachelor's, Construction Services, Cedar Valley University, 2005\n• Completed coursework in basic site surveying\n• Studied fundamentals of site preparation planning"
+}

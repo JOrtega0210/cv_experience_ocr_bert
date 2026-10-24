@@ -1,0 +1,213 @@
+{
+  "id": "14546",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.975,
+  "n_lines": 15,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARQUIS MCKEE",
+      "score": 0.9832,
+      "box": [
+        116,
+        90,
+        406,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-835-555-7984|marquis.mckee@example.com",
+      "score": 0.9795,
+      "box": [
+        116,
+        152,
+        684,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongBase Builders, 2019.10–2023.01",
+      "score": 0.9828,
+      "box": [
+        114,
+        289,
+        696,
+        314
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9753,
+      "box": [
+        125,
+        313,
+        407,
+        339
+      ]
+    },
+    {
+      "text": "- Led structural installation projects",
+      "score": 0.9586,
+      "box": [
+        126,
+        338,
+        453,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Craft Co., 2016.07–2019.10",
+      "score": 0.9925,
+      "box": [
+        116,
+        382,
+        649,
+        405
+      ]
+    },
+    {
+      "text": "- Installed drywall systems",
+      "score": 0.986,
+      "box": [
+        125,
+        406,
+        374,
+        431
+      ]
+    },
+    {
+      "text": "- Interpreted blueprints for task execution",
+      "score": 0.9883,
+      "box": [
+        127,
+        432,
+        508,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeLine Construction, 2012.01–2015.05",
+      "score": 0.9884,
+      "box": [
+        116,
+        472,
+        725,
+        495
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9797,
+      "box": [
+        126,
+        498,
+        416,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with roofing material handling",
+      "score": 0.9634,
+      "box": [
+        127,
+        523,
+        497,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Heavy Equipment Operation, Silverview High School, 2006",
+      "score": 0.987,
+      "box": [
+        115,
+        631,
+        921,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in site drainage planning",
+      "score": 0.988,
+      "box": [
+        133,
+        658,
+        594,
+        681
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "MARQUIS MCKEE\nGA, USA |+1-835-555-7984|marquis.mckee@example.com\nWORK HISTORY\nConstruction Laborers, StrongBase Builders, 2019.10–2023.01\n- Established site layout plans\n- Led structural installation projects\nConstruction Laborers, Allied Craft Co., 2016.07–2019.10\n- Installed drywall systems\n- Interpreted blueprints for task execution\nConstruction Laborers, PrimeLine Construction, 2012.01–2015.05\n- Set up workstations for crews\n- Assisted with roofing material handling\nEDUCATION\nHigh school graduate/GED, Heavy Equipment Operation, Silverview High School, 2006\n• Completed coursework in site drainage planning"
+}

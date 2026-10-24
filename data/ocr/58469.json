@@ -1,0 +1,148 @@
+{
+  "id": "58469",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.746,
+  "n_lines": 10,
+  "mean_score": 0.9782,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DAISY MORTON",
+      "score": 0.983,
+      "box": [
+        116,
+        90,
+        378,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-859-916-2709|daisy.morton@example.com",
+      "score": 0.9613,
+      "box": [
+        114,
+        150,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9826,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleBridge Nursing, 2020.12–2023.01",
+      "score": 0.9916,
+      "box": [
+        116,
+        290,
+        673,
+        313
+      ]
+    },
+    {
+      "text": "-Maintained supply inventory",
+      "score": 0.9849,
+      "box": [
+        125,
+        314,
+        401,
+        340
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9451,
+      "box": [
+        126,
+        339,
+        387,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Support Services, Springfield University, 2022",
+      "score": 0.9832,
+      "box": [
+        115,
+        449,
+        716,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of respiratory nursing",
+      "score": 0.9746,
+      "box": [
+        132,
+        472,
+        552,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in nutrition for health",
+      "score": 0.9774,
+      "box": [
+        135,
+        500,
+        555,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "DAISY MORTON\nWA, USA|+1-859-916-2709|daisy.morton@example.com\nWORK HISTORY\nRegistered Nurses, GentleBridge Nursing, 2020.12–2023.01\n-Maintained supply inventory\n- Prepared treatment rooms\nEDUCATION\nBachelor's, Health Support Services, Springfield University, 2022\n• Studied fundamentals of respiratory nursing\n• Completed coursework in nutrition for health"
+}

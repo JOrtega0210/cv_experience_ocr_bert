@@ -1,0 +1,239 @@
+{
+  "id": "48502",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.877,
+  "n_lines": 17,
+  "mean_score": 0.9829,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LAURA LEWIS",
+      "score": 0.9805,
+      "box": [
+        115,
+        90,
+        351,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-421-778-2989 |laura.lewis@example.com",
+      "score": 0.9714,
+      "box": [
+        115,
+        150,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9801,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentlePath Nursing, 2020.02–2023.01",
+      "score": 0.9791,
+      "box": [
+        116,
+        290,
+        656,
+        313
+      ]
+    },
+    {
+      "text": "– Managed clinical risk assessments",
+      "score": 0.9713,
+      "box": [
+        127,
+        315,
+        463,
+        338
+      ]
+    },
+    {
+      "text": "- Led patient experience improvement programs",
+      "score": 0.9867,
+      "box": [
+        126,
+        339,
+        574,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunPath Care Group, 2017.03–2020.02",
+      "score": 0.9854,
+      "box": [
+        116,
+        382,
+        671,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed care plan outcomes",
+      "score": 0.9777,
+      "box": [
+        125,
+        406,
+        423,
+        431
+      ]
+    },
+    {
+      "text": "- Performed advanced wound assessments",
+      "score": 0.981,
+      "box": [
+        126,
+        429,
+        531,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, Sunrise Health Services, 2014.03–2017.03",
+      "score": 0.979,
+      "box": [
+        116,
+        472,
+        698,
+        495
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9733,
+      "box": [
+        125,
+        496,
+        399,
+        522
+      ]
+    },
+    {
+      "text": "- Assisted with diagnostic procedures",
+      "score": 0.9892,
+      "box": [
+        126,
+        521,
+        474,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Health Technology, Willowgate University, 2012",
+      "score": 0.9848,
+      "box": [
+        115,
+        632,
+        649,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Operations, Pineview Ridge University, 2010",
+      "score": 0.9895,
+      "box": [
+        114,
+        656,
+        756,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in integumentary system care",
+      "score": 0.9898,
+      "box": [
+        134,
+        683,
+        640,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in renal nursing basics",
+      "score": 0.9917,
+      "box": [
+        133,
+        706,
+        575,
+        731
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "LAURA LEWIS\nTN, USA|+1-421-778-2989 |laura.lewis@example.com\nWORK HISTORY\nRegistered Nurses, GentlePath Nursing, 2020.02–2023.01\n– Managed clinical risk assessments\n- Led patient experience improvement programs\nRegistered Nurses, SunPath Care Group, 2017.03–2020.02\n- Reviewed care plan outcomes\n- Performed advanced wound assessments\nRegistered Nurses, Sunrise Health Services, 2014.03–2017.03\n- Recorded patient vital signs\n- Assisted with diagnostic procedures\nEDUCATION\nMaster's, Health Technology, Willowgate University, 2012\nBachelor's, Health Care Operations, Pineview Ridge University, 2010\n• Completed coursework in integumentary system care\n• Completed coursework in renal nursing basics"
+}

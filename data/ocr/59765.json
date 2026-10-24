@@ -1,0 +1,226 @@
+{
+  "id": "59765",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.829,
+  "n_lines": 16,
+  "mean_score": 0.9841,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ADAM ROLLINS",
+      "score": 0.9822,
+      "box": [
+        116,
+        90,
+        375,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-282-910-3843|adam.rollins@example.com",
+      "score": 0.9789,
+      "box": [
+        114,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpath Digital, 2020.02–2023.01",
+      "score": 0.9768,
+      "box": [
+        115,
+        289,
+        644,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.9786,
+      "box": [
+        126,
+        314,
+        538,
+        339
+      ]
+    },
+    {
+      "text": "- Defined integration standards",
+      "score": 0.9637,
+      "box": [
+        127,
+        340,
+        416,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Bluecrest Software, 2017.03–2020.02",
+      "score": 0.9903,
+      "box": [
+        116,
+        382,
+        672,
+        406
+      ]
+    },
+    {
+      "text": "- Developed background jobs",
+      "score": 0.9909,
+      "box": [
+        126,
+        406,
+        402,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented error handling frameworks",
+      "score": 0.9803,
+      "box": [
+        126,
+        431,
+        511,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudstone Software, 2014.04–2017.03",
+      "score": 0.9739,
+      "box": [
+        116,
+        472,
+        689,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9951,
+      "box": [
+        125,
+        496,
+        478,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9726,
+      "box": [
+        126,
+        521,
+        604,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Riverstone University, 2014",
+      "score": 0.9957,
+      "box": [
+        115,
+        632,
+        482,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in database optimization",
+      "score": 0.9875,
+      "box": [
+        134,
+        658,
+        592,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in exception management",
+      "score": 0.997,
+      "box": [
+        134,
+        681,
+        608,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ADAM ROLLINS\nWA, USA|+1-282-910-3843|adam.rollins@example.com\nWORK HISTORY\nSoftware Developers, Flowpath Digital, 2020.02–2023.01\n- Implemented long-term maintenance plans\n- Defined integration standards\nSoftware Developers, Bluecrest Software, 2017.03–2020.02\n- Developed background jobs\n- Implemented error handling frameworks\nSoftware Developers, Cloudstone Software, 2014.04–2017.03\n- Assisted with system documentation\n- Implemented basic features in existing codebases\nEDUCATION\nBachelor's, Riverstone University, 2014\n• Completed coursework in database optimization\n• Completed coursework in exception management"
+}

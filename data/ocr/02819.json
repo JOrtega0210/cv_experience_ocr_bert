@@ -1,0 +1,187 @@
+{
+  "id": "02819",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.912,
+  "n_lines": 13,
+  "mean_score": 0.9823,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JULIAN SHAH",
+      "score": 0.9778,
+      "box": [
+        116,
+        90,
+        343,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-663-570-2288 | julian.shah@example.com",
+      "score": 0.9759,
+      "box": [
+        117,
+        151,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9839,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Hands Care, 2020.01–2023.01",
+      "score": 0.9822,
+      "box": [
+        115,
+        289,
+        652,
+        314
+      ]
+    },
+    {
+      "text": "- Developed interdisciplinary care strategies",
+      "score": 0.9822,
+      "box": [
+        125,
+        314,
+        534,
+        339
+      ]
+    },
+    {
+      "text": "- Directed care delivery improvements",
+      "score": 0.9836,
+      "box": [
+        126,
+        339,
+        481,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleLife Nursing, 2017.01–2020.01",
+      "score": 0.9813,
+      "box": [
+        115,
+        381,
+        647,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared intravenous solutions",
+      "score": 0.9805,
+      "box": [
+        126,
+        407,
+        431,
+        430
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9845,
+      "box": [
+        125,
+        430,
+        365,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Promotion, Elmwood Ridge University, 2021",
+      "score": 0.987,
+      "box": [
+        115,
+        541,
+        698,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of intravenous therapy",
+      "score": 0.9778,
+      "box": [
+        132,
+        564,
+        562,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of medical imaging basics",
+      "score": 0.9745,
+      "box": [
+        132,
+        589,
+        595,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JULIAN SHAH\nCA, USA|+1-663-570-2288 | julian.shah@example.com\nWORK HISTORY\nRegistered Nurses, Caring Hands Care, 2020.01–2023.01\n- Developed interdisciplinary care strategies\n- Directed care delivery improvements\nRegistered Nurses, GentleLife Nursing, 2017.01–2020.01\n- Prepared intravenous solutions\n- Recorded nursing notes\nEDUCATION\nBachelor's, Health Promotion, Elmwood Ridge University, 2021\n• Studied fundamentals of intravenous therapy\n• Studied fundamentals of medical imaging basics"
+}

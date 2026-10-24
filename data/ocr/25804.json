@@ -1,0 +1,148 @@
+{
+  "id": "25804",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.762,
+  "n_lines": 10,
+  "mean_score": 0.9848,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "VICTORIA HEATH",
+      "score": 0.9865,
+      "box": [
+        116,
+        90,
+        403,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-472-856-3315 |victoria.heath@example.com",
+      "score": 0.9659,
+      "box": [
+        116,
+        152,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9805,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenWay Nursing Services, 2019.03–2020.08",
+      "score": 0.9851,
+      "box": [
+        116,
+        290,
+        732,
+        313
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.9859,
+      "box": [
+        126,
+        314,
+        471,
+        339
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.99,
+      "box": [
+        126,
+        339,
+        365,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Administration, Skycrest University, 2018",
+      "score": 0.9703,
+      "box": [
+        115,
+        449,
+        671,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in diagnostic testing basics",
+      "score": 0.9963,
+      "box": [
+        134,
+        474,
+        617,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing informatics basics",
+      "score": 0.9888,
+      "box": [
+        134,
+        499,
+        629,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "VICTORIA HEATH\nMA, USA|+1-472-856-3315 |victoria.heath@example.com\nWORK HISTORY\nRegistered Nurses, OpenWay Nursing Services, 2019.03–2020.08\n- Recorded patient weight and height\n- Recorded nursing notes\nEDUCATION\nBachelor's, Health Administration, Skycrest University, 2018\n• Completed coursework in diagnostic testing basics\n• Completed coursework in nursing informatics basics"
+}

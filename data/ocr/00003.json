@@ -1,0 +1,135 @@
+{
+  "id": "00003",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.434,
+  "n_lines": 9,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JACKSON MCKENZIE",
+      "score": 0.9785,
+      "box": [
+        116,
+        90,
+        464,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA |+1-381-571-6000 |jackson.mckenzie@example.com",
+      "score": 0.9786,
+      "box": [
+        116,
+        152,
+        702,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9815,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearRise Builders, 2022.03–2023.01",
+      "score": 0.9915,
+      "box": [
+        116,
+        291,
+        679,
+        311
+      ]
+    },
+    {
+      "text": "-Checked inventory of supplies",
+      "score": 0.9732,
+      "box": [
+        125,
+        314,
+        422,
+        339
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.975,
+      "box": [
+        126,
+        339,
+        441,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Inspection, Clearstone High School, 2022",
+      "score": 0.9928,
+      "box": [
+        116,
+        449,
+        884,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of hazard identification",
+      "score": 0.9843,
+      "box": [
+        134,
+        475,
+        527,
+        495
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "JACKSON MCKENZIE\nAL, USA |+1-381-571-6000 |jackson.mckenzie@example.com\nWORK HISTORY\nConstruction Laborers, ClearRise Builders, 2022.03–2023.01\n-Checked inventory of supplies\n- Handled delivery documentation\nEDUCATION\nHigh school graduate/GED, Construction Inspection, Clearstone High School, 2022\n• Studied principles of hazard identification"
+}

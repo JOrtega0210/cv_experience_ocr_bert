@@ -1,0 +1,226 @@
+{
+  "id": "14857",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.04,
+  "n_lines": 16,
+  "mean_score": 0.985,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NATALIE RAMSEY",
+      "score": 0.9653,
+      "box": [
+        116,
+        90,
+        416,
+        120
+      ]
+    },
+    {
+      "text": "GA, USA|+1-714-823-5035|natalie.ramsey@example.com",
+      "score": 0.9938,
+      "box": [
+        116,
+        151,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Financial Group, 2020.10–2023.01",
+      "score": 0.9807,
+      "box": [
+        114,
+        289,
+        801,
+        313
+      ]
+    },
+    {
+      "text": "-Directed financial system architecture",
+      "score": 0.9794,
+      "box": [
+        125,
+        313,
+        489,
+        338
+      ]
+    },
+    {
+      "text": "- Managed consolidation processes",
+      "score": 0.9886,
+      "box": [
+        126,
+        339,
+        458,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Advisors, 2017.09–2020.01",
+      "score": 0.9815,
+      "box": [
+        115,
+        382,
+        720,
+        405
+      ]
+    },
+    {
+      "text": "- Coordinated audit schedules",
+      "score": 0.9941,
+      "box": [
+        126,
+        407,
+        408,
+        430
+      ]
+    },
+    {
+      "text": "- Reviewed balance sheet accounts",
+      "score": 0.9828,
+      "box": [
+        126,
+        432,
+        458,
+        453
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Services, 2014.10–2017.02",
+      "score": 0.9764,
+      "box": [
+        114,
+        471,
+        696,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9679,
+      "box": [
+        125,
+        497,
+        356,
+        522
+      ]
+    },
+    {
+      "text": "- Entered financial data into accounting systems",
+      "score": 0.9884,
+      "box": [
+        126,
+        521,
+        573,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Planning, Brookhaven University, 2007",
+      "score": 0.987,
+      "box": [
+        115,
+        632,
+        674,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in management information systems",
+      "score": 0.9936,
+      "box": [
+        133,
+        657,
+        702,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of depreciation methods",
+      "score": 0.9965,
+      "box": [
+        135,
+        682,
+        578,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "NATALIE RAMSEY\nGA, USA|+1-714-823-5035|natalie.ramsey@example.com\nWORK HISTORY\nAccountants Auditors, Precise Balance Financial Group, 2020.10–2023.01\n-Directed financial system architecture\n- Managed consolidation processes\nAccountants Auditors, Balanced Path Advisors, 2017.09–2020.01\n- Coordinated audit schedules\n- Reviewed balance sheet accounts\nAccountants Auditors, CoreLedger Services, 2014.10–2017.02\n- Prepared aging reports\n- Entered financial data into accounting systems\nEDUCATION\nBachelor's, Financial Planning, Brookhaven University, 2007\n• Completed coursework in management information systems\n• Studied fundamentals of depreciation methods"
+}

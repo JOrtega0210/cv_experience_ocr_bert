@@ -1,0 +1,226 @@
+{
+  "id": "22129",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.871,
+  "n_lines": 16,
+  "mean_score": 0.9762,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSEPH GOOD",
+      "score": 0.9895,
+      "box": [
+        115,
+        89,
+        366,
+        123
+      ]
+    },
+    {
+      "text": "KY, USA|+1-327-213-6038 |joseph.good@example.com",
+      "score": 0.98,
+      "box": [
+        115,
+        150,
+        654,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueBuild Group, 2020.10–2023.01",
+      "score": 0.9884,
+      "box": [
+        114,
+        289,
+        660,
+        314
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.974,
+      "box": [
+        126,
+        314,
+        478,
+        339
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.9532,
+      "box": [
+        127,
+        340,
+        448,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardWay Builders, 2018.06–2020.10",
+      "score": 0.9727,
+      "box": [
+        115,
+        381,
+        676,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared site reports",
+      "score": 0.9634,
+      "box": [
+        126,
+        406,
+        338,
+        432
+      ]
+    },
+    {
+      "text": "- Installed mechanical supports",
+      "score": 0.9437,
+      "box": [
+        126,
+        430,
+        418,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterFrame Builders, 2014.12–2017.04",
+      "score": 0.9916,
+      "box": [
+        116,
+        472,
+        714,
+        495
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9672,
+      "box": [
+        126,
+        497,
+        484,
+        519
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9938,
+      "box": [
+        126,
+        521,
+        492,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Construction, Redwood University, 2004",
+      "score": 0.9606,
+      "box": [
+        115,
+        631,
+        821,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction inspection",
+      "score": 0.9935,
+      "box": [
+        132,
+        656,
+        592,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction quality assurance",
+      "score": 0.9637,
+      "box": [
+        133,
+        681,
+        659,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JOSEPH GOOD\nKY, USA|+1-327-213-6038 |joseph.good@example.com\nWORK HISTORY\nConstruction Laborers, TrueBuild Group, 2020.10–2023.01\n- Designed construction staging plans\n- Led cross-functional coordination\nConstruction Laborers, HardWay Builders, 2018.06–2020.10\n- Prepared site reports\n- Installed mechanical supports\nConstruction Laborers, MasterFrame Builders, 2014.12–2017.04\n- Maintained cleanliness of work areas\n- Assembled prefabricated components\nEDUCATION\nSome college (no degree), Building Construction, Redwood University, 2004\n• Studied fundamentals of construction inspection\n• Studied fundamentals of construction quality assurance"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "27152",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.725,
+  "n_lines": 10,
+  "mean_score": 0.9779,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NICHOLAS WILEY",
+      "score": 0.968,
+      "box": [
+        116,
+        90,
+        409,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-929-704-1474|nicholas.wiley@example.com",
+      "score": 0.9854,
+      "box": [
+        116,
+        152,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Systems, 2020.10–2021.09",
+      "score": 0.9709,
+      "box": [
+        116,
+        290,
+        673,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented caching logic",
+      "score": 0.9684,
+      "box": [
+        127,
+        315,
+        390,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with Cl pipeline tasks",
+      "score": 0.9785,
+      "box": [
+        126,
+        339,
+        424,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Pine Valley University, 2018",
+      "score": 0.9578,
+      "box": [
+        115,
+        448,
+        629,
+        473
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of programming paradigms",
+      "score": 0.9809,
+      "box": [
+        132,
+        472,
+        605,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of dependency injection",
+      "score": 0.9874,
+      "box": [
+        134,
+        499,
+        538,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "NICHOLAS WILEY\nMI, USA|+1-929-704-1474|nicholas.wiley@example.com\nWORK HISTORY\nSoftware Developers, Clearpath Systems, 2020.10–2021.09\n- Implemented caching logic\n- Assisted with Cl pipeline tasks\nEDUCATION\nSome college (no degree), Pine Valley University, 2018\n• Studied fundamentals of programming paradigms\n• Studied principles of dependency injection"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "48587",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.833,
+  "n_lines": 16,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRADY MCGUIRE",
+      "score": 0.9818,
+      "box": [
+        117,
+        90,
+        404,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-826-516-4185 |brady.mcguire@example.com",
+      "score": 0.9824,
+      "box": [
+        115,
+        150,
+        672,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightcrest Software, 2021.01–2023.01",
+      "score": 0.9853,
+      "box": [
+        116,
+        290,
+        683,
+        313
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9863,
+      "box": [
+        127,
+        315,
+        443,
+        339
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.9773,
+      "box": [
+        126,
+        339,
+        373,
+        362
+      ]
+    },
+    {
+      "text": "Software Developers, Greenline Tech, 2019.01–2021.01",
+      "score": 0.988,
+      "box": [
+        114,
+        381,
+        638,
+        406
+      ]
+    },
+    {
+      "text": "- Designed documentation templates",
+      "score": 0.9693,
+      "box": [
+        125,
+        406,
+        469,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented security controls",
+      "score": 0.9841,
+      "box": [
+        126,
+        430,
+        420,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Nextwave Systems, 2014.08–2016.09",
+      "score": 0.991,
+      "box": [
+        115,
+        471,
+        674,
+        496
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.9775,
+      "box": [
+        124,
+        496,
+        332,
+        522
+      ]
+    },
+    {
+      "text": "- Performed code formatting",
+      "score": 0.9817,
+      "box": [
+        126,
+        521,
+        389,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        585,
+        267,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Bayside University, 2010",
+      "score": 0.9512,
+      "box": [
+        115,
+        632,
+        456,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in microprocessor programming",
+      "score": 0.9852,
+      "box": [
+        133,
+        658,
+        659,
+        682
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of race condition handling",
+      "score": 0.9941,
+      "box": [
+        134,
+        682,
+        593,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "BRADY MCGUIRE\nTN, USA|+1-826-516-4185 |brady.mcguire@example.com\nWORK HISTORY\nSoftware Developers, Brightcrest Software, 2021.01–2023.01\n- Designed observability platforms\n- Led architectural reviews\nSoftware Developers, Greenline Tech, 2019.01–2021.01\n- Designed documentation templates\n- Implemented security controls\nSoftware Developers, Nextwave Systems, 2014.08–2016.09\n- Handled file uploads\n- Performed code formatting\nEDUCATION\nBachelor's, Bayside University, 2010\n• Completed coursework in microprocessor programming\n• Studied fundamentals of race condition handling"
+}

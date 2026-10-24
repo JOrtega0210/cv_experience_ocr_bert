@@ -1,0 +1,187 @@
+{
+  "id": "13791",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.918,
+  "n_lines": 13,
+  "mean_score": 0.981,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "EVELYN MONROE",
+      "score": 0.9929,
+      "box": [
+        117,
+        90,
+        412,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-601-699-6917 |evelyn.monroe@example.com",
+      "score": 0.9609,
+      "box": [
+        115,
+        150,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9777,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueWell Nursing, 2020.06–2023.01",
+      "score": 0.9922,
+      "box": [
+        116,
+        290,
+        635,
+        313
+      ]
+    },
+    {
+      "text": "- Developed nursing policy frameworks",
+      "score": 0.9802,
+      "box": [
+        126,
+        315,
+        489,
+        338
+      ]
+    },
+    {
+      "text": "- Led patient experience improvement programs",
+      "score": 0.9856,
+      "box": [
+        126,
+        339,
+        574,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellWay Health Group, 2017.11–2020.06",
+      "score": 0.9573,
+      "box": [
+        115,
+        381,
+        688,
+        406
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.982,
+      "box": [
+        125,
+        406,
+        512,
+        431
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9775,
+      "box": [
+        126,
+        431,
+        435,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Technology, Prairie View University, 2019",
+      "score": 0.9697,
+      "box": [
+        114,
+        539,
+        689,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in nutritional assessment",
+      "score": 0.9904,
+      "box": [
+        134,
+        566,
+        599,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in prioritization in nursing",
+      "score": 0.9887,
+      "box": [
+        133,
+        590,
+        597,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "EVELYN MONROE\nFL, USA|+1-601-699-6917 |evelyn.monroe@example.com\nWORK HISTORY\nRegistered Nurses, TrueWell Nursing, 2020.06–2023.01\n- Developed nursing policy frameworks\n- Led patient experience improvement programs\nRegistered Nurses, WellWay Health Group, 2017.11–2020.06\n- Performed basic life support procedures\n- Monitored patient dietary needs\nEDUCATION\nBachelor's, Medical Technology, Prairie View University, 2019\n• Completed coursework in nutritional assessment\n• Completed coursework in prioritization in nursing"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "59481",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.738,
+  "n_lines": 10,
+  "mean_score": 0.9856,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "STANLEY LARSEN",
+      "score": 0.979,
+      "box": [
+        116,
+        90,
+        421,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-933-531-4259|stanley.larsen@example.com",
+      "score": 0.983,
+      "box": [
+        115,
+        150,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9835,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codewave Tech, 2018.10–2020.08",
+      "score": 0.9957,
+      "box": [
+        116,
+        290,
+        648,
+        313
+      ]
+    },
+    {
+      "text": "- Wrote unit tests for application modules",
+      "score": 0.9886,
+      "box": [
+        126,
+        315,
+        508,
+        338
+      ]
+    },
+    {
+      "text": "- Wrote command-line tools",
+      "score": 0.9717,
+      "box": [
+        127,
+        340,
+        386,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Pebble Creek University, 2006",
+      "score": 0.9927,
+      "box": [
+        115,
+        449,
+        508,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of microservices architecture",
+      "score": 0.9755,
+      "box": [
+        132,
+        472,
+        585,
+        496
+      ]
+    },
+    {
+      "text": "• Completed coursework in human-computer interaction basics",
+      "score": 0.988,
+      "box": [
+        134,
+        499,
+        714,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "STANLEY LARSEN\nWA, USA|+1-933-531-4259|stanley.larsen@example.com\nWORK HISTORY\nSoftware Developers, Codewave Tech, 2018.10–2020.08\n- Wrote unit tests for application modules\n- Wrote command-line tools\nEDUCATION\nBachelor's, Pebble Creek University, 2006\n• Studied principles of microservices architecture\n• Completed coursework in human-computer interaction basics"
+}

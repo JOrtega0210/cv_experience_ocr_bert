@@ -1,0 +1,278 @@
+{
+  "id": "04496",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.061,
+  "n_lines": 20,
+  "mean_score": 0.9797,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TRAVIS HENRY",
+      "score": 0.9739,
+      "box": [
+        113,
+        87,
+        369,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA|+1-966-761-742 |travis.henry@example.com",
+      "score": 0.9919,
+      "box": [
+        117,
+        151,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9847,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Financial Group, 2019.08–2023.01",
+      "score": 0.9791,
+      "box": [
+        114,
+        289,
+        754,
+        313
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.9402,
+      "box": [
+        125,
+        314,
+        455,
+        337
+      ]
+    },
+    {
+      "text": "- Developed financial performance metrics",
+      "score": 0.991,
+      "box": [
+        126,
+        339,
+        520,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Financial Group, 2016.03–2019.08",
+      "score": 0.9833,
+      "box": [
+        114,
+        381,
+        754,
+        406
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9685,
+      "box": [
+        126,
+        407,
+        436,
+        430
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9794,
+      "box": [
+        125,
+        430,
+        323,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Advisors, 2012.09–2016.03",
+      "score": 0.9909,
+      "box": [
+        114,
+        471,
+        712,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed balance sheet accounts",
+      "score": 0.9784,
+      "box": [
+        126,
+        497,
+        458,
+        519
+      ]
+    },
+    {
+      "text": "- Managed general ledger maintenance",
+      "score": 0.9663,
+      "box": [
+        126,
+        521,
+        493,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Accounting, 2007.08–2011.02",
+      "score": 0.9771,
+      "box": [
+        115,
+        565,
+        746,
+        588
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9831,
+      "box": [
+        126,
+        590,
+        511,
+        613
+      ]
+    },
+    {
+      "text": "- Maintained chart of accounts",
+      "score": 0.9874,
+      "box": [
+        127,
+        615,
+        408,
+        635
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Accounting Practice, Brighton University, 205",
+      "score": 0.9788,
+      "box": [
+        115,
+        725,
+        636,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Accounting, Elm Ridge University, 2003",
+      "score": 0.9581,
+      "box": [
+        114,
+        747,
+        681,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in lease accounting",
+      "score": 0.9907,
+      "box": [
+        133,
+        774,
+        545,
+        797
+      ]
+    },
+    {
+      "text": "• Studied principles of information management",
+      "score": 0.9913,
+      "box": [
+        132,
+        798,
+        573,
+        823
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "TRAVIS HENRY\nCA, USA|+1-966-761-742 |travis.henry@example.com\nWORK HISTORY\nAccountants Auditors, SolidCount Financial Group, 2019.08–2023.01\n- Developed audit quality standards\n- Developed financial performance metrics\nAccountants Auditors, FairLedger Financial Group, 2016.03–2019.08\n- Developed financial risk models\n- Led audit programs\nAccountants Auditors, OpenBalance Advisors, 2012.09–2016.03\n- Reviewed balance sheet accounts\n- Managed general ledger maintenance\nAccountants Auditors, Balanced Path Accounting, 2007.08–2011.02\n- Maintained accounting software records\n- Maintained chart of accounts\nEDUCATION\nMaster's, Accounting Practice, Brighton University, 205\nBachelor's, Financial Accounting, Elm Ridge University, 2003\n• Completed coursework in lease accounting\n• Studied principles of information management"
+}

@@ -1,0 +1,278 @@
+{
+  "id": "14942",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.148,
+  "n_lines": 20,
+  "mean_score": 0.9835,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANNATYLER",
+      "score": 0.9986,
+      "box": [
+        116,
+        90,
+        334,
+        121
+      ]
+    },
+    {
+      "text": "GA,USA|+1-699-568-3102|anna.tyler@example.com",
+      "score": 0.9593,
+      "box": [
+        115,
+        150,
+        634,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Futures Academy, 2018.11–2023.01",
+      "score": 0.9803,
+      "box": [
+        116,
+        290,
+        873,
+        313
+      ]
+    },
+    {
+      "text": "- Designed literacy development programs",
+      "score": 0.9856,
+      "box": [
+        125,
+        314,
+        521,
+        340
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.9906,
+      "box": [
+        126,
+        339,
+        431,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Learning Center, 2014.09–2018.11",
+      "score": 0.9932,
+      "box": [
+        116,
+        382,
+        877,
+        406
+      ]
+    },
+    {
+      "text": "- Led professional development planning",
+      "score": 0.991,
+      "box": [
+        126,
+        406,
+        505,
+        432
+      ]
+    },
+    {
+      "text": "- Established academic quality controls",
+      "score": 0.9713,
+      "box": [
+        126,
+        431,
+        490,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Horizons Academy, 2010.07–2014.09",
+      "score": 0.984,
+      "box": [
+        114,
+        471,
+        904,
+        496
+      ]
+    },
+    {
+      "text": "- Analyzed assessment trends",
+      "score": 0.9843,
+      "box": [
+        126,
+        498,
+        410,
+        521
+      ]
+    },
+    {
+      "text": "- Developed progress monitoring tools",
+      "score": 0.9802,
+      "box": [
+        126,
+        521,
+        482,
+        546
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Minds School, 2006.05–2010.07",
+      "score": 0.9886,
+      "box": [
+        115,
+        565,
+        850,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared lesson summaries",
+      "score": 0.9828,
+      "box": [
+        126,
+        590,
+        403,
+        613
+      ]
+    },
+    {
+      "text": "- Supervised classroom activities",
+      "score": 0.9867,
+      "box": [
+        127,
+        615,
+        434,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Master's, Student Learning Studies, Northfield University, 2008",
+      "score": 0.9789,
+      "box": [
+        115,
+        725,
+        698,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Basic Education Studies, Maple Ridge University, 2006",
+      "score": 0.9705,
+      "box": [
+        114,
+        747,
+        735,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in creative teaching strategies",
+      "score": 0.9768,
+      "box": [
+        133,
+        772,
+        643,
+        798
+      ]
+    },
+    {
+      "text": "• Studied principles of lesson planning",
+      "score": 0.987,
+      "box": [
+        132,
+        798,
+        486,
+        823
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "ANNATYLER\nGA,USA|+1-699-568-3102|anna.tyler@example.com\nWORK HISTORY\nElementary Middle School Teachers, Golden Futures Academy, 2018.11–2023.01\n- Designed literacy development programs\n- Designed assessment systems\nElementary Middle School Teachers, Harmony Learning Center, 2014.09–2018.11\n- Led professional development planning\n- Established academic quality controls\nElementary Middle School Teachers, Harmony Horizons Academy, 2010.07–2014.09\n- Analyzed assessment trends\n- Developed progress monitoring tools\nElementary Middle School Teachers, Learning Minds School, 2006.05–2010.07\n- Prepared lesson summaries\n- Supervised classroom activities\nEDUCATION\nMaster's, Student Learning Studies, Northfield University, 2008\nBachelor's, Basic Education Studies, Maple Ridge University, 2006\n• Completed coursework in creative teaching strategies\n• Studied principles of lesson planning"
+}

@@ -1,0 +1,265 @@
+{
+  "id": "09047",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.046,
+  "n_lines": 19,
+  "mean_score": 0.9828,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MICHAEL HAYES",
+      "score": 0.9928,
+      "box": [
+        116,
+        90,
+        395,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-705-821-4102 |michael.hayes@example.com",
+      "score": 0.9903,
+      "box": [
+        117,
+        151,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmBase Construction, 2020.02–2023.01",
+      "score": 0.9842,
+      "box": [
+        114,
+        289,
+        719,
+        313
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9685,
+      "box": [
+        127,
+        315,
+        371,
+        339
+      ]
+    },
+    {
+      "text": "- Managed multi-phase projects",
+      "score": 0.9843,
+      "box": [
+        126,
+        339,
+        423,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Structures, 2017.03–2020.02",
+      "score": 0.9779,
+      "box": [
+        115,
+        381,
+        674,
+        406
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.9945,
+      "box": [
+        126,
+        407,
+        476,
+        430
+      ]
+    },
+    {
+      "text": "-Directed equipment operations",
+      "score": 0.9961,
+      "box": [
+        125,
+        432,
+        426,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorBuild Services, 2012.09–2015.08",
+      "score": 0.9804,
+      "box": [
+        114,
+        471,
+        706,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared construction schedules",
+      "score": 0.9748,
+      "box": [
+        126,
+        498,
+        446,
+        521
+      ]
+    },
+    {
+      "text": "- Installed mechanical supports",
+      "score": 0.986,
+      "box": [
+        125,
+        521,
+        418,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Build Group, 2008.09–2011.09",
+      "score": 0.9831,
+      "box": [
+        114,
+        563,
+        689,
+        588
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.962,
+      "box": [
+        125,
+        588,
+        372,
+        614
+      ]
+    },
+    {
+      "text": "- Measured and cut basic building materials",
+      "score": 0.9699,
+      "box": [
+        125,
+        613,
+        532,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Concrete Technology, Pioneer University, 2004",
+      "score": 0.9901,
+      "box": [
+        115,
+        723,
+        806,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of job site efficiency",
+      "score": 0.9785,
+      "box": [
+        132,
+        747,
+        501,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic sealant application",
+      "score": 0.974,
+      "box": [
+        133,
+        772,
+        617,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "MICHAEL HAYES\nCA, USA|+1-705-821-4102 |michael.hayes@example.com\nWORK HISTORY\nConstruction Laborers, FirmBase Construction, 2020.02–2023.01\n- Led operational planning\n- Managed multi-phase projects\nConstruction Laborers, Unified Structures, 2017.03–2020.02\n- Developed site performance metrics\n-Directed equipment operations\nConstruction Laborers, AnchorBuild Services, 2012.09–2015.08\n- Prepared construction schedules\n- Installed mechanical supports\nConstruction Laborers, Unified Build Group, 2008.09–2011.09\n- Sorted building materials\n- Measured and cut basic building materials\nEDUCATION\nSome college (no degree), Concrete Technology, Pioneer University, 2004\n• Studied principles of job site efficiency\n• Completed coursework in basic sealant application"
+}

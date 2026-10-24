@@ -1,0 +1,187 @@
+{
+  "id": "16443",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.989,
+  "n_lines": 13,
+  "mean_score": 0.9804,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JASMINE RICHARDS",
+      "score": 0.9913,
+      "box": [
+        116,
+        90,
+        451,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-426-674-9936|jasmine.richards@example.com",
+      "score": 0.988,
+      "box": [
+        116,
+        151,
+        693,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9785,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Minds School, 2021.04–2023.01",
+      "score": 0.9598,
+      "box": [
+        116,
+        290,
+        811,
+        313
+      ]
+    },
+    {
+      "text": "- Established academic quality controls",
+      "score": 0.9758,
+      "box": [
+        125,
+        313,
+        490,
+        338
+      ]
+    },
+    {
+      "text": "- Developed instructional innovation plans",
+      "score": 0.9811,
+      "box": [
+        126,
+        339,
+        515,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightWay School, 2017.12–2019.10",
+      "score": 0.9867,
+      "box": [
+        115,
+        381,
+        803,
+        406
+      ]
+    },
+    {
+      "text": "- Maintained instructional logs",
+      "score": 0.9638,
+      "box": [
+        125,
+        406,
+        406,
+        432
+      ]
+    },
+    {
+      "text": "- Maintained student folders",
+      "score": 0.9743,
+      "box": [
+        126,
+        432,
+        388,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Basics, Forestview University, 2014",
+      "score": 0.9842,
+      "box": [
+        115,
+        540,
+        653,
+        563
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of early math instruction",
+      "score": 0.9766,
+      "box": [
+        132,
+        564,
+        578,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of language arts education",
+      "score": 0.9864,
+      "box": [
+        134,
+        591,
+        602,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JASMINE RICHARDS\nGA, USA|+1-426-674-9936|jasmine.richards@example.com\nWORK HISTORY\nElementary Middle School Teachers, Little Minds School, 2021.04–2023.01\n- Established academic quality controls\n- Developed instructional innovation plans\nElementary Middle School Teachers, BrightWay School, 2017.12–2019.10\n- Maintained instructional logs\n- Maintained student folders\nEDUCATION\nBachelor's, Education Basics, Forestview University, 2014\n• Studied fundamentals of early math instruction\n• Studied fundamentals of language arts education"
+}

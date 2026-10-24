@@ -1,0 +1,187 @@
+{
+  "id": "31993",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.847,
+  "n_lines": 13,
+  "mean_score": 0.9798,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ASHLEY HO",
+      "score": 0.9768,
+      "box": [
+        116,
+        90,
+        313,
+        121
+      ]
+    },
+    {
+      "text": "NV, USA|+1-375-396-4055|ashley.ho@example.com",
+      "score": 0.9833,
+      "box": [
+        115,
+        150,
+        630,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Advisors, 2021.06–2023.01",
+      "score": 0.9799,
+      "box": [
+        115,
+        290,
+        686,
+        312
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9745,
+      "box": [
+        126,
+        314,
+        515,
+        339
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9699,
+      "box": [
+        126,
+        339,
+        518,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial Group, 2019.10–2021.06",
+      "score": 0.9765,
+      "box": [
+        115,
+        381,
+        791,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9765,
+      "box": [
+        126,
+        406,
+        423,
+        432
+      ]
+    },
+    {
+      "text": "- Reconciled bank statements",
+      "score": 0.9666,
+      "box": [
+        125,
+        430,
+        405,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Management, Hawthorne University, 2017",
+      "score": 0.9823,
+      "box": [
+        115,
+        541,
+        705,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of professional writing",
+      "score": 0.9765,
+      "box": [
+        132,
+        564,
+        558,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of sampling techniques",
+      "score": 0.9931,
+      "box": [
+        133,
+        590,
+        532,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ASHLEY HO\nNV, USA|+1-375-396-4055|ashley.ho@example.com\nWORK HISTORY\nAccountants Auditors, AccuCount Advisors, 2021.06–2023.01\n- Developed long-term financial strategies\n- Established financial reporting standards\nAccountants Auditors, Integrity Books Financial Group, 2019.10–2021.06\n- Assisted with regulatory filings\n- Reconciled bank statements\nEDUCATION\nBachelor's, Financial Management, Hawthorne University, 2017\n• Studied fundamentals of professional writing\n• Studied principles of sampling techniques"
+}

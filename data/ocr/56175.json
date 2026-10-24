@@ -1,0 +1,226 @@
+{
+  "id": "56175",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.903,
+  "n_lines": 16,
+  "mean_score": 0.9823,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KAYLIN JAMES",
+      "score": 0.9661,
+      "box": [
+        116,
+        90,
+        367,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-909-627-9337 |kaylin.james@example.com",
+      "score": 0.9771,
+      "box": [
+        115,
+        150,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9785,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Meadow Academy, 2020.02–2023.0",
+      "score": 0.9855,
+      "box": [
+        116,
+        290,
+        881,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented instructional improvement programs",
+      "score": 0.9729,
+      "box": [
+        126,
+        314,
+        600,
+        339
+      ]
+    },
+    {
+      "text": "- Developed system-wide assessment tools",
+      "score": 0.9786,
+      "box": [
+        126,
+        339,
+        531,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Rising Stars School, 2017.02–2020.02",
+      "score": 0.9876,
+      "box": [
+        116,
+        382,
+        820,
+        406
+      ]
+    },
+    {
+      "text": "- Analyzed student performance data",
+      "score": 0.9871,
+      "box": [
+        126,
+        406,
+        473,
+        431
+      ]
+    },
+    {
+      "text": "- Integrated educational technology tools",
+      "score": 0.9853,
+      "box": [
+        126,
+        431,
+        505,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, New Leaf Learning, 2014.02–2017.02",
+      "score": 0.9889,
+      "box": [
+        115,
+        471,
+        812,
+        496
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.9913,
+      "box": [
+        125,
+        496,
+        484,
+        521
+      ]
+    },
+    {
+      "text": "- Maintained student folders",
+      "score": 0.96,
+      "box": [
+        127,
+        522,
+        386,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, General Academic Studies, Cedar Ridge University, 2017",
+      "score": 0.9896,
+      "box": [
+        115,
+        632,
+        758,
+        655
+      ]
+    },
+    {
+      "text": "• Studied basic classroom management concepts",
+      "score": 0.9935,
+      "box": [
+        132,
+        656,
+        591,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson effectiveness analysis",
+      "score": 0.9763,
+      "box": [
+        136,
+        683,
+        657,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "KAYLIN JAMES\nVA, USA|+1-909-627-9337 |kaylin.james@example.com\nWORK HISTORY\nElementary Middle School Teachers, Growing Meadow Academy, 2020.02–2023.0\n- Implemented instructional improvement programs\n- Developed system-wide assessment tools\nElementary Middle School Teachers, Rising Stars School, 2017.02–2020.02\n- Analyzed student performance data\n- Integrated educational technology tools\nElementary Middle School Teachers, New Leaf Learning, 2014.02–2017.02\n- Conducted reading practice sessions\n- Maintained student folders\nEDUCATION\nBachelor's, General Academic Studies, Cedar Ridge University, 2017\n• Studied basic classroom management concepts\n• Completed coursework in lesson effectiveness analysis"
+}

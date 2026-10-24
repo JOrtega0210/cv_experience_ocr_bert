@@ -1,0 +1,174 @@
+{
+  "id": "12995",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.943,
+  "n_lines": 12,
+  "mean_score": 0.9787,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CODYCOBB",
+      "score": 0.9923,
+      "box": [
+        115,
+        88,
+        323,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA|+1-979-272-9828 |cody.cobb@example.com",
+      "score": 0.9652,
+      "box": [
+        116,
+        151,
+        631,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9829,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureBuild Services, 2020.09–2023.01",
+      "score": 0.9662,
+      "box": [
+        115,
+        289,
+        682,
+        312
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9709,
+      "box": [
+        126,
+        315,
+        394,
+        339
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.9873,
+      "box": [
+        126,
+        339,
+        524,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SafeRise Construction, 2016.05–2018.09",
+      "score": 0.9847,
+      "box": [
+        115,
+        382,
+        716,
+        405
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.958,
+      "box": [
+        125,
+        406,
+        400,
+        431
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9847,
+      "box": [
+        126,
+        431,
+        492,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Welding Technology, Pinecrest High School, 2010",
+      "score": 0.9785,
+      "box": [
+        115,
+        540,
+        840,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction materials testing",
+      "score": 0.9757,
+      "box": [
+        133,
+        564,
+        658,
+        590
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "CODYCOBB\nFL, USA|+1-979-272-9828 |cody.cobb@example.com\nWORK HISTORY\nConstruction Laborers, SureBuild Services, 2020.09–2023.01\n- Directed project scheduling\n- Coordinated large-scale material logistics\nConstruction Laborers, SafeRise Construction, 2016.05–2018.09\n- Dug trenches for utility lines\n- Assembled prefabricated components\nEDUCATION\nHigh school graduate/GED, Welding Technology, Pinecrest High School, 2010\n• Completed coursework in construction materials testing"
+}

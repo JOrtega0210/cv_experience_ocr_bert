@@ -1,0 +1,226 @@
+{
+  "id": "46196",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.841,
+  "n_lines": 16,
+  "mean_score": 0.9832,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "PEGGY TURNER",
+      "score": 0.9655,
+      "box": [
+        116,
+        90,
+        385,
+        120
+      ]
+    },
+    {
+      "text": "PA, USA|+1-344-536-8538|peggy.turner@example.com",
+      "score": 0.9793,
+      "box": [
+        115,
+        150,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9854,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeBridge Nursing, 2020.06–2023.01",
+      "score": 0.9829,
+      "box": [
+        115,
+        289,
+        645,
+        314
+      ]
+    },
+    {
+      "text": "– Managed care delivery innovation",
+      "score": 0.9797,
+      "box": [
+        127,
+        315,
+        454,
+        338
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.9777,
+      "box": [
+        126,
+        339,
+        458,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunPath Nursing, 2016.08–2019.03",
+      "score": 0.9767,
+      "box": [
+        115,
+        381,
+        633,
+        406
+      ]
+    },
+    {
+      "text": "- Documented clinical care activities",
+      "score": 0.9832,
+      "box": [
+        125,
+        405,
+        462,
+        430
+      ]
+    },
+    {
+      "text": "- Managed patient advocacy tasks",
+      "score": 0.9888,
+      "box": [
+        126,
+        431,
+        447,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverBridge Health Group, 2013.04–2015.12",
+      "score": 0.9901,
+      "box": [
+        116,
+        473,
+        709,
+        496
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.9871,
+      "box": [
+        126,
+        498,
+        484,
+        521
+      ]
+    },
+    {
+      "text": "- Collected laboratory specimens",
+      "score": 0.994,
+      "box": [
+        126,
+        521,
+        434,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Technology, Windermere University, 2008",
+      "score": 0.9833,
+      "box": [
+        114,
+        631,
+        731,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical reasoning",
+      "score": 0.9882,
+      "box": [
+        134,
+        658,
+        549,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of patient safety",
+      "score": 0.9704,
+      "box": [
+        134,
+        681,
+        466,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "PEGGY TURNER\nPA, USA|+1-344-536-8538|peggy.turner@example.com\nWORK HISTORY\nRegistered Nurses, LifeBridge Nursing, 2020.06–2023.01\n– Managed care delivery innovation\n- Developed patient care algorithms\nRegistered Nurses, SunPath Nursing, 2016.08–2019.03\n- Documented clinical care activities\n- Managed patient advocacy tasks\nRegistered Nurses, EverBridge Health Group, 2013.04–2015.12\n- Administered prescribed medications\n- Collected laboratory specimens\nEDUCATION\nBachelor's, Health Care Technology, Windermere University, 2008\n• Completed coursework in clinical reasoning\n• Studied principles of patient safety"
+}

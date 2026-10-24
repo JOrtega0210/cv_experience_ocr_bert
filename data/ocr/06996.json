@@ -1,0 +1,239 @@
+{
+  "id": "06996",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.034,
+  "n_lines": 17,
+  "mean_score": 0.9806,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KATHLEEN DOUGLAS",
+      "score": 0.9885,
+      "box": [
+        116,
+        90,
+        476,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-456-369-3739 |kathleen.douglas@example.com",
+      "score": 0.987,
+      "box": [
+        116,
+        150,
+        698,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9858,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Services, 2020.04–2023.01",
+      "score": 0.9654,
+      "box": [
+        114,
+        289,
+        699,
+        313
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.968,
+      "box": [
+        127,
+        315,
+        478,
+        338
+      ]
+    },
+    {
+      "text": "- Directed revenue recognition policies",
+      "score": 0.963,
+      "box": [
+        126,
+        339,
+        484,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Financial, 2017.06–2020.04",
+      "score": 0.9917,
+      "box": [
+        115,
+        381,
+        694,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared working capital analysis",
+      "score": 0.9785,
+      "box": [
+        126,
+        406,
+        453,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared cash flow statements",
+      "score": 0.9886,
+      "box": [
+        126,
+        430,
+        429,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial, 2014.08–2017.06",
+      "score": 0.984,
+      "box": [
+        114,
+        471,
+        728,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9828,
+      "box": [
+        125,
+        496,
+        439,
+        522
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.9571,
+      "box": [
+        126,
+        521,
+        384,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Enterprise Management, Clearview University, 2016",
+      "score": 0.9955,
+      "box": [
+        115,
+        632,
+        689,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Forensic Accounting, Brookhaven University, 2014",
+      "score": 0.9749,
+      "box": [
+        114,
+        656,
+        693,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial disclosure",
+      "score": 0.9786,
+      "box": [
+        134,
+        682,
+        566,
+        705
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of working capital management",
+      "score": 0.9819,
+      "box": [
+        132,
+        706,
+        645,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "KATHLEEN DOUGLAS\nCA, USA|+1-456-369-3739 |kathleen.douglas@example.com\nWORK HISTORY\nAccountants Auditors, ClearLedger Services, 2020.04–2023.01\n- Led regulatory compliance initiatives\n- Directed revenue recognition policies\nAccountants Auditors, SolidBooks Financial, 2017.06–2020.04\n- Prepared working capital analysis\n- Prepared cash flow statements\nAccountants Auditors, Integrity Books Financial, 2014.08–2017.06\n- Reviewed timesheets for payroll\n- Prepared variance reports\nEDUCATION\nMaster's, Enterprise Management, Clearview University, 2016\nBachelor's, Forensic Accounting, Brookhaven University, 2014\n• Completed coursework in financial disclosure\n• Studied fundamentals of working capital management"
+}

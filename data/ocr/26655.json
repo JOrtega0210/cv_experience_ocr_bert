@@ -1,0 +1,239 @@
+{
+  "id": "26655",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.832,
+  "n_lines": 17,
+  "mean_score": 0.9752,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MELANIE WU",
+      "score": 0.95,
+      "box": [
+        114,
+        86,
+        334,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA|+1-671-416-9785|melanie.wu@example.com",
+      "score": 0.9915,
+      "box": [
+        114,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9877,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Labs, 2019.10–2023.01",
+      "score": 0.9929,
+      "box": [
+        115,
+        290,
+        646,
+        313
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9714,
+      "box": [
+        125,
+        314,
+        448,
+        339
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9571,
+      "box": [
+        125,
+        339,
+        368,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Technologies, 2016.07–2019.10",
+      "score": 0.9932,
+      "box": [
+        115,
+        381,
+        697,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented authentication workflows",
+      "score": 0.9936,
+      "box": [
+        126,
+        407,
+        496,
+        430
+      ]
+    },
+    {
+      "text": "- Developed microservices",
+      "score": 0.9657,
+      "box": [
+        125,
+        430,
+        376,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstone Software, 2011.11–2015.02",
+      "score": 0.9864,
+      "box": [
+        116,
+        472,
+        686,
+        496
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9486,
+      "box": [
+        125,
+        496,
+        352,
+        521
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9702,
+      "box": [
+        126,
+        521,
+        448,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Master's, Forest Hill University, 2008",
+      "score": 0.9708,
+      "box": [
+        115,
+        631,
+        456,
+        654
+      ]
+    },
+    {
+      "text": "Bachelor's, Forestfield University, 2006",
+      "score": 0.9637,
+      "box": [
+        114,
+        656,
+        478,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in code quality analysis",
+      "score": 0.9574,
+      "box": [
+        133,
+        683,
+        582,
+        706
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of game development",
+      "score": 0.9795,
+      "box": [
+        132,
+        706,
+        558,
+        731
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "MELANIE WU\nMA, USA|+1-671-416-9785|melanie.wu@example.com\nWORK HISTORY\nSoftware Developers, Openwave Labs, 2019.10–2023.01\n- Designed data storage strategies\n- Built distributed systems\nSoftware Developers, Netfield Technologies, 2016.07–2019.10\n- Implemented authentication workflows\n- Developed microservices\nSoftware Developers, Clearstone Software, 2011.11–2015.02\n- Wrote integration tests\n- Performed basic APl integrations\nEDUCATION\nMaster's, Forest Hill University, 2008\nBachelor's, Forestfield University, 2006\n• Completed coursework in code quality analysis\n• Studied fundamentals of game development"
+}

@@ -1,0 +1,135 @@
+{
+  "id": "21877",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.715,
+  "n_lines": 9,
+  "mean_score": 0.9849,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JACOB CALHOUN",
+      "score": 0.9698,
+      "box": [
+        116,
+        90,
+        412,
+        121
+      ]
+    },
+    {
+      "text": "KS, USA|+1-991-798-9530 |jacob.calhoun@example.com",
+      "score": 0.9873,
+      "box": [
+        115,
+        150,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureBuild Group, 2021.07–2023.01",
+      "score": 0.983,
+      "box": [
+        115,
+        290,
+        660,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9727,
+      "box": [
+        126,
+        314,
+        426,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with drywall installation",
+      "score": 0.9943,
+      "box": [
+        126,
+        339,
+        440,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Planning, Clear Spring High School, 2022",
+      "score": 0.9803,
+      "box": [
+        116,
+        449,
+        885,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of site preparation",
+      "score": 0.9936,
+      "box": [
+        133,
+        474,
+        485,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "JACOB CALHOUN\nKS, USA|+1-991-798-9530 |jacob.calhoun@example.com\nWORK HISTORY\nConstruction Laborers, SureBuild Group, 2021.07–2023.01\n- Prepared scaffolding platforms\n- Assisted with drywall installation\nEDUCATION\nHigh school graduate/GED, Construction Planning, Clear Spring High School, 2022\n• Studied principles of site preparation"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "25799",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.835,
+  "n_lines": 16,
+  "mean_score": 0.9836,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "STEPHEN MIRANDA",
+      "score": 0.9845,
+      "box": [
+        116,
+        90,
+        443,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-896-402-8998 |stephen.miranda@example.com",
+      "score": 0.9828,
+      "box": [
+        115,
+        150,
+        698,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Silverwave Technologies, 2020.03–2023.01",
+      "score": 0.9849,
+      "box": [
+        116,
+        290,
+        726,
+        313
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.9715,
+      "box": [
+        127,
+        315,
+        429,
+        338
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9905,
+      "box": [
+        126,
+        339,
+        448,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Greenline Tech, 2016.09–2019.07",
+      "score": 0.9866,
+      "box": [
+        116,
+        382,
+        640,
+        405
+      ]
+    },
+    {
+      "text": "- Implemented caching strategies",
+      "score": 0.9716,
+      "box": [
+        126,
+        406,
+        437,
+        432
+      ]
+    },
+    {
+      "text": "- Built reusable libraries",
+      "score": 0.9616,
+      "box": [
+        127,
+        433,
+        347,
+        453
+      ]
+    },
+    {
+      "text": "Software Developers, Clearbyte Software, 2013.02–2015.12",
+      "score": 0.9873,
+      "box": [
+        115,
+        471,
+        674,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9834,
+      "box": [
+        126,
+        498,
+        418,
+        522
+      ]
+    },
+    {
+      "text": "- Handled input sanitization",
+      "score": 0.9801,
+      "box": [
+        126,
+        521,
+        382,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Some college (no degree), Stonebrook University, 2001",
+      "score": 0.9896,
+      "box": [
+        115,
+        631,
+        629,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of indexing techniques",
+      "score": 0.9846,
+      "box": [
+        132,
+        656,
+        564,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of programming languages",
+      "score": 0.9925,
+      "box": [
+        134,
+        681,
+        567,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "STEPHEN MIRANDA\nMA, USA|+1-896-402-8998 |stephen.miranda@example.com\nWORK HISTORY\nSoftware Developers, Silverwave Technologies, 2020.03–2023.01\n- Designed system architectures\n- Designed data storage strategies\nSoftware Developers, Greenline Tech, 2016.09–2019.07\n- Implemented caching strategies\n- Built reusable libraries\nSoftware Developers, Clearbyte Software, 2013.02–2015.12\n- Implemented logging features\n- Handled input sanitization\nEDUCATION\nSome college (no degree), Stonebrook University, 2001\n• Studied fundamentals of indexing techniques\n• Studied principles of programming languages"
+}

@@ -1,0 +1,161 @@
+{
+  "id": "45686",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.773,
+  "n_lines": 11,
+  "mean_score": 0.9841,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ALYSSA MAXWELL",
+      "score": 0.9841,
+      "box": [
+        117,
+        90,
+        432,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-631-349-6361|alyssa.maxwell@example.com",
+      "score": 0.9761,
+      "box": [
+        115,
+        150,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9834,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Start School, 2019.08–2022.06",
+      "score": 0.9877,
+      "box": [
+        116,
+        289,
+        798,
+        312
+      ]
+    },
+    {
+      "text": "- Delivered structured lectures",
+      "score": 0.9808,
+      "box": [
+        125,
+        314,
+        408,
+        337
+      ]
+    },
+    {
+      "text": "- Distributed assessment rubrics",
+      "score": 0.9901,
+      "box": [
+        126,
+        340,
+        428,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Learning and Development, Brookhaven University, 2015",
+      "score": 0.9761,
+      "box": [
+        114,
+        448,
+        736,
+        473
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Education, High Meadow University, 2013",
+      "score": 0.9804,
+      "box": [
+        115,
+        474,
+        688,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of numeracy development",
+      "score": 0.9798,
+      "box": [
+        133,
+        499,
+        596,
+        522
+      ]
+    },
+    {
+      "text": "• Studied principles of student participation",
+      "score": 0.988,
+      "box": [
+        134,
+        524,
+        529,
+        547
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "ALYSSA MAXWELL\nPA, USA|+1-631-349-6361|alyssa.maxwell@example.com\nWORK HISTORY\nElementary Middle School Teachers, Kind Start School, 2019.08–2022.06\n- Delivered structured lectures\n- Distributed assessment rubrics\nEDUCATION\nMaster's, Learning and Development, Brookhaven University, 2015\nBachelor's, Applied Education, High Meadow University, 2013\n• Studied fundamentals of numeracy development\n• Studied principles of student participation"
+}

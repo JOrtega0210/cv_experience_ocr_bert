@@ -1,0 +1,135 @@
+{
+  "id": "21483",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.751,
+  "n_lines": 9,
+  "mean_score": 0.9826,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LUKAS WILLIAMS",
+      "score": 0.9812,
+      "box": [
+        116,
+        90,
+        407,
+        121
+      ]
+    },
+    {
+      "text": "IA, USA|+1-702-283-4861 | lukas.williams@example.com",
+      "score": 0.9458,
+      "box": [
+        116,
+        151,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.982,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidCraft Contractors, 2021.01–2023.01",
+      "score": 0.9877,
+      "box": [
+        116,
+        291,
+        711,
+        311
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.989,
+      "box": [
+        125,
+        314,
+        493,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.9878,
+      "box": [
+        127,
+        340,
+        511,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Structural Technology, Meadowridge Valley High School, 2020",
+      "score": 0.9946,
+      "box": [
+        116,
+        449,
+        956,
+        473
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural anchoring",
+      "score": 0.9767,
+      "box": [
+        133,
+        474,
+        572,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "LUKAS WILLIAMS\nIA, USA|+1-702-283-4861 | lukas.williams@example.com\nWORK HISTORY\nConstruction Laborers, SolidCraft Contractors, 2021.01–2023.01\n- Assisted with equipment maintenance\n- Prepared surfaces for construction work\nEDUCATION\nHigh school graduate/GED, Structural Technology, Meadowridge Valley High School, 2020\n• Completed coursework in structural anchoring"
+}

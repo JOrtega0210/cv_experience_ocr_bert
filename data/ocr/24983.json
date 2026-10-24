@@ -1,0 +1,161 @@
+{
+  "id": "24983",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.789,
+  "n_lines": 11,
+  "mean_score": 0.9788,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KELLY ORTEGA",
+      "score": 0.9809,
+      "box": [
+        116,
+        90,
+        379,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA|+1-870-584-6911 |kelly.ortega@example.com",
+      "score": 0.9693,
+      "box": [
+        116,
+        152,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9898,
+      "box": [
+        116,
+        244,
+        315,
+        268
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Meadow School, 2021.12–2023.01",
+      "score": 0.9748,
+      "box": [
+        116,
+        290,
+        845,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with small group instruction activities",
+      "score": 0.9571,
+      "box": [
+        125,
+        314,
+        564,
+        337
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9982,
+      "box": [
+        126,
+        339,
+        460,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Early Childhood Education, North Ridge University, 2022",
+      "score": 0.9634,
+      "box": [
+        115,
+        449,
+        732,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Basic Education Studies, Canyon View University, 2020",
+      "score": 0.9759,
+      "box": [
+        115,
+        474,
+        740,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of content delivery",
+      "score": 0.971,
+      "box": [
+        134,
+        499,
+        487,
+        523
+      ]
+    },
+    {
+      "text": "• Studied principles of learner diversity",
+      "score": 0.9875,
+      "box": [
+        133,
+        523,
+        488,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "KELLY ORTEGA\nMD, USA|+1-870-584-6911 |kelly.ortega@example.com\nWORK HISTORY\nElementary Middle School Teachers, Bright Meadow School, 2021.12–2023.01\n- Assisted with small group instruction activities\n- Assisted with science experiments\nEDUCATION\nMaster's, Early Childhood Education, North Ridge University, 2022\nBachelor's, Basic Education Studies, Canyon View University, 2020\n• Studied principles of content delivery\n• Studied principles of learner diversity"
+}

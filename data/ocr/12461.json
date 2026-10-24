@@ -1,0 +1,239 @@
+{
+  "id": "12461",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.011,
+  "n_lines": 17,
+  "mean_score": 0.9814,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MAYRA MACK",
+      "score": 0.9728,
+      "box": [
+        116,
+        90,
+        350,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-350-760-6911 |mayra.mack@example.com",
+      "score": 0.9821,
+      "box": [
+        115,
+        150,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9805,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenLedger Services, 2020.08–2023.01",
+      "score": 0.976,
+      "box": [
+        115,
+        289,
+        699,
+        313
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9894,
+      "box": [
+        127,
+        314,
+        516,
+        338
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9511,
+      "box": [
+        126,
+        339,
+        525,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Group, 2018.03–2020.08",
+      "score": 0.9922,
+      "box": [
+        114,
+        381,
+        684,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed payroll reconciliations",
+      "score": 0.9813,
+      "box": [
+        126,
+        407,
+        440,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared tax compliance filings",
+      "score": 0.989,
+      "box": [
+        126,
+        431,
+        433,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBook Accounting, 2015.10–2018.03",
+      "score": 0.9856,
+      "box": [
+        114,
+        471,
+        707,
+        496
+      ]
+    },
+    {
+      "text": "- Reconciled bank statements",
+      "score": 0.9784,
+      "box": [
+        126,
+        496,
+        405,
+        521
+      ]
+    },
+    {
+      "text": "– Maintained vendor records",
+      "score": 0.9636,
+      "box": [
+        126,
+        522,
+        389,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Financial Services, Silverwood University, 2020",
+      "score": 0.994,
+      "box": [
+        115,
+        632,
+        646,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Forensic Accounting, Greenfield University, 2018",
+      "score": 0.9758,
+      "box": [
+        114,
+        656,
+        678,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in international taxation basics",
+      "score": 0.9887,
+      "box": [
+        134,
+        682,
+        647,
+        705
+      ]
+    },
+    {
+      "text": "• Completed coursework in derivative accounting basics",
+      "score": 0.9844,
+      "box": [
+        133,
+        706,
+        649,
+        731
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "MAYRA MACK\nFL, USA|+1-350-760-6911 |mayra.mack@example.com\nWORK HISTORY\nAccountants Auditors, OpenLedger Services, 2020.08–2023.01\n- Directed enterprise accounting platforms\n- Developed regulatory reporting strategies\nAccountants Auditors, CoreBalance Group, 2018.03–2020.08\n- Reviewed payroll reconciliations\n- Prepared tax compliance filings\nAccountants Auditors, OpenBook Accounting, 2015.10–2018.03\n- Reconciled bank statements\n– Maintained vendor records\nEDUCATION\nMaster's, Financial Services, Silverwood University, 2020\nBachelor's, Forensic Accounting, Greenfield University, 2018\n• Completed coursework in international taxation basics\n• Completed coursework in derivative accounting basics"
+}

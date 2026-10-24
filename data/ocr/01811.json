@@ -1,0 +1,187 @@
+{
+  "id": "01811",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.9,
+  "n_lines": 13,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CHLOE WHITNEY",
+      "score": 0.9622,
+      "box": [
+        115,
+        87,
+        400,
+        123
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-827-254-4904|chloe.whitney@example.com",
+      "score": 0.9871,
+      "box": [
+        116,
+        151,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9789,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleBridge Health, 2021.04–2023.01",
+      "score": 0.9937,
+      "box": [
+        116,
+        290,
+        662,
+        313
+      ]
+    },
+    {
+      "text": "- Directed clinical training standards",
+      "score": 0.9843,
+      "box": [
+        125,
+        313,
+        460,
+        338
+      ]
+    },
+    {
+      "text": "- Developed staffing allocation models",
+      "score": 0.9705,
+      "box": [
+        127,
+        340,
+        482,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindBridge Health Group, 2019.07–2021.04",
+      "score": 0.9873,
+      "box": [
+        115,
+        381,
+        707,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9835,
+      "box": [
+        126,
+        406,
+        479,
+        431
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9687,
+      "box": [
+        127,
+        432,
+        480,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Practical Nursing, Elmwood University, 2023",
+      "score": 0.9737,
+      "box": [
+        115,
+        541,
+        635,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing informatics basics",
+      "score": 0.9974,
+      "box": [
+        134,
+        566,
+        629,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of infection control",
+      "score": 0.9877,
+      "box": [
+        134,
+        591,
+        489,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "CHLOE WHITNEY\nAZ, USA|+1-827-254-4904|chloe.whitney@example.com\nWORK HISTORY\nRegistered Nurses, GentleBridge Health, 2021.04–2023.01\n- Directed clinical training standards\n- Developed staffing allocation models\nRegistered Nurses, KindBridge Health Group, 2019.07–2021.04\n- Prepared medical equipment for use\n- Provided patient education materials\nEDUCATION\nBachelor's, Practical Nursing, Elmwood University, 2023\n• Completed coursework in nursing informatics basics\n• Studied principles of infection control"
+}

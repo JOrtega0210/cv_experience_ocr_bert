@@ -1,0 +1,213 @@
+{
+  "id": "27318",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.872,
+  "n_lines": 15,
+  "mean_score": 0.982,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SHAUN PHELPS",
+      "score": 0.9742,
+      "box": [
+        116,
+        90,
+        379,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-374-447-7323| shaun.phelps@example.com",
+      "score": 0.9814,
+      "box": [
+        116,
+        152,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearBuild Construction, 2020.12–2023.01",
+      "score": 0.9846,
+      "box": [
+        115,
+        290,
+        726,
+        313
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.9562,
+      "box": [
+        125,
+        314,
+        475,
+        337
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9794,
+      "box": [
+        125,
+        338,
+        407,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmRise Construction, 2018.11–2020.12",
+      "score": 0.991,
+      "box": [
+        116,
+        382,
+        715,
+        405
+      ]
+    },
+    {
+      "text": "- Set up scaffolding systems",
+      "score": 0.9657,
+      "box": [
+        125,
+        406,
+        391,
+        431
+      ]
+    },
+    {
+      "text": "- Coordinated material deliveries",
+      "score": 0.9751,
+      "box": [
+        125,
+        430,
+        431,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureLine Construction, 2013.11–2016.01",
+      "score": 0.9927,
+      "box": [
+        115,
+        472,
+        713,
+        495
+      ]
+    },
+    {
+      "text": "- Applied basic sealants and adhesives",
+      "score": 0.9912,
+      "box": [
+        126,
+        498,
+        489,
+        521
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.986,
+      "box": [
+        127,
+        522,
+        445,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Foundations, Maple Ridge High School, 2002",
+      "score": 0.9874,
+      "box": [
+        115,
+        631,
+        920,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of masonry",
+      "score": 0.9817,
+      "box": [
+        132,
+        656,
+        459,
+        681
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "SHAUN PHELPS\nMI, USA|+1-374-447-7323| shaun.phelps@example.com\nWORK HISTORY\nConstruction Laborers, ClearBuild Construction, 2020.12–2023.01\n- Developed site performance metrics\n- Established site layout plans\nConstruction Laborers, FirmRise Construction, 2018.11–2020.12\n- Set up scaffolding systems\n- Coordinated material deliveries\nConstruction Laborers, SureLine Construction, 2013.11–2016.01\n- Applied basic sealants and adhesives\n- Secured materials with fasteners\nEDUCATION\nHigh school graduate/GED, Construction Foundations, Maple Ridge High School, 2002\n• Studied fundamentals of masonry"
+}

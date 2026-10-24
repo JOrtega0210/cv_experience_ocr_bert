@@ -1,0 +1,265 @@
+{
+  "id": "48991",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.921,
+  "n_lines": 19,
+  "mean_score": 0.9806,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "VIRGINIA HODGES",
+      "score": 0.9947,
+      "box": [
+        116,
+        90,
+        421,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-693-240-6267 |virginia.hodges@example.com",
+      "score": 0.9858,
+      "box": [
+        115,
+        150,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9822,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverWay Nursing Services, 2019.06–2023.01",
+      "score": 0.9868,
+      "box": [
+        115,
+        289,
+        722,
+        314
+      ]
+    },
+    {
+      "text": "- Established clinical evaluation protocols",
+      "score": 0.9832,
+      "box": [
+        125,
+        313,
+        510,
+        339
+      ]
+    },
+    {
+      "text": "- Managed clinical risk assessments",
+      "score": 0.9763,
+      "box": [
+        126,
+        339,
+        463,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeHands Health Services, 2015.11–2019.06",
+      "score": 0.9691,
+      "box": [
+        115,
+        381,
+        721,
+        406
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.977,
+      "box": [
+        126,
+        406,
+        426,
+        431
+      ]
+    },
+    {
+      "text": "- Developed nursing policy frameworks",
+      "score": 0.9677,
+      "box": [
+        126,
+        431,
+        489,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueCare Nursing, 2012.04–2015.11",
+      "score": 0.978,
+      "box": [
+        116,
+        472,
+        639,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored patient compliance",
+      "score": 0.9527,
+      "box": [
+        125,
+        496,
+        416,
+        521
+      ]
+    },
+    {
+      "text": "- Performed advanced wound assessments",
+      "score": 0.9736,
+      "box": [
+        125,
+        521,
+        531,
+        546
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewLeaf Health Group, 2008.09–2012.04",
+      "score": 0.988,
+      "box": [
+        116,
+        565,
+        688,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobility",
+      "score": 0.972,
+      "box": [
+        125,
+        589,
+        409,
+        614
+      ]
+    },
+    {
+      "text": "- Monitored patient pain levels",
+      "score": 0.987,
+      "box": [
+        126,
+        614,
+        408,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health and Human Services, Greenridge University, 2007",
+      "score": 0.9868,
+      "box": [
+        114,
+        723,
+        757,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in pressure injury prevention",
+      "score": 0.9803,
+      "box": [
+        133,
+        749,
+        629,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient-centered care",
+      "score": 0.9907,
+      "box": [
+        133,
+        772,
+        587,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "VIRGINIA HODGES\nTN, USA|+1-693-240-6267 |virginia.hodges@example.com\nWORK HISTORY\nRegistered Nurses, EverWay Nursing Services, 2019.06–2023.01\n- Established clinical evaluation protocols\n- Managed clinical risk assessments\nRegistered Nurses, LifeHands Health Services, 2015.11–2019.06\n- Managed clinical data analysis\n- Developed nursing policy frameworks\nRegistered Nurses, TrueCare Nursing, 2012.04–2015.11\n- Monitored patient compliance\n- Performed advanced wound assessments\nRegistered Nurses, NewLeaf Health Group, 2008.09–2012.04\n- Assisted with patient mobility\n- Monitored patient pain levels\nEDUCATION\nBachelor's, Health and Human Services, Greenridge University, 2007\n• Completed coursework in pressure injury prevention\n• Completed coursework in patient-centered care"
+}

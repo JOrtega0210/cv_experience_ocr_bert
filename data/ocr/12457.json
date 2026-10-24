@@ -1,0 +1,239 @@
+{
+  "id": "12457",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.996,
+  "n_lines": 17,
+  "mean_score": 0.9833,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LIRON PUGH",
+      "score": 0.9533,
+      "box": [
+        116,
+        90,
+        329,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-895-647-5283|liron.pugh@example.com",
+      "score": 0.9864,
+      "box": [
+        115,
+        150,
+        628,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Services, 2020.05–2023.01",
+      "score": 0.9822,
+      "box": [
+        115,
+        290,
+        736,
+        313
+      ]
+    },
+    {
+      "text": "-Led internal audit functions",
+      "score": 0.989,
+      "box": [
+        126,
+        314,
+        392,
+        336
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9807,
+      "box": [
+        126,
+        339,
+        530,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Financial, 2017.09–2020.05",
+      "score": 0.9866,
+      "box": [
+        114,
+        381,
+        712,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted internal audits",
+      "score": 0.9888,
+      "box": [
+        126,
+        407,
+        380,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared management reports",
+      "score": 0.9803,
+      "box": [
+        126,
+        430,
+        427,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Advisors, 2014.12–2017.09",
+      "score": 0.9908,
+      "box": [
+        115,
+        472,
+        688,
+        495
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.9923,
+      "box": [
+        125,
+        496,
+        420,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with internal control testing",
+      "score": 0.9573,
+      "box": [
+        126,
+        521,
+        473,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Economic Studies, High Meadow University, 2017",
+      "score": 0.9858,
+      "box": [
+        115,
+        632,
+        669,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Enterprise Management, Clearway University, 2015",
+      "score": 0.9883,
+      "box": [
+        114,
+        656,
+        702,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit software tools",
+      "score": 0.9819,
+      "box": [
+        133,
+        682,
+        558,
+        704
+      ]
+    },
+    {
+      "text": "• Completed coursework in economics for accounting",
+      "score": 0.9869,
+      "box": [
+        133,
+        706,
+        626,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "LIRON PUGH\nFL, USA|+1-895-647-5283|liron.pugh@example.com\nWORK HISTORY\nAccountants Auditors, Precise Balance Services, 2020.05–2023.01\n-Led internal audit functions\n- Established reporting automation systems\nAccountants Auditors, SolidBalance Financial, 2017.09–2020.05\n- Conducted internal audits\n- Prepared management reports\nAccountants Auditors, AccuCount Advisors, 2014.12–2017.09\n- Assisted with forecasting data\n- Assisted with internal control testing\nEDUCATION\nMaster's, Economic Studies, High Meadow University, 2017\nBachelor's, Enterprise Management, Clearway University, 2015\n• Studied fundamentals of audit software tools\n• Completed coursework in economics for accounting"
+}

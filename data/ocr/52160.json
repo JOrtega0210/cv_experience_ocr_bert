@@ -1,0 +1,135 @@
+{
+  "id": "52160",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.761,
+  "n_lines": 9,
+  "mean_score": 0.9793,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JORDAN JORDAN",
+      "score": 0.9838,
+      "box": [
+        116,
+        90,
+        410,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-836-772-8074 |jordan.jordan@example.com",
+      "score": 0.9744,
+      "box": [
+        115,
+        150,
+        661,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9786,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearPath Construction, 2020.10–2023.01",
+      "score": 0.9899,
+      "box": [
+        116,
+        291,
+        722,
+        311
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9507,
+      "box": [
+        125,
+        313,
+        485,
+        338
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9664,
+      "box": [
+        126,
+        338,
+        332,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Industrial Technology, Windridge High School, 2020",
+      "score": 0.9859,
+      "box": [
+        116,
+        449,
+        856,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction site coordination",
+      "score": 0.9856,
+      "box": [
+        132,
+        472,
+        649,
+        496
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "JORDAN JORDAN\nTX, USA|+1-836-772-8074 |jordan.jordan@example.com\nWORK HISTORY\nConstruction Laborers, ClearPath Construction, 2020.10–2023.01\n- Maintained cleanliness of work areas\n- Secured site fencing\nEDUCATION\nHigh school graduate/GED, Industrial Technology, Windridge High School, 2020\n• Studied fundamentals of construction site coordination"
+}

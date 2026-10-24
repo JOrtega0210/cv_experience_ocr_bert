@@ -1,0 +1,174 @@
+{
+  "id": "30357",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.846,
+  "n_lines": 12,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANTONIOCOLE",
+      "score": 0.9985,
+      "box": [
+        115,
+        88,
+        376,
+        122
+      ]
+    },
+    {
+      "text": "MO, USA|+1-930-966-8930|antonio.cole@example.com",
+      "score": 0.9805,
+      "box": [
+        115,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9463,
+      "box": [
+        114,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronBuild Contractors, 2020.08–2023.01",
+      "score": 0.9794,
+      "box": [
+        114,
+        288,
+        703,
+        313
+      ]
+    },
+    {
+      "text": "-Directed construction audits",
+      "score": 0.995,
+      "box": [
+        126,
+        314,
+        399,
+        336
+      ]
+    },
+    {
+      "text": "- Established material procurement strategies",
+      "score": 0.9856,
+      "box": [
+        126,
+        339,
+        550,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Craft Builders, 2015.09–2018.03",
+      "score": 0.9799,
+      "box": [
+        116,
+        382,
+        705,
+        405
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.9691,
+      "box": [
+        126,
+        407,
+        474,
+        429
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9862,
+      "box": [
+        126,
+        431,
+        435,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Welding Technology, Silverview High School, 2010",
+      "score": 0.9912,
+      "box": [
+        116,
+        541,
+        848,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction materials storage",
+      "score": 0.9805,
+      "box": [
+        133,
+        564,
+        668,
+        590
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "ANTONIOCOLE\nMO, USA|+1-930-966-8930|antonio.cole@example.com\nWORK HISTORY\nConstruction Laborers, IronBuild Contractors, 2020.08–2023.01\n-Directed construction audits\n- Established material procurement strategies\nConstruction Laborers, Unified Craft Builders, 2015.09–2018.03\n- Marked measurements on materials\n- Installed temporary site barriers\nEDUCATION\nHigh school graduate/GED, Welding Technology, Silverview High School, 2010\n• Completed coursework in construction materials storage"
+}

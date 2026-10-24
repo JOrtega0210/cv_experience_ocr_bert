@@ -1,0 +1,226 @@
+{
+  "id": "58751",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.847,
+  "n_lines": 16,
+  "mean_score": 0.9839,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MICHELLE LEE",
+      "score": 0.983,
+      "box": [
+        116,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-345-610-8671 |michelle.lee@example.com",
+      "score": 0.9787,
+      "box": [
+        114,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelINest Medical Group, 2019.09–2023.01",
+      "score": 0.9719,
+      "box": [
+        115,
+        289,
+        699,
+        314
+      ]
+    },
+    {
+      "text": "- Developed interdisciplinary care strategies",
+      "score": 0.9759,
+      "box": [
+        126,
+        314,
+        534,
+        339
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.9843,
+      "box": [
+        126,
+        339,
+        426,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Touch Health, 2016.05–2019.09",
+      "score": 0.9784,
+      "box": [
+        115,
+        381,
+        667,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored patient response to treatments",
+      "score": 0.9878,
+      "box": [
+        126,
+        406,
+        522,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with emergency interventions",
+      "score": 0.9861,
+      "box": [
+        126,
+        431,
+        497,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Hands Medical, 2010.10–2014.02",
+      "score": 0.9918,
+      "box": [
+        116,
+        472,
+        690,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared intravenous solutions",
+      "score": 0.9815,
+      "box": [
+        125,
+        498,
+        430,
+        521
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.9888,
+      "box": [
+        126,
+        521,
+        453,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Management, Northfield University, 2003",
+      "score": 0.9821,
+      "box": [
+        114,
+        631,
+        670,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of population health",
+      "score": 0.9882,
+      "box": [
+        132,
+        656,
+        501,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of evidence-based practice",
+      "score": 0.9798,
+      "box": [
+        134,
+        681,
+        568,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "MICHELLE LEE\nWA, USA|+1-345-610-8671 |michelle.lee@example.com\nWORK HISTORY\nRegistered Nurses, WelINest Medical Group, 2019.09–2023.01\n- Developed interdisciplinary care strategies\n- Managed clinical data analysis\nRegistered Nurses, Caring Touch Health, 2016.05–2019.09\n- Monitored patient response to treatments\n- Assisted with emergency interventions\nRegistered Nurses, Helping Hands Medical, 2010.10–2014.02\n- Prepared intravenous solutions\n- Documented patient observations\nEDUCATION\nBachelor's, Health Management, Northfield University, 2003\n• Studied principles of population health\n• Studied principles of evidence-based practice"
+}

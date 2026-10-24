@@ -1,0 +1,148 @@
+{
+  "id": "13759",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.842,
+  "n_lines": 10,
+  "mean_score": 0.9865,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AMYDOUGLAS",
+      "score": 0.9985,
+      "box": [
+        116,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-698-831-7011 |amy.douglas@example.com",
+      "score": 0.9799,
+      "box": [
+        116,
+        151,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9815,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Way Care, 2019.03–2020.09",
+      "score": 0.9781,
+      "box": [
+        115,
+        289,
+        645,
+        314
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.9852,
+      "box": [
+        125,
+        313,
+        418,
+        339
+      ]
+    },
+    {
+      "text": "- Checked laboratory results",
+      "score": 0.9809,
+      "box": [
+        126,
+        338,
+        391,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Mental Health Studies, Briarwood University, 2015",
+      "score": 0.9826,
+      "box": [
+        114,
+        447,
+        691,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in oncology nursing basics",
+      "score": 0.9898,
+      "box": [
+        133,
+        474,
+        613,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient safety culture",
+      "score": 0.9896,
+      "box": [
+        134,
+        499,
+        582,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "AMYDOUGLAS\nFL, USA|+1-698-831-7011 |amy.douglas@example.com\nWORK HISTORY\nRegistered Nurses, Helping Way Care, 2019.03–2020.09\n- Assisted with feeding patients\n- Checked laboratory results\nEDUCATION\nBachelor's, Mental Health Studies, Briarwood University, 2015\n• Completed coursework in oncology nursing basics\n• Completed coursework in patient safety culture"
+}

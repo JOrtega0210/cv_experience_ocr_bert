@@ -1,0 +1,161 @@
+{
+  "id": "35190",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.811,
+  "n_lines": 11,
+  "mean_score": 0.9833,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MIRANDA HAHN",
+      "score": 0.9874,
+      "box": [
+        116,
+        90,
+        381,
+        120
+      ]
+    },
+    {
+      "text": "NY, USA|+1-627-596-1368|miranda.hahn@example.com",
+      "score": 0.9853,
+      "box": [
+        115,
+        150,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9742,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Advisors, 2021.05–2023.01",
+      "score": 0.9785,
+      "box": [
+        116,
+        291,
+        719,
+        311
+      ]
+    },
+    {
+      "text": "-Reviewed credit memos",
+      "score": 0.9825,
+      "box": [
+        125,
+        313,
+        366,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.9923,
+      "box": [
+        126,
+        339,
+        423,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        266,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Quantitative Finance, Forestfield University, 223",
+      "score": 0.9746,
+      "box": [
+        115,
+        449,
+        663,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Accounting, Oakview University, 2021",
+      "score": 0.9751,
+      "box": [
+        115,
+        473,
+        650,
+        496
+      ]
+    },
+    {
+      "text": "• Completed coursework in public sector accounting",
+      "score": 0.9876,
+      "box": [
+        134,
+        499,
+        613,
+        523
+      ]
+    },
+    {
+      "text": "• Completed coursework in governmental accounting basics",
+      "score": 0.9801,
+      "box": [
+        134,
+        523,
+        687,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "MIRANDA HAHN\nNY, USA|+1-627-596-1368|miranda.hahn@example.com\nWORK HISTORY\nAccountants Auditors, Balanced Path Advisors, 2021.05–2023.01\n-Reviewed credit memos\n- Assisted with inventory counts\nEDUCATION\nMaster's, Quantitative Finance, Forestfield University, 223\nBachelor's, Applied Accounting, Oakview University, 2021\n• Completed coursework in public sector accounting\n• Completed coursework in governmental accounting basics"
+}

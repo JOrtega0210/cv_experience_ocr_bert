@@ -1,0 +1,148 @@
+{
+  "id": "19807",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.759,
+  "n_lines": 10,
+  "mean_score": 0.984,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARCUS FRANK",
+      "score": 0.9856,
+      "box": [
+        116,
+        90,
+        391,
+        121
+      ]
+    },
+    {
+      "text": "IN, USA|+1-989-350-4903 |marcus.frank@example.com",
+      "score": 0.9799,
+      "box": [
+        116,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9815,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Financial, 2020.08–2023.01",
+      "score": 0.991,
+      "box": [
+        115,
+        290,
+        703,
+        313
+      ]
+    },
+    {
+      "text": "-Filed financial documents",
+      "score": 0.9837,
+      "box": [
+        125,
+        313,
+        379,
+        338
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9897,
+      "box": [
+        125,
+        338,
+        550,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Economics, Riverbend University, 2019",
+      "score": 0.9687,
+      "box": [
+        114,
+        447,
+        680,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit software tools",
+      "score": 0.9796,
+      "box": [
+        133,
+        473,
+        558,
+        495
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of internal controls",
+      "score": 0.9813,
+      "box": [
+        133,
+        498,
+        527,
+        521
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "MARCUS FRANK\nIN, USA|+1-989-350-4903 |marcus.frank@example.com\nWORK HISTORY\nAccountants Auditors, ClearLedger Financial, 2020.08–2023.01\n-Filed financial documents\n- Processed accounts receivable transactions\nEDUCATION\nBachelor's, Business Economics, Riverbend University, 2019\n• Studied fundamentals of audit software tools\n• Studied fundamentals of internal controls"
+}

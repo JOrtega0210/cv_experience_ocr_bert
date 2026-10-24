@@ -1,0 +1,161 @@
+{
+  "id": "40211",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.822,
+  "n_lines": 11,
+  "mean_score": 0.9862,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BREANA BURGESS",
+      "score": 0.9875,
+      "box": [
+        117,
+        90,
+        435,
+        121
+      ]
+    },
+    {
+      "text": "NC, USA|+1-762-710-1932|breana.burgess@example.com",
+      "score": 0.9761,
+      "box": [
+        115,
+        150,
+        687,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9828,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Accounting, 2020.04–2023.01",
+      "score": 0.9782,
+      "box": [
+        114,
+        289,
+        725,
+        313
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.995,
+      "box": [
+        126,
+        313,
+        414,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9948,
+      "box": [
+        126,
+        339,
+        453,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Strategic Management, Brookhaven University, 2018",
+      "score": 0.9776,
+      "box": [
+        115,
+        449,
+        696,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Administration, Prairie Ridge University, 2016",
+      "score": 0.9811,
+      "box": [
+        114,
+        472,
+        737,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of variance analysis",
+      "score": 0.9855,
+      "box": [
+        134,
+        499,
+        539,
+        522
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of documentation standards",
+      "score": 0.9913,
+      "box": [
+        134,
+        524,
+        612,
+        544
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "BREANA BURGESS\nNC, USA|+1-762-710-1932|breana.burgess@example.com\nWORK HISTORY\nAccountants Auditors, EverBalance Accounting, 2020.04–2023.01\n- Verified financial transactions\n- Reviewed expense classifications\nEDUCATION\nMaster's, Strategic Management, Brookhaven University, 2018\nBachelor's, Business Administration, Prairie Ridge University, 2016\n• Studied fundamentals of variance analysis\n• Studied fundamentals of documentation standards"
+}

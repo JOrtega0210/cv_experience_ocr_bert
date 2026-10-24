@@ -1,0 +1,226 @@
+{
+  "id": "46023",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.817,
+  "n_lines": 16,
+  "mean_score": 0.9787,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAMES WELCH",
+      "score": 0.9791,
+      "box": [
+        116,
+        90,
+        366,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-664-601-6882 |james.welch@example.com",
+      "score": 0.9854,
+      "box": [
+        115,
+        150,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudcrest Labs, 2019.12–2023.01",
+      "score": 0.9829,
+      "box": [
+        114,
+        288,
+        646,
+        313
+      ]
+    },
+    {
+      "text": "- Led technical audits",
+      "score": 0.9746,
+      "box": [
+        127,
+        315,
+        327,
+        336
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9556,
+      "box": [
+        127,
+        340,
+        454,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudridge Tech, 2016.11–2019.12",
+      "score": 0.9836,
+      "box": [
+        115,
+        381,
+        650,
+        406
+      ]
+    },
+    {
+      "text": "- Designed batch processing jobs",
+      "score": 0.982,
+      "box": [
+        126,
+        406,
+        439,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented caching strategies",
+      "score": 0.973,
+      "box": [
+        126,
+        430,
+        437,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Softstack Labs, 2012.01–2015.02",
+      "score": 0.9829,
+      "box": [
+        116,
+        472,
+        634,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9721,
+      "box": [
+        126,
+        498,
+        421,
+        522
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.9513,
+      "box": [
+        127,
+        522,
+        376,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearwood University, 2003",
+      "score": 0.9936,
+      "box": [
+        115,
+        632,
+        482,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in logic and computation",
+      "score": 0.9764,
+      "box": [
+        133,
+        656,
+        593,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of hardware-software integration",
+      "score": 0.982,
+      "box": [
+        133,
+        681,
+        654,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JAMES WELCH\nPA, USA|+1-664-601-6882 |james.welch@example.com\nWORK HISTORY\nSoftware Developers, Cloudcrest Labs, 2019.12–2023.01\n- Led technical audits\n- Led performance tuning initiatives\nSoftware Developers, Cloudridge Tech, 2016.11–2019.12\n- Designed batch processing jobs\n- Implemented caching strategies\nSoftware Developers, Softstack Labs, 2012.01–2015.02\n- Implemented REST endpoints\n- Resolved merge conflicts\nEDUCATION\nBachelor's, Clearwood University, 2003\n• Completed coursework in logic and computation\n• Studied fundamentals of hardware-software integration"
+}

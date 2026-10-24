@@ -1,0 +1,200 @@
+{
+  "id": "13792",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.947,
+  "n_lines": 14,
+  "mean_score": 0.9863,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JONATHAN GILBERT",
+      "score": 0.9714,
+      "box": [
+        114,
+        87,
+        461,
+        123
+      ]
+    },
+    {
+      "text": "FL, USA|+1-773-378-9959 |jonathan.gilbert@example.com",
+      "score": 0.9906,
+      "box": [
+        116,
+        151,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Advisors, 2020.09–2023.01",
+      "score": 0.9927,
+      "box": [
+        115,
+        290,
+        704,
+        312
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9857,
+      "box": [
+        126,
+        315,
+        517,
+        338
+      ]
+    },
+    {
+      "text": "- Developed risk management frameworks",
+      "score": 0.9784,
+      "box": [
+        126,
+        339,
+        521,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Group, 2015.06–2017.11",
+      "score": 0.9869,
+      "box": [
+        115,
+        382,
+        664,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.9888,
+      "box": [
+        125,
+        406,
+        420,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9828,
+      "box": [
+        127,
+        432,
+        452,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Enterprise Management, Oakway University, 2011",
+      "score": 0.9962,
+      "box": [
+        115,
+        541,
+        671,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Corporate Finance, Bright Ridge University, 2009",
+      "score": 0.9802,
+      "box": [
+        115,
+        566,
+        680,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting ethics",
+      "score": 0.9919,
+      "box": [
+        135,
+        591,
+        551,
+        614
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting case analysis",
+      "score": 0.9813,
+      "box": [
+        134,
+        615,
+        622,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "JONATHAN GILBERT\nFL, USA|+1-773-378-9959 |jonathan.gilbert@example.com\nWORK HISTORY\nAccountants Auditors, SteadyCount Advisors, 2020.09–2023.01\n- Directed enterprise accounting platforms\n- Developed risk management frameworks\nAccountants Auditors, FairLedger Group, 2015.06–2017.11\n- Assisted with forecasting data\n- Reviewed expense classifications\nEDUCATION\nMaster's, Enterprise Management, Oakway University, 2011\nBachelor's, Corporate Finance, Bright Ridge University, 2009\n• Completed coursework in accounting ethics\n• Completed coursework in accounting case analysis"
+}

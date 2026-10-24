@@ -1,0 +1,148 @@
+{
+  "id": "01596",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.831,
+  "n_lines": 10,
+  "mean_score": 0.9812,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JENNA GARRETT",
+      "score": 0.9626,
+      "box": [
+        116,
+        90,
+        402,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA |+1-708-246-7627 |jenna.garrett@example.com",
+      "score": 0.9732,
+      "box": [
+        116,
+        152,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9823,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleLife Nursing, 2021.03–2022.01",
+      "score": 0.99,
+      "box": [
+        116,
+        290,
+        647,
+        313
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9755,
+      "box": [
+        125,
+        313,
+        365,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9875,
+      "box": [
+        126,
+        339,
+        479,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Public Health, Cedar Valley University, 2019",
+      "score": 0.9599,
+      "box": [
+        114,
+        447,
+        635,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of intravenous therapy",
+      "score": 0.9922,
+      "box": [
+        132,
+        471,
+        563,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of infection diseases nursing",
+      "score": 0.9904,
+      "box": [
+        132,
+        496,
+        619,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JENNA GARRETT\nAZ, USA |+1-708-246-7627 |jenna.garrett@example.com\nWORK HISTORY\nRegistered Nurses, GentleLife Nursing, 2021.03–2022.01\n- Recorded nursing notes\n- Prepared medical equipment for use\nEDUCATION\nBachelor's, Public Health, Cedar Valley University, 2019\n• Studied fundamentals of intravenous therapy\n• Studied fundamentals of infection diseases nursing"
+}

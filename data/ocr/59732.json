@@ -1,0 +1,187 @@
+{
+  "id": "59732",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.78,
+  "n_lines": 13,
+  "mean_score": 0.9776,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RICARDO BRADSHAW",
+      "score": 0.975,
+      "box": [
+        117,
+        90,
+        482,
+        120
+      ]
+    },
+    {
+      "text": "WA, USA|+1-862-480-8681 |ricardo.bradshaw@example.com",
+      "score": 0.9787,
+      "box": [
+        114,
+        150,
+        706,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9858,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudframe Digital, 2020.03–22.07",
+      "score": 0.9726,
+      "box": [
+        115,
+        290,
+        668,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.981,
+      "box": [
+        126,
+        315,
+        500,
+        338
+      ]
+    },
+    {
+      "text": "- Led technical audits",
+      "score": 0.9641,
+      "box": [
+        125,
+        338,
+        327,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Ironleaf Tech, 2017.02–2019.06",
+      "score": 0.9802,
+      "box": [
+        115,
+        382,
+        619,
+        405
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9937,
+      "box": [
+        126,
+        407,
+        403,
+        430
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9611,
+      "box": [
+        126,
+        430,
+        418,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Cedarview University, 2006",
+      "score": 0.9711,
+      "box": [
+        115,
+        541,
+        480,
+        564
+      ]
+    },
+    {
+      "text": "•Studied principles of modular design",
+      "score": 0.96,
+      "box": [
+        132,
+        565,
+        483,
+        588
+      ]
+    },
+    {
+      "text": "• Completed coursework in performance benchmarking",
+      "score": 0.9875,
+      "box": [
+        133,
+        590,
+        642,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "RICARDO BRADSHAW\nWA, USA|+1-862-480-8681 |ricardo.bradshaw@example.com\nWORK HISTORY\nSoftware Developers, Cloudframe Digital, 2020.03–22.07\n- Implemented infrastructure automation\n- Led technical audits\nSoftware Developers, Ironleaf Tech, 2017.02–2019.06\n- Participated in code reviews\n- Implemented logging features\nEDUCATION\nBachelor's, Cedarview University, 2006\n•Studied principles of modular design\n• Completed coursework in performance benchmarking"
+}

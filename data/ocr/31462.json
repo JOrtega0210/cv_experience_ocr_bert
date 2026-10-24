@@ -1,0 +1,187 @@
+{
+  "id": "31462",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.817,
+  "n_lines": 13,
+  "mean_score": 0.9807,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANDREW MELTON",
+      "score": 0.967,
+      "box": [
+        117,
+        90,
+        419,
+        121
+      ]
+    },
+    {
+      "text": "MT, USA |+1-304-478-3384 | andrew.melton@example.com",
+      "score": 0.9745,
+      "box": [
+        116,
+        152,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonegrid Tech, 2021.01–2023.01",
+      "score": 0.9866,
+      "box": [
+        116,
+        290,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9834,
+      "box": [
+        125,
+        314,
+        450,
+        339
+      ]
+    },
+    {
+      "text": "- Defined API standards",
+      "score": 0.962,
+      "box": [
+        125,
+        338,
+        352,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpath Systems, 2018.12–2021.01",
+      "score": 0.9879,
+      "box": [
+        115,
+        381,
+        666,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented basic authentication logic",
+      "score": 0.9815,
+      "box": [
+        126,
+        406,
+        502,
+        431
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.995,
+      "box": [
+        127,
+        433,
+        462,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Harborview University, 2019",
+      "score": 0.9547,
+      "box": [
+        115,
+        541,
+        487,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of build systems",
+      "score": 0.9798,
+      "box": [
+        132,
+        565,
+        506,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in project documentation",
+      "score": 0.9942,
+      "box": [
+        134,
+        590,
+        594,
+        613
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ANDREW MELTON\nMT, USA |+1-304-478-3384 | andrew.melton@example.com\nWORK HISTORY\nSoftware Developers, Stonegrid Tech, 2021.01–2023.01\n- Defined data governance policies\n- Defined API standards\nSoftware Developers, Flowpath Systems, 2018.12–2021.01\n- Implemented basic authentication logic\n- Updated application dependencies\nEDUCATION\nBachelor's, Harborview University, 2019\n• Studied fundamentals of build systems\n• Completed coursework in project documentation"
+}

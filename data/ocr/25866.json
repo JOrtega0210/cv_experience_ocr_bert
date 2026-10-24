@@ -1,0 +1,200 @@
+{
+  "id": "25866",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.796,
+  "n_lines": 14,
+  "mean_score": 0.981,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AARON VU",
+      "score": 0.9374,
+      "box": [
+        116,
+        90,
+        296,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-598-788-3146 |aaron.vu@example.com",
+      "score": 0.9807,
+      "box": [
+        115,
+        150,
+        625,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Labs, 2020.02–2023.01",
+      "score": 0.9878,
+      "box": [
+        115,
+        290,
+        619,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.9773,
+      "box": [
+        126,
+        314,
+        538,
+        339
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9609,
+      "box": [
+        126,
+        338,
+        410,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Flowbyte Systems, 2017.03–2020.02",
+      "score": 0.986,
+      "box": [
+        115,
+        381,
+        666,
+        406
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9947,
+      "box": [
+        126,
+        407,
+        403,
+        430
+      ]
+    },
+    {
+      "text": "- Updated monitoring dashboards",
+      "score": 0.9904,
+      "box": [
+        126,
+        431,
+        439,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Redwood University, 2017",
+      "score": 0.9652,
+      "box": [
+        116,
+        542,
+        450,
+        562
+      ]
+    },
+    {
+      "text": "Bachelor's, Woodcrest University, 2015",
+      "score": 0.9857,
+      "box": [
+        115,
+        565,
+        481,
+        588
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of refactoring techniques",
+      "score": 0.9958,
+      "box": [
+        132,
+        590,
+        585,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in clean code principles",
+      "score": 0.9881,
+      "box": [
+        133,
+        615,
+        585,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "AARON VU\nMA, USA|+1-598-788-3146 |aaron.vu@example.com\nWORK HISTORY\nSoftware Developers, Softgrid Labs, 2020.02–2023.01\n- Implemented long-term maintenance plans\n- Defined scalability roadmaps\nSoftware Developers, Flowbyte Systems, 2017.03–2020.02\n- Participated in code reviews\n- Updated monitoring dashboards\nEDUCATION\nMaster's, Redwood University, 2017\nBachelor's, Woodcrest University, 2015\n• Studied fundamentals of refactoring techniques\n• Completed coursework in clean code principles"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "60290",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.885,
+  "n_lines": 16,
+  "mean_score": 0.9762,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "THERESA LEWIS",
+      "score": 0.9731,
+      "box": [
+        115,
+        90,
+        392,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-392-982-5688|theresa.lewis@example.com",
+      "score": 0.9812,
+      "box": [
+        115,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9808,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearBridge Health Group, 2020.11–2023.01",
+      "score": 0.9835,
+      "box": [
+        115,
+        289,
+        714,
+        314
+      ]
+    },
+    {
+      "text": "- Directed care coordination strategies",
+      "score": 0.9591,
+      "box": [
+        126,
+        313,
+        482,
+        339
+      ]
+    },
+    {
+      "text": "- Managed clinical compliance programs",
+      "score": 0.9736,
+      "box": [
+        127,
+        339,
+        503,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunHands Care Group, 2018.09–2020.11",
+      "score": 0.9751,
+      "box": [
+        115,
+        381,
+        687,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored fluid and electrolyte balance",
+      "score": 0.9777,
+      "box": [
+        125,
+        406,
+        499,
+        431
+      ]
+    },
+    {
+      "text": "- Monitored patient compliance",
+      "score": 0.9538,
+      "box": [
+        126,
+        430,
+        415,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHope Care Center, 2016.06–2018.09",
+      "score": 0.9891,
+      "box": [
+        116,
+        472,
+        687,
+        496
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.9635,
+      "box": [
+        125,
+        496,
+        471,
+        522
+      ]
+    },
+    {
+      "text": "- Prepared medication trays",
+      "score": 0.9754,
+      "box": [
+        126,
+        521,
+        387,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Services, Clearfield University, 2016",
+      "score": 0.9761,
+      "box": [
+        114,
+        631,
+        627,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in communication in care teams",
+      "score": 0.9847,
+      "box": [
+        133,
+        656,
+        661,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of vital signs monitoring",
+      "score": 0.9729,
+      "box": [
+        133,
+        681,
+        573,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "THERESA LEWIS\nWI, USA|+1-392-982-5688|theresa.lewis@example.com\nWORK HISTORY\nRegistered Nurses, ClearBridge Health Group, 2020.11–2023.01\n- Directed care coordination strategies\n- Managed clinical compliance programs\nRegistered Nurses, SunHands Care Group, 2018.09–2020.11\n- Monitored fluid and electrolyte balance\n- Monitored patient compliance\nRegistered Nurses, NewHope Care Center, 2016.06–2018.09\n- Recorded patient weight and height\n- Prepared medication trays\nEDUCATION\nBachelor's, Health Services, Clearfield University, 2016\n• Completed coursework in communication in care teams\n• Studied fundamentals of vital signs monitoring"
+}

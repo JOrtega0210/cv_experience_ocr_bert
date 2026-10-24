@@ -1,0 +1,187 @@
+{
+  "id": "27886",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.872,
+  "n_lines": 13,
+  "mean_score": 0.9835,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KELLY WEEKS",
+      "score": 0.9593,
+      "box": [
+        116,
+        90,
+        359,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-963-828-6545 |kelly.weeks@example.com",
+      "score": 0.9834,
+      "box": [
+        115,
+        150,
+        642,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9763,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Path School, 2020.01–2022.04",
+      "score": 0.9863,
+      "box": [
+        115,
+        289,
+        848,
+        314
+      ]
+    },
+    {
+      "text": "- Directed cross-grade curriculum alignment",
+      "score": 0.98,
+      "box": [
+        126,
+        314,
+        535,
+        338
+      ]
+    },
+    {
+      "text": "- Developed long-term instructional strategies",
+      "score": 0.9784,
+      "box": [
+        126,
+        339,
+        550,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Path Academy, 2016.06–2018.09",
+      "score": 0.9877,
+      "box": [
+        115,
+        381,
+        860,
+        406
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.9927,
+      "box": [
+        126,
+        406,
+        518,
+        431
+      ]
+    },
+    {
+      "text": "- Managed classroom supplies",
+      "score": 0.9791,
+      "box": [
+        125,
+        430,
+        412,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Child and Family Studies, Cedarfield University, 2015",
+      "score": 0.9798,
+      "box": [
+        114,
+        539,
+        719,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic content planning",
+      "score": 0.9881,
+      "box": [
+        133,
+        565,
+        637,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson delivery techniques",
+      "score": 0.9967,
+      "box": [
+        134,
+        590,
+        634,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KELLY WEEKS\nMI, USA|+1-963-828-6545 |kelly.weeks@example.com\nWORK HISTORY\nElementary Middle School Teachers, Discovery Path School, 2020.01–2022.04\n- Directed cross-grade curriculum alignment\n- Developed long-term instructional strategies\nElementary Middle School Teachers, Learning Path Academy, 2016.06–2018.09\n- Supported standardized testing sessions\n- Managed classroom supplies\nEDUCATION\nBachelor's, Child and Family Studies, Cedarfield University, 2015\n• Completed coursework in academic content planning\n• Completed coursework in lesson delivery techniques"
+}

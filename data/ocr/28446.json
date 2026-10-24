@@ -1,0 +1,174 @@
+{
+  "id": "28446",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.867,
+  "n_lines": 12,
+  "mean_score": 0.9814,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TYLER KEMP",
+      "score": 0.9781,
+      "box": [
+        115,
+        90,
+        334,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-988-422-6385|tyler.kemp@example.com",
+      "score": 0.9892,
+      "box": [
+        115,
+        150,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.989,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureStone Construction, 2020.07–2023.01",
+      "score": 0.9846,
+      "box": [
+        115,
+        289,
+        727,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed workflow efficiency reports",
+      "score": 0.9798,
+      "box": [
+        125,
+        313,
+        485,
+        339
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.9792,
+      "box": [
+        127,
+        340,
+        486,
+        360
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidCraft Contractors, 2016.11–2019.06",
+      "score": 0.9726,
+      "box": [
+        115,
+        381,
+        714,
+        405
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9814,
+      "box": [
+        125,
+        405,
+        492,
+        432
+      ]
+    },
+    {
+      "text": "- Performed basic carpentry tasks",
+      "score": 0.979,
+      "box": [
+        126,
+        431,
+        442,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Equipment Technology, Lakewood High School, 2006",
+      "score": 0.9828,
+      "box": [
+        116,
+        541,
+        995,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in surveying basics",
+      "score": 0.9635,
+      "box": [
+        134,
+        566,
+        544,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "TYLER KEMP\nMN, USA|+1-988-422-6385|tyler.kemp@example.com\nWORK HISTORY\nConstruction Laborers, SureStone Construction, 2020.07–2023.01\n- Reviewed workflow efficiency reports\n- Established construction benchmarks\nConstruction Laborers, SolidCraft Contractors, 2016.11–2019.06\n- Performed basic sanding and painting\n- Performed basic carpentry tasks\nEDUCATION\nHigh school graduate/GED, Construction Equipment Technology, Lakewood High School, 2006\n• Completed coursework in surveying basics"
+}

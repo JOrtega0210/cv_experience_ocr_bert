@@ -1,0 +1,187 @@
+{
+  "id": "57824",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.86,
+  "n_lines": 13,
+  "mean_score": 0.9848,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "VALERIASTAFFORD",
+      "score": 0.9989,
+      "box": [
+        115,
+        89,
+        454,
+        120
+      ]
+    },
+    {
+      "text": "VA, USA|+1-422-513-5617|valeria.stafford@example.com",
+      "score": 0.9946,
+      "box": [
+        114,
+        150,
+        677,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.978,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Horizons Academy, 2021.06–2023.",
+      "score": 0.9821,
+      "box": [
+        114,
+        289,
+        876,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented data analysis frameworks",
+      "score": 0.9753,
+      "box": [
+        127,
+        315,
+        504,
+        338
+      ]
+    },
+    {
+      "text": "- Developed data-driven teaching models",
+      "score": 0.9915,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Start Academy, 2018.06–2020.01",
+      "score": 0.9859,
+      "box": [
+        115,
+        381,
+        833,
+        406
+      ]
+    },
+    {
+      "text": "- Maintained student folders",
+      "score": 0.9619,
+      "box": [
+        126,
+        407,
+        387,
+        429
+      ]
+    },
+    {
+      "text": "- Implemented basic classroom management procedures",
+      "score": 0.9863,
+      "box": [
+        126,
+        431,
+        656,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Studies, Bayside University, 2016",
+      "score": 0.9712,
+      "box": [
+        115,
+        541,
+        590,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication skills",
+      "score": 0.9871,
+      "box": [
+        134,
+        566,
+        693,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of learner diversity",
+      "score": 0.9916,
+      "box": [
+        133,
+        591,
+        489,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "VALERIASTAFFORD\nVA, USA|+1-422-513-5617|valeria.stafford@example.com\nWORK HISTORY\nElementary Middle School Teachers, Learning Horizons Academy, 2021.06–2023.\n- Implemented data analysis frameworks\n- Developed data-driven teaching models\nElementary Middle School Teachers, Bright Start Academy, 2018.06–2020.01\n- Maintained student folders\n- Implemented basic classroom management procedures\nEDUCATION\nBachelor's, Child Studies, Bayside University, 2016\n• Completed coursework in educational communication skills\n• Studied principles of learner diversity"
+}

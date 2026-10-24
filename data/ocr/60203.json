@@ -1,0 +1,148 @@
+{
+  "id": "60203",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.767,
+  "n_lines": 10,
+  "mean_score": 0.9808,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MADOLYN RICH",
+      "score": 0.9842,
+      "box": [
+        116,
+        90,
+        379,
+        121
+      ]
+    },
+    {
+      "text": "WV, USA|+1-217-703-1167|madolyn.rich@example.com",
+      "score": 0.9754,
+      "box": [
+        115,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9811,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueHands Care Center, 2021.08–2022.05",
+      "score": 0.9884,
+      "box": [
+        116,
+        290,
+        699,
+        313
+      ]
+    },
+    {
+      "text": "– Monitored patient dietary needs",
+      "score": 0.9592,
+      "box": [
+        127,
+        315,
+        435,
+        338
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.9828,
+      "box": [
+        126,
+        339,
+        527,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Nursing Studies, Havenwood University, 2015",
+      "score": 0.9853,
+      "box": [
+        116,
+        449,
+        729,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient discharge planning",
+      "score": 0.9724,
+      "box": [
+        132,
+        473,
+        632,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in enteral feeding basics",
+      "score": 0.9811,
+      "box": [
+        134,
+        499,
+        593,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "MADOLYN RICH\nWV, USA|+1-217-703-1167|madolyn.rich@example.com\nWORK HISTORY\nRegistered Nurses, TrueHands Care Center, 2021.08–2022.05\n– Monitored patient dietary needs\n- Administered injections under supervision\nEDUCATION\nAssociate's degree, Nursing Studies, Havenwood University, 2015\n• Completed coursework in patient discharge planning\n• Completed coursework in enteral feeding basics"
+}

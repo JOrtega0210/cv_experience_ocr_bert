@@ -1,0 +1,265 @@
+{
+  "id": "48818",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.899,
+  "n_lines": 19,
+  "mean_score": 0.9819,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SIERRA MAYER",
+      "score": 0.9777,
+      "box": [
+        116,
+        90,
+        374,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-795-992-7704 |sierra.mayer@example.com",
+      "score": 0.9757,
+      "box": [
+        115,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Care Services, 2020.05–2023.01",
+      "score": 0.9925,
+      "box": [
+        116,
+        290,
+        727,
+        313
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.9694,
+      "box": [
+        127,
+        315,
+        456,
+        338
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9882,
+      "box": [
+        126,
+        339,
+        474,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHands Care Center, 2017.09–2020.05",
+      "score": 0.9751,
+      "box": [
+        116,
+        383,
+        697,
+        406
+      ]
+    },
+    {
+      "text": "- Established clinical evaluation protocols",
+      "score": 0.9919,
+      "box": [
+        125,
+        406,
+        510,
+        431
+      ]
+    },
+    {
+      "text": "- Established quality assurance systems",
+      "score": 0.9861,
+      "box": [
+        126,
+        430,
+        500,
+        457
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewLeaf Health Group, 2014.12–2017.09",
+      "score": 0.9869,
+      "box": [
+        116,
+        473,
+        688,
+        497
+      ]
+    },
+    {
+      "text": "- Conducted quality assurance checks",
+      "score": 0.9738,
+      "box": [
+        126,
+        498,
+        482,
+        521
+      ]
+    },
+    {
+      "text": "- Managed intravenous therapy",
+      "score": 0.9765,
+      "box": [
+        126,
+        521,
+        419,
+        548
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunHands Nursing, 2009.06–2012.03",
+      "score": 0.9918,
+      "box": [
+        116,
+        565,
+        651,
+        588
+      ]
+    },
+    {
+      "text": "- Performed blood glucose testing",
+      "score": 0.9896,
+      "box": [
+        125,
+        589,
+        442,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobility",
+      "score": 0.9801,
+      "box": [
+        126,
+        614,
+        409,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Studies, Lakeside University, 208",
+      "score": 0.9703,
+      "box": [
+        114,
+        723,
+        620,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of health disparities",
+      "score": 0.9672,
+      "box": [
+        132,
+        747,
+        536,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of adverse drug reactions",
+      "score": 0.9782,
+      "box": [
+        134,
+        774,
+        554,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "SIERRA MAYER\nTN, USA|+1-795-992-7704 |sierra.mayer@example.com\nWORK HISTORY\nRegistered Nurses, Compassion Care Services, 2020.05–2023.01\n- Led nursing workflow optimization\n- Developed care quality benchmarks\nRegistered Nurses, NewHands Care Center, 2017.09–2020.05\n- Established clinical evaluation protocols\n- Established quality assurance systems\nRegistered Nurses, NewLeaf Health Group, 2014.12–2017.09\n- Conducted quality assurance checks\n- Managed intravenous therapy\nRegistered Nurses, SunHands Nursing, 2009.06–2012.03\n- Performed blood glucose testing\n- Assisted with patient mobility\nEDUCATION\nBachelor's, Clinical Studies, Lakeside University, 208\n• Studied fundamentals of health disparities\n• Studied principles of adverse drug reactions"
+}

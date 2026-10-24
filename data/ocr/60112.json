@@ -1,0 +1,187 @@
+{
+  "id": "60112",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.796,
+  "n_lines": 13,
+  "mean_score": 0.9755,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LANCE SNYDER",
+      "score": 0.9753,
+      "box": [
+        116,
+        90,
+        381,
+        121
+      ]
+    },
+    {
+      "text": "WV, USA|+1-579-523-7789|lance.snyder@example.com",
+      "score": 0.9875,
+      "box": [
+        115,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9799,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Flowstack Digital, 2019.11–2022.01",
+      "score": 0.9573,
+      "box": [
+        115,
+        289,
+        650,
+        312
+      ]
+    },
+    {
+      "text": "- Led platform migrations",
+      "score": 0.9623,
+      "box": [
+        126,
+        314,
+        361,
+        339
+      ]
+    },
+    {
+      "text": "- Designed high-availability systems",
+      "score": 0.9734,
+      "box": [
+        126,
+        339,
+        461,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Digital Meadow, 2016.10–2018.12",
+      "score": 0.9777,
+      "box": [
+        115,
+        381,
+        639,
+        406
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9842,
+      "box": [
+        126,
+        406,
+        501,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9525,
+      "box": [
+        126,
+        430,
+        447,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Bachelor's, Maplewood University, 2012",
+      "score": 0.9829,
+      "box": [
+        115,
+        541,
+        488,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in real-time systems",
+      "score": 0.9564,
+      "box": [
+        132,
+        565,
+        553,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of static analysis",
+      "score": 0.9927,
+      "box": [
+        133,
+        590,
+        472,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "LANCE SNYDER\nWV, USA|+1-579-523-7789|lance.snyder@example.com\nWORK HISTORY\nSoftware Developers, Flowstack Digital, 2019.11–2022.01\n- Led platform migrations\n- Designed high-availability systems\nSoftware Developers, Digital Meadow, 2016.10–2018.12\n- Configured development environments\n- Implemented error handling logic\nEDUCATION\nBachelor's, Maplewood University, 2012\n• Completed coursework in real-time systems\n• Studied principles of static analysis"
+}

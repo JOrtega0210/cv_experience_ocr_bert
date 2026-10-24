@@ -1,0 +1,187 @@
+{
+  "id": "61240",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.853,
+  "n_lines": 13,
+  "mean_score": 0.9828,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MADISEN OCONNOR",
+      "score": 0.9671,
+      "box": [
+        116,
+        90,
+        454,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-325-877-3947|madisen.oconnor@example.com",
+      "score": 0.9915,
+      "box": [
+        115,
+        150,
+        698,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9785,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenBridge Nursing Services, 2021.05–2023.01",
+      "score": 0.9917,
+      "box": [
+        115,
+        289,
+        749,
+        314
+      ]
+    },
+    {
+      "text": "- Managed clinical compliance programs",
+      "score": 0.9818,
+      "box": [
+        126,
+        314,
+        502,
+        339
+      ]
+    },
+    {
+      "text": "- Directed nursing education initiatives",
+      "score": 0.9778,
+      "box": [
+        127,
+        340,
+        482,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverHands Health Group, 2019.09–2021.05",
+      "score": 0.9901,
+      "box": [
+        116,
+        383,
+        709,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted basic patient assessments",
+      "score": 0.9926,
+      "box": [
+        126,
+        406,
+        494,
+        431
+      ]
+    },
+    {
+      "text": "- Maintained infection control protocols",
+      "score": 0.9786,
+      "box": [
+        126,
+        431,
+        486,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Bachelor's, Rehabilitation Sciences, Goldenbrook University, 2023",
+      "score": 0.9825,
+      "box": [
+        114,
+        539,
+        729,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of fall prevention",
+      "score": 0.9851,
+      "box": [
+        133,
+        566,
+        472,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of health disparities",
+      "score": 0.9609,
+      "box": [
+        132,
+        590,
+        535,
+        613
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "MADISEN OCONNOR\nWI, USA|+1-325-877-3947|madisen.oconnor@example.com\nWORK HISTORY\nRegistered Nurses, OpenBridge Nursing Services, 2021.05–2023.01\n- Managed clinical compliance programs\n- Directed nursing education initiatives\nRegistered Nurses, EverHands Health Group, 2019.09–2021.05\n- Conducted basic patient assessments\n- Maintained infection control protocols\nEDUCATION\nBachelor's, Rehabilitation Sciences, Goldenbrook University, 2023\n• Studied principles of fall prevention\n• Studied fundamentals of health disparities"
+}

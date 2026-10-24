@@ -1,0 +1,187 @@
+{
+  "id": "49994",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.804,
+  "n_lines": 13,
+  "mean_score": 0.9843,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSEPH PHAM",
+      "score": 0.9878,
+      "box": [
+        116,
+        90,
+        362,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-800-450-9409|joseph.pham@example.com",
+      "score": 0.9814,
+      "box": [
+        115,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9833,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corestack Digital, 2020.10–2023.01",
+      "score": 0.9898,
+      "box": [
+        115,
+        290,
+        652,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented performance optimization plans",
+      "score": 0.977,
+      "box": [
+        127,
+        315,
+        558,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9658,
+      "box": [
+        127,
+        340,
+        515,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Solutions, 2018.07–2020.10",
+      "score": 0.9952,
+      "box": [
+        116,
+        382,
+        653,
+        405
+      ]
+    },
+    {
+      "text": "- Monitored application logs",
+      "score": 0.9812,
+      "box": [
+        126,
+        406,
+        386,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9909,
+      "box": [
+        126,
+        430,
+        509,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Greenwood Ridge University, 2021",
+      "score": 0.9782,
+      "box": [
+        115,
+        541,
+        548,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in calculus for computing",
+      "score": 0.9801,
+      "box": [
+        133,
+        565,
+        596,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of agile methodologies",
+      "score": 0.9872,
+      "box": [
+        133,
+        590,
+        565,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JOSEPH PHAM\nTX, USA|+1-800-450-9409|joseph.pham@example.com\nWORK HISTORY\nSoftware Developers, Corestack Digital, 2020.10–2023.01\n- Implemented performance optimization plans\n- Implemented access control frameworks\nSoftware Developers, Netline Solutions, 2018.07–2020.10\n- Monitored application logs\n- Assisted with version control operations\nEDUCATION\nBachelor's, Greenwood Ridge University, 2021\n• Completed coursework in calculus for computing\n• Studied fundamentals of agile methodologies"
+}

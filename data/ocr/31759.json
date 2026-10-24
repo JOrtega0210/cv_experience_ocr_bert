@@ -1,0 +1,265 @@
+{
+  "id": "31759",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.869,
+  "n_lines": 19,
+  "mean_score": 0.9824,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AARON HUANG",
+      "score": 0.9661,
+      "box": [
+        116,
+        90,
+        372,
+        121
+      ]
+    },
+    {
+      "text": "NE, USA|+1-510-422-6475 |aaron.huang@example.com",
+      "score": 0.9759,
+      "box": [
+        116,
+        151,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9886,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softpath Digital, 2019.12–2023.01",
+      "score": 0.9793,
+      "box": [
+        115,
+        289,
+        636,
+        314
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.9821,
+      "box": [
+        126,
+        314,
+        431,
+        339
+      ]
+    },
+    {
+      "text": "- Defined quality assurance frameworks",
+      "score": 0.9645,
+      "box": [
+        127,
+        340,
+        496,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Technologies, 2016.11–2019.12",
+      "score": 0.9924,
+      "box": [
+        115,
+        381,
+        697,
+        406
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9592,
+      "box": [
+        126,
+        406,
+        400,
+        431
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9883,
+      "box": [
+        126,
+        431,
+        447,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Tech, 2013.10–2016.11",
+      "score": 0.9816,
+      "box": [
+        116,
+        472,
+        643,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented security controls",
+      "score": 0.9825,
+      "box": [
+        125,
+        498,
+        419,
+        521
+      ]
+    },
+    {
+      "text": "- Built reusable libraries",
+      "score": 0.9935,
+      "box": [
+        127,
+        523,
+        347,
+        544
+      ]
+    },
+    {
+      "text": "Software Developers, Brightcrest Software, 2010.09–2013.10",
+      "score": 0.9783,
+      "box": [
+        114,
+        563,
+        684,
+        589
+      ]
+    },
+    {
+      "text": "- Updated configuration files",
+      "score": 0.9957,
+      "box": [
+        126,
+        590,
+        390,
+        614
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9956,
+      "box": [
+        126,
+        613,
+        340,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Brookwood University, 209",
+      "score": 0.9755,
+      "box": [
+        115,
+        725,
+        486,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in fault tolerance",
+      "score": 0.9838,
+      "box": [
+        133,
+        749,
+        521,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of programming in Java",
+      "score": 0.9829,
+      "box": [
+        133,
+        772,
+        575,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "AARON HUANG\nNE, USA|+1-510-422-6475 |aaron.huang@example.com\nWORK HISTORY\nSoftware Developers, Softpath Digital, 2019.12–2023.01\n- Led system reliability programs\n- Defined quality assurance frameworks\nSoftware Developers, Netfield Technologies, 2016.11–2019.12\n- Led database design efforts\n- Designed caching infrastructures\nSoftware Developers, Codecrest Tech, 2013.10–2016.11\n- Implemented security controls\n- Built reusable libraries\nSoftware Developers, Brightcrest Software, 2010.09–2013.10\n- Updated configuration files\n- Updated routing logic\nEDUCATION\nBachelor's, Brookwood University, 209\n• Completed coursework in fault tolerance\n• Studied fundamentals of programming in Java"
+}

@@ -1,0 +1,278 @@
+{
+  "id": "49326",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.875,
+  "n_lines": 20,
+  "mean_score": 0.9845,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MICHAEL VU",
+      "score": 0.977,
+      "box": [
+        115,
+        88,
+        327,
+        122
+      ]
+    },
+    {
+      "text": "TN, USA|+1-726-976-5434 |michael.vu@example.com",
+      "score": 0.9804,
+      "box": [
+        115,
+        150,
+        639,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9867,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softway Solutions, 2020.01–2023.01",
+      "score": 0.9907,
+      "box": [
+        115,
+        289,
+        660,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented data pipeline architectures",
+      "score": 0.9794,
+      "box": [
+        127,
+        315,
+        512,
+        338
+      ]
+    },
+    {
+      "text": "- Designed software development workflows",
+      "score": 0.9906,
+      "box": [
+        126,
+        339,
+        538,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Softbridge Digital, 2017.01–2020.01",
+      "score": 0.989,
+      "box": [
+        115,
+        381,
+        653,
+        406
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9812,
+      "box": [
+        126,
+        406,
+        444,
+        431
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.9695,
+      "box": [
+        126,
+        431,
+        373,
+        453
+      ]
+    },
+    {
+      "text": "Software Developers, Softstack Digital, 2014.01–2017.01",
+      "score": 0.9774,
+      "box": [
+        115,
+        472,
+        644,
+        496
+      ]
+    },
+    {
+      "text": "- Developed microservices",
+      "score": 0.9891,
+      "box": [
+        126,
+        498,
+        376,
+        521
+      ]
+    },
+    {
+      "text": "- Integrated monitoring tools",
+      "score": 0.9796,
+      "box": [
+        126,
+        521,
+        390,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Clearline Systems, 2010.12–2014.01",
+      "score": 0.9898,
+      "box": [
+        115,
+        563,
+        663,
+        589
+      ]
+    },
+    {
+      "text": "-Created test data sets",
+      "score": 0.9854,
+      "box": [
+        124,
+        588,
+        348,
+        613
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.9661,
+      "box": [
+        126,
+        613,
+        502,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Master's, North Ridge University, 2013",
+      "score": 0.9935,
+      "box": [
+        115,
+        725,
+        474,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Stonebridge University, 2011",
+      "score": 0.9945,
+      "box": [
+        114,
+        747,
+        493,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of cybersecurity",
+      "score": 0.9795,
+      "box": [
+        132,
+        772,
+        501,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in software engineering",
+      "score": 0.9917,
+      "box": [
+        133,
+        798,
+        583,
+        823
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "MICHAEL VU\nTN, USA|+1-726-976-5434 |michael.vu@example.com\nWORK HISTORY\nSoftware Developers, Softway Solutions, 2020.01–2023.01\n- Implemented data pipeline architectures\n- Designed software development workflows\nSoftware Developers, Softbridge Digital, 2017.01–2020.01\n- Designed observability platforms\n- Led architectural reviews\nSoftware Developers, Softstack Digital, 2014.01–2017.01\n- Developed microservices\n- Integrated monitoring tools\nSoftware Developers, Clearline Systems, 2010.12–2014.01\n-Created test data sets\n- Wrote scripts for data processing tasks\nEDUCATION\nMaster's, North Ridge University, 2013\nBachelor's, Stonebridge University, 2011\n• Studied fundamentals of cybersecurity\n• Completed coursework in software engineering"
+}

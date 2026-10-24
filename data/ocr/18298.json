@@ -1,0 +1,174 @@
+{
+  "id": "18298",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.927,
+  "n_lines": 12,
+  "mean_score": 0.9762,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SHANE HARMON",
+      "score": 0.9868,
+      "box": [
+        116,
+        90,
+        395,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-621-220-1667 | shane.harmon@example.com",
+      "score": 0.9614,
+      "box": [
+        116,
+        151,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronFrame Contractors, 2019.09–2022.07",
+      "score": 0.9812,
+      "box": [
+        115,
+        289,
+        718,
+        313
+      ]
+    },
+    {
+      "text": "- Supervised multiple work crews",
+      "score": 0.9876,
+      "box": [
+        127,
+        315,
+        436,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed workflow efficiency reports",
+      "score": 0.9685,
+      "box": [
+        126,
+        339,
+        484,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Ironclad Builders, 2015.05–2018.04",
+      "score": 0.9798,
+      "box": [
+        115,
+        381,
+        664,
+        405
+      ]
+    },
+    {
+      "text": "- Mixed concrete and mortar",
+      "score": 0.9508,
+      "box": [
+        126,
+        407,
+        391,
+        429
+      ]
+    },
+    {
+      "text": "- Followed safety procedures on site",
+      "score": 0.9618,
+      "box": [
+        126,
+        432,
+        463,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Carpentry, Willow Creek High School, 1999",
+      "score": 0.9792,
+      "box": [
+        116,
+        541,
+        778,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of structural load paths",
+      "score": 0.9751,
+      "box": [
+        134,
+        566,
+        530,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "SHANE HARMON\nIL, USA|+1-621-220-1667 | shane.harmon@example.com\nWORK HISTORY\nConstruction Laborers, IronFrame Contractors, 2019.09–2022.07\n- Supervised multiple work crews\n- Reviewed workflow efficiency reports\nConstruction Laborers, Ironclad Builders, 2015.05–2018.04\n- Mixed concrete and mortar\n- Followed safety procedures on site\nEDUCATION\nHigh school graduate/GED, Carpentry, Willow Creek High School, 1999\n• Studied principles of structural load paths"
+}

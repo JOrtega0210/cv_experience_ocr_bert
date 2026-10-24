@@ -1,0 +1,148 @@
+{
+  "id": "15659",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.917,
+  "n_lines": 10,
+  "mean_score": 0.9839,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JACKOWEN",
+      "score": 0.998,
+      "box": [
+        116,
+        90,
+        321,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-998-668-5423 |jack.owen@example.com",
+      "score": 0.9676,
+      "box": [
+        116,
+        151,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.979,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Minds School, 2020.04–2023.01",
+      "score": 0.9839,
+      "box": [
+        116,
+        290,
+        848,
+        313
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.9785,
+      "box": [
+        125,
+        313,
+        445,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9858,
+      "box": [
+        126,
+        339,
+        460,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Child and Family Studies, Northway University, 2023",
+      "score": 0.9873,
+      "box": [
+        115,
+        449,
+        711,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication",
+      "score": 0.9777,
+      "box": [
+        133,
+        474,
+        642,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom assessment techniques",
+      "score": 0.9824,
+      "box": [
+        133,
+        498,
+        708,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JACKOWEN\nGA, USA|+1-998-668-5423 |jack.owen@example.com\nWORK HISTORY\nElementary Middle School Teachers, Learning Minds School, 2020.04–2023.01\n- Scheduled instructional activities\n- Assisted with science experiments\nEDUCATION\nBachelor's, Child and Family Studies, Northway University, 2023\n• Completed coursework in educational communication\n• Completed coursework in classroom assessment techniques"
+}

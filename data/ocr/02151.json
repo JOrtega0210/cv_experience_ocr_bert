@@ -1,0 +1,278 @@
+{
+  "id": "02151",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.037,
+  "n_lines": 20,
+  "mean_score": 0.9807,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MICHAEL DYER",
+      "score": 0.9896,
+      "box": [
+        116,
+        90,
+        372,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-625-876-8127|michael.dyer@example.com",
+      "score": 0.9916,
+      "box": [
+        115,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Financial, 2020.07–2023.01",
+      "score": 0.9884,
+      "box": [
+        115,
+        289,
+        707,
+        312
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9775,
+      "box": [
+        126,
+        315,
+        437,
+        338
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9593,
+      "box": [
+        126,
+        339,
+        424,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Group, 2018.01–2020.07",
+      "score": 0.9897,
+      "box": [
+        115,
+        381,
+        675,
+        406
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9661,
+      "box": [
+        126,
+        406,
+        518,
+        431
+      ]
+    },
+    {
+      "text": "- Directed financial reporting processes",
+      "score": 0.9751,
+      "box": [
+        126,
+        430,
+        491,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Co., 2015.07–2018.01",
+      "score": 0.9703,
+      "box": [
+        114,
+        471,
+        675,
+        496
+      ]
+    },
+    {
+      "text": "- Analyzed financial variances",
+      "score": 0.9894,
+      "box": [
+        126,
+        498,
+        407,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed budget performance",
+      "score": 0.9814,
+      "box": [
+        126,
+        521,
+        427,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Accounting, 2013.01–2015.07",
+      "score": 0.9843,
+      "box": [
+        115,
+        564,
+        707,
+        587
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.991,
+      "box": [
+        125,
+        589,
+        456,
+        614
+      ]
+    },
+    {
+      "text": "- Prepared supporting schedules",
+      "score": 0.9729,
+      "box": [
+        126,
+        612,
+        431,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Business Management, Driftwood University, 2018",
+      "score": 0.959,
+      "box": [
+        115,
+        724,
+        673,
+        746
+      ]
+    },
+    {
+      "text": "Bachelor's, Investment Management, Horizon University, 2016",
+      "score": 0.9859,
+      "box": [
+        114,
+        747,
+        694,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of accounts payable",
+      "score": 0.9644,
+      "box": [
+        132,
+        772,
+        541,
+        797
+      ]
+    },
+    {
+      "text": "• Studied principles of taxation",
+      "score": 0.9933,
+      "box": [
+        133,
+        799,
+        416,
+        822
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "MICHAEL DYER\nAR, USA|+1-625-876-8127|michael.dyer@example.com\nWORK HISTORY\nAccountants Auditors, CoreBalance Financial, 2020.07–2023.01\n- Developed financial risk models\n- Designed audit methodologies\nAccountants Auditors, SolidLedger Group, 2018.01–2020.07\n- Established financial reporting standards\n- Directed financial reporting processes\nAccountants Auditors, Integrity Books Co., 2015.07–2018.01\n- Analyzed financial variances\n- Reviewed budget performance\nAccountants Auditors, EverCount Accounting, 2013.01–2015.07\n- Assisted with tax form preparation\n- Prepared supporting schedules\nEDUCATION\nMaster's, Business Management, Driftwood University, 2018\nBachelor's, Investment Management, Horizon University, 2016\n• Studied fundamentals of accounts payable\n• Studied principles of taxation"
+}

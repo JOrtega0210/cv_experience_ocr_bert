@@ -1,0 +1,161 @@
+{
+  "id": "13057",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.867,
+  "n_lines": 11,
+  "mean_score": 0.9837,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "FRANCISCO TUCKER",
+      "score": 0.9859,
+      "box": [
+        116,
+        90,
+        464,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-873-899-4810 |francisco.tucker@example.com",
+      "score": 0.9782,
+      "box": [
+        116,
+        152,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9847,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Financial Group, 2020.08–2023.01",
+      "score": 0.9926,
+      "box": [
+        115,
+        290,
+        745,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9759,
+      "box": [
+        127,
+        316,
+        404,
+        336
+      ]
+    },
+    {
+      "text": "- Recorded payroll entries",
+      "score": 0.98,
+      "box": [
+        128,
+        341,
+        368,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Commerce, Goldenview University, 2023",
+      "score": 0.99,
+      "box": [
+        115,
+        449,
+        586,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Taxation, Northview University, 2021",
+      "score": 0.9616,
+      "box": [
+        114,
+        472,
+        565,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in environmental accounting basics",
+      "score": 0.9853,
+      "box": [
+        133,
+        498,
+        692,
+        523
+      ]
+    },
+    {
+      "text": "• Studied principles of transfer pricing",
+      "score": 0.988,
+      "box": [
+        133,
+        523,
+        479,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "FRANCISCO TUCKER\nFL, USA|+1-873-899-4810 |francisco.tucker@example.com\nWORK HISTORY\nAccountants Auditors, OpenPath Financial Group, 2020.08–2023.01\n- Assisted with audit fieldwork\n- Recorded payroll entries\nEDUCATION\nMaster's, Commerce, Goldenview University, 2023\nBachelor's, Taxation, Northview University, 2021\n• Completed coursework in environmental accounting basics\n• Studied principles of transfer pricing"
+}

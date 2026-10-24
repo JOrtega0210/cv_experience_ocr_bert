@@ -1,0 +1,187 @@
+{
+  "id": "26545",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.775,
+  "n_lines": 13,
+  "mean_score": 0.9851,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TERRY RAY",
+      "score": 0.9841,
+      "box": [
+        115,
+        90,
+        313,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-724-534-6717 |terry.ray@example.com",
+      "score": 0.9781,
+      "box": [
+        115,
+        150,
+        621,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9847,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowstack Tech, 2019.07–2022.01",
+      "score": 0.9914,
+      "box": [
+        116,
+        290,
+        640,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed system design documents",
+      "score": 0.9878,
+      "box": [
+        127,
+        315,
+        481,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed architectural proposals",
+      "score": 0.9936,
+      "box": [
+        126,
+        339,
+        451,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Netwave Labs, 2016.01–2018.07",
+      "score": 0.9978,
+      "box": [
+        116,
+        382,
+        629,
+        405
+      ]
+    },
+    {
+      "text": "- Wrote utility scripts",
+      "score": 0.9667,
+      "box": [
+        126,
+        404,
+        318,
+        433
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9819,
+      "box": [
+        127,
+        432,
+        415,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Brookridge University, 2012",
+      "score": 0.9545,
+      "box": [
+        115,
+        541,
+        482,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of user interface development",
+      "score": 0.9953,
+      "box": [
+        132,
+        565,
+        631,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in database systems",
+      "score": 0.9923,
+      "box": [
+        133,
+        590,
+        558,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "TERRY RAY\nMA, USA|+1-724-534-6717 |terry.ray@example.com\nWORK HISTORY\nSoftware Developers, Flowstack Tech, 2019.07–2022.01\n- Reviewed system design documents\n- Reviewed architectural proposals\nSoftware Developers, Netwave Labs, 2016.01–2018.07\n- Wrote utility scripts\n- Updated frontend stylesheets\nEDUCATION\nBachelor's, Brookridge University, 2012\n• Studied fundamentals of user interface development\n• Completed coursework in database systems"
+}

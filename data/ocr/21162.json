@@ -1,0 +1,226 @@
+{
+  "id": "21162",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.838,
+  "n_lines": 16,
+  "mean_score": 0.9818,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "PETER FARRELL",
+      "score": 0.9705,
+      "box": [
+        116,
+        90,
+        395,
+        120
+      ]
+    },
+    {
+      "text": "IA, USA|+1-545-617-8197 |peter.farrell@example.com",
+      "score": 0.9746,
+      "box": [
+        115,
+        150,
+        637,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.987,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueBuild Co., 2020.12–2023.01",
+      "score": 0.991,
+      "box": [
+        115,
+        290,
+        634,
+        313
+      ]
+    },
+    {
+      "text": "- Directed quality assurance programs",
+      "score": 0.9825,
+      "box": [
+        126,
+        314,
+        482,
+        340
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9922,
+      "box": [
+        126,
+        339,
+        477,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmTrack Construction, 2016.08–2018.10",
+      "score": 0.9762,
+      "box": [
+        115,
+        381,
+        725,
+        406
+      ]
+    },
+    {
+      "text": "- Supervised junior laborers",
+      "score": 0.9781,
+      "box": [
+        125,
+        406,
+        386,
+        431
+      ]
+    },
+    {
+      "text": "- Installed ceiling systems",
+      "score": 0.9778,
+      "box": [
+        125,
+        429,
+        368,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWay Construction, 2013.12–2016.02",
+      "score": 0.9923,
+      "box": [
+        115,
+        471,
+        719,
+        496
+      ]
+    },
+    {
+      "text": "- Mixed concrete and mortar",
+      "score": 0.9679,
+      "box": [
+        126,
+        496,
+        391,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.9541,
+      "box": [
+        126,
+        521,
+        555,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Building Construction, Clear Ridge University, 2011",
+      "score": 0.9848,
+      "box": [
+        115,
+        632,
+        777,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural anchoring",
+      "score": 0.9886,
+      "box": [
+        133,
+        656,
+        572,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in equipment maintenance basics",
+      "score": 0.9921,
+      "box": [
+        134,
+        681,
+        677,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "PETER FARRELL\nIA, USA|+1-545-617-8197 |peter.farrell@example.com\nWORK HISTORY\nConstruction Laborers, TrueBuild Co., 2020.12–2023.01\n- Directed quality assurance programs\n- Reviewed material quality standards\nConstruction Laborers, FirmTrack Construction, 2016.08–2018.10\n- Supervised junior laborers\n- Installed ceiling systems\nConstruction Laborers, SolidWay Construction, 2013.12–2016.02\n- Mixed concrete and mortar\n- Prepared tools and equipment for daily tasks\nEDUCATION\nAssociate's degree, Building Construction, Clear Ridge University, 2011\n• Completed coursework in structural anchoring\n• Completed coursework in equipment maintenance basics"
+}

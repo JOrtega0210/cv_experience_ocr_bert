@@ -1,0 +1,226 @@
+{
+  "id": "61347",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.895,
+  "n_lines": 16,
+  "mean_score": 0.9834,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KEENA BAILEY",
+      "score": 0.9832,
+      "box": [
+        116,
+        90,
+        368,
+        120
+      ]
+    },
+    {
+      "text": "WI, USA|+1-494-862-8451 |keena.bailey@example.com",
+      "score": 0.986,
+      "box": [
+        115,
+        150,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9792,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenLife Nursing Services, 2019.11–2023.01",
+      "score": 0.9865,
+      "box": [
+        115,
+        289,
+        723,
+        314
+      ]
+    },
+    {
+      "text": "- Managed patient outcome evaluation systems",
+      "score": 0.987,
+      "box": [
+        126,
+        314,
+        567,
+        339
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.9824,
+      "box": [
+        126,
+        339,
+        458,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleLife Nursing, 2016.09–2019.11",
+      "score": 0.9821,
+      "box": [
+        116,
+        383,
+        647,
+        406
+      ]
+    },
+    {
+      "text": "- Documented clinical care activities",
+      "score": 0.9773,
+      "box": [
+        126,
+        407,
+        460,
+        429
+      ]
+    },
+    {
+      "text": "- Conducted post-operative assessments",
+      "score": 0.9924,
+      "box": [
+        126,
+        430,
+        508,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Spring Medical, 2013.07–2016.09",
+      "score": 0.9879,
+      "box": [
+        116,
+        473,
+        736,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.9785,
+      "box": [
+        125,
+        496,
+        420,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.986,
+      "box": [
+        126,
+        521,
+        479,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Studies, Meadowway University, 2012",
+      "score": 0.9884,
+      "box": [
+        114,
+        631,
+        696,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in laboratory values interpretation",
+      "score": 0.95,
+      "box": [
+        134,
+        657,
+        674,
+        680
+      ]
+    },
+    {
+      "text": "• Studied principles of pain management",
+      "score": 0.9884,
+      "box": [
+        134,
+        681,
+        510,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "KEENA BAILEY\nWI, USA|+1-494-862-8451 |keena.bailey@example.com\nWORK HISTORY\nRegistered Nurses, OpenLife Nursing Services, 2019.11–2023.01\n- Managed patient outcome evaluation systems\n- Developed patient care algorithms\nRegistered Nurses, GentleLife Nursing, 2016.09–2019.11\n- Documented clinical care activities\n- Conducted post-operative assessments\nRegistered Nurses, Compassion Spring Medical, 2013.07–2016.09\n- Assisted with patient transfers\n- Prepared medical equipment for use\nEDUCATION\nBachelor's, Health Care Studies, Meadowway University, 2012\n• Completed coursework in laboratory values interpretation\n• Studied principles of pain management"
+}

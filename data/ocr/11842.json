@@ -1,0 +1,174 @@
+{
+  "id": "11842",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.932,
+  "n_lines": 12,
+  "mean_score": 0.982,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ZANE HODGE",
+      "score": 0.9789,
+      "box": [
+        115,
+        90,
+        340,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-344-405-3005|zane.hodge@example.com",
+      "score": 0.9776,
+      "box": [
+        115,
+        150,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueFrame Builders, 2018.12–2021.10",
+      "score": 0.9801,
+      "box": [
+        114,
+        288,
+        693,
+        313
+      ]
+    },
+    {
+      "text": "- Supervised multiple work crews",
+      "score": 0.965,
+      "box": [
+        126,
+        315,
+        436,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented workflow optimization",
+      "score": 0.98,
+      "box": [
+        126,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Craft Builders, 2014.10–2017.08",
+      "score": 0.9832,
+      "box": [
+        115,
+        382,
+        705,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9797,
+      "box": [
+        125,
+        407,
+        425,
+        431
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9874,
+      "box": [
+        125,
+        430,
+        416,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Skills, Rolling Hills High School, 2012",
+      "score": 0.9768,
+      "box": [
+        116,
+        541,
+        846,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic structural demolition",
+      "score": 0.9904,
+      "box": [
+        134,
+        567,
+        630,
+        587
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "ZANE HODGE\nFL, USA|+1-344-405-3005|zane.hodge@example.com\nWORK HISTORY\nConstruction Laborers, TrueFrame Builders, 2018.12–2021.10\n- Supervised multiple work crews\n- Implemented workflow optimization\nConstruction Laborers, Unified Craft Builders, 2014.10–2017.08\n- Prepared scaffolding platforms\n- Set up workstations for crews\nEDUCATION\nHigh school graduate/GED, Construction Skills, Rolling Hills High School, 2012\n• Completed coursework in basic structural demolition"
+}

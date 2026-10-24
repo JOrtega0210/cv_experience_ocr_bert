@@ -1,0 +1,239 @@
+{
+  "id": "58465",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.9,
+  "n_lines": 17,
+  "mean_score": 0.9819,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SARAH HURST",
+      "score": 0.9711,
+      "box": [
+        115,
+        90,
+        363,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-968-986-7468|sarah.hurst@example.com",
+      "score": 0.9814,
+      "box": [
+        114,
+        150,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Meadow School, 2020.05–2023.01",
+      "score": 0.9898,
+      "box": [
+        116,
+        290,
+        842,
+        314
+      ]
+    },
+    {
+      "text": "- Directed cross-grade curriculum alignment",
+      "score": 0.9719,
+      "box": [
+        126,
+        315,
+        536,
+        338
+      ]
+    },
+    {
+      "text": "- Developed student performance metrics",
+      "score": 0.9857,
+      "box": [
+        126,
+        339,
+        512,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Minds School, 2016.11–2019.08",
+      "score": 0.9912,
+      "box": [
+        115,
+        381,
+        820,
+        406
+      ]
+    },
+    {
+      "text": "- Managed instructional timelines",
+      "score": 0.9535,
+      "box": [
+        127,
+        407,
+        435,
+        430
+      ]
+    },
+    {
+      "text": "- Designed student support plans",
+      "score": 0.9787,
+      "box": [
+        126,
+        431,
+        436,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Path School, 2013.06–2016.03",
+      "score": 0.9933,
+      "box": [
+        115,
+        472,
+        798,
+        495
+      ]
+    },
+    {
+      "text": "- Supported art instruction",
+      "score": 0.9678,
+      "box": [
+        127,
+        499,
+        369,
+        520
+      ]
+    },
+    {
+      "text": "- Recorded student progres data",
+      "score": 0.9909,
+      "box": [
+        126,
+        521,
+        442,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Introductory Education, Seabreeze University, 2011",
+      "score": 0.9852,
+      "box": [
+        115,
+        632,
+        682,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Studies, Forest Ridge University, 2009",
+      "score": 0.9833,
+      "box": [
+        114,
+        656,
+        635,
+        681
+      ]
+    },
+    {
+      "text": "• Studied foundational learning strategies",
+      "score": 0.9888,
+      "box": [
+        132,
+        681,
+        514,
+        706
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional clarity",
+      "score": 0.9801,
+      "box": [
+        132,
+        705,
+        550,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "SARAH HURST\nWA, USA|+1-968-986-7468|sarah.hurst@example.com\nWORK HISTORY\nElementary Middle School Teachers, Open Meadow School, 2020.05–2023.01\n- Directed cross-grade curriculum alignment\n- Developed student performance metrics\nElementary Middle School Teachers, Open Minds School, 2016.11–2019.08\n- Managed instructional timelines\n- Designed student support plans\nElementary Middle School Teachers, Kind Path School, 2013.06–2016.03\n- Supported art instruction\n- Recorded student progres data\nEDUCATION\nMaster's, Introductory Education, Seabreeze University, 2011\nBachelor's, Child Studies, Forest Ridge University, 2009\n• Studied foundational learning strategies\n• Studied fundamentals of instructional clarity"
+}

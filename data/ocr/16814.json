@@ -1,0 +1,226 @@
+{
+  "id": "16814",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.982,
+  "n_lines": 16,
+  "mean_score": 0.9857,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MAX POLLARD",
+      "score": 0.9876,
+      "box": [
+        116,
+        90,
+        363,
+        121
+      ]
+    },
+    {
+      "text": "HI, USA|+1-474-785-5896 |max.pollard@example.com",
+      "score": 0.9889,
+      "box": [
+        116,
+        152,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9799,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Financial Group, 2019.11–202.01",
+      "score": 0.9883,
+      "box": [
+        114,
+        289,
+        754,
+        314
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9778,
+      "box": [
+        126,
+        314,
+        515,
+        339
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9795,
+      "box": [
+        127,
+        339,
+        530,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Advisors, 2016.09–2019.11",
+      "score": 0.9886,
+      "box": [
+        115,
+        381,
+        695,
+        405
+      ]
+    },
+    {
+      "text": "- Conducted risk assessments",
+      "score": 0.9941,
+      "box": [
+        127,
+        407,
+        409,
+        429
+      ]
+    },
+    {
+      "text": "- Implemented accounting procedures",
+      "score": 0.9851,
+      "box": [
+        126,
+        431,
+        479,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Advisors, 2013.06–2016.09",
+      "score": 0.9881,
+      "box": [
+        115,
+        472,
+        687,
+        495
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.992,
+      "box": [
+        127,
+        499,
+        365,
+        520
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9879,
+      "box": [
+        126,
+        521,
+        453,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Finance, Willow Ridge University, 2016",
+      "score": 0.9857,
+      "box": [
+        115,
+        632,
+        589,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of management reporting",
+      "score": 0.9818,
+      "box": [
+        133,
+        656,
+        589,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in expense cycle management",
+      "score": 0.9669,
+      "box": [
+        136,
+        683,
+        649,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "MAX POLLARD\nHI, USA|+1-474-785-5896 |max.pollard@example.com\nWORK HISTORY\nAccountants Auditors, AccuCount Financial Group, 2019.11–202.01\n- Directed accounting operations planning\n- Established reporting automation systems\nAccountants Auditors, FairBalance Advisors, 2016.09–2019.11\n- Conducted risk assessments\n- Implemented accounting procedures\nAccountants Auditors, CoreCount Advisors, 2013.06–2016.09\n- Prepared journal entries\n- Reviewed expense classifications\nEDUCATION\nBachelor's, Finance, Willow Ridge University, 2016\n• Studied fundamentals of management reporting\n• Completed coursework in expense cycle management"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "59948",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.853,
+  "n_lines": 16,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "FELICIA MORRISON",
+      "score": 0.9795,
+      "box": [
+        116,
+        90,
+        442,
+        121
+      ]
+    },
+    {
+      "text": "WV, USA|+1-617-903-6831|felicia.morrison@example.com",
+      "score": 0.9871,
+      "box": [
+        115,
+        150,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearSpring Health Group, 2020.08–2023.01",
+      "score": 0.9852,
+      "box": [
+        115,
+        289,
+        714,
+        314
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9843,
+      "box": [
+        127,
+        315,
+        474,
+        338
+      ]
+    },
+    {
+      "text": "- Led nursing audit programs",
+      "score": 0.9889,
+      "box": [
+        126,
+        339,
+        397,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Care Group, 2017.08–2020.01",
+      "score": 0.9713,
+      "box": [
+        115,
+        381,
+        673,
+        406
+      ]
+    },
+    {
+      "text": "- Interpreted laboratory results",
+      "score": 0.992,
+      "box": [
+        126,
+        406,
+        410,
+        431
+      ]
+    },
+    {
+      "text": "- Supervised medication administration",
+      "score": 0.9889,
+      "box": [
+        126,
+        431,
+        488,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIWay Health Group, 2014.02–2016.08",
+      "score": 0.983,
+      "box": [
+        116,
+        472,
+        688,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9823,
+      "box": [
+        126,
+        498,
+        438,
+        522
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.977,
+      "box": [
+        126,
+        522,
+        481,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Nursing Practice, Crossfield University, 2008",
+      "score": 0.9909,
+      "box": [
+        114,
+        631,
+        717,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient safety culture",
+      "score": 0.961,
+      "box": [
+        132,
+        656,
+        582,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of clinical documentation",
+      "score": 0.985,
+      "box": [
+        133,
+        681,
+        584,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "FELICIA MORRISON\nWV, USA|+1-617-903-6831|felicia.morrison@example.com\nWORK HISTORY\nRegistered Nurses, ClearSpring Health Group, 2020.08–2023.01\n- Developed care quality benchmarks\n- Led nursing audit programs\nRegistered Nurses, Harmony Care Group, 2017.08–2020.01\n- Interpreted laboratory results\n- Supervised medication administration\nRegistered Nurses, WelIWay Health Group, 2014.02–2016.08\n- Assisted with patient positioning\n- Assisted with emergency procedures\nEDUCATION\nAssociate's degree, Nursing Practice, Crossfield University, 2008\n• Completed coursework in patient safety culture\n• Studied fundamentals of clinical documentation"
+}

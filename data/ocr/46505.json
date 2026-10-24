@@ -1,0 +1,226 @@
+{
+  "id": "46505",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.801,
+  "n_lines": 16,
+  "mean_score": 0.9819,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSHUA OSBORNE",
+      "score": 0.971,
+      "box": [
+        116,
+        90,
+        436,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-831-942-5195|joshua.osborne@example.com",
+      "score": 0.9916,
+      "box": [
+        115,
+        150,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skycore Software, 2021.01–2023.01",
+      "score": 0.9811,
+      "box": [
+        114,
+        288,
+        659,
+        313
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.979,
+      "box": [
+        126,
+        315,
+        396,
+        338
+      ]
+    },
+    {
+      "text": "- Built core libraries",
+      "score": 0.9793,
+      "box": [
+        125,
+        338,
+        309,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstack Labs, 2017.08–2019.08",
+      "score": 0.9921,
+      "box": [
+        115,
+        380,
+        651,
+        406
+      ]
+    },
+    {
+      "text": "- Improved code coverage",
+      "score": 0.9843,
+      "box": [
+        125,
+        406,
+        373,
+        432
+      ]
+    },
+    {
+      "text": "- Designed batch processing jobs",
+      "score": 0.968,
+      "box": [
+        126,
+        431,
+        438,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Datacrest Software, 2014.01–2016.02",
+      "score": 0.9907,
+      "box": [
+        115,
+        471,
+        674,
+        496
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9582,
+      "box": [
+        124,
+        496,
+        562,
+        522
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9813,
+      "box": [
+        126,
+        521,
+        437,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Brookstone University, 2010",
+      "score": 0.9638,
+      "box": [
+        115,
+        632,
+        487,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of mutexes and semaphores",
+      "score": 0.9901,
+      "box": [
+        132,
+        656,
+        582,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of event-driven architecture",
+      "score": 0.9953,
+      "box": [
+        135,
+        682,
+        571,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JOSHUA OSBORNE\nPA, USA|+1-831-942-5195|joshua.osborne@example.com\nWORK HISTORY\nSoftware Developers, Skycore Software, 2021.01–2023.01\n- Designed scalable services\n- Built core libraries\nSoftware Developers, Brightstack Labs, 2017.08–2019.08\n- Improved code coverage\n- Designed batch processing jobs\nSoftware Developers, Datacrest Software, 2014.01–2016.02\n- Fixed software bugs identified through testing\n- Reviewed test coverage reports\nEDUCATION\nBachelor's, Brookstone University, 2010\n• Studied principles of mutexes and semaphores\n• Studied principles of event-driven architecture"
+}

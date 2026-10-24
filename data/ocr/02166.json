@@ -1,0 +1,252 @@
+{
+  "id": "02166",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.979,
+  "n_lines": 18,
+  "mean_score": 0.9852,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JACOB DAY",
+      "score": 0.9605,
+      "box": [
+        114,
+        88,
+        316,
+        122
+      ]
+    },
+    {
+      "text": "AR, USA|+1-498-901-3152|jacob.day@example.com",
+      "score": 0.9896,
+      "box": [
+        115,
+        150,
+        630,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9872,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Tech, 2020.07–2023.01",
+      "score": 0.9919,
+      "box": [
+        116,
+        289,
+        623,
+        312
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.98,
+      "box": [
+        125,
+        313,
+        410,
+        339
+      ]
+    },
+    {
+      "text": "- Designed configuration management systems",
+      "score": 0.9893,
+      "box": [
+        126,
+        339,
+        566,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Brightcrest Software, 2018.01–2020.07",
+      "score": 0.9867,
+      "box": [
+        115,
+        381,
+        685,
+        406
+      ]
+    },
+    {
+      "text": "- Developed RESTful APIs",
+      "score": 0.9848,
+      "box": [
+        126,
+        407,
+        377,
+        430
+      ]
+    },
+    {
+      "text": "- Handled schema migrations",
+      "score": 0.9865,
+      "box": [
+        126,
+        430,
+        401,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudcrest Systems, 2012.08–2015.02",
+      "score": 0.9727,
+      "box": [
+        116,
+        472,
+        682,
+        496
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9829,
+      "box": [
+        127,
+        498,
+        414,
+        521
+      ]
+    },
+    {
+      "text": "- Wrote command-line tools",
+      "score": 0.977,
+      "box": [
+        127,
+        522,
+        386,
+        545
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Doctorate, Hillside University, 2009",
+      "score": 0.9906,
+      "box": [
+        115,
+        632,
+        443,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Harvest University, 2004",
+      "score": 0.9809,
+      "box": [
+        115,
+        658,
+        454,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in code refactoring",
+      "score": 0.9939,
+      "box": [
+        134,
+        683,
+        538,
+        707
+      ]
+    },
+    {
+      "text": "• Studied principles of database design",
+      "score": 0.9888,
+      "box": [
+        132,
+        706,
+        495,
+        731
+      ]
+    },
+    {
+      "text": "• Studied principles of performance optimization",
+      "score": 0.9906,
+      "box": [
+        134,
+        732,
+        576,
+        755
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "JACOB DAY\nAR, USA|+1-498-901-3152|jacob.day@example.com\nWORK HISTORY\nSoftware Developers, Flowline Tech, 2020.07–2023.01\n- Defined scalability roadmaps\n- Designed configuration management systems\nSoftware Developers, Brightcrest Software, 2018.01–2020.07\n- Developed RESTful APIs\n- Handled schema migrations\nSoftware Developers, Cloudcrest Systems, 2012.08–2015.02\n- Updated frontend stylesheets\n- Wrote command-line tools\nEDUCATION\nDoctorate, Hillside University, 2009\nBachelor's, Harvest University, 2004\n• Completed coursework in code refactoring\n• Studied principles of database design\n• Studied principles of performance optimization"
+}

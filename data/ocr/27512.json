@@ -1,0 +1,187 @@
+{
+  "id": "27512",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.801,
+  "n_lines": 13,
+  "mean_score": 0.9869,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LOGAN MCGEE",
+      "score": 0.9881,
+      "box": [
+        116,
+        90,
+        370,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-726-862-6552 | logan.mcgee@example.com",
+      "score": 0.9842,
+      "box": [
+        116,
+        151,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Hands Health, 2021.04–2023.01",
+      "score": 0.9851,
+      "box": [
+        116,
+        290,
+        691,
+        313
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.9837,
+      "box": [
+        126,
+        313,
+        425,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9789,
+      "box": [
+        127,
+        340,
+        456,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Heart Nursing, 2019.07–2021.04",
+      "score": 0.9912,
+      "box": [
+        115,
+        381,
+        681,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted basic patient assessments",
+      "score": 0.9902,
+      "box": [
+        125,
+        406,
+        494,
+        431
+      ]
+    },
+    {
+      "text": "- Monitored oxygen therapy",
+      "score": 0.9677,
+      "box": [
+        126,
+        430,
+        384,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Health, Silver Creek University, 2017",
+      "score": 0.9829,
+      "box": [
+        114,
+        539,
+        640,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in medication administration",
+      "score": 0.9954,
+      "box": [
+        134,
+        566,
+        626,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in healthcare quality improvement",
+      "score": 0.9983,
+      "box": [
+        134,
+        590,
+        680,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "LOGAN MCGEE\nMI, USA|+1-726-862-6552 | logan.mcgee@example.com\nWORK HISTORY\nRegistered Nurses, Harmony Hands Health, 2021.04–2023.01\n- Led clinical governance efforts\n- Implemented care standardization\nRegistered Nurses, Helping Heart Nursing, 2019.07–2021.04\n- Conducted basic patient assessments\n- Monitored oxygen therapy\nEDUCATION\nBachelor's, Clinical Health, Silver Creek University, 2017\n• Completed coursework in medication administration\n• Completed coursework in healthcare quality improvement"
+}

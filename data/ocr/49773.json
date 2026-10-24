@@ -1,0 +1,265 @@
+{
+  "id": "49773",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.923,
+  "n_lines": 19,
+  "mean_score": 0.9815,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JEMAL MCCLURE",
+      "score": 0.9745,
+      "box": [
+        116,
+        90,
+        408,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-304-424-5202 |jemal.mcclure@example.com",
+      "score": 0.9721,
+      "box": [
+        114,
+        150,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueBuild Services, 2019.02–2023.01",
+      "score": 0.9793,
+      "box": [
+        114,
+        288,
+        682,
+        313
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9727,
+      "box": [
+        125,
+        313,
+        407,
+        338
+      ]
+    },
+    {
+      "text": "- Directed project execution strategies",
+      "score": 0.977,
+      "box": [
+        126,
+        338,
+        480,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronFrame Contractors, 2015.03–2019.02",
+      "score": 0.9904,
+      "box": [
+        116,
+        382,
+        719,
+        405
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.986,
+      "box": [
+        125,
+        406,
+        478,
+        431
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9833,
+      "box": [
+        125,
+        430,
+        394,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidBuild Contractors, 2010.06–2014.05",
+      "score": 0.9849,
+      "box": [
+        115,
+        472,
+        716,
+        496
+      ]
+    },
+    {
+      "text": "- Constructed temporary structures",
+      "score": 0.9792,
+      "box": [
+        125,
+        496,
+        453,
+        522
+      ]
+    },
+    {
+      "text": "- Managed material inventories",
+      "score": 0.9684,
+      "box": [
+        126,
+        522,
+        416,
+        545
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftFrame Builders, 2005.10–2009.09",
+      "score": 0.9754,
+      "box": [
+        114,
+        563,
+        696,
+        588
+      ]
+    },
+    {
+      "text": "- Loaded and unloaded construction materials",
+      "score": 0.9881,
+      "box": [
+        125,
+        588,
+        553,
+        612
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.9624,
+      "box": [
+        126,
+        614,
+        474,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Inspection, Westview University, 2004",
+      "score": 0.9943,
+      "box": [
+        115,
+        723,
+        843,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction drawing interpretation",
+      "score": 0.9889,
+      "box": [
+        133,
+        749,
+        708,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site communication",
+      "score": 0.9864,
+      "box": [
+        133,
+        772,
+        592,
+        796
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "JEMAL MCCLURE\nTX, USA|+1-304-424-5202 |jemal.mcclure@example.com\nWORK HISTORY\nConstruction Laborers, TrueBuild Services, 2019.02–2023.01\n- Established site layout plans\n- Directed project execution strategies\nConstruction Laborers, IronFrame Contractors, 2015.03–2019.02\n- Designed construction staging plans\n- Directed project scheduling\nConstruction Laborers, SolidBuild Contractors, 2010.06–2014.05\n- Constructed temporary structures\n- Managed material inventories\nConstruction Laborers, CraftFrame Builders, 2005.10–2009.09\n- Loaded and unloaded construction materials\n- Marked measurements on materials\nEDUCATION\nSome college (no degree), Construction Inspection, Westview University, 2004\n• Completed coursework in construction drawing interpretation\n• Studied fundamentals of job site communication"
+}

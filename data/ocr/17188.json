@@ -1,0 +1,226 @@
+{
+  "id": "17188",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.996,
+  "n_lines": 16,
+  "mean_score": 0.9842,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "GERALD PETERS",
+      "score": 0.9872,
+      "box": [
+        117,
+        90,
+        402,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-456-901-7393|gerald.peters@example.com",
+      "score": 0.9934,
+      "box": [
+        116,
+        151,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Build Co., 2020.11–2023.01",
+      "score": 0.9847,
+      "box": [
+        115,
+        290,
+        683,
+        313
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.9539,
+      "box": [
+        126,
+        315,
+        462,
+        338
+      ]
+    },
+    {
+      "text": "- Supervised large structural repairs",
+      "score": 0.9938,
+      "box": [
+        126,
+        339,
+        460,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Track Builders, 2018.09–2020.11",
+      "score": 0.9892,
+      "box": [
+        115,
+        382,
+        711,
+        405
+      ]
+    },
+    {
+      "text": "- Monitored project timelines",
+      "score": 0.968,
+      "box": [
+        126,
+        407,
+        393,
+        430
+      ]
+    },
+    {
+      "text": "- Set up scaffolding systems",
+      "score": 0.9683,
+      "box": [
+        126,
+        430,
+        391,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidForm Contractors, 2015.02–2017.04",
+      "score": 0.9843,
+      "box": [
+        115,
+        472,
+        718,
+        495
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.9923,
+      "box": [
+        126,
+        497,
+        406,
+        520
+      ]
+    },
+    {
+      "text": "- Applied basic sealants and adhesives",
+      "score": 0.982,
+      "box": [
+        126,
+        521,
+        490,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Concrete Technology, Aspen Grove University, 2002",
+      "score": 0.9857,
+      "box": [
+        116,
+        632,
+        856,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site communication",
+      "score": 0.9838,
+      "box": [
+        133,
+        657,
+        592,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction waste management",
+      "score": 0.9945,
+      "box": [
+        134,
+        681,
+        691,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "GERALD PETERS\nIL, USA|+1-456-901-7393|gerald.peters@example.com\nWORK HISTORY\nConstruction Laborers, Precision Build Co., 2020.11–2023.01\n- Designed site logistics frameworks\n- Supervised large structural repairs\nConstruction Laborers, Unified Track Builders, 2018.09–2020.11\n- Monitored project timelines\n- Set up scaffolding systems\nConstruction Laborers, SolidForm Contractors, 2015.02–2017.04\n- Installed insulation materials\n- Applied basic sealants and adhesives\nEDUCATION\nSome college (no degree), Concrete Technology, Aspen Grove University, 2002\n• Studied fundamentals of job site communication\n• Completed coursework in construction waste management"
+}

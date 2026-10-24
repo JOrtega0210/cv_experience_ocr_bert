@@ -1,0 +1,148 @@
+{
+  "id": "13818",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.899,
+  "n_lines": 10,
+  "mean_score": 0.9834,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LISA DAUGHERTY",
+      "score": 0.9808,
+      "box": [
+        116,
+        90,
+        415,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-349-909-1666 |lisa.daugherty@example.com",
+      "score": 0.9766,
+      "box": [
+        116,
+        152,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9801,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Grove Academy, 2021.01–2022.06",
+      "score": 0.986,
+      "box": [
+        116,
+        290,
+        874,
+        313
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.9888,
+      "box": [
+        126,
+        314,
+        483,
+        337
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9803,
+      "box": [
+        126,
+        339,
+        517,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Foundations, Heritage University, 2005",
+      "score": 0.978,
+      "box": [
+        115,
+        449,
+        673,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom routines",
+      "score": 0.981,
+      "box": [
+        134,
+        475,
+        564,
+        495
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication skills",
+      "score": 0.9839,
+      "box": [
+        135,
+        500,
+        692,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "LISA DAUGHERTY\nFL, USA|+1-349-909-1666 |lisa.daugherty@example.com\nWORK HISTORY\nElementary Middle School Teachers, Learning Grove Academy, 2021.01–2022.06\n- Conducted reading practice sessions\n- Organized classroom learning resources\nEDUCATION\nBachelor's, Learning Foundations, Heritage University, 2005\n• Completed coursework in classroom routines\n• Completed coursework in educational communication skills"
+}

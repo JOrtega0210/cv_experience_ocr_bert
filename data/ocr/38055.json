@@ -1,0 +1,265 @@
+{
+  "id": "38055",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.914,
+  "n_lines": 19,
+  "mean_score": 0.9801,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MEGAN LE",
+      "score": 0.9824,
+      "box": [
+        115,
+        88,
+        297,
+        122
+      ]
+    },
+    {
+      "text": "NY, USA|+1-706-711-3703|megan.le@example.com",
+      "score": 0.9845,
+      "box": [
+        115,
+        150,
+        627,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Financial, 2019.05–2023.01",
+      "score": 0.9734,
+      "box": [
+        114,
+        289,
+        724,
+        314
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9745,
+      "box": [
+        126,
+        313,
+        502,
+        339
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.977,
+      "box": [
+        126,
+        339,
+        427,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Financial, 2015.09–2019.05",
+      "score": 0.9667,
+      "box": [
+        114,
+        381,
+        684,
+        406
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9847,
+      "box": [
+        126,
+        405,
+        547,
+        432
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9737,
+      "box": [
+        126,
+        430,
+        495,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Group, 2012.01–2015.09",
+      "score": 0.9827,
+      "box": [
+        114,
+        471,
+        669,
+        496
+      ]
+    },
+    {
+      "text": "- Developed internal audit programs",
+      "score": 0.9815,
+      "box": [
+        125,
+        497,
+        461,
+        522
+      ]
+    },
+    {
+      "text": "- Reviewed payroll reconciliations",
+      "score": 0.9826,
+      "box": [
+        126,
+        521,
+        440,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Financial, 2008.04–2012.01",
+      "score": 0.9818,
+      "box": [
+        115,
+        565,
+        718,
+        589
+      ]
+    },
+    {
+      "text": "- Recorded payroll entries",
+      "score": 0.9642,
+      "box": [
+        126,
+        590,
+        369,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with internal control testing",
+      "score": 0.9953,
+      "box": [
+        126,
+        615,
+        473,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting and Finance, Forestfield University, 2010",
+      "score": 0.9656,
+      "box": [
+        114,
+        723,
+        714,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of journal entries",
+      "score": 0.9831,
+      "box": [
+        132,
+        747,
+        510,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of sustainability accounting basics",
+      "score": 0.9834,
+      "box": [
+        133,
+        772,
+        670,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "MEGAN LE\nNY, USA|+1-706-711-3703|megan.le@example.com\nWORK HISTORY\nAccountants Auditors, Integrity Count Financial, 2019.05–2023.01\n- Led accounting transformation projects\n- Managed financial governance\nAccountants Auditors, FairBooks Financial, 2015.09–2019.05\n- Established compliance monitoring systems\n- Directed accounting training programs\nAccountants Auditors, ClearCount Group, 2012.01–2015.09\n- Developed internal audit programs\n- Reviewed payroll reconciliations\nAccountants Auditors, SteadyLedger Financial, 2008.04–2012.01\n- Recorded payroll entries\n- Assisted with internal control testing\nEDUCATION\nBachelor's, Accounting and Finance, Forestfield University, 2010\n• Studied fundamentals of journal entries\n• Studied fundamentals of sustainability accounting basics"
+}

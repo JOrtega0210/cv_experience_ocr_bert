@@ -1,0 +1,187 @@
+{
+  "id": "00901",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.025,
+  "n_lines": 13,
+  "mean_score": 0.982,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JESSICA BLACKWELL",
+      "score": 0.9759,
+      "box": [
+        116,
+        89,
+        481,
+        120
+      ]
+    },
+    {
+      "text": "AK, USA|+1-542-359-2788|jessica.blackwell@example.com",
+      "score": 0.9937,
+      "box": [
+        115,
+        150,
+        694,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9773,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Steps Academy, 2020.03–2023.01",
+      "score": 0.9765,
+      "box": [
+        115,
+        290,
+        842,
+        313
+      ]
+    },
+    {
+      "text": "- Established instructional leadership protocols",
+      "score": 0.9754,
+      "box": [
+        125,
+        313,
+        560,
+        338
+      ]
+    },
+    {
+      "text": "- Designed learning analytics frameworks",
+      "score": 0.9755,
+      "box": [
+        127,
+        340,
+        511,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Horizons Academy, 2014.10–2017.08",
+      "score": 0.9829,
+      "box": [
+        115,
+        381,
+        886,
+        406
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.9813,
+      "box": [
+        126,
+        406,
+        518,
+        431
+      ]
+    },
+    {
+      "text": "- Supervised classroom activities",
+      "score": 0.9795,
+      "box": [
+        125,
+        431,
+        434,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        266,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, General Studies, Windermere University, 2002",
+      "score": 0.9836,
+      "box": [
+        114,
+        539,
+        656,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom facilitation",
+      "score": 0.9809,
+      "box": [
+        135,
+        567,
+        583,
+        587
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic monitoring strategies",
+      "score": 0.986,
+      "box": [
+        134,
+        590,
+        678,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JESSICA BLACKWELL\nAK, USA|+1-542-359-2788|jessica.blackwell@example.com\nWORK HISTORY\nElementary Middle School Teachers, Bright Steps Academy, 2020.03–2023.01\n- Established instructional leadership protocols\n- Designed learning analytics frameworks\nElementary Middle School Teachers, Golden Horizons Academy, 2014.10–2017.08\n- Supported standardized testing sessions\n- Supervised classroom activities\nEDUCATION\nBachelor's, General Studies, Windermere University, 2002\n• Completed coursework in classroom facilitation\n• Completed coursework in academic monitoring strategies"
+}

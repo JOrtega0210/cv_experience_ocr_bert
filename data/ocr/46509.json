@@ -1,0 +1,161 @@
+{
+  "id": "46509",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.76,
+  "n_lines": 11,
+  "mean_score": 0.985,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARISA GOODWIN",
+      "score": 0.9778,
+      "box": [
+        116,
+        90,
+        427,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-516-549-4012|marisa.goodwin@example.com",
+      "score": 0.9852,
+      "box": [
+        115,
+        150,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9823,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skyline Tech, 2020.11–2022.01",
+      "score": 0.9895,
+      "box": [
+        116,
+        290,
+        615,
+        313
+      ]
+    },
+    {
+      "text": "- Maintained code repositories",
+      "score": 0.9813,
+      "box": [
+        126,
+        315,
+        410,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed API documentation",
+      "score": 0.9699,
+      "box": [
+        127,
+        340,
+        416,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Professional degree, Stonegate University, 2013",
+      "score": 0.9801,
+      "box": [
+        114,
+        447,
+        566,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Havenwood University, 2009",
+      "score": 0.9893,
+      "box": [
+        116,
+        475,
+        491,
+        495
+      ]
+    },
+    {
+      "text": "• Completed coursework in database optimization",
+      "score": 0.9915,
+      "box": [
+        134,
+        499,
+        593,
+        522
+      ]
+    },
+    {
+      "text": "• Studied principles of software documentation",
+      "score": 0.9892,
+      "box": [
+        133,
+        522,
+        564,
+        547
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "MARISA GOODWIN\nPA, USA|+1-516-549-4012|marisa.goodwin@example.com\nWORK HISTORY\nSoftware Developers, Skyline Tech, 2020.11–2022.01\n- Maintained code repositories\n- Reviewed API documentation\nEDUCATION\nProfessional degree, Stonegate University, 2013\nBachelor's, Havenwood University, 2009\n• Completed coursework in database optimization\n• Studied principles of software documentation"
+}

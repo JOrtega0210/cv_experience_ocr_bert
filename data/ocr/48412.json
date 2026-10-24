@@ -1,0 +1,148 @@
+{
+  "id": "48412",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.819,
+  "n_lines": 10,
+  "mean_score": 0.9858,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JENNIFER NORMAN",
+      "score": 0.9798,
+      "box": [
+        116,
+        90,
+        443,
+        120
+      ]
+    },
+    {
+      "text": "TN, USA|+1-564-980-5049 |jennifer.norman@example.com",
+      "score": 0.9884,
+      "box": [
+        115,
+        150,
+        685,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9773,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, New Leaf Learning, 2021.07–2023.01",
+      "score": 0.9862,
+      "box": [
+        116,
+        290,
+        811,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9909,
+      "box": [
+        125,
+        314,
+        459,
+        337
+      ]
+    },
+    {
+      "text": "- Prepared daily lesson plans aligned with curriculum guidelines",
+      "score": 0.989,
+      "box": [
+        126,
+        339,
+        716,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Instructional Studies, Silverview University, 2021",
+      "score": 0.9744,
+      "box": [
+        114,
+        447,
+        673,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional feedback",
+      "score": 0.9887,
+      "box": [
+        133,
+        473,
+        581,
+        495
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom communication techniques",
+      "score": 0.9852,
+      "box": [
+        133,
+        497,
+        737,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JENNIFER NORMAN\nTN, USA|+1-564-980-5049 |jennifer.norman@example.com\nWORK HISTORY\nElementary Middle School Teachers, New Leaf Learning, 2021.07–2023.01\n- Assisted with science experiments\n- Prepared daily lesson plans aligned with curriculum guidelines\nEDUCATION\nBachelor's, Instructional Studies, Silverview University, 2021\n• Studied fundamentals of instructional feedback\n• Completed coursework in classroom communication techniques"
+}

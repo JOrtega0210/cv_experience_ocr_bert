@@ -1,0 +1,278 @@
+{
+  "id": "16796",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.073,
+  "n_lines": 20,
+  "mean_score": 0.984,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KATHERINE TRUONG",
+      "score": 0.9793,
+      "box": [
+        116,
+        90,
+        466,
+        121
+      ]
+    },
+    {
+      "text": "HI, USA|+1-583-453-5678|katherine.truong@example.com",
+      "score": 0.9944,
+      "box": [
+        115,
+        150,
+        684,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9814,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Financial Group, 2018.07–2023.01",
+      "score": 0.9842,
+      "box": [
+        114,
+        289,
+        757,
+        314
+      ]
+    },
+    {
+      "text": "- Designed financial modeling standards",
+      "score": 0.991,
+      "box": [
+        126,
+        315,
+        501,
+        338
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9748,
+      "box": [
+        127,
+        340,
+        450,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Services, 2014.01–2018.07",
+      "score": 0.9871,
+      "box": [
+        114,
+        381,
+        688,
+        405
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9777,
+      "box": [
+        126,
+        406,
+        428,
+        431
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9751,
+      "box": [
+        126,
+        430,
+        428,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Financial, 2009.07–2014.01",
+      "score": 0.9886,
+      "box": [
+        115,
+        472,
+        691,
+        495
+      ]
+    },
+    {
+      "text": "- Reviewed tax provisions",
+      "score": 0.9812,
+      "box": [
+        125,
+        496,
+        368,
+        521
+      ]
+    },
+    {
+      "text": "- Conducted inventory valuation",
+      "score": 0.9899,
+      "box": [
+        126,
+        521,
+        423,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Co., 2005.01–2009.07",
+      "score": 0.9845,
+      "box": [
+        114,
+        563,
+        689,
+        587
+      ]
+    },
+    {
+      "text": "- Reviewed credit memos",
+      "score": 0.9801,
+      "box": [
+        125,
+        589,
+        365,
+        612
+      ]
+    },
+    {
+      "text": "- Maintained vendor records",
+      "score": 0.9742,
+      "box": [
+        126,
+        614,
+        389,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        679,
+        266,
+        703
+      ]
+    },
+    {
+      "text": "Master's, Business Administration, Silverlake University, 2006",
+      "score": 0.9956,
+      "box": [
+        115,
+        725,
+        688,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Organizational Management, Brightwater University, 2004",
+      "score": 0.9702,
+      "box": [
+        114,
+        747,
+        760,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in business taxation",
+      "score": 0.9919,
+      "box": [
+        135,
+        775,
+        551,
+        795
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of sustainability accounting basics",
+      "score": 0.9807,
+      "box": [
+        132,
+        797,
+        669,
+        822
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "KATHERINE TRUONG\nHI, USA|+1-583-453-5678|katherine.truong@example.com\nWORK HISTORY\nAccountants Auditors, ClearCount Financial Group, 2018.07–2023.01\n- Designed financial modeling standards\n- Designed accounting frameworks\nAccountants Auditors, SolidCount Services, 2014.01–2018.07\n- Managed financial governance\n- Led audit planning governance\nAccountants Auditors, SolidBooks Financial, 2009.07–2014.01\n- Reviewed tax provisions\n- Conducted inventory valuation\nAccountants Auditors, Balanced Books Co., 2005.01–2009.07\n- Reviewed credit memos\n- Maintained vendor records\nEDUCATION\nMaster's, Business Administration, Silverlake University, 2006\nBachelor's, Organizational Management, Brightwater University, 2004\n• Completed coursework in business taxation\n• Studied fundamentals of sustainability accounting basics"
+}

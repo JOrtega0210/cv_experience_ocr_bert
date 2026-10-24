@@ -1,0 +1,265 @@
+{
+  "id": "45326",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.872,
+  "n_lines": 19,
+  "mean_score": 0.9761,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TRACY ROACH",
+      "score": 0.9566,
+      "box": [
+        113,
+        87,
+        367,
+        123
+      ]
+    },
+    {
+      "text": "PA, USA|+1-956-593-1275|tracy.roach@example.com",
+      "score": 0.9809,
+      "box": [
+        115,
+        150,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Digital, 2020.06–2023.01",
+      "score": 0.947,
+      "box": [
+        114,
+        287,
+        650,
+        315
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9483,
+      "box": [
+        125,
+        313,
+        380,
+        338
+      ]
+    },
+    {
+      "text": "- Defined integration standards",
+      "score": 0.9903,
+      "box": [
+        126,
+        339,
+        415,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightcrest Systems, 2017.11–2020.06",
+      "score": 0.9844,
+      "box": [
+        115,
+        381,
+        682,
+        406
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9849,
+      "box": [
+        126,
+        406,
+        454,
+        431
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9645,
+      "box": [
+        126,
+        430,
+        444,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudframe Digital, 2015.03–2017.11",
+      "score": 0.9816,
+      "box": [
+        115,
+        471,
+        667,
+        496
+      ]
+    },
+    {
+      "text": "- Improved APl performance",
+      "score": 0.9709,
+      "box": [
+        125,
+        496,
+        393,
+        522
+      ]
+    },
+    {
+      "text": "- Designed application modules",
+      "score": 0.9817,
+      "box": [
+        126,
+        521,
+        421,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Ironleaf Tech, 2009.07–2012.03",
+      "score": 0.9837,
+      "box": [
+        115,
+        563,
+        619,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with database queries",
+      "score": 0.9934,
+      "box": [
+        125,
+        589,
+        431,
+        614
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9695,
+      "box": [
+        126,
+        614,
+        604,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Golden Hills University, 2006",
+      "score": 0.9651,
+      "box": [
+        114,
+        723,
+        494,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of refactoring techniques",
+      "score": 0.9734,
+      "box": [
+        132,
+        747,
+        584,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in full-stack development",
+      "score": 0.9851,
+      "box": [
+        135,
+        774,
+        598,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "TRACY ROACH\nPA, USA|+1-956-593-1275|tracy.roach@example.com\nWORK HISTORY\nSoftware Developers, Clearpath Digital, 2020.06–2023.01\n- Defined coding standards\n- Defined integration standards\nSoftware Developers, Brightcrest Systems, 2017.11–2020.06\n- Led performance tuning initiatives\n- Designed observability platforms\nSoftware Developers, Cloudframe Digital, 2015.03–2017.11\n- Improved APl performance\n- Designed application modules\nSoftware Developers, Ironleaf Tech, 2009.07–2012.03\n- Assisted with database queries\n- Implemented basic features in existing codebases\nEDUCATION\nBachelor's, Golden Hills University, 2006\n• Studied fundamentals of refactoring techniques\n• Completed coursework in full-stack development"
+}

@@ -1,0 +1,200 @@
+{
+  "id": "46638",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.805,
+  "n_lines": 14,
+  "mean_score": 0.9796,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AMANDA MAYER",
+      "score": 0.9687,
+      "box": [
+        117,
+        90,
+        397,
+        120
+      ]
+    },
+    {
+      "text": "PA, USA|+1-330-630-7748|amanda.mayer@example.com",
+      "score": 0.9867,
+      "box": [
+        115,
+        150,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9802,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellWay Nursing Services, 2020.05–2022.07",
+      "score": 0.9698,
+      "box": [
+        115,
+        289,
+        721,
+        314
+      ]
+    },
+    {
+      "text": "- Managed clinical risk assessments",
+      "score": 0.9754,
+      "box": [
+        126,
+        315,
+        463,
+        338
+      ]
+    },
+    {
+      "text": "- Managed care delivery innovation",
+      "score": 0.986,
+      "box": [
+        126,
+        339,
+        454,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelILife Medical Group, 2017.05–2019.08",
+      "score": 0.9782,
+      "box": [
+        116,
+        383,
+        691,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with specimen labeling",
+      "score": 0.9947,
+      "box": [
+        125,
+        406,
+        437,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with hygiene care",
+      "score": 0.9748,
+      "box": [
+        126,
+        430,
+        390,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Master's, Nursing Practice, Elm Ridge University, 2013",
+      "score": 0.9691,
+      "box": [
+        115,
+        541,
+        623,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Registered Nursing, Crestwood University, 2011",
+      "score": 0.9779,
+      "box": [
+        114,
+        565,
+        669,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of endocrine nursing",
+      "score": 0.9835,
+      "box": [
+        132,
+        590,
+        507,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of skin integrity maintenance",
+      "score": 0.9704,
+      "box": [
+        133,
+        616,
+        620,
+        638
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "AMANDA MAYER\nPA, USA|+1-330-630-7748|amanda.mayer@example.com\nWORK HISTORY\nRegistered Nurses, WellWay Nursing Services, 2020.05–2022.07\n- Managed clinical risk assessments\n- Managed care delivery innovation\nRegistered Nurses, WelILife Medical Group, 2017.05–2019.08\n- Assisted with specimen labeling\n- Assisted with hygiene care\nEDUCATION\nMaster's, Nursing Practice, Elm Ridge University, 2013\nBachelor's, Registered Nursing, Crestwood University, 2011\n• Studied principles of endocrine nursing\n• Studied fundamentals of skin integrity maintenance"
+}

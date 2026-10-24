@@ -1,0 +1,148 @@
+{
+  "id": "30673",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.729,
+  "n_lines": 10,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JONATHAN LLOYD",
+      "score": 0.9846,
+      "box": [
+        116,
+        90,
+        426,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA |+1-892-992-6914 |jonathan.lloyd@example.com",
+      "score": 0.9773,
+      "box": [
+        116,
+        151,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Tech, 2017.10–220.03",
+      "score": 0.9892,
+      "box": [
+        116,
+        290,
+        639,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9901,
+      "box": [
+        126,
+        314,
+        604,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed API documentation",
+      "score": 0.9734,
+      "box": [
+        126,
+        340,
+        416,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Cloverfield University, 2016",
+      "score": 0.9703,
+      "box": [
+        115,
+        449,
+        481,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of normalization",
+      "score": 0.9797,
+      "box": [
+        132,
+        472,
+        503,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of data modeling",
+      "score": 0.9899,
+      "box": [
+        133,
+        499,
+        472,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JONATHAN LLOYD\nMO, USA |+1-892-992-6914 |jonathan.lloyd@example.com\nWORK HISTORY\nSoftware Developers, Codepath Tech, 2017.10–220.03\n- Implemented basic features in existing codebases\n- Reviewed API documentation\nEDUCATION\nBachelor's, Cloverfield University, 2016\n• Studied fundamentals of normalization\n• Studied principles of data modeling"
+}

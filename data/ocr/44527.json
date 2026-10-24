@@ -1,0 +1,187 @@
+{
+  "id": "44527",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.777,
+  "n_lines": 13,
+  "mean_score": 0.9832,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JACOB MICHAEL",
+      "score": 0.9789,
+      "box": [
+        116,
+        90,
+        397,
+        121
+      ]
+    },
+    {
+      "text": "OR, USA|+1-207-356-4179 |jacob.michael@example.com",
+      "score": 0.9925,
+      "box": [
+        116,
+        151,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonefield Software, 2021.04–2023.01",
+      "score": 0.987,
+      "box": [
+        114,
+        288,
+        675,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9896,
+      "box": [
+        125,
+        314,
+        423,
+        337
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.9703,
+      "box": [
+        127,
+        340,
+        499,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Netcore Labs, 2017.12–2019.09",
+      "score": 0.9926,
+      "box": [
+        115,
+        382,
+        621,
+        405
+      ]
+    },
+    {
+      "text": "- Optimized simple queries",
+      "score": 0.9841,
+      "box": [
+        126,
+        408,
+        377,
+        431
+      ]
+    },
+    {
+      "text": "- Performed code formatting",
+      "score": 0.9551,
+      "box": [
+        126,
+        432,
+        389,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Crestline University, 2011",
+      "score": 0.9695,
+      "box": [
+        115,
+        540,
+        462,
+        563
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of domain-driven design",
+      "score": 0.9834,
+      "box": [
+        132,
+        564,
+        578,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in tree data structures",
+      "score": 0.994,
+      "box": [
+        134,
+        591,
+        570,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JACOB MICHAEL\nOR, USA|+1-207-356-4179 |jacob.michael@example.com\nWORK HISTORY\nSoftware Developers, Stonefield Software, 2021.04–2023.01\n- Implemented core frameworks\n- Implemented infrastructure automation\nSoftware Developers, Netcore Labs, 2017.12–2019.09\n- Optimized simple queries\n- Performed code formatting\nEDUCATION\nBachelor's, Crestline University, 2011\n• Studied fundamentals of domain-driven design\n• Completed coursework in tree data structures"
+}

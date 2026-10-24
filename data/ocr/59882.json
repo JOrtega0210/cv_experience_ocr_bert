@@ -1,0 +1,200 @@
+{
+  "id": "59882",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.792,
+  "n_lines": 14,
+  "mean_score": 0.9797,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRITTANY HUANG",
+      "score": 0.9746,
+      "box": [
+        116,
+        90,
+        418,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-371-484-8152|brittany.huang@example.com",
+      "score": 0.9696,
+      "box": [
+        115,
+        150,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skyfield Software, 2020.02–2023.01",
+      "score": 0.9785,
+      "box": [
+        115,
+        290,
+        656,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9745,
+      "box": [
+        127,
+        315,
+        461,
+        338
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9597,
+      "box": [
+        125,
+        339,
+        368,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Technologies, 2017.02–2020.02",
+      "score": 0.9929,
+      "box": [
+        115,
+        381,
+        697,
+        406
+      ]
+    },
+    {
+      "text": "- Wrote utility scripts",
+      "score": 0.9643,
+      "box": [
+        125,
+        405,
+        318,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9939,
+      "box": [
+        126,
+        431,
+        604,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Meadowway University, 2017",
+      "score": 0.9781,
+      "box": [
+        115,
+        541,
+        479,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Silverwood University, 2015",
+      "score": 0.9793,
+      "box": [
+        115,
+        566,
+        484,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in requirements engineering",
+      "score": 0.9887,
+      "box": [
+        133,
+        590,
+        625,
+        616
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of compiler design",
+      "score": 0.9786,
+      "box": [
+        133,
+        615,
+        525,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "BRITTANY HUANG\nWA, USA|+1-371-484-8152|brittany.huang@example.com\nWORK HISTORY\nSoftware Developers, Skyfield Software, 2020.02–2023.01\n- Implemented service orchestration\n- Built distributed systems\nSoftware Developers, Netfield Technologies, 2017.02–2020.02\n- Wrote utility scripts\n- Implemented basic features in existing codebases\nEDUCATION\nMaster's, Meadowway University, 2017\nBachelor's, Silverwood University, 2015\n• Completed coursework in requirements engineering\n• Studied fundamentals of compiler design"
+}

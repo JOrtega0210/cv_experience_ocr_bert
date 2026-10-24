@@ -1,0 +1,265 @@
+{
+  "id": "28472",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.924,
+  "n_lines": 19,
+  "mean_score": 0.981,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ADAM BROWNING",
+      "score": 0.9914,
+      "box": [
+        117,
+        90,
+        417,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-420-859-1668|adam.browning@example.com",
+      "score": 0.9847,
+      "box": [
+        115,
+        150,
+        687,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9856,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Build Group, 2019.04–2023.01",
+      "score": 0.9886,
+      "box": [
+        114,
+        288,
+        698,
+        314
+      ]
+    },
+    {
+      "text": "- Directed equipment operations",
+      "score": 0.9561,
+      "box": [
+        127,
+        315,
+        427,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.9694,
+      "box": [
+        126,
+        339,
+        532,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWay Contractors, 2015.07–2019.04",
+      "score": 0.9777,
+      "box": [
+        115,
+        381,
+        710,
+        406
+      ]
+    },
+    {
+      "text": "- Developed construction workflows",
+      "score": 0.9908,
+      "box": [
+        126,
+        407,
+        458,
+        430
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9743,
+      "box": [
+        126,
+        432,
+        477,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearStone Builders, 2011.10–2015.07",
+      "score": 0.985,
+      "box": [
+        115,
+        472,
+        694,
+        495
+      ]
+    },
+    {
+      "text": "- Performed quality checks on installations",
+      "score": 0.9774,
+      "box": [
+        125,
+        496,
+        520,
+        521
+      ]
+    },
+    {
+      "text": "- Maintained equipment logs",
+      "score": 0.9726,
+      "box": [
+        126,
+        521,
+        392,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorLine Contractors, 2008.01–2011.10",
+      "score": 0.9786,
+      "box": [
+        114,
+        563,
+        728,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with roofing material handling",
+      "score": 0.9823,
+      "box": [
+        125,
+        589,
+        498,
+        614
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.9823,
+      "box": [
+        125,
+        613,
+        418,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Heavy Equipment Operation, Hawthorne University, 2007",
+      "score": 0.9796,
+      "box": [
+        114,
+        723,
+        756,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction equipment safety",
+      "score": 0.966,
+      "box": [
+        132,
+        748,
+        666,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic site grading",
+      "score": 0.9985,
+      "box": [
+        134,
+        772,
+        552,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "ADAM BROWNING\nMN, USA|+1-420-859-1668|adam.browning@example.com\nWORK HISTORY\nConstruction Laborers, Reliable Build Group, 2019.04–2023.01\n- Directed equipment operations\n- Implemented safety compliance strategies\nConstruction Laborers, SolidWay Contractors, 2015.07–2019.04\n- Developed construction workflows\n- Reviewed material quality standards\nConstruction Laborers, ClearStone Builders, 2011.10–2015.07\n- Performed quality checks on installations\n- Maintained equipment logs\nConstruction Laborers, AnchorLine Contractors, 2008.01–2011.10\n- Assisted with roofing material handling\n- Maintained tool storage areas\nEDUCATION\nBachelor's, Heavy Equipment Operation, Hawthorne University, 2007\n• Completed coursework in construction equipment safety\n• Completed coursework in basic site grading"
+}

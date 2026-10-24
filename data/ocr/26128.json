@@ -1,0 +1,200 @@
+{
+  "id": "26128",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.858,
+  "n_lines": 14,
+  "mean_score": 0.9827,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ALANA BENNETT",
+      "score": 0.9834,
+      "box": [
+        117,
+        90,
+        402,
+        120
+      ]
+    },
+    {
+      "text": "MA, USA|+1-709-781-7804 |alana.bennett@example.com",
+      "score": 0.9673,
+      "box": [
+        114,
+        150,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9779,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Start School, 2021.06–2023.01",
+      "score": 0.9859,
+      "box": [
+        114,
+        289,
+        817,
+        314
+      ]
+    },
+    {
+      "text": "- Designed learning analytics frameworks",
+      "score": 0.9862,
+      "box": [
+        126,
+        315,
+        511,
+        338
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.9842,
+      "box": [
+        127,
+        340,
+        505,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Sky School, 2019.10–2021.06",
+      "score": 0.9872,
+      "box": [
+        115,
+        381,
+        800,
+        406
+      ]
+    },
+    {
+      "text": "- Maintained classroom bulletin boards",
+      "score": 0.9632,
+      "box": [
+        126,
+        407,
+        486,
+        429
+      ]
+    },
+    {
+      "text": "- Distributed assessment rubrics",
+      "score": 0.9843,
+      "box": [
+        126,
+        431,
+        427,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Child and Family Studies, Bayside University, 2018",
+      "score": 0.9763,
+      "box": [
+        115,
+        541,
+        679,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Foundations, Stonecrest University, 2016",
+      "score": 0.9864,
+      "box": [
+        114,
+        565,
+        699,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of learning environments",
+      "score": 0.9924,
+      "box": [
+        133,
+        591,
+        584,
+        613
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational education methods",
+      "score": 0.9851,
+      "box": [
+        134,
+        616,
+        685,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "ALANA BENNETT\nMA, USA|+1-709-781-7804 |alana.bennett@example.com\nWORK HISTORY\nElementary Middle School Teachers, Caring Start School, 2021.06–2023.01\n- Designed learning analytics frameworks\n- Designed systemic intervention models\nElementary Middle School Teachers, Open Sky School, 2019.10–2021.06\n- Maintained classroom bulletin boards\n- Distributed assessment rubrics\nEDUCATION\nMaster's, Child and Family Studies, Bayside University, 2018\nBachelor's, Teaching Foundations, Stonecrest University, 2016\n• Studied fundamentals of learning environments\n• Completed coursework in foundational education methods"
+}

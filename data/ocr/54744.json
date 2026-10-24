@@ -1,0 +1,148 @@
+{
+  "id": "54744",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.769,
+  "n_lines": 10,
+  "mean_score": 0.9797,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "GRAY TAYLOR",
+      "score": 0.9611,
+      "box": [
+        116,
+        88,
+        362,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA|+1-499-287-4974 |gray.taylor@example.com",
+      "score": 0.9778,
+      "box": [
+        114,
+        150,
+        636,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Frame Builders, 2020.07–2023.01",
+      "score": 0.9887,
+      "box": [
+        115,
+        290,
+        720,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with drywall installation",
+      "score": 0.9798,
+      "box": [
+        126,
+        315,
+        441,
+        338
+      ]
+    },
+    {
+      "text": "– Marked measurements on materials",
+      "score": 0.9746,
+      "box": [
+        127,
+        340,
+        475,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Technology, Autumn Ridge University, 2022",
+      "score": 0.9775,
+      "box": [
+        114,
+        447,
+        756,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of door installation",
+      "score": 0.9601,
+      "box": [
+        133,
+        473,
+        525,
+        496
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of site fencing",
+      "score": 0.9942,
+      "box": [
+        132,
+        496,
+        484,
+        524
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "GRAY TAYLOR\nTX, USA|+1-499-287-4974 |gray.taylor@example.com\nWORK HISTORY\nConstruction Laborers, Unified Frame Builders, 2020.07–2023.01\n- Assisted with drywall installation\n– Marked measurements on materials\nEDUCATION\nBachelor's, Construction Technology, Autumn Ridge University, 2022\n• Studied fundamentals of door installation\n• Studied fundamentals of site fencing"
+}

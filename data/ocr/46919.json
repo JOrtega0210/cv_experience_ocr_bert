@@ -1,0 +1,187 @@
+{
+  "id": "46919",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.873,
+  "n_lines": 13,
+  "mean_score": 0.9827,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "WESLEY MORRISON",
+      "score": 0.9931,
+      "box": [
+        116,
+        90,
+        452,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-806-249-2541 |wesley.morrison@example.com",
+      "score": 0.9642,
+      "box": [
+        115,
+        150,
+        690,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9763,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Field Academy, 2020.03–2023.01",
+      "score": 0.9859,
+      "box": [
+        115,
+        289,
+        864,
+        314
+      ]
+    },
+    {
+      "text": "-Directed academic intervention strategies",
+      "score": 0.977,
+      "box": [
+        125,
+        314,
+        525,
+        339
+      ]
+    },
+    {
+      "text": "- Established instructional leadership protocols",
+      "score": 0.976,
+      "box": [
+        126,
+        339,
+        560,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Futures School, 2017.04–2020.03",
+      "score": 0.9888,
+      "box": [
+        115,
+        381,
+        838,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared lesson summaries",
+      "score": 0.9839,
+      "box": [
+        126,
+        407,
+        402,
+        430
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.9919,
+      "box": [
+        126,
+        432,
+        443,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Basics, Elm Valley University, 221",
+      "score": 0.9816,
+      "box": [
+        115,
+        541,
+        649,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational data basics",
+      "score": 0.9724,
+      "box": [
+        134,
+        566,
+        608,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of student comprehension",
+      "score": 0.9858,
+      "box": [
+        134,
+        591,
+        559,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "WESLEY MORRISON\nPA, USA|+1-806-249-2541 |wesley.morrison@example.com\nWORK HISTORY\nElementary Middle School Teachers, Harmony Field Academy, 2020.03–2023.01\n-Directed academic intervention strategies\n- Established instructional leadership protocols\nElementary Middle School Teachers, Bright Futures School, 2017.04–2020.03\n- Prepared lesson summaries\n- Scheduled instructional activities\nEDUCATION\nBachelor's, Education Basics, Elm Valley University, 221\n• Completed coursework in educational data basics\n• Studied principles of student comprehension"
+}

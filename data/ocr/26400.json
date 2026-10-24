@@ -1,0 +1,265 @@
+{
+  "id": "26400",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.924,
+  "n_lines": 19,
+  "mean_score": 0.9846,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RICHARD DICKERSON",
+      "score": 0.9861,
+      "box": [
+        117,
+        90,
+        481,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-957-698-4444 |richard.dickerson@example.com",
+      "score": 0.9829,
+      "box": [
+        115,
+        150,
+        702,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9807,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmWay Construction, 2020.01–2023.01",
+      "score": 0.9833,
+      "box": [
+        115,
+        290,
+        712,
+        312
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.9834,
+      "box": [
+        127,
+        314,
+        477,
+        337
+      ]
+    },
+    {
+      "text": "- Directed training programs for crews",
+      "score": 0.9801,
+      "box": [
+        127,
+        340,
+        478,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeStone Co., 2017.01–2020.01",
+      "score": 0.9806,
+      "box": [
+        116,
+        382,
+        652,
+        405
+      ]
+    },
+    {
+      "text": "- Developed project risk assessments",
+      "score": 0.9938,
+      "box": [
+        126,
+        407,
+        476,
+        430
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.9872,
+      "box": [
+        127,
+        432,
+        462,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmBuild Services, 2014.01–2017.01",
+      "score": 0.9853,
+      "box": [
+        115,
+        472,
+        681,
+        495
+      ]
+    },
+    {
+      "text": "- Installed drainage systems",
+      "score": 0.972,
+      "box": [
+        125,
+        496,
+        391,
+        521
+      ]
+    },
+    {
+      "text": "- Assembled structural frameworks",
+      "score": 0.969,
+      "box": [
+        126,
+        522,
+        449,
+        544
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidBuild Group, 2010.12–2014.01",
+      "score": 0.9921,
+      "box": [
+        115,
+        565,
+        663,
+        588
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.985,
+      "box": [
+        126,
+        590,
+        400,
+        613
+      ]
+    },
+    {
+      "text": "- Assisted with drywall installation",
+      "score": 0.9875,
+      "box": [
+        126,
+        614,
+        438,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Trades, Skycrest University, 2009",
+      "score": 0.9888,
+      "box": [
+        115,
+        723,
+        761,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction logistics planning",
+      "score": 0.9877,
+      "box": [
+        132,
+        748,
+        666,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of masonry",
+      "score": 0.9832,
+      "box": [
+        133,
+        772,
+        458,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "RICHARD DICKERSON\nMA, USA|+1-957-698-4444 |richard.dickerson@example.com\nWORK HISTORY\nConstruction Laborers, FirmWay Construction, 2020.01–2023.01\n- Developed site performance metrics\n- Directed training programs for crews\nConstruction Laborers, PrimeStone Co., 2017.01–2020.01\n- Developed project risk assessments\n- Designed site logistics frameworks\nConstruction Laborers, FirmBuild Services, 2014.01–2017.01\n- Installed drainage systems\n- Assembled structural frameworks\nConstruction Laborers, SolidBuild Group, 2010.12–2014.01\n- Dug trenches for utility lines\n- Assisted with drywall installation\nEDUCATION\nSome college (no degree), Building Trades, Skycrest University, 2009\n• Completed coursework in construction logistics planning\n• Studied fundamentals of masonry"
+}

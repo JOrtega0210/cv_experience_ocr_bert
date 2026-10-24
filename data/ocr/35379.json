@@ -1,0 +1,239 @@
+{
+  "id": "35379",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.881,
+  "n_lines": 17,
+  "mean_score": 0.9832,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CELESTE STOUT",
+      "score": 0.9829,
+      "box": [
+        117,
+        90,
+        395,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-295-957-8025|celeste.stout@example.com",
+      "score": 0.9874,
+      "box": [
+        115,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Group, 2020.09–2023.01",
+      "score": 0.9857,
+      "box": [
+        114,
+        289,
+        703,
+        314
+      ]
+    },
+    {
+      "text": "- Developed financial analytics frameworks",
+      "score": 0.9816,
+      "box": [
+        127,
+        315,
+        525,
+        338
+      ]
+    },
+    {
+      "text": "- Led financial forecasting initiatives",
+      "score": 0.9835,
+      "box": [
+        126,
+        339,
+        459,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Solutions, 2018.04–2020.09",
+      "score": 0.9871,
+      "box": [
+        114,
+        381,
+        694,
+        406
+      ]
+    },
+    {
+      "text": "- Developed audit plans",
+      "score": 0.9709,
+      "box": [
+        126,
+        406,
+        350,
+        431
+      ]
+    },
+    {
+      "text": "- Managed fixed asset accounting",
+      "score": 0.9782,
+      "box": [
+        126,
+        430,
+        442,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Financial, 2015.11–2018.04",
+      "score": 0.9808,
+      "box": [
+        114,
+        471,
+        720,
+        496
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9704,
+      "box": [
+        125,
+        496,
+        490,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with financial statement preparation",
+      "score": 0.9766,
+      "box": [
+        126,
+        521,
+        555,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Organizational Management, Prairie View University, 2017",
+      "score": 0.9776,
+      "box": [
+        114,
+        631,
+        748,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Planning, Riverfield University, 2015",
+      "score": 0.9819,
+      "box": [
+        114,
+        656,
+        650,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in contribution margin analysis",
+      "score": 0.9976,
+      "box": [
+        134,
+        683,
+        648,
+        706
+      ]
+    },
+    {
+      "text": "• Studied principles of financial risk management",
+      "score": 0.9896,
+      "box": [
+        133,
+        706,
+        586,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "CELESTE STOUT\nNY, USA|+1-295-957-8025|celeste.stout@example.com\nWORK HISTORY\nAccountants Auditors, Precise Ledger Group, 2020.09–2023.01\n- Developed financial analytics frameworks\n- Led financial forecasting initiatives\nAccountants Auditors, AccuCount Solutions, 2018.04–2020.09\n- Developed audit plans\n- Managed fixed asset accounting\nAccountants Auditors, SteadyLedger Financial, 2015.11–2018.04\n- Processed accounts payable invoices\n- Assisted with financial statement preparation\nEDUCATION\nMaster's, Organizational Management, Prairie View University, 2017\nBachelor's, Financial Planning, Riverfield University, 2015\n• Completed coursework in contribution margin analysis\n• Studied principles of financial risk management"
+}

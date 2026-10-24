@@ -1,0 +1,187 @@
+{
+  "id": "16895",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.929,
+  "n_lines": 13,
+  "mean_score": 0.9772,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KATHERINE BUCKLEY",
+      "score": 0.9899,
+      "box": [
+        116,
+        90,
+        483,
+        120
+      ]
+    },
+    {
+      "text": "ID, USA|+1-858-890-4066 |katherine.buckley@example.com",
+      "score": 0.9908,
+      "box": [
+        116,
+        150,
+        695,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.98,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearBridge Health Group, 2021.01–2023.01",
+      "score": 0.9742,
+      "box": [
+        116,
+        289,
+        713,
+        312
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.9585,
+      "box": [
+        126,
+        314,
+        391,
+        337
+      ]
+    },
+    {
+      "text": "- Directed clinical training standards",
+      "score": 0.9629,
+      "box": [
+        126,
+        338,
+        459,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenSpring Care Services, 2019.01–2021.01",
+      "score": 0.9705,
+      "box": [
+        116,
+        382,
+        723,
+        405
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.982,
+      "box": [
+        126,
+        407,
+        484,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9677,
+      "box": [
+        125,
+        430,
+        387,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Care Management, Parkview University, 2017",
+      "score": 0.9884,
+      "box": [
+        114,
+        539,
+        796,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of wound care",
+      "score": 0.9592,
+      "box": [
+        132,
+        566,
+        450,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of musculoskeletal nursing",
+      "score": 0.9814,
+      "box": [
+        132,
+        589,
+        602,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KATHERINE BUCKLEY\nID, USA|+1-858-890-4066 |katherine.buckley@example.com\nWORK HISTORY\nRegistered Nurses, ClearBridge Health Group, 2021.01–2023.01\n- Led nursing process audits\n- Directed clinical training standards\nRegistered Nurses, OpenSpring Care Services, 2019.01–2021.01\n- Administered prescribed medications\n- Prepared treatment rooms\nEDUCATION\nAssociate's degree, Health Care Management, Parkview University, 2017\n• Studied principles of wound care\n• Studied fundamentals of musculoskeletal nursing"
+}

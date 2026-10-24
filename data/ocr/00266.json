@@ -1,0 +1,187 @@
+{
+  "id": "00266",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.963,
+  "n_lines": 13,
+  "mean_score": 0.9809,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SAVANNAH MOORE",
+      "score": 0.9913,
+      "box": [
+        116,
+        90,
+        443,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-907-200-7269 | savannah.moore@example.com",
+      "score": 0.9748,
+      "box": [
+        116,
+        151,
+        693,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindCare Medical Services, 2020.11–2023.01",
+      "score": 0.9907,
+      "box": [
+        116,
+        290,
+        725,
+        313
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.977,
+      "box": [
+        127,
+        315,
+        425,
+        338
+      ]
+    },
+    {
+      "text": "- Managed clinical resource planning",
+      "score": 0.9733,
+      "box": [
+        127,
+        340,
+        468,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeWay Health Group, 2018.09–2020.11",
+      "score": 0.9771,
+      "box": [
+        116,
+        382,
+        689,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored patient pain levels",
+      "score": 0.953,
+      "box": [
+        125,
+        406,
+        409,
+        431
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9875,
+      "box": [
+        125,
+        432,
+        409,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Nursing Studies, Goldenfield University, 2023",
+      "score": 0.9708,
+      "box": [
+        116,
+        541,
+        789,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in transition of care basics",
+      "score": 0.9881,
+      "box": [
+        133,
+        566,
+        610,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in nonpharmacologic pain relief",
+      "score": 0.983,
+      "box": [
+        134,
+        591,
+        657,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "SAVANNAH MOORE\nAL, USA|+1-907-200-7269 | savannah.moore@example.com\nWORK HISTORY\nRegistered Nurses, KindCare Medical Services, 2020.11–2023.01\n- Led clinical governance efforts\n- Managed clinical resource planning\nRegistered Nurses, SafeWay Health Group, 2018.09–2020.11\n- Monitored patient pain levels\n- Recorded shift handoff notes\nEDUCATION\nSome college (no degree), Nursing Studies, Goldenfield University, 2023\n• Completed coursework in transition of care basics\n• Completed coursework in nonpharmacologic pain relief"
+}

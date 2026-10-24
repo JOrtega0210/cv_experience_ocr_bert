@@ -1,0 +1,265 @@
+{
+  "id": "30425",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.85,
+  "n_lines": 19,
+  "mean_score": 0.9834,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JASON DUARTE",
+      "score": 0.99,
+      "box": [
+        116,
+        90,
+        382,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA|+1-881-687-1106 |jason.duarte@example.com",
+      "score": 0.9743,
+      "box": [
+        115,
+        150,
+        660,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9821,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Skyline Digital, 2019.02–2023.01",
+      "score": 0.9864,
+      "box": [
+        115,
+        289,
+        626,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.976,
+      "box": [
+        127,
+        315,
+        500,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented data pipeline architectures",
+      "score": 0.9836,
+      "box": [
+        126,
+        339,
+        512,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Datawave Systems, 2015.03–2019.02",
+      "score": 0.9822,
+      "box": [
+        115,
+        381,
+        675,
+        406
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9936,
+      "box": [
+        126,
+        406,
+        450,
+        431
+      ]
+    },
+    {
+      "text": "- Developed system monitoring strategies",
+      "score": 0.9683,
+      "box": [
+        126,
+        430,
+        513,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpath Systems, 2011.04–2015.03",
+      "score": 0.9853,
+      "box": [
+        115,
+        471,
+        667,
+        496
+      ]
+    },
+    {
+      "text": "- Improved APl performance",
+      "score": 0.9718,
+      "box": [
+        125,
+        497,
+        392,
+        522
+      ]
+    },
+    {
+      "text": "- Improved build processes",
+      "score": 0.9891,
+      "box": [
+        126,
+        521,
+        380,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Digital, 2006.02–2010.02",
+      "score": 0.9856,
+      "box": [
+        116,
+        565,
+        651,
+        589
+      ]
+    },
+    {
+      "text": "- Monitored application logs",
+      "score": 0.9621,
+      "box": [
+        125,
+        589,
+        386,
+        615
+      ]
+    },
+    {
+      "text": "- Implemented basic authentication logic",
+      "score": 0.9929,
+      "box": [
+        126,
+        614,
+        502,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Brookhaven University, 2002",
+      "score": 0.9963,
+      "box": [
+        115,
+        725,
+        493,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in memory management",
+      "score": 0.9891,
+      "box": [
+        133,
+        748,
+        594,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in scripting languages",
+      "score": 0.9779,
+      "box": [
+        134,
+        773,
+        569,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "JASON DUARTE\nMO, USA|+1-881-687-1106 |jason.duarte@example.com\nWORK HISTORY\nSoftware Developers, Skyline Digital, 2019.02–2023.01\n- Implemented infrastructure automation\n- Implemented data pipeline architectures\nSoftware Developers, Datawave Systems, 2015.03–2019.02\n- Defined data governance policies\n- Developed system monitoring strategies\nSoftware Developers, Flowpath Systems, 2011.04–2015.03\n- Improved APl performance\n- Improved build processes\nSoftware Developers, Clearpath Digital, 2006.02–2010.02\n- Monitored application logs\n- Implemented basic authentication logic\nEDUCATION\nBachelor's, Brookhaven University, 2002\n• Completed coursework in memory management\n• Completed coursework in scripting languages"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "09353",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.995,
+  "n_lines": 16,
+  "mean_score": 0.9758,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DANA TANG",
+      "score": 0.9513,
+      "box": [
+        115,
+        88,
+        319,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-313-594-3446 |dana.tang@example.com",
+      "score": 0.9821,
+      "box": [
+        116,
+        150,
+        634,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9865,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Services, 2020.11–2023.01",
+      "score": 0.9786,
+      "box": [
+        114,
+        289,
+        736,
+        313
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9734,
+      "box": [
+        126,
+        313,
+        429,
+        340
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9666,
+      "box": [
+        126,
+        338,
+        489,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Financial, 2018.09–2020.11",
+      "score": 0.9758,
+      "box": [
+        115,
+        382,
+        709,
+        405
+      ]
+    },
+    {
+      "text": "- Developed audit plans",
+      "score": 0.9717,
+      "box": [
+        126,
+        406,
+        350,
+        431
+      ]
+    },
+    {
+      "text": "- Supervised junior accountants",
+      "score": 0.9913,
+      "box": [
+        126,
+        430,
+        422,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Advisors Group, 2016.07–2018.09",
+      "score": 0.977,
+      "box": [
+        114,
+        471,
+        742,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9653,
+      "box": [
+        125,
+        496,
+        366,
+        521
+      ]
+    },
+    {
+      "text": "-Maintained chart of accounts",
+      "score": 0.9513,
+      "box": [
+        126,
+        522,
+        409,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Financial Services, Silverton University, 2016",
+      "score": 0.9652,
+      "box": [
+        115,
+        631,
+        787,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of operational auditing",
+      "score": 0.9811,
+      "box": [
+        132,
+        656,
+        524,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting information systems",
+      "score": 0.9962,
+      "box": [
+        135,
+        683,
+        681,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "DANA TANG\nCA, USA|+1-313-594-3446 |dana.tang@example.com\nWORK HISTORY\nAccountants Auditors, Precise Balance Services, 2020.11–2023.01\n- Led audit planning governance\n- Directed financial system architecture\nAccountants Auditors, SteadyCount Financial, 2018.09–2020.11\n- Developed audit plans\n- Supervised junior accountants\nAccountants Auditors, FairCount Advisors Group, 2016.07–2018.09\n- Prepared journal entries\n-Maintained chart of accounts\nEDUCATION\nSome college (no degree), Financial Services, Silverton University, 2016\n• Studied principles of operational auditing\n• Completed coursework in accounting information systems"
+}

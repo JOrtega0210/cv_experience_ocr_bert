@@ -1,0 +1,226 @@
+{
+  "id": "27504",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.919,
+  "n_lines": 16,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CHERYLGRAY",
+      "score": 0.9992,
+      "box": [
+        116,
+        88,
+        362,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA|+1-982-537-3229 |cheryl.gray@example.com",
+      "score": 0.9777,
+      "box": [
+        116,
+        151,
+        637,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Minds Academy, 2019.12–2023.01",
+      "score": 0.9732,
+      "box": [
+        116,
+        290,
+        850,
+        313
+      ]
+    },
+    {
+      "text": "- Developed long-term instructional strategies",
+      "score": 0.9804,
+      "box": [
+        125,
+        314,
+        550,
+        339
+      ]
+    },
+    {
+      "text": "- Led instructional design reviews",
+      "score": 0.9771,
+      "box": [
+        127,
+        339,
+        438,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Bridge Academy, 2016.11–2019.12",
+      "score": 0.989,
+      "box": [
+        115,
+        381,
+        878,
+        406
+      ]
+    },
+    {
+      "text": "- Tracked long-term student progress",
+      "score": 0.9961,
+      "box": [
+        126,
+        406,
+        474,
+        432
+      ]
+    },
+    {
+      "text": "- Developed progress monitoring tools",
+      "score": 0.9757,
+      "box": [
+        126,
+        431,
+        482,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Hills Academy, 2010.11–2014.01",
+      "score": 0.9866,
+      "box": [
+        116,
+        472,
+        828,
+        496
+      ]
+    },
+    {
+      "text": "- Managed classroom supplies",
+      "score": 0.966,
+      "box": [
+        127,
+        498,
+        413,
+        522
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.979,
+      "box": [
+        126,
+        521,
+        496,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, General Academic Studies, Meadowway University, 2002",
+      "score": 0.9739,
+      "box": [
+        115,
+        632,
+        756,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic instruction methods",
+      "score": 0.9942,
+      "box": [
+        133,
+        656,
+        665,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom communication techniques",
+      "score": 0.9891,
+      "box": [
+        135,
+        681,
+        737,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "CHERYLGRAY\nMI, USA|+1-982-537-3229 |cheryl.gray@example.com\nWORK HISTORY\nElementary Middle School Teachers, Future Minds Academy, 2019.12–2023.01\n- Developed long-term instructional strategies\n- Led instructional design reviews\nElementary Middle School Teachers, Learning Bridge Academy, 2016.11–2019.12\n- Tracked long-term student progress\n- Developed progress monitoring tools\nElementary Middle School Teachers, Bright Hills Academy, 2010.11–2014.01\n- Managed classroom supplies\n- Implemented lesson pacing guidelines\nEDUCATION\nBachelor's, General Academic Studies, Meadowway University, 2002\n• Completed coursework in academic instruction methods\n• Completed coursework in classroom communication techniques"
+}

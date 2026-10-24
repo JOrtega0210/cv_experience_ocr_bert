@@ -1,0 +1,187 @@
+{
+  "id": "49408",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.839,
+  "n_lines": 13,
+  "mean_score": 0.9784,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRIAN DUNLAP",
+      "score": 0.9666,
+      "box": [
+        116,
+        89,
+        373,
+        120
+      ]
+    },
+    {
+      "text": "TN, USA|+1-436-981-6552 |brian.dunlap@example.com",
+      "score": 0.9866,
+      "box": [
+        115,
+        150,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9786,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmLine Construction, 2018.06–2020.12",
+      "score": 0.9854,
+      "box": [
+        115,
+        290,
+        712,
+        312
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.9852,
+      "box": [
+        125,
+        314,
+        439,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.9701,
+      "box": [
+        126,
+        339,
+        532,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronLine Contractors, 2015.01–2017.07",
+      "score": 0.9892,
+      "box": [
+        116,
+        382,
+        698,
+        405
+      ]
+    },
+    {
+      "text": "- Performed basic demolition tasks",
+      "score": 0.961,
+      "box": [
+        126,
+        407,
+        448,
+        429
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9907,
+      "box": [
+        126,
+        431,
+        489,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Design, Ironwood University, 2015",
+      "score": 0.9545,
+      "box": [
+        116,
+        541,
+        809,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction materials identification",
+      "score": 0.9843,
+      "box": [
+        133,
+        566,
+        714,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of building materials",
+      "score": 0.9691,
+      "box": [
+        134,
+        591,
+        504,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "BRIAN DUNLAP\nTN, USA|+1-436-981-6552 |brian.dunlap@example.com\nWORK HISTORY\nConstruction Laborers, FirmLine Construction, 2018.06–2020.12\n- Reviewed engineering drawings\n- Implemented safety compliance strategies\nConstruction Laborers, IronLine Contractors, 2015.01–2017.07\n- Performed basic demolition tasks\n- Performed basic plumbing assistance\nEDUCATION\nSome college (no degree), Construction Design, Ironwood University, 2015\n• Completed coursework in construction materials identification\n• Studied principles of building materials"
+}

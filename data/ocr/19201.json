@@ -1,0 +1,187 @@
+{
+  "id": "19201",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.862,
+  "n_lines": 13,
+  "mean_score": 0.98,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KAYLA JENKINS",
+      "score": 0.9854,
+      "box": [
+        116,
+        90,
+        387,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-708-998-9923 |kayla.jenkins@example.com",
+      "score": 0.9755,
+      "box": [
+        116,
+        151,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9781,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Services, 2020.09–2023.01",
+      "score": 0.9915,
+      "box": [
+        115,
+        290,
+        684,
+        312
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9753,
+      "box": [
+        127,
+        315,
+        528,
+        338
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9877,
+      "box": [
+        127,
+        340,
+        508,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Advisors, 2018.05–2020.09",
+      "score": 0.9926,
+      "box": [
+        115,
+        382,
+        752,
+        404
+      ]
+    },
+    {
+      "text": "- Reconciled bank statements",
+      "score": 0.9802,
+      "box": [
+        126,
+        407,
+        404,
+        429
+      ]
+    },
+    {
+      "text": "- Recorded payroll entries",
+      "score": 0.9689,
+      "box": [
+        126,
+        432,
+        369,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting Practice, Wildflower University, 2019",
+      "score": 0.9628,
+      "box": [
+        114,
+        539,
+        673,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial controls",
+      "score": 0.9752,
+      "box": [
+        134,
+        566,
+        545,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in cost accounting",
+      "score": 0.9684,
+      "box": [
+        135,
+        591,
+        534,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KAYLA JENKINS\nIL, USA|+1-708-998-9923 |kayla.jenkins@example.com\nWORK HISTORY\nAccountants Auditors, FairLedger Services, 2020.09–2023.01\n- Designed financial accountability systems\n- Established tax compliance frameworks\nAccountants Auditors, Reliable Accounts Advisors, 2018.05–2020.09\n- Reconciled bank statements\n- Recorded payroll entries\nEDUCATION\nBachelor's, Accounting Practice, Wildflower University, 2019\n• Completed coursework in financial controls\n• Completed coursework in cost accounting"
+}

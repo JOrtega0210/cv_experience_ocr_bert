@@ -1,0 +1,174 @@
+{
+  "id": "50506",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.834,
+  "n_lines": 12,
+  "mean_score": 0.9751,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DYLAN CROSBY",
+      "score": 0.9649,
+      "box": [
+        116,
+        88,
+        387,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA|+1-248-972-9437|dylan.crosby@example.com",
+      "score": 0.9841,
+      "box": [
+        115,
+        150,
+        656,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9833,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Stone Builders, 2021.06–2023.01",
+      "score": 0.9686,
+      "box": [
+        115,
+        290,
+        713,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed structural integrity assessments",
+      "score": 0.9654,
+      "box": [
+        125,
+        313,
+        532,
+        339
+      ]
+    },
+    {
+      "text": "- Directed site safety audits",
+      "score": 0.9788,
+      "box": [
+        126,
+        338,
+        382,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorBuild Services, 2019.11–2021.06",
+      "score": 0.9791,
+      "box": [
+        116,
+        382,
+        707,
+        405
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9864,
+      "box": [
+        126,
+        407,
+        509,
+        431
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.9465,
+      "box": [
+        125,
+        430,
+        372,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Plumbing Technology, Highpoint High School, 2020",
+      "score": 0.9726,
+      "box": [
+        116,
+        541,
+        853,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site coordination",
+      "score": 0.9733,
+      "box": [
+        132,
+        564,
+        565,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "DYLAN CROSBY\nTX, USA|+1-248-972-9437|dylan.crosby@example.com\nWORK HISTORY\nConstruction Laborers, Unified Stone Builders, 2021.06–2023.01\n- Reviewed structural integrity assessments\n- Directed site safety audits\nConstruction Laborers, AnchorBuild Services, 2019.11–2021.06\n- Operated hand tools for assembly tasks\n- Sorted building materials\nEDUCATION\nHigh school graduate/GED, Plumbing Technology, Highpoint High School, 2020\n• Studied fundamentals of job site coordination"
+}

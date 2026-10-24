@@ -1,0 +1,187 @@
+{
+  "id": "28702",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.789,
+  "n_lines": 13,
+  "mean_score": 0.9831,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAMES PITTS",
+      "score": 0.9893,
+      "box": [
+        115,
+        90,
+        338,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-262-550-3132|james.pitts@example.com",
+      "score": 0.9713,
+      "box": [
+        115,
+        150,
+        644,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstack Systems, 2019.02–2021.01",
+      "score": 0.9893,
+      "box": [
+        116,
+        290,
+        684,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9604,
+      "box": [
+        127,
+        315,
+        516,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented disaster recovery plans",
+      "score": 0.9749,
+      "box": [
+        126,
+        339,
+        483,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Digital, 2016.02–2018.02",
+      "score": 0.9927,
+      "box": [
+        115,
+        381,
+        651,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented basic authentication logic",
+      "score": 0.9814,
+      "box": [
+        126,
+        406,
+        502,
+        431
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9795,
+      "box": [
+        125,
+        431,
+        448,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Bachelor's, Edgewood University, 2008",
+      "score": 0.9798,
+      "box": [
+        115,
+        541,
+        480,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of game development",
+      "score": 0.9899,
+      "box": [
+        132,
+        564,
+        558,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of distributed systems",
+      "score": 0.9886,
+      "box": [
+        133,
+        590,
+        520,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JAMES PITTS\nMN, USA|+1-262-550-3132|james.pitts@example.com\nWORK HISTORY\nSoftware Developers, Brightstack Systems, 2019.02–2021.01\n- Implemented access control frameworks\n- Implemented disaster recovery plans\nSoftware Developers, Codepath Digital, 2016.02–2018.02\n- Implemented basic authentication logic\n- Performed basic APl integrations\nEDUCATION\nBachelor's, Edgewood University, 2008\n• Studied fundamentals of game development\n• Studied principles of distributed systems"
+}

@@ -1,0 +1,135 @@
+{
+  "id": "30055",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.735,
+  "n_lines": 9,
+  "mean_score": 0.9757,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NICHOLAS MELTON",
+      "score": 0.9549,
+      "box": [
+        116,
+        90,
+        442,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA|+1-551-383-7005|nicholas.melton@example.com",
+      "score": 0.9829,
+      "box": [
+        115,
+        150,
+        691,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9834,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyHand Builders, 2020.05–2023.01",
+      "score": 0.9816,
+      "box": [
+        115,
+        290,
+        703,
+        313
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9565,
+      "box": [
+        127,
+        315,
+        416,
+        338
+      ]
+    },
+    {
+      "text": "- Performed basic carpentry tasks",
+      "score": 0.9734,
+      "box": [
+        126,
+        339,
+        442,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Operations, Willowcrest High School, 2018",
+      "score": 0.9777,
+      "box": [
+        116,
+        449,
+        896,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of roofing methods",
+      "score": 0.9726,
+      "box": [
+        132,
+        472,
+        529,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "NICHOLAS MELTON\nMO, USA|+1-551-383-7005|nicholas.melton@example.com\nWORK HISTORY\nConstruction Laborers, SteadyHand Builders, 2020.05–2023.01\n- Set up workstations for crews\n- Performed basic carpentry tasks\nEDUCATION\nHigh school graduate/GED, Construction Operations, Willowcrest High School, 2018\n• Studied fundamentals of roofing methods"
+}

@@ -1,0 +1,265 @@
+{
+  "id": "46620",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.966,
+  "n_lines": 19,
+  "mean_score": 0.9865,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRYANBYRD",
+      "score": 0.9978,
+      "box": [
+        116,
+        90,
+        340,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-214-768-3505 |bryan.byrd@example.com",
+      "score": 0.9794,
+      "box": [
+        115,
+        150,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9801,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Path Academy, 2020.07–2023.01",
+      "score": 0.9859,
+      "box": [
+        115,
+        289,
+        869,
+        314
+      ]
+    },
+    {
+      "text": "-Directed cross-grade curriculum alignment",
+      "score": 0.9863,
+      "box": [
+        125,
+        314,
+        536,
+        339
+      ]
+    },
+    {
+      "text": "- Developed district-aligned lesson frameworks",
+      "score": 0.9803,
+      "box": [
+        127,
+        340,
+        562,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Futures Academy, 2017.12–20.07",
+      "score": 0.9885,
+      "box": [
+        115,
+        381,
+        875,
+        406
+      ]
+    },
+    {
+      "text": "- Established data reporting standards",
+      "score": 0.985,
+      "box": [
+        126,
+        407,
+        482,
+        430
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.9895,
+      "box": [
+        126,
+        432,
+        509,
+        454
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Stone Academy, 2015.05–2017.12",
+      "score": 0.9883,
+      "box": [
+        115,
+        471,
+        872,
+        496
+      ]
+    },
+    {
+      "text": "- Developed classroom assessment tools",
+      "score": 0.9696,
+      "box": [
+        125,
+        498,
+        509,
+        521
+      ]
+    },
+    {
+      "text": "- Created instructional units",
+      "score": 0.9856,
+      "box": [
+        127,
+        522,
+        384,
+        545
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Horizons Academy, 2012.10–2015.05",
+      "score": 0.9737,
+      "box": [
+        116,
+        565,
+        880,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9964,
+      "box": [
+        125,
+        589,
+        460,
+        614
+      ]
+    },
+    {
+      "text": "- Updated student performance logs",
+      "score": 0.9963,
+      "box": [
+        126,
+        614,
+        462,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Assistance, Skycrest University, 2014",
+      "score": 0.9819,
+      "box": [
+        115,
+        725,
+        689,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of instructional materials development",
+      "score": 0.9878,
+      "box": [
+        133,
+        748,
+        669,
+        771
+      ]
+    },
+    {
+      "text": "• Studied principles of behavior management",
+      "score": 0.9912,
+      "box": [
+        134,
+        774,
+        551,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "BRYANBYRD\nPA, USA|+1-214-768-3505 |bryan.byrd@example.com\nWORK HISTORY\nElementary Middle School Teachers, Discovery Path Academy, 2020.07–2023.01\n-Directed cross-grade curriculum alignment\n- Developed district-aligned lesson frameworks\nElementary Middle School Teachers, Golden Futures Academy, 2017.12–20.07\n- Established data reporting standards\n- Led curriculum transformation initiatives\nElementary Middle School Teachers, Learning Stone Academy, 2015.05–2017.12\n- Developed classroom assessment tools\n- Created instructional units\nElementary Middle School Teachers, Future Horizons Academy, 2012.10–2015.05\n- Assisted with science experiments\n- Updated student performance logs\nEDUCATION\nBachelor's, Educational Assistance, Skycrest University, 2014\n• Studied principles of instructional materials development\n• Studied principles of behavior management"
+}

@@ -1,0 +1,265 @@
+{
+  "id": "01750",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.04,
+  "n_lines": 19,
+  "mean_score": 0.9779,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KENNETH BOOTH",
+      "score": 0.9905,
+      "box": [
+        116,
+        90,
+        410,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-481-333-4043|kenneth.booth@example.com",
+      "score": 0.9684,
+      "box": [
+        115,
+        150,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9847,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Services, 2020.05–2023.01",
+      "score": 0.9629,
+      "box": [
+        114,
+        289,
+        729,
+        314
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9724,
+      "box": [
+        126,
+        314,
+        495,
+        339
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9865,
+      "box": [
+        127,
+        339,
+        502,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Services, 2017.09–2020.05",
+      "score": 0.9786,
+      "box": [
+        115,
+        381,
+        692,
+        406
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9813,
+      "box": [
+        126,
+        405,
+        514,
+        432
+      ]
+    },
+    {
+      "text": "- Directed financial reporting processes",
+      "score": 0.9755,
+      "box": [
+        126,
+        430,
+        491,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, BlueLine Accounting, 2013.12–2016.08",
+      "score": 0.9766,
+      "box": [
+        114,
+        471,
+        690,
+        496
+      ]
+    },
+    {
+      "text": "- Coordinated audit schedules",
+      "score": 0.9837,
+      "box": [
+        126,
+        497,
+        407,
+        519
+      ]
+    },
+    {
+      "text": "- Prepared tax compliance filings",
+      "score": 0.9682,
+      "box": [
+        126,
+        521,
+        433,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Group, 2010.03–2012.11",
+      "score": 0.9756,
+      "box": [
+        115,
+        565,
+        698,
+        588
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9712,
+      "box": [
+        126,
+        590,
+        490,
+        613
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.9754,
+      "box": [
+        126,
+        613,
+        446,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Statistics, Willowbrook University, 2005",
+      "score": 0.955,
+      "box": [
+        114,
+        723,
+        589,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of variance analysis",
+      "score": 0.9943,
+      "box": [
+        131,
+        747,
+        539,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of sustainability accounting basics",
+      "score": 0.9805,
+      "box": [
+        132,
+        772,
+        669,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "KENNETH BOOTH\nAZ, USA|+1-481-333-4043|kenneth.booth@example.com\nWORK HISTORY\nAccountants Auditors, Integrity Ledger Services, 2020.05–2023.01\n- Directed accounting training programs\n- Led accounting transformation projects\nAccountants Auditors, ClearCount Services, 2017.09–2020.05\n- Directed accounting operations planning\n- Directed financial reporting processes\nAccountants Auditors, BlueLine Accounting, 2013.12–2016.08\n- Coordinated audit schedules\n- Prepared tax compliance filings\nAccountants Auditors, Integrity Count Group, 2010.03–2012.11\n- Processed accounts payable invoices\n- Prepared account reconciliations\nEDUCATION\nBachelor's, Statistics, Willowbrook University, 2005\n• Studied fundamentals of variance analysis\n• Studied fundamentals of sustainability accounting basics"
+}

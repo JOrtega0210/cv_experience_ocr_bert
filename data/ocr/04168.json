@@ -1,0 +1,226 @@
+{
+  "id": "04168",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.974,
+  "n_lines": 16,
+  "mean_score": 0.9815,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JASON WIGGINS",
+      "score": 0.9851,
+      "box": [
+        116,
+        90,
+        391,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-854-603-1814 |jason.wiggins@example.com",
+      "score": 0.9884,
+      "box": [
+        117,
+        151,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9797,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Accounting, 2020.10–2023.01",
+      "score": 0.9803,
+      "box": [
+        114,
+        289,
+        719,
+        314
+      ]
+    },
+    {
+      "text": "- Developed financial performance metrics",
+      "score": 0.981,
+      "box": [
+        127,
+        315,
+        520,
+        338
+      ]
+    },
+    {
+      "text": "- Designed budgeting methodologies",
+      "score": 0.9788,
+      "box": [
+        126,
+        339,
+        469,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Group, 2018.07–2020.10",
+      "score": 0.9882,
+      "box": [
+        114,
+        381,
+        684,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed audit workpapers",
+      "score": 0.9764,
+      "box": [
+        126,
+        406,
+        400,
+        431
+      ]
+    },
+    {
+      "text": "- Managed accounts receivable cycles",
+      "score": 0.987,
+      "box": [
+        126,
+        431,
+        483,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Group, 2014.09–2017.01",
+      "score": 0.982,
+      "box": [
+        116,
+        472,
+        660,
+        495
+      ]
+    },
+    {
+      "text": "- Entered financial data into accounting systems",
+      "score": 0.9716,
+      "box": [
+        125,
+        496,
+        573,
+        522
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9639,
+      "box": [
+        127,
+        521,
+        413,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Studies, Skyview University, 2007",
+      "score": 0.9689,
+      "box": [
+        115,
+        632,
+        629,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of valuation methods",
+      "score": 0.9881,
+      "box": [
+        133,
+        657,
+        549,
+        680
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of sustainability accounting basics",
+      "score": 0.9852,
+      "box": [
+        133,
+        681,
+        669,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JASON WIGGINS\nCA, USA|+1-854-603-1814 |jason.wiggins@example.com\nWORK HISTORY\nAccountants Auditors, FairBalance Accounting, 2020.10–2023.01\n- Developed financial performance metrics\n- Designed budgeting methodologies\nAccountants Auditors, CoreBalance Group, 2018.07–2020.10\n- Reviewed audit workpapers\n- Managed accounts receivable cycles\nAccountants Auditors, EverCount Group, 2014.09–2017.01\n- Entered financial data into accounting systems\n- Tracked budget expenditures\nEDUCATION\nBachelor's, Business Studies, Skyview University, 2007\n• Studied fundamentals of valuation methods\n• Studied fundamentals of sustainability accounting basics"
+}

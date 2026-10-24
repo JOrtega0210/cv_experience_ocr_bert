@@ -1,0 +1,187 @@
+{
+  "id": "00166",
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "PP-OCRv5_mobile_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.328,
+  "n_lines": 13,
+  "mean_score": 0.989,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MIKAYLA SULLIVAN",
+      "score": 0.9934,
+      "box": [
+        118,
+        92,
+        446,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA|+1-397-583-6034 |mikayla.sullivan@example.com",
+      "score": 0.9875,
+      "box": [
+        118,
+        152,
+        683,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.991,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Hils Academy, 2020.11–2023.01",
+      "score": 0.9788,
+      "box": [
+        115,
+        287,
+        830,
+        318
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.9917,
+      "box": [
+        126,
+        315,
+        533,
+        340
+      ]
+    },
+    {
+      "text": "- Led strategic curriculum planning",
+      "score": 0.9939,
+      "box": [
+        127,
+        339,
+        450,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Steps Academy, 2018.08–2020.11",
+      "score": 0.9876,
+      "box": [
+        117,
+        382,
+        847,
+        409
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9773,
+      "box": [
+        125,
+        407,
+        458,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with small group instruction activities",
+      "score": 0.9865,
+      "box": [
+        127,
+        431,
+        565,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Academic Foundations, Summit Ridge University, 2017",
+      "score": 0.9933,
+      "box": [
+        115,
+        539,
+        737,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional modeling",
+      "score": 0.9857,
+      "box": [
+        131,
+        566,
+        591,
+        592
+      ]
+    },
+    {
+      "text": "• Studied foundational instructional design",
+      "score": 0.9915,
+      "box": [
+        132,
+        590,
+        522,
+        617
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "MIKAYLA SULLIVAN\nAL, USA|+1-397-583-6034 |mikayla.sullivan@example.com\nWORK HISTORY\nElementary Middle School Teachers, Bright Hils Academy, 2020.11–2023.01\n- Developed instructional evaluation metrics\n- Led strategic curriculum planning\nElementary Middle School Teachers, Sunny Steps Academy, 2018.08–2020.11\n- Recorded behavioral observations\n- Assisted with small group instruction activities\nEDUCATION\nBachelor's, Academic Foundations, Summit Ridge University, 2017\n• Completed coursework in instructional modeling\n• Studied foundational instructional design"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "04109",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.958,
+  "n_lines": 16,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MATTHEW WANG",
+      "score": 0.97,
+      "box": [
+        116,
+        90,
+        404,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-429-745-4096 |matthew.wang@example.com",
+      "score": 0.9872,
+      "box": [
+        117,
+        151,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9942,
+      "box": [
+        115,
+        242,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, CareBridge Health Services, 2020.04–2023.01",
+      "score": 0.9663,
+      "box": [
+        115,
+        289,
+        732,
+        314
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.9723,
+      "box": [
+        126,
+        313,
+        424,
+        339
+      ]
+    },
+    {
+      "text": "- Managed long-term care strategies",
+      "score": 0.9796,
+      "box": [
+        126,
+        339,
+        465,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Bridge Care, 2017.07–2020.04",
+      "score": 0.992,
+      "box": [
+        115,
+        381,
+        709,
+        406
+      ]
+    },
+    {
+      "text": "- Administered blood transfusions",
+      "score": 0.9792,
+      "box": [
+        126,
+        407,
+        439,
+        429
+      ]
+    },
+    {
+      "text": "- Managed geriatric care plans",
+      "score": 0.9906,
+      "box": [
+        126,
+        430,
+        412,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindWay Care Center, 2013.04–2016.01",
+      "score": 0.9835,
+      "box": [
+        116,
+        472,
+        676,
+        496
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9864,
+      "box": [
+        125,
+        496,
+        365,
+        521
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.982,
+      "box": [
+        126,
+        521,
+        416,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Biomedical Sciences, Cedar Ridge University, 2007",
+      "score": 0.9783,
+      "box": [
+        114,
+        630,
+        702,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient positioning",
+      "score": 0.9919,
+      "box": [
+        134,
+        658,
+        557,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of pediatric nursing",
+      "score": 0.9883,
+      "box": [
+        134,
+        681,
+        531,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "MATTHEW WANG\nCA, USA|+1-429-745-4096 |matthew.wang@example.com\nWORK HISTORY\nRegistered Nurses, CareBridge Health Services, 2020.04–2023.01\n- Led infection control programs\n- Managed long-term care strategies\nRegistered Nurses, Compassion Bridge Care, 2017.07–2020.04\n- Administered blood transfusions\n- Managed geriatric care plans\nRegistered Nurses, KindWay Care Center, 2013.04–2016.01\n- Recorded nursing notes\n- Checked medication dosages\nEDUCATION\nBachelor's, Biomedical Sciences, Cedar Ridge University, 2007\n• Completed coursework in patient positioning\n• Studied fundamentals of pediatric nursing"
+}

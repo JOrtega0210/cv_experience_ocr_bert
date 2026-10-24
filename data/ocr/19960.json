@@ -1,0 +1,213 @@
+{
+  "id": "19960",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.886,
+  "n_lines": 15,
+  "mean_score": 0.9831,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ALAN JARVIS",
+      "score": 0.9764,
+      "box": [
+        116,
+        90,
+        341,
+        121
+      ]
+    },
+    {
+      "text": "IN, USA|+1-456-673-5686|alan.jarvis@example.com",
+      "score": 0.9904,
+      "box": [
+        116,
+        150,
+        627,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9794,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidRise Construction, 2020.07–2023.01",
+      "score": 0.9791,
+      "box": [
+        114,
+        289,
+        718,
+        313
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.9817,
+      "box": [
+        127,
+        315,
+        524,
+        338
+      ]
+    },
+    {
+      "text": "- Managed subcontractor coordination",
+      "score": 0.9844,
+      "box": [
+        127,
+        340,
+        481,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkForce Builders, 2017.12–2020.07",
+      "score": 0.9837,
+      "box": [
+        115,
+        381,
+        692,
+        405
+      ]
+    },
+    {
+      "text": "- Installed framing components",
+      "score": 0.9704,
+      "box": [
+        125,
+        406,
+        415,
+        431
+      ]
+    },
+    {
+      "text": "- Performed structural repairs",
+      "score": 0.9772,
+      "box": [
+        126,
+        429,
+        402,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Build Group, 2015.05–2017.12",
+      "score": 0.9802,
+      "box": [
+        115,
+        471,
+        710,
+        496
+      ]
+    },
+    {
+      "text": "- Set up ladders and basic scaffolding",
+      "score": 0.9885,
+      "box": [
+        126,
+        498,
+        477,
+        522
+      ]
+    },
+    {
+      "text": "- Performed basic demolition tasks",
+      "score": 0.9711,
+      "box": [
+        127,
+        522,
+        448,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Logistics, Riverhaven High School, 2013",
+      "score": 0.9948,
+      "box": [
+        115,
+        631,
+        875,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of site preparation planning",
+      "score": 0.9904,
+      "box": [
+        132,
+        656,
+        608,
+        681
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "ALAN JARVIS\nIN, USA|+1-456-673-5686|alan.jarvis@example.com\nWORK HISTORY\nConstruction Laborers, SolidRise Construction, 2020.07–2023.01\n- Coordinated large-scale material logistics\n- Managed subcontractor coordination\nConstruction Laborers, WorkForce Builders, 2017.12–2020.07\n- Installed framing components\n- Performed structural repairs\nConstruction Laborers, Precision Build Group, 2015.05–2017.12\n- Set up ladders and basic scaffolding\n- Performed basic demolition tasks\nEDUCATION\nHigh school graduate/GED, Construction Logistics, Riverhaven High School, 2013\n• Studied fundamentals of site preparation planning"
+}

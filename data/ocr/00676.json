@@ -1,0 +1,187 @@
+{
+  "id": "00676",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.941,
+  "n_lines": 13,
+  "mean_score": 0.9858,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LEAH MCCANN",
+      "score": 0.9855,
+      "box": [
+        116,
+        90,
+        367,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-309-956-6908|leah.mccann@example.com",
+      "score": 0.9855,
+      "box": [
+        116,
+        151,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9783,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindBridge Care Center, 2021.03–2023.01",
+      "score": 0.9865,
+      "box": [
+        116,
+        289,
+        694,
+        312
+      ]
+    },
+    {
+      "text": "- Established quality assurance systems",
+      "score": 0.9837,
+      "box": [
+        125,
+        313,
+        501,
+        339
+      ]
+    },
+    {
+      "text": "- Developed nursing policy frameworks",
+      "score": 0.9628,
+      "box": [
+        126,
+        339,
+        489,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Life Care, 2019.05–2021.03",
+      "score": 0.9921,
+      "box": [
+        116,
+        382,
+        628,
+        405
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9856,
+      "box": [
+        126,
+        407,
+        443,
+        430
+      ]
+    },
+    {
+      "text": "-Provided catheter care",
+      "score": 0.9961,
+      "box": [
+        126,
+        430,
+        352,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Studies, Cedarfield University, 2018",
+      "score": 0.99,
+      "box": [
+        114,
+        539,
+        630,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in documentation standards",
+      "score": 0.9937,
+      "box": [
+        134,
+        566,
+        624,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in electronic health records",
+      "score": 0.9778,
+      "box": [
+        135,
+        591,
+        618,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "LEAH MCCANN\nAL, USA|+1-309-956-6908|leah.mccann@example.com\nWORK HISTORY\nRegistered Nurses, KindBridge Care Center, 2021.03–2023.01\n- Established quality assurance systems\n- Developed nursing policy frameworks\nRegistered Nurses, Caring Life Care, 2019.05–2021.03\n- Collected patient health histories\n-Provided catheter care\nEDUCATION\nBachelor's, Clinical Studies, Cedarfield University, 2018\n• Completed coursework in documentation standards\n• Completed coursework in electronic health records"
+}

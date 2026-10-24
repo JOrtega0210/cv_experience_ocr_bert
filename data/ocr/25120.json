@@ -1,0 +1,200 @@
+{
+  "id": "25120",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.856,
+  "n_lines": 14,
+  "mean_score": 0.9847,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KALA POWERS",
+      "score": 0.9723,
+      "box": [
+        116,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-766-326-1817 |kala.powers@example.com",
+      "score": 0.9783,
+      "box": [
+        115,
+        150,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9795,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Bridge School, 2021.02–2023.01",
+      "score": 0.978,
+      "box": [
+        115,
+        289,
+        831,
+        314
+      ]
+    },
+    {
+      "text": "- Designed literacy development programs",
+      "score": 0.9806,
+      "box": [
+        126,
+        314,
+        521,
+        339
+      ]
+    },
+    {
+      "text": "- Directed content standardization",
+      "score": 0.9938,
+      "box": [
+        127,
+        340,
+        442,
+        362
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightPath Learning Center, 2019.03–2021.02",
+      "score": 0.9825,
+      "box": [
+        115,
+        381,
+        890,
+        406
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9839,
+      "box": [
+        126,
+        407,
+        398,
+        429
+      ]
+    },
+    {
+      "text": "- Supervised classroom activities",
+      "score": 0.9887,
+      "box": [
+        127,
+        432,
+        433,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Teaching Support, Brookstone University, 2018",
+      "score": 0.992,
+      "box": [
+        115,
+        541,
+        644,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Readiness, Brightwater University, 2016",
+      "score": 0.9805,
+      "box": [
+        114,
+        565,
+        712,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic education law concepts",
+      "score": 0.9894,
+      "box": [
+        134,
+        590,
+        661,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of numeracy development",
+      "score": 0.9886,
+      "box": [
+        134,
+        616,
+        596,
+        638
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "KALA POWERS\nMA, USA|+1-766-326-1817 |kala.powers@example.com\nWORK HISTORY\nElementary Middle School Teachers, Sunny Bridge School, 2021.02–2023.01\n- Designed literacy development programs\n- Directed content standardization\nElementary Middle School Teachers, BrightPath Learning Center, 2019.03–2021.02\n- Recorded student feedback\n- Supervised classroom activities\nEDUCATION\nMaster's, Teaching Support, Brookstone University, 2018\nBachelor's, Educational Readiness, Brightwater University, 2016\n• Completed coursework in basic education law concepts\n• Studied fundamentals of numeracy development"
+}

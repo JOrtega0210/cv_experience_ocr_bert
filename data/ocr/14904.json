@@ -1,0 +1,187 @@
+{
+  "id": "14904",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.952,
+  "n_lines": 13,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MITCHELL RUIZ",
+      "score": 0.9879,
+      "box": [
+        115,
+        88,
+        377,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA|+1-944-732-2541|mitchell.ruiz@example.com",
+      "score": 0.9811,
+      "box": [
+        116,
+        151,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongWay Builders, 2020.11–2023.01",
+      "score": 0.9734,
+      "box": [
+        114,
+        289,
+        691,
+        313
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9741,
+      "box": [
+        125,
+        313,
+        406,
+        339
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.9849,
+      "box": [
+        126,
+        338,
+        448,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, Hardline Builders, 2018.08–2020.11",
+      "score": 0.9955,
+      "box": [
+        116,
+        382,
+        666,
+        405
+      ]
+    },
+    {
+      "text": "- Checked inventory of supplies",
+      "score": 0.9704,
+      "box": [
+        125,
+        406,
+        421,
+        431
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.9774,
+      "box": [
+        126,
+        430,
+        372,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Drafting Technology, Rockland University, 2016",
+      "score": 0.9636,
+      "box": [
+        116,
+        541,
+        809,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of structural alignment",
+      "score": 0.9891,
+      "box": [
+        131,
+        564,
+        563,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of tool maintenance",
+      "score": 0.9904,
+      "box": [
+        133,
+        591,
+        501,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "MITCHELL RUIZ\nGA, USA|+1-944-732-2541|mitchell.ruiz@example.com\nWORK HISTORY\nConstruction Laborers, StrongWay Builders, 2020.11–2023.01\n- Established site layout plans\n- Led cross-functional coordination\nConstruction Laborers, Hardline Builders, 2018.08–2020.11\n- Checked inventory of supplies\n- Sorted building materials\nEDUCATION\nSome college (no degree), Drafting Technology, Rockland University, 2016\n• Studied fundamentals of structural alignment\n• Studied principles of tool maintenance"
+}

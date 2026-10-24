@@ -1,0 +1,226 @@
+{
+  "id": "44981",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.845,
+  "n_lines": 16,
+  "mean_score": 0.9841,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARI SPENCER",
+      "score": 0.9759,
+      "box": [
+        116,
+        90,
+        374,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-901-984-1829|mari.spencer@example.com",
+      "score": 0.9899,
+      "box": [
+        115,
+        150,
+        661,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Financial, 2020.02–2023.01",
+      "score": 0.9774,
+      "box": [
+        115,
+        290,
+        713,
+        313
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9843,
+      "box": [
+        126,
+        314,
+        361,
+        339
+      ]
+    },
+    {
+      "text": "- Managed financial compliance programs",
+      "score": 0.9853,
+      "box": [
+        126,
+        339,
+        517,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Accounting, 2017.03–2020.02",
+      "score": 0.9752,
+      "box": [
+        114,
+        381,
+        736,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted variance investigations",
+      "score": 0.9807,
+      "box": [
+        126,
+        406,
+        460,
+        431
+      ]
+    },
+    {
+      "text": "- Managed accounts payable cycles",
+      "score": 0.9828,
+      "box": [
+        126,
+        431,
+        461,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Financial, 2014.04–2017.03",
+      "score": 0.9843,
+      "box": [
+        115,
+        472,
+        698,
+        495
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.9845,
+      "box": [
+        125,
+        496,
+        362,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9879,
+      "box": [
+        126,
+        521,
+        453,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Finance, Lakeview University, 2018",
+      "score": 0.987,
+      "box": [
+        115,
+        631,
+        629,
+        654
+      ]
+    },
+    {
+      "text": "• Studied principles of financial statement analysis",
+      "score": 0.982,
+      "box": [
+        132,
+        656,
+        598,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of working capital management",
+      "score": 0.9841,
+      "box": [
+        133,
+        681,
+        645,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "MARI SPENCER\nPA, USA|+1-901-984-1829|mari.spencer@example.com\nWORK HISTORY\nAccountants Auditors, ClearBalance Financial, 2020.02–2023.01\n- Designed tax strategies\n- Managed financial compliance programs\nAccountants Auditors, OpenBalance Accounting, 2017.03–2020.02\n- Conducted variance investigations\n- Managed accounts payable cycles\nAccountants Auditors, OpenBooks Financial, 2014.04–2017.03\n- Recorded cash receipts\n- Reviewed expense classifications\nEDUCATION\nBachelor's, Applied Finance, Lakeview University, 2018\n• Studied principles of financial statement analysis\n• Studied fundamentals of working capital management"
+}

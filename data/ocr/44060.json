@@ -1,0 +1,187 @@
+{
+  "id": "44060",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.801,
+  "n_lines": 13,
+  "mean_score": 0.9822,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TREVOR ADKINS",
+      "score": 0.9779,
+      "box": [
+        113,
+        87,
+        396,
+        123
+      ]
+    },
+    {
+      "text": "OR, USA|+1-538-266-4526 |trevor.adkins@example.com",
+      "score": 0.9909,
+      "box": [
+        116,
+        151,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9781,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Co., 2020.12–2023.01",
+      "score": 0.9787,
+      "box": [
+        115,
+        290,
+        648,
+        313
+      ]
+    },
+    {
+      "text": "-Directed quality assurance programs",
+      "score": 0.9904,
+      "box": [
+        125,
+        314,
+        482,
+        340
+      ]
+    },
+    {
+      "text": "- Developed structural reinforcement plans",
+      "score": 0.9858,
+      "box": [
+        126,
+        339,
+        522,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueWay Builders, 2018.10–2020.12",
+      "score": 0.9873,
+      "box": [
+        116,
+        382,
+        674,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9669,
+      "box": [
+        125,
+        405,
+        485,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9809,
+      "box": [
+        126,
+        430,
+        425,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Masonry, Pebble Creek University, 2016",
+      "score": 0.99,
+      "box": [
+        115,
+        539,
+        743,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic waterproofing",
+      "score": 0.9503,
+      "box": [
+        132,
+        565,
+        570,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in surveying basics",
+      "score": 0.9928,
+      "box": [
+        133,
+        590,
+        544,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "TREVOR ADKINS\nOR, USA|+1-538-266-4526 |trevor.adkins@example.com\nWORK HISTORY\nConstruction Laborers, Allied Build Co., 2020.12–2023.01\n-Directed quality assurance programs\n- Developed structural reinforcement plans\nConstruction Laborers, TrueWay Builders, 2018.10–2020.12\n- Maintained cleanliness of work areas\n- Assisted with concrete pouring\nEDUCATION\nSome college (no degree), Masonry, Pebble Creek University, 2016\n• Completed coursework in basic waterproofing\n• Completed coursework in surveying basics"
+}

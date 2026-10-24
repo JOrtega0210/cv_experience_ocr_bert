@@ -1,0 +1,161 @@
+{
+  "id": "58450",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.828,
+  "n_lines": 11,
+  "mean_score": 0.9809,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "APRILOWENS",
+      "score": 0.9988,
+      "box": [
+        116,
+        90,
+        354,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-279-894-1669|april.owens@example.com",
+      "score": 0.9781,
+      "box": [
+        114,
+        150,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9812,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Hills School, 2018.07–2021.07",
+      "score": 0.9583,
+      "box": [
+        116,
+        290,
+        844,
+        313
+      ]
+    },
+    {
+      "text": "- Distributed instructional handouts",
+      "score": 0.9891,
+      "box": [
+        126,
+        315,
+        451,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with small group instruction activities",
+      "score": 0.961,
+      "box": [
+        127,
+        340,
+        565,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Youth Studies, Clearview University, 207",
+      "score": 0.9836,
+      "box": [
+        114,
+        447,
+        596,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Elementary Education Preparation, Stonegate University, 2005",
+      "score": 0.9743,
+      "box": [
+        114,
+        472,
+        805,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of lesson evaluation",
+      "score": 0.9876,
+      "box": [
+        135,
+        500,
+        540,
+        520
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication skills",
+      "score": 0.9798,
+      "box": [
+        136,
+        525,
+        692,
+        545
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "APRILOWENS\nWA, USA|+1-279-894-1669|april.owens@example.com\nWORK HISTORY\nElementary Middle School Teachers, Discovery Hills School, 2018.07–2021.07\n- Distributed instructional handouts\n- Assisted with small group instruction activities\nEDUCATION\nMaster's, Youth Studies, Clearview University, 207\nBachelor's, Elementary Education Preparation, Stonegate University, 2005\n• Studied fundamentals of lesson evaluation\n• Completed coursework in educational communication skills"
+}

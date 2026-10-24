@@ -1,0 +1,200 @@
+{
+  "id": "17938",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.917,
+  "n_lines": 14,
+  "mean_score": 0.984,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JARVIS SUAREZ",
+      "score": 0.9828,
+      "box": [
+        116,
+        90,
+        386,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-747-707-4019 |jarvis.suarez@example.com",
+      "score": 0.9799,
+      "box": [
+        116,
+        151,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Advisors, 2021.01–2023.01",
+      "score": 0.9813,
+      "box": [
+        115,
+        290,
+        685,
+        313
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9788,
+      "box": [
+        125,
+        313,
+        323,
+        340
+      ]
+    },
+    {
+      "text": "- Established audit governance structures",
+      "score": 0.9832,
+      "box": [
+        126,
+        338,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Financial Group, 2019.01–2021.01",
+      "score": 0.9922,
+      "box": [
+        115,
+        382,
+        745,
+        405
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9804,
+      "box": [
+        125,
+        405,
+        418,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.9855,
+      "box": [
+        125,
+        430,
+        357,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, International Business, Goldenview University, 2022",
+      "score": 0.9882,
+      "box": [
+        115,
+        541,
+        689,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Enterprise Management, Greenfield University, 2020",
+      "score": 0.9725,
+      "box": [
+        114,
+        565,
+        712,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in general ledger accounting",
+      "score": 0.9793,
+      "box": [
+        133,
+        590,
+        628,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of financial risk management",
+      "score": 0.9877,
+      "box": [
+        133,
+        615,
+        586,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "JARVIS SUAREZ\nIL, USA|+1-747-707-4019 |jarvis.suarez@example.com\nWORK HISTORY\nAccountants Auditors, FairLedger Advisors, 2021.01–2023.01\n- Led audit programs\n- Established audit governance structures\nAccountants Auditors, OpenPath Financial Group, 2019.01–2021.01\n- Processed journal corrections\n- Prepared trial balances\nEDUCATION\nMaster's, International Business, Goldenview University, 2022\nBachelor's, Enterprise Management, Greenfield University, 2020\n• Completed coursework in general ledger accounting\n• Studied principles of financial risk management"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "59596",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.841,
+  "n_lines": 13,
+  "mean_score": 0.9779,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "COLE PARK",
+      "score": 0.9669,
+      "box": [
+        115,
+        88,
+        317,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA|+1-489-294-6664|cole.park@example.com",
+      "score": 0.974,
+      "box": [
+        114,
+        150,
+        630,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9835,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearRise Builders, 2020.12–2023.01",
+      "score": 0.9877,
+      "box": [
+        115,
+        290,
+        680,
+        313
+      ]
+    },
+    {
+      "text": "- Managed construction schedules",
+      "score": 0.9786,
+      "box": [
+        126,
+        315,
+        447,
+        338
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9686,
+      "box": [
+        126,
+        338,
+        406,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongLine Construction, 2018.11–2020.12",
+      "score": 0.994,
+      "box": [
+        116,
+        382,
+        732,
+        405
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9838,
+      "box": [
+        125,
+        405,
+        490,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.9667,
+      "box": [
+        126,
+        431,
+        555,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Inspection, Riverdale University, 2019",
+      "score": 0.9603,
+      "box": [
+        116,
+        541,
+        842,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in building codes overview",
+      "score": 0.9865,
+      "box": [
+        133,
+        566,
+        612,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of insulation techniques",
+      "score": 0.9642,
+      "box": [
+        132,
+        590,
+        537,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "COLE PARK\nWA, USA|+1-489-294-6664|cole.park@example.com\nWORK HISTORY\nConstruction Laborers, ClearRise Builders, 2020.12–2023.01\n- Managed construction schedules\n- Established site layout plans\nConstruction Laborers, StrongLine Construction, 2018.11–2020.12\n- Performed basic plumbing assistance\n- Prepared tools and equipment for daily tasks\nEDUCATION\nSome college (no degree), Construction Inspection, Riverdale University, 2019\n• Completed coursework in building codes overview\n• Studied principles of insulation techniques"
+}

@@ -1,0 +1,265 @@
+{
+  "id": "47586",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.908,
+  "n_lines": 19,
+  "mean_score": 0.9752,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TOMMY DUNN",
+      "score": 0.9812,
+      "box": [
+        113,
+        88,
+        350,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA|+1-644-865-1362|tommy.dunn@example.com",
+      "score": 0.9588,
+      "box": [
+        116,
+        151,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextBuild Contractors, 2020.05–2023.01",
+      "score": 0.9789,
+      "box": [
+        115,
+        290,
+        710,
+        313
+      ]
+    },
+    {
+      "text": "- Established material procurement strategies",
+      "score": 0.9785,
+      "box": [
+        125,
+        313,
+        550,
+        339
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.9805,
+      "box": [
+        126,
+        339,
+        478,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Services, 2017.08–2020.05",
+      "score": 0.9858,
+      "box": [
+        116,
+        382,
+        695,
+        405
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9624,
+      "box": [
+        125,
+        405,
+        406,
+        432
+      ]
+    },
+    {
+      "text": "- Directed site safety audits",
+      "score": 0.9503,
+      "box": [
+        125,
+        429,
+        382,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Craft Builders, 2014.05–2017.02",
+      "score": 0.9654,
+      "box": [
+        115,
+        472,
+        704,
+        496
+      ]
+    },
+    {
+      "text": "- Operated power tools independently",
+      "score": 0.9731,
+      "box": [
+        126,
+        498,
+        478,
+        522
+      ]
+    },
+    {
+      "text": "- Laid flooring materials",
+      "score": 0.9589,
+      "box": [
+        126,
+        521,
+        346,
+        545
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronFrame Construction, 2011.02–2013.11",
+      "score": 0.9834,
+      "box": [
+        114,
+        563,
+        727,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.9883,
+      "box": [
+        124,
+        588,
+        583,
+        614
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.9882,
+      "box": [
+        125,
+        613,
+        503,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Civil Technology, Pinecrest University, 2004",
+      "score": 0.9422,
+      "box": [
+        114,
+        723,
+        633,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of masonry",
+      "score": 0.9904,
+      "box": [
+        131,
+        747,
+        459,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction lighting basics",
+      "score": 0.9782,
+      "box": [
+        133,
+        772,
+        638,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "TOMMY DUNN\nSC, USA|+1-644-865-1362|tommy.dunn@example.com\nWORK HISTORY\nConstruction Laborers, NextBuild Contractors, 2020.05–2023.01\n- Established material procurement strategies\n- Designed construction staging plans\nConstruction Laborers, PrimeBuild Services, 2017.08–2020.05\n- Established site layout plans\n- Directed site safety audits\nConstruction Laborers, Unified Craft Builders, 2014.05–2017.02\n- Operated power tools independently\n- Laid flooring materials\nConstruction Laborers, IronFrame Construction, 2011.02–2013.11\n- Assisted with basic electrical conduit placement\n- Handled power tools under supervision\nEDUCATION\nBachelor's, Civil Technology, Pinecrest University, 2004\n• Studied fundamentals of masonry\n• Completed coursework in construction lighting basics"
+}

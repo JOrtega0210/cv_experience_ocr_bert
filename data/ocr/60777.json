@@ -1,0 +1,239 @@
+{
+  "id": "60777",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.92,
+  "n_lines": 17,
+  "mean_score": 0.9851,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ADAMCLEAN",
+      "score": 0.9982,
+      "box": [
+        116,
+        90,
+        343,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-954-949-2232|ada.mclean@example.com",
+      "score": 0.9768,
+      "box": [
+        115,
+        150,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHeart Medical Services, 2019.12–2023.01",
+      "score": 0.9941,
+      "box": [
+        116,
+        290,
+        731,
+        313
+      ]
+    },
+    {
+      "text": "- Led patient experience improvement programs",
+      "score": 0.9833,
+      "box": [
+        126,
+        314,
+        574,
+        340
+      ]
+    },
+    {
+      "text": "- Directed patient care coordination",
+      "score": 0.9785,
+      "box": [
+        127,
+        340,
+        454,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Group, 2016.10–2019.12",
+      "score": 0.9751,
+      "box": [
+        116,
+        382,
+        690,
+        406
+      ]
+    },
+    {
+      "text": "- Managed patient advocacy tasks",
+      "score": 0.9906,
+      "box": [
+        126,
+        406,
+        446,
+        431
+      ]
+    },
+    {
+      "text": "- Developed patient care plans",
+      "score": 0.9909,
+      "box": [
+        126,
+        430,
+        413,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenWay Nursing Services, 2013.08–2016.10",
+      "score": 0.9895,
+      "box": [
+        116,
+        472,
+        732,
+        496
+      ]
+    },
+    {
+      "text": "- Updated patient medical records",
+      "score": 0.9941,
+      "box": [
+        126,
+        498,
+        443,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared medication trays",
+      "score": 0.9787,
+      "box": [
+        126,
+        520,
+        387,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Master's, Nursing, Stonehill University, 2014",
+      "score": 0.9675,
+      "box": [
+        115,
+        632,
+        527,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Information Management, Crossfield University, 2012",
+      "score": 0.981,
+      "box": [
+        114,
+        656,
+        784,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in pathophysiology",
+      "score": 0.9889,
+      "box": [
+        133,
+        681,
+        540,
+        707
+      ]
+    },
+    {
+      "text": "• Completed coursework in fluid and electrolyte balance",
+      "score": 0.9739,
+      "box": [
+        133,
+        706,
+        648,
+        731
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "ADAMCLEAN\nWI, USA|+1-954-949-2232|ada.mclean@example.com\nWORK HISTORY\nRegistered Nurses, KindHeart Medical Services, 2019.12–2023.01\n- Led patient experience improvement programs\n- Directed patient care coordination\nRegistered Nurses, Harmony Health Group, 2016.10–2019.12\n- Managed patient advocacy tasks\n- Developed patient care plans\nRegistered Nurses, OpenWay Nursing Services, 2013.08–2016.10\n- Updated patient medical records\n- Prepared medication trays\nEDUCATION\nMaster's, Nursing, Stonehill University, 2014\nBachelor's, Health Information Management, Crossfield University, 2012\n• Completed coursework in pathophysiology\n• Completed coursework in fluid and electrolyte balance"
+}

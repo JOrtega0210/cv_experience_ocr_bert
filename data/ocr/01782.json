@@ -1,0 +1,200 @@
+{
+  "id": "01782",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.974,
+  "n_lines": 14,
+  "mean_score": 0.9808,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JENNIFER DAVIS",
+      "score": 0.9873,
+      "box": [
+        116,
+        90,
+        396,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-923-273-3720 |jennifer.davis@example.com",
+      "score": 0.988,
+      "box": [
+        115,
+        151,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9814,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Start School, 2021.02–2023.01",
+      "score": 0.9848,
+      "box": [
+        115,
+        290,
+        798,
+        313
+      ]
+    },
+    {
+      "text": "- Led instructional technology integration",
+      "score": 0.9409,
+      "box": [
+        125,
+        313,
+        504,
+        339
+      ]
+    },
+    {
+      "text": "- Led curriculum alignment initiatives",
+      "score": 0.9661,
+      "box": [
+        127,
+        340,
+        467,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Tree Academy, 2017.12–2019.11",
+      "score": 0.9938,
+      "box": [
+        115,
+        381,
+        855,
+        406
+      ]
+    },
+    {
+      "text": "- Administered quizzes and short assessments",
+      "score": 0.9848,
+      "box": [
+        126,
+        407,
+        562,
+        430
+      ]
+    },
+    {
+      "text": "- Maintained classroom attendance and grading records",
+      "score": 0.9728,
+      "box": [
+        125,
+        431,
+        645,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9978,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Developmental Studies, Silverfield University, 2010",
+      "score": 0.9892,
+      "box": [
+        115,
+        541,
+        680,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Support, Clearwater University, 2008",
+      "score": 0.9641,
+      "box": [
+        114,
+        564,
+        682,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of reading comprehension strategies",
+      "score": 0.9949,
+      "box": [
+        132,
+        590,
+        693,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of science education",
+      "score": 0.9854,
+      "box": [
+        135,
+        617,
+        546,
+        637
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "JENNIFER DAVIS\nAZ, USA|+1-923-273-3720 |jennifer.davis@example.com\nWORK HISTORY\nElementary Middle School Teachers, Kind Start School, 2021.02–2023.01\n- Led instructional technology integration\n- Led curriculum alignment initiatives\nElementary Middle School Teachers, Growing Tree Academy, 2017.12–2019.11\n- Administered quizzes and short assessments\n- Maintained classroom attendance and grading records\nEDUCATION\nMaster's, Developmental Studies, Silverfield University, 2010\nBachelor's, Educational Support, Clearwater University, 2008\n• Studied fundamentals of reading comprehension strategies\n• Studied fundamentals of science education"
+}

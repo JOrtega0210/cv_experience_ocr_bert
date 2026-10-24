@@ -1,0 +1,226 @@
+{
+  "id": "02394",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.981,
+  "n_lines": 16,
+  "mean_score": 0.9815,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MANUEL NOBLE",
+      "score": 0.9831,
+      "box": [
+        116,
+        90,
+        388,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-628-883-4424 |manuel.noble@example.com",
+      "score": 0.9932,
+      "box": [
+        116,
+        152,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewWay Care Center, 2019.10–2023.01",
+      "score": 0.9859,
+      "box": [
+        116,
+        290,
+        677,
+        314
+      ]
+    },
+    {
+      "text": "- Managed patient safety reporting systems",
+      "score": 0.9591,
+      "box": [
+        126,
+        314,
+        530,
+        339
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.9538,
+      "box": [
+        127,
+        340,
+        426,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeSpring Medical Services, 2016.06–2019.10",
+      "score": 0.9948,
+      "box": [
+        116,
+        383,
+        733,
+        406
+      ]
+    },
+    {
+      "text": "- Managed geriatric care plans",
+      "score": 0.9907,
+      "box": [
+        126,
+        406,
+        412,
+        431
+      ]
+    },
+    {
+      "text": "- Coordinated patient discharge planning",
+      "score": 0.9934,
+      "box": [
+        126,
+        430,
+        505,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHands Care Center, 2011.05–2014.09",
+      "score": 0.9816,
+      "box": [
+        115,
+        471,
+        697,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored intravenous lines",
+      "score": 0.964,
+      "box": [
+        125,
+        496,
+        399,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9845,
+      "box": [
+        126,
+        521,
+        478,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health and Wellness, Harvest University, 2002",
+      "score": 0.9876,
+      "box": [
+        114,
+        631,
+        656,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of continuity of care",
+      "score": 0.9841,
+      "box": [
+        132,
+        656,
+        500,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of respiratory nursing",
+      "score": 0.9635,
+      "box": [
+        133,
+        681,
+        551,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "MANUEL NOBLE\nAR, USA|+1-628-883-4424 |manuel.noble@example.com\nWORK HISTORY\nRegistered Nurses, NewWay Care Center, 2019.10–2023.01\n- Managed patient safety reporting systems\n- Managed clinical data analysis\nRegistered Nurses, LifeSpring Medical Services, 2016.06–2019.10\n- Managed geriatric care plans\n- Coordinated patient discharge planning\nRegistered Nurses, KindHands Care Center, 2011.05–2014.09\n- Monitored intravenous lines\n- Prepared medical equipment for use\nEDUCATION\nBachelor's, Health and Wellness, Harvest University, 2002\n• Studied principles of continuity of care\n• Studied fundamentals of respiratory nursing"
+}

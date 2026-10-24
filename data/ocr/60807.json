@@ -1,0 +1,265 @@
+{
+  "id": "60807",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.948,
+  "n_lines": 19,
+  "mean_score": 0.9841,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "PASQUALE ARMSTRONG",
+      "score": 0.9723,
+      "box": [
+        116,
+        90,
+        531,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-596-704-8293|pasquale.armstrong@example.com",
+      "score": 0.9834,
+      "box": [
+        115,
+        150,
+        722,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9814,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearFrame Construction, 2017.03–2023.01",
+      "score": 0.99,
+      "box": [
+        114,
+        289,
+        740,
+        313
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9832,
+      "box": [
+        126,
+        313,
+        372,
+        339
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.996,
+      "box": [
+        126,
+        339,
+        435,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearView Construction, 2011.05–2017.03",
+      "score": 0.9894,
+      "box": [
+        115,
+        381,
+        726,
+        406
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9742,
+      "box": [
+        125,
+        405,
+        407,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.9777,
+      "box": [
+        126,
+        430,
+        531,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, Stronghold Construction, 2005.06–2011.05",
+      "score": 0.982,
+      "box": [
+        114,
+        471,
+        732,
+        496
+      ]
+    },
+    {
+      "text": "- Performed structural repairs",
+      "score": 0.9816,
+      "box": [
+        125,
+        496,
+        402,
+        521
+      ]
+    },
+    {
+      "text": "- Managed material inventories",
+      "score": 0.9751,
+      "box": [
+        126,
+        521,
+        416,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongCraft Construction, 1999.07–2005.06",
+      "score": 0.976,
+      "box": [
+        115,
+        565,
+        738,
+        588
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9859,
+      "box": [
+        125,
+        588,
+        489,
+        614
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.9965,
+      "box": [
+        127,
+        616,
+        405,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Building Construction, Cloverfield University, 2002",
+      "score": 0.9734,
+      "box": [
+        115,
+        725,
+        689,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site coordination",
+      "score": 0.9929,
+      "box": [
+        132,
+        747,
+        565,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in surveying basics",
+      "score": 0.988,
+      "box": [
+        135,
+        774,
+        544,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "PASQUALE ARMSTRONG\nWI, USA|+1-596-704-8293|pasquale.armstrong@example.com\nWORK HISTORY\nConstruction Laborers, ClearFrame Construction, 2017.03–2023.01\n- Led operational planning\n- Supervised high-risk operations\nConstruction Laborers, ClearView Construction, 2011.05–2017.03\n- Established site layout plans\n- Implemented safety compliance strategies\nConstruction Laborers, Stronghold Construction, 2005.06–2011.05\n- Performed structural repairs\n- Managed material inventories\nConstruction Laborers, StrongCraft Construction, 1999.07–2005.06\n- Performed basic plumbing assistance\n- Installed insulation materials\nEDUCATION\nBachelor's, Building Construction, Cloverfield University, 2002\n• Studied fundamentals of job site coordination\n• Completed coursework in surveying basics"
+}

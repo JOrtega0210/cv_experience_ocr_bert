@@ -1,0 +1,148 @@
+{
+  "id": "61082",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.772,
+  "n_lines": 10,
+  "mean_score": 0.9795,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JESSICA HARDY",
+      "score": 0.9792,
+      "box": [
+        116,
+        90,
+        390,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-960-267-9317 |jessica.hardy@example.com",
+      "score": 0.9782,
+      "box": [
+        116,
+        151,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9817,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearHands Nursing Group, 2019.12–2020.02",
+      "score": 0.9823,
+      "box": [
+        116,
+        290,
+        727,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with hygiene care",
+      "score": 0.9933,
+      "box": [
+        126,
+        315,
+        391,
+        339
+      ]
+    },
+    {
+      "text": "- Monitored intravenous lines",
+      "score": 0.9655,
+      "box": [
+        127,
+        340,
+        399,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Promotion, Elmwood Ridge University, 2009",
+      "score": 0.9522,
+      "box": [
+        114,
+        447,
+        699,
+        473
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of infection diseases nursing",
+      "score": 0.9846,
+      "box": [
+        132,
+        471,
+        619,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in delegation principles",
+      "score": 0.9795,
+      "box": [
+        134,
+        499,
+        580,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JESSICA HARDY\nWI, USA|+1-960-267-9317 |jessica.hardy@example.com\nWORK HISTORY\nRegistered Nurses, ClearHands Nursing Group, 2019.12–2020.02\n- Assisted with hygiene care\n- Monitored intravenous lines\nEDUCATION\nBachelor's, Health Promotion, Elmwood Ridge University, 2009\n• Studied fundamentals of infection diseases nursing\n• Completed coursework in delegation principles"
+}

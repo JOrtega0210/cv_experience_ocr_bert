@@ -1,0 +1,161 @@
+{
+  "id": "44800",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.743,
+  "n_lines": 11,
+  "mean_score": 0.9844,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "FLAVIA ONEILL",
+      "score": 0.9796,
+      "box": [
+        116,
+        90,
+        370,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-874-818-6906|flavia.oneill@example.com",
+      "score": 0.9699,
+      "box": [
+        115,
+        150,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9854,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightscale Labs, 2021.04–2022.07",
+      "score": 0.991,
+      "box": [
+        116,
+        290,
+        651,
+        313
+      ]
+    },
+    {
+      "text": "- Optimized simple queries",
+      "score": 0.9871,
+      "box": [
+        127,
+        315,
+        377,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with database queries",
+      "score": 0.9918,
+      "box": [
+        126,
+        339,
+        431,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Pinefield University, 2012",
+      "score": 0.989,
+      "box": [
+        115,
+        449,
+        443,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Stone Valley University, 2010",
+      "score": 0.9667,
+      "box": [
+        115,
+        474,
+        499,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in deadlock prevention",
+      "score": 0.9904,
+      "box": [
+        134,
+        499,
+        576,
+        522
+      ]
+    },
+    {
+      "text": "• Completed coursework in software engineering",
+      "score": 0.979,
+      "box": [
+        134,
+        523,
+        583,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "FLAVIA ONEILL\nPA, USA|+1-874-818-6906|flavia.oneill@example.com\nWORK HISTORY\nSoftware Developers, Brightscale Labs, 2021.04–2022.07\n- Optimized simple queries\n- Assisted with database queries\nEDUCATION\nMaster's, Pinefield University, 2012\nBachelor's, Stone Valley University, 2010\n• Completed coursework in deadlock prevention\n• Completed coursework in software engineering"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "60410",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.776,
+  "n_lines": 10,
+  "mean_score": 0.9872,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TYRONE OWEN",
+      "score": 0.9715,
+      "box": [
+        115,
+        90,
+        371,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-845-530-2478|tyrone.owen@example.com",
+      "score": 0.9886,
+      "box": [
+        115,
+        150,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Craft Builders, 2020.01–2020.07",
+      "score": 0.9727,
+      "box": [
+        115,
+        290,
+        704,
+        312
+      ]
+    },
+    {
+      "text": "- Set up ladders and basic scaffolding",
+      "score": 0.9954,
+      "box": [
+        126,
+        314,
+        477,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9974,
+      "box": [
+        126,
+        339,
+        493,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Design, Riverwood University, 2015",
+      "score": 0.9805,
+      "box": [
+        114,
+        447,
+        679,
+        473
+      ]
+    },
+    {
+      "text": "• Studied principles of site access planning",
+      "score": 0.9877,
+      "box": [
+        132,
+        472,
+        530,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction site security",
+      "score": 0.9963,
+      "box": [
+        133,
+        497,
+        617,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "TYRONE OWEN\nWI, USA|+1-845-530-2478|tyrone.owen@example.com\nWORK HISTORY\nConstruction Laborers, Unified Craft Builders, 2020.01–2020.07\n- Set up ladders and basic scaffolding\n- Assisted with equipment maintenance\nEDUCATION\nBachelor's, Construction Design, Riverwood University, 2015\n• Studied principles of site access planning\n• Completed coursework in construction site security"
+}

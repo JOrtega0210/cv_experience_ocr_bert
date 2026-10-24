@@ -1,0 +1,226 @@
+{
+  "id": "04271",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.898,
+  "n_lines": 16,
+  "mean_score": 0.9815,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CLINT PATEL",
+      "score": 0.9812,
+      "box": [
+        116,
+        90,
+        336,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-774-232-6413 |clint.patel@example.com",
+      "score": 0.9659,
+      "box": [
+        116,
+        151,
+        629,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.988,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightscale Labs, 2020.11–2023.01",
+      "score": 0.9735,
+      "box": [
+        114,
+        288,
+        649,
+        313
+      ]
+    },
+    {
+      "text": "- Defined APl standards",
+      "score": 0.9814,
+      "box": [
+        127,
+        315,
+        351,
+        336
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.9906,
+      "box": [
+        125,
+        338,
+        374,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Softline Digital, 2018.09–2020.11",
+      "score": 0.9558,
+      "box": [
+        116,
+        382,
+        627,
+        406
+      ]
+    },
+    {
+      "text": "-Built containerized services",
+      "score": 0.9934,
+      "box": [
+        125,
+        405,
+        396,
+        430
+      ]
+    },
+    {
+      "text": "- Handled load testing",
+      "score": 0.9629,
+      "box": [
+        125,
+        429,
+        333,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Digital, 2016.07–2018.09",
+      "score": 0.9918,
+      "box": [
+        115,
+        471,
+        655,
+        496
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9742,
+      "box": [
+        124,
+        495,
+        448,
+        522
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9781,
+      "box": [
+        125,
+        521,
+        403,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Lakewood University, 2016",
+      "score": 0.9939,
+      "box": [
+        115,
+        632,
+        477,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of NoSQL systems",
+      "score": 0.9854,
+      "box": [
+        132,
+        656,
+        530,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in virtual reality basics",
+      "score": 0.9886,
+      "box": [
+        135,
+        683,
+        571,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "CLINT PATEL\nCA, USA|+1-774-232-6413 |clint.patel@example.com\nWORK HISTORY\nSoftware Developers, Brightscale Labs, 2020.11–2023.01\n- Defined APl standards\n- Led architectural reviews\nSoftware Developers, Softline Digital, 2018.09–2020.11\n-Built containerized services\n- Handled load testing\nSoftware Developers, Stonepath Digital, 2016.07–2018.09\n- Performed basic APl integrations\n- Participated in code reviews\nEDUCATION\nBachelor's, Lakewood University, 2016\n• Studied fundamentals of NoSQL systems\n• Completed coursework in virtual reality basics"
+}

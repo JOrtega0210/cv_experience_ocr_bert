@@ -1,0 +1,161 @@
+{
+  "id": "01832",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.885,
+  "n_lines": 11,
+  "mean_score": 0.9818,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAVON MATHEWS",
+      "score": 0.9879,
+      "box": [
+        116,
+        90,
+        415,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-657-686-9239|javon.mathews@example.com",
+      "score": 0.996,
+      "box": [
+        116,
+        151,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9839,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Financial, 2021.09–2023.01",
+      "score": 0.9816,
+      "box": [
+        116,
+        290,
+        690,
+        310
+      ]
+    },
+    {
+      "text": "- Prepared expense reports",
+      "score": 0.9645,
+      "box": [
+        126,
+        314,
+        384,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.9861,
+      "box": [
+        127,
+        340,
+        445,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        266,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Business Technology, Redfield University, 2023",
+      "score": 0.9768,
+      "box": [
+        115,
+        449,
+        649,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Management, Brightfield University, 2022",
+      "score": 0.9651,
+      "box": [
+        114,
+        472,
+        697,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of continuous auditing",
+      "score": 0.9841,
+      "box": [
+        134,
+        499,
+        521,
+        523
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial controls",
+      "score": 0.9755,
+      "box": [
+        136,
+        525,
+        544,
+        545
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "JAVON MATHEWS\nAZ, USA|+1-657-686-9239|javon.mathews@example.com\nWORK HISTORY\nAccountants Auditors, CoreBooks Financial, 2021.09–2023.01\n- Prepared expense reports\n- Prepared account reconciliations\nEDUCATION\nMaster's, Business Technology, Redfield University, 2023\nBachelor's, Financial Management, Brightfield University, 2022\n• Studied principles of continuous auditing\n• Completed coursework in financial controls"
+}

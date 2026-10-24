@@ -1,0 +1,226 @@
+{
+  "id": "23322",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.873,
+  "n_lines": 16,
+  "mean_score": 0.9812,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MATTHEW SANDERS",
+      "score": 0.9882,
+      "box": [
+        116,
+        90,
+        461,
+        121
+      ]
+    },
+    {
+      "text": "LA, USA |+1-233-343-1179 |matthew.sanders@example.com",
+      "score": 0.9787,
+      "box": [
+        116,
+        150,
+        696,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9875,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongCraft Construction, 2021.01–2023.01",
+      "score": 0.9834,
+      "box": [
+        114,
+        288,
+        736,
+        314
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.974,
+      "box": [
+        126,
+        315,
+        394,
+        339
+      ]
+    },
+    {
+      "text": "- Developed structural reinforcement plans",
+      "score": 0.9833,
+      "box": [
+        126,
+        339,
+        523,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongWay Construction, 2018.06–2020.07",
+      "score": 0.9771,
+      "box": [
+        115,
+        381,
+        735,
+        406
+      ]
+    },
+    {
+      "text": "- Installed door and window frames",
+      "score": 0.9799,
+      "box": [
+        126,
+        407,
+        453,
+        429
+      ]
+    },
+    {
+      "text": "- Prepared structural joints",
+      "score": 0.9711,
+      "box": [
+        126,
+        430,
+        375,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueCraft Builders, 2015.11–2017.12",
+      "score": 0.9916,
+      "box": [
+        116,
+        472,
+        678,
+        495
+      ]
+    },
+    {
+      "text": "- Monitored material usage",
+      "score": 0.9785,
+      "box": [
+        125,
+        495,
+        379,
+        522
+      ]
+    },
+    {
+      "text": "- Assisted with roofing material handling",
+      "score": 0.9659,
+      "box": [
+        126,
+        521,
+        498,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Design, Willow Creek University, 2004",
+      "score": 0.9658,
+      "box": [
+        115,
+        631,
+        845,
+        656
+      ]
+    },
+    {
+      "text": "•Completed coursework in construction site security",
+      "score": 0.9877,
+      "box": [
+        132,
+        656,
+        618,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic waterproofing",
+      "score": 0.9875,
+      "box": [
+        134,
+        681,
+        570,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "MATTHEW SANDERS\nLA, USA |+1-233-343-1179 |matthew.sanders@example.com\nWORK HISTORY\nConstruction Laborers, StrongCraft Construction, 2021.01–2023.01\n- Directed project scheduling\n- Developed structural reinforcement plans\nConstruction Laborers, StrongWay Construction, 2018.06–2020.07\n- Installed door and window frames\n- Prepared structural joints\nConstruction Laborers, TrueCraft Builders, 2015.11–2017.12\n- Monitored material usage\n- Assisted with roofing material handling\nEDUCATION\nSome college (no degree), Construction Design, Willow Creek University, 2004\n•Completed coursework in construction site security\n• Completed coursework in basic waterproofing"
+}

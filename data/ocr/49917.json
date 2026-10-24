@@ -1,0 +1,200 @@
+{
+  "id": "49917",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.783,
+  "n_lines": 14,
+  "mean_score": 0.9872,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "EMILYVO",
+      "score": 0.9956,
+      "box": [
+        114,
+        86,
+        280,
+        123
+      ]
+    },
+    {
+      "text": "TX, USA |+1-410-287-2072 | emily.vo@example.com",
+      "score": 0.9699,
+      "box": [
+        116,
+        151,
+        616,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softnode Systems, 2020.03–2023.01",
+      "score": 0.9879,
+      "box": [
+        115,
+        290,
+        664,
+        313
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9868,
+      "box": [
+        125,
+        314,
+        399,
+        337
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.9918,
+      "box": [
+        126,
+        339,
+        428,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightpoint Systems, 2016.05–2019.03",
+      "score": 0.9857,
+      "box": [
+        115,
+        381,
+        682,
+        406
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.976,
+      "box": [
+        125,
+        406,
+        448,
+        431
+      ]
+    },
+    {
+      "text": "- Updated monitoring dashboards",
+      "score": 0.9916,
+      "box": [
+        126,
+        431,
+        440,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Brookside University, 2014",
+      "score": 0.9798,
+      "box": [
+        115,
+        541,
+        456,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Northfield University, 2012",
+      "score": 0.9853,
+      "box": [
+        115,
+        566,
+        471,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in load balancing basics",
+      "score": 0.994,
+      "box": [
+        134,
+        592,
+        589,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in logging and monitoring",
+      "score": 0.992,
+      "box": [
+        133,
+        615,
+        600,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "EMILYVO\nTX, USA |+1-410-287-2072 | emily.vo@example.com\nWORK HISTORY\nSoftware Developers, Softnode Systems, 2020.03–2023.01\n- Led database design efforts\n- Designed system architectures\nSoftware Developers, Brightpoint Systems, 2016.05–2019.03\n- Performed basic APl integrations\n- Updated monitoring dashboards\nEDUCATION\nMaster's, Brookside University, 2014\nBachelor's, Northfield University, 2012\n• Completed coursework in load balancing basics\n• Completed coursework in logging and monitoring"
+}

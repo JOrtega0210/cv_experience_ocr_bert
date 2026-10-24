@@ -1,0 +1,187 @@
+{
+  "id": "08629",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.926,
+  "n_lines": 13,
+  "mean_score": 0.9829,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAMIE CHEN",
+      "score": 0.9632,
+      "box": [
+        114,
+        88,
+        325,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-250-413-6455 |jamie.chen@example.com",
+      "score": 0.9796,
+      "box": [
+        116,
+        151,
+        642,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeStone Contractors, 2021.07–2023.01",
+      "score": 0.9888,
+      "box": [
+        114,
+        289,
+        729,
+        313
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.9677,
+      "box": [
+        126,
+        315,
+        462,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.9739,
+      "box": [
+        126,
+        339,
+        439,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, LevelBuild Contractors, 2019.12–2021.07",
+      "score": 0.9888,
+      "box": [
+        115,
+        381,
+        718,
+        405
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9898,
+      "box": [
+        125,
+        407,
+        438,
+        430
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9862,
+      "box": [
+        126,
+        429,
+        424,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Fundamentals, Bright Ridge University, 2023",
+      "score": 0.9758,
+      "box": [
+        114,
+        539,
+        762,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of scaffold safety",
+      "score": 0.9826,
+      "box": [
+        131,
+        564,
+        512,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural basics",
+      "score": 0.9977,
+      "box": [
+        134,
+        591,
+        540,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JAMIE CHEN\nCA, USA|+1-250-413-6455 |jamie.chen@example.com\nWORK HISTORY\nConstruction Laborers, PrimeStone Contractors, 2021.07–2023.01\n- Designed site logistics frameworks\n- Reviewed engineering drawings\nConstruction Laborers, LevelBuild Contractors, 2019.12–2021.07\n- Helped position heavy materials\n- Assisted with excavation tasks\nEDUCATION\nBachelor's, Construction Fundamentals, Bright Ridge University, 2023\n• Studied fundamentals of scaffold safety\n• Completed coursework in structural basics"
+}

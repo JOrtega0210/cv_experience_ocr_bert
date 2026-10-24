@@ -1,0 +1,174 @@
+{
+  "id": "61509",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.853,
+  "n_lines": 12,
+  "mean_score": 0.9785,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AARON MULLINS",
+      "score": 0.9632,
+      "box": [
+        116,
+        90,
+        399,
+        121
+      ]
+    },
+    {
+      "text": "WY, USA|+1-437-562-7090|aaron.mullins@example.com",
+      "score": 0.984,
+      "box": [
+        114,
+        150,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidTrack Contractors, 2019.07–2022.03",
+      "score": 0.9736,
+      "box": [
+        114,
+        288,
+        721,
+        313
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.9853,
+      "box": [
+        126,
+        313,
+        448,
+        337
+      ]
+    },
+    {
+      "text": "- Managed construction schedules",
+      "score": 0.9531,
+      "box": [
+        127,
+        340,
+        447,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Builders, 2016.05–2019.01",
+      "score": 0.9855,
+      "box": [
+        116,
+        382,
+        653,
+        405
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.9682,
+      "box": [
+        126,
+        407,
+        474,
+        429
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9629,
+      "box": [
+        126,
+        432,
+        483,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Foundations, Rockland High School, 2003",
+      "score": 0.99,
+      "box": [
+        116,
+        541,
+        889,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of workplace safety",
+      "score": 0.9941,
+      "box": [
+        133,
+        565,
+        497,
+        590
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "AARON MULLINS\nWY, USA|+1-437-562-7090|aaron.mullins@example.com\nWORK HISTORY\nConstruction Laborers, SolidTrack Contractors, 2019.07–2022.03\n- Led cross-functional coordination\n- Managed construction schedules\nConstruction Laborers, Unified Builders, 2016.05–2019.01\n- Marked measurements on materials\n- Maintained cleanliness of work areas\nEDUCATION\nHigh school graduate/GED, Construction Foundations, Rockland High School, 2003\n• Studied principles of workplace safety"
+}

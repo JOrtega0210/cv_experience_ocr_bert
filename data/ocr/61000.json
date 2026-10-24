@@ -1,0 +1,265 @@
+{
+  "id": "61000",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.973,
+  "n_lines": 19,
+  "mean_score": 0.9787,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SHARON FISHER",
+      "score": 0.9818,
+      "box": [
+        116,
+        90,
+        394,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-504-350-3677 |sharon.fisher@example.com",
+      "score": 0.9809,
+      "box": [
+        115,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Summit Accounting Services, 2019.04–2023.01",
+      "score": 0.9743,
+      "box": [
+        114,
+        289,
+        764,
+        314
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9801,
+      "box": [
+        126,
+        314,
+        514,
+        339
+      ]
+    },
+    {
+      "text": "- Led financial forecasting initiatives",
+      "score": 0.9613,
+      "box": [
+        126,
+        339,
+        458,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenLedger Services, 2015.06–2019.04",
+      "score": 0.9715,
+      "box": [
+        116,
+        382,
+        702,
+        406
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9673,
+      "box": [
+        126,
+        406,
+        429,
+        432
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.9814,
+      "box": [
+        126,
+        431,
+        502,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Financial, 2011.08–2015.06",
+      "score": 0.9711,
+      "box": [
+        114,
+        471,
+        745,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared financial projections",
+      "score": 0.9835,
+      "box": [
+        125,
+        496,
+        418,
+        521
+      ]
+    },
+    {
+      "text": "- Analyzed financial trends",
+      "score": 0.9678,
+      "box": [
+        126,
+        521,
+        374,
+        545
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Financial Group, 2006.02–2009.12",
+      "score": 0.9765,
+      "box": [
+        115,
+        565,
+        810,
+        588
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9735,
+      "box": [
+        125,
+        589,
+        439,
+        614
+      ]
+    },
+    {
+      "text": "- Maintained vendor records",
+      "score": 0.9903,
+      "box": [
+        127,
+        616,
+        390,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Commerce, Cedar Valley University, 2003",
+      "score": 0.9734,
+      "box": [
+        114,
+        723,
+        614,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in ethics in business",
+      "score": 0.9881,
+      "box": [
+        134,
+        750,
+        554,
+        770
+      ]
+    },
+    {
+      "text": "• Completed coursework in data visualization basics",
+      "score": 0.9886,
+      "box": [
+        136,
+        775,
+        613,
+        795
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "SHARON FISHER\nWI, USA|+1-504-350-3677 |sharon.fisher@example.com\nWORK HISTORY\nAccountants Auditors, Summit Accounting Services, 2019.04–2023.01\n- Directed accounting operations planning\n- Led financial forecasting initiatives\nAccountants Auditors, OpenLedger Services, 2015.06–2019.04\n- Led audit planning governance\n- Directed strategic accounting initiatives\nAccountants Auditors, Integrity Balance Financial, 2011.08–2015.06\n- Prepared financial projections\n- Analyzed financial trends\nAccountants Auditors, Reliable Balance Financial Group, 2006.02–2009.12\n- Reviewed timesheets for payroll\n- Maintained vendor records\nEDUCATION\nBachelor's, Commerce, Cedar Valley University, 2003\n• Completed coursework in ethics in business\n• Completed coursework in data visualization basics"
+}

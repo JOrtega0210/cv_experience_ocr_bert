@@ -1,0 +1,148 @@
+{
+  "id": "48375",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.777,
+  "n_lines": 10,
+  "mean_score": 0.9804,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "YAHIR LEAL",
+      "score": 0.9622,
+      "box": [
+        113,
+        86,
+        320,
+        122
+      ]
+    },
+    {
+      "text": "TN, USA|+1-740-304-8236 |yahir.leal@example.com",
+      "score": 0.9617,
+      "box": [
+        115,
+        150,
+        624,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9812,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Build Co., 2020.03–2023.01",
+      "score": 0.9934,
+      "box": [
+        116,
+        291,
+        662,
+        311
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.9686,
+      "box": [
+        126,
+        315,
+        445,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9966,
+      "box": [
+        126,
+        339,
+        493,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Management, Silverton University, 223",
+      "score": 0.9854,
+      "box": [
+        115,
+        447,
+        861,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic tile installation",
+      "score": 0.967,
+      "box": [
+        133,
+        473,
+        576,
+        496
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction fundamentals",
+      "score": 0.9894,
+      "box": [
+        134,
+        500,
+        631,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "YAHIR LEAL\nTN, USA|+1-740-304-8236 |yahir.leal@example.com\nWORK HISTORY\nConstruction Laborers, Unified Build Co., 2020.03–2023.01\n- Secured materials with fasteners\n- Assisted with equipment maintenance\nEDUCATION\nSome college (no degree), Construction Management, Silverton University, 223\n• Completed coursework in basic tile installation\n• Completed coursework in construction fundamentals"
+}

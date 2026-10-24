@@ -1,0 +1,187 @@
+{
+  "id": "58572",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.796,
+  "n_lines": 13,
+  "mean_score": 0.9817,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JACQUELINE BELL",
+      "score": 0.9905,
+      "box": [
+        116,
+        90,
+        431,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA |+1-916-877-3988|jacqueline.bell@example.com",
+      "score": 0.9755,
+      "box": [
+        115,
+        150,
+        678,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Heart Nursing, 2021.03–2023.01",
+      "score": 0.9901,
+      "box": [
+        116,
+        290,
+        679,
+        313
+      ]
+    },
+    {
+      "text": "– Managed clinical workflow redesign",
+      "score": 0.9552,
+      "box": [
+        125,
+        314,
+        470,
+        339
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.9537,
+      "box": [
+        126,
+        338,
+        424,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Hands Care, 2019.05–2021.03",
+      "score": 0.9925,
+      "box": [
+        115,
+        381,
+        709,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with diagnostic procedures",
+      "score": 0.9934,
+      "box": [
+        125,
+        406,
+        474,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared medication trays",
+      "score": 0.9832,
+      "box": [
+        125,
+        428,
+        388,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Biological Sciences, Lakeside University, 2018",
+      "score": 0.9875,
+      "box": [
+        114,
+        539,
+        656,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of teamwork in healthcare",
+      "score": 0.9736,
+      "box": [
+        133,
+        566,
+        558,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in nutritional assessment",
+      "score": 0.9845,
+      "box": [
+        134,
+        591,
+        598,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JACQUELINE BELL\nWA, USA |+1-916-877-3988|jacqueline.bell@example.com\nWORK HISTORY\nRegistered Nurses, Helping Heart Nursing, 2021.03–2023.01\n– Managed clinical workflow redesign\n- Led infection control programs\nRegistered Nurses, Compassion Hands Care, 2019.05–2021.03\n- Assisted with diagnostic procedures\n- Prepared medication trays\nEDUCATION\nBachelor's, Biological Sciences, Lakeside University, 2018\n• Studied principles of teamwork in healthcare\n• Completed coursework in nutritional assessment"
+}

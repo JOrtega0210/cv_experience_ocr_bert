@@ -1,0 +1,278 @@
+{
+  "id": "02622",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.07,
+  "n_lines": 20,
+  "mean_score": 0.9802,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MIGNON WEISS",
+      "score": 0.9717,
+      "box": [
+        115,
+        88,
+        374,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-711-577-4242 |mignon.weiss@example.com",
+      "score": 0.9726,
+      "box": [
+        116,
+        151,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9858,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Financial Group, 2019.02–2023.01",
+      "score": 0.9831,
+      "box": [
+        114,
+        288,
+        802,
+        314
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.984,
+      "box": [
+        125,
+        313,
+        433,
+        338
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.968,
+      "box": [
+        126,
+        338,
+        490,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Summit Accounting Services, 2015.03–2019.02",
+      "score": 0.9899,
+      "box": [
+        114,
+        381,
+        766,
+        406
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.984,
+      "box": [
+        127,
+        407,
+        437,
+        430
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9789,
+      "box": [
+        126,
+        431,
+        479,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Accounting, 2011.04–2015.03",
+      "score": 0.9877,
+      "box": [
+        114,
+        471,
+        745,
+        496
+      ]
+    },
+    {
+      "text": "- Analyzed financial variances",
+      "score": 0.9738,
+      "box": [
+        126,
+        498,
+        407,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented accounting procedures",
+      "score": 0.9826,
+      "box": [
+        126,
+        521,
+        479,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Services, 2007.04–2011.04",
+      "score": 0.9869,
+      "box": [
+        115,
+        565,
+        739,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.982,
+      "box": [
+        126,
+        589,
+        384,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.9732,
+      "box": [
+        127,
+        615,
+        420,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Master's, Accounting, Willowhaven University, 2006",
+      "score": 0.9671,
+      "box": [
+        115,
+        725,
+        595,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting Practice, Northcrest University, 2004",
+      "score": 0.9657,
+      "box": [
+        114,
+        747,
+        673,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of sampling techniques",
+      "score": 0.9926,
+      "box": [
+        133,
+        774,
+        533,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial data interpretation",
+      "score": 0.9767,
+      "box": [
+        132,
+        798,
+        639,
+        822
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "MIGNON WEISS\nCA, USA|+1-711-577-4242 |mignon.weiss@example.com\nWORK HISTORY\nAccountants Auditors, Precise Balance Financial Group, 2019.02–2023.01\n- Established accounting policies\n- Directed financial system architecture\nAccountants Auditors, Summit Accounting Services, 2015.03–2019.02\n- Developed financial risk models\n- Led accounting process optimization\nAccountants Auditors, Balanced Path Accounting, 2011.04–2015.03\n- Analyzed financial variances\n- Implemented accounting procedures\nAccountants Auditors, Accurate Ledger Services, 2007.04–2011.04\n- Prepared variance reports\n- Assisted with forecasting data\nEDUCATION\nMaster's, Accounting, Willowhaven University, 2006\nBachelor's, Accounting Practice, Northcrest University, 2004\n• Studied principles of sampling techniques\n• Completed coursework in financial data interpretation"
+}

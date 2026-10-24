@@ -1,0 +1,226 @@
+{
+  "id": "26732",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.864,
+  "n_lines": 16,
+  "mean_score": 0.9804,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARCELLOUS BALL",
+      "score": 0.9907,
+      "box": [
+        116,
+        90,
+        452,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-616-558-1535|marcellous.ball@example.com",
+      "score": 0.9886,
+      "box": [
+        115,
+        150,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, LevelBuild Contractors, 2020.07–2023.01",
+      "score": 0.985,
+      "box": [
+        115,
+        290,
+        716,
+        313
+      ]
+    },
+    {
+      "text": "- Supervised foundation installations",
+      "score": 0.9873,
+      "box": [
+        127,
+        315,
+        465,
+        338
+      ]
+    },
+    {
+      "text": "- Managed subcontractor coordination",
+      "score": 0.9682,
+      "box": [
+        126,
+        339,
+        480,
+        362
+      ]
+    },
+    {
+      "text": "Construction Laborers, Foundation Force, 2018.01–2020.07",
+      "score": 0.9957,
+      "box": [
+        116,
+        382,
+        672,
+        405
+      ]
+    },
+    {
+      "text": "- Installed mechanical supports",
+      "score": 0.9757,
+      "box": [
+        125,
+        405,
+        418,
+        432
+      ]
+    },
+    {
+      "text": "- Prepared cost estimates",
+      "score": 0.9326,
+      "box": [
+        126,
+        430,
+        368,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, Stronghold Construction, 2015.06–2018.01",
+      "score": 0.9862,
+      "box": [
+        116,
+        472,
+        731,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.9807,
+      "box": [
+        127,
+        499,
+        511,
+        519
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.973,
+      "box": [
+        126,
+        521,
+        372,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Industrial Maintenance, Crossfield University, 2016",
+      "score": 0.9807,
+      "box": [
+        115,
+        631,
+        839,
+        656
+      ]
+    },
+    {
+      "text": "•Completed coursework in construction site organization",
+      "score": 0.9847,
+      "box": [
+        132,
+        656,
+        659,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction inspection",
+      "score": 0.9716,
+      "box": [
+        133,
+        681,
+        591,
+        704
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "MARCELLOUS BALL\nMI, USA|+1-616-558-1535|marcellous.ball@example.com\nWORK HISTORY\nConstruction Laborers, LevelBuild Contractors, 2020.07–2023.01\n- Supervised foundation installations\n- Managed subcontractor coordination\nConstruction Laborers, Foundation Force, 2018.01–2020.07\n- Installed mechanical supports\n- Prepared cost estimates\nConstruction Laborers, Stronghold Construction, 2015.06–2018.01\n- Prepared surfaces for construction work\n- Sorted building materials\nEDUCATION\nSome college (no degree), Industrial Maintenance, Crossfield University, 2016\n•Completed coursework in construction site organization\n• Studied fundamentals of construction inspection"
+}

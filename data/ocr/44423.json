@@ -1,0 +1,187 @@
+{
+  "id": "44423",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.849,
+  "n_lines": 13,
+  "mean_score": 0.983,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KRISTI RAYMOND",
+      "score": 0.9897,
+      "box": [
+        116,
+        90,
+        410,
+        121
+      ]
+    },
+    {
+      "text": "OR, USA|+1-399-348-6468 |kristi.raymond@example.com",
+      "score": 0.9862,
+      "box": [
+        117,
+        151,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9788,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Balance Financial, 2020.11–2023.01",
+      "score": 0.9878,
+      "box": [
+        115,
+        290,
+        751,
+        312
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9808,
+      "box": [
+        126,
+        315,
+        554,
+        338
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9772,
+      "box": [
+        126,
+        339,
+        427,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Financial Group, 2016.09–2018.11",
+      "score": 0.9827,
+      "box": [
+        114,
+        381,
+        755,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.9915,
+      "box": [
+        127,
+        408,
+        357,
+        429
+      ]
+    },
+    {
+      "text": "- Matched invoices to purchase orders",
+      "score": 0.979,
+      "box": [
+        126,
+        432,
+        483,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Investment Management, Sagewood University, 2007",
+      "score": 0.9514,
+      "box": [
+        115,
+        540,
+        720,
+        563
+      ]
+    },
+    {
+      "text": "• Studied principles of forecast modeling",
+      "score": 0.9901,
+      "box": [
+        133,
+        566,
+        506,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in budgeting techniques",
+      "score": 0.9851,
+      "box": [
+        133,
+        590,
+        588,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KRISTI RAYMOND\nOR, USA|+1-399-348-6468 |kristi.raymond@example.com\nWORK HISTORY\nAccountants Auditors, Accurate Balance Financial, 2020.11–2023.01\n- Designed financial documentation standards\n- Managed financial governance\nAccountants Auditors, CoreBooks Financial Group, 2016.09–2018.11\n- Prepared trial balances\n- Matched invoices to purchase orders\nEDUCATION\nBachelor's, Investment Management, Sagewood University, 2007\n• Studied principles of forecast modeling\n• Completed coursework in budgeting techniques"
+}

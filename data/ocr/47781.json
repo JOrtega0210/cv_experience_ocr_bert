@@ -1,0 +1,187 @@
+{
+  "id": "47781",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.863,
+  "n_lines": 13,
+  "mean_score": 0.9824,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JENNIFER WALL",
+      "score": 0.9655,
+      "box": [
+        116,
+        90,
+        389,
+        120
+      ]
+    },
+    {
+      "text": "SC, USA|+1-878-536-7453|jennifer.wall@example.com",
+      "score": 0.9771,
+      "box": [
+        116,
+        151,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9789,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Tree Academy, 2019.04–2021.07",
+      "score": 0.9912,
+      "box": [
+        115,
+        289,
+        857,
+        314
+      ]
+    },
+    {
+      "text": "- Established instructional leadership protocols",
+      "score": 0.9754,
+      "box": [
+        125,
+        313,
+        560,
+        338
+      ]
+    },
+    {
+      "text": "- Led instructional leadership initiatives",
+      "score": 0.9879,
+      "box": [
+        126,
+        339,
+        488,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Ridge School, 2016.06–2018.09",
+      "score": 0.9874,
+      "box": [
+        115,
+        381,
+        826,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.9928,
+      "box": [
+        126,
+        406,
+        484,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed homework assignments",
+      "score": 0.9888,
+      "box": [
+        126,
+        431,
+        459,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Studies, Riverstone University, 2005",
+      "score": 0.9748,
+      "box": [
+        115,
+        541,
+        653,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of behavior management",
+      "score": 0.9768,
+      "box": [
+        132,
+        565,
+        551,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in early literacy instruction",
+      "score": 0.977,
+      "box": [
+        134,
+        591,
+        607,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JENNIFER WALL\nSC, USA|+1-878-536-7453|jennifer.wall@example.com\nWORK HISTORY\nElementary Middle School Teachers, Growing Tree Academy, 2019.04–2021.07\n- Established instructional leadership protocols\n- Led instructional leadership initiatives\nElementary Middle School Teachers, Sunny Ridge School, 2016.06–2018.09\n- Conducted reading practice sessions\n- Reviewed homework assignments\nEDUCATION\nBachelor's, Teaching Studies, Riverstone University, 2005\n• Studied principles of behavior management\n• Completed coursework in early literacy instruction"
+}

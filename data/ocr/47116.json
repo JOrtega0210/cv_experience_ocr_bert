@@ -1,0 +1,278 @@
+{
+  "id": "47116",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.991,
+  "n_lines": 20,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANNCOOK",
+      "score": 0.9918,
+      "box": [
+        114,
+        86,
+        302,
+        123
+      ]
+    },
+    {
+      "text": "RI, USA|+1-389-510-6132|ann.cook@example.com",
+      "score": 0.9823,
+      "box": [
+        115,
+        150,
+        618,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Start Academy, 2020.02–2023.01",
+      "score": 0.9756,
+      "box": [
+        116,
+        289,
+        832,
+        312
+      ]
+    },
+    {
+      "text": "- Developed data-driven teaching models",
+      "score": 0.9916,
+      "box": [
+        126,
+        315,
+        510,
+        338
+      ]
+    },
+    {
+      "text": "- Developed student performance metrics",
+      "score": 0.9858,
+      "box": [
+        126,
+        339,
+        512,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Minds School, 2017.02–2020.02",
+      "score": 0.9792,
+      "box": [
+        116,
+        382,
+        829,
+        405
+      ]
+    },
+    {
+      "text": "- Implemented performance evaluation systems",
+      "score": 0.9946,
+      "box": [
+        126,
+        406,
+        570,
+        431
+      ]
+    },
+    {
+      "text": "- Developed instructional innovation plans",
+      "score": 0.9723,
+      "box": [
+        126,
+        431,
+        516,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Oak Academy, 2014.02–2017.02",
+      "score": 0.9901,
+      "box": [
+        115,
+        472,
+        842,
+        496
+      ]
+    },
+    {
+      "text": "- Organized instructional schedules",
+      "score": 0.996,
+      "box": [
+        126,
+        498,
+        455,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed instructional content",
+      "score": 0.9715,
+      "box": [
+        126,
+        522,
+        427,
+        544
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Meadow Academy, 2010.01–2013.01",
+      "score": 0.9726,
+      "box": [
+        116,
+        565,
+        874,
+        588
+      ]
+    },
+    {
+      "text": "- Administered quizzes and short assessments",
+      "score": 0.9883,
+      "box": [
+        126,
+        590,
+        561,
+        613
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.9933,
+      "box": [
+        127,
+        615,
+        442,
+        635
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Education and Development, Brookside University, 2007",
+      "score": 0.9713,
+      "box": [
+        115,
+        724,
+        728,
+        746
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Development, Westview University, 25",
+      "score": 0.9646,
+      "box": [
+        115,
+        749,
+        658,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational measurement",
+      "score": 0.9887,
+      "box": [
+        134,
+        775,
+        629,
+        795
+      ]
+    },
+    {
+      "text": "• Studied principles of student participation",
+      "score": 0.9846,
+      "box": [
+        132,
+        798,
+        528,
+        822
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "ANNCOOK\nRI, USA|+1-389-510-6132|ann.cook@example.com\nWORK HISTORY\nElementary Middle School Teachers, Bright Start Academy, 2020.02–2023.01\n- Developed data-driven teaching models\n- Developed student performance metrics\nElementary Middle School Teachers, Future Minds School, 2017.02–2020.02\n- Implemented performance evaluation systems\n- Developed instructional innovation plans\nElementary Middle School Teachers, Golden Oak Academy, 2014.02–2017.02\n- Organized instructional schedules\n- Reviewed instructional content\nElementary Middle School Teachers, Future Meadow Academy, 2010.01–2013.01\n- Administered quizzes and short assessments\n- Scheduled instructional activities\nEDUCATION\nMaster's, Education and Development, Brookside University, 2007\nBachelor's, Child Development, Westview University, 25\n• Completed coursework in educational measurement\n• Studied principles of student participation"
+}

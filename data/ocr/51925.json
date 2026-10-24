@@ -1,0 +1,187 @@
+{
+  "id": "51925",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.799,
+  "n_lines": 13,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TRACE WARNER",
+      "score": 0.9714,
+      "box": [
+        115,
+        90,
+        393,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-809-239-3955|trace.warner@example.com",
+      "score": 0.976,
+      "box": [
+        115,
+        150,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9877,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Build Group, 2021.07–2023.01",
+      "score": 0.9883,
+      "box": [
+        115,
+        290,
+        698,
+        313
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9839,
+      "box": [
+        126,
+        313,
+        372,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.9701,
+      "box": [
+        126,
+        339,
+        439,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureStep Builders, 2019.12–2021.07",
+      "score": 0.994,
+      "box": [
+        116,
+        382,
+        676,
+        405
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.9861,
+      "box": [
+        125,
+        404,
+        361,
+        433
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.9839,
+      "box": [
+        127,
+        432,
+        399,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Mechanical Technology, Highpoint University, 2022",
+      "score": 0.98,
+      "box": [
+        114,
+        539,
+        779,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction terminology",
+      "score": 0.9798,
+      "box": [
+        132,
+        565,
+        615,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of masonry",
+      "score": 0.9893,
+      "box": [
+        132,
+        590,
+        459,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "TRACE WARNER\nTX, USA|+1-809-239-3955|trace.warner@example.com\nWORK HISTORY\nConstruction Laborers, Reliable Build Group, 2021.07–2023.01\n- Led operational planning\n- Reviewed engineering drawings\nConstruction Laborers, SureStep Builders, 2019.12–2021.07\n- Installed safety signage\n- Dug trenches for utility lines\nEDUCATION\nAssociate's degree, Mechanical Technology, Highpoint University, 2022\n• Completed coursework in construction terminology\n• Studied fundamentals of masonry"
+}

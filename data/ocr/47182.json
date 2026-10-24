@@ -1,0 +1,187 @@
+{
+  "id": "47182",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.784,
+  "n_lines": 13,
+  "mean_score": 0.9846,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DALTON WALL",
+      "score": 0.9641,
+      "box": [
+        116,
+        90,
+        363,
+        121
+      ]
+    },
+    {
+      "text": "RI, USA|+1-309-817-1888|dalton.wall@example.com",
+      "score": 0.991,
+      "box": [
+        115,
+        150,
+        631,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpoint Labs, 2021.03–2023.01",
+      "score": 0.9834,
+      "box": [
+        114,
+        289,
+        636,
+        314
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.9849,
+      "box": [
+        126,
+        313,
+        469,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented disaster recovery plans",
+      "score": 0.994,
+      "box": [
+        126,
+        339,
+        483,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Flowcrest Tech, 2019.04–2021.03",
+      "score": 0.9842,
+      "box": [
+        115,
+        381,
+        638,
+        406
+      ]
+    },
+    {
+      "text": "- Wrote unit tests for application modules",
+      "score": 0.9752,
+      "box": [
+        125,
+        405,
+        507,
+        431
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.9745,
+      "box": [
+        126,
+        431,
+        485,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Pinehaven University, 2023",
+      "score": 0.9933,
+      "box": [
+        115,
+        540,
+        479,
+        563
+      ]
+    },
+    {
+      "text": "• Studied principles of computational thinking",
+      "score": 0.9916,
+      "box": [
+        133,
+        566,
+        549,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in cloud services integration",
+      "score": 0.9814,
+      "box": [
+        133,
+        590,
+        624,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "DALTON WALL\nRI, USA|+1-309-817-1888|dalton.wall@example.com\nWORK HISTORY\nSoftware Developers, Flowpoint Labs, 2021.03–2023.01\n- Led backend platform development\n- Implemented disaster recovery plans\nSoftware Developers, Flowcrest Tech, 2019.04–2021.03\n- Wrote unit tests for application modules\n- Logged and tracked software defects\nEDUCATION\nBachelor's, Pinehaven University, 2023\n• Studied principles of computational thinking\n• Completed coursework in cloud services integration"
+}

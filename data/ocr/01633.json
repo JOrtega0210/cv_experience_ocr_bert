@@ -1,0 +1,265 @@
+{
+  "id": "01633",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.003,
+  "n_lines": 19,
+  "mean_score": 0.9802,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOHN NICHOLS",
+      "score": 0.9944,
+      "box": [
+        115,
+        88,
+        372,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-611-619-2744 |john.nichols@example.com",
+      "score": 0.9788,
+      "box": [
+        115,
+        151,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stoneframe Tech, 2019.05–2023.01",
+      "score": 0.9761,
+      "box": [
+        114,
+        288,
+        655,
+        313
+      ]
+    },
+    {
+      "text": "- Defined APl standards",
+      "score": 0.9822,
+      "box": [
+        127,
+        315,
+        351,
+        336
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.9746,
+      "box": [
+        127,
+        340,
+        500,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Brightline Systems, 2015.08–2019.05",
+      "score": 0.9788,
+      "box": [
+        115,
+        381,
+        669,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed architectural proposals",
+      "score": 0.986,
+      "box": [
+        125,
+        405,
+        450,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9742,
+      "box": [
+        127,
+        432,
+        423,
+        454
+      ]
+    },
+    {
+      "text": "Software Developers, Skyline Tech, 2011.11–2015.08",
+      "score": 0.982,
+      "box": [
+        115,
+        472,
+        617,
+        496
+      ]
+    },
+    {
+      "text": "- Designed documentation templates",
+      "score": 0.9688,
+      "box": [
+        125,
+        496,
+        469,
+        521
+      ]
+    },
+    {
+      "text": "- Wrote automated tests",
+      "score": 0.9558,
+      "box": [
+        126,
+        522,
+        352,
+        544
+      ]
+    },
+    {
+      "text": "Software Developers, Corecrest Software, 2006.07–2010.04",
+      "score": 0.9735,
+      "box": [
+        114,
+        563,
+        675,
+        588
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.9813,
+      "box": [
+        125,
+        588,
+        495,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with container setup",
+      "score": 0.9914,
+      "box": [
+        125,
+        613,
+        413,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Riverway University, 003",
+      "score": 0.9723,
+      "box": [
+        114,
+        723,
+        467,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of software usability",
+      "score": 0.9892,
+      "box": [
+        132,
+        747,
+        502,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in calculus for computing",
+      "score": 0.9787,
+      "box": [
+        133,
+        772,
+        596,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "JOHN NICHOLS\nAZ, USA|+1-611-619-2744 |john.nichols@example.com\nWORK HISTORY\nSoftware Developers, Stoneframe Tech, 2019.05–2023.01\n- Defined APl standards\n- Implemented infrastructure automation\nSoftware Developers, Brightline Systems, 2015.08–2019.05\n- Reviewed architectural proposals\n- Implemented core frameworks\nSoftware Developers, Skyline Tech, 2011.11–2015.08\n- Designed documentation templates\n- Wrote automated tests\nSoftware Developers, Corecrest Software, 2006.07–2010.04\n- Performed basic performance profiling\n- Assisted with container setup\nEDUCATION\nBachelor's, Riverway University, 003\n• Studied principles of software usability\n• Completed coursework in calculus for computing"
+}

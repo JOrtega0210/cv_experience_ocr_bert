@@ -1,0 +1,187 @@
+{
+  "id": "48204",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.855,
+  "n_lines": 13,
+  "mean_score": 0.981,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "EMILY MCDOWELL",
+      "score": 0.9689,
+      "box": [
+        117,
+        90,
+        426,
+        120
+      ]
+    },
+    {
+      "text": "SD, USA|+1-911-776-5546 |emily.mcdowell@example.com",
+      "score": 0.9642,
+      "box": [
+        116,
+        151,
+        683,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9781,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Start School, 2021.05–2023.01",
+      "score": 0.9866,
+      "box": [
+        115,
+        289,
+        817,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented data analysis frameworks",
+      "score": 0.9754,
+      "box": [
+        127,
+        315,
+        504,
+        338
+      ]
+    },
+    {
+      "text": "- Directed cross-grade curriculum alignment",
+      "score": 0.9736,
+      "box": [
+        126,
+        339,
+        535,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Learning Center, 2018.05–2020.02",
+      "score": 0.9895,
+      "box": [
+        115,
+        381,
+        878,
+        406
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9922,
+      "box": [
+        126,
+        406,
+        517,
+        432
+      ]
+    },
+    {
+      "text": "-Maintained lesson documentation",
+      "score": 0.9823,
+      "box": [
+        126,
+        432,
+        452,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Youth Studies, High Meadow University, 208",
+      "score": 0.9716,
+      "box": [
+        114,
+        539,
+        650,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom structure planning",
+      "score": 0.9833,
+      "box": [
+        133,
+        565,
+        655,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic education law concepts",
+      "score": 0.9899,
+      "box": [
+        134,
+        590,
+        660,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "EMILY MCDOWELL\nSD, USA|+1-911-776-5546 |emily.mcdowell@example.com\nWORK HISTORY\nElementary Middle School Teachers, Caring Start School, 2021.05–2023.01\n- Implemented data analysis frameworks\n- Directed cross-grade curriculum alignment\nElementary Middle School Teachers, Harmony Learning Center, 2018.05–2020.02\n- Organized classroom learning resources\n-Maintained lesson documentation\nEDUCATION\nBachelor's, Youth Studies, High Meadow University, 208\n• Completed coursework in classroom structure planning\n• Completed coursework in basic education law concepts"
+}

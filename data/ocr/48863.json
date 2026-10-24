@@ -1,0 +1,187 @@
+{
+  "id": "48863",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.817,
+  "n_lines": 13,
+  "mean_score": 0.9804,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KEVIN MULLEN",
+      "score": 0.9862,
+      "box": [
+        116,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-368-497-1809 |kevin.mullen@example.com",
+      "score": 0.9775,
+      "box": [
+        115,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, EverRise Construction, 2019.12–2021.08",
+      "score": 0.9857,
+      "box": [
+        115,
+        289,
+        715,
+        313
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.9873,
+      "box": [
+        125,
+        313,
+        524,
+        339
+      ]
+    },
+    {
+      "text": "– Managed construction schedules",
+      "score": 0.961,
+      "box": [
+        127,
+        340,
+        447,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueStone Builders, 2016.10–2018.07",
+      "score": 0.9953,
+      "box": [
+        116,
+        382,
+        687,
+        405
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.9483,
+      "box": [
+        125,
+        406,
+        399,
+        431
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9943,
+      "box": [
+        127,
+        433,
+        367,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Masonry, Willow Creek University, 2012",
+      "score": 0.9793,
+      "box": [
+        115,
+        539,
+        738,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural inspection basics",
+      "score": 0.958,
+      "box": [
+        132,
+        565,
+        639,
+        588
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of structural framing techniques",
+      "score": 0.9942,
+      "box": [
+        132,
+        590,
+        646,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KEVIN MULLEN\nTN, USA|+1-368-497-1809 |kevin.mullen@example.com\nWORK HISTORY\nConstruction Laborers, EverRise Construction, 2019.12–2021.08\n- Coordinated large-scale material logistics\n– Managed construction schedules\nConstruction Laborers, TrueStone Builders, 2016.10–2018.07\n- Dug trenches for utility lines\n- Installed basic formwork\nEDUCATION\nSome college (no degree), Masonry, Willow Creek University, 2012\n• Completed coursework in structural inspection basics\n• Studied fundamentals of structural framing techniques"
+}

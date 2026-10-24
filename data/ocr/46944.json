@@ -1,0 +1,213 @@
+{
+  "id": "46944",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.806,
+  "n_lines": 15,
+  "mean_score": 0.9793,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KAYLA WANG",
+      "score": 0.9768,
+      "box": [
+        116,
+        90,
+        348,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-586-947-8468|kayla.wang@example.com",
+      "score": 0.985,
+      "box": [
+        115,
+        150,
+        644,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9852,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datapath Solutions, 2020.07–2023.01",
+      "score": 0.986,
+      "box": [
+        114,
+        288,
+        671,
+        314
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.9823,
+      "box": [
+        125,
+        313,
+        374,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9561,
+      "box": [
+        127,
+        340,
+        515,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Labs, 2017.12–2020.07",
+      "score": 0.9899,
+      "box": [
+        116,
+        382,
+        637,
+        405
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9763,
+      "box": [
+        125,
+        406,
+        448,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with Cl pipeline tasks",
+      "score": 0.9761,
+      "box": [
+        127,
+        432,
+        423,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Doctorate, Willowhaven University, 2016",
+      "score": 0.9792,
+      "box": [
+        115,
+        541,
+        493,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Bayside University, 2011",
+      "score": 0.963,
+      "box": [
+        115,
+        566,
+        455,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of game development",
+      "score": 0.9914,
+      "box": [
+        131,
+        590,
+        557,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of database design",
+      "score": 0.9781,
+      "box": [
+        132,
+        615,
+        495,
+        640
+      ]
+    },
+    {
+      "text": "• Completed coursework in sorting and searching algorithms",
+      "score": 0.9658,
+      "box": [
+        132,
+        640,
+        690,
+        666
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "KAYLA WANG\nPA, USA|+1-586-947-8468|kayla.wang@example.com\nWORK HISTORY\nSoftware Developers, Datapath Solutions, 2020.07–2023.01\n- Led architectural reviews\n- Implemented access control frameworks\nSoftware Developers, Codepath Labs, 2017.12–2020.07\n- Performed basic APl integrations\n- Assisted with Cl pipeline tasks\nEDUCATION\nDoctorate, Willowhaven University, 2016\nBachelor's, Bayside University, 2011\n• Studied fundamentals of game development\n• Studied principles of database design\n• Completed coursework in sorting and searching algorithms"
+}

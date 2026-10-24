@@ -1,0 +1,187 @@
+{
+  "id": "01912",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.892,
+  "n_lines": 13,
+  "mean_score": 0.9818,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JULI KENNEDY",
+      "score": 0.9651,
+      "box": [
+        116,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-385-883-9461 | juli.kennedy@example.com",
+      "score": 0.9831,
+      "box": [
+        116,
+        151,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9777,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunLife Care Group, 2020.02–2023.01",
+      "score": 0.9843,
+      "box": [
+        116,
+        290,
+        659,
+        313
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9719,
+      "box": [
+        126,
+        314,
+        510,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9811,
+      "box": [
+        126,
+        339,
+        571,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Way Care, 2017.03–2020.02",
+      "score": 0.9859,
+      "box": [
+        116,
+        382,
+        636,
+        406
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.9779,
+      "box": [
+        126,
+        407,
+        415,
+        430
+      ]
+    },
+    {
+      "text": "- Monitored intravenous lines",
+      "score": 0.9655,
+      "box": [
+        126,
+        432,
+        397,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Biological Sciences, Horizon University, 2015",
+      "score": 0.9865,
+      "box": [
+        114,
+        539,
+        645,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in home health nursing basics",
+      "score": 0.9926,
+      "box": [
+        133,
+        565,
+        643,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient safety culture",
+      "score": 0.9943,
+      "box": [
+        135,
+        591,
+        582,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JULI KENNEDY\nAZ, USA|+1-385-883-9461 | juli.kennedy@example.com\nWORK HISTORY\nRegistered Nurses, SunLife Care Group, 2020.02–2023.01\n- Directed nursing process improvements\n- Implemented clinical decision support systems\nRegistered Nurses, Caring Way Care, 2017.03–2020.02\n- Checked patient identification\n- Monitored intravenous lines\nEDUCATION\nBachelor's, Biological Sciences, Horizon University, 2015\n• Completed coursework in home health nursing basics\n• Completed coursework in patient safety culture"
+}

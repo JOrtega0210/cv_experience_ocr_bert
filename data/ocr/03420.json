@@ -1,0 +1,200 @@
+{
+  "id": "03420",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.95,
+  "n_lines": 14,
+  "mean_score": 0.9816,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LUIS MCDONALD",
+      "score": 0.9861,
+      "box": [
+        116,
+        90,
+        399,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-986-609-9413 |luis.mcdonald@example.com",
+      "score": 0.9888,
+      "box": [
+        116,
+        150,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9793,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverHands Health Services, 2020.11–2023.01",
+      "score": 0.9917,
+      "box": [
+        116,
+        290,
+        729,
+        313
+      ]
+    },
+    {
+      "text": "-Directed emergency response planning",
+      "score": 0.9842,
+      "box": [
+        125,
+        313,
+        504,
+        340
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.9823,
+      "box": [
+        128,
+        340,
+        455,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Path Nursing, 2017.02–2019.05",
+      "score": 0.9793,
+      "box": [
+        115,
+        381,
+        664,
+        406
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.9861,
+      "box": [
+        125,
+        406,
+        471,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9593,
+      "box": [
+        126,
+        430,
+        387,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Master's, Patient Care, Oakridge University, 2012",
+      "score": 0.9639,
+      "box": [
+        115,
+        541,
+        576,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Registered Nursing, Willow Creek University, 2010",
+      "score": 0.9671,
+      "box": [
+        115,
+        566,
+        693,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of respiratory care basics",
+      "score": 0.9879,
+      "box": [
+        132,
+        590,
+        552,
+        614
+      ]
+    },
+    {
+      "text": "• Completed coursework in transition of care basics",
+      "score": 0.9871,
+      "box": [
+        135,
+        616,
+        609,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "LUIS MCDONALD\nCA, USA|+1-986-609-9413 |luis.mcdonald@example.com\nWORK HISTORY\nRegistered Nurses, EverHands Health Services, 2020.11–2023.01\n-Directed emergency response planning\n- Led nursing workflow optimization\nRegistered Nurses, Caring Path Nursing, 2017.02–2019.05\n- Recorded patient weight and height\n- Prepared treatment rooms\nEDUCATION\nMaster's, Patient Care, Oakridge University, 2012\nBachelor's, Registered Nursing, Willow Creek University, 2010\n• Studied principles of respiratory care basics\n• Completed coursework in transition of care basics"
+}

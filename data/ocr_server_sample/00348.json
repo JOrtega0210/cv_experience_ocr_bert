@@ -1,0 +1,148 @@
+{
+  "id": "00348",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.741,
+  "n_lines": 10,
+  "mean_score": 0.9822,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DEONTAE GARRISON",
+      "score": 0.9819,
+      "box": [
+        117,
+        90,
+        470,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-677-659-3604 | deontae.garrison@example.com",
+      "score": 0.9734,
+      "box": [
+        116,
+        152,
+        694,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9745,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIWay Nursing Services, 2020.05–2023.01",
+      "score": 0.9828,
+      "box": [
+        116,
+        290,
+        720,
+        313
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.991,
+      "box": [
+        125,
+        314,
+        527,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.978,
+      "box": [
+        126,
+        339,
+        473,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Promotion, Sagewood University, 2020",
+      "score": 0.9751,
+      "box": [
+        115,
+        449,
+        652,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in fluid and electrolyte balance",
+      "score": 0.9835,
+      "box": [
+        133,
+        474,
+        648,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of care coordiation",
+      "score": 0.9839,
+      "box": [
+        134,
+        498,
+        539,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "DEONTAE GARRISON\nAL, USA|+1-677-659-3604 | deontae.garrison@example.com\nWORK HISTORY\nRegistered Nurses, WelIWay Nursing Services, 2020.05–2023.01\n- Administered injections under supervision\n- Assisted with respiratory treatments\nEDUCATION\nBachelor's, Health Promotion, Sagewood University, 2020\n• Completed coursework in fluid and electrolyte balance\n• Studied fundamentals of care coordiation"
+}

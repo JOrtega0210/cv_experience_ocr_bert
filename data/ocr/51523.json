@@ -1,0 +1,226 @@
+{
+  "id": "51523",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.83,
+  "n_lines": 16,
+  "mean_score": 0.978,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DANIEL WONG",
+      "score": 0.9608,
+      "box": [
+        116,
+        90,
+        359,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-544-274-6227|daniel.wong@example.com",
+      "score": 0.9749,
+      "box": [
+        115,
+        150,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightfield Digital, 2020.03–2023.01",
+      "score": 0.9598,
+      "box": [
+        115,
+        289,
+        652,
+        314
+      ]
+    },
+    {
+      "text": "- Designed event-driven architectures",
+      "score": 0.9886,
+      "box": [
+        126,
+        315,
+        476,
+        338
+      ]
+    },
+    {
+      "text": "- Built fault-tolerant systems",
+      "score": 0.973,
+      "box": [
+        126,
+        339,
+        388,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Tech, 2016.01–2018.12",
+      "score": 0.9896,
+      "box": [
+        115,
+        381,
+        640,
+        406
+      ]
+    },
+    {
+      "text": "- Improved memory usage",
+      "score": 0.9764,
+      "box": [
+        126,
+        406,
+        374,
+        434
+      ]
+    },
+    {
+      "text": "- Integrated payment gateways",
+      "score": 0.9673,
+      "box": [
+        126,
+        430,
+        417,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Technologies, 2011.11–2014.10",
+      "score": 0.977,
+      "box": [
+        115,
+        471,
+        691,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with database queries",
+      "score": 0.9905,
+      "box": [
+        125,
+        496,
+        431,
+        521
+      ]
+    },
+    {
+      "text": "- Updated documentation for implemented features",
+      "score": 0.9735,
+      "box": [
+        127,
+        523,
+        601,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        585,
+        267,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Stonegate University, 2008",
+      "score": 0.9682,
+      "box": [
+        116,
+        632,
+        476,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of programming paradigms",
+      "score": 0.971,
+      "box": [
+        132,
+        656,
+        605,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in dynamic analysis",
+      "score": 0.9932,
+      "box": [
+        135,
+        683,
+        548,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "DANIEL WONG\nTX, USA|+1-544-274-6227|daniel.wong@example.com\nWORK HISTORY\nSoftware Developers, Brightfield Digital, 2020.03–2023.01\n- Designed event-driven architectures\n- Built fault-tolerant systems\nSoftware Developers, Codepath Tech, 2016.01–2018.12\n- Improved memory usage\n- Integrated payment gateways\nSoftware Developers, Netline Technologies, 2011.11–2014.10\n- Assisted with database queries\n- Updated documentation for implemented features\nEDUCATION\nBachelor's, Stonegate University, 2008\n• Studied fundamentals of programming paradigms\n• Completed coursework in dynamic analysis"
+}

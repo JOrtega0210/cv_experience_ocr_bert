@@ -1,0 +1,174 @@
+{
+  "id": "52912",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.851,
+  "n_lines": 12,
+  "mean_score": 0.9855,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AARON FARRELL",
+      "score": 0.9881,
+      "box": [
+        117,
+        90,
+        406,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-213-811-6832|aaron.farrell@example.com",
+      "score": 0.9803,
+      "box": [
+        115,
+        150,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9828,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SafeRise Construction, 2021.05–2023.01",
+      "score": 0.9793,
+      "box": [
+        115,
+        290,
+        715,
+        313
+      ]
+    },
+    {
+      "text": "- Developed structural reinforcement plans",
+      "score": 0.9797,
+      "box": [
+        125,
+        314,
+        522,
+        339
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.9927,
+      "box": [
+        126,
+        339,
+        478,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Structures, 2019.08–2021.05",
+      "score": 0.9878,
+      "box": [
+        116,
+        382,
+        660,
+        405
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.9735,
+      "box": [
+        126,
+        407,
+        406,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.9778,
+      "box": [
+        126,
+        431,
+        555,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Practices, Prairie Ridge High School, 2020",
+      "score": 0.9944,
+      "box": [
+        116,
+        541,
+        894,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of concrete mixing",
+      "score": 0.9912,
+      "box": [
+        132,
+        564,
+        525,
+        590
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "AARON FARRELL\nTX, USA|+1-213-811-6832|aaron.farrell@example.com\nWORK HISTORY\nConstruction Laborers, SafeRise Construction, 2021.05–2023.01\n- Developed structural reinforcement plans\n- Designed construction staging plans\nConstruction Laborers, Allied Structures, 2019.08–2021.05\n- Installed insulation materials\n- Prepared tools and equipment for daily tasks\nEDUCATION\nHigh school graduate/GED, Construction Practices, Prairie Ridge High School, 2020\n• Studied fundamentals of concrete mixing"
+}

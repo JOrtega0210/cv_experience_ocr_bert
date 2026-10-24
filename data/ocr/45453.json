@@ -1,0 +1,148 @@
+{
+  "id": "45453",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.739,
+  "n_lines": 10,
+  "mean_score": 0.9706,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CHASE ROY",
+      "score": 0.9522,
+      "box": [
+        115,
+        88,
+        319,
+        122
+      ]
+    },
+    {
+      "text": "PA,USA|+1-548-727-7921|chase.roy@example.com",
+      "score": 0.9629,
+      "box": [
+        116,
+        150,
+        629,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9805,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowfield Labs, 2020.11–2023.01",
+      "score": 0.9865,
+      "box": [
+        116,
+        290,
+        628,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with Cl pipeline tasks",
+      "score": 0.9638,
+      "box": [
+        127,
+        315,
+        424,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9558,
+      "box": [
+        126,
+        339,
+        604,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Brightwater University, 2023",
+      "score": 0.9541,
+      "box": [
+        115,
+        449,
+        487,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in sorting and searching algorithms",
+      "score": 0.9657,
+      "box": [
+        132,
+        473,
+        690,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of recursion techniques",
+      "score": 0.9859,
+      "box": [
+        132,
+        497,
+        572,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "CHASE ROY\nPA,USA|+1-548-727-7921|chase.roy@example.com\nWORK HISTORY\nSoftware Developers, Flowfield Labs, 2020.11–2023.01\n- Assisted with Cl pipeline tasks\n- Implemented basic features in existing codebases\nEDUCATION\nBachelor's, Brightwater University, 2023\n• Completed coursework in sorting and searching algorithms\n• Studied fundamentals of recursion techniques"
+}

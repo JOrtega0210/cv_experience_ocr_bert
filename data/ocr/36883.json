@@ -1,0 +1,200 @@
+{
+  "id": "36883",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.836,
+  "n_lines": 14,
+  "mean_score": 0.9781,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RAYVEN ROCHA",
+      "score": 0.9665,
+      "box": [
+        116,
+        90,
+        389,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-343-886-1805|rayven.rocha@example.com",
+      "score": 0.9944,
+      "box": [
+        115,
+        150,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9782,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Group, 2021.06–2023.01",
+      "score": 0.9928,
+      "box": [
+        115,
+        290,
+        672,
+        312
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9736,
+      "box": [
+        125,
+        313,
+        530,
+        339
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.9603,
+      "box": [
+        127,
+        340,
+        478,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Accounting, 2019.10–2021.06",
+      "score": 0.9639,
+      "box": [
+        114,
+        381,
+        713,
+        406
+      ]
+    },
+    {
+      "text": "- Reconciled bank statements",
+      "score": 0.9821,
+      "box": [
+        126,
+        407,
+        405,
+        429
+      ]
+    },
+    {
+      "text": "- Updated accounting policies documentation",
+      "score": 0.9775,
+      "box": [
+        126,
+        431,
+        546,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Information Systems, Brookway University, 2023",
+      "score": 0.9489,
+      "box": [
+        115,
+        541,
+        655,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Data Analytics, High Meadow University, 2021",
+      "score": 0.9924,
+      "box": [
+        114,
+        565,
+        652,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of tax planning",
+      "score": 0.9943,
+      "box": [
+        132,
+        590,
+        491,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of social responsibility reporting",
+      "score": 0.9698,
+      "box": [
+        133,
+        615,
+        610,
+        641
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "RAYVEN ROCHA\nNY, USA|+1-343-886-1805|rayven.rocha@example.com\nWORK HISTORY\nAccountants Auditors, FairBalance Group, 2021.06–2023.01\n- Established reporting automation systems\n- Led regulatory compliance initiatives\nAccountants Auditors, SolidBooks Accounting, 2019.10–2021.06\n- Reconciled bank statements\n- Updated accounting policies documentation\nEDUCATION\nMaster's, Information Systems, Brookway University, 2023\nBachelor's, Data Analytics, High Meadow University, 2021\n• Studied fundamentals of tax planning\n• Studied principles of social responsibility reporting"
+}

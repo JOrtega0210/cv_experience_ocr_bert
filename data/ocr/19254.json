@@ -1,0 +1,135 @@
+{
+  "id": "19254",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.776,
+  "n_lines": 9,
+  "mean_score": 0.9874,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "EDENLONG",
+      "score": 0.9989,
+      "box": [
+        116,
+        90,
+        317,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-703-892-5337 |eden.long@example.com",
+      "score": 0.9884,
+      "box": [
+        116,
+        152,
+        621,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9799,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Services, 2021.12–2023.01",
+      "score": 0.981,
+      "box": [
+        115,
+        290,
+        721,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with financial statement preparation",
+      "score": 0.9886,
+      "box": [
+        125,
+        314,
+        555,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.9716,
+      "box": [
+        126,
+        339,
+        420,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Commerce, Golden Meadow High School, 2021",
+      "score": 0.9882,
+      "box": [
+        116,
+        449,
+        817,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of financial statement preparation",
+      "score": 0.9917,
+      "box": [
+        133,
+        474,
+        627,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "EDENLONG\nIL, USA|+1-703-892-5337 |eden.long@example.com\nWORK HISTORY\nAccountants Auditors, Balanced Path Services, 2021.12–2023.01\n- Assisted with financial statement preparation\n- Assisted with forecasting data\nEDUCATION\nHigh school graduate/GED, Commerce, Golden Meadow High School, 2021\n• Studied principles of financial statement preparation"
+}

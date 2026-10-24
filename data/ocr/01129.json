@@ -1,0 +1,265 @@
+{
+  "id": "01129",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.002,
+  "n_lines": 19,
+  "mean_score": 0.9799,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TIMOTHY LAMB",
+      "score": 0.9818,
+      "box": [
+        115,
+        90,
+        374,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-884-963-4550|timothy.lamb@example.com",
+      "score": 0.9843,
+      "box": [
+        115,
+        151,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Digital, 2019.12–2023.01",
+      "score": 0.9875,
+      "box": [
+        116,
+        290,
+        649,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9734,
+      "box": [
+        126,
+        314,
+        514,
+        337
+      ]
+    },
+    {
+      "text": "- Defined quality assurance frameworks",
+      "score": 0.9921,
+      "box": [
+        126,
+        339,
+        495,
+        362
+      ]
+    },
+    {
+      "text": "Software Developers, Skyfield Software, 2016.11–2019.12",
+      "score": 0.9806,
+      "box": [
+        115,
+        381,
+        658,
+        406
+      ]
+    },
+    {
+      "text": "- Developed system monitoring strategies",
+      "score": 0.976,
+      "box": [
+        126,
+        406,
+        513,
+        431
+      ]
+    },
+    {
+      "text": "- Defined code review processes",
+      "score": 0.9805,
+      "box": [
+        126,
+        430,
+        433,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Stoneframe Tech, 2013.09–2016.1",
+      "score": 0.97,
+      "box": [
+        115,
+        472,
+        656,
+        495
+      ]
+    },
+    {
+      "text": "- Integrated payment gateways",
+      "score": 0.9712,
+      "box": [
+        125,
+        497,
+        417,
+        522
+      ]
+    },
+    {
+      "text": "- Handled concurrency issues",
+      "score": 0.9784,
+      "box": [
+        126,
+        521,
+        406,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Labs, 2010.07–2013.09",
+      "score": 0.9747,
+      "box": [
+        115,
+        563,
+        642,
+        588
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9853,
+      "box": [
+        125,
+        588,
+        400,
+        614
+      ]
+    },
+    {
+      "text": "- Wrote command-line tools",
+      "score": 0.9591,
+      "box": [
+        126,
+        614,
+        385,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Evergreen University, 2009",
+      "score": 0.9696,
+      "box": [
+        116,
+        726,
+        477,
+        745
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of hardware-software integration",
+      "score": 0.9845,
+      "box": [
+        132,
+        747,
+        654,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of game development",
+      "score": 0.9831,
+      "box": [
+        134,
+        773,
+        557,
+        796
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "TIMOTHY LAMB\nAZ, USA|+1-884-963-4550|timothy.lamb@example.com\nWORK HISTORY\nSoftware Developers, Clearpath Digital, 2019.12–2023.01\n- Implemented access control frameworks\n- Defined quality assurance frameworks\nSoftware Developers, Skyfield Software, 2016.11–2019.12\n- Developed system monitoring strategies\n- Defined code review processes\nSoftware Developers, Stoneframe Tech, 2013.09–2016.1\n- Integrated payment gateways\n- Handled concurrency issues\nSoftware Developers, Corewave Labs, 2010.07–2013.09\n- Wrote configuration parsers\n- Wrote command-line tools\nEDUCATION\nBachelor's, Evergreen University, 2009\n• Studied fundamentals of hardware-software integration\n• Studied fundamentals of game development"
+}

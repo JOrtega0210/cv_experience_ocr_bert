@@ -1,0 +1,187 @@
+{
+  "id": "33233",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.786,
+  "n_lines": 13,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TYLER PORTER",
+      "score": 0.9823,
+      "box": [
+        115,
+        90,
+        375,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-221-845-8302|tyler.porter@example.com",
+      "score": 0.9846,
+      "box": [
+        116,
+        151,
+        637,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Trusted Ledger Group, 2020.10–2023.01",
+      "score": 0.9831,
+      "box": [
+        114,
+        289,
+        703,
+        313
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.9549,
+      "box": [
+        127,
+        315,
+        456,
+        338
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9715,
+      "box": [
+        126,
+        339,
+        429,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Services, 2016.06–2018.10",
+      "score": 0.9899,
+      "box": [
+        115,
+        382,
+        690,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9872,
+      "box": [
+        125,
+        406,
+        456,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9904,
+      "box": [
+        126,
+        430,
+        422,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Economics, Crestview University, 2014",
+      "score": 0.9901,
+      "box": [
+        114,
+        539,
+        677,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of assurance services",
+      "score": 0.9916,
+      "box": [
+        132,
+        564,
+        558,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in internal reporting systems",
+      "score": 0.9809,
+      "box": [
+        134,
+        590,
+        628,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "TYLER PORTER\nNJ, USA|+1-221-845-8302|tyler.porter@example.com\nWORK HISTORY\nAccountants Auditors, Trusted Ledger Group, 2020.10–2023.01\n- Developed audit quality standards\n- Led audit planning governance\nAccountants Auditors, SolidBooks Services, 2016.06–2018.10\n- Assisted with tax form preparation\n- Assisted with regulatory filings\nEDUCATION\nBachelor's, Business Economics, Crestview University, 2014\n• Studied fundamentals of assurance services\n• Completed coursework in internal reporting systems"
+}

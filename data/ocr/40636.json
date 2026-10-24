@@ -1,0 +1,148 @@
+{
+  "id": "40636",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.784,
+  "n_lines": 10,
+  "mean_score": 0.9815,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NAOMI MOSS",
+      "score": 0.9781,
+      "box": [
+        116,
+        90,
+        338,
+        121
+      ]
+    },
+    {
+      "text": "NC, USA|+1-876-851-8860|naomi.moss@example.com",
+      "score": 0.9738,
+      "box": [
+        115,
+        150,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9816,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Advisors, 2021.06–2023.01",
+      "score": 0.9825,
+      "box": [
+        115,
+        290,
+        730,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with financial statement preparation",
+      "score": 0.9879,
+      "box": [
+        125,
+        314,
+        555,
+        339
+      ]
+    },
+    {
+      "text": "- Reconciled bank statements",
+      "score": 0.9799,
+      "box": [
+        126,
+        338,
+        405,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Studies, Rockland University, 2020",
+      "score": 0.9648,
+      "box": [
+        114,
+        447,
+        640,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of variance analysis",
+      "score": 0.9746,
+      "box": [
+        132,
+        472,
+        540,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial compliance basics",
+      "score": 0.9931,
+      "box": [
+        134,
+        499,
+        641,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "NAOMI MOSS\nNC, USA|+1-876-851-8860|naomi.moss@example.com\nWORK HISTORY\nAccountants Auditors, Integrity Ledger Advisors, 2021.06–2023.01\n- Assisted with financial statement preparation\n- Reconciled bank statements\nEDUCATION\nBachelor's, Business Studies, Rockland University, 2020\n• Studied fundamentals of variance analysis\n• Completed coursework in financial compliance basics"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "34969",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.875,
+  "n_lines": 16,
+  "mean_score": 0.9793,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ERIC ORR",
+      "score": 0.946,
+      "box": [
+        115,
+        88,
+        283,
+        122
+      ]
+    },
+    {
+      "text": "NM, USA|+1-525-693-1046|eric.orr@example.com",
+      "score": 0.9872,
+      "box": [
+        115,
+        150,
+        610,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Services, 2020.02–2023.01",
+      "score": 0.9742,
+      "box": [
+        114,
+        289,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Managed financial compliance programs",
+      "score": 0.9824,
+      "box": [
+        126,
+        314,
+        517,
+        339
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9925,
+      "box": [
+        126,
+        339,
+        553,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Group, 2017.03–2020.02",
+      "score": 0.9873,
+      "box": [
+        114,
+        381,
+        674,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared cash flow statements",
+      "score": 0.9712,
+      "box": [
+        127,
+        407,
+        430,
+        430
+      ]
+    },
+    {
+      "text": "- Implemented accounting procedures",
+      "score": 0.9863,
+      "box": [
+        126,
+        431,
+        479,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Group, 2014.03–2017.03",
+      "score": 0.9731,
+      "box": [
+        115,
+        471,
+        701,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedures",
+      "score": 0.9868,
+      "box": [
+        125,
+        496,
+        507,
+        522
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.968,
+      "box": [
+        126,
+        521,
+        356,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Enterprise Management, Clearfield Ridge University, 2016",
+      "score": 0.9831,
+      "box": [
+        115,
+        631,
+        765,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of revenue recognition",
+      "score": 0.9901,
+      "box": [
+        134,
+        658,
+        525,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial modeling basics",
+      "score": 0.9587,
+      "box": [
+        135,
+        683,
+        620,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ERIC ORR\nNM, USA|+1-525-693-1046|eric.orr@example.com\nWORK HISTORY\nAccountants Auditors, SolidBooks Services, 2020.02–2023.01\n- Managed financial compliance programs\n- Designed financial documentation standards\nAccountants Auditors, CoreLedger Group, 2017.03–2020.02\n- Prepared cash flow statements\n- Implemented accounting procedures\nAccountants Auditors, Integrity Books Group, 2014.03–2017.03\n- Assisted with monthly close procedures\n- Prepared aging reports\nEDUCATION\nBachelor's, Enterprise Management, Clearfield Ridge University, 2016\n• Studied principles of revenue recognition\n• Completed coursework in financial modeling basics"
+}

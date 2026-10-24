@@ -1,0 +1,239 @@
+{
+  "id": "26211",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.825,
+  "n_lines": 17,
+  "mean_score": 0.9816,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "IVAN CANTRELL",
+      "score": 0.9834,
+      "box": [
+        115,
+        90,
+        387,
+        120
+      ]
+    },
+    {
+      "text": "MA, USA|+1-434-626-5516 |ivan.cantrell@example.com",
+      "score": 0.9843,
+      "box": [
+        115,
+        150,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softbridge Tech, 2020.06–2023.01",
+      "score": 0.9717,
+      "box": [
+        114,
+        288,
+        642,
+        314
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9813,
+      "box": [
+        125,
+        313,
+        410,
+        339
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9825,
+      "box": [
+        126,
+        339,
+        444,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Datapath Solutions, 2017.10–220.06",
+      "score": 0.9886,
+      "box": [
+        115,
+        381,
+        673,
+        406
+      ]
+    },
+    {
+      "text": "- Handled concurrency issues",
+      "score": 0.9787,
+      "box": [
+        125,
+        405,
+        406,
+        431
+      ]
+    },
+    {
+      "text": "- Integrated messaging systems",
+      "score": 0.9784,
+      "box": [
+        126,
+        430,
+        426,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Labs, 2015.02–2017.10",
+      "score": 0.9651,
+      "box": [
+        115,
+        471,
+        641,
+        496
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9922,
+      "box": [
+        125,
+        496,
+        351,
+        521
+      ]
+    },
+    {
+      "text": "- Refactored simple functions for readability",
+      "score": 0.987,
+      "box": [
+        126,
+        521,
+        530,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Master's, Fairview University, 2014",
+      "score": 0.9791,
+      "box": [
+        115,
+        632,
+        442,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Meadowview University, 2012",
+      "score": 0.9807,
+      "box": [
+        114,
+        656,
+        502,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of profiling tools",
+      "score": 0.9738,
+      "box": [
+        133,
+        682,
+        502,
+        705
+      ]
+    },
+    {
+      "text": "• Completed coursework in distributed databases",
+      "score": 0.9756,
+      "box": [
+        132,
+        706,
+        588,
+        730
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "IVAN CANTRELL\nMA, USA|+1-434-626-5516 |ivan.cantrell@example.com\nWORK HISTORY\nSoftware Developers, Softbridge Tech, 2020.06–2023.01\n- Defined scalability roadmaps\n- Designed observability platforms\nSoftware Developers, Datapath Solutions, 2017.10–220.06\n- Handled concurrency issues\n- Integrated messaging systems\nSoftware Developers, Corewave Labs, 2015.02–2017.10\n- Wrote integration tests\n- Refactored simple functions for readability\nEDUCATION\nMaster's, Fairview University, 2014\nBachelor's, Meadowview University, 2012\n• Studied fundamentals of profiling tools\n• Completed coursework in distributed databases"
+}

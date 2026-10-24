@@ -1,0 +1,148 @@
+{
+  "id": "34498",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.749,
+  "n_lines": 10,
+  "mean_score": 0.9824,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRYANBAUER",
+      "score": 0.9985,
+      "box": [
+        116,
+        90,
+        365,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-971-275-8841 | bryan.bauer@example.com",
+      "score": 0.977,
+      "box": [
+        116,
+        151,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9824,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Financial Group, 2020.08–2023.01",
+      "score": 0.9859,
+      "box": [
+        115,
+        290,
+        752,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9801,
+      "box": [
+        126,
+        314,
+        422,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.9698,
+      "box": [
+        126,
+        339,
+        420,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Analytics, Westfield University, 2020",
+      "score": 0.9794,
+      "box": [
+        114,
+        447,
+        652,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of enterprise systems",
+      "score": 0.9744,
+      "box": [
+        132,
+        472,
+        555,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in public sector accounting",
+      "score": 0.9779,
+      "box": [
+        133,
+        498,
+        613,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "BRYANBAUER\nNJ, USA|+1-971-275-8841 | bryan.bauer@example.com\nWORK HISTORY\nAccountants Auditors, FairLedger Financial Group, 2020.08–2023.01\n- Assisted with regulatory filings\n- Assisted with forecasting data\nEDUCATION\nBachelor's, Business Analytics, Westfield University, 2020\n• Studied fundamentals of enterprise systems\n• Completed coursework in public sector accounting"
+}

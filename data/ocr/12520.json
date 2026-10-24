@@ -1,0 +1,187 @@
+{
+  "id": "12520",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.966,
+  "n_lines": 13,
+  "mean_score": 0.977,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KAREN WILKERSON",
+      "score": 0.97,
+      "box": [
+        116,
+        90,
+        450,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-225-896-6536|karen.wilkerson@example.com",
+      "score": 0.9834,
+      "box": [
+        115,
+        150,
+        681,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.978,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Services, 2020.02–2021.09",
+      "score": 0.9782,
+      "box": [
+        115,
+        290,
+        707,
+        312
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.9598,
+      "box": [
+        127,
+        315,
+        478,
+        338
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9538,
+      "box": [
+        126,
+        339,
+        524,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Financial Group, 2017.10–2019.06",
+      "score": 0.9889,
+      "box": [
+        114,
+        381,
+        762,
+        406
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9695,
+      "box": [
+        127,
+        408,
+        370,
+        429
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.9858,
+      "box": [
+        125,
+        431,
+        480,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting Practice, Pine Valley University, 2003",
+      "score": 0.967,
+      "box": [
+        114,
+        539,
+        681,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in intangible asset accounting",
+      "score": 0.9815,
+      "box": [
+        133,
+        565,
+        640,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in economics for accounting",
+      "score": 0.987,
+      "box": [
+        134,
+        590,
+        625,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KAREN WILKERSON\nFL, USA|+1-225-896-6536|karen.wilkerson@example.com\nWORK HISTORY\nAccountants Auditors, SolidBalance Services, 2020.02–2021.09\n- Led regulatory compliance initiatives\n- Developed regulatory reporting strategies\nAccountants Auditors, OpenBooks Financial Group, 2017.10–2019.06\n- Compiled audit evidence\n- Processed expense reimbursements\nEDUCATION\nBachelor's, Accounting Practice, Pine Valley University, 2003\n• Completed coursework in intangible asset accounting\n• Completed coursework in economics for accounting"
+}

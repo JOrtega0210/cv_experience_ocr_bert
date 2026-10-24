@@ -1,0 +1,187 @@
+{
+  "id": "39539",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.817,
+  "n_lines": 13,
+  "mean_score": 0.9796,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KAMERON JAMES",
+      "score": 0.9876,
+      "box": [
+        116,
+        90,
+        415,
+        121
+      ]
+    },
+    {
+      "text": "NC, USA |+1-723-271-2695|kameron.james@example.com",
+      "score": 0.9793,
+      "box": [
+        116,
+        151,
+        685,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9816,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Group, 2021.02–2023.01",
+      "score": 0.9804,
+      "box": [
+        114,
+        289,
+        673,
+        314
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9728,
+      "box": [
+        125,
+        313,
+        477,
+        339
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9744,
+      "box": [
+        126,
+        339,
+        427,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Services, 2017.11–2019.11",
+      "score": 0.9809,
+      "box": [
+        114,
+        381,
+        731,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed billing statements",
+      "score": 0.9603,
+      "box": [
+        125,
+        406,
+        402,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9697,
+      "box": [
+        126,
+        432,
+        364,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, International Business, Edgewood University, 2010",
+      "score": 0.968,
+      "box": [
+        114,
+        539,
+        697,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in capital budgeting",
+      "score": 0.9899,
+      "box": [
+        133,
+        565,
+        547,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of financial ratio analysis",
+      "score": 0.9922,
+      "box": [
+        133,
+        590,
+        546,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KAMERON JAMES\nNC, USA |+1-723-271-2695|kameron.james@example.com\nWORK HISTORY\nAccountants Auditors, FairBalance Group, 2021.02–2023.01\n- Established financial quality controls\n- Managed financial governance\nAccountants Auditors, Reliable Ledger Services, 2017.11–2019.11\n- Reviewed billing statements\n- Prepared journal entries\nEDUCATION\nBachelor's, International Business, Edgewood University, 2010\n• Completed coursework in capital budgeting\n• Studied principles of financial ratio analysis"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "11337",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.915,
+  "n_lines": 13,
+  "mean_score": 0.979,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BENJAMIN STUART",
+      "score": 0.9581,
+      "box": [
+        117,
+        90,
+        438,
+        120
+      ]
+    },
+    {
+      "text": "CT, USA|+1-736-327-4881 |benjamin.stuart@example.com",
+      "score": 0.9812,
+      "box": [
+        116,
+        150,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9799,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Stonefield Software, 2020.05–2023.01",
+      "score": 0.9875,
+      "box": [
+        115,
+        290,
+        675,
+        313
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.9775,
+      "box": [
+        126,
+        315,
+        396,
+        338
+      ]
+    },
+    {
+      "text": "- Designed high-availability systems",
+      "score": 0.9735,
+      "box": [
+        126,
+        339,
+        461,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Dataforge Systems, 2016.05–2019.01",
+      "score": 0.9899,
+      "box": [
+        115,
+        381,
+        672,
+        406
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.9702,
+      "box": [
+        127,
+        408,
+        484,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9816,
+      "box": [
+        125,
+        430,
+        436,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, North Ridge University, 2011",
+      "score": 0.9766,
+      "box": [
+        116,
+        541,
+        570,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in model-view-controller pattern",
+      "score": 0.9633,
+      "box": [
+        132,
+        565,
+        658,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in quality assurance",
+      "score": 0.9893,
+      "box": [
+        133,
+        590,
+        552,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "BENJAMIN STUART\nCT, USA|+1-736-327-4881 |benjamin.stuart@example.com\nWORK HISTORY\nSoftware Developers, Stonefield Software, 2020.05–2023.01\n- Designed scalable services\n- Designed high-availability systems\nSoftware Developers, Dataforge Systems, 2016.05–2019.01\n- Logged and tracked software defects\n- Reviewed test coverage reports\nEDUCATION\nAssociate's degree, North Ridge University, 2011\n• Completed coursework in model-view-controller pattern\n• Completed coursework in quality assurance"
+}

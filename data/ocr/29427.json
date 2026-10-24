@@ -1,0 +1,265 @@
+{
+  "id": "29427",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.928,
+  "n_lines": 19,
+  "mean_score": 0.9837,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JEREMIAH KERR",
+      "score": 0.9929,
+      "box": [
+        116,
+        90,
+        395,
+        120
+      ]
+    },
+    {
+      "text": "MN, USA|+1-385-620-4874 |jeremiah.kerr@example.com",
+      "score": 0.9808,
+      "box": [
+        115,
+        150,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9875,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongForm Builders, 2019.10–2023.01",
+      "score": 0.9827,
+      "box": [
+        114,
+        289,
+        698,
+        313
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9761,
+      "box": [
+        127,
+        315,
+        394,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.967,
+      "box": [
+        126,
+        338,
+        439,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidTrack Builders, 2016.06–2019.10",
+      "score": 0.9727,
+      "box": [
+        115,
+        381,
+        688,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9917,
+      "box": [
+        126,
+        407,
+        488,
+        430
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.9807,
+      "box": [
+        126,
+        431,
+        439,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Build Group, 2013.02–2016.06",
+      "score": 0.9856,
+      "box": [
+        114,
+        471,
+        689,
+        496
+      ]
+    },
+    {
+      "text": "- Installed foundation elements",
+      "score": 0.9889,
+      "box": [
+        126,
+        497,
+        413,
+        519
+      ]
+    },
+    {
+      "text": "-Led small work crews",
+      "score": 0.9736,
+      "box": [
+        126,
+        522,
+        342,
+        544
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Structures, 2006.12–2010.04",
+      "score": 0.9908,
+      "box": [
+        115,
+        564,
+        674,
+        587
+      ]
+    },
+    {
+      "text": "-Installed basic formwork",
+      "score": 0.9918,
+      "box": [
+        125,
+        589,
+        366,
+        611
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9824,
+      "box": [
+        126,
+        613,
+        331,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Site Management, Lakeview University, 2004",
+      "score": 0.9739,
+      "box": [
+        115,
+        723,
+        909,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction site organization",
+      "score": 0.9908,
+      "box": [
+        133,
+        749,
+        659,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of structural connections",
+      "score": 0.9817,
+      "box": [
+        134,
+        773,
+        582,
+        795
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "JEREMIAH KERR\nMN, USA|+1-385-620-4874 |jeremiah.kerr@example.com\nWORK HISTORY\nConstruction Laborers, StrongForm Builders, 2019.10–2023.01\n- Directed project scheduling\n- Reviewed engineering drawings\nConstruction Laborers, SolidTrack Builders, 2016.06–2019.10\n- Reviewed compliance documentation\n- Reviewed engineering drawings\nConstruction Laborers, Unified Build Group, 2013.02–2016.06\n- Installed foundation elements\n-Led small work crews\nConstruction Laborers, Unified Structures, 2006.12–2010.04\n-Installed basic formwork\n- Secured site fencing\nEDUCATION\nSome college (no degree), Construction Site Management, Lakeview University, 2004\n• Completed coursework in construction site organization\n• Studied fundamentals of structural connections"
+}

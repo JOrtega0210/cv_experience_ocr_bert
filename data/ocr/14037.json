@@ -1,0 +1,213 @@
+{
+  "id": "14037",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.934,
+  "n_lines": 15,
+  "mean_score": 0.9829,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JEREMY NORTON",
+      "score": 0.9862,
+      "box": [
+        116,
+        90,
+        409,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-890-539-6839 |jeremy.norton@example.com",
+      "score": 0.9774,
+      "box": [
+        115,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9872,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Foundation Force, 2020.01–2023.01",
+      "score": 0.9807,
+      "box": [
+        115,
+        290,
+        670,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.99,
+      "box": [
+        126,
+        315,
+        488,
+        338
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9839,
+      "box": [
+        126,
+        338,
+        406,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Co., 2017.01–2020.01",
+      "score": 0.9889,
+      "box": [
+        116,
+        382,
+        648,
+        405
+      ]
+    },
+    {
+      "text": "- Installed drywall systems",
+      "score": 0.9855,
+      "box": [
+        125,
+        406,
+        374,
+        431
+      ]
+    },
+    {
+      "text": "- Maintained equipment logs",
+      "score": 0.9768,
+      "box": [
+        126,
+        430,
+        392,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Co., 2011.08–2014.08",
+      "score": 0.9758,
+      "box": [
+        116,
+        472,
+        647,
+        495
+      ]
+    },
+    {
+      "text": "- Assisted with site cleanup and debris removal",
+      "score": 0.989,
+      "box": [
+        125,
+        496,
+        565,
+        521
+      ]
+    },
+    {
+      "text": "- Performed basic carpentry tasks",
+      "score": 0.9859,
+      "box": [
+        126,
+        521,
+        442,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Construction, Riverbend High School, 2011",
+      "score": 0.9756,
+      "box": [
+        116,
+        632,
+        855,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic site surveying",
+      "score": 0.9617,
+      "box": [
+        132,
+        656,
+        572,
+        682
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "JEREMY NORTON\nFL, USA|+1-890-539-6839 |jeremy.norton@example.com\nWORK HISTORY\nConstruction Laborers, Foundation Force, 2020.01–2023.01\n- Reviewed compliance documentation\n- Established site layout plans\nConstruction Laborers, Allied Build Co., 2017.01–2020.01\n- Installed drywall systems\n- Maintained equipment logs\nConstruction Laborers, PrimeBuild Co., 2011.08–2014.08\n- Assisted with site cleanup and debris removal\n- Performed basic carpentry tasks\nEDUCATION\nHigh school graduate/GED, Building Construction, Riverbend High School, 2011\n• Completed coursework in basic site surveying"
+}

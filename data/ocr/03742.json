@@ -1,0 +1,226 @@
+{
+  "id": "03742",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.982,
+  "n_lines": 16,
+  "mean_score": 0.9818,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CAMERON CHEN",
+      "score": 0.9773,
+      "box": [
+        117,
+        90,
+        395,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-806-213-7485 |cameron.chen@example.com",
+      "score": 0.9798,
+      "box": [
+        116,
+        151,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Advisors, 2019.12–2023.01",
+      "score": 0.9916,
+      "box": [
+        115,
+        290,
+        696,
+        313
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9726,
+      "box": [
+        125,
+        313,
+        518,
+        338
+      ]
+    },
+    {
+      "text": "- Established audit governance structures",
+      "score": 0.9934,
+      "box": [
+        126,
+        339,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Advisors, 2016.11–2019.12",
+      "score": 0.9796,
+      "box": [
+        114,
+        381,
+        707,
+        406
+      ]
+    },
+    {
+      "text": "- Managed general ledger maintenance",
+      "score": 0.9901,
+      "box": [
+        126,
+        406,
+        494,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared cost allocation models",
+      "score": 0.9545,
+      "box": [
+        127,
+        432,
+        440,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Services, 2013.09–2016.11",
+      "score": 0.9903,
+      "box": [
+        115,
+        472,
+        689,
+        495
+      ]
+    },
+    {
+      "text": "- Prepared supporting schedules",
+      "score": 0.9697,
+      "box": [
+        125,
+        498,
+        430,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with compliance documentation",
+      "score": 0.9814,
+      "box": [
+        126,
+        521,
+        518,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting Information Systems, Clearhaven University, 2012",
+      "score": 0.9776,
+      "box": [
+        114,
+        631,
+        800,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in internal auditing",
+      "score": 0.9804,
+      "box": [
+        133,
+        656,
+        537,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of accounts payable",
+      "score": 0.9877,
+      "box": [
+        134,
+        681,
+        540,
+        704
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "CAMERON CHEN\nCA, USA|+1-806-213-7485 |cameron.chen@example.com\nWORK HISTORY\nAccountants Auditors, FairBalance Advisors, 2019.12–2023.01\n- Established financial reporting standards\n- Established audit governance structures\nAccountants Auditors, SteadyCount Advisors, 2016.11–2019.12\n- Managed general ledger maintenance\n- Prepared cost allocation models\nAccountants Auditors, SolidBooks Services, 2013.09–2016.11\n- Prepared supporting schedules\n- Assisted with compliance documentation\nEDUCATION\nBachelor's, Accounting Information Systems, Clearhaven University, 2012\n• Completed coursework in internal auditing\n• Studied fundamentals of accounts payable"
+}

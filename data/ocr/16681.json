@@ -1,0 +1,148 @@
+{
+  "id": "16681",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.826,
+  "n_lines": 10,
+  "mean_score": 0.9839,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MATTHEW LARSON",
+      "score": 0.9684,
+      "box": [
+        116,
+        90,
+        440,
+        121
+      ]
+    },
+    {
+      "text": "HI, USA|+1-318-654-6391 |matthew.larson@example.com",
+      "score": 0.9885,
+      "box": [
+        116,
+        152,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Way Medical, 2019.05–2020.08",
+      "score": 0.9949,
+      "box": [
+        116,
+        290,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9715,
+      "box": [
+        126,
+        314,
+        514,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared patients for examinations",
+      "score": 0.9729,
+      "box": [
+        126,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Systems, Greenway University, 2007",
+      "score": 0.9823,
+      "box": [
+        115,
+        449,
+        633,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient mobility",
+      "score": 0.9841,
+      "box": [
+        132,
+        472,
+        518,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in catheter care",
+      "score": 0.994,
+      "box": [
+        133,
+        499,
+        511,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "MATTHEW LARSON\nHI, USA|+1-318-654-6391 |matthew.larson@example.com\nWORK HISTORY\nRegistered Nurses, Helping Way Medical, 2019.05–2020.08\n- Assisted with physical therapy exercises\n- Prepared patients for examinations\nEDUCATION\nBachelor's, Health Systems, Greenway University, 2007\n• Studied fundamentals of patient mobility\n• Completed coursework in catheter care"
+}

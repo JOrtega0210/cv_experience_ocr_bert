@@ -1,0 +1,265 @@
+{
+  "id": "02369",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.003,
+  "n_lines": 19,
+  "mean_score": 0.9794,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NATALIE SPEARS",
+      "score": 0.9867,
+      "box": [
+        116,
+        90,
+        410,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-770-498-6302 |natalie.spears@example.com",
+      "score": 0.9936,
+      "box": [
+        116,
+        152,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueWell Nursing, 2020.05–2023.01",
+      "score": 0.9615,
+      "box": [
+        115,
+        289,
+        636,
+        314
+      ]
+    },
+    {
+      "text": "- Managed clinical resource planning",
+      "score": 0.9677,
+      "box": [
+        125,
+        314,
+        469,
+        339
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.9542,
+      "box": [
+        127,
+        340,
+        392,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeHarbor Nursing, 2017.09–2020.05",
+      "score": 0.9634,
+      "box": [
+        115,
+        381,
+        660,
+        406
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9725,
+      "box": [
+        125,
+        405,
+        471,
+        431
+      ]
+    },
+    {
+      "text": "- Designed clinical care protocols",
+      "score": 0.9925,
+      "box": [
+        126,
+        431,
+        436,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Nursing, 2014.12–2017.09",
+      "score": 0.9795,
+      "box": [
+        114,
+        470,
+        676,
+        498
+      ]
+    },
+    {
+      "text": "- Provided perioperative nursing care",
+      "score": 0.9902,
+      "box": [
+        125,
+        496,
+        472,
+        522
+      ]
+    },
+    {
+      "text": "- Conducted post-operative assessments",
+      "score": 0.9834,
+      "box": [
+        126,
+        521,
+        509,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Nest Nursing, 2012.03–2014.12",
+      "score": 0.9839,
+      "box": [
+        116,
+        565,
+        664,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.9937,
+      "box": [
+        125,
+        588,
+        418,
+        614
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9749,
+      "box": [
+        125,
+        613,
+        411,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Informatics, Plainview University, 2013",
+      "score": 0.9806,
+      "box": [
+        114,
+        723,
+        649,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic nursing principles",
+      "score": 0.9611,
+      "box": [
+        132,
+        748,
+        606,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of pediatric nursing",
+      "score": 0.9846,
+      "box": [
+        133,
+        772,
+        532,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "NATALIE SPEARS\nAR, USA|+1-770-498-6302 |natalie.spears@example.com\nWORK HISTORY\nRegistered Nurses, TrueWell Nursing, 2020.05–2023.01\n- Managed clinical resource planning\n- Led nursing process audits\nRegistered Nurses, SafeHarbor Nursing, 2017.09–2020.05\n- Established care delivery standards\n- Designed clinical care protocols\nRegistered Nurses, GentleHands Nursing, 2014.12–2017.09\n- Provided perioperative nursing care\n- Conducted post-operative assessments\nRegistered Nurses, Caring Nest Nursing, 2012.03–2014.12\n- Assisted with feeding patients\n- Recorded shift handoff notes\nEDUCATION\nBachelor's, Health Informatics, Plainview University, 2013\n• Completed coursework in basic nursing principles\n• Studied fundamentals of pediatric nursing"
+}

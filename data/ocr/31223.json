@@ -1,0 +1,213 @@
+{
+  "id": "31223",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.86,
+  "n_lines": 15,
+  "mean_score": 0.9773,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ZACHARY CROSBY",
+      "score": 0.9748,
+      "box": [
+        115,
+        90,
+        434,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA |+1-564-803-5275|zachary.crosby@example.com",
+      "score": 0.9884,
+      "box": [
+        116,
+        152,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9801,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftFrame Builders, 2020.01–2023.01",
+      "score": 0.9876,
+      "box": [
+        115,
+        290,
+        694,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.9824,
+      "box": [
+        125,
+        314,
+        444,
+        339
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.9689,
+      "box": [
+        126,
+        339,
+        477,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeFrame Construction, 2016.07–2019.07",
+      "score": 0.9806,
+      "box": [
+        115,
+        381,
+        746,
+        405
+      ]
+    },
+    {
+      "text": "- Coordinated task assignments",
+      "score": 0.9582,
+      "box": [
+        125,
+        406,
+        424,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared and poured concrete forms",
+      "score": 0.969,
+      "box": [
+        127,
+        432,
+        482,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronWay Contractors, 2012.12–2016.01",
+      "score": 0.9855,
+      "box": [
+        116,
+        472,
+        697,
+        496
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9644,
+      "box": [
+        126,
+        498,
+        439,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9921,
+      "box": [
+        126,
+        521,
+        425,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Practices, Ironwood High School, 2010",
+      "score": 0.9942,
+      "box": [
+        116,
+        632,
+        859,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic roofing installation",
+      "score": 0.9342,
+      "box": [
+        132,
+        656,
+        612,
+        681
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "ZACHARY CROSBY\nMO, USA |+1-564-803-5275|zachary.crosby@example.com\nWORK HISTORY\nConstruction Laborers, CraftFrame Builders, 2020.01–2023.01\n- Reviewed site inspection reports\n- Designed construction staging plans\nConstruction Laborers, PrimeFrame Construction, 2016.07–2019.07\n- Coordinated task assignments\n- Prepared and poured concrete forms\nConstruction Laborers, IronWay Contractors, 2012.12–2016.01\n- Helped position heavy materials\n- Assisted with concrete pouring\nEDUCATION\nHigh school graduate/GED, Construction Practices, Ironwood High School, 2010\n• Completed coursework in basic roofing installation"
+}

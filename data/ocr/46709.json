@@ -1,0 +1,187 @@
+{
+  "id": "46709",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.822,
+  "n_lines": 13,
+  "mean_score": 0.9864,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARIAH HARDING",
+      "score": 0.9712,
+      "box": [
+        115,
+        88,
+        418,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA|+1-436-808-3784|mariah.harding@example.com",
+      "score": 0.9875,
+      "box": [
+        115,
+        150,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9788,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightPath Health Services, 2019.06–2022.03",
+      "score": 0.9884,
+      "box": [
+        116,
+        290,
+        725,
+        313
+      ]
+    },
+    {
+      "text": "- Developed medication management policies",
+      "score": 0.9776,
+      "box": [
+        125,
+        314,
+        552,
+        339
+      ]
+    },
+    {
+      "text": "- Established quality assurance systems",
+      "score": 0.986,
+      "box": [
+        126,
+        339,
+        500,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, CareBridge Health Services, 2015.08–2018.05",
+      "score": 0.9949,
+      "box": [
+        116,
+        383,
+        733,
+        406
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.9791,
+      "box": [
+        126,
+        407,
+        416,
+        430
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.9937,
+      "box": [
+        126,
+        431,
+        471,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Patient Care, Brightwater University, 2014",
+      "score": 0.9899,
+      "box": [
+        115,
+        541,
+        615,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of ostomy care",
+      "score": 0.9898,
+      "box": [
+        132,
+        565,
+        456,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of nursing communication",
+      "score": 0.9878,
+      "box": [
+        133,
+        591,
+        594,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "MARIAH HARDING\nPA, USA|+1-436-808-3784|mariah.harding@example.com\nWORK HISTORY\nRegistered Nurses, BrightPath Health Services, 2019.06–2022.03\n- Developed medication management policies\n- Established quality assurance systems\nRegistered Nurses, CareBridge Health Services, 2015.08–2018.05\n- Checked patient identification\n- Recorded patient weight and height\nEDUCATION\nBachelor's, Patient Care, Brightwater University, 2014\n• Studied principles of ostomy care\n• Studied fundamentals of nursing communication"
+}

@@ -1,0 +1,252 @@
+{
+  "id": "48537",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.919,
+  "n_lines": 18,
+  "mean_score": 0.9788,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MICHAEL CURTIS",
+      "score": 0.9775,
+      "box": [
+        115,
+        88,
+        405,
+        122
+      ]
+    },
+    {
+      "text": "TN, USA|+1-325-580-8721 |michael.curtis@example.com",
+      "score": 0.9813,
+      "box": [
+        115,
+        150,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.987,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextLine Construction, 2019.02–2023.01",
+      "score": 0.9807,
+      "box": [
+        114,
+        288,
+        712,
+        313
+      ]
+    },
+    {
+      "text": "- Directed site construction operations",
+      "score": 0.9797,
+      "box": [
+        125,
+        313,
+        480,
+        338
+      ]
+    },
+    {
+      "text": "- Directed site safety audits",
+      "score": 0.9822,
+      "box": [
+        126,
+        338,
+        381,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Build Co., 2015.03–2019.02",
+      "score": 0.9658,
+      "box": [
+        115,
+        380,
+        674,
+        406
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.9924,
+      "box": [
+        125,
+        406,
+        523,
+        431
+      ]
+    },
+    {
+      "text": "- Directed site construction operations",
+      "score": 0.9814,
+      "box": [
+        125,
+        431,
+        480,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftWay Builders, 2011.03–2015.03",
+      "score": 0.9803,
+      "box": [
+        115,
+        471,
+        677,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored project timelines",
+      "score": 0.9544,
+      "box": [
+        125,
+        496,
+        393,
+        521
+      ]
+    },
+    {
+      "text": "- Installed exterior cladding",
+      "score": 0.979,
+      "box": [
+        125,
+        521,
+        379,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardWay Builders, 2007.03–2011.03",
+      "score": 0.9778,
+      "box": [
+        116,
+        565,
+        677,
+        588
+      ]
+    },
+    {
+      "text": "-Maintained tool storage areas",
+      "score": 0.974,
+      "box": [
+        124,
+        589,
+        419,
+        615
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9783,
+      "box": [
+        126,
+        613,
+        406,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Plumbing Technology, Forestview High School, 2006",
+      "score": 0.9716,
+      "box": [
+        116,
+        725,
+        866,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in material handling",
+      "score": 0.9752,
+      "box": [
+        132,
+        748,
+        547,
+        771
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "MICHAEL CURTIS\nTN, USA|+1-325-580-8721 |michael.curtis@example.com\nWORK HISTORY\nConstruction Laborers, NextLine Construction, 2019.02–2023.01\n- Directed site construction operations\n- Directed site safety audits\nConstruction Laborers, Reliable Build Co., 2015.03–2019.02\n- Coordinated large-scale material logistics\n- Directed site construction operations\nConstruction Laborers, CraftWay Builders, 2011.03–2015.03\n- Monitored project timelines\n- Installed exterior cladding\nConstruction Laborers, HardWay Builders, 2007.03–2011.03\n-Maintained tool storage areas\n- Installed temporary supports\nEDUCATION\nHigh school graduate/GED, Plumbing Technology, Forestview High School, 2006\n• Completed coursework in material handling"
+}

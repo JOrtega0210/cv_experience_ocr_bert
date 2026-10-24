@@ -1,0 +1,265 @@
+{
+  "id": "13200",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.071,
+  "n_lines": 19,
+  "mean_score": 0.9808,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RACHEALCANNON",
+      "score": 0.9728,
+      "box": [
+        115,
+        88,
+        439,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA|+1-447-469-9380|racheal.cannon@example.com",
+      "score": 0.9872,
+      "box": [
+        115,
+        150,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Services, 2017.10–2023.01",
+      "score": 0.9601,
+      "box": [
+        114,
+        289,
+        730,
+        314
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9747,
+      "box": [
+        126,
+        313,
+        478,
+        338
+      ]
+    },
+    {
+      "text": "- Led cross-functional financial integration",
+      "score": 0.9858,
+      "box": [
+        126,
+        339,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Advisors, 2012.07–2017.10",
+      "score": 0.9737,
+      "box": [
+        114,
+        381,
+        732,
+        406
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9748,
+      "box": [
+        126,
+        406,
+        467,
+        431
+      ]
+    },
+    {
+      "text": "- Managed consolidation processes",
+      "score": 0.9903,
+      "box": [
+        126,
+        430,
+        458,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Advisors, 2007.03–2012.07",
+      "score": 0.9794,
+      "box": [
+        115,
+        472,
+        697,
+        496
+      ]
+    },
+    {
+      "text": "- Managed monthly close processes",
+      "score": 0.9787,
+      "box": [
+        125,
+        496,
+        464,
+        522
+      ]
+    },
+    {
+      "text": "- Prepared tax returns",
+      "score": 0.9658,
+      "box": [
+        125,
+        521,
+        333,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Financial, 2001.11–2007.03",
+      "score": 0.9776,
+      "box": [
+        115,
+        565,
+        701,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9795,
+      "box": [
+        125,
+        589,
+        455,
+        612
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9813,
+      "box": [
+        126,
+        613,
+        356,
+        641
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting, Seabreeze University, 2004",
+      "score": 0.9944,
+      "box": [
+        115,
+        724,
+        598,
+        746
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting software applications",
+      "score": 0.9917,
+      "box": [
+        133,
+        749,
+        691,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting process improvement",
+      "score": 0.9846,
+      "box": [
+        134,
+        772,
+        696,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "RACHEALCANNON\nFL, USA|+1-447-469-9380|racheal.cannon@example.com\nWORK HISTORY\nAccountants Auditors, Integrity Ledger Services, 2017.10–2023.01\n- Established financial quality controls\n- Led cross-functional financial integration\nAccountants Auditors, Reliable Ledger Advisors, 2012.07–2017.10\n- Developed internal control systems\n- Managed consolidation processes\nAccountants Auditors, SolidLedger Advisors, 2007.03–2012.07\n- Managed monthly close processes\n- Prepared tax returns\nAccountants Auditors, FairBalance Financial, 2001.11–2007.03\n- Assisted with tax form preparation\n- Prepared aging reports\nEDUCATION\nBachelor's, Accounting, Seabreeze University, 2004\n• Completed coursework in accounting software applications\n• Completed coursework in accounting process improvement"
+}

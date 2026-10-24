@@ -1,0 +1,148 @@
+{
+  "id": "27698",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.763,
+  "n_lines": 10,
+  "mean_score": 0.9807,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CHADWICK DICKERSON",
+      "score": 0.9875,
+      "box": [
+        117,
+        90,
+        512,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-800-895-4090|chadwick.dickerson@example.com",
+      "score": 0.9909,
+      "box": [
+        116,
+        152,
+        716,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9755,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Build Group, 2020.03–2023.01",
+      "score": 0.9793,
+      "box": [
+        115,
+        289,
+        707,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.9682,
+      "box": [
+        126,
+        314,
+        555,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9932,
+      "box": [
+        126,
+        339,
+        425,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), General Construction, Stonehill University, 2021",
+      "score": 0.9715,
+      "box": [
+        116,
+        449,
+        811,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction materials handling",
+      "score": 0.9702,
+      "box": [
+        132,
+        472,
+        676,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of equipment operation",
+      "score": 0.9722,
+      "box": [
+        133,
+        497,
+        570,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "CHADWICK DICKERSON\nMI, USA|+1-800-895-4090|chadwick.dickerson@example.com\nWORK HISTORY\nConstruction Laborers, Precision Build Group, 2020.03–2023.01\n- Prepared tools and equipment for daily tasks\n- Assisted with concrete pouring\nEDUCATION\nSome college (no degree), General Construction, Stonehill University, 2021\n• Completed coursework in construction materials handling\n• Studied fundamentals of equipment operation"
+}

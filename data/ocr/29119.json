@@ -1,0 +1,239 @@
+{
+  "id": "29119",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.838,
+  "n_lines": 17,
+  "mean_score": 0.9833,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LOGAN PHAN",
+      "score": 0.9764,
+      "box": [
+        115,
+        90,
+        343,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-811-518-7468|logan.phan@example.com",
+      "score": 0.9898,
+      "box": [
+        115,
+        150,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corebyte Systems, 2020.07–2023.01",
+      "score": 0.9848,
+      "box": [
+        115,
+        289,
+        665,
+        314
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9731,
+      "box": [
+        127,
+        315,
+        446,
+        339
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9931,
+      "box": [
+        126,
+        339,
+        438,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Software, 2017.12–2020.07",
+      "score": 0.9891,
+      "box": [
+        115,
+        381,
+        679,
+        406
+      ]
+    },
+    {
+      "text": "- Improved application performance",
+      "score": 0.99,
+      "box": [
+        126,
+        406,
+        458,
+        431
+      ]
+    },
+    {
+      "text": "- Integrated analytics services",
+      "score": 0.9854,
+      "box": [
+        126,
+        430,
+        406,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudframe Software, 2015.05–2017.12",
+      "score": 0.9851,
+      "box": [
+        115,
+        471,
+        693,
+        496
+      ]
+    },
+    {
+      "text": "- Refactored simple functions for readability",
+      "score": 0.982,
+      "box": [
+        125,
+        496,
+        530,
+        522
+      ]
+    },
+    {
+      "text": "- Assisted with container setup",
+      "score": 0.9782,
+      "box": [
+        125,
+        521,
+        413,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Master's, Rolling Hills University, 2018",
+      "score": 0.9602,
+      "box": [
+        115,
+        632,
+        472,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Stonebridge University, 2016",
+      "score": 0.9878,
+      "box": [
+        114,
+        656,
+        494,
+        681
+      ]
+    },
+    {
+      "text": "•Completed coursework in message queues",
+      "score": 0.9762,
+      "box": [
+        132,
+        681,
+        548,
+        707
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of profiling tools",
+      "score": 0.98,
+      "box": [
+        132,
+        706,
+        502,
+        731
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "LOGAN PHAN\nMN, USA|+1-811-518-7468|logan.phan@example.com\nWORK HISTORY\nSoftware Developers, Corebyte Systems, 2020.07–2023.01\n- Designed caching infrastructures\n- Led technical roadmap planning\nSoftware Developers, Corewave Software, 2017.12–2020.07\n- Improved application performance\n- Integrated analytics services\nSoftware Developers, Cloudframe Software, 2015.05–2017.12\n- Refactored simple functions for readability\n- Assisted with container setup\nEDUCATION\nMaster's, Rolling Hills University, 2018\nBachelor's, Stonebridge University, 2016\n•Completed coursework in message queues\n• Studied fundamentals of profiling tools"
+}

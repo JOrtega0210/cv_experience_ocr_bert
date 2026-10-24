@@ -1,0 +1,187 @@
+{
+  "id": "47964",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.853,
+  "n_lines": 13,
+  "mean_score": 0.9818,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ASHEROLSON",
+      "score": 0.9987,
+      "box": [
+        115,
+        88,
+        364,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA|+1-359-836-2689 |asher.olson@example.com",
+      "score": 0.9587,
+      "box": [
+        116,
+        151,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9828,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Bridge Academy, 2020.10–2023.01",
+      "score": 0.9819,
+      "box": [
+        114,
+        289,
+        876,
+        314
+      ]
+    },
+    {
+      "text": "- Led strategic curriculum planning",
+      "score": 0.9615,
+      "box": [
+        125,
+        314,
+        448,
+        339
+      ]
+    },
+    {
+      "text": "- Established instructional best practices",
+      "score": 0.9831,
+      "box": [
+        126,
+        339,
+        502,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Inspire Academy, 2018.06–2020.10",
+      "score": 0.9929,
+      "box": [
+        115,
+        381,
+        793,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed lesson objectives",
+      "score": 0.9816,
+      "box": [
+        125,
+        406,
+        400,
+        431
+      ]
+    },
+    {
+      "text": "- Supervised transitions between lessons",
+      "score": 0.9949,
+      "box": [
+        126,
+        431,
+        509,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Community Education, Westview University, 2023",
+      "score": 0.9644,
+      "box": [
+        114,
+        539,
+        685,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic tutoring methods",
+      "score": 0.973,
+      "box": [
+        134,
+        566,
+        600,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom observation methods",
+      "score": 0.9918,
+      "box": [
+        134,
+        591,
+        684,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ASHEROLSON\nSC, USA|+1-359-836-2689 |asher.olson@example.com\nWORK HISTORY\nElementary Middle School Teachers, Learning Bridge Academy, 2020.10–2023.01\n- Led strategic curriculum planning\n- Established instructional best practices\nElementary Middle School Teachers, Inspire Academy, 2018.06–2020.10\n- Reviewed lesson objectives\n- Supervised transitions between lessons\nEDUCATION\nBachelor's, Community Education, Westview University, 2023\n• Completed coursework in basic tutoring methods\n• Completed coursework in classroom observation methods"
+}

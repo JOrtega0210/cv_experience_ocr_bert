@@ -1,0 +1,239 @@
+{
+  "id": "11354",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.018,
+  "n_lines": 17,
+  "mean_score": 0.9798,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SAMANTHA BROCK",
+      "score": 0.971,
+      "box": [
+        116,
+        90,
+        441,
+        121
+      ]
+    },
+    {
+      "text": "CT, USA|+1-445-406-6655|samantha.brock@example.com",
+      "score": 0.9763,
+      "box": [
+        116,
+        150,
+        689,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9805,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Financial, 2020.02–2023.01",
+      "score": 0.9834,
+      "box": [
+        115,
+        289,
+        707,
+        312
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9942,
+      "box": [
+        127,
+        315,
+        511,
+        337
+      ]
+    },
+    {
+      "text": "- Managed financial compliance programs",
+      "score": 0.9853,
+      "box": [
+        126,
+        339,
+        517,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Financial, 2017.03–2020.02",
+      "score": 0.9741,
+      "box": [
+        114,
+        381,
+        757,
+        406
+      ]
+    },
+    {
+      "text": "- Managed accounting system updates",
+      "score": 0.9733,
+      "box": [
+        126,
+        406,
+        488,
+        431
+      ]
+    },
+    {
+      "text": "- Managed fixed asset accounting",
+      "score": 0.9696,
+      "box": [
+        126,
+        430,
+        442,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Services, 2014.04–2017.03",
+      "score": 0.9815,
+      "box": [
+        114,
+        471,
+        732,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.99,
+      "box": [
+        125,
+        496,
+        419,
+        521
+      ]
+    },
+    {
+      "text": "– Maintained vendor records",
+      "score": 0.9596,
+      "box": [
+        126,
+        522,
+        389,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Business Technology, Harborview University, 2016",
+      "score": 0.9706,
+      "box": [
+        114,
+        631,
+        678,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Analysis, Goldenfield University, 2014",
+      "score": 0.967,
+      "box": [
+        114,
+        656,
+        666,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of managerial accounting",
+      "score": 0.9897,
+      "box": [
+        132,
+        681,
+        552,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in investment analysis basics",
+      "score": 0.992,
+      "box": [
+        133,
+        706,
+        636,
+        731
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "SAMANTHA BROCK\nCT, USA|+1-445-406-6655|samantha.brock@example.com\nWORK HISTORY\nAccountants Auditors, CoreBalance Financial, 2020.02–2023.01\n- Designed financial control environments\n- Managed financial compliance programs\nAccountants Auditors, Reliable Accounts Financial, 2017.03–2020.02\n- Managed accounting system updates\n- Managed fixed asset accounting\nAccountants Auditors, Reliable Ledger Services, 2014.04–2017.03\n- Assisted with forecasting data\n– Maintained vendor records\nEDUCATION\nMaster's, Business Technology, Harborview University, 2016\nBachelor's, Financial Analysis, Goldenfield University, 2014\n• Studied principles of managerial accounting\n• Completed coursework in investment analysis basics"
+}

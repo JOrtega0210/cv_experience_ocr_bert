@@ -1,0 +1,174 @@
+{
+  "id": "26748",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.841,
+  "n_lines": 12,
+  "mean_score": 0.9821,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ASA LLOYD",
+      "score": 0.9617,
+      "box": [
+        116,
+        90,
+        311,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-931-394-2999|asa.lloyd@example.com",
+      "score": 0.9693,
+      "box": [
+        116,
+        150,
+        617,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9848,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongEdge Builders, 2019.09–2022.04",
+      "score": 0.9806,
+      "box": [
+        115,
+        290,
+        700,
+        313
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9903,
+      "box": [
+        126,
+        315,
+        458,
+        338
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.9927,
+      "box": [
+        126,
+        339,
+        477,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterBuild Group, 2016.08–2019.03",
+      "score": 0.9815,
+      "box": [
+        115,
+        381,
+        682,
+        406
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9757,
+      "box": [
+        125,
+        406,
+        492,
+        431
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.9796,
+      "box": [
+        126,
+        430,
+        418,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Logistics, Maplewood High School, 2004",
+      "score": 0.9943,
+      "box": [
+        116,
+        541,
+        875,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in building layout techniques",
+      "score": 0.9766,
+      "box": [
+        134,
+        566,
+        630,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "ASA LLOYD\nMI, USA|+1-931-394-2999|asa.lloyd@example.com\nWORK HISTORY\nConstruction Laborers, StrongEdge Builders, 2019.09–2022.04\n- Developed construction standards\n- Designed construction staging plans\nConstruction Laborers, MasterBuild Group, 2016.08–2019.03\n- Assembled prefabricated components\n- Maintained tool storage areas\nEDUCATION\nHigh school graduate/GED, Construction Logistics, Maplewood High School, 2004\n• Completed coursework in building layout techniques"
+}

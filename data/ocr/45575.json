@@ -1,0 +1,135 @@
+{
+  "id": "45575",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.751,
+  "n_lines": 9,
+  "mean_score": 0.9882,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JORDIYORK",
+      "score": 0.9994,
+      "box": [
+        116,
+        90,
+        327,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-798-517-6530|jordi.york@example.com",
+      "score": 0.9888,
+      "box": [
+        115,
+        150,
+        626,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9796,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildStone Co., 2018.12–2021.11",
+      "score": 0.9887,
+      "box": [
+        115,
+        290,
+        646,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with roofing material handling",
+      "score": 0.9905,
+      "box": [
+        126,
+        314,
+        497,
+        338
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9683,
+      "box": [
+        126,
+        339,
+        435,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Design, Ridgeway High School, 2016",
+      "score": 0.9895,
+      "box": [
+        116,
+        449,
+        844,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction mathematics",
+      "score": 0.9904,
+      "box": [
+        134,
+        475,
+        625,
+        495
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "JORDIYORK\nPA, USA|+1-798-517-6530|jordi.york@example.com\nWORK HISTORY\nConstruction Laborers, BuildStone Co., 2018.12–2021.11\n- Assisted with roofing material handling\n- Installed temporary site barriers\nEDUCATION\nHigh school graduate/GED, Construction Design, Ridgeway High School, 2016\n• Completed coursework in construction mathematics"
+}

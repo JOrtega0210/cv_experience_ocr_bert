@@ -1,0 +1,239 @@
+{
+  "id": "00631",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.055,
+  "n_lines": 17,
+  "mean_score": 0.9758,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MIA MONROE",
+      "score": 0.9351,
+      "box": [
+        116,
+        90,
+        339,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-363-318-8304|mia.monroe@example.com",
+      "score": 0.9713,
+      "box": [
+        115,
+        150,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9834,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHands Care Center, 2021.01–2023.01",
+      "score": 0.9835,
+      "box": [
+        116,
+        289,
+        695,
+        312
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.9605,
+      "box": [
+        125,
+        313,
+        520,
+        339
+      ]
+    },
+    {
+      "text": "- Established quality assurance systems",
+      "score": 0.9799,
+      "box": [
+        126,
+        339,
+        500,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWay Care Group, 2019.01–2021.01",
+      "score": 0.9862,
+      "box": [
+        115,
+        381,
+        668,
+        406
+      ]
+    },
+    {
+      "text": "- Managed care for chronic conditions",
+      "score": 0.9796,
+      "box": [
+        126,
+        406,
+        479,
+        431
+      ]
+    },
+    {
+      "text": "- Educated patients on treatment plans",
+      "score": 0.9803,
+      "box": [
+        126,
+        431,
+        487,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Way Medical, 2017.01–2019.01",
+      "score": 0.994,
+      "box": [
+        116,
+        473,
+        670,
+        496
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9664,
+      "box": [
+        126,
+        496,
+        409,
+        521
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9683,
+      "box": [
+        126,
+        520,
+        364,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Community Health, Greenwood University, 2017",
+      "score": 0.9759,
+      "box": [
+        115,
+        632,
+        654,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Mental Health Studies, Greenridge University, 2015",
+      "score": 0.9896,
+      "box": [
+        115,
+        658,
+        701,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of endocrine nursing",
+      "score": 0.9837,
+      "box": [
+        132,
+        681,
+        507,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient triage",
+      "score": 0.9525,
+      "box": [
+        132,
+        706,
+        510,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "MIA MONROE\nAL, USA|+1-363-318-8304|mia.monroe@example.com\nWORK HISTORY\nRegistered Nurses, NewHands Care Center, 2021.01–2023.01\n- Established nursing performance metrics\n- Established quality assurance systems\nRegistered Nurses, SunWay Care Group, 2019.01–2021.01\n- Managed care for chronic conditions\n- Educated patients on treatment plans\nRegistered Nurses, Helping Way Medical, 2017.01–2019.01\n- Recorded shift handoff notes\n- Recorded nursing notes\nEDUCATION\nMaster's, Community Health, Greenwood University, 2017\nBachelor's, Mental Health Studies, Greenridge University, 2015\n• Studied principles of endocrine nursing\n• Completed coursework in patient triage"
+}

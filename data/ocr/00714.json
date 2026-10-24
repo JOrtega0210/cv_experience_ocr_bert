@@ -1,0 +1,187 @@
+{
+  "id": "00714",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.974,
+  "n_lines": 13,
+  "mean_score": 0.9806,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NICOLE LYNN",
+      "score": 0.9631,
+      "box": [
+        114,
+        87,
+        346,
+        123
+      ]
+    },
+    {
+      "text": "AL, USA|+1-395-205-5416|nicole.lynn@example.com",
+      "score": 0.9838,
+      "box": [
+        116,
+        151,
+        636,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Care Group, 2020.12–2022.07",
+      "score": 0.961,
+      "box": [
+        115,
+        289,
+        706,
+        314
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9798,
+      "box": [
+        125,
+        313,
+        471,
+        338
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9912,
+      "box": [
+        126,
+        339,
+        547,
+        362
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearLife Health Group, 2018.10–2020.06",
+      "score": 0.974,
+      "box": [
+        115,
+        382,
+        689,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9798,
+      "box": [
+        126,
+        407,
+        372,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted basic patient assessments",
+      "score": 0.9885,
+      "box": [
+        126,
+        431,
+        494,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Care Studies, Hillview University, 2013",
+      "score": 0.9715,
+      "box": [
+        114,
+        539,
+        729,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of sleep management in care",
+      "score": 0.987,
+      "box": [
+        133,
+        566,
+        625,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in communication in care teams",
+      "score": 0.9859,
+      "box": [
+        134,
+        591,
+        661,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "NICOLE LYNN\nAL, USA|+1-395-205-5416|nicole.lynn@example.com\nWORK HISTORY\nRegistered Nurses, Compassion Care Group, 2020.12–2022.07\n- Established care delivery standards\n- Developed clinical performance dashboards\nRegistered Nurses, ClearLife Health Group, 2018.10–2020.06\n- Prepared sterile supplies\n- Conducted basic patient assessments\nEDUCATION\nAssociate's degree, Health Care Studies, Hillview University, 2013\n• Studied fundamentals of sleep management in care\n• Completed coursework in communication in care teams"
+}

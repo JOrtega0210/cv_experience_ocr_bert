@@ -1,0 +1,161 @@
+{
+  "id": "45117",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.838,
+  "n_lines": 11,
+  "mean_score": 0.9807,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MOLLIE SUMMERS",
+      "score": 0.989,
+      "box": [
+        116,
+        90,
+        425,
+        120
+      ]
+    },
+    {
+      "text": "PA, USA|+1-434-244-6087 |mollie.summers@example.com",
+      "score": 0.9752,
+      "box": [
+        115,
+        150,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9718,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Path Academy, 2020.07–2021.12",
+      "score": 0.984,
+      "box": [
+        116,
+        290,
+        871,
+        313
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.9723,
+      "box": [
+        127,
+        315,
+        484,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed homework assignments",
+      "score": 0.9828,
+      "box": [
+        126,
+        339,
+        459,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Learning Support Studies, Driftwood University, 2017",
+      "score": 0.969,
+      "box": [
+        115,
+        449,
+        698,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Academic Support Studies, Pinehaven University, 2015",
+      "score": 0.9735,
+      "box": [
+        114,
+        472,
+        737,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional facilitation",
+      "score": 0.9799,
+      "box": [
+        134,
+        500,
+        588,
+        520
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional evaluation",
+      "score": 0.9923,
+      "box": [
+        136,
+        525,
+        601,
+        545
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "MOLLIE SUMMERS\nPA, USA|+1-434-244-6087 |mollie.summers@example.com\nWORK HISTORY\nElementary Middle School Teachers, Discovery Path Academy, 2020.07–2021.12\n- Conducted reading practice sessions\n- Reviewed homework assignments\nEDUCATION\nMaster's, Learning Support Studies, Driftwood University, 2017\nBachelor's, Academic Support Studies, Pinehaven University, 2015\n• Studied fundamentals of instructional facilitation\n• Completed coursework in instructional evaluation"
+}

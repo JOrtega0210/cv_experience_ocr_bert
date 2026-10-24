@@ -1,0 +1,148 @@
+{
+  "id": "24665",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.745,
+  "n_lines": 10,
+  "mean_score": 0.9814,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TAYLOR BARTLETT",
+      "score": 0.9808,
+      "box": [
+        115,
+        90,
+        442,
+        120
+      ]
+    },
+    {
+      "text": "MD, USA|+1-793-250-6608|taylor.bartlett@example.com",
+      "score": 0.9878,
+      "box": [
+        116,
+        152,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9828,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Spring Nursing, 2020.09–2023.01",
+      "score": 0.9735,
+      "box": [
+        116,
+        290,
+        679,
+        314
+      ]
+    },
+    {
+      "text": "- Monitored patient alarms",
+      "score": 0.9841,
+      "box": [
+        127,
+        315,
+        373,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobility",
+      "score": 0.9707,
+      "box": [
+        126,
+        339,
+        409,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Studies, Pebble Creek University, 023",
+      "score": 0.9617,
+      "box": [
+        114,
+        447,
+        661,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in fluid and electrolyte balance",
+      "score": 0.9833,
+      "box": [
+        133,
+        474,
+        648,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of pain assessment tools",
+      "score": 0.991,
+      "box": [
+        133,
+        497,
+        549,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "TAYLOR BARTLETT\nMD, USA|+1-793-250-6608|taylor.bartlett@example.com\nWORK HISTORY\nRegistered Nurses, Caring Spring Nursing, 2020.09–2023.01\n- Monitored patient alarms\n- Assisted with patient mobility\nEDUCATION\nBachelor's, Clinical Studies, Pebble Creek University, 023\n• Completed coursework in fluid and electrolyte balance\n• Studied principles of pain assessment tools"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "61099",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.885,
+  "n_lines": 16,
+  "mean_score": 0.9853,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "THERESA MAYNARD",
+      "score": 0.9783,
+      "box": [
+        116,
+        90,
+        457,
+        120
+      ]
+    },
+    {
+      "text": "WI, USA|+1-737-371-9086|theresa.maynard@example.com",
+      "score": 0.988,
+      "box": [
+        116,
+        151,
+        694,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9801,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Path Nursing, 2021.01–2023.01",
+      "score": 0.9867,
+      "box": [
+        115,
+        289,
+        672,
+        314
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9806,
+      "box": [
+        125,
+        314,
+        547,
+        337
+      ]
+    },
+    {
+      "text": "- Led nursing audit programs",
+      "score": 0.9919,
+      "box": [
+        126,
+        339,
+        397,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenWay Nursing Services, 2019.01–2021.01",
+      "score": 0.9879,
+      "box": [
+        116,
+        382,
+        731,
+        406
+      ]
+    },
+    {
+      "text": "- Provided end-of-life care",
+      "score": 0.9806,
+      "box": [
+        126,
+        406,
+        370,
+        429
+      ]
+    },
+    {
+      "text": "- Provided pediatric nursing care",
+      "score": 0.9901,
+      "box": [
+        126,
+        430,
+        431,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Group, 2016.12–2019.01",
+      "score": 0.9797,
+      "box": [
+        116,
+        472,
+        688,
+        496
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.9838,
+      "box": [
+        125,
+        496,
+        512,
+        521
+      ]
+    },
+    {
+      "text": "- Conducted basic patient assessments",
+      "score": 0.9846,
+      "box": [
+        126,
+        521,
+        494,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Informatics, Lakewood University, 2015",
+      "score": 0.9887,
+      "box": [
+        114,
+        630,
+        656,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in medical terminology",
+      "score": 0.9807,
+      "box": [
+        133,
+        655,
+        575,
+        682
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of trauma care",
+      "score": 0.9847,
+      "box": [
+        135,
+        682,
+        490,
+        704
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "THERESA MAYNARD\nWI, USA|+1-737-371-9086|theresa.maynard@example.com\nWORK HISTORY\nRegistered Nurses, Helping Path Nursing, 2021.01–2023.01\n- Developed clinical performance dashboards\n- Led nursing audit programs\nRegistered Nurses, OpenWay Nursing Services, 2019.01–2021.01\n- Provided end-of-life care\n- Provided pediatric nursing care\nRegistered Nurses, Harmony Health Group, 2016.12–2019.01\n- Performed basic life support procedures\n- Conducted basic patient assessments\nEDUCATION\nBachelor's, Health Informatics, Lakewood University, 2015\n• Completed coursework in medical terminology\n• Studied fundamentals of trauma care"
+}

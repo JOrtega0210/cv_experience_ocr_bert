@@ -1,0 +1,187 @@
+{
+  "id": "29613",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.832,
+  "n_lines": 13,
+  "mean_score": 0.9804,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JACOB AYALA",
+      "score": 0.988,
+      "box": [
+        116,
+        90,
+        361,
+        121
+      ]
+    },
+    {
+      "text": "MS, USA|+1-640-281-5778 |jacob.ayala@example.com",
+      "score": 0.9851,
+      "box": [
+        115,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidFrame Construction, 2018.05–2021.03",
+      "score": 0.977,
+      "box": [
+        114,
+        289,
+        738,
+        313
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.9907,
+      "box": [
+        126,
+        315,
+        524,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9661,
+      "box": [
+        127,
+        340,
+        477,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmFrame Builders, 2014.09–2017.07",
+      "score": 0.985,
+      "box": [
+        116,
+        382,
+        692,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9651,
+      "box": [
+        125,
+        406,
+        416,
+        432
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.9576,
+      "box": [
+        126,
+        431,
+        441,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Methods, Brookway University, 2009",
+      "score": 0.984,
+      "box": [
+        115,
+        539,
+        830,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of structural connections",
+      "score": 0.9841,
+      "box": [
+        131,
+        564,
+        583,
+        588
+      ]
+    },
+    {
+      "text": "• Studied principles of construction documentation",
+      "score": 0.9806,
+      "box": [
+        133,
+        591,
+        597,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JACOB AYALA\nMS, USA|+1-640-281-5778 |jacob.ayala@example.com\nWORK HISTORY\nConstruction Laborers, SolidFrame Construction, 2018.05–2021.03\n- Coordinated large-scale material logistics\n- Reviewed material quality standards\nConstruction Laborers, FirmFrame Builders, 2014.09–2017.07\n- Assisted with framing support\n- Handled delivery documentation\nEDUCATION\nSome college (no degree), Construction Methods, Brookway University, 2009\n• Studied fundamentals of structural connections\n• Studied principles of construction documentation"
+}

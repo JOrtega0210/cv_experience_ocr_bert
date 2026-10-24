@@ -1,0 +1,265 @@
+{
+  "id": "59996",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.902,
+  "n_lines": 19,
+  "mean_score": 0.9768,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AMBER BLAKE",
+      "score": 0.9811,
+      "box": [
+        117,
+        90,
+        365,
+        121
+      ]
+    },
+    {
+      "text": "WV, USA|+1-693-951-5137|amber.blake@example.com",
+      "score": 0.965,
+      "box": [
+        114,
+        150,
+        660,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9869,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellHands Medical Group, 2020.01–2023.01",
+      "score": 0.9772,
+      "box": [
+        115,
+        289,
+        716,
+        314
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9818,
+      "box": [
+        125,
+        313,
+        471,
+        338
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.9836,
+      "box": [
+        127,
+        339,
+        520,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHands Care Center, 2017.01–2020.01",
+      "score": 0.9829,
+      "box": [
+        115,
+        381,
+        695,
+        406
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.9794,
+      "box": [
+        126,
+        406,
+        426,
+        431
+      ]
+    },
+    {
+      "text": "- Supervised multidisciplinary care teams",
+      "score": 0.9865,
+      "box": [
+        126,
+        430,
+        508,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearWay Medical Group, 2014.01–2017.01",
+      "score": 0.9923,
+      "box": [
+        116,
+        473,
+        708,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored patient response to treatments",
+      "score": 0.9663,
+      "box": [
+        125,
+        496,
+        522,
+        522
+      ]
+    },
+    {
+      "text": "- Performed patient triage",
+      "score": 0.9343,
+      "box": [
+        126,
+        521,
+        367,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleBridge Health, 2010.12–2014.01",
+      "score": 0.9826,
+      "box": [
+        116,
+        565,
+        662,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9645,
+      "box": [
+        126,
+        590,
+        372,
+        614
+      ]
+    },
+    {
+      "text": "- Monitored patient alarms",
+      "score": 0.9712,
+      "box": [
+        128,
+        616,
+        372,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Technology, Timberline University, 2008",
+      "score": 0.9865,
+      "box": [
+        114,
+        723,
+        715,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic nursing principles",
+      "score": 0.9516,
+      "box": [
+        132,
+        748,
+        606,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in palliative care basics",
+      "score": 0.9857,
+      "box": [
+        135,
+        774,
+        582,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "AMBER BLAKE\nWV, USA|+1-693-951-5137|amber.blake@example.com\nWORK HISTORY\nRegistered Nurses, WellHands Medical Group, 2020.01–2023.01\n- Established care delivery standards\n- Established nursing performance metrics\nRegistered Nurses, KindHands Care Center, 2017.01–2020.01\n- Managed clinical data analysis\n- Supervised multidisciplinary care teams\nRegistered Nurses, ClearWay Medical Group, 2014.01–2017.01\n- Monitored patient response to treatments\n- Performed patient triage\nRegistered Nurses, GentleBridge Health, 2010.12–2014.01\n- Prepared sterile supplies\n- Monitored patient alarms\nEDUCATION\nBachelor's, Health Care Technology, Timberline University, 2008\n• Completed coursework in basic nursing principles\n• Completed coursework in palliative care basics"
+}

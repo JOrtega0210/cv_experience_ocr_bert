@@ -1,0 +1,187 @@
+{
+  "id": "37775",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.809,
+  "n_lines": 13,
+  "mean_score": 0.9794,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SERGIO GENTRY",
+      "score": 0.9696,
+      "box": [
+        116,
+        90,
+        397,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-834-305-4606|sergio.gentry@example.com",
+      "score": 0.9827,
+      "box": [
+        115,
+        150,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9801,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Group, 2019.11–221.07",
+      "score": 0.9704,
+      "box": [
+        114,
+        289,
+        709,
+        314
+      ]
+    },
+    {
+      "text": "-Led financial data standardization",
+      "score": 0.9946,
+      "box": [
+        125,
+        313,
+        454,
+        338
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.9727,
+      "box": [
+        126,
+        339,
+        456,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Group, 2017.04–2018.12",
+      "score": 0.9724,
+      "box": [
+        114,
+        381,
+        709,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9738,
+      "box": [
+        125,
+        406,
+        356,
+        432
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9797,
+      "box": [
+        126,
+        430,
+        371,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Finance, Springfield University, 2016",
+      "score": 0.9892,
+      "box": [
+        115,
+        541,
+        566,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting analytics basics",
+      "score": 0.9863,
+      "box": [
+        133,
+        565,
+        641,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting research methods",
+      "score": 0.9619,
+      "box": [
+        134,
+        591,
+        663,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "SERGIO GENTRY\nNY, USA|+1-834-305-4606|sergio.gentry@example.com\nWORK HISTORY\nAccountants Auditors, Integrity Ledger Group, 2019.11–221.07\n-Led financial data standardization\n- Developed audit quality standards\nAccountants Auditors, Integrity Ledger Group, 2017.04–2018.12\n- Prepared aging reports\n- Compiled audit evidence\nEDUCATION\nBachelor's, Finance, Springfield University, 2016\n• Completed coursework in accounting analytics basics\n• Completed coursework in accounting research methods"
+}

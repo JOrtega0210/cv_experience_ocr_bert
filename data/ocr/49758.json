@@ -1,0 +1,226 @@
+{
+  "id": "49758",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.851,
+  "n_lines": 16,
+  "mean_score": 0.9833,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RYAN MELTON",
+      "score": 0.9846,
+      "box": [
+        116,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-417-666-2616|ryan.melton@example.com",
+      "score": 0.9872,
+      "box": [
+        115,
+        150,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyFrame Builders, 2020.05–2023.01",
+      "score": 0.9843,
+      "box": [
+        114,
+        289,
+        712,
+        313
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9796,
+      "box": [
+        126,
+        314,
+        441,
+        339
+      ]
+    },
+    {
+      "text": "- Directed installation methodologies",
+      "score": 0.9803,
+      "box": [
+        126,
+        338,
+        466,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Craft Co., 2017.09–2020.05",
+      "score": 0.9916,
+      "box": [
+        116,
+        382,
+        649,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared and poured concrete forms",
+      "score": 0.9834,
+      "box": [
+        127,
+        407,
+        483,
+        430
+      ]
+    },
+    {
+      "text": "- Monitored safety compliance",
+      "score": 0.9722,
+      "box": [
+        126,
+        430,
+        408,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Services, 2014.12–2017.09",
+      "score": 0.9833,
+      "box": [
+        115,
+        471,
+        695,
+        496
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.9868,
+      "box": [
+        126,
+        498,
+        556,
+        521
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9809,
+      "box": [
+        126,
+        521,
+        489,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Some college (no degree), Carpentry, Clearwood University, 2012",
+      "score": 0.9763,
+      "box": [
+        115,
+        631,
+        727,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of structural load paths",
+      "score": 0.9893,
+      "box": [
+        132,
+        656,
+        530,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of electrical systems basics",
+      "score": 0.9707,
+      "box": [
+        134,
+        682,
+        570,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "RYAN MELTON\nTX, USA|+1-417-666-2616|ryan.melton@example.com\nWORK HISTORY\nConstruction Laborers, SteadyFrame Builders, 2020.05–2023.01\n- Led complex demolition projects\n- Directed installation methodologies\nConstruction Laborers, Allied Craft Co., 2017.09–2020.05\n- Prepared and poured concrete forms\n- Monitored safety compliance\nConstruction Laborers, PrimeBuild Services, 2014.12–2017.09\n- Stacked and organized construction supplies\n- Performed basic plumbing assistance\nEDUCATION\nSome college (no degree), Carpentry, Clearwood University, 2012\n• Studied principles of structural load paths\n• Studied principles of electrical systems basics"
+}

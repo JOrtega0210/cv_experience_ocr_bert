@@ -1,0 +1,200 @@
+{
+  "id": "00364",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.905,
+  "n_lines": 14,
+  "mean_score": 0.9831,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CRYSTAL ROBERTSON",
+      "score": 0.9954,
+      "box": [
+        117,
+        90,
+        498,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-932-763-6919|crystal.robertson@example.com",
+      "score": 0.9841,
+      "box": [
+        116,
+        151,
+        691,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9789,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Path Nursing, 2020.10–2023.01",
+      "score": 0.9799,
+      "box": [
+        115,
+        289,
+        662,
+        314
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.99,
+      "box": [
+        126,
+        315,
+        458,
+        338
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9695,
+      "box": [
+        126,
+        339,
+        510,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, TruePath Nursing, 2017.03–2019.06",
+      "score": 0.9852,
+      "box": [
+        115,
+        381,
+        639,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.9941,
+      "box": [
+        125,
+        406,
+        473,
+        431
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.9898,
+      "box": [
+        126,
+        430,
+        418,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Allied Health, Summit University, 2011",
+      "score": 0.9515,
+      "box": [
+        115,
+        541,
+        561,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Patient Care, Westview University, 2009",
+      "score": 0.9748,
+      "box": [
+        114,
+        565,
+        599,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of telemetry basics",
+      "score": 0.9924,
+      "box": [
+        133,
+        591,
+        493,
+        614
+      ]
+    },
+    {
+      "text": "• Completed coursework in palliative care basics",
+      "score": 0.9791,
+      "box": [
+        134,
+        616,
+        582,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "CRYSTAL ROBERTSON\nAL, USA|+1-932-763-6919|crystal.robertson@example.com\nWORK HISTORY\nRegistered Nurses, Caring Path Nursing, 2020.10–2023.01\n- Developed patient care algorithms\n- Directed nursing process improvements\nRegistered Nurses, TruePath Nursing, 2017.03–2019.06\n- Assisted with respiratory treatments\n- Provided post-procedure care\nEDUCATION\nMaster's, Allied Health, Summit University, 2011\nBachelor's, Patient Care, Westview University, 2009\n• Studied principles of telemetry basics\n• Completed coursework in palliative care basics"
+}

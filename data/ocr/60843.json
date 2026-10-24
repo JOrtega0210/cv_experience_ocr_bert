@@ -1,0 +1,187 @@
+{
+  "id": "60843",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.816,
+  "n_lines": 13,
+  "mean_score": 0.9811,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAMIE FLOWERS",
+      "score": 0.9917,
+      "box": [
+        116,
+        90,
+        397,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-614-457-7488|jamie.flowers@example.com",
+      "score": 0.9877,
+      "box": [
+        115,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9893,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Software Developers, Corecrest Labs, 2020.12–2023.01",
+      "score": 0.9877,
+      "box": [
+        114,
+        288,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9739,
+      "box": [
+        126,
+        315,
+        515,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9778,
+      "box": [
+        126,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Digital, 2017.05–2019.06",
+      "score": 0.9893,
+      "box": [
+        115,
+        381,
+        650,
+        406
+      ]
+    },
+    {
+      "text": "- Wrote command-line tools",
+      "score": 0.9613,
+      "box": [
+        126,
+        406,
+        385,
+        428
+      ]
+    },
+    {
+      "text": "- Reviewed API documentation",
+      "score": 0.9649,
+      "box": [
+        126,
+        432,
+        416,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearwood University, 2007",
+      "score": 0.9911,
+      "box": [
+        115,
+        540,
+        481,
+        563
+      ]
+    },
+    {
+      "text": "• Completed coursework in cloud computing basics",
+      "score": 0.9812,
+      "box": [
+        133,
+        564,
+        606,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of software testing",
+      "score": 0.9604,
+      "box": [
+        132,
+        590,
+        525,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JAMIE FLOWERS\nWI, USA|+1-614-457-7488|jamie.flowers@example.com\nWORK HISTORY\nSoftware Developers, Corecrest Labs, 2020.12–2023.01\n- Implemented access control frameworks\n- Implemented security architectures\nSoftware Developers, Codepath Digital, 2017.05–2019.06\n- Wrote command-line tools\n- Reviewed API documentation\nEDUCATION\nBachelor's, Clearwood University, 2007\n• Completed coursework in cloud computing basics\n• Studied fundamentals of software testing"
+}

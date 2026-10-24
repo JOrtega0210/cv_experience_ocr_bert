@@ -1,0 +1,200 @@
+{
+  "id": "58107",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.851,
+  "n_lines": 14,
+  "mean_score": 0.9844,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DEANNAHEBERT",
+      "score": 0.9994,
+      "box": [
+        116,
+        90,
+        409,
+        120
+      ]
+    },
+    {
+      "text": "WA, USA|+1-952-349-9222 |deanna.hebert@example.com",
+      "score": 0.9768,
+      "box": [
+        114,
+        150,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9765,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Field School, 2021.02–2023.01",
+      "score": 0.9877,
+      "box": [
+        115,
+        290,
+        838,
+        313
+      ]
+    },
+    {
+      "text": "- Developed system-wide assessment tools",
+      "score": 0.9734,
+      "box": [
+        126,
+        315,
+        531,
+        338
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.9937,
+      "box": [
+        127,
+        340,
+        534,
+        362
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Door School, 2019.02–2021.02",
+      "score": 0.9789,
+      "box": [
+        116,
+        382,
+        809,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained classroom attendance and grading records",
+      "score": 0.9837,
+      "box": [
+        125,
+        406,
+        645,
+        431
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.9843,
+      "box": [
+        127,
+        432,
+        443,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Learning Skills, Greenwood Ridge University, 2017",
+      "score": 0.9611,
+      "box": [
+        115,
+        541,
+        678,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Community Education, Clearway University, 2015",
+      "score": 0.9865,
+      "box": [
+        115,
+        566,
+        684,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom organization",
+      "score": 0.9914,
+      "box": [
+        133,
+        590,
+        604,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of student assessment",
+      "score": 0.9901,
+      "box": [
+        133,
+        615,
+        529,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "DEANNAHEBERT\nWA, USA|+1-952-349-9222 |deanna.hebert@example.com\nWORK HISTORY\nElementary Middle School Teachers, Learning Field School, 2021.02–2023.01\n- Developed system-wide assessment tools\n- Established learning outcome benchmarks\nElementary Middle School Teachers, Open Door School, 2019.02–2021.02\n- Maintained classroom attendance and grading records\n- Scheduled instructional activities\nEDUCATION\nMaster's, Learning Skills, Greenwood Ridge University, 2017\nBachelor's, Community Education, Clearway University, 2015\n• Completed coursework in classroom organization\n• Studied principles of student assessment"
+}

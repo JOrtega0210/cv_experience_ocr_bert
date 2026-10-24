@@ -1,0 +1,226 @@
+{
+  "id": "22532",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.884,
+  "n_lines": 16,
+  "mean_score": 0.98,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BOBBY BURGESS",
+      "score": 0.9842,
+      "box": [
+        116,
+        90,
+        414,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA|+1-621-703-8812 |bobby.burgess@example.com",
+      "score": 0.9851,
+      "box": [
+        115,
+        150,
+        677,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidTrack Construction, 2019.11–2023.01",
+      "score": 0.9836,
+      "box": [
+        115,
+        290,
+        728,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9705,
+      "box": [
+        125,
+        314,
+        476,
+        337
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9745,
+      "box": [
+        127,
+        340,
+        467,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronStone Builders, 2016.09–2019.11",
+      "score": 0.9848,
+      "box": [
+        116,
+        382,
+        679,
+        405
+      ]
+    },
+    {
+      "text": "- Coordinated task assignments",
+      "score": 0.9791,
+      "box": [
+        125,
+        406,
+        423,
+        431
+      ]
+    },
+    {
+      "text": "- Laid flooring materials",
+      "score": 0.9549,
+      "box": [
+        126,
+        430,
+        347,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Build Group, 2011.04–2014.07",
+      "score": 0.9855,
+      "box": [
+        115,
+        472,
+        689,
+        496
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.9778,
+      "box": [
+        125,
+        496,
+        503,
+        521
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9739,
+      "box": [
+        126,
+        522,
+        367,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Quality Control, Willowstone University, 205",
+      "score": 0.9631,
+      "box": [
+        115,
+        631,
+        909,
+        656
+      ]
+    },
+    {
+      "text": "•Completed coursework in construction safety documentation",
+      "score": 0.9826,
+      "box": [
+        132,
+        656,
+        706,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site documentation",
+      "score": 0.9964,
+      "box": [
+        134,
+        682,
+        588,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "BOBBY BURGESS\nKY, USA|+1-621-703-8812 |bobby.burgess@example.com\nWORK HISTORY\nConstruction Laborers, SolidTrack Construction, 2019.11–2023.01\n- Reviewed material quality standards\n- Directed site optimization initiatives\nConstruction Laborers, IronStone Builders, 2016.09–2019.11\n- Coordinated task assignments\n- Laid flooring materials\nConstruction Laborers, Unified Build Group, 2011.04–2014.07\n- Handled power tools under supervision\n- Installed basic formwork\nEDUCATION\nSome college (no degree), Construction Quality Control, Willowstone University, 205\n•Completed coursework in construction safety documentation\n• Studied fundamentals of job site documentation"
+}

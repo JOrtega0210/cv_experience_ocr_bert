@@ -1,0 +1,226 @@
+{
+  "id": "01911",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.988,
+  "n_lines": 16,
+  "mean_score": 0.9797,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JENNIFER SCHNEIDER",
+      "score": 0.9793,
+      "box": [
+        116,
+        90,
+        488,
+        120
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-255-206-8786 |jennifer.schneider@example.com",
+      "score": 0.9862,
+      "box": [
+        116,
+        151,
+        703,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9797,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeBridge Health Group, 2020.08–2023.01",
+      "score": 0.9773,
+      "box": [
+        115,
+        289,
+        707,
+        314
+      ]
+    },
+    {
+      "text": "- Directed patient care coordination",
+      "score": 0.9843,
+      "box": [
+        127,
+        315,
+        454,
+        338
+      ]
+    },
+    {
+      "text": "- Directed clinical quality improvement initiatives",
+      "score": 0.954,
+      "box": [
+        126,
+        338,
+        573,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Care Services, 2017.07–2019.12",
+      "score": 0.9878,
+      "box": [
+        115,
+        381,
+        729,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted post-operative assessments",
+      "score": 0.9734,
+      "box": [
+        126,
+        406,
+        509,
+        431
+      ]
+    },
+    {
+      "text": "- Provided rehabilitation nursing care",
+      "score": 0.991,
+      "box": [
+        126,
+        429,
+        469,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearSpring Health Group, 2014.07–2017.01",
+      "score": 0.9868,
+      "box": [
+        116,
+        473,
+        714,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9895,
+      "box": [
+        125,
+        496,
+        514,
+        522
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9414,
+      "box": [
+        126,
+        521,
+        372,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Care Studies, Greenridge University, 2002",
+      "score": 0.9814,
+      "box": [
+        114,
+        631,
+        763,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient care",
+      "score": 0.9875,
+      "box": [
+        132,
+        656,
+        489,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of skin integrity maintenance",
+      "score": 0.9771,
+      "box": [
+        133,
+        681,
+        621,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JENNIFER SCHNEIDER\nAZ, USA|+1-255-206-8786 |jennifer.schneider@example.com\nWORK HISTORY\nRegistered Nurses, SafeBridge Health Group, 2020.08–2023.01\n- Directed patient care coordination\n- Directed clinical quality improvement initiatives\nRegistered Nurses, Compassion Care Services, 2017.07–2019.12\n- Conducted post-operative assessments\n- Provided rehabilitation nursing care\nRegistered Nurses, ClearSpring Health Group, 2014.07–2017.01\n- Assisted with physical therapy exercises\n- Prepared sterile supplies\nEDUCATION\nAssociate's degree, Health Care Studies, Greenridge University, 2002\n• Studied fundamentals of patient care\n• Studied fundamentals of skin integrity maintenance"
+}

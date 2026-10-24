@@ -1,0 +1,226 @@
+{
+  "id": "45010",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.834,
+  "n_lines": 16,
+  "mean_score": 0.983,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TRAVIS SHAW",
+      "score": 0.9757,
+      "box": [
+        113,
+        88,
+        354,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA|+1-787-295-3499|travis.shaw@example.com",
+      "score": 0.9914,
+      "box": [
+        115,
+        150,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Advisors, 2020.10–2023.01",
+      "score": 0.9893,
+      "box": [
+        115,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Directed accounting leadership initiatives",
+      "score": 0.9758,
+      "box": [
+        127,
+        315,
+        520,
+        338
+      ]
+    },
+    {
+      "text": "- Led internal audit functions",
+      "score": 0.9688,
+      "box": [
+        127,
+        338,
+        392,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Services, 2018.06–2020.10",
+      "score": 0.9942,
+      "box": [
+        115,
+        382,
+        708,
+        405
+      ]
+    },
+    {
+      "text": "- Conducted account reconciliations",
+      "score": 0.9858,
+      "box": [
+        126,
+        407,
+        460,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared consolidation entries",
+      "score": 0.9762,
+      "box": [
+        126,
+        432,
+        424,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Services, 2016.02–2018.06",
+      "score": 0.9907,
+      "box": [
+        115,
+        472,
+        685,
+        495
+      ]
+    },
+    {
+      "text": "- Prepared expense reports",
+      "score": 0.98,
+      "box": [
+        125,
+        497,
+        384,
+        522
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9892,
+      "box": [
+        126,
+        521,
+        382,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Supply Chain Management, Elmwood University, 2014",
+      "score": 0.9772,
+      "box": [
+        114,
+        631,
+        731,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of sustainability accounting basics",
+      "score": 0.9722,
+      "box": [
+        132,
+        656,
+        670,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of quality control in auditing",
+      "score": 0.977,
+      "box": [
+        134,
+        681,
+        571,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "TRAVIS SHAW\nPA, USA|+1-787-295-3499|travis.shaw@example.com\nWORK HISTORY\nAccountants Auditors, SolidBooks Advisors, 2020.10–2023.01\n- Directed accounting leadership initiatives\n- Led internal audit functions\nAccountants Auditors, SolidBalance Services, 2018.06–2020.10\n- Conducted account reconciliations\n- Prepared consolidation entries\nAccountants Auditors, EverCount Services, 2016.02–2018.06\n- Prepared expense reports\n- Reviewed ledger postings\nEDUCATION\nBachelor's, Supply Chain Management, Elmwood University, 2014\n• Studied fundamentals of sustainability accounting basics\n• Studied principles of quality control in auditing"
+}

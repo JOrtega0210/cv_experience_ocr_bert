@@ -1,0 +1,58 @@
+{
+  "n_cvs": 4000,
+  "cer": {
+    "mean": 0.0009,
+    "median": 0.0,
+    "p90": 0.0027,
+    "max": 0.0139
+  },
+  "wer": {
+    "mean": 0.0109,
+    "median": 0.0,
+    "p90": 0.0357,
+    "max": 0.1552
+  },
+  "year_recall_micro": 0.9794,
+  "date_recall_mean": 0.9827,
+  "share_cvs_all_years_ok": 0.8812,
+  "n_year_errors": 502,
+  "corr_confidence_vs_cer": 0.0143,
+  "model_comparison": [
+    {
+      "setup": "ocr_mobile_sample",
+      "rec_model": "PP-OCRv5_mobile_rec",
+      "det_model": "PP-OCRv5_mobile_det",
+      "n": 50,
+      "year_recall_micro": 1.0,
+      "date_recall_mean": 1.0,
+      "share_cvs_all_years_ok": 1.0,
+      "seconds_per_cv_gpu": 0.325,
+      "cer.mean": 0.0002,
+      "cer.median": 0.0,
+      "cer.p90": 0.0,
+      "cer.max": 0.0025,
+      "wer.mean": 0.0023,
+      "wer.median": 0.0,
+      "wer.p90": 0.0,
+      "wer.max": 0.04
+    },
+    {
+      "setup": "ocr_server_sample",
+      "rec_model": "PP-OCRv5_server_rec",
+      "det_model": "PP-OCRv5_server_det",
+      "n": 50,
+      "year_recall_micro": 0.9859,
+      "date_recall_mean": 0.9858,
+      "share_cvs_all_years_ok": 0.92,
+      "seconds_per_cv_gpu": 0.817,
+      "cer.mean": 0.0011,
+      "cer.median": 0.0,
+      "cer.p90": 0.0029,
+      "cer.max": 0.0079,
+      "wer.mean": 0.0127,
+      "wer.median": 0.0,
+      "wer.p90": 0.0382,
+      "wer.max": 0.0638
+    }
+  ]
+}

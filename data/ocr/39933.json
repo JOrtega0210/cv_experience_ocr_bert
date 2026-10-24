@@ -1,0 +1,161 @@
+{
+  "id": "39933",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.798,
+  "n_lines": 11,
+  "mean_score": 0.9795,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "OSKAR HULL",
+      "score": 0.9751,
+      "box": [
+        115,
+        88,
+        338,
+        122
+      ]
+    },
+    {
+      "text": "NC, USA|+1-481-294-5200|oskar.hull@example.com",
+      "score": 0.9773,
+      "box": [
+        115,
+        150,
+        631,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Co., 2020.06–2023.01",
+      "score": 0.9886,
+      "box": [
+        115,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9673,
+      "box": [
+        126,
+        315,
+        490,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with internal control testing",
+      "score": 0.9691,
+      "box": [
+        126,
+        339,
+        473,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Investment Management, Silver Ridge University, 2022",
+      "score": 0.9855,
+      "box": [
+        115,
+        449,
+        716,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Auditing, Maple Ridge University, 2020",
+      "score": 0.9534,
+      "box": [
+        114,
+        472,
+        586,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in expense allocation",
+      "score": 0.9972,
+      "box": [
+        134,
+        499,
+        563,
+        522
+      ]
+    },
+    {
+      "text": "• Completed coursework in cost accounting",
+      "score": 0.9796,
+      "box": [
+        134,
+        523,
+        534,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "OSKAR HULL\nNC, USA|+1-481-294-5200|oskar.hull@example.com\nWORK HISTORY\nAccountants Auditors, Balanced Books Co., 2020.06–2023.01\n- Processed accounts payable invoices\n- Assisted with internal control testing\nEDUCATION\nMaster's, Investment Management, Silver Ridge University, 2022\nBachelor's, Auditing, Maple Ridge University, 2020\n• Completed coursework in expense allocation\n• Completed coursework in cost accounting"
+}

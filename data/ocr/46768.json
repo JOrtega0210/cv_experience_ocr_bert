@@ -1,0 +1,187 @@
+{
+  "id": "46768",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.807,
+  "n_lines": 13,
+  "mean_score": 0.9852,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HENRY KRAMER",
+      "score": 0.9937,
+      "box": [
+        116,
+        90,
+        390,
+        120
+      ]
+    },
+    {
+      "text": "PA, USA|+1-437-317-3250 |henry.kramer@example.com",
+      "score": 0.9793,
+      "box": [
+        115,
+        150,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.989,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Life Medical, 2020.09–2022.07",
+      "score": 0.9725,
+      "box": [
+        116,
+        290,
+        709,
+        313
+      ]
+    },
+    {
+      "text": "- Managed clinical workflow redesign",
+      "score": 0.9801,
+      "box": [
+        126,
+        314,
+        470,
+        339
+      ]
+    },
+    {
+      "text": "- Led patient experience improvement programs",
+      "score": 0.987,
+      "box": [
+        126,
+        339,
+        574,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellWay Medical Group, 2018.01–2019.12",
+      "score": 0.9595,
+      "box": [
+        115,
+        381,
+        699,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared medication trays",
+      "score": 0.9847,
+      "box": [
+        125,
+        406,
+        387,
+        431
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.9859,
+      "box": [
+        125,
+        431,
+        453,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Management, Summit University, 2002",
+      "score": 0.9925,
+      "box": [
+        115,
+        541,
+        702,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient monitoring technologies",
+      "score": 0.9912,
+      "box": [
+        133,
+        565,
+        678,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of interdisciplinary care",
+      "score": 0.994,
+      "box": [
+        132,
+        590,
+        570,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "HENRY KRAMER\nPA, USA|+1-437-317-3250 |henry.kramer@example.com\nWORK HISTORY\nRegistered Nurses, Compassion Life Medical, 2020.09–2022.07\n- Managed clinical workflow redesign\n- Led patient experience improvement programs\nRegistered Nurses, WellWay Medical Group, 2018.01–2019.12\n- Prepared medication trays\n- Documented patient observations\nEDUCATION\nBachelor's, Health Care Management, Summit University, 2002\n• Completed coursework in patient monitoring technologies\n• Studied fundamentals of interdisciplinary care"
+}

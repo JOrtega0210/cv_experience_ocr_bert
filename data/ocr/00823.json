@@ -1,0 +1,187 @@
+{
+  "id": "00823",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.0,
+  "n_lines": 13,
+  "mean_score": 0.9832,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOHN EDWARDS",
+      "score": 0.9787,
+      "box": [
+        116,
+        90,
+        393,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA |+1-722-274-6375 |john.edwards@example.com",
+      "score": 0.9718,
+      "box": [
+        116,
+        151,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9773,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Stars Academy, 2019.05–221.04",
+      "score": 0.9827,
+      "box": [
+        114,
+        289,
+        863,
+        314
+      ]
+    },
+    {
+      "text": "- Designed instructional accountability systems",
+      "score": 0.9833,
+      "box": [
+        125,
+        314,
+        563,
+        339
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.9886,
+      "box": [
+        126,
+        339,
+        504,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Field School, 2016.04–2018.03",
+      "score": 0.9945,
+      "box": [
+        115,
+        381,
+        839,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed homework assignments",
+      "score": 0.9884,
+      "box": [
+        125,
+        406,
+        459,
+        431
+      ]
+    },
+    {
+      "text": "- Updated student performance logs",
+      "score": 0.9867,
+      "box": [
+        126,
+        431,
+        462,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Studies, Harborview University, 2011",
+      "score": 0.9666,
+      "box": [
+        114,
+        539,
+        665,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of student assessment",
+      "score": 0.985,
+      "box": [
+        133,
+        566,
+        529,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of educational goal setting",
+      "score": 0.9797,
+      "box": [
+        133,
+        591,
+        598,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JOHN EDWARDS\nAL, USA |+1-722-274-6375 |john.edwards@example.com\nWORK HISTORY\nElementary Middle School Teachers, Growing Stars Academy, 2019.05–221.04\n- Designed instructional accountability systems\n- Designed systemic intervention models\nElementary Middle School Teachers, Learning Field School, 2016.04–2018.03\n- Reviewed homework assignments\n- Updated student performance logs\nEDUCATION\nBachelor's, Education Studies, Harborview University, 2011\n• Studied principles of student assessment\n• Studied fundamentals of educational goal setting"
+}

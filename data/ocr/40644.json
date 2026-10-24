@@ -1,0 +1,161 @@
+{
+  "id": "40644",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.813,
+  "n_lines": 11,
+  "mean_score": 0.9832,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TYLER OLSEN",
+      "score": 0.9557,
+      "box": [
+        115,
+        90,
+        353,
+        121
+      ]
+    },
+    {
+      "text": "NC, USA|+1-368-743-4320|tyler.olsen@example.com",
+      "score": 0.9759,
+      "box": [
+        115,
+        150,
+        637,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9817,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Services, 2020.04–2023.01",
+      "score": 0.9956,
+      "box": [
+        115,
+        290,
+        711,
+        313
+      ]
+    },
+    {
+      "text": "-Reviewed vendor payments",
+      "score": 0.981,
+      "box": [
+        125,
+        314,
+        400,
+        339
+      ]
+    },
+    {
+      "text": "- Recorded payroll entries",
+      "score": 0.9791,
+      "box": [
+        128,
+        341,
+        368,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Quantitative Finance, Parkview University, 2023",
+      "score": 0.9939,
+      "box": [
+        115,
+        449,
+        650,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Studies, Bayside University, 2021",
+      "score": 0.9797,
+      "box": [
+        114,
+        472,
+        625,
+        496
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of governmental auditing",
+      "score": 0.9862,
+      "box": [
+        134,
+        499,
+        584,
+        522
+      ]
+    },
+    {
+      "text": "• Completed coursework in business mathematics",
+      "score": 0.9883,
+      "box": [
+        136,
+        525,
+        595,
+        545
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "TYLER OLSEN\nNC, USA|+1-368-743-4320|tyler.olsen@example.com\nWORK HISTORY\nAccountants Auditors, OpenBalance Services, 2020.04–2023.01\n-Reviewed vendor payments\n- Recorded payroll entries\nEDUCATION\nMaster's, Quantitative Finance, Parkview University, 2023\nBachelor's, Business Studies, Bayside University, 2021\n• Studied fundamentals of governmental auditing\n• Completed coursework in business mathematics"
+}

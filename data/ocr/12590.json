@@ -1,0 +1,174 @@
+{
+  "id": "12590",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.999,
+  "n_lines": 12,
+  "mean_score": 0.9823,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SANDON HERMAN",
+      "score": 0.9618,
+      "box": [
+        115,
+        90,
+        419,
+        120
+      ]
+    },
+    {
+      "text": "FL, USA|+1-254-432-2136 |sandon.herman@example.com",
+      "score": 0.9834,
+      "box": [
+        116,
+        152,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9766,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueFrame Construction, 2020.04–2023.01",
+      "score": 0.9872,
+      "box": [
+        115,
+        290,
+        733,
+        313
+      ]
+    },
+    {
+      "text": "- Established material procurement strategies",
+      "score": 0.974,
+      "box": [
+        125,
+        313,
+        549,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented quality control systems",
+      "score": 0.9844,
+      "box": [
+        126,
+        339,
+        480,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftLine Builders, 2015.12–2018.10",
+      "score": 0.9785,
+      "box": [
+        115,
+        381,
+        674,
+        405
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9906,
+      "box": [
+        125,
+        406,
+        541,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with drywall installation",
+      "score": 0.9803,
+      "box": [
+        126,
+        431,
+        440,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Foundations, Stone Valley High School, 2007",
+      "score": 0.9831,
+      "box": [
+        116,
+        541,
+        920,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic structural demolition",
+      "score": 0.9901,
+      "box": [
+        134,
+        567,
+        630,
+        587
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "SANDON HERMAN\nFL, USA|+1-254-432-2136 |sandon.herman@example.com\nWORK HISTORY\nConstruction Laborers, TrueFrame Construction, 2020.04–2023.01\n- Established material procurement strategies\n- Implemented quality control systems\nConstruction Laborers, CraftLine Builders, 2015.12–2018.10\n- Carried materials to designated work areas\n- Assisted with drywall installation\nEDUCATION\nHigh school graduate/GED, Construction Foundations, Stone Valley High School, 2007\n• Completed coursework in basic structural demolition"
+}

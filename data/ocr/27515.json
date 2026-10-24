@@ -1,0 +1,187 @@
+{
+  "id": "27515",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.858,
+  "n_lines": 13,
+  "mean_score": 0.9842,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RASHARD SIMPSON",
+      "score": 0.9806,
+      "box": [
+        116,
+        90,
+        447,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-437-901-3826|rashard.simpson@example.com",
+      "score": 0.9896,
+      "box": [
+        116,
+        152,
+        690,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9785,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Morning Star School, 2020.05–2023.01",
+      "score": 0.9892,
+      "box": [
+        115,
+        289,
+        825,
+        314
+      ]
+    },
+    {
+      "text": "- Established academic quality controls",
+      "score": 0.9792,
+      "box": [
+        125,
+        313,
+        490,
+        339
+      ]
+    },
+    {
+      "text": "- Designed learning analytics frameworks",
+      "score": 0.9885,
+      "box": [
+        126,
+        339,
+        511,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Star Academy, 2017.08–2020.05",
+      "score": 0.9857,
+      "box": [
+        115,
+        381,
+        855,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed homework assignments",
+      "score": 0.9871,
+      "box": [
+        125,
+        406,
+        459,
+        431
+      ]
+    },
+    {
+      "text": "- Recorded student progress data",
+      "score": 0.9812,
+      "box": [
+        125,
+        431,
+        442,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Services, Brighton University, 2017",
+      "score": 0.9689,
+      "box": [
+        114,
+        539,
+        649,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic teaching ethics",
+      "score": 0.9875,
+      "box": [
+        134,
+        566,
+        583,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic content planning",
+      "score": 0.981,
+      "box": [
+        134,
+        590,
+        636,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "RASHARD SIMPSON\nMI, USA|+1-437-901-3826|rashard.simpson@example.com\nWORK HISTORY\nElementary Middle School Teachers, Morning Star School, 2020.05–2023.01\n- Established academic quality controls\n- Designed learning analytics frameworks\nElementary Middle School Teachers, Learning Star Academy, 2017.08–2020.05\n- Reviewed homework assignments\n- Recorded student progress data\nEDUCATION\nBachelor's, Education Services, Brighton University, 2017\n• Completed coursework in basic teaching ethics\n• Completed coursework in academic content planning"
+}

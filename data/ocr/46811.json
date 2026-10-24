@@ -1,0 +1,187 @@
+{
+  "id": "46811",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.806,
+  "n_lines": 13,
+  "mean_score": 0.981,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SHANIQWA PROCTOR",
+      "score": 0.9686,
+      "box": [
+        116,
+        90,
+        478,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-359-868-9368|shaniqwa.proctor@example.com",
+      "score": 0.982,
+      "box": [
+        115,
+        150,
+        699,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9802,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Nursing Group, 2020.11–2023.01",
+      "score": 0.9909,
+      "box": [
+        115,
+        289,
+        700,
+        314
+      ]
+    },
+    {
+      "text": "- Led patient experience improvement programs",
+      "score": 0.984,
+      "box": [
+        126,
+        314,
+        574,
+        340
+      ]
+    },
+    {
+      "text": "- Managed clinical resource planning",
+      "score": 0.9831,
+      "box": [
+        126,
+        339,
+        468,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Life Nursing, 2016.04–2018.07",
+      "score": 0.9667,
+      "box": [
+        115,
+        381,
+        664,
+        406
+      ]
+    },
+    {
+      "text": "- Updated patient medical records",
+      "score": 0.9632,
+      "box": [
+        127,
+        408,
+        443,
+        431
+      ]
+    },
+    {
+      "text": "- Performed blood glucose testing",
+      "score": 0.9877,
+      "box": [
+        125,
+        431,
+        442,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Support Services, Brookfield University, 2013",
+      "score": 0.988,
+      "box": [
+        115,
+        540,
+        790,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in laboratory values interpretation",
+      "score": 0.9698,
+      "box": [
+        132,
+        565,
+        675,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in first aid principles",
+      "score": 0.9901,
+      "box": [
+        133,
+        590,
+        551,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "SHANIQWA PROCTOR\nPA, USA|+1-359-868-9368|shaniqwa.proctor@example.com\nWORK HISTORY\nRegistered Nurses, Harmony Nursing Group, 2020.11–2023.01\n- Led patient experience improvement programs\n- Managed clinical resource planning\nRegistered Nurses, Helping Life Nursing, 2016.04–2018.07\n- Updated patient medical records\n- Performed blood glucose testing\nEDUCATION\nAssociate's degree, Health Support Services, Brookfield University, 2013\n• Completed coursework in laboratory values interpretation\n• Completed coursework in first aid principles"
+}

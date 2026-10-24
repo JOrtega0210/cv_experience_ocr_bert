@@ -1,0 +1,135 @@
+{
+  "id": "12746",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.856,
+  "n_lines": 9,
+  "mean_score": 0.9803,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "FREDERICK FRENCH",
+      "score": 0.9816,
+      "box": [
+        116,
+        90,
+        461,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-451-791-2440 |frederick.french@example.com",
+      "score": 0.9751,
+      "box": [
+        116,
+        151,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9806,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeLine Construction, 2021.10–2023.01",
+      "score": 0.993,
+      "box": [
+        116,
+        291,
+        723,
+        311
+      ]
+    },
+    {
+      "text": "- Transported waste materials",
+      "score": 0.9919,
+      "box": [
+        126,
+        315,
+        407,
+        338
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9327,
+      "box": [
+        126,
+        338,
+        332,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Plumbing Technology, Elm Ridge High School, 2021",
+      "score": 0.9822,
+      "box": [
+        116,
+        449,
+        860,
+        473
+      ]
+    },
+    {
+      "text": "• Completed coursework in building codes overview",
+      "score": 0.9876,
+      "box": [
+        133,
+        474,
+        612,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "FREDERICK FRENCH\nFL, USA|+1-451-791-2440 |frederick.french@example.com\nWORK HISTORY\nConstruction Laborers, PrimeLine Construction, 2021.10–2023.01\n- Transported waste materials\n- Secured site fencing\nEDUCATION\nHigh school graduate/GED, Plumbing Technology, Elm Ridge High School, 2021\n• Completed coursework in building codes overview"
+}

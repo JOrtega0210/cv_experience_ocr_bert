@@ -1,0 +1,265 @@
+{
+  "id": "35829",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.909,
+  "n_lines": 19,
+  "mean_score": 0.983,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BOBBIE GARRETT",
+      "score": 0.9723,
+      "box": [
+        116,
+        90,
+        419,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-542-721-4293|bobbie.garrett@example.com",
+      "score": 0.9898,
+      "box": [
+        115,
+        150,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Financial Group, 2020.03–2023.01",
+      "score": 0.9786,
+      "box": [
+        114,
+        289,
+        782,
+        314
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.9705,
+      "box": [
+        125,
+        314,
+        486,
+        339
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9589,
+      "box": [
+        126,
+        338,
+        323,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Advisors, 2017.05–2020.03",
+      "score": 0.9803,
+      "box": [
+        114,
+        380,
+        711,
+        406
+      ]
+    },
+    {
+      "text": "-Led internal audit functions",
+      "score": 0.9896,
+      "box": [
+        126,
+        406,
+        392,
+        429
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9781,
+      "box": [
+        125,
+        429,
+        494,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Services, 2014.06–2017.05",
+      "score": 0.9832,
+      "box": [
+        114,
+        471,
+        696,
+        496
+      ]
+    },
+    {
+      "text": "- Analyzed financial trends",
+      "score": 0.9968,
+      "box": [
+        127,
+        499,
+        374,
+        519
+      ]
+    },
+    {
+      "text": "- Reviewed expense allocations",
+      "score": 0.992,
+      "box": [
+        126,
+        521,
+        423,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2011.07–2014.06",
+      "score": 0.9813,
+      "box": [
+        115,
+        565,
+        715,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9803,
+      "box": [
+        126,
+        590,
+        456,
+        614
+      ]
+    },
+    {
+      "text": "- Compiled financial schedules",
+      "score": 0.9835,
+      "box": [
+        127,
+        615,
+        413,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Economic Studies, Ridgeway University, 2012",
+      "score": 0.9739,
+      "box": [
+        114,
+        723,
+        652,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in fraud examination basics",
+      "score": 0.9918,
+      "box": [
+        133,
+        748,
+        620,
+        771
+      ]
+    },
+    {
+      "text": "• Completed coursework in contribution margin analysis",
+      "score": 0.9911,
+      "box": [
+        135,
+        774,
+        648,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "BOBBIE GARRETT\nNY, USA|+1-542-721-4293|bobbie.garrett@example.com\nWORK HISTORY\nAccountants Auditors, SteadyLedger Financial Group, 2020.03–2023.01\n- Designed financial oversight systems\n- Led audit programs\nAccountants Auditors, ClearBalance Advisors, 2017.05–2020.03\n-Led internal audit functions\n- Established financial data governance\nAccountants Auditors, CoreLedger Services, 2014.06–2017.05\n- Analyzed financial trends\n- Reviewed expense allocations\nAccountants Auditors, Balanced Books Group, 2011.07–2014.06\n- Assisted with tax form preparation\n- Compiled financial schedules\nEDUCATION\nBachelor's, Economic Studies, Ridgeway University, 2012\n• Completed coursework in fraud examination basics\n• Completed coursework in contribution margin analysis"
+}

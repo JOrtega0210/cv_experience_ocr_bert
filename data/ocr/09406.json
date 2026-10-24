@@ -1,0 +1,278 @@
+{
+  "id": "09406",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.977,
+  "n_lines": 20,
+  "mean_score": 0.9786,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CHRISTOPHERNGUYEN",
+      "score": 0.9994,
+      "box": [
+        117,
+        90,
+        511,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA|+1-419-544-5747 |christopher.nguyen@example.com",
+      "score": 0.9789,
+      "box": [
+        117,
+        152,
+        719,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9823,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Netcore Labs, 2020.02–2023.01",
+      "score": 0.9916,
+      "box": [
+        115,
+        289,
+        620,
+        312
+      ]
+    },
+    {
+      "text": "- Led cross-team technical alignment",
+      "score": 0.9579,
+      "box": [
+        125,
+        313,
+        471,
+        339
+      ]
+    },
+    {
+      "text": "- Built fault-tolerant systems",
+      "score": 0.9709,
+      "box": [
+        126,
+        338,
+        388,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Flowcrest Tech, 2017.02–2020.02",
+      "score": 0.9853,
+      "box": [
+        116,
+        382,
+        638,
+        406
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9765,
+      "box": [
+        126,
+        407,
+        400,
+        430
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9932,
+      "box": [
+        126,
+        431,
+        450,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Softpeak Technologies, 2014.02–2017.02",
+      "score": 0.9913,
+      "box": [
+        115,
+        471,
+        709,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed pull requests",
+      "score": 0.9767,
+      "box": [
+        125,
+        496,
+        359,
+        521
+      ]
+    },
+    {
+      "text": "- Improved system reliability",
+      "score": 0.9627,
+      "box": [
+        126,
+        521,
+        388,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Tech, 2011.02–2014.02",
+      "score": 0.9665,
+      "box": [
+        114,
+        563,
+        644,
+        588
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9602,
+      "box": [
+        126,
+        589,
+        447,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9716,
+      "box": [
+        127,
+        615,
+        478,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Plainview University, 2010",
+      "score": 0.975,
+      "box": [
+        115,
+        724,
+        451,
+        746
+      ]
+    },
+    {
+      "text": "Bachelor's, Golden Hills University, 2008",
+      "score": 0.9701,
+      "box": [
+        114,
+        747,
+        494,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of software reliability",
+      "score": 0.9804,
+      "box": [
+        132,
+        773,
+        506,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in layered architecture",
+      "score": 0.9835,
+      "box": [
+        133,
+        799,
+        573,
+        822
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "CHRISTOPHERNGUYEN\nCA, USA|+1-419-544-5747 |christopher.nguyen@example.com\nWORK HISTORY\nSoftware Developers, Netcore Labs, 2020.02–2023.01\n- Led cross-team technical alignment\n- Built fault-tolerant systems\nSoftware Developers, Flowcrest Tech, 2017.02–2020.02\n- Led database design efforts\n- Defined data governance policies\nSoftware Developers, Softpeak Technologies, 2014.02–2017.02\n- Reviewed pull requests\n- Improved system reliability\nSoftware Developers, Codecrest Tech, 2011.02–2014.02\n- Implemented error handling logic\n- Assisted with system documentation\nEDUCATION\nMaster's, Plainview University, 2010\nBachelor's, Golden Hills University, 2008\n• Studied principles of software reliability\n• Completed coursework in layered architecture"
+}

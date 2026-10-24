@@ -1,0 +1,213 @@
+{
+  "id": "42809",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.895,
+  "n_lines": 15,
+  "mean_score": 0.984,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRENDAN ARCHER",
+      "score": 0.9864,
+      "box": [
+        117,
+        90,
+        437,
+        120
+      ]
+    },
+    {
+      "text": "OH, USA | +1-871-734-5237 | brendan.archer@example.com",
+      "score": 0.9718,
+      "box": [
+        117,
+        152,
+        685,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9792,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearView Construction, 2021.01–2023.01",
+      "score": 0.9904,
+      "box": [
+        115,
+        290,
+        725,
+        313
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.9873,
+      "box": [
+        125,
+        314,
+        478,
+        339
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.9801,
+      "box": [
+        127,
+        340,
+        462,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmTrack Construction, 2019.01–2021.01",
+      "score": 0.9894,
+      "box": [
+        116,
+        381,
+        723,
+        405
+      ]
+    },
+    {
+      "text": "- Laid flooring materials",
+      "score": 0.9803,
+      "box": [
+        127,
+        408,
+        346,
+        429
+      ]
+    },
+    {
+      "text": "- Operated power tools independently",
+      "score": 0.9566,
+      "box": [
+        126,
+        433,
+        476,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidRise Construction, 2016.12–2019.01",
+      "score": 0.9969,
+      "box": [
+        116,
+        472,
+        718,
+        495
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9847,
+      "box": [
+        125,
+        496,
+        492,
+        522
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9935,
+      "box": [
+        126,
+        521,
+        492,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Skills, Brookfield High School, 2015",
+      "score": 0.9734,
+      "box": [
+        115,
+        631,
+        829,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of concrete finishing",
+      "score": 0.9913,
+      "box": [
+        132,
+        656,
+        541,
+        681
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "BRENDAN ARCHER\nOH, USA | +1-871-734-5237 | brendan.archer@example.com\nWORK HISTORY\nConstruction Laborers, ClearView Construction, 2021.01–2023.01\n- Designed construction staging plans\n- Designed site logistics frameworks\nConstruction Laborers, FirmTrack Construction, 2019.01–2021.01\n- Laid flooring materials\n- Operated power tools independently\nConstruction Laborers, SolidRise Construction, 2016.12–2019.01\n- Performed basic sanding and painting\n- Assembled prefabricated components\nEDUCATION\nHigh school graduate/GED, Construction Skills, Brookfield High School, 2015\n• Studied fundamentals of concrete finishing"
+}

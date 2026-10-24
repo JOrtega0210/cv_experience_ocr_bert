@@ -1,0 +1,148 @@
+{
+  "id": "27011",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.783,
+  "n_lines": 10,
+  "mean_score": 0.9809,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SHONDA BENTLEY",
+      "score": 0.9696,
+      "box": [
+        116,
+        90,
+        429,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-323-860-8638 | shonda.bentley@example.com",
+      "score": 0.9778,
+      "box": [
+        116,
+        151,
+        677,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9729,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Horizons Academy, 2018.04–2020.",
+      "score": 0.9702,
+      "box": [
+        116,
+        290,
+        880,
+        313
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.9897,
+      "box": [
+        126,
+        314,
+        518,
+        339
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.9824,
+      "box": [
+        126,
+        339,
+        413,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        266,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, General Academic Studies, Windermere University, 23",
+      "score": 0.9729,
+      "box": [
+        114,
+        447,
+        753,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic instructional coaching",
+      "score": 0.9917,
+      "box": [
+        133,
+        474,
+        644,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of reading comprehension strategies",
+      "score": 0.984,
+      "box": [
+        133,
+        497,
+        693,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "SHONDA BENTLEY\nMI, USA|+1-323-860-8638 | shonda.bentley@example.com\nWORK HISTORY\nElementary Middle School Teachers, Harmony Horizons Academy, 2018.04–2020.\n- Supported standardized testing sessions\n- Administered learning games\nEDUCATION\nBachelor's, General Academic Studies, Windermere University, 23\n• Completed coursework in basic instructional coaching\n• Studied fundamentals of reading comprehension strategies"
+}

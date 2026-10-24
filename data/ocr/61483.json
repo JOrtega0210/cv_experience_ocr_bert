@@ -1,0 +1,187 @@
+{
+  "id": "61483",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.828,
+  "n_lines": 13,
+  "mean_score": 0.9841,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JESSICA HAMPTON",
+      "score": 0.9887,
+      "box": [
+        116,
+        90,
+        440,
+        121
+      ]
+    },
+    {
+      "text": "WY, USA|+1-500-453-5754|jessica.hampton@example.com",
+      "score": 0.9733,
+      "box": [
+        115,
+        150,
+        697,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverHands Health Services, 2020.12–2023.01",
+      "score": 0.9919,
+      "box": [
+        116,
+        290,
+        729,
+        313
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9709,
+      "box": [
+        125,
+        313,
+        472,
+        338
+      ]
+    },
+    {
+      "text": "- Designed clinical care protocols",
+      "score": 0.9833,
+      "box": [
+        127,
+        340,
+        437,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellHands Nursing Group, 2017.02–2019.04",
+      "score": 0.9705,
+      "box": [
+        115,
+        381,
+        718,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored patient skin condition",
+      "score": 0.9845,
+      "box": [
+        126,
+        407,
+        436,
+        430
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9875,
+      "box": [
+        125,
+        430,
+        417,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Education, Briarwood University, 2004",
+      "score": 0.9795,
+      "box": [
+        114,
+        539,
+        725,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of end-of-life care",
+      "score": 0.9898,
+      "box": [
+        132,
+        564,
+        519,
+        588
+      ]
+    },
+    {
+      "text": "• Completed coursework in medication administration",
+      "score": 0.995,
+      "box": [
+        134,
+        591,
+        626,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JESSICA HAMPTON\nWY, USA|+1-500-453-5754|jessica.hampton@example.com\nWORK HISTORY\nRegistered Nurses, EverHands Health Services, 2020.12–2023.01\n- Established care delivery standards\n- Designed clinical care protocols\nRegistered Nurses, WellHands Nursing Group, 2017.02–2019.04\n- Monitored patient skin condition\n- Checked medication dosages\nEDUCATION\nAssociate's degree, Health Education, Briarwood University, 2004\n• Studied fundamentals of end-of-life care\n• Completed coursework in medication administration"
+}

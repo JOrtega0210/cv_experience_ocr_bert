@@ -1,0 +1,226 @@
+{
+  "id": "44191",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.863,
+  "n_lines": 16,
+  "mean_score": 0.9808,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ROY ASHLEY",
+      "score": 0.9505,
+      "box": [
+        116,
+        90,
+        336,
+        121
+      ]
+    },
+    {
+      "text": "OR, USA|+1-868-544-1893 |roy.ashley@example.com",
+      "score": 0.9775,
+      "box": [
+        115,
+        150,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9856,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, EverBuild Co., 2020.07–2023.01",
+      "score": 0.9895,
+      "box": [
+        115,
+        290,
+        634,
+        313
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9807,
+      "box": [
+        126,
+        315,
+        467,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.9766,
+      "box": [
+        126,
+        339,
+        439,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterBuild Services, 2018.01–2020.07",
+      "score": 0.9829,
+      "box": [
+        115,
+        381,
+        705,
+        405
+      ]
+    },
+    {
+      "text": "- Constructed temporary structures",
+      "score": 0.9841,
+      "box": [
+        125,
+        406,
+        452,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared job site layouts",
+      "score": 0.9813,
+      "box": [
+        126,
+        430,
+        372,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmTrack Construction, 2015.06–2018.01",
+      "score": 0.9834,
+      "box": [
+        115,
+        472,
+        724,
+        495
+      ]
+    },
+    {
+      "text": "- Performed basic demolition tasks",
+      "score": 0.9582,
+      "box": [
+        125,
+        497,
+        449,
+        519
+      ]
+    },
+    {
+      "text": "- Transported waste materials",
+      "score": 0.9886,
+      "box": [
+        126,
+        521,
+        406,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Trades, Clearhaven University, 2013",
+      "score": 0.9836,
+      "box": [
+        115,
+        632,
+        687,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of hazard identification",
+      "score": 0.9933,
+      "box": [
+        133,
+        657,
+        528,
+        680
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of concrete mixing",
+      "score": 0.9784,
+      "box": [
+        133,
+        681,
+        525,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ROY ASHLEY\nOR, USA|+1-868-544-1893 |roy.ashley@example.com\nWORK HISTORY\nConstruction Laborers, EverBuild Co., 2020.07–2023.01\n- Directed site optimization initiatives\n- Reviewed engineering drawings\nConstruction Laborers, MasterBuild Services, 2018.01–2020.07\n- Constructed temporary structures\n- Prepared job site layouts\nConstruction Laborers, FirmTrack Construction, 2015.06–2018.01\n- Performed basic demolition tasks\n- Transported waste materials\nEDUCATION\nBachelor's, Construction Trades, Clearhaven University, 2013\n• Studied principles of hazard identification\n• Studied fundamentals of concrete mixing"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "06454",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.957,
+  "n_lines": 16,
+  "mean_score": 0.9822,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NICOLE SHAH",
+      "score": 0.9786,
+      "box": [
+        115,
+        88,
+        350,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-953-667-2641 |nicole.shah@example.com",
+      "score": 0.9904,
+      "box": [
+        116,
+        150,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Financial, 2020.05–2023.01",
+      "score": 0.972,
+      "box": [
+        114,
+        289,
+        707,
+        313
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9852,
+      "box": [
+        126,
+        313,
+        504,
+        339
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9888,
+      "box": [
+        126,
+        338,
+        494,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Services, 2017.08–2020.05",
+      "score": 0.9874,
+      "box": [
+        115,
+        381,
+        732,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared financial statements",
+      "score": 0.9836,
+      "box": [
+        127,
+        407,
+        419,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared tax returns",
+      "score": 0.9642,
+      "box": [
+        126,
+        430,
+        333,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Services, 2012.07–2015.04",
+      "score": 0.9937,
+      "box": [
+        115,
+        472,
+        712,
+        495
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9686,
+      "box": [
+        125,
+        496,
+        440,
+        521
+      ]
+    },
+    {
+      "text": "- Updated accounting policies documentation",
+      "score": 0.9622,
+      "box": [
+        128,
+        523,
+        546,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Management, Prairie Ridge University, 2007",
+      "score": 0.9842,
+      "box": [
+        114,
+        631,
+        726,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in segment reporting",
+      "score": 0.9738,
+      "box": [
+        134,
+        658,
+        557,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounts receivable",
+      "score": 0.9983,
+      "box": [
+        135,
+        682,
+        574,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "NICOLE SHAH\nCA, USA|+1-953-667-2641 |nicole.shah@example.com\nWORK HISTORY\nAccountants Auditors, SteadyCount Financial, 2020.05–2023.01\n- Established cost management systems\n- Established financial data governance\nAccountants Auditors, Reliable Ledger Services, 2017.08–2020.05\n- Prepared financial statements\n- Prepared tax returns\nAccountants Auditors, ClearBalance Services, 2012.07–2015.04\n- Reviewed timesheets for payroll\n- Updated accounting policies documentation\nEDUCATION\nBachelor's, Business Management, Prairie Ridge University, 2007\n• Completed coursework in segment reporting\n• Completed coursework in accounts receivable"
+}

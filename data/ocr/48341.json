@@ -1,0 +1,161 @@
+{
+  "id": "48341",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.842,
+  "n_lines": 11,
+  "mean_score": 0.9842,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "EMELY WELLS",
+      "score": 0.9718,
+      "box": [
+        117,
+        90,
+        359,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-84-411-3729 |emely.wells@example.com",
+      "score": 0.9847,
+      "box": [
+        115,
+        150,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.981,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Meadow Academy, 2021.01–2023.0",
+      "score": 0.992,
+      "box": [
+        115,
+        290,
+        885,
+        313
+      ]
+    },
+    {
+      "text": "- Recorded test results",
+      "score": 0.9654,
+      "box": [
+        125,
+        313,
+        340,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed learning standards",
+      "score": 0.9936,
+      "box": [
+        126,
+        339,
+        411,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Learning Support Studies, Clearstone University, 2020",
+      "score": 0.988,
+      "box": [
+        114,
+        447,
+        711,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Foundations of Learning, Clearstone University, 2018",
+      "score": 0.9664,
+      "box": [
+        114,
+        472,
+        719,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson structure design",
+      "score": 0.9928,
+      "box": [
+        134,
+        499,
+        604,
+        522
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional evaluation",
+      "score": 0.9925,
+      "box": [
+        136,
+        525,
+        601,
+        545
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "EMELY WELLS\nTN, USA|+1-84-411-3729 |emely.wells@example.com\nWORK HISTORY\nElementary Middle School Teachers, Learning Meadow Academy, 2021.01–2023.0\n- Recorded test results\n- Reviewed learning standards\nEDUCATION\nMaster's, Learning Support Studies, Clearstone University, 2020\nBachelor's, Foundations of Learning, Clearstone University, 2018\n• Completed coursework in lesson structure design\n• Completed coursework in instructional evaluation"
+}

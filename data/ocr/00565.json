@@ -1,0 +1,148 @@
+{
+  "id": "00565",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.873,
+  "n_lines": 10,
+  "mean_score": 0.9861,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TALLULAH STEPHENS",
+      "score": 0.981,
+      "box": [
+        115,
+        90,
+        484,
+        120
+      ]
+    },
+    {
+      "text": "AL, USA|+1-609-979-2069|tallulah.stephens@example.com",
+      "score": 0.9809,
+      "box": [
+        116,
+        151,
+        694,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Care Services, 2020.04–2023.01",
+      "score": 0.9943,
+      "box": [
+        116,
+        290,
+        727,
+        313
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.9772,
+      "box": [
+        126,
+        314,
+        415,
+        337
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9905,
+      "box": [
+        127,
+        339,
+        530,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Technology, Silver Ridge University, 2022",
+      "score": 0.9828,
+      "box": [
+        115,
+        449,
+        679,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing informatics basics",
+      "score": 0.9865,
+      "box": [
+        134,
+        474,
+        629,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in maternal health nursing",
+      "score": 0.9835,
+      "box": [
+        134,
+        499,
+        607,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "TALLULAH STEPHENS\nAL, USA|+1-609-979-2069|tallulah.stephens@example.com\nWORK HISTORY\nRegistered Nurses, Compassion Care Services, 2020.04–2023.01\n- Checked patient identification\n- Recorded medication administration times\nEDUCATION\nBachelor's, Health Technology, Silver Ridge University, 2022\n• Completed coursework in nursing informatics basics\n• Completed coursework in maternal health nursing"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "14288",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.956,
+  "n_lines": 16,
+  "mean_score": 0.9843,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ADRIAN BOWERS",
+      "score": 0.9624,
+      "box": [
+        116,
+        90,
+        407,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-579-341-4968|adrian.bowers@example.com",
+      "score": 0.9896,
+      "box": [
+        116,
+        152,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Advisors, 2019.12–2023.01",
+      "score": 0.9936,
+      "box": [
+        115,
+        289,
+        705,
+        313
+      ]
+    },
+    {
+      "text": "-Directed revenue recognition policies",
+      "score": 0.9963,
+      "box": [
+        125,
+        314,
+        484,
+        338
+      ]
+    },
+    {
+      "text": "- Developed financial performance metrics",
+      "score": 0.9909,
+      "box": [
+        126,
+        339,
+        520,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Group, 2016.04–2019.05",
+      "score": 0.9954,
+      "box": [
+        115,
+        382,
+        674,
+        405
+      ]
+    },
+    {
+      "text": "- Coordinated audit schedules",
+      "score": 0.9748,
+      "box": [
+        126,
+        407,
+        407,
+        429
+      ]
+    },
+    {
+      "text": "- Reviewed revenue forecasts",
+      "score": 0.9726,
+      "box": [
+        126,
+        431,
+        405,
+        453
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Financial, 2011.11–2014.12",
+      "score": 0.9829,
+      "box": [
+        115,
+        472,
+        702,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9841,
+      "box": [
+        125,
+        496,
+        453,
+        521
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9687,
+      "box": [
+        126,
+        521,
+        490,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Economic Studies, Oakwood University, 2002",
+      "score": 0.9792,
+      "box": [
+        114,
+        630,
+        648,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of tax planning",
+      "score": 0.9831,
+      "box": [
+        132,
+        656,
+        491,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of microeconomics",
+      "score": 0.9906,
+      "box": [
+        135,
+        682,
+        493,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ADRIAN BOWERS\nFL, USA|+1-579-341-4968|adrian.bowers@example.com\nWORK HISTORY\nAccountants Auditors, SolidBalance Advisors, 2019.12–2023.01\n-Directed revenue recognition policies\n- Developed financial performance metrics\nAccountants Auditors, CoreLedger Group, 2016.04–2019.05\n- Coordinated audit schedules\n- Reviewed revenue forecasts\nAccountants Auditors, TrustLedger Financial, 2011.11–2014.12\n- Reviewed expense classifications\n- Processed accounts payable invoices\nEDUCATION\nBachelor's, Economic Studies, Oakwood University, 2002\n• Studied fundamentals of tax planning\n• Studied principles of microeconomics"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "01231",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.946,
+  "n_lines": 16,
+  "mean_score": 0.9861,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ROCIO NIELSEN",
+      "score": 0.9904,
+      "box": [
+        116,
+        90,
+        382,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-637-392-8170|rocio.nielsen@example.com",
+      "score": 0.9948,
+      "box": [
+        116,
+        151,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIHands Nursing Group, 2020.11–2023.01",
+      "score": 0.966,
+      "box": [
+        115,
+        289,
+        716,
+        314
+      ]
+    },
+    {
+      "text": "- Designed clinical documentation standards",
+      "score": 0.9722,
+      "box": [
+        127,
+        315,
+        539,
+        338
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9791,
+      "box": [
+        126,
+        339,
+        470,
+        362
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearPath Nursing Group, 2018.08–2020.11",
+      "score": 0.996,
+      "box": [
+        116,
+        383,
+        709,
+        406
+      ]
+    },
+    {
+      "text": "- Provided rehabilitation nursing care",
+      "score": 0.9759,
+      "box": [
+        125,
+        405,
+        470,
+        432
+      ]
+    },
+    {
+      "text": "- Coordinated interdisciplinary care",
+      "score": 0.996,
+      "box": [
+        126,
+        430,
+        452,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Way Nursing, 2014.01–2016.04",
+      "score": 0.9896,
+      "box": [
+        116,
+        472,
+        663,
+        496
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9882,
+      "box": [
+        125,
+        496,
+        480,
+        521
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9914,
+      "box": [
+        126,
+        521,
+        399,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Allied Health, Stonehaven University, 2012",
+      "score": 0.9856,
+      "box": [
+        114,
+        631,
+        623,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in neurologic nursing basics",
+      "score": 0.9832,
+      "box": [
+        134,
+        658,
+        624,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient positioning",
+      "score": 0.9866,
+      "box": [
+        135,
+        683,
+        557,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ROCIO NIELSEN\nAZ, USA|+1-637-392-8170|rocio.nielsen@example.com\nWORK HISTORY\nRegistered Nurses, WelIHands Nursing Group, 2020.11–2023.01\n- Designed clinical documentation standards\n- Established care delivery standards\nRegistered Nurses, ClearPath Nursing Group, 2018.08–2020.11\n- Provided rehabilitation nursing care\n- Coordinated interdisciplinary care\nRegistered Nurses, Caring Way Nursing, 2014.01–2016.04\n- Provided patient education materials\n- Recorded patient vital signs\nEDUCATION\nBachelor's, Allied Health, Stonehaven University, 2012\n• Completed coursework in neurologic nursing basics\n• Completed coursework in patient positioning"
+}

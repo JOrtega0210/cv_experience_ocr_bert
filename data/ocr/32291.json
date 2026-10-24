@@ -1,0 +1,265 @@
+{
+  "id": "32291",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.927,
+  "n_lines": 19,
+  "mean_score": 0.9828,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANGELA WILLIAMSON",
+      "score": 0.9788,
+      "box": [
+        117,
+        90,
+        483,
+        121
+      ]
+    },
+    {
+      "text": "NV, USA|+1-983-404-4655|angela.williamson@example.com",
+      "score": 0.9576,
+      "box": [
+        115,
+        150,
+        706,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Services, 2020.05–2023.01",
+      "score": 0.9918,
+      "box": [
+        115,
+        290,
+        703,
+        313
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9773,
+      "box": [
+        125,
+        313,
+        494,
+        339
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.9768,
+      "box": [
+        126,
+        339,
+        502,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Financial, 2017.08–2020.05",
+      "score": 0.9755,
+      "box": [
+        114,
+        381,
+        695,
+        405
+      ]
+    },
+    {
+      "text": "-Directed accounting training programs",
+      "score": 0.9838,
+      "box": [
+        125,
+        405,
+        495,
+        432
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9878,
+      "box": [
+        126,
+        430,
+        361,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Advisors, 2014.11–2017.08",
+      "score": 0.9868,
+      "box": [
+        114,
+        471,
+        726,
+        496
+      ]
+    },
+    {
+      "text": "- Managed accounts receivable cycles",
+      "score": 0.9754,
+      "box": [
+        125,
+        496,
+        483,
+        521
+      ]
+    },
+    {
+      "text": "- Analyzed financial variances",
+      "score": 0.9818,
+      "box": [
+        126,
+        521,
+        406,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Financial Group, 2012.02–2014.11",
+      "score": 0.9914,
+      "box": [
+        115,
+        565,
+        773,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.9769,
+      "box": [
+        126,
+        590,
+        445,
+        613
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.9688,
+      "box": [
+        126,
+        613,
+        436,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Some college (no degree), Statistics, Hawthorne University, 2013",
+      "score": 0.9896,
+      "box": [
+        115,
+        723,
+        720,
+        748
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting analytics basics",
+      "score": 0.9909,
+      "box": [
+        133,
+        749,
+        642,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in supply chain accounting",
+      "score": 0.9972,
+      "box": [
+        134,
+        772,
+        612,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "ANGELA WILLIAMSON\nNV, USA|+1-983-404-4655|angela.williamson@example.com\nWORK HISTORY\nAccountants Auditors, EverBalance Services, 2020.05–2023.01\n- Established financial data governance\n- Directed strategic accounting initiatives\nAccountants Auditors, ClearCount Financial, 2017.08–2020.05\n-Directed accounting training programs\n- Designed tax strategies\nAccountants Auditors, Precise Ledger Advisors, 2014.11–2017.08\n- Managed accounts receivable cycles\n- Analyzed financial variances\nAccountants Auditors, CoreBalance Financial Group, 2012.02–2014.11\n- Prepared account reconciliations\n- Prepared basic financial reports\nEDUCATION\nSome college (no degree), Statistics, Hawthorne University, 2013\n• Completed coursework in accounting analytics basics\n• Completed coursework in supply chain accounting"
+}

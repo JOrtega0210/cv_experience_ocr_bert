@@ -1,0 +1,200 @@
+{
+  "id": "57881",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.85,
+  "n_lines": 14,
+  "mean_score": 0.9792,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SAVANNAH KELLER",
+      "score": 0.9727,
+      "box": [
+        116,
+        90,
+        449,
+        120
+      ]
+    },
+    {
+      "text": "WA, USA|+1-200-894-7829 |savannah.keller@example.com",
+      "score": 0.9819,
+      "box": [
+        114,
+        150,
+        692,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9787,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Minds School, 2020.03–2023.01",
+      "score": 0.9808,
+      "box": [
+        115,
+        290,
+        827,
+        313
+      ]
+    },
+    {
+      "text": "- Directed program effectiveness studies",
+      "score": 0.9704,
+      "box": [
+        126,
+        315,
+        503,
+        338
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.9664,
+      "box": [
+        126,
+        339,
+        476,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Friendly Steps School, 2017.05–2020.03",
+      "score": 0.9688,
+      "box": [
+        115,
+        381,
+        840,
+        406
+      ]
+    },
+    {
+      "text": "- Maintained classroom bulletin boards",
+      "score": 0.9632,
+      "box": [
+        126,
+        407,
+        486,
+        429
+      ]
+    },
+    {
+      "text": "- Prepared daily instructional agendas",
+      "score": 0.9906,
+      "box": [
+        126,
+        431,
+        479,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Learning Support Studies, Brookside University, 2021",
+      "score": 0.9826,
+      "box": [
+        115,
+        541,
+        700,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Liberal Arts, Pinecrest University, 2019",
+      "score": 0.9764,
+      "box": [
+        115,
+        566,
+        587,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic instruction methods",
+      "score": 0.9902,
+      "box": [
+        134,
+        591,
+        665,
+        614
+      ]
+    },
+    {
+      "text": "• Studied principles of student engagement",
+      "score": 0.9881,
+      "box": [
+        133,
+        615,
+        533,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "SAVANNAH KELLER\nWA, USA|+1-200-894-7829 |savannah.keller@example.com\nWORK HISTORY\nElementary Middle School Teachers, Future Minds School, 2020.03–2023.01\n- Directed program effectiveness studies\n- Developed teacher training modules\nElementary Middle School Teachers, Friendly Steps School, 2017.05–2020.03\n- Maintained classroom bulletin boards\n- Prepared daily instructional agendas\nEDUCATION\nMaster's, Learning Support Studies, Brookside University, 2021\nBachelor's, Liberal Arts, Pinecrest University, 2019\n• Completed coursework in academic instruction methods\n• Studied principles of student engagement"
+}

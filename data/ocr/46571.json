@@ -1,0 +1,239 @@
+{
+  "id": "46571",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.817,
+  "n_lines": 17,
+  "mean_score": 0.9826,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JARED STEELE",
+      "score": 0.9816,
+      "box": [
+        116,
+        90,
+        371,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-867-893-7299 |jared.steele@example.com",
+      "score": 0.9698,
+      "box": [
+        115,
+        150,
+        648,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9873,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpoint Labs, 2020.10–2023.01",
+      "score": 0.9881,
+      "box": [
+        116,
+        290,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed system design documents",
+      "score": 0.9936,
+      "box": [
+        126,
+        314,
+        481,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9807,
+      "box": [
+        126,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstack Systems, 2017.12–2020.04",
+      "score": 0.9905,
+      "box": [
+        115,
+        381,
+        686,
+        406
+      ]
+    },
+    {
+      "text": "- Improved build processes",
+      "score": 0.9884,
+      "box": [
+        126,
+        406,
+        381,
+        432
+      ]
+    },
+    {
+      "text": "- Integrated monitoring tools",
+      "score": 0.9715,
+      "box": [
+        126,
+        430,
+        390,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Digital, 2014.11–2017.03",
+      "score": 0.9729,
+      "box": [
+        115,
+        471,
+        668,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed APl documentation",
+      "score": 0.9568,
+      "box": [
+        125,
+        497,
+        417,
+        520
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9799,
+      "box": [
+        126,
+        521,
+        400,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Master's, Woodcrest University, 2009",
+      "score": 0.9796,
+      "box": [
+        115,
+        632,
+        463,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Northfield University, 2007",
+      "score": 0.9883,
+      "box": [
+        114,
+        656,
+        471,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of database design",
+      "score": 0.9834,
+      "box": [
+        132,
+        681,
+        495,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in information retrieval",
+      "score": 0.992,
+      "box": [
+        133,
+        707,
+        573,
+        730
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "JARED STEELE\nPA, USA|+1-867-893-7299 |jared.steele@example.com\nWORK HISTORY\nSoftware Developers, Flowpoint Labs, 2020.10–2023.01\n- Reviewed system design documents\n- Implemented security architectures\nSoftware Developers, Brightstack Systems, 2017.12–2020.04\n- Improved build processes\n- Integrated monitoring tools\nSoftware Developers, Datastream Digital, 2014.11–2017.03\n- Reviewed APl documentation\n- Wrote configuration parsers\nEDUCATION\nMaster's, Woodcrest University, 2009\nBachelor's, Northfield University, 2007\n• Studied principles of database design\n• Completed coursework in information retrieval"
+}

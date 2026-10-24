@@ -1,0 +1,226 @@
+{
+  "id": "02385",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.991,
+  "n_lines": 16,
+  "mean_score": 0.979,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MONICA HOLT",
+      "score": 0.9724,
+      "box": [
+        115,
+        88,
+        356,
+        122
+      ]
+    },
+    {
+      "text": "AR, USA|+1-429-705-5213 |monica.holt@example.com",
+      "score": 0.9774,
+      "box": [
+        116,
+        152,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellWay Medical Group, 2019.10–223.01",
+      "score": 0.9723,
+      "box": [
+        115,
+        289,
+        698,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.983,
+      "box": [
+        127,
+        315,
+        568,
+        338
+      ]
+    },
+    {
+      "text": "- Directed care delivery improvements",
+      "score": 0.9594,
+      "box": [
+        126,
+        338,
+        480,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Way Nursing, 2016.07–2019.10",
+      "score": 0.982,
+      "box": [
+        115,
+        381,
+        662,
+        406
+      ]
+    },
+    {
+      "text": "- Managed isolation procedures",
+      "score": 0.97,
+      "box": [
+        126,
+        406,
+        423,
+        431
+      ]
+    },
+    {
+      "text": "- Managed care for chronic conditions",
+      "score": 0.993,
+      "box": [
+        127,
+        432,
+        478,
+        454
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Care Group, 2011.12–2015.04",
+      "score": 0.9947,
+      "box": [
+        116,
+        473,
+        707,
+        496
+      ]
+    },
+    {
+      "text": "- Updated patient medical records",
+      "score": 0.9605,
+      "box": [
+        127,
+        498,
+        443,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9693,
+      "box": [
+        126,
+        521,
+        438,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Medical Sciences, Clear Spring University, 2010",
+      "score": 0.9841,
+      "box": [
+        114,
+        631,
+        750,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of tracheostomy care",
+      "score": 0.9911,
+      "box": [
+        132,
+        656,
+        551,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in suctioning techniques",
+      "score": 0.9713,
+      "box": [
+        136,
+        683,
+        590,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "MONICA HOLT\nAR, USA|+1-429-705-5213 |monica.holt@example.com\nWORK HISTORY\nRegistered Nurses, WellWay Medical Group, 2019.10–223.01\n- Implemented evidence-based practice models\n- Directed care delivery improvements\nRegistered Nurses, Caring Way Nursing, 2016.07–2019.10\n- Managed isolation procedures\n- Managed care for chronic conditions\nRegistered Nurses, Compassion Care Group, 2011.12–2015.04\n- Updated patient medical records\n- Assisted with patient positioning\nEDUCATION\nAssociate's degree, Medical Sciences, Clear Spring University, 2010\n• Studied fundamentals of tracheostomy care\n• Completed coursework in suctioning techniques"
+}

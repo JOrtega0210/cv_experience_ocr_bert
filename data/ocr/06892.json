@@ -1,0 +1,265 @@
+{
+  "id": "06892",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.025,
+  "n_lines": 19,
+  "mean_score": 0.977,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "VICTORIA VU",
+      "score": 0.9791,
+      "box": [
+        114,
+        88,
+        334,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-209-987-2852 |victoria.vu@example.com",
+      "score": 0.9694,
+      "box": [
+        116,
+        151,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Services, 2020.04–2023.01",
+      "score": 0.9846,
+      "box": [
+        115,
+        289,
+        735,
+        312
+      ]
+    },
+    {
+      "text": "- Directed accounting leadership initiatives",
+      "score": 0.9429,
+      "box": [
+        127,
+        315,
+        520,
+        339
+      ]
+    },
+    {
+      "text": "- Led financial forecasting initiatives",
+      "score": 0.9608,
+      "box": [
+        126,
+        338,
+        458,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Group, 2017.06–2020.04",
+      "score": 0.995,
+      "box": [
+        115,
+        381,
+        682,
+        406
+      ]
+    },
+    {
+      "text": "- Managed financial compliance programs",
+      "score": 0.9811,
+      "box": [
+        126,
+        406,
+        517,
+        432
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9805,
+      "box": [
+        126,
+        430,
+        428,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Group, 2014.08–2017.06",
+      "score": 0.9557,
+      "box": [
+        113,
+        470,
+        710,
+        498
+      ]
+    },
+    {
+      "text": "- Implemented accounting procedures",
+      "score": 0.9819,
+      "box": [
+        126,
+        498,
+        480,
+        521
+      ]
+    },
+    {
+      "text": "- Managed fixed asset accounting",
+      "score": 0.9626,
+      "box": [
+        126,
+        521,
+        441,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Advisors, 2011.10–2014.08",
+      "score": 0.9901,
+      "box": [
+        115,
+        565,
+        687,
+        588
+      ]
+    },
+    {
+      "text": "- Reviewed vendor payments",
+      "score": 0.9755,
+      "box": [
+        125,
+        589,
+        400,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedures",
+      "score": 0.9741,
+      "box": [
+        125,
+        612,
+        509,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Auditing, Meadowland University, 2017",
+      "score": 0.9695,
+      "box": [
+        114,
+        723,
+        587,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of enterprise systems",
+      "score": 0.9915,
+      "box": [
+        132,
+        747,
+        555,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of documentation standards",
+      "score": 0.9855,
+      "box": [
+        134,
+        773,
+        613,
+        795
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "VICTORIA VU\nCA, USA|+1-209-987-2852 |victoria.vu@example.com\nWORK HISTORY\nAccountants Auditors, Precise Balance Services, 2020.04–2023.01\n- Directed accounting leadership initiatives\n- Led financial forecasting initiatives\nAccountants Auditors, EverBalance Group, 2017.06–2020.04\n- Managed financial compliance programs\n- Led audit planning governance\nAccountants Auditors, Integrity Ledger Group, 2014.08–2017.06\n- Implemented accounting procedures\n- Managed fixed asset accounting\nAccountants Auditors, CoreCount Advisors, 2011.10–2014.08\n- Reviewed vendor payments\n- Assisted with monthly close procedures\nEDUCATION\nBachelor's, Auditing, Meadowland University, 2017\n• Studied fundamentals of enterprise systems\n• Studied fundamentals of documentation standards"
+}

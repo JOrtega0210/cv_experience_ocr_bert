@@ -1,0 +1,226 @@
+{
+  "id": "46207",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.842,
+  "n_lines": 16,
+  "mean_score": 0.9822,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LEAH SCHMIDT",
+      "score": 0.9746,
+      "box": [
+        116,
+        90,
+        371,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-948-467-6590 |leah.schmidt@example.com",
+      "score": 0.9823,
+      "box": [
+        115,
+        150,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9866,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHope Care Center, 2020.09–2023.01",
+      "score": 0.9879,
+      "box": [
+        116,
+        290,
+        685,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.9828,
+      "box": [
+        127,
+        315,
+        568,
+        338
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9831,
+      "box": [
+        126,
+        339,
+        471,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Life Nursing, 2017.09–2020.01",
+      "score": 0.9934,
+      "box": [
+        116,
+        383,
+        652,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted clinical audits",
+      "score": 0.9805,
+      "box": [
+        126,
+        407,
+        374,
+        430
+      ]
+    },
+    {
+      "text": "- Monitored patient compliance",
+      "score": 0.97,
+      "box": [
+        126,
+        430,
+        415,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverBridge Health Group, 2014.09–2017.01",
+      "score": 0.9919,
+      "box": [
+        116,
+        472,
+        707,
+        496
+      ]
+    },
+    {
+      "text": "-Checked patient identification",
+      "score": 0.9972,
+      "box": [
+        125,
+        496,
+        416,
+        521
+      ]
+    },
+    {
+      "text": "- Monitored patient pain levels",
+      "score": 0.9565,
+      "box": [
+        126,
+        521,
+        409,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Management, Rosewood University, 2008",
+      "score": 0.986,
+      "box": [
+        114,
+        631,
+        758,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient triage",
+      "score": 0.9559,
+      "box": [
+        132,
+        656,
+        510,
+        682
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of clinical documentation",
+      "score": 0.9869,
+      "box": [
+        133,
+        681,
+        585,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "LEAH SCHMIDT\nPA, USA|+1-948-467-6590 |leah.schmidt@example.com\nWORK HISTORY\nRegistered Nurses, NewHope Care Center, 2020.09–2023.01\n- Implemented evidence-based practice models\n- Established care delivery standards\nRegistered Nurses, Caring Life Nursing, 2017.09–2020.01\n- Conducted clinical audits\n- Monitored patient compliance\nRegistered Nurses, EverBridge Health Group, 2014.09–2017.01\n-Checked patient identification\n- Monitored patient pain levels\nEDUCATION\nAssociate's degree, Health Management, Rosewood University, 2008\n• Completed coursework in patient triage\n• Studied fundamentals of clinical documentation"
+}

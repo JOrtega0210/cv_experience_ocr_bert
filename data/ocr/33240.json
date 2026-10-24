@@ -1,0 +1,226 @@
+{
+  "id": "33240",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.86,
+  "n_lines": 16,
+  "mean_score": 0.9801,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KENDRA HINES",
+      "score": 0.9761,
+      "box": [
+        116,
+        90,
+        372,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA |+1-716-728-5994 |kendra.hines@example.com",
+      "score": 0.9769,
+      "box": [
+        116,
+        152,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Path Accounting, 2020.07–2023.01",
+      "score": 0.9816,
+      "box": [
+        114,
+        289,
+        739,
+        314
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9499,
+      "box": [
+        126,
+        314,
+        525,
+        339
+      ]
+    },
+    {
+      "text": "- Developed financial analytics frameworks",
+      "score": 0.9818,
+      "box": [
+        127,
+        340,
+        525,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Financial, 2018.01–2020.07",
+      "score": 0.9873,
+      "box": [
+        114,
+        381,
+        735,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed tax provisions",
+      "score": 0.9836,
+      "box": [
+        125,
+        406,
+        368,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted account reconciliations",
+      "score": 0.9974,
+      "box": [
+        127,
+        432,
+        460,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Services, 2012.06–2015.01",
+      "score": 0.9725,
+      "box": [
+        115,
+        472,
+        725,
+        496
+      ]
+    },
+    {
+      "text": "- Matched invoices to purchase orders",
+      "score": 0.97,
+      "box": [
+        125,
+        496,
+        483,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.973,
+      "box": [
+        126,
+        521,
+        446,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Technology, Greenwood Ridge University, 2012",
+      "score": 0.9791,
+      "box": [
+        114,
+        631,
+        759,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting project management",
+      "score": 0.9891,
+      "box": [
+        133,
+        657,
+        687,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in general ledger accounting",
+      "score": 0.9801,
+      "box": [
+        134,
+        681,
+        628,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "KENDRA HINES\nNJ, USA |+1-716-728-5994 |kendra.hines@example.com\nWORK HISTORY\nAccountants Auditors, Accurate Path Accounting, 2020.07–2023.01\n- Developed regulatory reporting strategies\n- Developed financial analytics frameworks\nAccountants Auditors, Integrity Ledger Financial, 2018.01–2020.07\n- Reviewed tax provisions\n- Conducted account reconciliations\nAccountants Auditors, Precise Ledger Services, 2012.06–2015.01\n- Matched invoices to purchase orders\n- Prepared account reconciliations\nEDUCATION\nBachelor's, Business Technology, Greenwood Ridge University, 2012\n• Completed coursework in accounting project management\n• Completed coursework in general ledger accounting"
+}

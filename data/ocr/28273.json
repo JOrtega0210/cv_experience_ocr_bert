@@ -1,0 +1,187 @@
+{
+  "id": "28273",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.766,
+  "n_lines": 13,
+  "mean_score": 0.9828,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RANDY HOUSE",
+      "score": 0.9735,
+      "box": [
+        116,
+        90,
+        365,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-323-503-4769 |randy.house@example.com",
+      "score": 0.9852,
+      "box": [
+        116,
+        151,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9867,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Labs, 2020.06–2023.01",
+      "score": 0.9666,
+      "box": [
+        114,
+        288,
+        645,
+        314
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9774,
+      "box": [
+        125,
+        313,
+        368,
+        339
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.985,
+      "box": [
+        126,
+        338,
+        374,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Opencrest Solutions, 2017.11–2020.06",
+      "score": 0.989,
+      "box": [
+        115,
+        381,
+        684,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9766,
+      "box": [
+        126,
+        407,
+        417,
+        431
+      ]
+    },
+    {
+      "text": "- Wrote command-line tools",
+      "score": 0.9972,
+      "box": [
+        126,
+        432,
+        386,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Parkview University, 2019",
+      "score": 0.9685,
+      "box": [
+        115,
+        541,
+        466,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of cybersecurity",
+      "score": 0.9912,
+      "box": [
+        133,
+        566,
+        502,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in requirements engineering",
+      "score": 0.9811,
+      "box": [
+        134,
+        590,
+        626,
+        616
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "RANDY HOUSE\nMI, USA|+1-323-503-4769 |randy.house@example.com\nWORK HISTORY\nSoftware Developers, Openwave Labs, 2020.06–2023.01\n- Built distributed systems\n- Led architectural reviews\nSoftware Developers, Opencrest Solutions, 2017.11–2020.06\n- Implemented logging features\n- Wrote command-line tools\nEDUCATION\nBachelor's, Parkview University, 2019\n• Studied fundamentals of cybersecurity\n• Completed coursework in requirements engineering"
+}

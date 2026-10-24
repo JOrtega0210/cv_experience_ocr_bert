@@ -1,0 +1,148 @@
+{
+  "id": "27067",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.738,
+  "n_lines": 10,
+  "mean_score": 0.9768,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MEGAN LEWIS",
+      "score": 0.9814,
+      "box": [
+        116,
+        90,
+        358,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-398-672-7916 |megan.lewis@example.com",
+      "score": 0.9806,
+      "box": [
+        115,
+        150,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.982,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleLife Nursing, 2022.12–2023.01",
+      "score": 0.9733,
+      "box": [
+        116,
+        290,
+        647,
+        313
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9808,
+      "box": [
+        126,
+        313,
+        416,
+        339
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9408,
+      "box": [
+        127,
+        340,
+        410,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health and Wellness, Rosewood University, 2020",
+      "score": 0.9755,
+      "box": [
+        114,
+        447,
+        683,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in dosage calculations",
+      "score": 0.9815,
+      "box": [
+        134,
+        474,
+        574,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in palliative care basics",
+      "score": 0.9735,
+      "box": [
+        135,
+        500,
+        581,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "MEGAN LEWIS\nMI, USA|+1-398-672-7916 |megan.lewis@example.com\nWORK HISTORY\nRegistered Nurses, GentleLife Nursing, 2022.12–2023.01\n- Checked medication dosages\n- Recorded shift handoff notes\nEDUCATION\nBachelor's, Health and Wellness, Rosewood University, 2020\n• Completed coursework in dosage calculations\n• Completed coursework in palliative care basics"
+}

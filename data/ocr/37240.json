@@ -1,0 +1,226 @@
+{
+  "id": "37240",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.872,
+  "n_lines": 16,
+  "mean_score": 0.9818,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JESSICA CALDWELL",
+      "score": 0.9739,
+      "box": [
+        116,
+        90,
+        457,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-728-372-8953 |jessica.caldwell@example.com",
+      "score": 0.9787,
+      "box": [
+        115,
+        150,
+        685,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Advisors, 2020.06–2023.01",
+      "score": 0.99,
+      "box": [
+        115,
+        290,
+        710,
+        312
+      ]
+    },
+    {
+      "text": "- Designed budgeting methodologies",
+      "score": 0.974,
+      "box": [
+        126,
+        314,
+        469,
+        339
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9849,
+      "box": [
+        126,
+        339,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Services, 2016.10–2019.05",
+      "score": 0.9812,
+      "box": [
+        114,
+        381,
+        737,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed budget performance",
+      "score": 0.985,
+      "box": [
+        125,
+        406,
+        427,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared financial statements",
+      "score": 0.9892,
+      "box": [
+        126,
+        430,
+        419,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Financial, 2013.09–2016.04",
+      "score": 0.9727,
+      "box": [
+        115,
+        472,
+        695,
+        495
+      ]
+    },
+    {
+      "text": "- Compiled financial schedules",
+      "score": 0.9975,
+      "box": [
+        126,
+        498,
+        412,
+        521
+      ]
+    },
+    {
+      "text": "- Reconciled bank statements",
+      "score": 0.9744,
+      "box": [
+        126,
+        522,
+        405,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting and Finance, Stonecrest University, 2008",
+      "score": 0.9821,
+      "box": [
+        114,
+        631,
+        716,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of business strategy",
+      "score": 0.9636,
+      "box": [
+        132,
+        656,
+        505,
+        682
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of statistics for business",
+      "score": 0.9769,
+      "box": [
+        134,
+        682,
+        577,
+        704
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JESSICA CALDWELL\nNY, USA|+1-728-372-8953 |jessica.caldwell@example.com\nWORK HISTORY\nAccountants Auditors, OpenBalance Advisors, 2020.06–2023.01\n- Designed budgeting methodologies\n- Developed long-term financial strategies\nAccountants Auditors, Precise Balance Services, 2016.10–2019.05\n- Reviewed budget performance\n- Prepared financial statements\nAccountants Auditors, ClearCount Financial, 2013.09–2016.04\n- Compiled financial schedules\n- Reconciled bank statements\nEDUCATION\nBachelor's, Accounting and Finance, Stonecrest University, 2008\n• Studied principles of business strategy\n• Studied fundamentals of statistics for business"
+}

@@ -1,0 +1,239 @@
+{
+  "id": "29552",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.848,
+  "n_lines": 17,
+  "mean_score": 0.9803,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "VINCENT HO",
+      "score": 0.9627,
+      "box": [
+        113,
+        87,
+        325,
+        123
+      ]
+    },
+    {
+      "text": "MN, USA|+1-413-690-4287 |vincent.ho@example.com",
+      "score": 0.9755,
+      "box": [
+        115,
+        150,
+        639,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9815,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Flowstack Tech, 2020.12–2023.01",
+      "score": 0.9826,
+      "box": [
+        115,
+        290,
+        640,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.9909,
+      "box": [
+        127,
+        315,
+        499,
+        337
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.9855,
+      "box": [
+        126,
+        339,
+        538,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Cleargrid Systems, 2018.11–2020.12",
+      "score": 0.9796,
+      "box": [
+        115,
+        381,
+        667,
+        406
+      ]
+    },
+    {
+      "text": "- Integrated third-party services",
+      "score": 0.9524,
+      "box": [
+        126,
+        406,
+        419,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented feature flags",
+      "score": 0.9825,
+      "box": [
+        126,
+        430,
+        384,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Corefield Software, 2016.10–2018.11",
+      "score": 0.9939,
+      "box": [
+        116,
+        472,
+        667,
+        495
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9712,
+      "box": [
+        125,
+        496,
+        364,
+        522
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.98,
+      "box": [
+        127,
+        523,
+        414,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Foxwood University, 2016",
+      "score": 0.977,
+      "box": [
+        115,
+        632,
+        448,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Stonewood University, 2014",
+      "score": 0.9713,
+      "box": [
+        115,
+        658,
+        486,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in computer programming fundamentals",
+      "score": 0.9897,
+      "box": [
+        134,
+        683,
+        736,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in system programming",
+      "score": 0.9902,
+      "box": [
+        133,
+        706,
+        584,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "VINCENT HO\nMN, USA|+1-413-690-4287 |vincent.ho@example.com\nWORK HISTORY\nSoftware Developers, Flowstack Tech, 2020.12–2023.01\n- Implemented infrastructure automation\n- Implemented long-term maintenance plans\nSoftware Developers, Cleargrid Systems, 2018.11–2020.12\n- Integrated third-party services\n- Implemented feature flags\nSoftware Developers, Corefield Software, 2016.10–2018.11\n- Handled feature toggles\n- Updated frontend stylesheets\nEDUCATION\nMaster's, Foxwood University, 2016\nBachelor's, Stonewood University, 2014\n• Completed coursework in computer programming fundamentals\n• Completed coursework in system programming"
+}

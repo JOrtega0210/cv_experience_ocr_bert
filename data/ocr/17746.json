@@ -1,0 +1,226 @@
+{
+  "id": "17746",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.95,
+  "n_lines": 16,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KRYSTAL KHAN",
+      "score": 0.9861,
+      "box": [
+        116,
+        90,
+        382,
+        120
+      ]
+    },
+    {
+      "text": "IL, USA|+1-805-833-3568 |krystal.khan@example.com",
+      "score": 0.9861,
+      "box": [
+        116,
+        152,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Group, 2020.09–2023.01",
+      "score": 0.9812,
+      "box": [
+        114,
+        289,
+        698,
+        314
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9733,
+      "box": [
+        125,
+        314,
+        424,
+        339
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.9519,
+      "box": [
+        127,
+        340,
+        485,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Financial, 2017.10–2020.02",
+      "score": 0.9844,
+      "box": [
+        114,
+        381,
+        701,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed expense allocations",
+      "score": 0.9966,
+      "box": [
+        126,
+        407,
+        424,
+        430
+      ]
+    },
+    {
+      "text": "- Reviewed journal entries",
+      "score": 0.9849,
+      "box": [
+        125,
+        430,
+        371,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Financial, 2014.07–2016.11",
+      "score": 0.9749,
+      "box": [
+        115,
+        472,
+        694,
+        495
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9767,
+      "box": [
+        125,
+        496,
+        414,
+        521
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.9889,
+      "box": [
+        126,
+        521,
+        480,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Law, Bayside University, 2012",
+      "score": 0.9944,
+      "box": [
+        115,
+        632,
+        597,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of documentation standards",
+      "score": 0.9834,
+      "box": [
+        133,
+        656,
+        613,
+        680
+      ]
+    },
+    {
+      "text": "• Studied principles of compliance auditing",
+      "score": 0.9936,
+      "box": [
+        134,
+        681,
+        526,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "KRYSTAL KHAN\nIL, USA|+1-805-833-3568 |krystal.khan@example.com\nWORK HISTORY\nAccountants Auditors, Integrity Count Group, 2020.09–2023.01\n- Designed audit methodologies\n- Designed financial policy frameworks\nAccountants Auditors, FairBalance Financial, 2017.10–2020.02\n- Reviewed expense allocations\n- Reviewed journal entries\nAccountants Auditors, ClearCount Financial, 2014.07–2016.11\n- Tracked budget expenditures\n- Processed expense reimbursements\nEDUCATION\nBachelor's, Business Law, Bayside University, 2012\n• Studied fundamentals of documentation standards\n• Studied principles of compliance auditing"
+}

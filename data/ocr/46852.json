@@ -1,0 +1,187 @@
+{
+  "id": "46852",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.77,
+  "n_lines": 13,
+  "mean_score": 0.983,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KENNETH HOGAN",
+      "score": 0.9887,
+      "box": [
+        116,
+        90,
+        414,
+        120
+      ]
+    },
+    {
+      "text": "PA, USA|+1-640-967-3798|kenneth.hogan@example.com",
+      "score": 0.9917,
+      "box": [
+        115,
+        150,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9945,
+      "box": [
+        115,
+        242,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corecrest Software, 2020.12–2023.01",
+      "score": 0.9872,
+      "box": [
+        114,
+        288,
+        673,
+        313
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9812,
+      "box": [
+        125,
+        313,
+        410,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9757,
+      "box": [
+        127,
+        340,
+        423,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Corecrest Labs, 2017.08–2019.09",
+      "score": 0.9924,
+      "box": [
+        116,
+        382,
+        637,
+        405
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9915,
+      "box": [
+        126,
+        408,
+        346,
+        429
+      ]
+    },
+    {
+      "text": "- Debugged runtime errors",
+      "score": 0.9468,
+      "box": [
+        125,
+        430,
+        375,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Elmwood Ridge University, 2009",
+      "score": 0.9752,
+      "box": [
+        115,
+        541,
+        527,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of linear algebra",
+      "score": 0.9674,
+      "box": [
+        133,
+        566,
+        469,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in quality assurance",
+      "score": 0.9888,
+      "box": [
+        133,
+        590,
+        552,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KENNETH HOGAN\nPA, USA|+1-640-967-3798|kenneth.hogan@example.com\nWORK HISTORY\nSoftware Developers, Corecrest Software, 2020.12–2023.01\n- Defined scalability roadmaps\n- Implemented core frameworks\nSoftware Developers, Corecrest Labs, 2017.08–2019.09\n- Created test data sets\n- Debugged runtime errors\nEDUCATION\nBachelor's, Elmwood Ridge University, 2009\n• Studied principles of linear algebra\n• Completed coursework in quality assurance"
+}

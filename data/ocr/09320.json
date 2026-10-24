@@ -1,0 +1,239 @@
+{
+  "id": "09320",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.94,
+  "n_lines": 17,
+  "mean_score": 0.9809,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MICHELLE KHAN",
+      "score": 0.9733,
+      "box": [
+        116,
+        90,
+        396,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-653-727-4546 |michelle.khan@example.com",
+      "score": 0.9851,
+      "box": [
+        117,
+        152,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9897,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Silverstack Solutions, 2020.12–2023.01",
+      "score": 0.9847,
+      "box": [
+        115,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Designed deployment strategies",
+      "score": 0.9729,
+      "box": [
+        126,
+        314,
+        441,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9781,
+      "box": [
+        127,
+        340,
+        461,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Flowframe Labs, 2018.11–2020.12",
+      "score": 0.9932,
+      "box": [
+        116,
+        382,
+        645,
+        405
+      ]
+    },
+    {
+      "text": "- Wrote automated tests",
+      "score": 0.989,
+      "box": [
+        125,
+        405,
+        353,
+        430
+      ]
+    },
+    {
+      "text": "- Developed Cl/CD scripts",
+      "score": 0.95,
+      "box": [
+        126,
+        428,
+        371,
+        458
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Labs, 2016.10–2018.11",
+      "score": 0.9834,
+      "box": [
+        116,
+        472,
+        640,
+        496
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9832,
+      "box": [
+        125,
+        496,
+        403,
+        521
+      ]
+    },
+    {
+      "text": "- Wrote utility scripts",
+      "score": 0.9745,
+      "box": [
+        126,
+        521,
+        318,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Master's, Goldenview University, 2015",
+      "score": 0.966,
+      "box": [
+        115,
+        632,
+        473,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Willowbrook University, 2013",
+      "score": 0.9746,
+      "box": [
+        115,
+        657,
+        494,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in mobile application development",
+      "score": 0.9884,
+      "box": [
+        133,
+        683,
+        682,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in numerical methods",
+      "score": 0.9903,
+      "box": [
+        133,
+        707,
+        566,
+        730
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "MICHELLE KHAN\nCA, USA|+1-653-727-4546 |michelle.khan@example.com\nWORK HISTORY\nSoftware Developers, Silverstack Solutions, 2020.12–2023.01\n- Designed deployment strategies\n- Implemented service orchestration\nSoftware Developers, Flowframe Labs, 2018.11–2020.12\n- Wrote automated tests\n- Developed Cl/CD scripts\nSoftware Developers, Corewave Labs, 2016.10–2018.11\n- Participated in code reviews\n- Wrote utility scripts\nEDUCATION\nMaster's, Goldenview University, 2015\nBachelor's, Willowbrook University, 2013\n• Completed coursework in mobile application development\n• Completed coursework in numerical methods"
+}

@@ -1,0 +1,174 @@
+{
+  "id": "18505",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.96,
+  "n_lines": 12,
+  "mean_score": 0.9836,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DANIEL WILCOX",
+      "score": 0.9687,
+      "box": [
+        116,
+        90,
+        386,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-907-664-5514 |daniel.wilcox@example.com",
+      "score": 0.9831,
+      "box": [
+        116,
+        151,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Stronghold Construction, 2020.07–2023.01",
+      "score": 0.9803,
+      "box": [
+        114,
+        289,
+        731,
+        313
+      ]
+    },
+    {
+      "text": "- Developed structural reinforcement plans",
+      "score": 0.9796,
+      "box": [
+        125,
+        314,
+        522,
+        339
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.9925,
+      "box": [
+        126,
+        339,
+        478,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Frame Co., 2018.01–2020.07",
+      "score": 0.9715,
+      "box": [
+        116,
+        382,
+        664,
+        405
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9877,
+      "box": [
+        125,
+        406,
+        489,
+        431
+      ]
+    },
+    {
+      "text": "- Set up ladders and basic scaffolding",
+      "score": 0.9963,
+      "box": [
+        126,
+        431,
+        477,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Practices, Canyon View High School, 2016",
+      "score": 0.9915,
+      "box": [
+        116,
+        541,
+        897,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of door installation",
+      "score": 0.9706,
+      "box": [
+        132,
+        564,
+        525,
+        588
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "DANIEL WILCOX\nIL, USA|+1-907-664-5514 |daniel.wilcox@example.com\nWORK HISTORY\nConstruction Laborers, Stronghold Construction, 2020.07–2023.01\n- Developed structural reinforcement plans\n- Designed construction staging plans\nConstruction Laborers, Allied Frame Co., 2018.01–2020.07\n- Performed basic plumbing assistance\n- Set up ladders and basic scaffolding\nEDUCATION\nHigh school graduate/GED, Construction Practices, Canyon View High School, 2016\n• Studied fundamentals of door installation"
+}

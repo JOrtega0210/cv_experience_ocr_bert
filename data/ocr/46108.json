@@ -1,0 +1,187 @@
+{
+  "id": "46108",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.812,
+  "n_lines": 13,
+  "mean_score": 0.981,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RYAN ASHLEY",
+      "score": 0.9872,
+      "box": [
+        116,
+        90,
+        358,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-975-897-6394|ryan.ashley@example.com",
+      "score": 0.9882,
+      "box": [
+        115,
+        150,
+        646,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9798,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongLine Builders, 2020.05–2023.01",
+      "score": 0.9803,
+      "box": [
+        114,
+        289,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Developed construction workflows",
+      "score": 0.9891,
+      "box": [
+        126,
+        315,
+        458,
+        338
+      ]
+    },
+    {
+      "text": "- Directed construction audits",
+      "score": 0.9654,
+      "box": [
+        126,
+        340,
+        400,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeWay Construction, 2017.08–2020.05",
+      "score": 0.9955,
+      "box": [
+        116,
+        382,
+        728,
+        405
+      ]
+    },
+    {
+      "text": "- Followed safety procedures on site",
+      "score": 0.9954,
+      "box": [
+        126,
+        407,
+        465,
+        431
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9617,
+      "box": [
+        126,
+        430,
+        424,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Technology, Willow Ridge University, 2020",
+      "score": 0.964,
+      "box": [
+        115,
+        540,
+        844,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction site signage",
+      "score": 0.9674,
+      "box": [
+        132,
+        565,
+        619,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of power tool operation",
+      "score": 0.9814,
+      "box": [
+        132,
+        590,
+        568,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "RYAN ASHLEY\nPA, USA|+1-975-897-6394|ryan.ashley@example.com\nWORK HISTORY\nConstruction Laborers, StrongLine Builders, 2020.05–2023.01\n- Developed construction workflows\n- Directed construction audits\nConstruction Laborers, PrimeWay Construction, 2017.08–2020.05\n- Followed safety procedures on site\n- Followed blueprint instructions\nEDUCATION\nSome college (no degree), Building Technology, Willow Ridge University, 2020\n• Completed coursework in construction site signage\n• Studied fundamentals of power tool operation"
+}

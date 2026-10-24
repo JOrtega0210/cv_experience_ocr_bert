@@ -1,0 +1,265 @@
+{
+  "id": "25252",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.911,
+  "n_lines": 19,
+  "mean_score": 0.978,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ISABEL BALL",
+      "score": 0.9897,
+      "box": [
+        115,
+        90,
+        339,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-855-807-4115 |isabel.ball@example.com",
+      "score": 0.9798,
+      "box": [
+        115,
+        150,
+        636,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9812,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueCare Nursing, 2019.12–2023.01",
+      "score": 0.9829,
+      "box": [
+        115,
+        289,
+        640,
+        314
+      ]
+    },
+    {
+      "text": "- Directed emergency response planning",
+      "score": 0.9557,
+      "box": [
+        126,
+        313,
+        504,
+        340
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.973,
+      "box": [
+        127,
+        339,
+        520,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeHands Care Center, 2016.11–2019.12",
+      "score": 0.9783,
+      "box": [
+        115,
+        381,
+        699,
+        406
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9753,
+      "box": [
+        126,
+        406,
+        510,
+        431
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.9875,
+      "box": [
+        126,
+        431,
+        455,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelISpring Nursing Services, 2013.10–2016.11",
+      "score": 0.9839,
+      "box": [
+        116,
+        473,
+        739,
+        496
+      ]
+    },
+    {
+      "text": "- Managed patient referrals",
+      "score": 0.9814,
+      "box": [
+        126,
+        498,
+        381,
+        521
+      ]
+    },
+    {
+      "text": "- Managed patient advocacy tasks",
+      "score": 0.9809,
+      "box": [
+        126,
+        521,
+        447,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Hands Care, 2010.08–2013.10",
+      "score": 0.9894,
+      "box": [
+        116,
+        564,
+        655,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9606,
+      "box": [
+        125,
+        589,
+        387,
+        614
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.963,
+      "box": [
+        126,
+        613,
+        435,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Technology, EIm Valley University, 208",
+      "score": 0.9656,
+      "box": [
+        114,
+        723,
+        716,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of infection surveillance",
+      "score": 0.964,
+      "box": [
+        132,
+        747,
+        536,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of wound care",
+      "score": 0.9906,
+      "box": [
+        134,
+        774,
+        450,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "ISABEL BALL\nMA, USA|+1-855-807-4115 |isabel.ball@example.com\nWORK HISTORY\nRegistered Nurses, TrueCare Nursing, 2019.12–2023.01\n- Directed emergency response planning\n- Established nursing performance metrics\nRegistered Nurses, SafeHands Care Center, 2016.11–2019.12\n- Directed nursing process improvements\n- Led nursing workflow optimization\nRegistered Nurses, WelISpring Nursing Services, 2013.10–2016.11\n- Managed patient referrals\n- Managed patient advocacy tasks\nRegistered Nurses, Caring Hands Care, 2010.08–2013.10\n- Prepared treatment rooms\n- Monitored patient dietary needs\nEDUCATION\nBachelor's, Health Care Technology, EIm Valley University, 208\n• Studied principles of infection surveillance\n• Studied principles of wound care"
+}

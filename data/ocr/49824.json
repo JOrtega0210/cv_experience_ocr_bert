@@ -1,0 +1,187 @@
+{
+  "id": "49824",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.774,
+  "n_lines": 13,
+  "mean_score": 0.9816,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ARTHUR WALLACE",
+      "score": 0.9722,
+      "box": [
+        116,
+        90,
+        436,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-563-532-4122|arthur.wallace@example.com",
+      "score": 0.9835,
+      "box": [
+        115,
+        150,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9891,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datapoint Solutions, 2019.02–2021.10",
+      "score": 0.986,
+      "box": [
+        115,
+        290,
+        677,
+        313
+      ]
+    },
+    {
+      "text": "- Led platform migrations",
+      "score": 0.9853,
+      "box": [
+        126,
+        314,
+        361,
+        339
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.9763,
+      "box": [
+        126,
+        339,
+        541,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Skycore Technologies, 2015.02–2017.11",
+      "score": 0.9881,
+      "box": [
+        115,
+        381,
+        700,
+        406
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.9697,
+      "box": [
+        125,
+        405,
+        332,
+        431
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9786,
+      "box": [
+        126,
+        430,
+        351,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Larkspur University, 2013",
+      "score": 0.9564,
+      "box": [
+        115,
+        540,
+        461,
+        563
+      ]
+    },
+    {
+      "text": "• Studied principles of operating systems",
+      "score": 0.9884,
+      "box": [
+        132,
+        565,
+        511,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in signal processing basics",
+      "score": 0.9894,
+      "box": [
+        133,
+        590,
+        616,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ARTHUR WALLACE\nTX, USA|+1-563-532-4122|arthur.wallace@example.com\nWORK HISTORY\nSoftware Developers, Datapoint Solutions, 2019.02–2021.10\n- Led platform migrations\n- Defined technical documentation standards\nSoftware Developers, Skycore Technologies, 2015.02–2017.11\n- Handled file uploads\n- Wrote integration tests\nEDUCATION\nBachelor's, Larkspur University, 2013\n• Studied principles of operating systems\n• Completed coursework in signal processing basics"
+}

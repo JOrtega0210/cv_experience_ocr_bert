@@ -1,0 +1,187 @@
+{
+  "id": "26020",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.806,
+  "n_lines": 13,
+  "mean_score": 0.9816,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JESSICA MCBRIDE",
+      "score": 0.9858,
+      "box": [
+        116,
+        90,
+        427,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-453-846-4558 |jessica.mcbride@example.com",
+      "score": 0.9868,
+      "box": [
+        115,
+        150,
+        687,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpath Systems, 2020.12–2023.01",
+      "score": 0.9938,
+      "box": [
+        116,
+        290,
+        665,
+        313
+      ]
+    },
+    {
+      "text": "- Defined engineering best practices",
+      "score": 0.9813,
+      "box": [
+        125,
+        314,
+        462,
+        337
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9794,
+      "box": [
+        127,
+        340,
+        424,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Corestack Digital, 2018.10–220.12",
+      "score": 0.9858,
+      "box": [
+        115,
+        381,
+        655,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9762,
+      "box": [
+        126,
+        407,
+        478,
+        430
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9643,
+      "box": [
+        126,
+        430,
+        352,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Aspen Grove University, 2018",
+      "score": 0.9583,
+      "box": [
+        115,
+        541,
+        503,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in network security",
+      "score": 0.9783,
+      "box": [
+        133,
+        565,
+        540,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in web development basics",
+      "score": 0.9886,
+      "box": [
+        133,
+        590,
+        618,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JESSICA MCBRIDE\nMA, USA|+1-453-846-4558 |jessica.mcbride@example.com\nWORK HISTORY\nSoftware Developers, Flowpath Systems, 2020.12–2023.01\n- Defined engineering best practices\n- Implemented core frameworks\nSoftware Developers, Corestack Digital, 2018.10–220.12\n- Assisted with system documentation\n- Wrote integration tests\nEDUCATION\nBachelor's, Aspen Grove University, 2018\n• Completed coursework in network security\n• Completed coursework in web development basics"
+}

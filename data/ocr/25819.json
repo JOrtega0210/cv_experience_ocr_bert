@@ -1,0 +1,161 @@
+{
+  "id": "25819",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.849,
+  "n_lines": 11,
+  "mean_score": 0.9829,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ASHLEY STEPHENSON",
+      "score": 0.9815,
+      "box": [
+        117,
+        90,
+        491,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-702-234-8269|ashley.stephenson@example.com",
+      "score": 0.9832,
+      "box": [
+        116,
+        152,
+        718,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        116,
+        244,
+        315,
+        268
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Futures Academy, 2019.08–220.04",
+      "score": 0.9876,
+      "box": [
+        115,
+        289,
+        875,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented basic classroom management procedures",
+      "score": 0.9738,
+      "box": [
+        126,
+        314,
+        656,
+        339
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9865,
+      "box": [
+        126,
+        340,
+        458,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        266,
+        430
+      ]
+    },
+    {
+      "text": "Master's, General Education, Greenway University, 2008",
+      "score": 0.9808,
+      "box": [
+        115,
+        449,
+        641,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Introductory Education, Clearhaven University, 2006",
+      "score": 0.9803,
+      "box": [
+        115,
+        474,
+        708,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational skill building",
+      "score": 0.9565,
+      "box": [
+        134,
+        499,
+        615,
+        523
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic mentoring strategies",
+      "score": 0.9981,
+      "box": [
+        134,
+        523,
+        632,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "ASHLEY STEPHENSON\nMA, USA|+1-702-234-8269|ashley.stephenson@example.com\nWORK HISTORY\nElementary Middle School Teachers, Golden Futures Academy, 2019.08–220.04\n- Implemented basic classroom management procedures\n- Recorded behavioral observations\nEDUCATION\nMaster's, General Education, Greenway University, 2008\nBachelor's, Introductory Education, Clearhaven University, 2006\n• Completed coursework in educational skill building\n• Completed coursework in basic mentoring strategies"
+}

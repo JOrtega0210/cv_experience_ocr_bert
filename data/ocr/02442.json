@@ -1,0 +1,226 @@
+{
+  "id": "02442",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.969,
+  "n_lines": 16,
+  "mean_score": 0.981,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NICOLE HODGES",
+      "score": 0.9941,
+      "box": [
+        116,
+        90,
+        399,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-617-382-4420 |nicole.hodges@example.com",
+      "score": 0.9933,
+      "box": [
+        116,
+        152,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9814,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenWay Nursing Services, 2020.01–2023.01",
+      "score": 0.9919,
+      "box": [
+        115,
+        289,
+        731,
+        314
+      ]
+    },
+    {
+      "text": "- Established clinical evaluation protocols",
+      "score": 0.9813,
+      "box": [
+        125,
+        313,
+        510,
+        338
+      ]
+    },
+    {
+      "text": "- Directed nursing education initiatives",
+      "score": 0.951,
+      "box": [
+        126,
+        339,
+        482,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Care Services, 2016.06–2019.06",
+      "score": 0.9891,
+      "box": [
+        115,
+        381,
+        729,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed care plan outcomes",
+      "score": 0.976,
+      "box": [
+        125,
+        406,
+        423,
+        431
+      ]
+    },
+    {
+      "text": "- Monitored infusion pump settings",
+      "score": 0.9857,
+      "box": [
+        126,
+        430,
+        449,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Path Nursing, 2012.11–2015.11",
+      "score": 0.9928,
+      "box": [
+        116,
+        472,
+        662,
+        496
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9941,
+      "box": [
+        125,
+        496,
+        445,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9431,
+      "box": [
+        126,
+        521,
+        372,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Sciences, Willowview University, 2006",
+      "score": 0.9705,
+      "box": [
+        114,
+        631,
+        657,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient positioning",
+      "score": 0.9679,
+      "box": [
+        133,
+        657,
+        556,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in medical-surgical nursing",
+      "score": 0.9853,
+      "box": [
+        135,
+        683,
+        614,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "NICOLE HODGES\nAR, USA|+1-617-382-4420 |nicole.hodges@example.com\nWORK HISTORY\nRegistered Nurses, OpenWay Nursing Services, 2020.01–2023.01\n- Established clinical evaluation protocols\n- Directed nursing education initiatives\nRegistered Nurses, Compassion Care Services, 2016.06–2019.06\n- Reviewed care plan outcomes\n- Monitored infusion pump settings\nRegistered Nurses, Caring Path Nursing, 2012.11–2015.11\n- Collected patient health histories\n- Prepared sterile supplies\nEDUCATION\nBachelor's, Medical Sciences, Willowview University, 2006\n• Completed coursework in patient positioning\n• Completed coursework in medical-surgical nursing"
+}

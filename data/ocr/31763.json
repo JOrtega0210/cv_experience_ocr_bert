@@ -1,0 +1,200 @@
+{
+  "id": "31763",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.8,
+  "n_lines": 14,
+  "mean_score": 0.9822,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ZACHARY WIGGINS",
+      "score": 0.972,
+      "box": [
+        115,
+        90,
+        439,
+        121
+      ]
+    },
+    {
+      "text": "NE, USA|+1-765-793-7361 |zachary.wiggins@example.com",
+      "score": 0.9859,
+      "box": [
+        116,
+        152,
+        689,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9796,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Ironleaf Tech, 2020.09–2022.07",
+      "score": 0.9619,
+      "box": [
+        115,
+        290,
+        619,
+        313
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.977,
+      "box": [
+        126,
+        315,
+        396,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented performance optimization plans",
+      "score": 0.9921,
+      "box": [
+        126,
+        339,
+        559,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudcrest Labs, 2017.10–2019.09",
+      "score": 0.9963,
+      "box": [
+        116,
+        382,
+        648,
+        405
+      ]
+    },
+    {
+      "text": "-Reviewed API documentation",
+      "score": 0.9725,
+      "box": [
+        126,
+        407,
+        415,
+        429
+      ]
+    },
+    {
+      "text": "-Assisted with build automation",
+      "score": 0.9712,
+      "box": [
+        126,
+        431,
+        422,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Oakridge University, 2011",
+      "score": 0.9944,
+      "box": [
+        115,
+        541,
+        446,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Stonecrest University, 2009",
+      "score": 0.9809,
+      "box": [
+        115,
+        565,
+        480,
+        588
+      ]
+    },
+    {
+      "text": "• Studied principles of computational thinking",
+      "score": 0.9817,
+      "box": [
+        133,
+        591,
+        549,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of cryptography basics",
+      "score": 0.987,
+      "box": [
+        134,
+        616,
+        527,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "ZACHARY WIGGINS\nNE, USA|+1-765-793-7361 |zachary.wiggins@example.com\nWORK HISTORY\nSoftware Developers, Ironleaf Tech, 2020.09–2022.07\n- Designed scalable services\n- Implemented performance optimization plans\nSoftware Developers, Cloudcrest Labs, 2017.10–2019.09\n-Reviewed API documentation\n-Assisted with build automation\nEDUCATION\nMaster's, Oakridge University, 2011\nBachelor's, Stonecrest University, 2009\n• Studied principles of computational thinking\n• Studied principles of cryptography basics"
+}

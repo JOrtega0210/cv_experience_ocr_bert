@@ -1,0 +1,187 @@
+{
+  "id": "47352",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.792,
+  "n_lines": 13,
+  "mean_score": 0.9813,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NATALIE GRIFFITH",
+      "score": 0.9883,
+      "box": [
+        116,
+        90,
+        427,
+        120
+      ]
+    },
+    {
+      "text": "SC,USA|+1-986-203-6652|natalie.griffith@example.com",
+      "score": 0.9818,
+      "box": [
+        116,
+        151,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9854,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearBridge Nursing Services, 2021.03–2023.01",
+      "score": 0.9851,
+      "box": [
+        114,
+        289,
+        748,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9742,
+      "box": [
+        127,
+        315,
+        456,
+        338
+      ]
+    },
+    {
+      "text": "– Managed care delivery innovation",
+      "score": 0.9759,
+      "box": [
+        127,
+        340,
+        454,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Hands Medical, 2019.04–2021.03",
+      "score": 0.9814,
+      "box": [
+        115,
+        382,
+        690,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9686,
+      "box": [
+        125,
+        406,
+        387,
+        431
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.9717,
+      "box": [
+        126,
+        432,
+        453,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Studies, Amber Hills University, 2023",
+      "score": 0.9651,
+      "box": [
+        114,
+        539,
+        635,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of wound care",
+      "score": 0.9851,
+      "box": [
+        133,
+        566,
+        450,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in communication in care teams",
+      "score": 0.9961,
+      "box": [
+        134,
+        591,
+        661,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "NATALIE GRIFFITH\nSC,USA|+1-986-203-6652|natalie.griffith@example.com\nWORK HISTORY\nRegistered Nurses, ClearBridge Nursing Services, 2021.03–2023.01\n- Implemented care standardization\n– Managed care delivery innovation\nRegistered Nurses, Helping Hands Medical, 2019.04–2021.03\n- Prepared treatment rooms\n- Documented patient observations\nEDUCATION\nBachelor's, Health Studies, Amber Hills University, 2023\n• Studied principles of wound care\n• Completed coursework in communication in care teams"
+}

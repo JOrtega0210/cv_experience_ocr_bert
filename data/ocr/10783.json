@@ -1,0 +1,148 @@
+{
+  "id": "10783",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.883,
+  "n_lines": 10,
+  "mean_score": 0.9834,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JESUS DALTON",
+      "score": 0.9829,
+      "box": [
+        116,
+        90,
+        377,
+        121
+      ]
+    },
+    {
+      "text": "CT, USA|+1-355-268-1325 |jesus.dalton@example.com",
+      "score": 0.9721,
+      "box": [
+        116,
+        150,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9817,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyRise Contractors, 2021.12–2023.01",
+      "score": 0.9802,
+      "box": [
+        115,
+        290,
+        727,
+        313
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.9907,
+      "box": [
+        125,
+        314,
+        441,
+        337
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.9824,
+      "box": [
+        126,
+        339,
+        481,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Surveying Technology, Goldenwood University, 2023",
+      "score": 0.9829,
+      "box": [
+        115,
+        447,
+        859,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of flooring installation",
+      "score": 0.9763,
+      "box": [
+        132,
+        472,
+        553,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction terminology",
+      "score": 0.9865,
+      "box": [
+        133,
+        497,
+        615,
+        524
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JESUS DALTON\nCT, USA|+1-355-268-1325 |jesus.dalton@example.com\nWORK HISTORY\nConstruction Laborers, SteadyRise Contractors, 2021.12–2023.01\n- Handled delivery documentation\n- Supported crew leaders during tasks\nEDUCATION\nSome college (no degree), Surveying Technology, Goldenwood University, 2023\n• Studied fundamentals of flooring installation\n• Completed coursework in construction terminology"
+}

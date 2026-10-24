@@ -1,0 +1,187 @@
+{
+  "id": "44627",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.832,
+  "n_lines": 13,
+  "mean_score": 0.9773,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CLIFFORD ASHLEY",
+      "score": 0.9869,
+      "box": [
+        116,
+        88,
+        434,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA|+1-922-478-9914|clifford.ashley@example.com",
+      "score": 0.9783,
+      "box": [
+        115,
+        150,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9777,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftLine Builders, 2018.11–2021.08",
+      "score": 0.9911,
+      "box": [
+        115,
+        290,
+        674,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.9851,
+      "box": [
+        125,
+        314,
+        439,
+        339
+      ]
+    },
+    {
+      "text": "- Managed large-scale installations",
+      "score": 0.9732,
+      "box": [
+        126,
+        339,
+        452,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronStone Contractors, 2015.02–2017.11",
+      "score": 0.9818,
+      "box": [
+        115,
+        381,
+        712,
+        405
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.951,
+      "box": [
+        126,
+        408,
+        510,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.9837,
+      "box": [
+        125,
+        430,
+        583,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Drafting Technology, Briar Ridge University, 2008",
+      "score": 0.9606,
+      "box": [
+        116,
+        541,
+        826,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of flooring installation",
+      "score": 0.9445,
+      "box": [
+        133,
+        566,
+        553,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction acoustics basics",
+      "score": 0.9924,
+      "box": [
+        135,
+        591,
+        659,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "CLIFFORD ASHLEY\nPA, USA|+1-922-478-9914|clifford.ashley@example.com\nWORK HISTORY\nConstruction Laborers, CraftLine Builders, 2018.11–2021.08\n- Reviewed engineering drawings\n- Managed large-scale installations\nConstruction Laborers, IronStone Contractors, 2015.02–2017.11\n- Operated hand tools for assembly tasks\n- Assisted with basic electrical conduit placement\nEDUCATION\nSome college (no degree), Drafting Technology, Briar Ridge University, 2008\n• Studied fundamentals of flooring installation\n• Completed coursework in construction acoustics basics"
+}

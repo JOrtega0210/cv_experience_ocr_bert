@@ -1,0 +1,148 @@
+{
+  "id": "26018",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.737,
+  "n_lines": 10,
+  "mean_score": 0.9864,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LOUISA HARRISON",
+      "score": 0.9956,
+      "box": [
+        116,
+        90,
+        432,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-285-230-1069 |louisa.harrison@example.com",
+      "score": 0.9848,
+      "box": [
+        115,
+        150,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightnode Systems, 2021.07–2022.03",
+      "score": 0.9863,
+      "box": [
+        116,
+        290,
+        683,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9918,
+      "box": [
+        125,
+        314,
+        508,
+        337
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.973,
+      "box": [
+        126,
+        339,
+        437,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Brookhaven University, 2019",
+      "score": 0.9937,
+      "box": [
+        115,
+        449,
+        492,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in model-view-controller pattern",
+      "score": 0.9767,
+      "box": [
+        133,
+        474,
+        658,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of ACID properties",
+      "score": 0.9793,
+      "box": [
+        134,
+        499,
+        490,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "LOUISA HARRISON\nMA, USA|+1-285-230-1069 |louisa.harrison@example.com\nWORK HISTORY\nSoftware Developers, Brightnode Systems, 2021.07–2022.03\n- Assisted with version control operations\n- Reviewed test coverage reports\nEDUCATION\nBachelor's, Brookhaven University, 2019\n• Completed coursework in model-view-controller pattern\n• Studied principles of ACID properties"
+}

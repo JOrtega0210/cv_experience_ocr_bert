@@ -1,0 +1,226 @@
+{
+  "id": "59925",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.831,
+  "n_lines": 16,
+  "mean_score": 0.978,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARY REILLY",
+      "score": 0.987,
+      "box": [
+        116,
+        90,
+        346,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-401-701-8695|mary.reilly@example.com",
+      "score": 0.9648,
+      "box": [
+        114,
+        150,
+        641,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHope Care Center, 2019.11–2023.01",
+      "score": 0.9837,
+      "box": [
+        115,
+        289,
+        685,
+        314
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.9706,
+      "box": [
+        127,
+        315,
+        392,
+        339
+      ]
+    },
+    {
+      "text": "- Managed clinical resource planning",
+      "score": 0.9755,
+      "box": [
+        126,
+        339,
+        468,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Way Nursing, 2016.03–2019.05",
+      "score": 0.9864,
+      "box": [
+        115,
+        381,
+        662,
+        406
+      ]
+    },
+    {
+      "text": "– Managed patient referrals",
+      "score": 0.9429,
+      "box": [
+        127,
+        407,
+        381,
+        430
+      ]
+    },
+    {
+      "text": "- Managed patient fall prevention measures",
+      "score": 0.9877,
+      "box": [
+        126,
+        431,
+        531,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewBridge Health Group, 2012.06–2015.09",
+      "score": 0.9842,
+      "box": [
+        116,
+        473,
+        707,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9749,
+      "box": [
+        126,
+        498,
+        387,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.9862,
+      "box": [
+        126,
+        521,
+        419,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Technology, Willowbrook University, 2006",
+      "score": 0.9721,
+      "box": [
+        115,
+        632,
+        691,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of medication reconciliation",
+      "score": 0.983,
+      "box": [
+        133,
+        657,
+        608,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in medication safety",
+      "score": 0.9663,
+      "box": [
+        136,
+        683,
+        551,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "MARY REILLY\nWA, USA|+1-401-701-8695|mary.reilly@example.com\nWORK HISTORY\nRegistered Nurses, NewHope Care Center, 2019.11–2023.01\n- Led nursing process audits\n- Managed clinical resource planning\nRegistered Nurses, Caring Way Nursing, 2016.03–2019.05\n– Managed patient referrals\n- Managed patient fall prevention measures\nRegistered Nurses, NewBridge Health Group, 2012.06–2015.09\n- Prepared treatment rooms\n- Assisted with patient transfers\nEDUCATION\nBachelor's, Medical Technology, Willowbrook University, 2006\n• Studied fundamentals of medication reconciliation\n• Completed coursework in medication safety"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "50524",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.752,
+  "n_lines": 10,
+  "mean_score": 0.9796,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "XAVIER LANDRY",
+      "score": 0.9651,
+      "box": [
+        115,
+        90,
+        392,
+        120
+      ]
+    },
+    {
+      "text": "TX, USA|+1-269-567-3054|xavier.landry@example.com",
+      "score": 0.9813,
+      "box": [
+        115,
+        150,
+        657,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Durable Works, 2021.01–2023.01",
+      "score": 0.9884,
+      "box": [
+        116,
+        291,
+        644,
+        311
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9742,
+      "box": [
+        126,
+        314,
+        406,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.9701,
+      "box": [
+        126,
+        338,
+        555,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Electrical Technology, Pineview Ridge University, 2023",
+      "score": 0.9821,
+      "box": [
+        115,
+        447,
+        877,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of masonry",
+      "score": 0.9764,
+      "box": [
+        132,
+        472,
+        459,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of tool maintenance",
+      "score": 0.976,
+      "box": [
+        134,
+        499,
+        501,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "XAVIER LANDRY\nTX, USA|+1-269-567-3054|xavier.landry@example.com\nWORK HISTORY\nConstruction Laborers, Durable Works, 2021.01–2023.01\n- Installed temporary supports\n- Prepared tools and equipment for daily tasks\nEDUCATION\nSome college (no degree), Electrical Technology, Pineview Ridge University, 2023\n• Studied fundamentals of masonry\n• Studied principles of tool maintenance"
+}

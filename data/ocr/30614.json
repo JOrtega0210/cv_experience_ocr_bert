@@ -1,0 +1,135 @@
+{
+  "id": "30614",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.745,
+  "n_lines": 9,
+  "mean_score": 0.977,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ASHER HEBERT",
+      "score": 0.969,
+      "box": [
+        116,
+        90,
+        382,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA |+1-771-611-8246 | asher.hebert@example.com",
+      "score": 0.9565,
+      "box": [
+        116,
+        151,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.983,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Craft Builders, 2021.04–2023.01",
+      "score": 0.9758,
+      "box": [
+        115,
+        290,
+        704,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.964,
+      "box": [
+        126,
+        315,
+        512,
+        338
+      ]
+    },
+    {
+      "text": "- Installed simple fixtures",
+      "score": 0.9832,
+      "box": [
+        126,
+        339,
+        359,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Industrial Technology, Elmwood High School, 2022",
+      "score": 0.9754,
+      "box": [
+        116,
+        449,
+        849,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural basics",
+      "score": 0.9871,
+      "box": [
+        133,
+        474,
+        541,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "ASHER HEBERT\nMO, USA |+1-771-611-8246 | asher.hebert@example.com\nWORK HISTORY\nConstruction Laborers, Unified Craft Builders, 2021.04–2023.01\n- Prepared surfaces for construction work\n- Installed simple fixtures\nEDUCATION\nHigh school graduate/GED, Industrial Technology, Elmwood High School, 2022\n• Completed coursework in structural basics"
+}

@@ -1,0 +1,265 @@
+{
+  "id": "50414",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.892,
+  "n_lines": 19,
+  "mean_score": 0.979,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSHUA CHAN",
+      "score": 0.9658,
+      "box": [
+        116,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-404-609-6418 |joshua.chan@example.com",
+      "score": 0.9702,
+      "box": [
+        115,
+        150,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Digital, 2020.02–202.01",
+      "score": 0.9841,
+      "box": [
+        115,
+        289,
+        667,
+        314
+      ]
+    },
+    {
+      "text": "- Designed configuration management systems",
+      "score": 0.9832,
+      "box": [
+        125,
+        314,
+        566,
+        339
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9906,
+      "box": [
+        126,
+        339,
+        448,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Corestack Digital, 2017.02–220.02",
+      "score": 0.977,
+      "box": [
+        115,
+        381,
+        655,
+        406
+      ]
+    },
+    {
+      "text": "- Led cross-team technical alignment",
+      "score": 0.9852,
+      "box": [
+        125,
+        405,
+        471,
+        431
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9549,
+      "box": [
+        125,
+        430,
+        368,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Skybridge Labs, 2013.08–2016.08",
+      "score": 0.9855,
+      "box": [
+        115,
+        471,
+        640,
+        496
+      ]
+    },
+    {
+      "text": "- Designed application modules",
+      "score": 0.9872,
+      "box": [
+        126,
+        498,
+        421,
+        521
+      ]
+    },
+    {
+      "text": "- Integrated monitoring tools",
+      "score": 0.9718,
+      "box": [
+        126,
+        521,
+        390,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Netwave Labs, 2009.05–2012.05",
+      "score": 0.9744,
+      "box": [
+        114,
+        563,
+        629,
+        588
+      ]
+    },
+    {
+      "text": "- Updated documentation for implemented features",
+      "score": 0.986,
+      "box": [
+        125,
+        589,
+        601,
+        614
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.98,
+      "box": [
+        126,
+        613,
+        495,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Elmwood Ridge University, 2004",
+      "score": 0.9525,
+      "box": [
+        114,
+        723,
+        527,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in calculus for computing",
+      "score": 0.9863,
+      "box": [
+        133,
+        749,
+        596,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in stream processing basics",
+      "score": 0.9818,
+      "box": [
+        135,
+        774,
+        624,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "JOSHUA CHAN\nTX, USA|+1-404-609-6418 |joshua.chan@example.com\nWORK HISTORY\nSoftware Developers, Datastream Digital, 2020.02–202.01\n- Designed configuration management systems\n- Designed data storage strategies\nSoftware Developers, Corestack Digital, 2017.02–220.02\n- Led cross-team technical alignment\n- Built distributed systems\nSoftware Developers, Skybridge Labs, 2013.08–2016.08\n- Designed application modules\n- Integrated monitoring tools\nSoftware Developers, Netwave Labs, 2009.05–2012.05\n- Updated documentation for implemented features\n- Performed basic performance profiling\nEDUCATION\nBachelor's, Elmwood Ridge University, 2004\n• Completed coursework in calculus for computing\n• Completed coursework in stream processing basics"
+}

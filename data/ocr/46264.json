@@ -1,0 +1,148 @@
+{
+  "id": "46264",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.719,
+  "n_lines": 10,
+  "mean_score": 0.9809,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HAROLD TURNER",
+      "score": 0.9624,
+      "box": [
+        116,
+        90,
+        409,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-686-728-6844 |harold.turner@example.com",
+      "score": 0.9668,
+      "box": [
+        115,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Solutions, 2020.01–2023.01",
+      "score": 0.994,
+      "box": [
+        116,
+        290,
+        687,
+        313
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9697,
+      "box": [
+        127,
+        315,
+        403,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with Cl pipeline tasks",
+      "score": 0.9668,
+      "box": [
+        126,
+        339,
+        424,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Hawthorne University, 2023",
+      "score": 0.9919,
+      "box": [
+        115,
+        449,
+        482,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of event-driven architecture",
+      "score": 0.9913,
+      "box": [
+        132,
+        472,
+        572,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of dependency injection",
+      "score": 0.9829,
+      "box": [
+        133,
+        499,
+        538,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "HAROLD TURNER\nPA, USA|+1-686-728-6844 |harold.turner@example.com\nWORK HISTORY\nSoftware Developers, Openwave Solutions, 2020.01–2023.01\n- Participated in code reviews\n- Assisted with Cl pipeline tasks\nEDUCATION\nBachelor's, Hawthorne University, 2023\n• Studied principles of event-driven architecture\n• Studied principles of dependency injection"
+}

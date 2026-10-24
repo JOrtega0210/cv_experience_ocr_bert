@@ -1,0 +1,174 @@
+{
+  "id": "61405",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.859,
+  "n_lines": 12,
+  "mean_score": 0.9847,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TYLER JOHNSTON",
+      "score": 0.9851,
+      "box": [
+        115,
+        90,
+        423,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-665-654-6224|tyler.johnston@example.com",
+      "score": 0.9811,
+      "box": [
+        115,
+        150,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9848,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftFrame Builders, 2020.12–2023.01",
+      "score": 0.9876,
+      "box": [
+        115,
+        290,
+        694,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented quality control systems",
+      "score": 0.984,
+      "box": [
+        126,
+        314,
+        479,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.9728,
+      "box": [
+        126,
+        339,
+        439,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, Highmark Builders, 2018.11–2020.12",
+      "score": 0.9828,
+      "box": [
+        115,
+        381,
+        679,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with roofing material handling",
+      "score": 0.9794,
+      "box": [
+        126,
+        406,
+        498,
+        432
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9839,
+      "box": [
+        126,
+        430,
+        332,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Materials, Evergreen High School, 2018",
+      "score": 0.9862,
+      "box": [
+        116,
+        541,
+        868,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of insulation techniques",
+      "score": 0.9909,
+      "box": [
+        133,
+        566,
+        537,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "TYLER JOHNSTON\nWI, USA|+1-665-654-6224|tyler.johnston@example.com\nWORK HISTORY\nConstruction Laborers, CraftFrame Builders, 2020.12–2023.01\n- Implemented quality control systems\n- Reviewed engineering drawings\nConstruction Laborers, Highmark Builders, 2018.11–2020.12\n- Assisted with roofing material handling\n- Secured site fencing\nEDUCATION\nHigh school graduate/GED, Construction Materials, Evergreen High School, 2018\n• Studied principles of insulation techniques"
+}

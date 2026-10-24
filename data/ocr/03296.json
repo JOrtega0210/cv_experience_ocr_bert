@@ -1,0 +1,213 @@
+{
+  "id": "03296",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.977,
+  "n_lines": 15,
+  "mean_score": 0.9868,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARVIN KAUR",
+      "score": 0.9853,
+      "box": [
+        116,
+        90,
+        356,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-953-347-4352 |marvin.kaur@example.com",
+      "score": 0.9851,
+      "box": [
+        116,
+        150,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9811,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Accounting, 2020.01–2023.01",
+      "score": 0.9912,
+      "box": [
+        115,
+        290,
+        700,
+        312
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9774,
+      "box": [
+        126,
+        313,
+        494,
+        339
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9767,
+      "box": [
+        126,
+        339,
+        530,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Accounting, 2015.11–2018.12",
+      "score": 0.9814,
+      "box": [
+        114,
+        381,
+        708,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared management reports",
+      "score": 0.9858,
+      "box": [
+        126,
+        406,
+        427,
+        432
+      ]
+    },
+    {
+      "text": "- Coordinated audit schedules",
+      "score": 0.9973,
+      "box": [
+        127,
+        431,
+        407,
+        453
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Advisors, 2011.11–2014.12",
+      "score": 0.997,
+      "box": [
+        115,
+        472,
+        713,
+        495
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9757,
+      "box": [
+        125,
+        496,
+        490,
+        521
+      ]
+    },
+    {
+      "text": "-Reviewed credit memos",
+      "score": 0.9889,
+      "box": [
+        125,
+        521,
+        366,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "High school graduate/GED, General Business, Parkview High School, 2010",
+      "score": 0.989,
+      "box": [
+        116,
+        632,
+        814,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial compliance basics",
+      "score": 0.9905,
+      "box": [
+        132,
+        656,
+        642,
+        680
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "MARVIN KAUR\nCA, USA|+1-953-347-4352 |marvin.kaur@example.com\nWORK HISTORY\nAccountants Auditors, FairBooks Accounting, 2020.01–2023.01\n- Established financial data governance\n- Established reporting automation systems\nAccountants Auditors, EverCount Accounting, 2015.11–2018.12\n- Prepared management reports\n- Coordinated audit schedules\nAccountants Auditors, OpenBalance Advisors, 2011.11–2014.12\n- Processed accounts payable invoices\n-Reviewed credit memos\nEDUCATION\nHigh school graduate/GED, General Business, Parkview High School, 2010\n• Completed coursework in financial compliance basics"
+}

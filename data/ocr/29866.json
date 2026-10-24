@@ -1,0 +1,148 @@
+{
+  "id": "29866",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.732,
+  "n_lines": 10,
+  "mean_score": 0.988,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ASHERWEBER",
+      "score": 0.9975,
+      "box": [
+        116,
+        90,
+        367,
+        121
+      ]
+    },
+    {
+      "text": "MS, USA|+1-840-721-3841 |asher.weber@example.com",
+      "score": 0.9873,
+      "box": [
+        115,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datagrid Digital, 2019.02–2020.08",
+      "score": 0.9854,
+      "box": [
+        116,
+        289,
+        638,
+        312
+      ]
+    },
+    {
+      "text": "-Performed code formatting",
+      "score": 0.9966,
+      "box": [
+        125,
+        313,
+        390,
+        340
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9684,
+      "box": [
+        126,
+        339,
+        447,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Woodview University, 2012",
+      "score": 0.9891,
+      "box": [
+        115,
+        449,
+        478,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in virtual reality basics",
+      "score": 0.9779,
+      "box": [
+        132,
+        473,
+        571,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in fault tolerance",
+      "score": 0.9947,
+      "box": [
+        134,
+        499,
+        521,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ASHERWEBER\nMS, USA|+1-840-721-3841 |asher.weber@example.com\nWORK HISTORY\nSoftware Developers, Datagrid Digital, 2019.02–2020.08\n-Performed code formatting\n- Implemented error handling logic\nEDUCATION\nBachelor's, Woodview University, 2012\n• Completed coursework in virtual reality basics\n• Completed coursework in fault tolerance"
+}

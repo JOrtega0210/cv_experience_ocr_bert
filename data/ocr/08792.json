@@ -1,0 +1,174 @@
+{
+  "id": "08792",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.96,
+  "n_lines": 12,
+  "mean_score": 0.9842,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BOBAKCRAWFORD",
+      "score": 0.9982,
+      "box": [
+        115,
+        88,
+        448,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-836-327-2250 |bobak.crawford@example.com",
+      "score": 0.9779,
+      "box": [
+        116,
+        151,
+        683,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftWay Builders, 2019.03–2021.11",
+      "score": 0.9662,
+      "box": [
+        115,
+        290,
+        676,
+        313
+      ]
+    },
+    {
+      "text": "- Directed installation methodologies",
+      "score": 0.9604,
+      "box": [
+        125,
+        314,
+        465,
+        337
+      ]
+    },
+    {
+      "text": "- Established project documentation systems",
+      "score": 0.9858,
+      "box": [
+        126,
+        339,
+        544,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Cornerstone Works, 2015.01–2017.9",
+      "score": 0.9915,
+      "box": [
+        116,
+        381,
+        687,
+        405
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.9865,
+      "box": [
+        126,
+        407,
+        405,
+        429
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9842,
+      "box": [
+        126,
+        431,
+        492,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Methods, Riverwood High School, 2014",
+      "score": 0.9932,
+      "box": [
+        116,
+        541,
+        866,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural inspection basics",
+      "score": 0.9853,
+      "box": [
+        134,
+        565,
+        639,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "BOBAKCRAWFORD\nCA, USA|+1-836-327-2250 |bobak.crawford@example.com\nWORK HISTORY\nConstruction Laborers, CraftWay Builders, 2019.03–2021.11\n- Directed installation methodologies\n- Established project documentation systems\nConstruction Laborers, Cornerstone Works, 2015.01–2017.9\n- Installed insulation materials\n- Assembled prefabricated components\nEDUCATION\nHigh school graduate/GED, Construction Methods, Riverwood High School, 2014\n• Completed coursework in structural inspection basics"
+}

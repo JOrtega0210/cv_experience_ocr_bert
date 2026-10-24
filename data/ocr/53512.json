@@ -1,0 +1,135 @@
+{
+  "id": "53512",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.714,
+  "n_lines": 9,
+  "mean_score": 0.9837,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAMES HENDRICKS",
+      "score": 0.9914,
+      "box": [
+        116,
+        90,
+        441,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-708-613-7879 |james.hendricks@example.com",
+      "score": 0.9785,
+      "box": [
+        115,
+        150,
+        690,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmLine Construction, 2020.05–2023.01",
+      "score": 0.9855,
+      "box": [
+        115,
+        290,
+        711,
+        313
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9777,
+      "box": [
+        126,
+        315,
+        485,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9762,
+      "box": [
+        127,
+        340,
+        425,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Masonry, Brookhaven High School, 2019",
+      "score": 0.9889,
+      "box": [
+        116,
+        449,
+        756,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site layout",
+      "score": 0.9725,
+      "box": [
+        132,
+        472,
+        508,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "JAMES HENDRICKS\nTX, USA|+1-708-613-7879 |james.hendricks@example.com\nWORK HISTORY\nConstruction Laborers, FirmLine Construction, 2020.05–2023.01\n- Maintained cleanliness of work areas\n- Assisted with excavation tasks\nEDUCATION\nHigh school graduate/GED, Masonry, Brookhaven High School, 2019\n• Studied fundamentals of job site layout"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "26013",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.818,
+  "n_lines": 16,
+  "mean_score": 0.979,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSEPH WONG",
+      "score": 0.9845,
+      "box": [
+        116,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-530-329-1376 |joseph.wong@example.com",
+      "score": 0.9795,
+      "box": [
+        115,
+        150,
+        660,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9867,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstack Systems, 2020.10–2023.01",
+      "score": 0.9874,
+      "box": [
+        115,
+        289,
+        684,
+        314
+      ]
+    },
+    {
+      "text": "- Defined engineering best practices",
+      "score": 0.9608,
+      "box": [
+        126,
+        315,
+        463,
+        339
+      ]
+    },
+    {
+      "text": "- Built fault-tolerant systems",
+      "score": 0.9805,
+      "box": [
+        125,
+        338,
+        388,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Brightpoint Software, 2018.07–2020.10",
+      "score": 0.9744,
+      "box": [
+        115,
+        381,
+        684,
+        406
+      ]
+    },
+    {
+      "text": "- Built frontend components",
+      "score": 0.9672,
+      "box": [
+        125,
+        405,
+        386,
+        431
+      ]
+    },
+    {
+      "text": "- Managed deployment pipelines",
+      "score": 0.9554,
+      "box": [
+        126,
+        431,
+        431,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Labs, 2016.04–2018.07",
+      "score": 0.9924,
+      "box": [
+        115,
+        471,
+        648,
+        496
+      ]
+    },
+    {
+      "text": "- Performed code formatting",
+      "score": 0.9864,
+      "box": [
+        125,
+        496,
+        389,
+        522
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.985,
+      "box": [
+        126,
+        521,
+        400,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Southridge University, 2017",
+      "score": 0.9528,
+      "box": [
+        115,
+        632,
+        482,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in transaction management",
+      "score": 0.9878,
+      "box": [
+        132,
+        656,
+        620,
+        682
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of indexing techniques",
+      "score": 0.9838,
+      "box": [
+        133,
+        681,
+        563,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JOSEPH WONG\nMA, USA|+1-530-329-1376 |joseph.wong@example.com\nWORK HISTORY\nSoftware Developers, Brightstack Systems, 2020.10–2023.01\n- Defined engineering best practices\n- Built fault-tolerant systems\nSoftware Developers, Brightpoint Software, 2018.07–2020.10\n- Built frontend components\n- Managed deployment pipelines\nSoftware Developers, Openwave Labs, 2016.04–2018.07\n- Performed code formatting\n- Wrote configuration parsers\nEDUCATION\nBachelor's, Southridge University, 2017\n• Completed coursework in transaction management\n• Studied fundamentals of indexing techniques"
+}

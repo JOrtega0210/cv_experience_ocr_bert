@@ -1,0 +1,148 @@
+{
+  "id": "33606",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.744,
+  "n_lines": 10,
+  "mean_score": 0.9761,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANDREW CLARKE",
+      "score": 0.9635,
+      "box": [
+        117,
+        90,
+        417,
+        120
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-459-700-9844 |andrew.clarke@example.com",
+      "score": 0.9822,
+      "box": [
+        116,
+        151,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Accounting, 2020.03–2023.01",
+      "score": 0.9868,
+      "box": [
+        115,
+        289,
+        718,
+        313
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.9794,
+      "box": [
+        125,
+        313,
+        420,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared expense reports",
+      "score": 0.9675,
+      "box": [
+        126,
+        339,
+        384,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Organizational Management, Clearway University, 2022",
+      "score": 0.9581,
+      "box": [
+        114,
+        447,
+        742,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit evidence",
+      "score": 0.9737,
+      "box": [
+        132,
+        472,
+        514,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial controls",
+      "score": 0.9686,
+      "box": [
+        134,
+        500,
+        543,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ANDREW CLARKE\nNJ, USA|+1-459-700-9844 |andrew.clarke@example.com\nWORK HISTORY\nAccountants Auditors, FairBalance Accounting, 2020.03–2023.01\n- Reconciled subsidiary ledgers\n- Prepared expense reports\nEDUCATION\nBachelor's, Organizational Management, Clearway University, 2022\n• Studied fundamentals of audit evidence\n• Completed coursework in financial controls"
+}

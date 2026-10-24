@@ -1,0 +1,200 @@
+{
+  "id": "26164",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.814,
+  "n_lines": 14,
+  "mean_score": 0.9875,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TOREY MCDONALD",
+      "score": 0.9915,
+      "box": [
+        115,
+        90,
+        438,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-980-981-2212 |torey.mcdonald@example.com",
+      "score": 0.9866,
+      "box": [
+        115,
+        150,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Technologies, 2021.07–2023.01",
+      "score": 0.9952,
+      "box": [
+        116,
+        290,
+        690,
+        313
+      ]
+    },
+    {
+      "text": "- Defined quality assurance frameworks",
+      "score": 0.9793,
+      "box": [
+        126,
+        315,
+        496,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9786,
+      "box": [
+        127,
+        340,
+        424,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Technologies, 2018.10–2020.04",
+      "score": 0.9934,
+      "box": [
+        115,
+        381,
+        697,
+        406
+      ]
+    },
+    {
+      "text": "- Updated documentation for implemented features",
+      "score": 0.9913,
+      "box": [
+        125,
+        408,
+        600,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9833,
+      "box": [
+        125,
+        430,
+        436,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Northwood University, 2009",
+      "score": 0.9815,
+      "box": [
+        115,
+        541,
+        464,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Pinewood University, 2007",
+      "score": 0.9889,
+      "box": [
+        115,
+        566,
+        473,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in scripting languages",
+      "score": 0.9886,
+      "box": [
+        133,
+        590,
+        569,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of hardware-software integration",
+      "score": 0.9832,
+      "box": [
+        133,
+        615,
+        654,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "TOREY MCDONALD\nMA, USA|+1-980-981-2212 |torey.mcdonald@example.com\nWORK HISTORY\nSoftware Developers, Netline Technologies, 2021.07–2023.01\n- Defined quality assurance frameworks\n- Implemented core frameworks\nSoftware Developers, Netfield Technologies, 2018.10–2020.04\n- Updated documentation for implemented features\n- Reviewed test coverage reports\nEDUCATION\nMaster's, Northwood University, 2009\nBachelor's, Pinewood University, 2007\n• Completed coursework in scripting languages\n• Studied fundamentals of hardware-software integration"
+}

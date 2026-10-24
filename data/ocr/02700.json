@@ -1,0 +1,278 @@
+{
+  "id": "02700",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.087,
+  "n_lines": 20,
+  "mean_score": 0.9797,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CHRIS CHANG",
+      "score": 0.9763,
+      "box": [
+        116,
+        88,
+        354,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-217-968-4251 |chris.chang@example.com",
+      "score": 0.9801,
+      "box": [
+        117,
+        151,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2019.07–2023.01",
+      "score": 0.9887,
+      "box": [
+        114,
+        288,
+        713,
+        314
+      ]
+    },
+    {
+      "text": "-Directed accounting training programs",
+      "score": 0.9844,
+      "box": [
+        125,
+        314,
+        495,
+        339
+      ]
+    },
+    {
+      "text": "- Developed financial analytics frameworks",
+      "score": 0.9724,
+      "box": [
+        127,
+        340,
+        524,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Financial, 2016.01–2019.07",
+      "score": 0.9826,
+      "box": [
+        114,
+        381,
+        741,
+        405
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9678,
+      "box": [
+        126,
+        407,
+        436,
+        430
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9764,
+      "box": [
+        126,
+        430,
+        427,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Advisors, 2012.07–2016.01",
+      "score": 0.9865,
+      "box": [
+        115,
+        472,
+        736,
+        495
+      ]
+    },
+    {
+      "text": "- Implemented accounting procedures",
+      "score": 0.9822,
+      "box": [
+        126,
+        498,
+        480,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared financial projections",
+      "score": 0.9437,
+      "box": [
+        126,
+        521,
+        417,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial Group, 2009.01–2012.07",
+      "score": 0.9673,
+      "box": [
+        115,
+        565,
+        792,
+        588
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.9918,
+      "box": [
+        126,
+        590,
+        481,
+        613
+      ]
+    },
+    {
+      "text": "- Reviewed billing statements",
+      "score": 0.9867,
+      "box": [
+        127,
+        615,
+        402,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Professional degree, Business Technology, Fairmont University, 2007",
+      "score": 0.9832,
+      "box": [
+        114,
+        723,
+        762,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Economics, Southridge University, 2003",
+      "score": 0.9738,
+      "box": [
+        114,
+        747,
+        686,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in payroll accounting",
+      "score": 0.9936,
+      "box": [
+        134,
+        774,
+        557,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in bank reconciliation",
+      "score": 0.9724,
+      "box": [
+        134,
+        800,
+        561,
+        820
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "CHRIS CHANG\nCA, USA|+1-217-968-4251 |chris.chang@example.com\nWORK HISTORY\nAccountants Auditors, Balanced Books Group, 2019.07–2023.01\n-Directed accounting training programs\n- Developed financial analytics frameworks\nAccountants Auditors, Balanced Books Financial, 2016.01–2019.07\n- Developed financial risk models\n- Managed financial governance\nAccountants Auditors, Balanced Books Advisors, 2012.07–2016.01\n- Implemented accounting procedures\n- Prepared financial projections\nAccountants Auditors, Integrity Books Financial Group, 2009.01–2012.07\n- Processed expense reimbursements\n- Reviewed billing statements\nEDUCATION\nProfessional degree, Business Technology, Fairmont University, 2007\nBachelor's, Business Economics, Southridge University, 2003\n• Completed coursework in payroll accounting\n• Completed coursework in bank reconciliation"
+}

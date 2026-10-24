@@ -1,0 +1,239 @@
+{
+  "id": "45435",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.871,
+  "n_lines": 17,
+  "mean_score": 0.9784,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LAURA CHEN",
+      "score": 0.9516,
+      "box": [
+        114,
+        88,
+        341,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA|+1-740-995-1622 |laura.chen@example.com",
+      "score": 0.9739,
+      "box": [
+        115,
+        150,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Accounting, 2020.11–2023.01",
+      "score": 0.9709,
+      "box": [
+        114,
+        289,
+        712,
+        313
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.9802,
+      "box": [
+        126,
+        314,
+        484,
+        337
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9617,
+      "box": [
+        126,
+        339,
+        424,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Advisors, 2018.08–2020.11",
+      "score": 0.9918,
+      "box": [
+        115,
+        382,
+        740,
+        405
+      ]
+    },
+    {
+      "text": "- Developed financial models",
+      "score": 0.9916,
+      "box": [
+        126,
+        407,
+        399,
+        430
+      ]
+    },
+    {
+      "text": "- Performed revenue recognition analysis",
+      "score": 0.9919,
+      "box": [
+        126,
+        431,
+        510,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Summit Accounting Services, 2014.08–2016.11",
+      "score": 0.9808,
+      "box": [
+        115,
+        472,
+        765,
+        496
+      ]
+    },
+    {
+      "text": "- Updated fixed asset registers",
+      "score": 0.9642,
+      "box": [
+        126,
+        497,
+        414,
+        522
+      ]
+    },
+    {
+      "text": "- Maintained supporting documentation",
+      "score": 0.9689,
+      "box": [
+        126,
+        521,
+        490,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Professional degree, General Business, Willowcrest University, 2011",
+      "score": 0.9725,
+      "box": [
+        114,
+        631,
+        751,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Economics, Granite Hill University, 2007",
+      "score": 0.9908,
+      "box": [
+        114,
+        656,
+        599,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of financial regulations",
+      "score": 0.9853,
+      "box": [
+        132,
+        681,
+        526,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in regulatory reporting",
+      "score": 0.9715,
+      "box": [
+        132,
+        706,
+        570,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "LAURA CHEN\nPA, USA|+1-740-995-1622 |laura.chen@example.com\nWORK HISTORY\nAccountants Auditors, SolidBooks Accounting, 2020.11–2023.01\n- Designed financial policy frameworks\n- Designed audit methodologies\nAccountants Auditors, Reliable Balance Advisors, 2018.08–2020.11\n- Developed financial models\n- Performed revenue recognition analysis\nAccountants Auditors, Summit Accounting Services, 2014.08–2016.11\n- Updated fixed asset registers\n- Maintained supporting documentation\nEDUCATION\nProfessional degree, General Business, Willowcrest University, 2011\nBachelor's, Economics, Granite Hill University, 2007\n• Studied principles of financial regulations\n• Completed coursework in regulatory reporting"
+}

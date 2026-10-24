@@ -1,0 +1,187 @@
+{
+  "id": "14367",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.948,
+  "n_lines": 13,
+  "mean_score": 0.9832,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KAYLYN BLANKENSHIP",
+      "score": 0.9798,
+      "box": [
+        116,
+        90,
+        505,
+        120
+      ]
+    },
+    {
+      "text": "FL, USA|+1-685-480-2086 |kaylyn.blankenship@example.com",
+      "score": 0.9876,
+      "box": [
+        116,
+        152,
+        713,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9789,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueWay Nursing, 2020.11–2023.01",
+      "score": 0.9586,
+      "box": [
+        116,
+        290,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Established clinical best practices",
+      "score": 0.9719,
+      "box": [
+        125,
+        313,
+        453,
+        339
+      ]
+    },
+    {
+      "text": "- Developed staffing allocation models",
+      "score": 0.9883,
+      "box": [
+        126,
+        339,
+        482,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellWay Nursing Services, 2018.08–2020.11",
+      "score": 0.9868,
+      "box": [
+        116,
+        382,
+        720,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.9941,
+      "box": [
+        125,
+        406,
+        473,
+        431
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9931,
+      "box": [
+        126,
+        430,
+        399,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Registered Nursing, Windermere University, 2018",
+      "score": 0.973,
+      "box": [
+        114,
+        539,
+        685,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of telemetry basics",
+      "score": 0.9859,
+      "box": [
+        132,
+        565,
+        492,
+        588
+      ]
+    },
+    {
+      "text": "• Completed coursework in nutritional assessment",
+      "score": 0.9852,
+      "box": [
+        134,
+        591,
+        598,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KAYLYN BLANKENSHIP\nFL, USA|+1-685-480-2086 |kaylyn.blankenship@example.com\nWORK HISTORY\nRegistered Nurses, TrueWay Nursing, 2020.11–2023.01\n- Established clinical best practices\n- Developed staffing allocation models\nRegistered Nurses, WellWay Nursing Services, 2018.08–2020.11\n- Assisted with respiratory treatments\n- Recorded patient vital signs\nEDUCATION\nBachelor's, Registered Nursing, Windermere University, 2018\n• Studied principles of telemetry basics\n• Completed coursework in nutritional assessment"
+}

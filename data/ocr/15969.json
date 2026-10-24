@@ -1,0 +1,187 @@
+{
+  "id": "15969",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.897,
+  "n_lines": 13,
+  "mean_score": 0.9817,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SUNSHINE FOX",
+      "score": 0.984,
+      "box": [
+        114,
+        88,
+        371,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA|+1-433-525-1054| sunshine.fox@example.com",
+      "score": 0.9844,
+      "box": [
+        116,
+        151,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleWay Nursing, 2020.07–2023.01",
+      "score": 0.9711,
+      "box": [
+        115,
+        289,
+        655,
+        314
+      ]
+    },
+    {
+      "text": "– Managed care delivery innovation",
+      "score": 0.9654,
+      "box": [
+        127,
+        315,
+        454,
+        338
+      ]
+    },
+    {
+      "text": "- Directed nursing operations planning",
+      "score": 0.9601,
+      "box": [
+        126,
+        339,
+        481,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeBridge Nursing, 2017.12–2020.07",
+      "score": 0.9871,
+      "box": [
+        116,
+        383,
+        647,
+        406
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9965,
+      "box": [
+        126,
+        407,
+        443,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared patients for examinations",
+      "score": 0.9842,
+      "box": [
+        126,
+        432,
+        465,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing, Clearwater University, 2015",
+      "score": 0.9714,
+      "box": [
+        115,
+        541,
+        566,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in sterile technique",
+      "score": 0.9932,
+      "box": [
+        133,
+        566,
+        541,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of chronic disease management",
+      "score": 0.9812,
+      "box": [
+        132,
+        590,
+        616,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "SUNSHINE FOX\nGA, USA|+1-433-525-1054| sunshine.fox@example.com\nWORK HISTORY\nRegistered Nurses, GentleWay Nursing, 2020.07–2023.01\n– Managed care delivery innovation\n- Directed nursing operations planning\nRegistered Nurses, LifeBridge Nursing, 2017.12–2020.07\n- Collected patient health histories\n- Prepared patients for examinations\nEDUCATION\nBachelor's, Nursing, Clearwater University, 2015\n• Completed coursework in sterile technique\n• Studied principles of chronic disease management"
+}

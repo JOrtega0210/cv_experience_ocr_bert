@@ -1,0 +1,226 @@
+{
+  "id": "45843",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.826,
+  "n_lines": 16,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSHUA DILLON",
+      "score": 0.9798,
+      "box": [
+        116,
+        90,
+        392,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-805-619-4942 |joshua.dillon@example.com",
+      "score": 0.9815,
+      "box": [
+        115,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softstack Digital, 2021.01–2023.01",
+      "score": 0.9698,
+      "box": [
+        116,
+        290,
+        644,
+        313
+      ]
+    },
+    {
+      "text": "- Designed Cl/CD frameworks",
+      "score": 0.9705,
+      "box": [
+        126,
+        315,
+        408,
+        338
+      ]
+    },
+    {
+      "text": "- Defined engineering best practices",
+      "score": 0.9888,
+      "box": [
+        126,
+        339,
+        463,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Netcrest Technologies, 2018.12–2021.01",
+      "score": 0.9924,
+      "box": [
+        115,
+        381,
+        703,
+        406
+      ]
+    },
+    {
+      "text": "- Integrated third-party services",
+      "score": 0.9809,
+      "box": [
+        126,
+        406,
+        419,
+        431
+      ]
+    },
+    {
+      "text": "- Integrated messaging systems",
+      "score": 0.9782,
+      "box": [
+        126,
+        430,
+        426,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Softstack Digital, 2014.09–2016.10",
+      "score": 0.9783,
+      "box": [
+        116,
+        472,
+        646,
+        496
+      ]
+    },
+    {
+      "text": "- Wrote unit tests for application modules",
+      "score": 0.9756,
+      "box": [
+        125,
+        496,
+        508,
+        521
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.988,
+      "box": [
+        126,
+        521,
+        403,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Associate's degree, Wildflower University, 2013",
+      "score": 0.9889,
+      "box": [
+        114,
+        631,
+        557,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of event-driven architecture",
+      "score": 0.9844,
+      "box": [
+        132,
+        656,
+        571,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of distributed systems",
+      "score": 0.9785,
+      "box": [
+        133,
+        682,
+        519,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JOSHUA DILLON\nPA, USA|+1-805-619-4942 |joshua.dillon@example.com\nWORK HISTORY\nSoftware Developers, Softstack Digital, 2021.01–2023.01\n- Designed Cl/CD frameworks\n- Defined engineering best practices\nSoftware Developers, Netcrest Technologies, 2018.12–2021.01\n- Integrated third-party services\n- Integrated messaging systems\nSoftware Developers, Softstack Digital, 2014.09–2016.10\n- Wrote unit tests for application modules\n- Participated in code reviews\nEDUCATION\nAssociate's degree, Wildflower University, 2013\n• Studied principles of event-driven architecture\n• Studied principles of distributed systems"
+}

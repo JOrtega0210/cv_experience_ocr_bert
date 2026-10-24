@@ -1,0 +1,265 @@
+{
+  "id": "61427",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.937,
+  "n_lines": 19,
+  "mean_score": 0.9832,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RACHEL WALTER",
+      "score": 0.9625,
+      "box": [
+        116,
+        90,
+        409,
+        121
+      ]
+    },
+    {
+      "text": "WY, USA|+1-399-899-1535|rachel.walter@example.com",
+      "score": 0.9775,
+      "box": [
+        115,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewLife Care Center, 2020.06–2023.01",
+      "score": 0.9853,
+      "box": [
+        116,
+        290,
+        669,
+        313
+      ]
+    },
+    {
+      "text": "- Developed patient safety programs",
+      "score": 0.9888,
+      "box": [
+        126,
+        314,
+        466,
+        340
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.9551,
+      "box": [
+        126,
+        338,
+        424,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafePath Health Services, 2017.11–2020.06",
+      "score": 0.9863,
+      "box": [
+        115,
+        381,
+        713,
+        406
+      ]
+    },
+    {
+      "text": "- Supervised multidisciplinary care teams",
+      "score": 0.9801,
+      "box": [
+        126,
+        406,
+        509,
+        432
+      ]
+    },
+    {
+      "text": "- Managed clinical resource planning",
+      "score": 0.9903,
+      "box": [
+        126,
+        430,
+        469,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunBridge Nursing, 2015.03–2017.11",
+      "score": 0.9892,
+      "box": [
+        116,
+        472,
+        649,
+        496
+      ]
+    },
+    {
+      "text": "- Conducted comprehensive patient assessments",
+      "score": 0.9924,
+      "box": [
+        125,
+        496,
+        586,
+        522
+      ]
+    },
+    {
+      "text": "- Implemented patient education programs",
+      "score": 0.9842,
+      "box": [
+        126,
+        521,
+        521,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindWay Care Center, 2012.07–2015.03",
+      "score": 0.9933,
+      "box": [
+        116,
+        565,
+        679,
+        588
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9765,
+      "box": [
+        125,
+        590,
+        410,
+        613
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9776,
+      "box": [
+        125,
+        613,
+        531,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Human Biology, Evergreen University, 2010",
+      "score": 0.9808,
+      "box": [
+        115,
+        725,
+        630,
+        748
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of surgical nursing",
+      "score": 0.9908,
+      "box": [
+        132,
+        747,
+        525,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of clinical supervision",
+      "score": 0.9869,
+      "box": [
+        133,
+        772,
+        553,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "RACHEL WALTER\nWY, USA|+1-399-899-1535|rachel.walter@example.com\nWORK HISTORY\nRegistered Nurses, NewLife Care Center, 2020.06–2023.01\n- Developed patient safety programs\n- Led infection control programs\nRegistered Nurses, SafePath Health Services, 2017.11–2020.06\n- Supervised multidisciplinary care teams\n- Managed clinical resource planning\nRegistered Nurses, SunBridge Nursing, 2015.03–2017.11\n- Conducted comprehensive patient assessments\n- Implemented patient education programs\nRegistered Nurses, KindWay Care Center, 2012.07–2015.03\n- Recorded shift handoff notes\n- Recorded medication administration times\nEDUCATION\nBachelor's, Human Biology, Evergreen University, 2010\n• Studied fundamentals of surgical nursing\n• Studied fundamentals of clinical supervision"
+}

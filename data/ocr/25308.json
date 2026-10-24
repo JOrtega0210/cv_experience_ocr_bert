@@ -1,0 +1,226 @@
+{
+  "id": "25308",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.873,
+  "n_lines": 16,
+  "mean_score": 0.9807,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SARAH SHEPHERD",
+      "score": 0.9817,
+      "box": [
+        116,
+        90,
+        431,
+        120
+      ]
+    },
+    {
+      "text": "MA, USA|+1-326-712-3977 | sarah.shepherd@example.com",
+      "score": 0.974,
+      "box": [
+        116,
+        152,
+        689,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9798,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenCare Nursing Services, 2020.06–2023.01",
+      "score": 0.9929,
+      "box": [
+        115,
+        289,
+        734,
+        314
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9706,
+      "box": [
+        125,
+        313,
+        471,
+        338
+      ]
+    },
+    {
+      "text": "– Managed long-term care strategies",
+      "score": 0.9652,
+      "box": [
+        127,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeHands Health Group, 2017.10–2020.06",
+      "score": 0.992,
+      "box": [
+        116,
+        383,
+        708,
+        406
+      ]
+    },
+    {
+      "text": "- Performed patient triage",
+      "score": 0.9359,
+      "box": [
+        126,
+        405,
+        367,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with emergency interventions",
+      "score": 0.9837,
+      "box": [
+        126,
+        431,
+        496,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Bridge Medical, 2013.01–2015.09",
+      "score": 0.9892,
+      "box": [
+        116,
+        473,
+        736,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobility",
+      "score": 0.9901,
+      "box": [
+        125,
+        496,
+        409,
+        522
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9849,
+      "box": [
+        126,
+        521,
+        479,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Care Management, Rivercrest University, 2003",
+      "score": 0.9848,
+      "box": [
+        114,
+        631,
+        659,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of skin integrity maintenance",
+      "score": 0.9735,
+      "box": [
+        132,
+        656,
+        621,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of quality assurance in care",
+      "score": 0.9938,
+      "box": [
+        134,
+        681,
+        610,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "SARAH SHEPHERD\nMA, USA|+1-326-712-3977 | sarah.shepherd@example.com\nWORK HISTORY\nRegistered Nurses, OpenCare Nursing Services, 2020.06–2023.01\n- Established care delivery standards\n– Managed long-term care strategies\nRegistered Nurses, SafeHands Health Group, 2017.10–2020.06\n- Performed patient triage\n- Assisted with emergency interventions\nRegistered Nurses, Compassion Bridge Medical, 2013.01–2015.09\n- Assisted with patient mobility\n- Prepared medical equipment for use\nEDUCATION\nBachelor's, Care Management, Rivercrest University, 2003\n• Studied fundamentals of skin integrity maintenance\n• Studied fundamentals of quality assurance in care"
+}

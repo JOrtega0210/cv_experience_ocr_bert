@@ -1,0 +1,226 @@
+{
+  "id": "47629",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.825,
+  "n_lines": 16,
+  "mean_score": 0.9766,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TIMOTHY CHOI",
+      "score": 0.9783,
+      "box": [
+        115,
+        90,
+        361,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-744-946-6216 |timothy.choi@example.com",
+      "score": 0.9642,
+      "box": [
+        116,
+        151,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9856,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softline Digital, 2020.02–2023.01",
+      "score": 0.9802,
+      "box": [
+        116,
+        290,
+        628,
+        313
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9814,
+      "box": [
+        125,
+        313,
+        410,
+        339
+      ]
+    },
+    {
+      "text": "- Designed microservice architectures",
+      "score": 0.9892,
+      "box": [
+        126,
+        339,
+        478,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudframe Software, 2015.05–2018.04",
+      "score": 0.9892,
+      "box": [
+        115,
+        381,
+        693,
+        406
+      ]
+    },
+    {
+      "text": "- Refactored legacy code",
+      "score": 0.983,
+      "box": [
+        125,
+        405,
+        363,
+        431
+      ]
+    },
+    {
+      "text": "- Integrated messaging systems",
+      "score": 0.9809,
+      "box": [
+        126,
+        430,
+        426,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Systems, 2011.07–2014.07",
+      "score": 0.972,
+      "box": [
+        115,
+        471,
+        670,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9453,
+      "box": [
+        126,
+        498,
+        446,
+        522
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.981,
+      "box": [
+        126,
+        521,
+        443,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Northfield University, 203",
+      "score": 0.9693,
+      "box": [
+        115,
+        632,
+        471,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of deployment pipelines",
+      "score": 0.9729,
+      "box": [
+        132,
+        656,
+        575,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in parallel computing",
+      "score": 0.9536,
+      "box": [
+        135,
+        683,
+        558,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "TIMOTHY CHOI\nSC, USA|+1-744-946-6216 |timothy.choi@example.com\nWORK HISTORY\nSoftware Developers, Softline Digital, 2020.02–2023.01\n- Defined scalability roadmaps\n- Designed microservice architectures\nSoftware Developers, Cloudframe Software, 2015.05–2018.04\n- Refactored legacy code\n- Integrated messaging systems\nSoftware Developers, Codefield Systems, 2011.07–2014.07\n- Implemented error handling logic\n- Handled basic deployment tasks\nEDUCATION\nBachelor's, Northfield University, 203\n• Studied fundamentals of deployment pipelines\n• Completed coursework in parallel computing"
+}

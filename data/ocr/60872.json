@@ -1,0 +1,265 @@
+{
+  "id": "60872",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.941,
+  "n_lines": 19,
+  "mean_score": 0.9812,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JENNIFER HOUSE",
+      "score": 0.9938,
+      "box": [
+        116,
+        90,
+        412,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-666-846-1152 |jennifer.house@example.com",
+      "score": 0.9703,
+      "box": [
+        115,
+        150,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9807,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudcrest Systems, 2018.08–2023.01",
+      "score": 0.9931,
+      "box": [
+        116,
+        290,
+        680,
+        313
+      ]
+    },
+    {
+      "text": "- Designed configuration management systems",
+      "score": 0.9919,
+      "box": [
+        126,
+        314,
+        566,
+        339
+      ]
+    },
+    {
+      "text": "- Built core libraries",
+      "score": 0.9628,
+      "box": [
+        127,
+        338,
+        308,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudcrest Systems, 2014.03–2018.08",
+      "score": 0.9861,
+      "box": [
+        115,
+        381,
+        682,
+        406
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9766,
+      "box": [
+        126,
+        406,
+        449,
+        432
+      ]
+    },
+    {
+      "text": "- Designed configuration management systems",
+      "score": 0.9818,
+      "box": [
+        126,
+        430,
+        566,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Labs, 2009.02–2013.07",
+      "score": 0.9909,
+      "box": [
+        115,
+        471,
+        614,
+        496
+      ]
+    },
+    {
+      "text": "- Designed documentation templates",
+      "score": 0.9699,
+      "box": [
+        125,
+        497,
+        469,
+        522
+      ]
+    },
+    {
+      "text": "- Integrated analytics services",
+      "score": 0.9821,
+      "box": [
+        126,
+        521,
+        406,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudridge Tech, 2003.02–2007.08",
+      "score": 0.978,
+      "box": [
+        115,
+        562,
+        649,
+        590
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.981,
+      "box": [
+        125,
+        589,
+        447,
+        614
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.9761,
+      "box": [
+        126,
+        614,
+        502,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Silver Ridge University, 2002",
+      "score": 0.9495,
+      "box": [
+        116,
+        725,
+        494,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of mutexes and semaphores",
+      "score": 0.9879,
+      "box": [
+        132,
+        747,
+        582,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of data modeling",
+      "score": 0.9913,
+      "box": [
+        133,
+        772,
+        472,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "JENNIFER HOUSE\nWI, USA|+1-666-846-1152 |jennifer.house@example.com\nWORK HISTORY\nSoftware Developers, Cloudcrest Systems, 2018.08–2023.01\n- Designed configuration management systems\n- Built core libraries\nSoftware Developers, Cloudcrest Systems, 2014.03–2018.08\n- Designed data storage strategies\n- Designed configuration management systems\nSoftware Developers, Netline Labs, 2009.02–2013.07\n- Designed documentation templates\n- Integrated analytics services\nSoftware Developers, Cloudridge Tech, 2003.02–2007.08\n- Implemented error handling logic\n- Wrote scripts for data processing tasks\nEDUCATION\nBachelor's, Silver Ridge University, 2002\n• Studied principles of mutexes and semaphores\n• Studied principles of data modeling"
+}

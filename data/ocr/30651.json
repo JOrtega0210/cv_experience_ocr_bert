@@ -1,0 +1,148 @@
+{
+  "id": "30651",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.734,
+  "n_lines": 10,
+  "mean_score": 0.9775,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANDREW KELLER",
+      "score": 0.9755,
+      "box": [
+        117,
+        90,
+        411,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA |+1-880-709-5929 |andrew.keller@example.com",
+      "score": 0.9789,
+      "box": [
+        116,
+        152,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skycore Technologies, 2019.07–221.07",
+      "score": 0.9865,
+      "box": [
+        116,
+        290,
+        702,
+        313
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.9831,
+      "box": [
+        126,
+        314,
+        495,
+        339
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.925,
+      "box": [
+        127,
+        339,
+        340,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Windfield University, 2016",
+      "score": 0.9809,
+      "box": [
+        115,
+        449,
+        467,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in programming in C++",
+      "score": 0.9709,
+      "box": [
+        133,
+        474,
+        578,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in software engineering",
+      "score": 0.9914,
+      "box": [
+        133,
+        498,
+        583,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ANDREW KELLER\nMO, USA |+1-880-709-5929 |andrew.keller@example.com\nWORK HISTORY\nSoftware Developers, Skycore Technologies, 2019.07–221.07\n- Performed basic performance profiling\n- Updated routing logic\nEDUCATION\nBachelor's, Windfield University, 2016\n• Completed coursework in programming in C++\n• Completed coursework in software engineering"
+}

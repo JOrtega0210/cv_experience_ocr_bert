@@ -1,0 +1,226 @@
+{
+  "id": "24920",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.864,
+  "n_lines": 16,
+  "mean_score": 0.9808,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "STEPHANIE NOLAN",
+      "score": 0.9761,
+      "box": [
+        116,
+        90,
+        438,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA| +1-749-369-6373 | stephanie.nolan@example.com",
+      "score": 0.9757,
+      "box": [
+        115,
+        150,
+        692,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverSpring Health Services, 2020.08–2023.01",
+      "score": 0.9906,
+      "box": [
+        116,
+        290,
+        729,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.9675,
+      "box": [
+        126,
+        314,
+        517,
+        339
+      ]
+    },
+    {
+      "text": "- Directed clinical quality improvement initiatives",
+      "score": 0.9706,
+      "box": [
+        126,
+        338,
+        572,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Hands Medical, 2018.03–2020.08",
+      "score": 0.9786,
+      "box": [
+        115,
+        381,
+        690,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored infusion pump settings",
+      "score": 0.9739,
+      "box": [
+        125,
+        405,
+        449,
+        432
+      ]
+    },
+    {
+      "text": "- Managed patient referrals",
+      "score": 0.9772,
+      "box": [
+        126,
+        430,
+        381,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearPath Medical Group, 2015.09–2018.03",
+      "score": 0.9934,
+      "box": [
+        116,
+        472,
+        710,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared intravenous solutions",
+      "score": 0.9823,
+      "box": [
+        125,
+        498,
+        430,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobillity",
+      "score": 0.961,
+      "box": [
+        126,
+        521,
+        409,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Community Health, Blue Ridge University, 2016",
+      "score": 0.9886,
+      "box": [
+        114,
+        631,
+        666,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of infection diseases nursing",
+      "score": 0.9881,
+      "box": [
+        132,
+        655,
+        620,
+        682
+      ]
+    },
+    {
+      "text": "• Studied principles of emergency nursing",
+      "score": 0.9837,
+      "box": [
+        134,
+        681,
+        519,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "STEPHANIE NOLAN\nMD, USA| +1-749-369-6373 | stephanie.nolan@example.com\nWORK HISTORY\nRegistered Nurses, EverSpring Health Services, 2020.08–2023.01\n- Implemented patient monitoring systems\n- Directed clinical quality improvement initiatives\nRegistered Nurses, Helping Hands Medical, 2018.03–2020.08\n- Monitored infusion pump settings\n- Managed patient referrals\nRegistered Nurses, ClearPath Medical Group, 2015.09–2018.03\n- Prepared intravenous solutions\n- Assisted with patient mobillity\nEDUCATION\nBachelor's, Community Health, Blue Ridge University, 2016\n• Studied fundamentals of infection diseases nursing\n• Studied principles of emergency nursing"
+}

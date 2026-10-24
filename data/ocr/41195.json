@@ -1,0 +1,135 @@
+{
+  "id": "41195",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.765,
+  "n_lines": 9,
+  "mean_score": 0.9842,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRITTANY FINLEY",
+      "score": 0.9813,
+      "box": [
+        117,
+        90,
+        416,
+        120
+      ]
+    },
+    {
+      "text": "OH, USA|+1-479-663-1615|britany.finley@example.com",
+      "score": 0.9742,
+      "box": [
+        117,
+        151,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9822,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Financial, 2020.06–2023.01",
+      "score": 0.9889,
+      "box": [
+        115,
+        290,
+        718,
+        313
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9759,
+      "box": [
+        126,
+        313,
+        413,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedures",
+      "score": 0.9885,
+      "box": [
+        126,
+        339,
+        507,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, International Business, Riverview High School, 2021",
+      "score": 0.9899,
+      "box": [
+        116,
+        449,
+        858,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of break-even analysis",
+      "score": 0.9782,
+      "box": [
+        132,
+        472,
+        565,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "BRITTANY FINLEY\nOH, USA|+1-479-663-1615|britany.finley@example.com\nWORK HISTORY\nAccountants Auditors, SteadyLedger Financial, 2020.06–2023.01\n- Tracked budget expenditures\n- Assisted with monthly close procedures\nEDUCATION\nHigh school graduate/GED, International Business, Riverview High School, 2021\n• Studied fundamentals of break-even analysis"
+}

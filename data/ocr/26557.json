@@ -1,0 +1,174 @@
+{
+  "id": "26557",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.829,
+  "n_lines": 12,
+  "mean_score": 0.9874,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "EZRA MCLAUGHLIN",
+      "score": 0.9948,
+      "box": [
+        117,
+        90,
+        443,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-810-565-9213 |ezra.mclaughlin@example.com",
+      "score": 0.9829,
+      "box": [
+        115,
+        150,
+        690,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9852,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidLine Contractors, 2020.08–2023.01",
+      "score": 0.9841,
+      "box": [
+        114,
+        288,
+        707,
+        313
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9716,
+      "box": [
+        126,
+        315,
+        394,
+        339
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.9828,
+      "box": [
+        126,
+        339,
+        476,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearLine Construction, 2018.03–2020.08",
+      "score": 0.9873,
+      "box": [
+        116,
+        382,
+        721,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with drywall installation",
+      "score": 0.9852,
+      "box": [
+        126,
+        407,
+        440,
+        430
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9943,
+      "box": [
+        127,
+        433,
+        367,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Services, Fairview High School, 2018",
+      "score": 0.9952,
+      "box": [
+        116,
+        541,
+        846,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic excavation methods",
+      "score": 0.9868,
+      "box": [
+        134,
+        567,
+        628,
+        587
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "EZRA MCLAUGHLIN\nMA, USA|+1-810-565-9213 |ezra.mclaughlin@example.com\nWORK HISTORY\nConstruction Laborers, SolidLine Contractors, 2020.08–2023.01\n- Directed project scheduling\n- Developed site performance metrics\nConstruction Laborers, ClearLine Construction, 2018.03–2020.08\n- Assisted with drywall installation\n- Installed basic formwork\nEDUCATION\nHigh school graduate/GED, Construction Services, Fairview High School, 2018\n• Completed coursework in basic excavation methods"
+}

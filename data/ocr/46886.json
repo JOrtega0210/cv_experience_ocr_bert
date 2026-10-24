@@ -1,0 +1,148 @@
+{
+  "id": "46886",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.73,
+  "n_lines": 10,
+  "mean_score": 0.9842,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SHELBY CLEMENTS",
+      "score": 0.9736,
+      "box": [
+        116,
+        90,
+        446,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-750-327-5215 |shelby.clements@example.com",
+      "score": 0.983,
+      "box": [
+        115,
+        150,
+        690,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9832,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Solutions, 2020.01–2023.01",
+      "score": 0.9944,
+      "box": [
+        116,
+        289,
+        694,
+        312
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.977,
+      "box": [
+        126,
+        315,
+        376,
+        339
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.9742,
+      "box": [
+        126,
+        338,
+        332,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Havenwood University, 2020",
+      "score": 0.9776,
+      "box": [
+        114,
+        447,
+        491,
+        471
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of hardware-software integration",
+      "score": 0.9864,
+      "box": [
+        132,
+        472,
+        655,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in signal processing basics",
+      "score": 0.994,
+      "box": [
+        134,
+        499,
+        616,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "SHELBY CLEMENTS\nPA, USA|+1-750-327-5215 |shelby.clements@example.com\nWORK HISTORY\nSoftware Developers, Datastream Solutions, 2020.01–2023.01\n- Resolved merge conflicts\n- Handled file uploads\nEDUCATION\nBachelor's, Havenwood University, 2020\n• Studied fundamentals of hardware-software integration\n• Completed coursework in signal processing basics"
+}

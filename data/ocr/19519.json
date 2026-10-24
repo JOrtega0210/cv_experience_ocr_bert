@@ -1,0 +1,200 @@
+{
+  "id": "19519",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.853,
+  "n_lines": 14,
+  "mean_score": 0.9822,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MELANIE LI",
+      "score": 0.9703,
+      "box": [
+        115,
+        88,
+        311,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA|+1-314-277-6752|melanie.li@example.com",
+      "score": 0.9879,
+      "box": [
+        116,
+        150,
+        617,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Accounting, 2021.04–2023.01",
+      "score": 0.9811,
+      "box": [
+        115,
+        290,
+        725,
+        312
+      ]
+    },
+    {
+      "text": "-Led financial data standardization",
+      "score": 0.9815,
+      "box": [
+        126,
+        314,
+        452,
+        336
+      ]
+    },
+    {
+      "text": "- Developed financial performance metrics",
+      "score": 0.9808,
+      "box": [
+        126,
+        339,
+        520,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Services, 2019.06–2021.04",
+      "score": 0.9705,
+      "box": [
+        114,
+        381,
+        698,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9871,
+      "box": [
+        125,
+        406,
+        439,
+        431
+      ]
+    },
+    {
+      "text": "- Filed financial documents",
+      "score": 0.9825,
+      "box": [
+        126,
+        431,
+        378,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        266,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Business Studies, Brightfield Ridge University, 2018",
+      "score": 0.9765,
+      "box": [
+        114,
+        539,
+        687,
+        565
+      ]
+    },
+    {
+      "text": "Bachelor's, General Business, North Ridge University, 2016",
+      "score": 0.975,
+      "box": [
+        114,
+        564,
+        669,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in international taxation basics",
+      "score": 0.9895,
+      "box": [
+        134,
+        591,
+        647,
+        614
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of financial reporting",
+      "score": 0.9872,
+      "box": [
+        133,
+        615,
+        543,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "MELANIE LI\nIL, USA|+1-314-277-6752|melanie.li@example.com\nWORK HISTORY\nAccountants Auditors, EverBalance Accounting, 2021.04–2023.01\n-Led financial data standardization\n- Developed financial performance metrics\nAccountants Auditors, AccuLedger Services, 2019.06–2021.04\n- Reviewed timesheets for payroll\n- Filed financial documents\nEDUCATION\nMaster's, Business Studies, Brightfield Ridge University, 2018\nBachelor's, General Business, North Ridge University, 2016\n• Completed coursework in international taxation basics\n• Studied fundamentals of financial reporting"
+}

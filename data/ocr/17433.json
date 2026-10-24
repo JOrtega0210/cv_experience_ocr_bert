@@ -1,0 +1,213 @@
+{
+  "id": "17433",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.96,
+  "n_lines": 15,
+  "mean_score": 0.9802,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "STEPHEN SIMPSON",
+      "score": 0.9714,
+      "box": [
+        116,
+        90,
+        440,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-350-268-3368|stephen.simpson@example.com",
+      "score": 0.9837,
+      "box": [
+        116,
+        151,
+        687,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Advisors, 2020.11–2023.01",
+      "score": 0.9932,
+      "box": [
+        115,
+        290,
+        695,
+        313
+      ]
+    },
+    {
+      "text": "- Led internal audit functions",
+      "score": 0.9593,
+      "box": [
+        125,
+        313,
+        393,
+        338
+      ]
+    },
+    {
+      "text": "- Led financial forecasting initiatives",
+      "score": 0.9838,
+      "box": [
+        126,
+        338,
+        459,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Path Accounting, 2016.09–2018.11",
+      "score": 0.9823,
+      "box": [
+        114,
+        381,
+        740,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with financial statement preparation",
+      "score": 0.9877,
+      "box": [
+        125,
+        406,
+        555,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared expense reports",
+      "score": 0.9649,
+      "box": [
+        126,
+        430,
+        384,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Doctorate, Financial Services, Rivercrest University, 2012",
+      "score": 0.9931,
+      "box": [
+        115,
+        541,
+        651,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Cost Accounting, Stonebrook University, 2007",
+      "score": 0.9626,
+      "box": [
+        114,
+        564,
+        652,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in fraud examination basics",
+      "score": 0.9731,
+      "box": [
+        135,
+        591,
+        620,
+        614
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial data interpretation",
+      "score": 0.9798,
+      "box": [
+        134,
+        615,
+        639,
+        639
+      ]
+    },
+    {
+      "text": "• Completed coursework in investment analysis basics",
+      "score": 0.985,
+      "box": [
+        133,
+        640,
+        636,
+        665
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "STEPHEN SIMPSON\nIL, USA|+1-350-268-3368|stephen.simpson@example.com\nWORK HISTORY\nAccountants Auditors, CoreLedger Advisors, 2020.11–2023.01\n- Led internal audit functions\n- Led financial forecasting initiatives\nAccountants Auditors, Accurate Path Accounting, 2016.09–2018.11\n- Assisted with financial statement preparation\n- Prepared expense reports\nEDUCATION\nDoctorate, Financial Services, Rivercrest University, 2012\nBachelor's, Cost Accounting, Stonebrook University, 2007\n• Completed coursework in fraud examination basics\n• Completed coursework in financial data interpretation\n• Completed coursework in investment analysis basics"
+}

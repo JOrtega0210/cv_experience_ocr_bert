@@ -1,0 +1,278 @@
+{
+  "id": "35289",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.946,
+  "n_lines": 20,
+  "mean_score": 0.9766,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CHARLES NICHOLS",
+      "score": 0.9711,
+      "box": [
+        117,
+        90,
+        440,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-357-811-8763|charles.nichols@example.com",
+      "score": 0.9958,
+      "box": [
+        115,
+        150,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Financial, 2019.02–2023.01",
+      "score": 0.9731,
+      "box": [
+        114,
+        289,
+        699,
+        314
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9441,
+      "box": [
+        126,
+        314,
+        525,
+        339
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9812,
+      "box": [
+        126,
+        339,
+        436,
+        362
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Financial, 2015.03–2019.02",
+      "score": 0.9695,
+      "box": [
+        114,
+        381,
+        702,
+        406
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9883,
+      "box": [
+        126,
+        406,
+        362,
+        431
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.9682,
+      "box": [
+        126,
+        431,
+        456,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Financial, 2011.04–2015.03",
+      "score": 0.9778,
+      "box": [
+        114,
+        471,
+        693,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared cost allocation models",
+      "score": 0.965,
+      "box": [
+        126,
+        499,
+        438,
+        519
+      ]
+    },
+    {
+      "text": "- Reviewed revenue forecasts",
+      "score": 0.9674,
+      "box": [
+        126,
+        522,
+        405,
+        544
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Accounting, 2007.05–2011.04",
+      "score": 0.9911,
+      "box": [
+        115,
+        565,
+        704,
+        588
+      ]
+    },
+    {
+      "text": "- Reviewed account balances",
+      "score": 0.9703,
+      "box": [
+        125,
+        589,
+        402,
+        612
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9655,
+      "box": [
+        128,
+        616,
+        370,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        679,
+        266,
+        703
+      ]
+    },
+    {
+      "text": "Master's, Business Studies, Goldenview University, 2011",
+      "score": 0.9788,
+      "box": [
+        115,
+        725,
+        641,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Services, Willowview University, 2009",
+      "score": 0.9648,
+      "box": [
+        114,
+        747,
+        664,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of professional judgment",
+      "score": 0.9953,
+      "box": [
+        132,
+        772,
+        585,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in regulatory reporting",
+      "score": 0.9858,
+      "box": [
+        133,
+        798,
+        571,
+        823
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "CHARLES NICHOLS\nNY, USA|+1-357-811-8763|charles.nichols@example.com\nWORK HISTORY\nAccountants Auditors, SolidLedger Financial, 2019.02–2023.01\n- Developed regulatory reporting strategies\n- Developed financial risk models\nAccountants Auditors, TrustLedger Financial, 2015.03–2019.02\n- Designed tax strategies\n- Developed audit quality standards\nAccountants Auditors, SolidBooks Financial, 2011.04–2015.03\n- Prepared cost allocation models\n- Reviewed revenue forecasts\nAccountants Auditors, OpenPath Accounting, 2007.05–2011.04\n- Reviewed account balances\n- Compiled audit evidence\nEDUCATION\nMaster's, Business Studies, Goldenview University, 2011\nBachelor's, Financial Services, Willowview University, 2009\n• Studied fundamentals of professional judgment\n• Completed coursework in regulatory reporting"
+}

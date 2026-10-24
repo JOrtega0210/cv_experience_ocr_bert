@@ -1,0 +1,174 @@
+{
+  "id": "22144",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.895,
+  "n_lines": 12,
+  "mean_score": 0.9805,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JUSTIN JENSEN",
+      "score": 0.962,
+      "box": [
+        116,
+        90,
+        380,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA|+1-310-640-2234 |justin.jensen@example.com",
+      "score": 0.9801,
+      "box": [
+        115,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9832,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueBuild Group, 2019.03–2021.03",
+      "score": 0.9834,
+      "box": [
+        115,
+        290,
+        661,
+        313
+      ]
+    },
+    {
+      "text": "- Supervised multiple work crews",
+      "score": 0.9644,
+      "box": [
+        126,
+        315,
+        436,
+        338
+      ]
+    },
+    {
+      "text": "- Developed long-term construction strategies",
+      "score": 0.9736,
+      "box": [
+        126,
+        339,
+        550,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidRise Contractors, 2016.04–2018.04",
+      "score": 0.9947,
+      "box": [
+        116,
+        382,
+        710,
+        405
+      ]
+    },
+    {
+      "text": "- Loaded and unloaded construction materials",
+      "score": 0.9789,
+      "box": [
+        126,
+        407,
+        552,
+        429
+      ]
+    },
+    {
+      "text": "- Applied basic sealants and adhesives",
+      "score": 0.9987,
+      "box": [
+        127,
+        432,
+        490,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Equipment Technology, Willow Creek High School, 2007",
+      "score": 0.9799,
+      "box": [
+        116,
+        541,
+        1022,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of site leveling",
+      "score": 0.9695,
+      "box": [
+        132,
+        564,
+        488,
+        590
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "JUSTIN JENSEN\nKY, USA|+1-310-640-2234 |justin.jensen@example.com\nWORK HISTORY\nConstruction Laborers, TrueBuild Group, 2019.03–2021.03\n- Supervised multiple work crews\n- Developed long-term construction strategies\nConstruction Laborers, SolidRise Contractors, 2016.04–2018.04\n- Loaded and unloaded construction materials\n- Applied basic sealants and adhesives\nEDUCATION\nHigh school graduate/GED, Construction Equipment Technology, Willow Creek High School, 2007\n• Studied fundamentals of site leveling"
+}

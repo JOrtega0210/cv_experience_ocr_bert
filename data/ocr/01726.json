@@ -1,0 +1,148 @@
+{
+  "id": "01726",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.841,
+  "n_lines": 10,
+  "mean_score": 0.9867,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TUESDAY SPARKS",
+      "score": 0.9784,
+      "box": [
+        115,
+        90,
+        427,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA |+1-626-783-1128|tuesday.sparks@example.com",
+      "score": 0.9864,
+      "box": [
+        116,
+        152,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9835,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeHands Health Services, 2020.12–2022.01",
+      "score": 0.9925,
+      "box": [
+        116,
+        290,
+        720,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with specimen labeling",
+      "score": 0.9945,
+      "box": [
+        126,
+        315,
+        437,
+        339
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.9864,
+      "box": [
+        126,
+        339,
+        471,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Information Management, Skyview University, 2015",
+      "score": 0.9812,
+      "box": [
+        114,
+        447,
+        768,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of surgical nursing",
+      "score": 0.976,
+      "box": [
+        132,
+        472,
+        525,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing research basics",
+      "score": 0.9891,
+      "box": [
+        133,
+        499,
+        609,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "TUESDAY SPARKS\nAZ, USA |+1-626-783-1128|tuesday.sparks@example.com\nWORK HISTORY\nRegistered Nurses, LifeHands Health Services, 2020.12–2022.01\n- Assisted with specimen labeling\n- Recorded patient weight and height\nEDUCATION\nBachelor's, Health Information Management, Skyview University, 2015\n• Studied fundamentals of surgical nursing\n• Completed coursework in nursing research basics"
+}

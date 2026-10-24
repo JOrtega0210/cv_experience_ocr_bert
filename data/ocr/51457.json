@@ -1,0 +1,226 @@
+{
+  "id": "51457",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.811,
+  "n_lines": 16,
+  "mean_score": 0.9864,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "STEPHANIE WILEY",
+      "score": 0.9862,
+      "box": [
+        116,
+        90,
+        425,
+        120
+      ]
+    },
+    {
+      "text": "TX, USA|+1-722-365-1486|stephanie.wiley@example.com",
+      "score": 0.9798,
+      "box": [
+        115,
+        150,
+        681,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9868,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstream Labs, 2020.10–2023.01",
+      "score": 0.9884,
+      "box": [
+        116,
+        289,
+        663,
+        312
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9874,
+      "box": [
+        126,
+        313,
+        439,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented data pipeline architectures",
+      "score": 0.9879,
+      "box": [
+        126,
+        339,
+        512,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Tech, 2018.06–2020.10",
+      "score": 0.9879,
+      "box": [
+        116,
+        382,
+        640,
+        405
+      ]
+    },
+    {
+      "text": "- Developed reporting modules",
+      "score": 0.9842,
+      "box": [
+        126,
+        406,
+        415,
+        431
+      ]
+    },
+    {
+      "text": "- Handled schema migrations",
+      "score": 0.9846,
+      "box": [
+        126,
+        430,
+        402,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Stonebyte Labs, 2016.02–2018.06",
+      "score": 0.9811,
+      "box": [
+        116,
+        472,
+        641,
+        496
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9938,
+      "box": [
+        125,
+        496,
+        352,
+        521
+      ]
+    },
+    {
+      "text": "- Maintained code repositories",
+      "score": 0.9805,
+      "box": [
+        126,
+        521,
+        409,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Sunrise University, 2017",
+      "score": 0.9763,
+      "box": [
+        115,
+        632,
+        453,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of discrete mathematics",
+      "score": 0.9872,
+      "box": [
+        133,
+        656,
+        576,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in message queues",
+      "score": 0.9912,
+      "box": [
+        135,
+        682,
+        549,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "STEPHANIE WILEY\nTX, USA|+1-722-365-1486|stephanie.wiley@example.com\nWORK HISTORY\nSoftware Developers, Brightstream Labs, 2020.10–2023.01\n- Led technical roadmap planning\n- Implemented data pipeline architectures\nSoftware Developers, Codepath Tech, 2018.06–2020.10\n- Developed reporting modules\n- Handled schema migrations\nSoftware Developers, Stonebyte Labs, 2016.02–2018.06\n- Wrote integration tests\n- Maintained code repositories\nEDUCATION\nBachelor's, Sunrise University, 2017\n• Studied fundamentals of discrete mathematics\n• Completed coursework in message queues"
+}

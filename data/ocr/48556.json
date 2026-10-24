@@ -1,0 +1,148 @@
+{
+  "id": "48556",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.74,
+  "n_lines": 10,
+  "mean_score": 0.9841,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CHRISTIE STUART",
+      "score": 0.9783,
+      "box": [
+        117,
+        90,
+        419,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-430-455-5788 |christie.stuart@example.com",
+      "score": 0.9854,
+      "box": [
+        115,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9822,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Care Services, 2020.05–2023.01",
+      "score": 0.9934,
+      "box": [
+        116,
+        290,
+        727,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9654,
+      "box": [
+        127,
+        315,
+        372,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.991,
+      "box": [
+        126,
+        339,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Studies, Silverlake University, 2023",
+      "score": 0.9756,
+      "box": [
+        115,
+        447,
+        697,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of hydration management",
+      "score": 0.9906,
+      "box": [
+        132,
+        472,
+        557,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of infection diseases nursing",
+      "score": 0.981,
+      "box": [
+        132,
+        497,
+        619,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "CHRISTIE STUART\nTN, USA|+1-430-455-5788 |christie.stuart@example.com\nWORK HISTORY\nRegistered Nurses, Compassion Care Services, 2020.05–2023.01\n- Prepared sterile supplies\n- Assisted with physical therapy exercises\nEDUCATION\nAssociate's degree, Health Studies, Silverlake University, 2023\n• Studied principles of hydration management\n• Studied fundamentals of infection diseases nursing"
+}

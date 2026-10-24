@@ -1,0 +1,148 @@
+{
+  "id": "09125",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.809,
+  "n_lines": 10,
+  "mean_score": 0.986,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BLAKEGENTRY",
+      "score": 0.999,
+      "box": [
+        116,
+        90,
+        382,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-877-906-5032 |blake.gentry@example.com",
+      "score": 0.9786,
+      "box": [
+        117,
+        152,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpoint Tech, 2020.11–2023.01",
+      "score": 0.9829,
+      "box": [
+        116,
+        290,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9847,
+      "box": [
+        127,
+        315,
+        479,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with Cl pipeline tasks",
+      "score": 0.9792,
+      "box": [
+        126,
+        338,
+        424,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Crestview University, 2023",
+      "score": 0.9947,
+      "box": [
+        115,
+        449,
+        473,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of mutexes and semaphores",
+      "score": 0.9882,
+      "box": [
+        132,
+        473,
+        582,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of indexing techniques",
+      "score": 0.9693,
+      "box": [
+        132,
+        497,
+        564,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "BLAKEGENTRY\nCA, USA|+1-877-906-5032 |blake.gentry@example.com\nWORK HISTORY\nSoftware Developers, Flowpoint Tech, 2020.11–2023.01\n- Assisted with system documentation\n- Assisted with Cl pipeline tasks\nEDUCATION\nBachelor's, Crestview University, 2023\n• Studied principles of mutexes and semaphores\n• Studied fundamentals of indexing techniques"
+}

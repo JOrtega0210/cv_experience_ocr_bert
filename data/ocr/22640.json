@@ -1,0 +1,174 @@
+{
+  "id": "22640",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.838,
+  "n_lines": 12,
+  "mean_score": 0.9857,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RYAN PITTS",
+      "score": 0.988,
+      "box": [
+        116,
+        90,
+        317,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA|+1-407-466-8177 |ryan.pitts@example.com",
+      "score": 0.9849,
+      "box": [
+        115,
+        150,
+        625,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9854,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextLine Construction, 2021.03–2023.01",
+      "score": 0.9804,
+      "box": [
+        115,
+        289,
+        711,
+        312
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9911,
+      "box": [
+        126,
+        315,
+        458,
+        338
+      ]
+    },
+    {
+      "text": "- Supervised large structural repairs",
+      "score": 0.9919,
+      "box": [
+        126,
+        339,
+        460,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftLine Construction, 2019.05–2021.03",
+      "score": 0.993,
+      "box": [
+        116,
+        382,
+        716,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with drywall installation",
+      "score": 0.9793,
+      "box": [
+        126,
+        407,
+        440,
+        430
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.9742,
+      "box": [
+        127,
+        432,
+        445,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Structural Technology, Willowhaven High School, 2017",
+      "score": 0.9757,
+      "box": [
+        116,
+        541,
+        885,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic site grading",
+      "score": 0.9857,
+      "box": [
+        133,
+        565,
+        552,
+        590
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "RYAN PITTS\nKY, USA|+1-407-466-8177 |ryan.pitts@example.com\nWORK HISTORY\nConstruction Laborers, NextLine Construction, 2021.03–2023.01\n- Developed construction standards\n- Supervised large structural repairs\nConstruction Laborers, CraftLine Construction, 2019.05–2021.03\n- Assisted with drywall installation\n- Secured materials with fasteners\nEDUCATION\nHigh school graduate/GED, Structural Technology, Willowhaven High School, 2017\n• Completed coursework in basic site grading"
+}

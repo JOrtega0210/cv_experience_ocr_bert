@@ -1,0 +1,161 @@
+{
+  "id": "15925",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.932,
+  "n_lines": 11,
+  "mean_score": 0.9802,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ZACHARY SWEENEY",
+      "score": 0.9705,
+      "box": [
+        115,
+        90,
+        457,
+        120
+      ]
+    },
+    {
+      "text": "GA, USA|+1-397-893-4459 |zachary.sweeney@example.com",
+      "score": 0.9875,
+      "box": [
+        117,
+        152,
+        704,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9825,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Tree Academy, 2019.09–2022.07",
+      "score": 0.9827,
+      "box": [
+        116,
+        290,
+        871,
+        313
+      ]
+    },
+    {
+      "text": "- Managed classroom supplies",
+      "score": 0.9727,
+      "box": [
+        125,
+        314,
+        413,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed lesson objectives",
+      "score": 0.9942,
+      "box": [
+        126,
+        339,
+        400,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Applied Education, Sagewood University, 2017",
+      "score": 0.9755,
+      "box": [
+        115,
+        449,
+        641,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Foundations, Clearbrook University, 2015",
+      "score": 0.9689,
+      "box": [
+        115,
+        474,
+        724,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in social studies education",
+      "score": 0.9856,
+      "box": [
+        135,
+        500,
+        611,
+        520
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional pacing",
+      "score": 0.964,
+      "box": [
+        133,
+        522,
+        557,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "ZACHARY SWEENEY\nGA, USA|+1-397-893-4459 |zachary.sweeney@example.com\nWORK HISTORY\nElementary Middle School Teachers, Discovery Tree Academy, 2019.09–2022.07\n- Managed classroom supplies\n- Reviewed lesson objectives\nEDUCATION\nMaster's, Applied Education, Sagewood University, 2017\nBachelor's, Educational Foundations, Clearbrook University, 2015\n• Completed coursework in social studies education\n• Studied fundamentals of instructional pacing"
+}

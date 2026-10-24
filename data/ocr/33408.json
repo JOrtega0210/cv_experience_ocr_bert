@@ -1,0 +1,148 @@
+{
+  "id": "33408",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.742,
+  "n_lines": 10,
+  "mean_score": 0.9865,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JADE BEIL",
+      "score": 0.9877,
+      "box": [
+        115,
+        90,
+        293,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-777-934-1273 |jade.beil@example.com",
+      "score": 0.9782,
+      "box": [
+        116,
+        151,
+        616,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Financial Group, 2021.12–2023.01",
+      "score": 0.9927,
+      "box": [
+        115,
+        289,
+        753,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.9826,
+      "box": [
+        127,
+        315,
+        445,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.9823,
+      "box": [
+        126,
+        339,
+        423,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Investment Management, Pineview Ridge University, 2023",
+      "score": 0.9777,
+      "box": [
+        115,
+        449,
+        765,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of cost management",
+      "score": 0.9891,
+      "box": [
+        132,
+        472,
+        509,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of sampling techniques",
+      "score": 0.9918,
+      "box": [
+        133,
+        498,
+        532,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JADE BEIL\nNJ, USA|+1-777-934-1273 |jade.beil@example.com\nWORK HISTORY\nAccountants Auditors, SolidCount Financial Group, 2021.12–2023.01\n- Prepared account reconciliations\n- Assisted with inventory counts\nEDUCATION\nBachelor's, Investment Management, Pineview Ridge University, 2023\n• Studied principles of cost management\n• Studied principles of sampling techniques"
+}

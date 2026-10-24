@@ -1,0 +1,148 @@
+{
+  "id": "22831",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.77,
+  "n_lines": 10,
+  "mean_score": 0.9851,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HECTOR MACK",
+      "score": 0.9776,
+      "box": [
+        116,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA|+1-236-370-4111 |hector.mack@example.com",
+      "score": 0.9847,
+      "box": [
+        115,
+        150,
+        654,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9826,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildPoint Construction, 2021.05–2023.01",
+      "score": 0.986,
+      "box": [
+        115,
+        290,
+        724,
+        313
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.975,
+      "box": [
+        126,
+        314,
+        539,
+        337
+      ]
+    },
+    {
+      "text": "- Assisted with roofing material handling",
+      "score": 0.9911,
+      "box": [
+        126,
+        339,
+        498,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Fundamentals, Goldenfield University, 2023",
+      "score": 0.9834,
+      "box": [
+        116,
+        449,
+        896,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction lighting basics",
+      "score": 0.989,
+      "box": [
+        133,
+        474,
+        639,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in framing layout",
+      "score": 0.9831,
+      "box": [
+        134,
+        499,
+        522,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "HECTOR MACK\nKY, USA|+1-236-370-4111 |hector.mack@example.com\nWORK HISTORY\nConstruction Laborers, BuildPoint Construction, 2021.05–2023.01\n- Carried materials to designated work areas\n- Assisted with roofing material handling\nEDUCATION\nSome college (no degree), Construction Fundamentals, Goldenfield University, 2023\n• Completed coursework in construction lighting basics\n• Completed coursework in framing layout"
+}

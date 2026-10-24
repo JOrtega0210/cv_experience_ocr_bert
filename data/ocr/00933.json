@@ -1,0 +1,148 @@
+{
+  "id": "00933",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.809,
+  "n_lines": 10,
+  "mean_score": 0.9834,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AMYBLAKE",
+      "score": 0.9989,
+      "box": [
+        116,
+        90,
+        317,
+        121
+      ]
+    },
+    {
+      "text": "AK, USA|+1-638-800-3685 |amy.blake@example.com",
+      "score": 0.977,
+      "box": [
+        115,
+        150,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunSpring Nursing, 2021.12–2022.01",
+      "score": 0.9941,
+      "box": [
+        116,
+        290,
+        649,
+        313
+      ]
+    },
+    {
+      "text": "- Performed blood glucose testing",
+      "score": 0.9778,
+      "box": [
+        126,
+        313,
+        441,
+        340
+      ]
+    },
+    {
+      "text": "- Monitored patient recovery",
+      "score": 0.9502,
+      "box": [
+        126,
+        339,
+        389,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Life Sciences, Highpoint University, 2011",
+      "score": 0.97,
+      "box": [
+        114,
+        447,
+        605,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of telemetry basics",
+      "score": 0.9888,
+      "box": [
+        132,
+        472,
+        493,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in communication in care teams",
+      "score": 0.9938,
+      "box": [
+        133,
+        498,
+        661,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "AMYBLAKE\nAK, USA|+1-638-800-3685 |amy.blake@example.com\nWORK HISTORY\nRegistered Nurses, SunSpring Nursing, 2021.12–2022.01\n- Performed blood glucose testing\n- Monitored patient recovery\nEDUCATION\nBachelor's, Life Sciences, Highpoint University, 2011\n• Studied principles of telemetry basics\n• Completed coursework in communication in care teams"
+}

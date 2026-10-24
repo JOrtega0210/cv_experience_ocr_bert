@@ -1,0 +1,226 @@
+{
+  "id": "09434",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.96,
+  "n_lines": 16,
+  "mean_score": 0.9772,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SHANEQUA BUCKLEY",
+      "score": 0.973,
+      "box": [
+        116,
+        90,
+        479,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-608-909-8107 |shanequa.buckley@example.com",
+      "score": 0.9847,
+      "box": [
+        116,
+        150,
+        709,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9813,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Financial, 2020.04–2023.01",
+      "score": 0.9893,
+      "box": [
+        115,
+        290,
+        700,
+        313
+      ]
+    },
+    {
+      "text": "- Led financial forecasting initiatives",
+      "score": 0.9586,
+      "box": [
+        126,
+        313,
+        458,
+        338
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9771,
+      "box": [
+        126,
+        339,
+        427,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Advisors, 2017.06–2020.04",
+      "score": 0.9804,
+      "box": [
+        114,
+        381,
+        742,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared regulatory reports",
+      "score": 0.9754,
+      "box": [
+        126,
+        406,
+        398,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared management reports",
+      "score": 0.9703,
+      "box": [
+        126,
+        430,
+        427,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Financial Group, 2014.08–2017.06",
+      "score": 0.9878,
+      "box": [
+        114,
+        471,
+        804,
+        496
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.9656,
+      "box": [
+        125,
+        496,
+        415,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.9545,
+      "box": [
+        126,
+        521,
+        384,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Taxation, Willowstone University, 2013",
+      "score": 0.9662,
+      "box": [
+        115,
+        632,
+        585,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in strategic cost management",
+      "score": 0.9879,
+      "box": [
+        133,
+        657,
+        640,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit risk modeling",
+      "score": 0.9842,
+      "box": [
+        134,
+        681,
+        563,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "SHANEQUA BUCKLEY\nCA, USA|+1-608-909-8107 |shanequa.buckley@example.com\nWORK HISTORY\nAccountants Auditors, FairBalance Financial, 2020.04–2023.01\n- Led financial forecasting initiatives\n- Managed financial governance\nAccountants Auditors, Reliable Balance Advisors, 2017.06–2020.04\n- Prepared regulatory reports\n- Prepared management reports\nAccountants Auditors, Precise Balance Financial Group, 2014.08–2017.06\n- Verified financial transactions\n- Prepared variance reports\nEDUCATION\nBachelor's, Taxation, Willowstone University, 2013\n• Completed coursework in strategic cost management\n• Completed coursework in audit risk modeling"
+}

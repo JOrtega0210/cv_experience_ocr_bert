@@ -1,0 +1,187 @@
+{
+  "id": "47851",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.777,
+  "n_lines": 13,
+  "mean_score": 0.9802,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LAFAYETTE OCONNELL",
+      "score": 0.9882,
+      "box": [
+        116,
+        90,
+        510,
+        120
+      ]
+    },
+    {
+      "text": "SC, USA|+1-463-431-5604|lafayette.oconnell@example.com",
+      "score": 0.9832,
+      "box": [
+        116,
+        152,
+        703,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9808,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Softnode Systems, 2021.04–2023.01",
+      "score": 0.9788,
+      "box": [
+        114,
+        288,
+        664,
+        313
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9504,
+      "box": [
+        125,
+        313,
+        380,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9855,
+      "box": [
+        127,
+        340,
+        424,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Skyline Tech, 2019.06–2021.04",
+      "score": 0.9879,
+      "box": [
+        116,
+        382,
+        616,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with Cl pipeline tasks",
+      "score": 0.9764,
+      "box": [
+        125,
+        406,
+        423,
+        431
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9829,
+      "box": [
+        127,
+        432,
+        415,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Forest Ridge University, 2017",
+      "score": 0.961,
+      "box": [
+        116,
+        540,
+        643,
+        563
+      ]
+    },
+    {
+      "text": "• Completed coursework in cloud computing basics",
+      "score": 0.9755,
+      "box": [
+        133,
+        566,
+        607,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of user interface development",
+      "score": 0.9943,
+      "box": [
+        132,
+        590,
+        631,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "LAFAYETTE OCONNELL\nSC, USA|+1-463-431-5604|lafayette.oconnell@example.com\nWORK HISTORY\nSoftware Developers, Softnode Systems, 2021.04–2023.01\n- Defined coding standards\n- Implemented core frameworks\nSoftware Developers, Skyline Tech, 2019.06–2021.04\n- Assisted with Cl pipeline tasks\n- Updated frontend stylesheets\nEDUCATION\nSome college (no degree), Forest Ridge University, 2017\n• Completed coursework in cloud computing basics\n• Studied fundamentals of user interface development"
+}

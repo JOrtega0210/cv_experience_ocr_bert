@@ -1,0 +1,148 @@
+{
+  "id": "48120",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.754,
+  "n_lines": 10,
+  "mean_score": 0.982,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MIKELLA EVANS",
+      "score": 0.9784,
+      "box": [
+        116,
+        90,
+        391,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-794-369-3385 |mikella.evans@example.com",
+      "score": 0.9827,
+      "box": [
+        116,
+        152,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9834,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Start School, 2020.07–2021.11",
+      "score": 0.9689,
+      "box": [
+        116,
+        289,
+        814,
+        312
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.9906,
+      "box": [
+        126,
+        314,
+        518,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared lesson summaries",
+      "score": 0.9806,
+      "box": [
+        126,
+        339,
+        403,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Community Education, Willowfield University, 2018",
+      "score": 0.9824,
+      "box": [
+        115,
+        449,
+        695,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of student engagement",
+      "score": 0.9776,
+      "box": [
+        132,
+        472,
+        533,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of classroom inclusivity",
+      "score": 0.9765,
+      "box": [
+        133,
+        499,
+        531,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "MIKELLA EVANS\nSC, USA|+1-794-369-3385 |mikella.evans@example.com\nWORK HISTORY\nElementary Middle School Teachers, Sunny Start School, 2020.07–2021.11\n- Supported standardized testing sessions\n- Prepared lesson summaries\nEDUCATION\nBachelor's, Community Education, Willowfield University, 2018\n• Studied principles of student engagement\n• Studied principles of classroom inclusivity"
+}

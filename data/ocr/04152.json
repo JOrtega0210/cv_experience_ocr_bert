@@ -1,0 +1,226 @@
+{
+  "id": "04152",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.96,
+  "n_lines": 16,
+  "mean_score": 0.9768,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ASTON ALI",
+      "score": 0.951,
+      "box": [
+        115,
+        88,
+        299,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-384-540-1265 | aston.ali@example.com",
+      "score": 0.9431,
+      "box": [
+        116,
+        150,
+        618,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Balance Services, 2020.03–2023.01",
+      "score": 0.9883,
+      "box": [
+        115,
+        290,
+        748,
+        313
+      ]
+    },
+    {
+      "text": "- Managed consolidation processes",
+      "score": 0.9771,
+      "box": [
+        126,
+        314,
+        458,
+        339
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9882,
+      "box": [
+        127,
+        340,
+        508,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Group, 2017.04–2020.03",
+      "score": 0.9799,
+      "box": [
+        114,
+        381,
+        667,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared regulatory reports",
+      "score": 0.9775,
+      "box": [
+        126,
+        406,
+        398,
+        432
+      ]
+    },
+    {
+      "text": "- Prepared financial projections",
+      "score": 0.9598,
+      "box": [
+        126,
+        430,
+        417,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Group, 2014.05–2017.04",
+      "score": 0.9714,
+      "box": [
+        115,
+        472,
+        694,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.986,
+      "box": [
+        125,
+        496,
+        358,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.9808,
+      "box": [
+        126,
+        521,
+        409,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Government Accounting, Elm Valley University, 2013",
+      "score": 0.9681,
+      "box": [
+        114,
+        631,
+        715,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of portfolio management",
+      "score": 0.9797,
+      "box": [
+        132,
+        656,
+        582,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounts receivable",
+      "score": 0.9936,
+      "box": [
+        136,
+        684,
+        573,
+        704
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ASTON ALI\nCA, USA|+1-384-540-1265 | aston.ali@example.com\nWORK HISTORY\nAccountants Auditors, Accurate Balance Services, 2020.03–2023.01\n- Managed consolidation processes\n- Established tax compliance frameworks\nAccountants Auditors, TrustCount Group, 2017.04–2020.03\n- Prepared regulatory reports\n- Prepared financial projections\nAccountants Auditors, SteadyLedger Group, 2014.05–2017.04\n- Prepared trial balances\n- Prepared audit confirmations\nEDUCATION\nBachelor's, Government Accounting, Elm Valley University, 2013\n• Studied fundamentals of portfolio management\n• Completed coursework in accounts receivable"
+}

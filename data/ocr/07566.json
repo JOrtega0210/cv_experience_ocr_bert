@@ -1,0 +1,226 @@
+{
+  "id": "07566",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.958,
+  "n_lines": 16,
+  "mean_score": 0.9847,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOHN ZIMMERMAN",
+      "score": 0.973,
+      "box": [
+        116,
+        90,
+        428,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-343-927-2127 |john.zimmerman@example.com",
+      "score": 0.9818,
+      "box": [
+        117,
+        152,
+        695,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9886,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Financial, 220.10–202.01",
+      "score": 0.9779,
+      "box": [
+        114,
+        289,
+        728,
+        313
+      ]
+    },
+    {
+      "text": "-Directed accounting operations planning",
+      "score": 0.993,
+      "box": [
+        125,
+        314,
+        514,
+        339
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9794,
+      "box": [
+        126,
+        339,
+        323,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Financial, 2018.06–2020.10",
+      "score": 0.9808,
+      "box": [
+        114,
+        381,
+        719,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed tax provisions",
+      "score": 0.9839,
+      "box": [
+        125,
+        406,
+        368,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed journal entries",
+      "score": 0.9812,
+      "box": [
+        125,
+        430,
+        371,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Financial, 2014.07–2016.11",
+      "score": 0.9901,
+      "box": [
+        115,
+        472,
+        699,
+        495
+      ]
+    },
+    {
+      "text": "- Performed data validation checks",
+      "score": 0.9892,
+      "box": [
+        126,
+        497,
+        450,
+        519
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.9817,
+      "box": [
+        126,
+        521,
+        420,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Data Analytics, Clearfield Ridge University, 2005",
+      "score": 0.992,
+      "box": [
+        114,
+        631,
+        674,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting ethics",
+      "score": 0.9811,
+      "box": [
+        134,
+        658,
+        550,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in tax accounting",
+      "score": 0.9825,
+      "box": [
+        134,
+        681,
+        523,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JOHN ZIMMERMAN\nCA, USA|+1-343-927-2127 |john.zimmerman@example.com\nWORK HISTORY\nAccountants Auditors, Precise Ledger Financial, 220.10–202.01\n-Directed accounting operations planning\n- Led audit programs\nAccountants Auditors, SteadyLedger Financial, 2018.06–2020.10\n- Reviewed tax provisions\n- Reviewed journal entries\nAccountants Auditors, FairBalance Financial, 2014.07–2016.11\n- Performed data validation checks\n- Assisted with forecasting data\nEDUCATION\nBachelor's, Data Analytics, Clearfield Ridge University, 2005\n• Completed coursework in accounting ethics\n• Completed coursework in tax accounting"
+}

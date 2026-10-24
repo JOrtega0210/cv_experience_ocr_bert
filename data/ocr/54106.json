@@ -1,0 +1,135 @@
+{
+  "id": "54106",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.758,
+  "n_lines": 9,
+  "mean_score": 0.9799,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JACOB GATES",
+      "score": 0.9649,
+      "box": [
+        116,
+        90,
+        360,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-692-960-9838 |jacob.gates@example.com",
+      "score": 0.9709,
+      "box": [
+        115,
+        150,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidTrack Construction, 2021.02–2023.01",
+      "score": 0.9751,
+      "box": [
+        115,
+        290,
+        728,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.9854,
+      "box": [
+        127,
+        315,
+        512,
+        338
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.982,
+      "box": [
+        126,
+        339,
+        503,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Industrial Technology, Pine Valley High School, 2022",
+      "score": 0.9822,
+      "box": [
+        116,
+        449,
+        867,
+        473
+      ]
+    },
+    {
+      "text": "• Studied principles of workplace safety",
+      "score": 0.9765,
+      "box": [
+        132,
+        473,
+        497,
+        498
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "JACOB GATES\nTX, USA|+1-692-960-9838 |jacob.gates@example.com\nWORK HISTORY\nConstruction Laborers, SolidTrack Construction, 2021.02–2023.01\n- Prepared surfaces for construction work\n- Handled power tools under supervision\nEDUCATION\nHigh school graduate/GED, Industrial Technology, Pine Valley High School, 2022\n• Studied principles of workplace safety"
+}

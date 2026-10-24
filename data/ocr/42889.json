@@ -1,0 +1,135 @@
+{
+  "id": "42889",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.793,
+  "n_lines": 9,
+  "mean_score": 0.9855,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JARED BAXTER",
+      "score": 0.9778,
+      "box": [
+        116,
+        90,
+        378,
+        121
+      ]
+    },
+    {
+      "text": "OH, USA|+1-278-461-2122 |jared.baxter@example.com",
+      "score": 0.992,
+      "box": [
+        116,
+        151,
+        654,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9803,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueForce Construction, 2018.06–2021.01",
+      "score": 0.9953,
+      "box": [
+        116,
+        291,
+        725,
+        311
+      ]
+    },
+    {
+      "text": "- Assisted with drywall installation",
+      "score": 0.9818,
+      "box": [
+        126,
+        315,
+        440,
+        338
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.9762,
+      "box": [
+        127,
+        340,
+        373,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Engineering Technology, Riverhaven High School, 2017",
+      "score": 0.9924,
+      "box": [
+        116,
+        449,
+        1018,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site communication",
+      "score": 0.9755,
+      "box": [
+        132,
+        472,
+        591,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "JARED BAXTER\nOH, USA|+1-278-461-2122 |jared.baxter@example.com\nWORK HISTORY\nConstruction Laborers, TrueForce Construction, 2018.06–2021.01\n- Assisted with drywall installation\n- Sorted building materials\nEDUCATION\nHigh school graduate/GED, Construction Engineering Technology, Riverhaven High School, 2017\n• Studied fundamentals of job site communication"
+}

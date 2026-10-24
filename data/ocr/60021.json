@@ -1,0 +1,187 @@
+{
+  "id": "60021",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.886,
+  "n_lines": 13,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HEATHER MYERS",
+      "score": 0.9807,
+      "box": [
+        116,
+        90,
+        408,
+        121
+      ]
+    },
+    {
+      "text": "WV, USA|+1-795-997-2927|heather.myers@example.com",
+      "score": 0.9738,
+      "box": [
+        115,
+        150,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9769,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Bridge School, 2020.06–2023.01",
+      "score": 0.9846,
+      "box": [
+        116,
+        289,
+        838,
+        313
+      ]
+    },
+    {
+      "text": "- Designed instructional governance models",
+      "score": 0.9773,
+      "box": [
+        127,
+        315,
+        535,
+        338
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.9955,
+      "box": [
+        127,
+        340,
+        509,
+        362
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Futures Academy, 2017.11–2020.06",
+      "score": 0.9921,
+      "box": [
+        115,
+        381,
+        884,
+        406
+      ]
+    },
+    {
+      "text": "- Supervised classroom activities",
+      "score": 0.9868,
+      "box": [
+        127,
+        407,
+        434,
+        430
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9857,
+      "box": [
+        126,
+        430,
+        517,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Support, Meadowway University, 2018",
+      "score": 0.9716,
+      "box": [
+        114,
+        539,
+        674,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic monitoring strategies",
+      "score": 0.9924,
+      "box": [
+        133,
+        565,
+        678,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom workflow organization",
+      "score": 0.9573,
+      "box": [
+        134,
+        590,
+        689,
+        613
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "HEATHER MYERS\nWV, USA|+1-795-997-2927|heather.myers@example.com\nWORK HISTORY\nElementary Middle School Teachers, Golden Bridge School, 2020.06–2023.01\n- Designed instructional governance models\n- Led curriculum transformation initiatives\nElementary Middle School Teachers, Growing Futures Academy, 2017.11–2020.06\n- Supervised classroom activities\n- Organized classroom learning resources\nEDUCATION\nBachelor's, Teaching Support, Meadowway University, 2018\n• Completed coursework in academic monitoring strategies\n• Completed coursework in classroom workflow organization"
+}

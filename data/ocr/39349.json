@@ -1,0 +1,148 @@
+{
+  "id": "39349",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.766,
+  "n_lines": 10,
+  "mean_score": 0.9831,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JESSICA INGRAM",
+      "score": 0.9871,
+      "box": [
+        116,
+        90,
+        406,
+        121
+      ]
+    },
+    {
+      "text": "NC, USA|+1-746-336-8995|jessica.ingram@example.com",
+      "score": 0.9731,
+      "box": [
+        115,
+        150,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrueBalance Financial, 2020.01–2020.03",
+      "score": 0.9951,
+      "box": [
+        115,
+        290,
+        708,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with compliance documentation",
+      "score": 0.9848,
+      "box": [
+        127,
+        315,
+        518,
+        338
+      ]
+    },
+    {
+      "text": "- Prepared supporting schedules",
+      "score": 0.9685,
+      "box": [
+        126,
+        339,
+        431,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting and Auditing, Prairie View University, 2015",
+      "score": 0.9767,
+      "box": [
+        115,
+        449,
+        729,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in cost allocation methods",
+      "score": 0.9804,
+      "box": [
+        134,
+        475,
+        607,
+        495
+      ]
+    },
+    {
+      "text": "• Studied principles of business strategy",
+      "score": 0.9834,
+      "box": [
+        133,
+        497,
+        504,
+        524
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JESSICA INGRAM\nNC, USA|+1-746-336-8995|jessica.ingram@example.com\nWORK HISTORY\nAccountants Auditors, TrueBalance Financial, 2020.01–2020.03\n- Assisted with compliance documentation\n- Prepared supporting schedules\nEDUCATION\nBachelor's, Accounting and Auditing, Prairie View University, 2015\n• Completed coursework in cost allocation methods\n• Studied principles of business strategy"
+}

@@ -1,0 +1,265 @@
+{
+  "id": "16687",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.049,
+  "n_lines": 19,
+  "mean_score": 0.9861,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSHUA LEE",
+      "score": 0.9662,
+      "box": [
+        116,
+        90,
+        332,
+        121
+      ]
+    },
+    {
+      "text": "HI, USA|+1-906-272-7557 |joshua.lee@example.com",
+      "score": 0.9854,
+      "box": [
+        115,
+        150,
+        628,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9852,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenHands Care Services, 2020.06–2023.01",
+      "score": 0.9917,
+      "box": [
+        115,
+        289,
+        723,
+        314
+      ]
+    },
+    {
+      "text": "-Directed care delivery improvements",
+      "score": 0.9978,
+      "box": [
+        125,
+        313,
+        481,
+        339
+      ]
+    },
+    {
+      "text": "- Led patient experience improvement programs",
+      "score": 0.9851,
+      "box": [
+        126,
+        339,
+        574,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenSpring Care Services, 2017.11–2020.06",
+      "score": 0.9941,
+      "box": [
+        115,
+        381,
+        724,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented care pathway frameworks",
+      "score": 0.9864,
+      "box": [
+        127,
+        407,
+        506,
+        431
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.9882,
+      "box": [
+        126,
+        430,
+        425,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Nursing, 2013.10–216.06",
+      "score": 0.9847,
+      "box": [
+        116,
+        472,
+        675,
+        496
+      ]
+    },
+    {
+      "text": "- Supervised clinical documentation",
+      "score": 0.9866,
+      "box": [
+        126,
+        498,
+        457,
+        521
+      ]
+    },
+    {
+      "text": "- Monitored infusion pump settings",
+      "score": 0.9702,
+      "box": [
+        126,
+        521,
+        449,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Hands Care, 2010.03–2012.11",
+      "score": 0.9929,
+      "box": [
+        116,
+        565,
+        663,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9921,
+      "box": [
+        125,
+        588,
+        514,
+        614
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.992,
+      "box": [
+        126,
+        613,
+        479,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Biomedical Sciences, Sunfield University, 204",
+      "score": 0.9744,
+      "box": [
+        114,
+        723,
+        661,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in pressure injury prevention",
+      "score": 0.9802,
+      "box": [
+        133,
+        749,
+        629,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of data privacy",
+      "score": 0.9836,
+      "box": [
+        133,
+        772,
+        491,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "JOSHUA LEE\nHI, USA|+1-906-272-7557 |joshua.lee@example.com\nWORK HISTORY\nRegistered Nurses, OpenHands Care Services, 2020.06–2023.01\n-Directed care delivery improvements\n- Led patient experience improvement programs\nRegistered Nurses, OpenSpring Care Services, 2017.11–2020.06\n- Implemented care pathway frameworks\n- Led clinical governance efforts\nRegistered Nurses, GentleHands Nursing, 2013.10–216.06\n- Supervised clinical documentation\n- Monitored infusion pump settings\nRegistered Nurses, Helping Hands Care, 2010.03–2012.11\n- Assisted with physical therapy exercises\n- Prepared medical equipment for use\nEDUCATION\nBachelor's, Biomedical Sciences, Sunfield University, 204\n• Completed coursework in pressure injury prevention\n• Studied fundamentals of data privacy"
+}

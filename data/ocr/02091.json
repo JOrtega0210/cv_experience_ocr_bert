@@ -1,0 +1,226 @@
+{
+  "id": "02091",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.991,
+  "n_lines": 16,
+  "mean_score": 0.9819,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ERICA WARD",
+      "score": 0.9534,
+      "box": [
+        115,
+        88,
+        336,
+        122
+      ]
+    },
+    {
+      "text": "AR, USA|+1-778-448-6398|erica.ward@example.com",
+      "score": 0.9807,
+      "box": [
+        115,
+        150,
+        637,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Structures, 2020.07–2023.01",
+      "score": 0.9861,
+      "box": [
+        115,
+        290,
+        692,
+        312
+      ]
+    },
+    {
+      "text": "-Directed site optimization initiatives",
+      "score": 0.9844,
+      "box": [
+        125,
+        313,
+        467,
+        338
+      ]
+    },
+    {
+      "text": "- Supervised foundation installations",
+      "score": 0.9881,
+      "box": [
+        127,
+        340,
+        465,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftWay Builders, 2017.12–2020.07",
+      "score": 0.9801,
+      "box": [
+        115,
+        381,
+        677,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored project timelines",
+      "score": 0.9649,
+      "box": [
+        126,
+        407,
+        393,
+        430
+      ]
+    },
+    {
+      "text": "- Installed electrical wiring supports",
+      "score": 0.9856,
+      "box": [
+        126,
+        430,
+        454,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearPath Construction, 2015.05–2017.12",
+      "score": 0.9932,
+      "box": [
+        116,
+        472,
+        725,
+        495
+      ]
+    },
+    {
+      "text": "- Monitored material usage",
+      "score": 0.9766,
+      "box": [
+        125,
+        495,
+        379,
+        522
+      ]
+    },
+    {
+      "text": "- Performed basic demolition tasks",
+      "score": 0.9954,
+      "box": [
+        127,
+        522,
+        449,
+        545
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Systems, Meadowfield University, 2013",
+      "score": 0.9666,
+      "box": [
+        115,
+        631,
+        813,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic metalwork",
+      "score": 0.9841,
+      "box": [
+        133,
+        657,
+        540,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction safety documentation",
+      "score": 0.9872,
+      "box": [
+        135,
+        682,
+        706,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ERICA WARD\nAR, USA|+1-778-448-6398|erica.ward@example.com\nWORK HISTORY\nConstruction Laborers, Precision Structures, 2020.07–2023.01\n-Directed site optimization initiatives\n- Supervised foundation installations\nConstruction Laborers, CraftWay Builders, 2017.12–2020.07\n- Monitored project timelines\n- Installed electrical wiring supports\nConstruction Laborers, ClearPath Construction, 2015.05–2017.12\n- Monitored material usage\n- Performed basic demolition tasks\nEDUCATION\nSome college (no degree), Building Systems, Meadowfield University, 2013\n• Completed coursework in basic metalwork\n• Completed coursework in construction safety documentation"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "58610",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.827,
+  "n_lines": 13,
+  "mean_score": 0.9822,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRITTANYOLSON",
+      "score": 0.9985,
+      "box": [
+        116,
+        90,
+        416,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-585-485-9570 |brittany.olson@example.com",
+      "score": 0.9649,
+      "box": [
+        114,
+        150,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9835,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Group, 2020.03–2023.01",
+      "score": 0.9781,
+      "box": [
+        114,
+        289,
+        702,
+        313
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9729,
+      "box": [
+        125,
+        313,
+        489,
+        339
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9664,
+      "box": [
+        126,
+        339,
+        361,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Advisors, 2015.08–2018.07",
+      "score": 0.9967,
+      "box": [
+        115,
+        382,
+        744,
+        405
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9837,
+      "box": [
+        125,
+        405,
+        490,
+        431
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9859,
+      "box": [
+        125,
+        429,
+        550,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting and Auditing, Riverstone University, 2008",
+      "score": 0.9633,
+      "box": [
+        114,
+        539,
+        717,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in management information systems",
+      "score": 0.9804,
+      "box": [
+        134,
+        566,
+        702,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting research methods",
+      "score": 0.9964,
+      "box": [
+        135,
+        591,
+        663,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "BRITTANYOLSON\nWA, USA|+1-585-485-9570 |brittany.olson@example.com\nWORK HISTORY\nAccountants Auditors, Precise Ledger Group, 2020.03–2023.01\n- Directed financial system architecture\n- Designed tax strategies\nAccountants Auditors, Reliable Balance Advisors, 2015.08–2018.07\n- Processed accounts payable invoices\n- Processed accounts receivable transactions\nEDUCATION\nBachelor's, Accounting and Auditing, Riverstone University, 2008\n• Completed coursework in management information systems\n• Completed coursework in accounting research methods"
+}

@@ -1,0 +1,174 @@
+{
+  "id": "20198",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.845,
+  "n_lines": 12,
+  "mean_score": 0.9827,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JARED ALLISON",
+      "score": 0.9705,
+      "box": [
+        116,
+        90,
+        388,
+        121
+      ]
+    },
+    {
+      "text": "IN, USA|+1-688-823-9615 |jared.allison@example.com",
+      "score": 0.9632,
+      "box": [
+        116,
+        150,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9839,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWorks Builders, 2020.01–2023.01",
+      "score": 0.9872,
+      "box": [
+        115,
+        290,
+        694,
+        313
+      ]
+    },
+    {
+      "text": "- Managed subcontractor coordination",
+      "score": 0.985,
+      "box": [
+        126,
+        315,
+        481,
+        338
+      ]
+    },
+    {
+      "text": "- Directed project execution strategies",
+      "score": 0.9756,
+      "box": [
+        126,
+        339,
+        480,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmWay Construction, 2014.10–2017.10",
+      "score": 0.9925,
+      "box": [
+        116,
+        382,
+        715,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9744,
+      "box": [
+        125,
+        406,
+        493,
+        431
+      ]
+    },
+    {
+      "text": "- Followed safety procedures on site",
+      "score": 0.9765,
+      "box": [
+        127,
+        432,
+        465,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, General Construction, Pioneer High School, 2011",
+      "score": 0.9942,
+      "box": [
+        116,
+        541,
+        832,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of environmental safety",
+      "score": 0.9915,
+      "box": [
+        133,
+        565,
+        534,
+        590
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "JARED ALLISON\nIN, USA|+1-688-823-9615 |jared.allison@example.com\nWORK HISTORY\nConstruction Laborers, SolidWorks Builders, 2020.01–2023.01\n- Managed subcontractor coordination\n- Directed project execution strategies\nConstruction Laborers, FirmWay Construction, 2014.10–2017.10\n- Assisted with equipment maintenance\n- Followed safety procedures on site\nEDUCATION\nHigh school graduate/GED, General Construction, Pioneer High School, 2011\n• Studied principles of environmental safety"
+}

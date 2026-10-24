@@ -1,0 +1,265 @@
+{
+  "id": "03616",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.031,
+  "n_lines": 19,
+  "mean_score": 0.9854,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSIE LIU",
+      "score": 0.9773,
+      "box": [
+        114,
+        88,
+        281,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA|+1-981-271-1700 |josie.liu@example.com",
+      "score": 0.9828,
+      "box": [
+        116,
+        151,
+        611,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenCare Nursing Services, 2020.01–2023.01",
+      "score": 0.992,
+      "box": [
+        115,
+        289,
+        734,
+        314
+      ]
+    },
+    {
+      "text": "- Developed patient safety metrics",
+      "score": 0.9767,
+      "box": [
+        127,
+        315,
+        445,
+        338
+      ]
+    },
+    {
+      "text": "- Directed nursing operations planning",
+      "score": 0.9719,
+      "box": [
+        126,
+        339,
+        481,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunSpring Nursing, 2017.01–2020.01",
+      "score": 0.9863,
+      "box": [
+        115,
+        381,
+        649,
+        406
+      ]
+    },
+    {
+      "text": "- Developed staffing allocation models",
+      "score": 0.9915,
+      "box": [
+        126,
+        406,
+        482,
+        431
+      ]
+    },
+    {
+      "text": "- Managed clinical resource planning",
+      "score": 0.9875,
+      "box": [
+        126,
+        430,
+        468,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWay Care Group, 2012.11–2015.12",
+      "score": 0.9847,
+      "box": [
+        116,
+        473,
+        669,
+        496
+      ]
+    },
+    {
+      "text": "- Managed isolation procedures",
+      "score": 0.9855,
+      "box": [
+        126,
+        498,
+        423,
+        521
+      ]
+    },
+    {
+      "text": "- Provided wound care management",
+      "score": 0.9839,
+      "box": [
+        126,
+        521,
+        466,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearPath Nursing Group, 2009.03–2012.04",
+      "score": 0.9762,
+      "box": [
+        116,
+        565,
+        710,
+        589
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.9935,
+      "box": [
+        126,
+        590,
+        453,
+        613
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9755,
+      "box": [
+        127,
+        615,
+        438,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Education, Stonehaven University, 2004",
+      "score": 0.9873,
+      "box": [
+        115,
+        725,
+        663,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of adverse drug reactions",
+      "score": 0.9918,
+      "box": [
+        132,
+        747,
+        554,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of pain assessment tools",
+      "score": 0.9928,
+      "box": [
+        135,
+        775,
+        548,
+        795
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "JOSIE LIU\nCA, USA|+1-981-271-1700 |josie.liu@example.com\nWORK HISTORY\nRegistered Nurses, OpenCare Nursing Services, 2020.01–2023.01\n- Developed patient safety metrics\n- Directed nursing operations planning\nRegistered Nurses, SunSpring Nursing, 2017.01–2020.01\n- Developed staffing allocation models\n- Managed clinical resource planning\nRegistered Nurses, SunWay Care Group, 2012.11–2015.12\n- Managed isolation procedures\n- Provided wound care management\nRegistered Nurses, ClearPath Nursing Group, 2009.03–2012.04\n- Documented patient observations\n- Assisted with patient positioning\nEDUCATION\nBachelor's, Health Education, Stonehaven University, 2004\n• Studied principles of adverse drug reactions\n• Studied principles of pain assessment tools"
+}

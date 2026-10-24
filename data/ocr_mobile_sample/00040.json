@@ -1,0 +1,265 @@
+{
+  "id": "00040",
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "PP-OCRv5_mobile_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.41,
+  "n_lines": 19,
+  "mean_score": 0.9865,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KATHERINE GLOVER",
+      "score": 0.986,
+      "box": [
+        117,
+        92,
+        462,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-329-921-3757 |katherine.glover@example.com",
+      "score": 0.9826,
+      "box": [
+        116,
+        150,
+        685,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9876,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildStone Co., 2020.05–2023.01",
+      "score": 0.9779,
+      "box": [
+        116,
+        288,
+        646,
+        316
+      ]
+    },
+    {
+      "text": "- Directed site safety audits",
+      "score": 0.9874,
+      "box": [
+        125,
+        314,
+        382,
+        343
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9785,
+      "box": [
+        127,
+        340,
+        467,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorBuild Co., 2017.09–2020.05",
+      "score": 0.9917,
+      "box": [
+        118,
+        383,
+        659,
+        407
+      ]
+    },
+    {
+      "text": "- Managed large-scale installations",
+      "score": 0.9783,
+      "box": [
+        127,
+        409,
+        451,
+        433
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.9811,
+      "box": [
+        129,
+        432,
+        434,
+        458
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Stone Builders, 2015.01–2017.09",
+      "score": 0.993,
+      "box": [
+        116,
+        471,
+        737,
+        499
+      ]
+    },
+    {
+      "text": "- Managed waste disposal operations",
+      "score": 0.9928,
+      "box": [
+        125,
+        497,
+        476,
+        525
+      ]
+    },
+    {
+      "text": "- Performed structural repairs",
+      "score": 0.9865,
+      "box": [
+        128,
+        522,
+        401,
+        550
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildStone Group, 2010.10–2013.06",
+      "score": 0.9854,
+      "box": [
+        118,
+        566,
+        672,
+        590
+      ]
+    },
+    {
+      "text": "- Performed basic carpentry tasks",
+      "score": 0.9895,
+      "box": [
+        126,
+        589,
+        444,
+        618
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.989,
+      "box": [
+        127,
+        613,
+        492,
+        645
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Industrial Maintenance, Goldenwood University, 2003",
+      "score": 0.9908,
+      "box": [
+        115,
+        723,
+        863,
+        750
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction measurement tools",
+      "score": 0.9819,
+      "box": [
+        132,
+        750,
+        675,
+        774
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic site surveying",
+      "score": 0.9852,
+      "box": [
+        132,
+        772,
+        573,
+        802
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "KATHERINE GLOVER\nAL, USA | +1-329-921-3757 |katherine.glover@example.com\nWORK HISTORY\nConstruction Laborers, BuildStone Co., 2020.05–2023.01\n- Directed site safety audits\n- Directed site optimization initiatives\nConstruction Laborers, AnchorBuild Co., 2017.09–2020.05\n- Managed large-scale installations\n- Supervised high-risk operations\nConstruction Laborers, Precision Stone Builders, 2015.01–2017.09\n- Managed waste disposal operations\n- Performed structural repairs\nConstruction Laborers, BuildStone Group, 2010.10–2013.06\n- Performed basic carpentry tasks\n- Performed basic sanding and painting\nEDUCATION\nSome college (no degree), Industrial Maintenance, Goldenwood University, 2003\n• Studied fundamentals of construction measurement tools\n• Completed coursework in basic site surveying"
+}

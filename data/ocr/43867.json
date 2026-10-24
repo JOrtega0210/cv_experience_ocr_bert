@@ -1,0 +1,135 @@
+{
+  "id": "43867",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.747,
+  "n_lines": 9,
+  "mean_score": 0.9791,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KAITLIN DEAN",
+      "score": 0.9824,
+      "box": [
+        116,
+        90,
+        354,
+        121
+      ]
+    },
+    {
+      "text": "OK, USA |+1-995-928-3061 |kaitlin.dean@example.com",
+      "score": 0.9788,
+      "box": [
+        116,
+        151,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9796,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronStone Contractors, 2019.03–2020.01",
+      "score": 0.9888,
+      "box": [
+        115,
+        290,
+        711,
+        313
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.9485,
+      "box": [
+        127,
+        315,
+        399,
+        339
+      ]
+    },
+    {
+      "text": "- Installed simple fixtures",
+      "score": 0.962,
+      "box": [
+        126,
+        339,
+        360,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Carpentry, Stonehaven High School, 2017",
+      "score": 0.9863,
+      "box": [
+        116,
+        449,
+        769,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction drawing interpretation",
+      "score": 0.9875,
+      "box": [
+        133,
+        474,
+        708,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "KAITLIN DEAN\nOK, USA |+1-995-928-3061 |kaitlin.dean@example.com\nWORK HISTORY\nConstruction Laborers, IronStone Contractors, 2019.03–2020.01\n- Dug trenches for utility lines\n- Installed simple fixtures\nEDUCATION\nHigh school graduate/GED, Carpentry, Stonehaven High School, 2017\n• Completed coursework in construction drawing interpretation"
+}

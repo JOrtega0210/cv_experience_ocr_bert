@@ -1,0 +1,226 @@
+{
+  "id": "50093",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.798,
+  "n_lines": 16,
+  "mean_score": 0.9837,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NIKOLA CORREA",
+      "score": 0.9756,
+      "box": [
+        116,
+        90,
+        401,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-223-638-2411|nikola.correa@example.com",
+      "score": 0.974,
+      "box": [
+        115,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightnode Systems, 2020.09–2023.01",
+      "score": 0.9914,
+      "box": [
+        115,
+        288,
+        682,
+        314
+      ]
+    },
+    {
+      "text": "- Defined code review processes",
+      "score": 0.9818,
+      "box": [
+        125,
+        313,
+        433,
+        339
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9777,
+      "box": [
+        126,
+        339,
+        380,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Openline Labs, 2018.05–2020.09",
+      "score": 0.9915,
+      "box": [
+        115,
+        381,
+        631,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented backend services",
+      "score": 0.9729,
+      "box": [
+        126,
+        406,
+        431,
+        431
+      ]
+    },
+    {
+      "text": "- Built containerized services",
+      "score": 0.9768,
+      "box": [
+        126,
+        432,
+        396,
+        454
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpoint Tech, 2016.01–2018.05",
+      "score": 0.9894,
+      "box": [
+        115,
+        471,
+        638,
+        496
+      ]
+    },
+    {
+      "text": "-Created test data sets",
+      "score": 0.9818,
+      "box": [
+        124,
+        496,
+        347,
+        521
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9846,
+      "box": [
+        126,
+        521,
+        501,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Silverfield University, 2016",
+      "score": 0.9862,
+      "box": [
+        115,
+        632,
+        473,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of software usability",
+      "score": 0.9865,
+      "box": [
+        132,
+        656,
+        501,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in schema design",
+      "score": 0.984,
+      "box": [
+        135,
+        683,
+        529,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "NIKOLA CORREA\nTX, USA|+1-223-638-2411|nikola.correa@example.com\nWORK HISTORY\nSoftware Developers, Brightnode Systems, 2020.09–2023.01\n- Defined code review processes\n- Defined coding standards\nSoftware Developers, Openline Labs, 2018.05–2020.09\n- Implemented backend services\n- Built containerized services\nSoftware Developers, Flowpoint Tech, 2016.01–2018.05\n-Created test data sets\n- Configured development environments\nEDUCATION\nBachelor's, Silverfield University, 2016\n• Studied principles of software usability\n• Completed coursework in schema design"
+}

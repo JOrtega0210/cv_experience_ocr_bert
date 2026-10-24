@@ -1,0 +1,226 @@
+{
+  "id": "10244",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.977,
+  "n_lines": 16,
+  "mean_score": 0.9804,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KEVIN HARRISON",
+      "score": 0.9894,
+      "box": [
+        116,
+        90,
+        408,
+        121
+      ]
+    },
+    {
+      "text": "CO, USA | +1-631-491-5499 |kevin.harrison@example.com",
+      "score": 0.9632,
+      "box": [
+        117,
+        151,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearLine Builders, 2020.10–2023.01",
+      "score": 0.9863,
+      "box": [
+        115,
+        289,
+        676,
+        312
+      ]
+    },
+    {
+      "text": "- Supervised large structural repairs",
+      "score": 0.98,
+      "box": [
+        127,
+        315,
+        460,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.9871,
+      "box": [
+        126,
+        339,
+        444,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeRise Builders, 2018.07–2020.10",
+      "score": 0.9891,
+      "box": [
+        116,
+        382,
+        686,
+        405
+      ]
+    },
+    {
+      "text": "-Assembled structural frameworks",
+      "score": 0.9661,
+      "box": [
+        126,
+        407,
+        449,
+        429
+      ]
+    },
+    {
+      "text": "- Prepared site reports",
+      "score": 0.9661,
+      "box": [
+        126,
+        430,
+        338,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidCore Contractors, 2016.04–2018.07",
+      "score": 0.9866,
+      "box": [
+        115,
+        472,
+        714,
+        495
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9706,
+      "box": [
+        125,
+        496,
+        426,
+        522
+      ]
+    },
+    {
+      "text": "- Transported waste materials",
+      "score": 0.9886,
+      "box": [
+        126,
+        521,
+        406,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Facilities Maintenance, Springfield University, 2018",
+      "score": 0.962,
+      "box": [
+        115,
+        631,
+        841,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site inspections",
+      "score": 0.9718,
+      "box": [
+        132,
+        656,
+        556,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of fire safety in construction",
+      "score": 0.9949,
+      "box": [
+        134,
+        682,
+        610,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "KEVIN HARRISON\nCO, USA | +1-631-491-5499 |kevin.harrison@example.com\nWORK HISTORY\nConstruction Laborers, ClearLine Builders, 2020.10–2023.01\n- Supervised large structural repairs\n- Reviewed site inspection reports\nConstruction Laborers, PrimeRise Builders, 2018.07–2020.10\n-Assembled structural frameworks\n- Prepared site reports\nConstruction Laborers, SolidCore Contractors, 2016.04–2018.07\n- Assisted with concrete pouring\n- Transported waste materials\nEDUCATION\nSome college (no degree), Facilities Maintenance, Springfield University, 2018\n• Studied fundamentals of job site inspections\n• Studied fundamentals of fire safety in construction"
+}

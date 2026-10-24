@@ -1,0 +1,252 @@
+{
+  "id": "17526",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.06,
+  "n_lines": 18,
+  "mean_score": 0.9812,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LAUREN POOLE",
+      "score": 0.964,
+      "box": [
+        116,
+        90,
+        383,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-813-603-9988 |lauren.poole@example.com",
+      "score": 0.9772,
+      "box": [
+        116,
+        151,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Services, 2020.06–2023.01",
+      "score": 0.9829,
+      "box": [
+        115,
+        290,
+        690,
+        313
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9738,
+      "box": [
+        126,
+        313,
+        429,
+        339
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9851,
+      "box": [
+        127,
+        340,
+        512,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Advisors, 2017.10–2020.6",
+      "score": 0.9799,
+      "box": [
+        114,
+        381,
+        726,
+        406
+      ]
+    },
+    {
+      "text": "- Led financial forecasting initiatives",
+      "score": 0.9692,
+      "box": [
+        125,
+        405,
+        459,
+        431
+      ]
+    },
+    {
+      "text": "- Developed accounting innovation plans",
+      "score": 0.9827,
+      "box": [
+        126,
+        430,
+        505,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Group, 2015.02–2017.10",
+      "score": 0.9783,
+      "box": [
+        115,
+        472,
+        730,
+        496
+      ]
+    },
+    {
+      "text": "- Developed financial models",
+      "score": 0.9899,
+      "box": [
+        126,
+        497,
+        398,
+        520
+      ]
+    },
+    {
+      "text": "- Developed audit plans",
+      "score": 0.9634,
+      "box": [
+        125,
+        521,
+        349,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Advisors, 2011.04–2013.12",
+      "score": 0.9869,
+      "box": [
+        114,
+        563,
+        744,
+        588
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9764,
+      "box": [
+        124,
+        588,
+        490,
+        613
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.9906,
+      "box": [
+        125,
+        613,
+        420,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Business Administration, Westview High School, 2008",
+      "score": 0.9896,
+      "box": [
+        116,
+        725,
+        877,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit documentation",
+      "score": 0.9875,
+      "box": [
+        132,
+        747,
+        567,
+        771
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "LAUREN POOLE\nIL, USA|+1-813-603-9988 |lauren.poole@example.com\nWORK HISTORY\nAccountants Auditors, ClearCount Services, 2020.06–2023.01\n- Led audit planning governance\n- Designed financial control environments\nAccountants Auditors, Precise Ledger Advisors, 2017.10–2020.6\n- Led financial forecasting initiatives\n- Developed accounting innovation plans\nAccountants Auditors, Reliable Accounts Group, 2015.02–2017.10\n- Developed financial models\n- Developed audit plans\nAccountants Auditors, Reliable Balance Advisors, 2011.04–2013.12\n- Processed accounts payable invoices\n- Assisted with forecasting data\nEDUCATION\nHigh school graduate/GED, Business Administration, Westview High School, 2008\n• Studied fundamentals of audit documentation"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "23045",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.875,
+  "n_lines": 16,
+  "mean_score": 0.9765,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DAVID HORN",
+      "score": 0.9674,
+      "box": [
+        115,
+        88,
+        331,
+        122
+      ]
+    },
+    {
+      "text": "LA, USA |+1-259-947-2578 | david.horn@example.com",
+      "score": 0.9669,
+      "box": [
+        116,
+        151,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9858,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueWay Builders, 2020.01–2023.01",
+      "score": 0.978,
+      "box": [
+        115,
+        289,
+        671,
+        313
+      ]
+    },
+    {
+      "text": "- Directed project execution strategies",
+      "score": 0.9746,
+      "box": [
+        126,
+        314,
+        480,
+        339
+      ]
+    },
+    {
+      "text": "- Directed training programs for crews",
+      "score": 0.9723,
+      "box": [
+        126,
+        339,
+        479,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueStone Builders, 2017.01–2020.01",
+      "score": 0.9823,
+      "box": [
+        115,
+        381,
+        685,
+        406
+      ]
+    },
+    {
+      "text": "- Maintained equipment logs",
+      "score": 0.9711,
+      "box": [
+        125,
+        406,
+        393,
+        432
+      ]
+    },
+    {
+      "text": "- Installed mechanical supports",
+      "score": 0.9573,
+      "box": [
+        126,
+        430,
+        418,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureLine Construction, 2013.01–2016.01",
+      "score": 0.9858,
+      "box": [
+        116,
+        472,
+        713,
+        495
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.9631,
+      "box": [
+        125,
+        496,
+        372,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9825,
+      "box": [
+        126,
+        521,
+        492,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Logistics, Summit Ridge University, 2009",
+      "score": 0.9786,
+      "box": [
+        115,
+        631,
+        871,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in concrete curing methods",
+      "score": 0.9822,
+      "box": [
+        132,
+        656,
+        618,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of equipment operation",
+      "score": 0.9763,
+      "box": [
+        133,
+        681,
+        569,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "DAVID HORN\nLA, USA |+1-259-947-2578 | david.horn@example.com\nWORK HISTORY\nConstruction Laborers, TrueWay Builders, 2020.01–2023.01\n- Directed project execution strategies\n- Directed training programs for crews\nConstruction Laborers, TrueStone Builders, 2017.01–2020.01\n- Maintained equipment logs\n- Installed mechanical supports\nConstruction Laborers, SureLine Construction, 2013.01–2016.01\n- Sorted building materials\n- Assisted with equipment maintenance\nEDUCATION\nSome college (no degree), Construction Logistics, Summit Ridge University, 2009\n• Completed coursework in concrete curing methods\n• Studied fundamentals of equipment operation"
+}

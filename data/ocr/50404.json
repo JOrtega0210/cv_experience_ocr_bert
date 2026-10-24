@@ -1,0 +1,265 @@
+{
+  "id": "50404",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.874,
+  "n_lines": 19,
+  "mean_score": 0.9782,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ZACHARY KIRBY",
+      "score": 0.967,
+      "box": [
+        115,
+        90,
+        396,
+        120
+      ]
+    },
+    {
+      "text": "TX, USA|+1-515-318-9448|zachary.kirby@example.com",
+      "score": 0.9752,
+      "box": [
+        115,
+        150,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codehaven Labs, 2018.10–2023.01",
+      "score": 0.9853,
+      "box": [
+        116,
+        289,
+        652,
+        312
+      ]
+    },
+    {
+      "text": "- Reviewed system design documents",
+      "score": 0.989,
+      "box": [
+        126,
+        315,
+        481,
+        338
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9919,
+      "box": [
+        126,
+        339,
+        450,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Softbridge Digital, 2014.07–2018.10",
+      "score": 0.9827,
+      "box": [
+        115,
+        381,
+        656,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented disaster recovery plans",
+      "score": 0.991,
+      "box": [
+        126,
+        406,
+        483,
+        431
+      ]
+    },
+    {
+      "text": "-Built fault-tolerant systems",
+      "score": 0.9868,
+      "box": [
+        125,
+        430,
+        388,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Tech, 2010.04–2014.07",
+      "score": 0.9862,
+      "box": [
+        116,
+        472,
+        636,
+        496
+      ]
+    },
+    {
+      "text": "- Developed data processing pipelines",
+      "score": 0.9501,
+      "box": [
+        125,
+        496,
+        483,
+        521
+      ]
+    },
+    {
+      "text": "- Managed deployment pipelines",
+      "score": 0.939,
+      "box": [
+        126,
+        521,
+        432,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Flowstack Tech, 2006.01–2010.04",
+      "score": 0.9891,
+      "box": [
+        114,
+        563,
+        642,
+        588
+      ]
+    },
+    {
+      "text": "-Assisted with system documentation",
+      "score": 0.9619,
+      "box": [
+        125,
+        589,
+        477,
+        612
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9789,
+      "box": [
+        126,
+        613,
+        448,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearhaven University, 207",
+      "score": 0.9638,
+      "box": [
+        114,
+        723,
+        489,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of collaborative development",
+      "score": 0.9756,
+      "box": [
+        131,
+        747,
+        623,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of test-driven development",
+      "score": 0.9873,
+      "box": [
+        134,
+        774,
+        566,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "ZACHARY KIRBY\nTX, USA|+1-515-318-9448|zachary.kirby@example.com\nWORK HISTORY\nSoftware Developers, Codehaven Labs, 2018.10–2023.01\n- Reviewed system design documents\n- Defined data governance policies\nSoftware Developers, Softbridge Digital, 2014.07–2018.10\n- Implemented disaster recovery plans\n-Built fault-tolerant systems\nSoftware Developers, Codefield Tech, 2010.04–2014.07\n- Developed data processing pipelines\n- Managed deployment pipelines\nSoftware Developers, Flowstack Tech, 2006.01–2010.04\n-Assisted with system documentation\n- Performed basic APl integrations\nEDUCATION\nBachelor's, Clearhaven University, 207\n• Studied fundamentals of collaborative development\n• Studied principles of test-driven development"
+}

@@ -1,0 +1,174 @@
+{
+  "id": "47780",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.819,
+  "n_lines": 12,
+  "mean_score": 0.9793,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ALEC RICHMOND",
+      "score": 0.9732,
+      "box": [
+        116,
+        88,
+        402,
+        122
+      ]
+    },
+    {
+      "text": "SC,USA|+1-315-443-4252|alec.richmond@example.com",
+      "score": 0.9564,
+      "box": [
+        116,
+        151,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyStone Builders, 2021.04–2023.01",
+      "score": 0.9756,
+      "box": [
+        114,
+        289,
+        708,
+        313
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9821,
+      "box": [
+        126,
+        315,
+        467,
+        338
+      ]
+    },
+    {
+      "text": "- Directed construction audits",
+      "score": 0.9778,
+      "box": [
+        125,
+        338,
+        400,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkTrack Builders, 2019.07–2021.04",
+      "score": 0.9937,
+      "box": [
+        116,
+        382,
+        691,
+        405
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9727,
+      "box": [
+        125,
+        406,
+        492,
+        432
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.9576,
+      "box": [
+        126,
+        431,
+        441,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Electrical Technology, Riverbend High School, 2020",
+      "score": 0.99,
+      "box": [
+        116,
+        541,
+        857,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of building materials",
+      "score": 0.99,
+      "box": [
+        133,
+        566,
+        504,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "ALEC RICHMOND\nSC,USA|+1-315-443-4252|alec.richmond@example.com\nWORK HISTORY\nConstruction Laborers, SteadyStone Builders, 2021.04–2023.01\n- Directed site optimization initiatives\n- Directed construction audits\nConstruction Laborers, WorkTrack Builders, 2019.07–2021.04\n- Performed basic sanding and painting\n- Handled delivery documentation\nEDUCATION\nHigh school graduate/GED, Electrical Technology, Riverbend High School, 2020\n• Studied principles of building materials"
+}

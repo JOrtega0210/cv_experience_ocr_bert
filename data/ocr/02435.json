@@ -1,0 +1,187 @@
+{
+  "id": "02435",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.93,
+  "n_lines": 13,
+  "mean_score": 0.9823,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JASON COLEMAN",
+      "score": 0.98,
+      "box": [
+        116,
+        90,
+        412,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-979-447-5902|jason.coleman@example.com",
+      "score": 0.9859,
+      "box": [
+        114,
+        150,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueCraft Builders, 2020.03–2023.01",
+      "score": 0.9813,
+      "box": [
+        115,
+        289,
+        676,
+        312
+      ]
+    },
+    {
+      "text": "- Directed site construction operations",
+      "score": 0.9796,
+      "box": [
+        125,
+        313,
+        480,
+        338
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9534,
+      "box": [
+        126,
+        339,
+        395,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueWay Builders, 2015.06–2018.05",
+      "score": 0.9846,
+      "box": [
+        116,
+        382,
+        674,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9871,
+      "box": [
+        125,
+        406,
+        493,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9843,
+      "box": [
+        125,
+        430,
+        425,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Trades, Cloverfield University, 2001",
+      "score": 0.98,
+      "box": [
+        115,
+        539,
+        778,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in surveying basics",
+      "score": 0.9904,
+      "box": [
+        133,
+        566,
+        544,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction materials storage",
+      "score": 0.9811,
+      "box": [
+        133,
+        590,
+        667,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JASON COLEMAN\nAR, USA|+1-979-447-5902|jason.coleman@example.com\nWORK HISTORY\nConstruction Laborers, TrueCraft Builders, 2020.03–2023.01\n- Directed site construction operations\n- Directed project scheduling\nConstruction Laborers, TrueWay Builders, 2015.06–2018.05\n- Assisted with equipment maintenance\n- Prepared scaffolding platforms\nEDUCATION\nSome college (no degree), Building Trades, Cloverfield University, 2001\n• Completed coursework in surveying basics\n• Completed coursework in construction materials storage"
+}

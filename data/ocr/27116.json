@@ -1,0 +1,200 @@
+{
+  "id": "27116",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.84,
+  "n_lines": 14,
+  "mean_score": 0.9868,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CHATARA DRAKE",
+      "score": 0.991,
+      "box": [
+        117,
+        90,
+        412,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-791-306-7373 |chatara.drake@example.com",
+      "score": 0.9847,
+      "box": [
+        115,
+        150,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9778,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenArms Care Services, 2019.09–2022.06",
+      "score": 0.9818,
+      "box": [
+        116,
+        290,
+        713,
+        313
+      ]
+    },
+    {
+      "text": "-Directed emergency response planning",
+      "score": 0.9972,
+      "box": [
+        125,
+        313,
+        504,
+        339
+      ]
+    },
+    {
+      "text": "- Developed nursing training programs",
+      "score": 0.9881,
+      "box": [
+        126,
+        339,
+        484,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindPath Care Center, 2016.03–2018.12",
+      "score": 0.9874,
+      "box": [
+        116,
+        382,
+        680,
+        405
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9653,
+      "box": [
+        125,
+        405,
+        531,
+        430
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.9921,
+      "box": [
+        126,
+        431,
+        473,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Master's, Health Studies, Aspen Grove University, 2012",
+      "score": 0.9942,
+      "box": [
+        115,
+        541,
+        632,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Health and Human Services, Pineview University, 2010",
+      "score": 0.9792,
+      "box": [
+        114,
+        565,
+        736,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of endocrine nursing",
+      "score": 0.9832,
+      "box": [
+        132,
+        590,
+        507,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of infusion pump use",
+      "score": 0.9947,
+      "box": [
+        132,
+        615,
+        549,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "CHATARA DRAKE\nMI, USA|+1-791-306-7373 |chatara.drake@example.com\nWORK HISTORY\nRegistered Nurses, OpenArms Care Services, 2019.09–2022.06\n-Directed emergency response planning\n- Developed nursing training programs\nRegistered Nurses, KindPath Care Center, 2016.03–2018.12\n- Recorded medication administration times\n- Assisted with respiratory treatments\nEDUCATION\nMaster's, Health Studies, Aspen Grove University, 2012\nBachelor's, Health and Human Services, Pineview University, 2010\n• Studied principles of endocrine nursing\n• Studied fundamentals of infusion pump use"
+}

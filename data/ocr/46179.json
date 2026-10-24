@@ -1,0 +1,148 @@
+{
+  "id": "46179",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.761,
+  "n_lines": 10,
+  "mean_score": 0.9786,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KAYLA BUTLER",
+      "score": 0.9784,
+      "box": [
+        116,
+        90,
+        378,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-568-953-5278 |kayla.butler@example.com",
+      "score": 0.9628,
+      "box": [
+        115,
+        150,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9811,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunHands Care Group, 2021.04–223.01",
+      "score": 0.9807,
+      "box": [
+        115,
+        289,
+        687,
+        314
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.9857,
+      "box": [
+        126,
+        314,
+        471,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared patients for examinations",
+      "score": 0.9723,
+      "box": [
+        126,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health and Wellness, Summit Ridge University, 2023",
+      "score": 0.9737,
+      "box": [
+        114,
+        448,
+        715,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic nursing principles",
+      "score": 0.9716,
+      "box": [
+        133,
+        473,
+        607,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in enteral feeding basics",
+      "score": 0.9814,
+      "box": [
+        134,
+        499,
+        593,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "KAYLA BUTLER\nPA, USA|+1-568-953-5278 |kayla.butler@example.com\nWORK HISTORY\nRegistered Nurses, SunHands Care Group, 2021.04–223.01\n- Recorded patient weight and height\n- Prepared patients for examinations\nEDUCATION\nBachelor's, Health and Wellness, Summit Ridge University, 2023\n• Completed coursework in basic nursing principles\n• Completed coursework in enteral feeding basics"
+}

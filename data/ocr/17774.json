@@ -1,0 +1,187 @@
+{
+  "id": "17774",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.954,
+  "n_lines": 13,
+  "mean_score": 0.984,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NICHOLAS FREEMAN",
+      "score": 0.9787,
+      "box": [
+        116,
+        90,
+        465,
+        120
+      ]
+    },
+    {
+      "text": "IL, USA|+1-776-914-3759 |nicholas.freeman@example.com",
+      "score": 0.9767,
+      "box": [
+        116,
+        152,
+        688,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9882,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Advisors, 2020.09–2023.01",
+      "score": 0.9807,
+      "box": [
+        115,
+        290,
+        687,
+        312
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9858,
+      "box": [
+        126,
+        315,
+        517,
+        338
+      ]
+    },
+    {
+      "text": "- Led cross-functional financial integration",
+      "score": 0.9858,
+      "box": [
+        126,
+        339,
+        515,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Financial, 2018.04–2020.09",
+      "score": 0.9886,
+      "box": [
+        115,
+        381,
+        700,
+        405
+      ]
+    },
+    {
+      "text": "- Compiled financial schedules",
+      "score": 0.9817,
+      "box": [
+        127,
+        407,
+        413,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared supporting schedules",
+      "score": 0.9794,
+      "box": [
+        126,
+        431,
+        431,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Finance, Rivercrest University, 2016",
+      "score": 0.9682,
+      "box": [
+        115,
+        540,
+        635,
+        563
+      ]
+    },
+    {
+      "text": "• Studied principles of information management",
+      "score": 0.9906,
+      "box": [
+        133,
+        566,
+        574,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of business performance analysis",
+      "score": 0.9898,
+      "box": [
+        132,
+        590,
+        665,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "NICHOLAS FREEMAN\nIL, USA|+1-776-914-3759 |nicholas.freeman@example.com\nWORK HISTORY\nAccountants Auditors, TrustCount Advisors, 2020.09–2023.01\n- Directed enterprise accounting platforms\n- Led cross-functional financial integration\nAccountants Auditors, FairBalance Financial, 2018.04–2020.09\n- Compiled financial schedules\n- Prepared supporting schedules\nEDUCATION\nBachelor's, Applied Finance, Rivercrest University, 2016\n• Studied principles of information management\n• Studied fundamentals of business performance analysis"
+}

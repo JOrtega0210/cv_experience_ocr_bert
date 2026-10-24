@@ -1,0 +1,135 @@
+{
+  "id": "47595",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.762,
+  "n_lines": 9,
+  "mean_score": 0.9819,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAKE DAVIS",
+      "score": 0.9783,
+      "box": [
+        115,
+        90,
+        319,
+        121
+      ]
+    },
+    {
+      "text": "SC,USA|+1-635-582-6484 |jake.davis@example.com",
+      "score": 0.984,
+      "box": [
+        116,
+        151,
+        634,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9805,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmRise Construction, 2018.10–2021.4",
+      "score": 0.9936,
+      "box": [
+        116,
+        291,
+        714,
+        311
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9706,
+      "box": [
+        127,
+        315,
+        435,
+        339
+      ]
+    },
+    {
+      "text": "- Installed simple fixtures",
+      "score": 0.9624,
+      "box": [
+        126,
+        339,
+        360,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Management, Ridgeway High School, 2006",
+      "score": 0.9788,
+      "box": [
+        116,
+        449,
+        901,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in concrete curing methods",
+      "score": 0.991,
+      "box": [
+        133,
+        474,
+        618,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "JAKE DAVIS\nSC,USA|+1-635-582-6484 |jake.davis@example.com\nWORK HISTORY\nConstruction Laborers, FirmRise Construction, 2018.10–2021.4\n- Installed temporary site barriers\n- Installed simple fixtures\nEDUCATION\nHigh school graduate/GED, Construction Management, Ridgeway High School, 2006\n• Completed coursework in concrete curing methods"
+}

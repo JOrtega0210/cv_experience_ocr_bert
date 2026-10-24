@@ -1,0 +1,135 @@
+{
+  "id": "48698",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.734,
+  "n_lines": 9,
+  "mean_score": 0.9793,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DENZEL GIBSON",
+      "score": 0.974,
+      "box": [
+        117,
+        90,
+        393,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-748-861-4501 |denzel.gibson@example.com",
+      "score": 0.9832,
+      "box": [
+        115,
+        150,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9823,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyWorks Construction, 2022.05–2023.01",
+      "score": 0.9898,
+      "box": [
+        115,
+        290,
+        754,
+        313
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.9685,
+      "box": [
+        126,
+        314,
+        557,
+        339
+      ]
+    },
+    {
+      "text": "- Mixed concrete and mortar",
+      "score": 0.9572,
+      "box": [
+        127,
+        340,
+        392,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Workflow, Cedarfield High School, 2023",
+      "score": 0.9863,
+      "box": [
+        116,
+        449,
+        867,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site inspections",
+      "score": 0.974,
+      "box": [
+        132,
+        472,
+        555,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "DENZEL GIBSON\nTN, USA|+1-748-861-4501 |denzel.gibson@example.com\nWORK HISTORY\nConstruction Laborers, SteadyWorks Construction, 2022.05–2023.01\n- Stacked and organized construction supplies\n- Mixed concrete and mortar\nEDUCATION\nHigh school graduate/GED, Construction Workflow, Cedarfield High School, 2023\n• Studied fundamentals of job site inspections"
+}

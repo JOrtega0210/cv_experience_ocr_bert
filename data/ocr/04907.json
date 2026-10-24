@@ -1,0 +1,265 @@
+{
+  "id": "04907",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.071,
+  "n_lines": 19,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ERIN FREDERICK",
+      "score": 0.9704,
+      "box": [
+        116,
+        88,
+        404,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-625-846-5538 |erin.frederick@example.com",
+      "score": 0.9844,
+      "box": [
+        117,
+        151,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Services, 2019.11–2023.01",
+      "score": 0.9798,
+      "box": [
+        115,
+        290,
+        720,
+        313
+      ]
+    },
+    {
+      "text": "- Directed budget planning cycles",
+      "score": 0.9789,
+      "box": [
+        125,
+        313,
+        439,
+        339
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.9867,
+      "box": [
+        126,
+        339,
+        486,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Financial, 2016.09–2019.11",
+      "score": 0.9854,
+      "box": [
+        114,
+        381,
+        682,
+        406
+      ]
+    },
+    {
+      "text": "- Managed consolidation processes",
+      "score": 0.9919,
+      "box": [
+        126,
+        406,
+        458,
+        432
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9719,
+      "box": [
+        126,
+        431,
+        479,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Accounting, 2012.05–2015.07",
+      "score": 0.9845,
+      "box": [
+        114,
+        471,
+        703,
+        496
+      ]
+    },
+    {
+      "text": "- Analyzed financial variances",
+      "score": 0.9864,
+      "box": [
+        125,
+        496,
+        407,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared regulatory reports",
+      "score": 0.9646,
+      "box": [
+        126,
+        521,
+        398,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Group, 2008.08–2011.10",
+      "score": 0.9918,
+      "box": [
+        115,
+        565,
+        694,
+        588
+      ]
+    },
+    {
+      "text": "- Maintained supporting documentation",
+      "score": 0.9728,
+      "box": [
+        126,
+        590,
+        490,
+        614
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9834,
+      "box": [
+        126,
+        613,
+        550,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting and Finance, Bayside University, 205",
+      "score": 0.9873,
+      "box": [
+        114,
+        723,
+        691,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of financial statement analysis",
+      "score": 0.991,
+      "box": [
+        132,
+        747,
+        597,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in cash flow analysis",
+      "score": 0.9962,
+      "box": [
+        134,
+        772,
+        558,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "ERIN FREDERICK\nCA, USA|+1-625-846-5538 |erin.frederick@example.com\nWORK HISTORY\nAccountants Auditors, Integrity Count Services, 2019.11–2023.01\n- Directed budget planning cycles\n- Designed financial oversight systems\nAccountants Auditors, OpenPath Financial, 2016.09–2019.11\n- Managed consolidation processes\n- Led accounting process optimization\nAccountants Auditors, OpenPath Accounting, 2012.05–2015.07\n- Analyzed financial variances\n- Prepared regulatory reports\nAccountants Auditors, SteadyLedger Group, 2008.08–2011.10\n- Maintained supporting documentation\n- Processed accounts receivable transactions\nEDUCATION\nBachelor's, Accounting and Finance, Bayside University, 205\n• Studied principles of financial statement analysis\n• Completed coursework in cash flow analysis"
+}

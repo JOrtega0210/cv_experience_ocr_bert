@@ -1,0 +1,135 @@
+{
+  "id": "00332",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.822,
+  "n_lines": 9,
+  "mean_score": 0.9835,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ISAIAH KNIGHT",
+      "score": 0.9679,
+      "box": [
+        115,
+        90,
+        370,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA |+1-485-471-5451 |isaiah.knight@example.com",
+      "score": 0.984,
+      "box": [
+        116,
+        152,
+        654,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9833,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmTrack Construction, 2019.07–2021.07",
+      "score": 0.9828,
+      "box": [
+        116,
+        291,
+        724,
+        311
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9846,
+      "box": [
+        125,
+        314,
+        489,
+        339
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9867,
+      "box": [
+        128,
+        341,
+        367,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Electrical Technology, Riverhaven High School, 2015",
+      "score": 0.9717,
+      "box": [
+        116,
+        449,
+        867,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of site hazard controls",
+      "score": 0.9915,
+      "box": [
+        133,
+        474,
+        523,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "ISAIAH KNIGHT\nAL, USA |+1-485-471-5451 |isaiah.knight@example.com\nWORK HISTORY\nConstruction Laborers, FirmTrack Construction, 2019.07–2021.07\n- Performed basic plumbing assistance\n- Installed basic formwork\nEDUCATION\nHigh school graduate/GED, Electrical Technology, Riverhaven High School, 2015\n• Studied principles of site hazard controls"
+}

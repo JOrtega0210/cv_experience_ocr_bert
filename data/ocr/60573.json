@@ -1,0 +1,265 @@
+{
+  "id": "60573",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.926,
+  "n_lines": 19,
+  "mean_score": 0.9805,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JONATHAN BARRON",
+      "score": 0.9844,
+      "box": [
+        116,
+        90,
+        459,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-957-642-6151 |jonathan.barron@example.com",
+      "score": 0.9693,
+      "box": [
+        115,
+        150,
+        683,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9812,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Group, 2019.06–2023.01",
+      "score": 0.9812,
+      "box": [
+        114,
+        289,
+        667,
+        314
+      ]
+    },
+    {
+      "text": "- Managed consolidation processes",
+      "score": 0.9811,
+      "box": [
+        126,
+        314,
+        458,
+        339
+      ]
+    },
+    {
+      "text": "- Designed budgeting methodologies",
+      "score": 0.9793,
+      "box": [
+        126,
+        339,
+        469,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Advisors, 2015.11–2019.06",
+      "score": 0.9837,
+      "box": [
+        115,
+        381,
+        706,
+        406
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9758,
+      "box": [
+        126,
+        405,
+        495,
+        433
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9916,
+      "box": [
+        126,
+        430,
+        546,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, PrimeLedger Group, 2012.03–2015.11",
+      "score": 0.9778,
+      "box": [
+        114,
+        471,
+        681,
+        496
+      ]
+    },
+    {
+      "text": "- Developed audit plans",
+      "score": 0.9789,
+      "box": [
+        127,
+        499,
+        349,
+        520
+      ]
+    },
+    {
+      "text": "- Reviewed revenue forecasts",
+      "score": 0.9675,
+      "box": [
+        126,
+        522,
+        405,
+        544
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverTrust Accounting, 2008.07–2012.03",
+      "score": 0.9851,
+      "box": [
+        115,
+        565,
+        699,
+        588
+      ]
+    },
+    {
+      "text": "- Updated fixed asset registers",
+      "score": 0.9662,
+      "box": [
+        125,
+        589,
+        413,
+        614
+      ]
+    },
+    {
+      "text": "- Maintained vendor records",
+      "score": 0.992,
+      "box": [
+        127,
+        616,
+        390,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        679,
+        266,
+        703
+      ]
+    },
+    {
+      "text": "Bachelor's, Cost Accounting, Golden Meadow University, 2008",
+      "score": 0.9651,
+      "box": [
+        114,
+        723,
+        696,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of break-even analysis",
+      "score": 0.9798,
+      "box": [
+        132,
+        747,
+        565,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit evidence",
+      "score": 0.9897,
+      "box": [
+        133,
+        773,
+        513,
+        795
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "JONATHAN BARRON\nWI, USA|+1-957-642-6151 |jonathan.barron@example.com\nWORK HISTORY\nAccountants Auditors, ClearCount Group, 2019.06–2023.01\n- Managed consolidation processes\n- Designed budgeting methodologies\nAccountants Auditors, SteadyCount Advisors, 2015.11–2019.06\n- Directed accounting training programs\n- Established compliance monitoring systems\nAccountants Auditors, PrimeLedger Group, 2012.03–2015.11\n- Developed audit plans\n- Reviewed revenue forecasts\nAccountants Auditors, EverTrust Accounting, 2008.07–2012.03\n- Updated fixed asset registers\n- Maintained vendor records\nEDUCATION\nBachelor's, Cost Accounting, Golden Meadow University, 2008\n• Studied fundamentals of break-even analysis\n• Studied fundamentals of audit evidence"
+}

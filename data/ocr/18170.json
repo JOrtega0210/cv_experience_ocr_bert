@@ -1,0 +1,148 @@
+{
+  "id": "18170",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.863,
+  "n_lines": 10,
+  "mean_score": 0.9809,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ISAAC CANNON",
+      "score": 0.9726,
+      "box": [
+        114,
+        88,
+        380,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA|+1-668-345-8323 |isaac.cannon@example.com",
+      "score": 0.9853,
+      "box": [
+        116,
+        151,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9811,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Solutions, 2020.01–2023.01",
+      "score": 0.9838,
+      "box": [
+        116,
+        291,
+        691,
+        311
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9801,
+      "box": [
+        126,
+        313,
+        456,
+        339
+      ]
+    },
+    {
+      "text": "- Entered financial data into accounting systems",
+      "score": 0.9716,
+      "box": [
+        126,
+        338,
+        573,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Investment Management, Stonecrest University, 2022",
+      "score": 0.9707,
+      "box": [
+        114,
+        447,
+        722,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounts receivable",
+      "score": 0.9848,
+      "box": [
+        132,
+        472,
+        575,
+        496
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of forensic accounting",
+      "score": 0.9805,
+      "box": [
+        133,
+        497,
+        558,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ISAAC CANNON\nIL, USA|+1-668-345-8323 |isaac.cannon@example.com\nWORK HISTORY\nAccountants Auditors, AccuCount Solutions, 2020.01–2023.01\n- Assisted with tax form preparation\n- Entered financial data into accounting systems\nEDUCATION\nBachelor's, Investment Management, Stonecrest University, 2022\n• Completed coursework in accounts receivable\n• Studied fundamentals of forensic accounting"
+}

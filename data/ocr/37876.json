@@ -1,0 +1,187 @@
+{
+  "id": "37876",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.8,
+  "n_lines": 13,
+  "mean_score": 0.9806,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JONATHAN HUFF",
+      "score": 0.9628,
+      "box": [
+        115,
+        88,
+        402,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-464-294-6089 |jonathan.huff@example.com",
+      "score": 0.976,
+      "box": [
+        115,
+        150,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9785,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Financial, 2020.03–2023.01",
+      "score": 0.9935,
+      "box": [
+        115,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "-Directed financial reporting processes",
+      "score": 0.9802,
+      "box": [
+        125,
+        314,
+        491,
+        339
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.9777,
+      "box": [
+        127,
+        340,
+        486,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Advisors, 2017.05–2020.03",
+      "score": 0.9921,
+      "box": [
+        115,
+        381,
+        736,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed vendor payments",
+      "score": 0.9654,
+      "box": [
+        125,
+        406,
+        400,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.961,
+      "box": [
+        126,
+        430,
+        384,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, International Business, Windfield University, 2018",
+      "score": 0.9857,
+      "box": [
+        114,
+        539,
+        684,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting process improvement",
+      "score": 0.9884,
+      "box": [
+        133,
+        565,
+        697,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial data interpretation",
+      "score": 0.9887,
+      "box": [
+        135,
+        591,
+        640,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JONATHAN HUFF\nNY, USA|+1-464-294-6089 |jonathan.huff@example.com\nWORK HISTORY\nAccountants Auditors, CoreCount Financial, 2020.03–2023.01\n-Directed financial reporting processes\n- Designed financial policy frameworks\nAccountants Auditors, Precise Balance Advisors, 2017.05–2020.03\n- Reviewed vendor payments\n- Prepared variance reports\nEDUCATION\nBachelor's, International Business, Windfield University, 2018\n• Completed coursework in accounting process improvement\n• Completed coursework in financial data interpretation"
+}

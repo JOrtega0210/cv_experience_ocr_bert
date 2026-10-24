@@ -1,0 +1,174 @@
+{
+  "id": "11502",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.058,
+  "n_lines": 12,
+  "mean_score": 0.9792,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KENDEL LANE",
+      "score": 0.9614,
+      "box": [
+        114,
+        87,
+        357,
+        123
+      ]
+    },
+    {
+      "text": "DE, USA|+1-864-282-4224 |kendel.lane@example.com",
+      "score": 0.9747,
+      "box": [
+        116,
+        151,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9787,
+      "box": [
+        114,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidBuild Contractors, 2021.01–2023.01",
+      "score": 0.983,
+      "box": [
+        114,
+        288,
+        713,
+        313
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.9936,
+      "box": [
+        126,
+        315,
+        477,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed structural integrity assessments",
+      "score": 0.9671,
+      "box": [
+        125,
+        339,
+        532,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Durable Works, 2016.04–2018.04",
+      "score": 0.9887,
+      "box": [
+        116,
+        382,
+        647,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9658,
+      "box": [
+        125,
+        405,
+        484,
+        430
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9674,
+      "box": [
+        125,
+        430,
+        416,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Equipment Technology, Canyon View High School, 2016",
+      "score": 0.9823,
+      "box": [
+        116,
+        541,
+        1023,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction workflow coordination",
+      "score": 0.9894,
+      "box": [
+        134,
+        567,
+        708,
+        587
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "KENDEL LANE\nDE, USA|+1-864-282-4224 |kendel.lane@example.com\nWORK HISTORY\nConstruction Laborers, SolidBuild Contractors, 2021.01–2023.01\n- Developed site performance metrics\n- Reviewed structural integrity assessments\nConstruction Laborers, Durable Works, 2016.04–2018.04\n- Maintained cleanliness of work areas\n- Set up workstations for crews\nEDUCATION\nHigh school graduate/GED, Construction Equipment Technology, Canyon View High School, 2016\n• Completed coursework in construction workflow coordination"
+}

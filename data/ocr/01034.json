@@ -1,0 +1,187 @@
+{
+  "id": "01034",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.888,
+  "n_lines": 13,
+  "mean_score": 0.9852,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MICHAEL MORTON",
+      "score": 0.9949,
+      "box": [
+        116,
+        90,
+        428,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-928-779-6094|michael.morton@example.com",
+      "score": 0.9916,
+      "box": [
+        115,
+        151,
+        681,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Bluefield Technologies, 2020.10–2023.01",
+      "score": 0.9947,
+      "box": [
+        116,
+        290,
+        705,
+        313
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.983,
+      "box": [
+        125,
+        313,
+        542,
+        338
+      ]
+    },
+    {
+      "text": "- Defined APl governance models",
+      "score": 0.9619,
+      "box": [
+        127,
+        340,
+        443,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Stonebyte Labs, 2016.03–2018.06",
+      "score": 0.9928,
+      "box": [
+        116,
+        382,
+        642,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.9979,
+      "box": [
+        126,
+        407,
+        424,
+        430
+      ]
+    },
+    {
+      "text": "- Reviewed API documentation",
+      "score": 0.9619,
+      "box": [
+        125,
+        432,
+        416,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Briarwood University, 2003",
+      "score": 0.9707,
+      "box": [
+        115,
+        541,
+        475,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of image processing",
+      "score": 0.9858,
+      "box": [
+        132,
+        565,
+        505,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in schema design",
+      "score": 0.9882,
+      "box": [
+        133,
+        590,
+        529,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "MICHAEL MORTON\nAZ, USA|+1-928-779-6094|michael.morton@example.com\nWORK HISTORY\nSoftware Developers, Bluefield Technologies, 2020.10–2023.01\n- Defined technical documentation standards\n- Defined APl governance models\nSoftware Developers, Stonebyte Labs, 2016.03–2018.06\n- Assisted with build automation\n- Reviewed API documentation\nEDUCATION\nBachelor's, Briarwood University, 2003\n• Studied principles of image processing\n• Completed coursework in schema design"
+}

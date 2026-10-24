@@ -1,0 +1,265 @@
+{
+  "id": "04465",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.065,
+  "n_lines": 19,
+  "mean_score": 0.9842,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LATASHA LIN",
+      "score": 0.9828,
+      "box": [
+        116,
+        90,
+        340,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-322-537-9318 |latasha.lin@example.com",
+      "score": 0.9738,
+      "box": [
+        116,
+        151,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightPath Health Services, 2020.02–2023.01",
+      "score": 0.9904,
+      "box": [
+        115,
+        289,
+        724,
+        314
+      ]
+    },
+    {
+      "text": "- Established quality assurance systems",
+      "score": 0.9852,
+      "box": [
+        126,
+        313,
+        501,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.9765,
+      "box": [
+        127,
+        339,
+        517,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightPath Health Services, 2017.03–2020.02",
+      "score": 0.9835,
+      "box": [
+        115,
+        381,
+        725,
+        406
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9616,
+      "box": [
+        126,
+        406,
+        510,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.991,
+      "box": [
+        126,
+        431,
+        568,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Life Care, 2013.05–2016.04",
+      "score": 0.9807,
+      "box": [
+        116,
+        472,
+        650,
+        496
+      ]
+    },
+    {
+      "text": "- Educated patients on treatment plans",
+      "score": 0.9864,
+      "box": [
+        124,
+        496,
+        488,
+        522
+      ]
+    },
+    {
+      "text": "– Managed isolation procedures",
+      "score": 0.9708,
+      "box": [
+        127,
+        523,
+        422,
+        546
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Services, 2009.07–2012.07",
+      "score": 0.9919,
+      "box": [
+        116,
+        565,
+        713,
+        588
+      ]
+    },
+    {
+      "text": "- Updated patient medical records",
+      "score": 0.997,
+      "box": [
+        126,
+        590,
+        443,
+        613
+      ]
+    },
+    {
+      "text": "- Checked laboratory results",
+      "score": 0.9838,
+      "box": [
+        127,
+        615,
+        391,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Registered Nursing, Brookfield University, 2007",
+      "score": 0.9864,
+      "box": [
+        114,
+        723,
+        664,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in cardiovascular nursing basics",
+      "score": 0.9912,
+      "box": [
+        133,
+        749,
+        663,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of conflict resolution basics",
+      "score": 0.9838,
+      "box": [
+        134,
+        773,
+        605,
+        795
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "LATASHA LIN\nCA, USA|+1-322-537-9318 |latasha.lin@example.com\nWORK HISTORY\nRegistered Nurses, BrightPath Health Services, 2020.02–2023.01\n- Established quality assurance systems\n- Implemented patient monitoring systems\nRegistered Nurses, BrightPath Health Services, 2017.03–2020.02\n- Directed nursing process improvements\n- Implemented evidence-based practice models\nRegistered Nurses, Harmony Life Care, 2013.05–2016.04\n- Educated patients on treatment plans\n– Managed isolation procedures\nRegistered Nurses, Harmony Health Services, 2009.07–2012.07\n- Updated patient medical records\n- Checked laboratory results\nEDUCATION\nBachelor's, Registered Nursing, Brookfield University, 2007\n• Completed coursework in cardiovascular nursing basics\n• Studied fundamentals of conflict resolution basics"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "24564",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.789,
+  "n_lines": 10,
+  "mean_score": 0.9819,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BENNIE NASH",
+      "score": 0.9711,
+      "box": [
+        116,
+        90,
+        349,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA|+1-336-376-7852 |bennie.nash@example.com",
+      "score": 0.9857,
+      "box": [
+        115,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9813,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning View Academy, 2020.09–2023.01",
+      "score": 0.9886,
+      "box": [
+        115,
+        290,
+        861,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.971,
+      "box": [
+        126,
+        315,
+        412,
+        337
+      ]
+    },
+    {
+      "text": "- Set up classroom technology tools",
+      "score": 0.984,
+      "box": [
+        126,
+        339,
+        460,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Support Studies, Brookway University, 2022",
+      "score": 0.9699,
+      "box": [
+        115,
+        449,
+        720,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic teaching ethics",
+      "score": 0.9776,
+      "box": [
+        133,
+        474,
+        584,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional review methods",
+      "score": 0.9913,
+      "box": [
+        135,
+        500,
+        652,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "BENNIE NASH\nMD, USA|+1-336-376-7852 |bennie.nash@example.com\nWORK HISTORY\nElementary Middle School Teachers, Learning View Academy, 2020.09–2023.01\n- Reviewed curriculum content\n- Set up classroom technology tools\nEDUCATION\nBachelor's, Learning Support Studies, Brookway University, 2022\n• Completed coursework in basic teaching ethics\n• Completed coursework in instructional review methods"
+}

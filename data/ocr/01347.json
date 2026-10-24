@@ -1,0 +1,148 @@
+{
+  "id": "01347",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.801,
+  "n_lines": 10,
+  "mean_score": 0.9817,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KAYLA SHORT",
+      "score": 0.9699,
+      "box": [
+        115,
+        88,
+        362,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-642-429-1956|kayla.short@example.com",
+      "score": 0.985,
+      "box": [
+        116,
+        151,
+        639,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightBridge Health Services, 2021.04–2023.01",
+      "score": 0.9834,
+      "box": [
+        116,
+        290,
+        741,
+        314
+      ]
+    },
+    {
+      "text": "- Assisted with surgical prep",
+      "score": 0.9921,
+      "box": [
+        125,
+        313,
+        390,
+        341
+      ]
+    },
+    {
+      "text": "- Monitored patient pain levels",
+      "score": 0.9603,
+      "box": [
+        126,
+        339,
+        409,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Administration, Greenwood University, 2023",
+      "score": 0.9797,
+      "box": [
+        114,
+        447,
+        698,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of musculoskeletal nursing",
+      "score": 0.9735,
+      "box": [
+        131,
+        472,
+        602,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of ostomy care",
+      "score": 0.9889,
+      "box": [
+        132,
+        497,
+        456,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "KAYLA SHORT\nAZ, USA|+1-642-429-1956|kayla.short@example.com\nWORK HISTORY\nRegistered Nurses, BrightBridge Health Services, 2021.04–2023.01\n- Assisted with surgical prep\n- Monitored patient pain levels\nEDUCATION\nBachelor's, Health Administration, Greenwood University, 2023\n• Studied fundamentals of musculoskeletal nursing\n• Studied principles of ostomy care"
+}

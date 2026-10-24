@@ -1,0 +1,148 @@
+{
+  "id": "39003",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.806,
+  "n_lines": 10,
+  "mean_score": 0.9778,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAKE MANN",
+      "score": 0.9694,
+      "box": [
+        115,
+        90,
+        317,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-610-322-6944 |jake.mann@example.com",
+      "score": 0.9702,
+      "box": [
+        115,
+        150,
+        637,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9803,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Accounting, 2020.03–2020.08",
+      "score": 0.9789,
+      "box": [
+        115,
+        290,
+        707,
+        312
+      ]
+    },
+    {
+      "text": "- Prepared expense reports",
+      "score": 0.9648,
+      "box": [
+        126,
+        314,
+        384,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9727,
+      "box": [
+        126,
+        338,
+        382,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, General Business, Woodview University, 2011",
+      "score": 0.9775,
+      "box": [
+        114,
+        447,
+        653,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in bank reconciliation",
+      "score": 0.9842,
+      "box": [
+        134,
+        475,
+        562,
+        495
+      ]
+    },
+    {
+      "text": "• Completed coursework in mergers and acquisitions basics",
+      "score": 0.9817,
+      "box": [
+        134,
+        499,
+        686,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JAKE MANN\nNY, USA|+1-610-322-6944 |jake.mann@example.com\nWORK HISTORY\nAccountants Auditors, EverCount Accounting, 2020.03–2020.08\n- Prepared expense reports\n- Reviewed ledger postings\nEDUCATION\nBachelor's, General Business, Woodview University, 2011\n• Completed coursework in bank reconciliation\n• Completed coursework in mergers and acquisitions basics"
+}

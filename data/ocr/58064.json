@@ -1,0 +1,148 @@
+{
+  "id": "58064",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.761,
+  "n_lines": 10,
+  "mean_score": 0.9782,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MANDY CHAN",
+      "score": 0.965,
+      "box": [
+        116,
+        90,
+        347,
+        121
+      ]
+    },
+    {
+      "text": "WA,USA|+1-778-786-5304|mandy.chan@example.com",
+      "score": 0.9753,
+      "box": [
+        114,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.976,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Minds School, 2019.06–2021.11",
+      "score": 0.9805,
+      "box": [
+        116,
+        290,
+        829,
+        313
+      ]
+    },
+    {
+      "text": "- Distributed instructional handouts",
+      "score": 0.9587,
+      "box": [
+        126,
+        314,
+        451,
+        338
+      ]
+    },
+    {
+      "text": "- Updated student performance logs",
+      "score": 0.9818,
+      "box": [
+        127,
+        341,
+        462,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning and Teaching Studies, Oakridge University, 2005",
+      "score": 0.9781,
+      "box": [
+        115,
+        449,
+        766,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom organization",
+      "score": 0.9882,
+      "box": [
+        133,
+        474,
+        604,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in writing instruction",
+      "score": 0.9794,
+      "box": [
+        133,
+        499,
+        550,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "MANDY CHAN\nWA,USA|+1-778-786-5304|mandy.chan@example.com\nWORK HISTORY\nElementary Middle School Teachers, Caring Minds School, 2019.06–2021.11\n- Distributed instructional handouts\n- Updated student performance logs\nEDUCATION\nBachelor's, Learning and Teaching Studies, Oakridge University, 2005\n• Completed coursework in classroom organization\n• Completed coursework in writing instruction"
+}

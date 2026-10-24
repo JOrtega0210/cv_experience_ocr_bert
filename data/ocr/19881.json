@@ -1,0 +1,187 @@
+{
+  "id": "19881",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.879,
+  "n_lines": 13,
+  "mean_score": 0.986,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SALVATORE HERMAN",
+      "score": 0.9869,
+      "box": [
+        116,
+        90,
+        479,
+        120
+      ]
+    },
+    {
+      "text": "IN, USA|+1-620-259-8471 |salvatore.herman@example.com",
+      "score": 0.9798,
+      "box": [
+        117,
+        151,
+        693,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9769,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Advisors, 2020.09–2023.01",
+      "score": 0.9854,
+      "box": [
+        114,
+        289,
+        736,
+        313
+      ]
+    },
+    {
+      "text": "-Directed accounting operations planning",
+      "score": 0.9879,
+      "box": [
+        125,
+        314,
+        514,
+        339
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9865,
+      "box": [
+        126,
+        339,
+        467,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Group, 2016.05–2018.09",
+      "score": 0.9919,
+      "box": [
+        114,
+        381,
+        676,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.9876,
+      "box": [
+        127,
+        407,
+        445,
+        430
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9697,
+      "box": [
+        125,
+        431,
+        511,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Administrative Studies, Springdale University, 2011",
+      "score": 0.9897,
+      "box": [
+        115,
+        541,
+        697,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in supply chain accounting",
+      "score": 0.991,
+      "box": [
+        134,
+        566,
+        612,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting information systems",
+      "score": 0.9863,
+      "box": [
+        134,
+        590,
+        681,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "SALVATORE HERMAN\nIN, USA|+1-620-259-8471 |salvatore.herman@example.com\nWORK HISTORY\nAccountants Auditors, Balanced Books Advisors, 2020.09–2023.01\n-Directed accounting operations planning\n- Developed internal control systems\nAccountants Auditors, TrustLedger Group, 2016.05–2018.09\n- Prepared account reconciliations\n- Maintained accounting software records\nEDUCATION\nBachelor's, Administrative Studies, Springdale University, 2011\n• Completed coursework in supply chain accounting\n• Completed coursework in accounting information systems"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "26978",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.817,
+  "n_lines": 10,
+  "mean_score": 0.9812,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MOLLY RODGERS",
+      "score": 0.9911,
+      "box": [
+        116,
+        90,
+        414,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-484-874-8745|molly.rodgers@example.com",
+      "score": 0.9903,
+      "box": [
+        116,
+        152,
+        661,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9784,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Start Academy, 2021.04–2023.01",
+      "score": 0.9802,
+      "box": [
+        116,
+        290,
+        860,
+        313
+      ]
+    },
+    {
+      "text": "- Maintained student folders",
+      "score": 0.9634,
+      "box": [
+        126,
+        315,
+        388,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.987,
+      "box": [
+        126,
+        339,
+        460,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Support, Stonehill University, 2021",
+      "score": 0.9658,
+      "box": [
+        114,
+        447,
+        659,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom assessment techniques",
+      "score": 0.9681,
+      "box": [
+        132,
+        473,
+        708,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in developmental psychology basics",
+      "score": 0.9891,
+      "box": [
+        133,
+        498,
+        700,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "MOLLY RODGERS\nMI, USA|+1-484-874-8745|molly.rodgers@example.com\nWORK HISTORY\nElementary Middle School Teachers, Learning Start Academy, 2021.04–2023.01\n- Maintained student folders\n- Assisted with science experiments\nEDUCATION\nBachelor's, Educational Support, Stonehill University, 2021\n• Completed coursework in classroom assessment techniques\n• Completed coursework in developmental psychology basics"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "37488",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.845,
+  "n_lines": 16,
+  "mean_score": 0.978,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAMES ZHANG",
+      "score": 0.9866,
+      "box": [
+        116,
+        90,
+        361,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-608-772-2924 |james.zhang@example.com",
+      "score": 0.9826,
+      "box": [
+        115,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9866,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Advisors, 2020.05–2023.01",
+      "score": 0.9922,
+      "box": [
+        115,
+        290,
+        691,
+        312
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9859,
+      "box": [
+        126,
+        313,
+        428,
+        340
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.975,
+      "box": [
+        126,
+        339,
+        486,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Financial, 2017.09–2020.05",
+      "score": 0.978,
+      "box": [
+        114,
+        381,
+        692,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared statutory filings",
+      "score": 0.9466,
+      "box": [
+        126,
+        406,
+        374,
+        432
+      ]
+    },
+    {
+      "text": "- Conducted internal audits",
+      "score": 0.9777,
+      "box": [
+        126,
+        431,
+        379,
+        453
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Services, 2012.04–2014.12",
+      "score": 0.9817,
+      "box": [
+        115,
+        472,
+        738,
+        495
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9529,
+      "box": [
+        125,
+        496,
+        439,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9755,
+      "box": [
+        126,
+        521,
+        413,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Administration, Brookside University, 207",
+      "score": 0.9794,
+      "box": [
+        114,
+        630,
+        709,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting information systems",
+      "score": 0.9766,
+      "box": [
+        132,
+        656,
+        681,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in expense allocation",
+      "score": 0.9714,
+      "box": [
+        135,
+        682,
+        562,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JAMES ZHANG\nNY, USA|+1-608-772-2924 |james.zhang@example.com\nWORK HISTORY\nAccountants Auditors, ClearBooks Advisors, 2020.05–2023.01\n- Led audit planning governance\n- Designed financial oversight systems\nAccountants Auditors, SolidCount Financial, 2017.09–2020.05\n- Prepared statutory filings\n- Conducted internal audits\nAccountants Auditors, Precise Balance Services, 2012.04–2014.12\n- Reviewed timesheets for payroll\n- Assisted with budget tracking\nEDUCATION\nBachelor's, Business Administration, Brookside University, 207\n• Completed coursework in accounting information systems\n• Completed coursework in expense allocation"
+}

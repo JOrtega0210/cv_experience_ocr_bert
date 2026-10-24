@@ -1,0 +1,226 @@
+{
+  "id": "46142",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.848,
+  "n_lines": 16,
+  "mean_score": 0.9823,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TIMOTHY PRUITT",
+      "score": 0.988,
+      "box": [
+        115,
+        90,
+        400,
+        120
+      ]
+    },
+    {
+      "text": "PA, USA|+1-491-781-6110|timothy.pruitt@example.com",
+      "score": 0.9732,
+      "box": [
+        115,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueCraft Builders, 2020.03–2023.01",
+      "score": 0.987,
+      "box": [
+        115,
+        290,
+        676,
+        313
+      ]
+    },
+    {
+      "text": "- Established project documentation systems",
+      "score": 0.9697,
+      "box": [
+        125,
+        313,
+        544,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.967,
+      "box": [
+        126,
+        338,
+        477,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureBuild Services, 2017.05–2020.03",
+      "score": 0.9794,
+      "box": [
+        116,
+        382,
+        683,
+        405
+      ]
+    },
+    {
+      "text": "- Installed mechanical supports",
+      "score": 0.9886,
+      "box": [
+        125,
+        405,
+        418,
+        431
+      ]
+    },
+    {
+      "text": "- Laid flooring materials",
+      "score": 0.9734,
+      "box": [
+        126,
+        430,
+        347,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidPoint Construction, 2013.03–2016.01",
+      "score": 0.9868,
+      "box": [
+        115,
+        472,
+        724,
+        495
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9745,
+      "box": [
+        125,
+        496,
+        436,
+        521
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.9873,
+      "box": [
+        127,
+        522,
+        445,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Quality Control, Horizon University, 2001",
+      "score": 0.9829,
+      "box": [
+        114,
+        631,
+        802,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of material recycling",
+      "score": 0.9898,
+      "box": [
+        132,
+        656,
+        504,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural layout",
+      "score": 0.9849,
+      "box": [
+        135,
+        682,
+        537,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "TIMOTHY PRUITT\nPA, USA|+1-491-781-6110|timothy.pruitt@example.com\nWORK HISTORY\nConstruction Laborers, TrueCraft Builders, 2020.03–2023.01\n- Established project documentation systems\n- Reviewed material quality standards\nConstruction Laborers, SureBuild Services, 2017.05–2020.03\n- Installed mechanical supports\n- Laid flooring materials\nConstruction Laborers, SolidPoint Construction, 2013.03–2016.01\n- Installed temporary site barriers\n- Secured materials with fasteners\nEDUCATION\nAssociate's degree, Construction Quality Control, Horizon University, 2001\n• Studied principles of material recycling\n• Completed coursework in structural layout"
+}

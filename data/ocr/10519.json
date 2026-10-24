@@ -1,0 +1,265 @@
+{
+  "id": "10519",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.011,
+  "n_lines": 19,
+  "mean_score": 0.9778,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "OMAR ODONNELL",
+      "score": 0.9588,
+      "box": [
+        115,
+        87,
+        418,
+        123
+      ]
+    },
+    {
+      "text": "CO, USA | +1-376-878-5330 |omar.odonnell@example.com",
+      "score": 0.9624,
+      "box": [
+        117,
+        151,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Digital, 2019.12–2023.01",
+      "score": 0.9766,
+      "box": [
+        114,
+        287,
+        654,
+        315
+      ]
+    },
+    {
+      "text": "- Defined API standards",
+      "score": 0.9656,
+      "box": [
+        125,
+        313,
+        352,
+        338
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9905,
+      "box": [
+        126,
+        339,
+        448,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Datapath Solutions, 2016.10–2019.12",
+      "score": 0.9845,
+      "box": [
+        115,
+        381,
+        673,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9621,
+      "box": [
+        127,
+        407,
+        515,
+        430
+      ]
+    },
+    {
+      "text": "- Designed logging infrastructures",
+      "score": 0.9781,
+      "box": [
+        126,
+        431,
+        442,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Systems, 2013.08–2016.10",
+      "score": 0.979,
+      "box": [
+        115,
+        471,
+        673,
+        496
+      ]
+    },
+    {
+      "text": "-Built frontend components",
+      "score": 0.9786,
+      "box": [
+        124,
+        496,
+        385,
+        521
+      ]
+    },
+    {
+      "text": "- Designed documentation templates",
+      "score": 0.9864,
+      "box": [
+        126,
+        521,
+        469,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Stonefield Tech, 2010.06–2013.08",
+      "score": 0.9806,
+      "box": [
+        114,
+        563,
+        641,
+        588
+      ]
+    },
+    {
+      "text": "- Debugged runtime erors",
+      "score": 0.9818,
+      "box": [
+        125,
+        589,
+        375,
+        614
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.9642,
+      "box": [
+        127,
+        615,
+        403,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearview University, 2010",
+      "score": 0.9715,
+      "box": [
+        116,
+        726,
+        472,
+        745
+      ]
+    },
+    {
+      "text": "• Completed coursework in computer programming fundamentals",
+      "score": 0.9896,
+      "box": [
+        133,
+        749,
+        736,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of programming in Java",
+      "score": 0.9832,
+      "box": [
+        133,
+        772,
+        575,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "OMAR ODONNELL\nCO, USA | +1-376-878-5330 |omar.odonnell@example.com\nWORK HISTORY\nSoftware Developers, Stonepath Digital, 2019.12–2023.01\n- Defined API standards\n- Designed data storage strategies\nSoftware Developers, Datapath Solutions, 2016.10–2019.12\n- Implemented access control frameworks\n- Designed logging infrastructures\nSoftware Developers, Clearpath Systems, 2013.08–2016.10\n-Built frontend components\n- Designed documentation templates\nSoftware Developers, Stonefield Tech, 2010.06–2013.08\n- Debugged runtime erors\n- Updated database schemas\nEDUCATION\nBachelor's, Clearview University, 2010\n• Completed coursework in computer programming fundamentals\n• Studied fundamentals of programming in Java"
+}

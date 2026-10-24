@@ -1,0 +1,226 @@
+{
+  "id": "58544",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.844,
+  "n_lines": 16,
+  "mean_score": 0.9788,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARIA HUFFMAN",
+      "score": 0.9657,
+      "box": [
+        116,
+        90,
+        403,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-615-286-1678|maria.huffman@example.com",
+      "score": 0.9669,
+      "box": [
+        114,
+        150,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightSpring Health Services, 2020.02–2023.01",
+      "score": 0.9805,
+      "box": [
+        115,
+        289,
+        741,
+        314
+      ]
+    },
+    {
+      "text": "- Developed patient safety metrics",
+      "score": 0.9859,
+      "box": [
+        127,
+        315,
+        445,
+        338
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9827,
+      "box": [
+        126,
+        339,
+        471,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Path Medical, 2015.10–2018.10",
+      "score": 0.9812,
+      "box": [
+        115,
+        381,
+        718,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented patient education programs",
+      "score": 0.9748,
+      "box": [
+        126,
+        406,
+        522,
+        432
+      ]
+    },
+    {
+      "text": "- Educated patients on treatment plans",
+      "score": 0.982,
+      "box": [
+        126,
+        431,
+        488,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeHarbor Nursing, 2012.01–2015.01",
+      "score": 0.9915,
+      "box": [
+        116,
+        472,
+        659,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared discharge instructions",
+      "score": 0.9893,
+      "box": [
+        125,
+        498,
+        435,
+        521
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9604,
+      "box": [
+        126,
+        521,
+        410,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Studies, Blue Ridge University, 2007",
+      "score": 0.9544,
+      "box": [
+        114,
+        631,
+        681,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient confidentiality",
+      "score": 0.9839,
+      "box": [
+        134,
+        658,
+        584,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient positioning",
+      "score": 0.9772,
+      "box": [
+        134,
+        682,
+        556,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "MARIA HUFFMAN\nWA, USA|+1-615-286-1678|maria.huffman@example.com\nWORK HISTORY\nRegistered Nurses, BrightSpring Health Services, 2020.02–2023.01\n- Developed patient safety metrics\n- Established care delivery standards\nRegistered Nurses, Compassion Path Medical, 2015.10–2018.10\n- Implemented patient education programs\n- Educated patients on treatment plans\nRegistered Nurses, SafeHarbor Nursing, 2012.01–2015.01\n- Prepared discharge instructions\n- Recorded shift handoff notes\nEDUCATION\nBachelor's, Health Care Studies, Blue Ridge University, 2007\n• Completed coursework in patient confidentiality\n• Completed coursework in patient positioning"
+}

@@ -1,0 +1,265 @@
+{
+  "id": "50846",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.887,
+  "n_lines": 19,
+  "mean_score": 0.984,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RANDY PEREZ",
+      "score": 0.9662,
+      "box": [
+        116,
+        90,
+        358,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-404-952-1957|randy.perez@example.com",
+      "score": 0.9828,
+      "box": [
+        115,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9865,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Labs, 2020.01–2023.01",
+      "score": 0.9872,
+      "box": [
+        116,
+        290,
+        654,
+        313
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.9859,
+      "box": [
+        125,
+        313,
+        543,
+        338
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9844,
+      "box": [
+        127,
+        340,
+        454,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Flowstack Solutions, 2017.01–2020.01",
+      "score": 0.978,
+      "box": [
+        115,
+        381,
+        679,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9822,
+      "box": [
+        127,
+        407,
+        424,
+        430
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.9928,
+      "box": [
+        126,
+        430,
+        469,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Bluecrest Software, 2014.01–2017.01",
+      "score": 0.988,
+      "box": [
+        115,
+        472,
+        670,
+        495
+      ]
+    },
+    {
+      "text": "-Built frontend components",
+      "score": 0.978,
+      "box": [
+        124,
+        496,
+        386,
+        521
+      ]
+    },
+    {
+      "text": "- Designed integration tests",
+      "score": 0.9731,
+      "box": [
+        125,
+        521,
+        384,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Clearline Software, 2009.05–2012.06",
+      "score": 0.9805,
+      "box": [
+        114,
+        563,
+        667,
+        588
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.9865,
+      "box": [
+        126,
+        590,
+        404,
+        613
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.982,
+      "box": [
+        125,
+        613,
+        448,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Skyline University, 206",
+      "score": 0.983,
+      "box": [
+        114,
+        723,
+        449,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of programming in Java",
+      "score": 0.9864,
+      "box": [
+        131,
+        747,
+        575,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in distributed databases",
+      "score": 0.9932,
+      "box": [
+        133,
+        772,
+        588,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "RANDY PEREZ\nTX, USA|+1-404-952-1957|randy.perez@example.com\nWORK HISTORY\nSoftware Developers, Datastream Labs, 2020.01–2023.01\n- Defined technical documentation standards\n- Led performance tuning initiatives\nSoftware Developers, Flowstack Solutions, 2017.01–2020.01\n- Implemented core frameworks\n- Led backend platform development\nSoftware Developers, Bluecrest Software, 2014.01–2017.01\n-Built frontend components\n- Designed integration tests\nSoftware Developers, Clearline Software, 2009.05–2012.06\n- Updated database schemas\n- Performed basic APl integrations\nEDUCATION\nBachelor's, Skyline University, 206\n• Studied fundamentals of programming in Java\n• Completed coursework in distributed databases"
+}

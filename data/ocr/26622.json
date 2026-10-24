@@ -1,0 +1,226 @@
+{
+  "id": "26622",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.857,
+  "n_lines": 16,
+  "mean_score": 0.9776,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LACEE HARRISON",
+      "score": 0.9646,
+      "box": [
+        116,
+        90,
+        419,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-705-710-8769 | lacee.harrison@example.com",
+      "score": 0.954,
+      "box": [
+        116,
+        152,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.981,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueBridge Nursing Services, 2020.11–2023.01",
+      "score": 0.9883,
+      "box": [
+        115,
+        289,
+        741,
+        314
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9612,
+      "box": [
+        126,
+        314,
+        510,
+        339
+      ]
+    },
+    {
+      "text": "- Managed nursing unit operations",
+      "score": 0.9704,
+      "box": [
+        127,
+        339,
+        447,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Way Medical, 2018.08–2020.11",
+      "score": 0.9801,
+      "box": [
+        115,
+        381,
+        716,
+        406
+      ]
+    },
+    {
+      "text": "- Managed patient referrals",
+      "score": 0.9702,
+      "box": [
+        127,
+        406,
+        380,
+        431
+      ]
+    },
+    {
+      "text": "- Provided pediatric nursing care",
+      "score": 0.9883,
+      "box": [
+        126,
+        430,
+        431,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Bridge Health, 2013.12–2016.03",
+      "score": 0.9782,
+      "box": [
+        116,
+        473,
+        692,
+        496
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9743,
+      "box": [
+        125,
+        496,
+        417,
+        522
+      ]
+    },
+    {
+      "text": "- Prepared patients for examinations",
+      "score": 0.9718,
+      "box": [
+        126,
+        521,
+        466,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Information Management, Prairie View University, 2012",
+      "score": 0.991,
+      "box": [
+        114,
+        631,
+        802,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical reasoning",
+      "score": 0.9885,
+      "box": [
+        134,
+        658,
+        549,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of hematologic nursing basics",
+      "score": 0.9815,
+      "box": [
+        134,
+        681,
+        594,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "LACEE HARRISON\nMA, USA|+1-705-710-8769 | lacee.harrison@example.com\nWORK HISTORY\nRegistered Nurses, TrueBridge Nursing Services, 2020.11–2023.01\n- Directed nursing process improvements\n- Managed nursing unit operations\nRegistered Nurses, Compassion Way Medical, 2018.08–2020.11\n- Managed patient referrals\n- Provided pediatric nursing care\nRegistered Nurses, Harmony Bridge Health, 2013.12–2016.03\n- Checked medication dosages\n- Prepared patients for examinations\nEDUCATION\nBachelor's, Health Information Management, Prairie View University, 2012\n• Completed coursework in clinical reasoning\n• Studied principles of hematologic nursing basics"
+}

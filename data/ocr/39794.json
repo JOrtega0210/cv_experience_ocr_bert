@@ -1,0 +1,187 @@
+{
+  "id": "39794",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.847,
+  "n_lines": 13,
+  "mean_score": 0.9789,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "STEVEN KELLY",
+      "score": 0.96,
+      "box": [
+        115,
+        90,
+        372,
+        120
+      ]
+    },
+    {
+      "text": "NC, USA|+1-749-391-8169|steven.kelly@example.com",
+      "score": 0.9837,
+      "box": [
+        115,
+        150,
+        651,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9848,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Solutions, 2019.06–2021.03",
+      "score": 0.9819,
+      "box": [
+        115,
+        290,
+        692,
+        312
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9564,
+      "box": [
+        127,
+        315,
+        480,
+        338
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9754,
+      "box": [
+        126,
+        339,
+        530,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Advisors, 2016.07–2018.04",
+      "score": 0.9858,
+      "box": [
+        114,
+        381,
+        722,
+        405
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9802,
+      "box": [
+        126,
+        407,
+        418,
+        430
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.9913,
+      "box": [
+        125,
+        430,
+        419,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Business Management, Stonefield University, 2008",
+      "score": 0.9826,
+      "box": [
+        115,
+        539,
+        777,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of auditing",
+      "score": 0.965,
+      "box": [
+        133,
+        566,
+        452,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in cost accounting",
+      "score": 0.9802,
+      "box": [
+        134,
+        590,
+        534,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "STEVEN KELLY\nNC, USA|+1-749-391-8169|steven.kelly@example.com\nWORK HISTORY\nAccountants Auditors, AccuCount Solutions, 2019.06–2021.03\n- Led accounting process optimization\n- Established reporting automation systems\nAccountants Auditors, Balanced Path Advisors, 2016.07–2018.04\n- Processed journal corrections\n- Assisted with forecasting data\nEDUCATION\nAssociate's degree, Business Management, Stonefield University, 2008\n• Studied fundamentals of auditing\n• Completed coursework in cost accounting"
+}

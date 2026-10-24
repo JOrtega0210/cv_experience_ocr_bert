@@ -1,0 +1,187 @@
+{
+  "id": "60552",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.854,
+  "n_lines": 13,
+  "mean_score": 0.9849,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LUCAS PRATT",
+      "score": 0.9835,
+      "box": [
+        116,
+        90,
+        354,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-228-847-9269|lucas.pratt@example.com",
+      "score": 0.9628,
+      "box": [
+        115,
+        150,
+        634,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9757,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverPath Nursing Services, 2021.04–2023.01",
+      "score": 0.9946,
+      "box": [
+        116,
+        290,
+        724,
+        313
+      ]
+    },
+    {
+      "text": "- Managed patient outcome evaluation systems",
+      "score": 0.9875,
+      "box": [
+        126,
+        314,
+        567,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.9906,
+      "box": [
+        126,
+        339,
+        568,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearHands Nursing Group, 2019.06–2021.04",
+      "score": 0.9864,
+      "box": [
+        115,
+        381,
+        727,
+        406
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.9845,
+      "box": [
+        125,
+        406,
+        512,
+        431
+      ]
+    },
+    {
+      "text": "- Checked laboratory results",
+      "score": 0.9704,
+      "box": [
+        126,
+        430,
+        391,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Biomedical Sciences, Pineview University, 2018",
+      "score": 0.9868,
+      "box": [
+        114,
+        539,
+        669,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient education",
+      "score": 0.9911,
+      "box": [
+        132,
+        564,
+        538,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of chronic disease management",
+      "score": 0.9915,
+      "box": [
+        133,
+        590,
+        616,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "LUCAS PRATT\nWI, USA|+1-228-847-9269|lucas.pratt@example.com\nWORK HISTORY\nRegistered Nurses, EverPath Nursing Services, 2021.04–2023.01\n- Managed patient outcome evaluation systems\n- Implemented evidence-based practice models\nRegistered Nurses, ClearHands Nursing Group, 2019.06–2021.04\n- Performed basic life support procedures\n- Checked laboratory results\nEDUCATION\nBachelor's, Biomedical Sciences, Pineview University, 2018\n• Studied fundamentals of patient education\n• Studied principles of chronic disease management"
+}

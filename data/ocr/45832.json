@@ -1,0 +1,187 @@
+{
+  "id": "45832",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.81,
+  "n_lines": 13,
+  "mean_score": 0.9755,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "PERRY RANDALL",
+      "score": 0.9635,
+      "box": [
+        116,
+        90,
+        405,
+        120
+      ]
+    },
+    {
+      "text": "PA, USA|+1-786-271-1818|perry.randall@example.com",
+      "score": 0.977,
+      "box": [
+        115,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9777,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Datawave Systems, 2021.07–2023.01",
+      "score": 0.9837,
+      "box": [
+        115,
+        289,
+        673,
+        314
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.9717,
+      "box": [
+        127,
+        315,
+        428,
+        338
+      ]
+    },
+    {
+      "text": "- Developed system monitoring strategies",
+      "score": 0.9713,
+      "box": [
+        126,
+        339,
+        513,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Openframe Digital, 2020.01–221.07",
+      "score": 0.9646,
+      "box": [
+        115,
+        381,
+        664,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.978,
+      "box": [
+        126,
+        406,
+        422,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9925,
+      "box": [
+        126,
+        431,
+        604,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearwood University, 2019",
+      "score": 0.947,
+      "box": [
+        116,
+        542,
+        480,
+        562
+      ]
+    },
+    {
+      "text": "• Completed coursework in sorting and searching algorithms",
+      "score": 0.9733,
+      "box": [
+        133,
+        565,
+        690,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in project documentation",
+      "score": 0.9822,
+      "box": [
+        135,
+        591,
+        595,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "PERRY RANDALL\nPA, USA|+1-786-271-1818|perry.randall@example.com\nWORK HISTORY\nSoftware Developers, Datawave Systems, 2021.07–2023.01\n- Designed system architectures\n- Developed system monitoring strategies\nSoftware Developers, Openframe Digital, 2020.01–221.07\n- Implemented REST endpoints\n- Implemented basic features in existing codebases\nEDUCATION\nBachelor's, Clearwood University, 2019\n• Completed coursework in sorting and searching algorithms\n• Completed coursework in project documentation"
+}

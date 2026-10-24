@@ -1,0 +1,265 @@
+{
+  "id": "13691",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.026,
+  "n_lines": 19,
+  "mean_score": 0.9815,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TAMARA OLSEN",
+      "score": 0.972,
+      "box": [
+        114,
+        90,
+        388,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-536-252-8176|tamara.olsen@example.com",
+      "score": 0.9904,
+      "box": [
+        115,
+        150,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9814,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeHands Nursing Services, 2020.06–2023.01",
+      "score": 0.9742,
+      "box": [
+        115,
+        289,
+        732,
+        314
+      ]
+    },
+    {
+      "text": "- Designed clinical documentation standards",
+      "score": 0.9836,
+      "box": [
+        127,
+        315,
+        539,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented care pathway frameworks",
+      "score": 0.9632,
+      "box": [
+        127,
+        339,
+        506,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Nest Nursing, 2017.11–2020.06",
+      "score": 0.9739,
+      "box": [
+        115,
+        381,
+        663,
+        406
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.9826,
+      "box": [
+        126,
+        406,
+        392,
+        431
+      ]
+    },
+    {
+      "text": "- Developed interdisciplinary care strategies",
+      "score": 0.9837,
+      "box": [
+        126,
+        430,
+        534,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Group, 2015.03–2017.11",
+      "score": 0.9804,
+      "box": [
+        116,
+        472,
+        689,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored patient response to treatments",
+      "score": 0.9698,
+      "box": [
+        125,
+        496,
+        522,
+        522
+      ]
+    },
+    {
+      "text": "- Supervised junior nursing staff",
+      "score": 0.9905,
+      "box": [
+        127,
+        523,
+        424,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeBridge Nursing Services, 2012.07–2015.03",
+      "score": 0.9866,
+      "box": [
+        116,
+        565,
+        743,
+        589
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9884,
+      "box": [
+        125,
+        589,
+        438,
+        615
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.9968,
+      "box": [
+        126,
+        614,
+        418,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Public Health, Stonegate University, 2012",
+      "score": 0.9923,
+      "box": [
+        115,
+        725,
+        612,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical pharmacology",
+      "score": 0.9701,
+      "box": [
+        132,
+        748,
+        589,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of continuity of care",
+      "score": 0.9703,
+      "box": [
+        134,
+        774,
+        500,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "TAMARA OLSEN\nFL, USA|+1-536-252-8176|tamara.olsen@example.com\nWORK HISTORY\nRegistered Nurses, LifeHands Nursing Services, 2020.06–2023.01\n- Designed clinical documentation standards\n- Implemented care pathway frameworks\nRegistered Nurses, Caring Nest Nursing, 2017.11–2020.06\n- Led nursing process audits\n- Developed interdisciplinary care strategies\nRegistered Nurses, Harmony Health Group, 2015.03–2017.11\n- Monitored patient response to treatments\n- Supervised junior nursing staff\nRegistered Nurses, SafeBridge Nursing Services, 2012.07–2015.03\n- Assisted with patient positioning\n- Assisted with feeding patients\nEDUCATION\nBachelor's, Public Health, Stonegate University, 2012\n• Completed coursework in clinical pharmacology\n• Studied principles of continuity of care"
+}

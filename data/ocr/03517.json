@@ -1,0 +1,265 @@
+{
+  "id": "03517",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.0,
+  "n_lines": 19,
+  "mean_score": 0.9827,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SHAWN MORROW",
+      "score": 0.9861,
+      "box": [
+        116,
+        90,
+        414,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-619-967-1390 |shawn.morrow@example.com",
+      "score": 0.9764,
+      "box": [
+        117,
+        151,
+        677,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Technologies, 2020.01–2023.01",
+      "score": 0.9669,
+      "box": [
+        113,
+        287,
+        691,
+        315
+      ]
+    },
+    {
+      "text": "- Designed logging infrastructures",
+      "score": 0.9766,
+      "box": [
+        126,
+        315,
+        442,
+        338
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.9745,
+      "box": [
+        126,
+        339,
+        431,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Digital, 2017.01–2020.01",
+      "score": 0.9821,
+      "box": [
+        115,
+        381,
+        629,
+        407
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9864,
+      "box": [
+        126,
+        406,
+        454,
+        431
+      ]
+    },
+    {
+      "text": "- Designed software development workflows",
+      "score": 0.9873,
+      "box": [
+        127,
+        432,
+        538,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Softpath Labs, 2012.01–2015.01",
+      "score": 0.9789,
+      "box": [
+        115,
+        472,
+        624,
+        496
+      ]
+    },
+    {
+      "text": "- Designed Ul workflows",
+      "score": 0.9737,
+      "box": [
+        127,
+        499,
+        354,
+        520
+      ]
+    },
+    {
+      "text": "- Developed configuration management tools",
+      "score": 0.9816,
+      "box": [
+        127,
+        523,
+        545,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Stonefield Tech, 2008.04–2011.04",
+      "score": 0.9805,
+      "box": [
+        115,
+        563,
+        641,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9843,
+      "box": [
+        126,
+        590,
+        478,
+        613
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9952,
+      "box": [
+        126,
+        614,
+        402,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Elm Valley University, 2006",
+      "score": 0.9787,
+      "box": [
+        115,
+        725,
+        480,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of event-driven architecture",
+      "score": 0.9846,
+      "box": [
+        132,
+        747,
+        571,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of versioning strategies",
+      "score": 0.9926,
+      "box": [
+        133,
+        772,
+        533,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "SHAWN MORROW\nCA, USA|+1-619-967-1390 |shawn.morrow@example.com\nWORK HISTORY\nSoftware Developers, Netline Technologies, 2020.01–2023.01\n- Designed logging infrastructures\n- Led system reliability programs\nSoftware Developers, Netfield Digital, 2017.01–2020.01\n- Led performance tuning initiatives\n- Designed software development workflows\nSoftware Developers, Softpath Labs, 2012.01–2015.01\n- Designed Ul workflows\n- Developed configuration management tools\nSoftware Developers, Stonefield Tech, 2008.04–2011.04\n- Assisted with system documentation\n- Participated in code reviews\nEDUCATION\nBachelor's, Elm Valley University, 2006\n• Studied principles of event-driven architecture\n• Studied principles of versioning strategies"
+}

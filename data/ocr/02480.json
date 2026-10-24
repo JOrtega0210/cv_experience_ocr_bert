@@ -1,0 +1,148 @@
+{
+  "id": "02480",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.859,
+  "n_lines": 10,
+  "mean_score": 0.9781,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JENNA CHANG",
+      "score": 0.9595,
+      "box": [
+        116,
+        90,
+        363,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-436-206-2477 |jenna.chang@example.com",
+      "score": 0.9631,
+      "box": [
+        116,
+        151,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9827,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Financial Group, 2019.11–2021.08",
+      "score": 0.9919,
+      "box": [
+        115,
+        290,
+        762,
+        313
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9733,
+      "box": [
+        125,
+        314,
+        510,
+        337
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9709,
+      "box": [
+        126,
+        339,
+        413,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Information Systems, Brightfield Ridge University, 2010",
+      "score": 0.9742,
+      "box": [
+        115,
+        449,
+        736,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of accounting standards",
+      "score": 0.9926,
+      "box": [
+        132,
+        472,
+        541,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of substantive testing",
+      "score": 0.9741,
+      "box": [
+        132,
+        497,
+        551,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JENNA CHANG\nAR, USA|+1-436-206-2477 |jenna.chang@example.com\nWORK HISTORY\nAccountants Auditors, OpenBooks Financial Group, 2019.11–2021.08\n- Maintained accounting software records\n- Assisted with budget tracking\nEDUCATION\nBachelor's, Information Systems, Brightfield Ridge University, 2010\n• Studied principles of accounting standards\n• Studied fundamentals of substantive testing"
+}

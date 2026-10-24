@@ -1,0 +1,265 @@
+{
+  "id": "61392",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.905,
+  "n_lines": 19,
+  "mean_score": 0.9792,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NICHOLAS MULLINS",
+      "score": 0.9764,
+      "box": [
+        115,
+        88,
+        451,
+        122
+      ]
+    },
+    {
+      "text": "WI, USA|+1-605-441-2429|nicholas.mullins@example.com",
+      "score": 0.9904,
+      "box": [
+        115,
+        150,
+        685,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9865,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudcrest Labs, 2020.07–2023.01",
+      "score": 0.9839,
+      "box": [
+        115,
+        288,
+        646,
+        313
+      ]
+    },
+    {
+      "text": "- Defined APl standards",
+      "score": 0.9814,
+      "box": [
+        127,
+        315,
+        351,
+        336
+      ]
+    },
+    {
+      "text": "- Implemented disaster recovery plans",
+      "score": 0.9851,
+      "box": [
+        126,
+        339,
+        483,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstone Systems, 2017.12–2020.07",
+      "score": 0.9791,
+      "box": [
+        115,
+        381,
+        683,
+        406
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.984,
+      "box": [
+        126,
+        406,
+        431,
+        432
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9735,
+      "box": [
+        126,
+        430,
+        400,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Corebyte Systems, 2015.05–2017.12",
+      "score": 0.9804,
+      "box": [
+        115,
+        471,
+        667,
+        496
+      ]
+    },
+    {
+      "text": "- Built reusable libraries",
+      "score": 0.9673,
+      "box": [
+        126,
+        497,
+        347,
+        519
+      ]
+    },
+    {
+      "text": "- Implemented caching strategies",
+      "score": 0.9632,
+      "box": [
+        126,
+        521,
+        437,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Datapath Solutions, 2012.10–215.05",
+      "score": 0.9907,
+      "box": [
+        115,
+        563,
+        673,
+        588
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9728,
+      "box": [
+        125,
+        588,
+        436,
+        615
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9677,
+      "box": [
+        126,
+        614,
+        418,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Sunset Ridge University, 2012",
+      "score": 0.9751,
+      "box": [
+        115,
+        725,
+        507,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of data modeling",
+      "score": 0.9799,
+      "box": [
+        132,
+        747,
+        473,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in probability and statistics",
+      "score": 0.9685,
+      "box": [
+        133,
+        772,
+        611,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "NICHOLAS MULLINS\nWI, USA|+1-605-441-2429|nicholas.mullins@example.com\nWORK HISTORY\nSoftware Developers, Cloudcrest Labs, 2020.07–2023.01\n- Defined APl standards\n- Implemented disaster recovery plans\nSoftware Developers, Clearstone Systems, 2017.12–2020.07\n- Led system reliability programs\n- Led database design efforts\nSoftware Developers, Corebyte Systems, 2015.05–2017.12\n- Built reusable libraries\n- Implemented caching strategies\nSoftware Developers, Datapath Solutions, 2012.10–215.05\n- Reviewed test coverage reports\n- Implemented logging features\nEDUCATION\nBachelor's, Sunset Ridge University, 2012\n• Studied principles of data modeling\n• Completed coursework in probability and statistics"
+}

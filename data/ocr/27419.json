@@ -1,0 +1,187 @@
+{
+  "id": "27419",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.811,
+  "n_lines": 13,
+  "mean_score": 0.9863,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "EDWARD MALONE",
+      "score": 0.984,
+      "box": [
+        117,
+        90,
+        423,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-401-294-8352 | edward.malone@example.com",
+      "score": 0.9736,
+      "box": [
+        116,
+        151,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9848,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Bridge Nursing, 2020.08–2023.01",
+      "score": 0.9865,
+      "box": [
+        115,
+        289,
+        688,
+        314
+      ]
+    },
+    {
+      "text": "- Managed clinical resource planning",
+      "score": 0.9814,
+      "box": [
+        126,
+        314,
+        468,
+        340
+      ]
+    },
+    {
+      "text": "- Managed clinical compliance programs",
+      "score": 0.9884,
+      "box": [
+        126,
+        339,
+        503,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Hands Nursing, 2015.05–2017.11",
+      "score": 0.9917,
+      "box": [
+        116,
+        383,
+        689,
+        406
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9955,
+      "box": [
+        125,
+        406,
+        444,
+        431
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.9871,
+      "box": [
+        126,
+        430,
+        418,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Pediatric Care, Brightwater University, 2011",
+      "score": 0.9855,
+      "box": [
+        115,
+        541,
+        628,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of musculoskeletal nursing",
+      "score": 0.9781,
+      "box": [
+        132,
+        564,
+        602,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in first aid principles",
+      "score": 0.9877,
+      "box": [
+        134,
+        590,
+        551,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "EDWARD MALONE\nMI, USA|+1-401-294-8352 | edward.malone@example.com\nWORK HISTORY\nRegistered Nurses, Helping Bridge Nursing, 2020.08–2023.01\n- Managed clinical resource planning\n- Managed clinical compliance programs\nRegistered Nurses, Helping Hands Nursing, 2015.05–2017.11\n- Collected patient health histories\n- Provided post-procedure care\nEDUCATION\nBachelor's, Pediatric Care, Brightwater University, 2011\n• Studied fundamentals of musculoskeletal nursing\n• Completed coursework in first aid principles"
+}

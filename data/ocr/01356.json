@@ -1,0 +1,213 @@
+{
+  "id": "01356",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.941,
+  "n_lines": 15,
+  "mean_score": 0.9817,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "PAUL PARK",
+      "score": 0.9655,
+      "box": [
+        115,
+        90,
+        314,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-236-783-4802|paul.park@example.com",
+      "score": 0.9905,
+      "box": [
+        116,
+        151,
+        625,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9884,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueCraft Builders, 2020.12–2023.01",
+      "score": 0.986,
+      "box": [
+        115,
+        290,
+        676,
+        313
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.9818,
+      "box": [
+        127,
+        315,
+        523,
+        338
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.985,
+      "box": [
+        126,
+        339,
+        371,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearStone Construction, 2017.02–2019.03",
+      "score": 0.9767,
+      "box": [
+        115,
+        381,
+        736,
+        405
+      ]
+    },
+    {
+      "text": "- Laid flooring materials",
+      "score": 0.9619,
+      "box": [
+        127,
+        408,
+        346,
+        429
+      ]
+    },
+    {
+      "text": "- Performed masonry work",
+      "score": 0.9844,
+      "box": [
+        126,
+        429,
+        376,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildStone Group, 2014.03–201.04",
+      "score": 0.9895,
+      "box": [
+        116,
+        472,
+        673,
+        495
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9755,
+      "box": [
+        125,
+        496,
+        406,
+        522
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9723,
+      "box": [
+        127,
+        523,
+        367,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Concrete Technology, Meadowfield High School, 2009",
+      "score": 0.9856,
+      "box": [
+        115,
+        631,
+        880,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of construction workflow analysis",
+      "score": 0.9831,
+      "box": [
+        132,
+        656,
+        623,
+        681
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "PAUL PARK\nAZ, USA|+1-236-783-4802|paul.park@example.com\nWORK HISTORY\nConstruction Laborers, TrueCraft Builders, 2020.12–2023.01\n- Coordinated large-scale material logistics\n- Led operational planning\nConstruction Laborers, ClearStone Construction, 2017.02–2019.03\n- Laid flooring materials\n- Performed masonry work\nConstruction Laborers, BuildStone Group, 2014.03–201.04\n- Installed temporary supports\n- Installed basic formwork\nEDUCATION\nHigh school graduate/GED, Concrete Technology, Meadowfield High School, 2009\n• Studied principles of construction workflow analysis"
+}

@@ -1,0 +1,265 @@
+{
+  "id": "03769",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.987,
+  "n_lines": 19,
+  "mean_score": 0.9811,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANTWON JAMES",
+      "score": 0.9748,
+      "box": [
+        117,
+        90,
+        392,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-977-954-9008 |antwon.james@example.com",
+      "score": 0.981,
+      "box": [
+        117,
+        152,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9866,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openstack Digital, 2020.04–2023.01",
+      "score": 0.9731,
+      "box": [
+        115,
+        288,
+        659,
+        314
+      ]
+    },
+    {
+      "text": "- Designed high-availability systems",
+      "score": 0.9788,
+      "box": [
+        126,
+        314,
+        461,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9776,
+      "box": [
+        127,
+        340,
+        424,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstream Labs, 2017.07–2020.04",
+      "score": 0.985,
+      "box": [
+        115,
+        381,
+        666,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented disaster recovery plans",
+      "score": 0.9908,
+      "box": [
+        126,
+        406,
+        483,
+        432
+      ]
+    },
+    {
+      "text": "- Defined quality assurance frameworks",
+      "score": 0.9897,
+      "box": [
+        126,
+        431,
+        496,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Dataframe Solutions, 2014.10–2017.07",
+      "score": 0.9743,
+      "box": [
+        114,
+        471,
+        686,
+        496
+      ]
+    },
+    {
+      "text": "- Improved code coverage",
+      "score": 0.98,
+      "box": [
+        125,
+        496,
+        373,
+        522
+      ]
+    },
+    {
+      "text": "- Handled schema migrations",
+      "score": 0.9835,
+      "box": [
+        126,
+        521,
+        402,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Stonebyte Labs, 2012.01–2014.10",
+      "score": 0.9766,
+      "box": [
+        115,
+        563,
+        641,
+        588
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.986,
+      "box": [
+        124,
+        588,
+        332,
+        615
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9837,
+      "box": [
+        127,
+        615,
+        478,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Fieldview University, 2010",
+      "score": 0.9444,
+      "box": [
+        114,
+        723,
+        469,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in tree data structures",
+      "score": 0.9833,
+      "box": [
+        133,
+        749,
+        570,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in web development basics",
+      "score": 0.9926,
+      "box": [
+        134,
+        774,
+        618,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "ANTWON JAMES\nCA, USA|+1-977-954-9008 |antwon.james@example.com\nWORK HISTORY\nSoftware Developers, Openstack Digital, 2020.04–2023.01\n- Designed high-availability systems\n- Implemented core frameworks\nSoftware Developers, Brightstream Labs, 2017.07–2020.04\n- Implemented disaster recovery plans\n- Defined quality assurance frameworks\nSoftware Developers, Dataframe Solutions, 2014.10–2017.07\n- Improved code coverage\n- Handled schema migrations\nSoftware Developers, Stonebyte Labs, 2012.01–2014.10\n- Handled file uploads\n- Assisted with system documentation\nEDUCATION\nBachelor's, Fieldview University, 2010\n• Completed coursework in tree data structures\n• Completed coursework in web development basics"
+}

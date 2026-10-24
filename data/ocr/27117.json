@@ -1,0 +1,200 @@
+{
+  "id": "27117",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.882,
+  "n_lines": 14,
+  "mean_score": 0.9841,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SAMANTHA BOYLE",
+      "score": 0.9797,
+      "box": [
+        116,
+        90,
+        434,
+        120
+      ]
+    },
+    {
+      "text": "MI, USA|+1-364-881-2603 |samantha.boyle@example.com",
+      "score": 0.9828,
+      "box": [
+        115,
+        150,
+        683,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.988,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Start School, 2020.03–2023.01",
+      "score": 0.9825,
+      "box": [
+        115,
+        289,
+        798,
+        313
+      ]
+    },
+    {
+      "text": "- Developed instructional innovation plans",
+      "score": 0.9938,
+      "box": [
+        126,
+        315,
+        516,
+        338
+      ]
+    },
+    {
+      "text": "- Developed long-term instructional strategies",
+      "score": 0.9852,
+      "box": [
+        126,
+        339,
+        550,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Learning School, 2017.04–2020.03",
+      "score": 0.976,
+      "box": [
+        115,
+        381,
+        848,
+        406
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.9924,
+      "box": [
+        125,
+        406,
+        413,
+        432
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9741,
+      "box": [
+        127,
+        432,
+        395,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Educational Practice, Brookhaven University, 2015",
+      "score": 0.9756,
+      "box": [
+        115,
+        541,
+        676,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Elementary Education Preparation, Greenridge University, 2013",
+      "score": 0.9776,
+      "box": [
+        114,
+        565,
+        815,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom assessment techniques",
+      "score": 0.9937,
+      "box": [
+        133,
+        590,
+        708,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of early math instruction",
+      "score": 0.978,
+      "box": [
+        133,
+        614,
+        578,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "SAMANTHA BOYLE\nMI, USA|+1-364-881-2603 |samantha.boyle@example.com\nWORK HISTORY\nElementary Middle School Teachers, Kind Start School, 2020.03–2023.01\n- Developed instructional innovation plans\n- Developed long-term instructional strategies\nElementary Middle School Teachers, Bright Learning School, 2017.04–2020.03\n- Administered learning games\n- Collected permission forms\nEDUCATION\nMaster's, Educational Practice, Brookhaven University, 2015\nBachelor's, Elementary Education Preparation, Greenridge University, 2013\n• Completed coursework in classroom assessment techniques\n• Studied fundamentals of early math instruction"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "46649",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.814,
+  "n_lines": 16,
+  "mean_score": 0.9835,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SAMANTHA BURNS",
+      "score": 0.9733,
+      "box": [
+        116,
+        90,
+        438,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-977-334-7089|samantha.burns@example.com",
+      "score": 0.9906,
+      "box": [
+        115,
+        150,
+        690,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Codewave Tech, 2021.01–2023.01",
+      "score": 0.9917,
+      "box": [
+        115,
+        288,
+        645,
+        313
+      ]
+    },
+    {
+      "text": "- Designed Cl/CD frameworks",
+      "score": 0.97,
+      "box": [
+        126,
+        315,
+        407,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.979,
+      "box": [
+        126,
+        339,
+        538,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Software, 2019.01–2021.01",
+      "score": 0.9948,
+      "box": [
+        116,
+        382,
+        677,
+        405
+      ]
+    },
+    {
+      "text": "- Improved memory usage",
+      "score": 0.989,
+      "box": [
+        126,
+        406,
+        374,
+        433
+      ]
+    },
+    {
+      "text": "- Reviewed pull requests",
+      "score": 0.9908,
+      "box": [
+        126,
+        430,
+        358,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Stonegrid Tech, 2016.12–2019.01",
+      "score": 0.9866,
+      "box": [
+        115,
+        471,
+        636,
+        496
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.981,
+      "box": [
+        125,
+        496,
+        495,
+        522
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.979,
+      "box": [
+        126,
+        521,
+        399,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Willow Ridge University, 2017",
+      "score": 0.9577,
+      "box": [
+        115,
+        632,
+        502,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in probability and statistics",
+      "score": 0.9835,
+      "box": [
+        133,
+        658,
+        611,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in computer graphics basics",
+      "score": 0.9878,
+      "box": [
+        134,
+        682,
+        624,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "SAMANTHA BURNS\nPA, USA|+1-977-334-7089|samantha.burns@example.com\nWORK HISTORY\nSoftware Developers, Codewave Tech, 2021.01–2023.01\n- Designed Cl/CD frameworks\n- Implemented long-term maintenance plans\nSoftware Developers, Corewave Software, 2019.01–2021.01\n- Improved memory usage\n- Reviewed pull requests\nSoftware Developers, Stonegrid Tech, 2016.12–2019.01\n- Performed basic performance profiling\n- Wrote configuration parsers\nEDUCATION\nBachelor's, Willow Ridge University, 2017\n• Completed coursework in probability and statistics\n• Completed coursework in computer graphics basics"
+}

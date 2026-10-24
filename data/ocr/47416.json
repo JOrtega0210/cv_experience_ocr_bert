@@ -1,0 +1,226 @@
+{
+  "id": "47416",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.825,
+  "n_lines": 16,
+  "mean_score": 0.9841,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JESSICA SIMS",
+      "score": 0.9854,
+      "box": [
+        116,
+        90,
+        353,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-645-958-7620 |jessica.sims@example.com",
+      "score": 0.9715,
+      "box": [
+        116,
+        151,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9871,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeBridge Health Group, 2020.12–2023.01",
+      "score": 0.9721,
+      "box": [
+        115,
+        289,
+        707,
+        314
+      ]
+    },
+    {
+      "text": "- Developed patient safety metrics",
+      "score": 0.9791,
+      "box": [
+        127,
+        315,
+        445,
+        338
+      ]
+    },
+    {
+      "text": "- Developed nursing policy frameworks",
+      "score": 0.9669,
+      "box": [
+        126,
+        339,
+        488,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenWay Care Services, 2018.01–2020.02",
+      "score": 0.9878,
+      "box": [
+        115,
+        381,
+        705,
+        406
+      ]
+    },
+    {
+      "text": "- Performed patient triage",
+      "score": 0.9827,
+      "box": [
+        125,
+        405,
+        367,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with emergency interventions",
+      "score": 0.9861,
+      "box": [
+        126,
+        431,
+        497,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverPath Health Center, 2015.06–2017.07",
+      "score": 0.9814,
+      "box": [
+        115,
+        471,
+        696,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with hygiene care",
+      "score": 0.9826,
+      "box": [
+        125,
+        496,
+        391,
+        522
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9912,
+      "box": [
+        126,
+        521,
+        399,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Information Management, Seabreeze University, 03",
+      "score": 0.9912,
+      "box": [
+        114,
+        631,
+        792,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of adverse drug reactions",
+      "score": 0.9898,
+      "box": [
+        132,
+        656,
+        555,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical audits basics",
+      "score": 0.9921,
+      "box": [
+        136,
+        684,
+        577,
+        704
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JESSICA SIMS\nSC, USA|+1-645-958-7620 |jessica.sims@example.com\nWORK HISTORY\nRegistered Nurses, SafeBridge Health Group, 2020.12–2023.01\n- Developed patient safety metrics\n- Developed nursing policy frameworks\nRegistered Nurses, OpenWay Care Services, 2018.01–2020.02\n- Performed patient triage\n- Assisted with emergency interventions\nRegistered Nurses, EverPath Health Center, 2015.06–2017.07\n- Assisted with hygiene care\n- Recorded patient vital signs\nEDUCATION\nBachelor's, Health Information Management, Seabreeze University, 03\n• Studied principles of adverse drug reactions\n• Completed coursework in clinical audits basics"
+}

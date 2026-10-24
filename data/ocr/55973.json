@@ -1,0 +1,148 @@
+{
+  "id": "55973",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.755,
+  "n_lines": 10,
+  "mean_score": 0.9872,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ISAAC NEWMAN",
+      "score": 0.9904,
+      "box": [
+        115,
+        90,
+        386,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-902-200-2181 |isaac.newman@example.com",
+      "score": 0.9834,
+      "box": [
+        114,
+        150,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, EverRise Construction, 2020.05–2023.01",
+      "score": 0.9852,
+      "box": [
+        115,
+        290,
+        715,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9823,
+      "box": [
+        126,
+        315,
+        425,
+        338
+      ]
+    },
+    {
+      "text": "- Set up ladders and basic scaffolding",
+      "score": 0.9906,
+      "box": [
+        126,
+        339,
+        476,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Quality Control, Stonecrest University, 2020",
+      "score": 0.9839,
+      "box": [
+        116,
+        449,
+        896,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic structural demolition",
+      "score": 0.9806,
+      "box": [
+        132,
+        472,
+        631,
+        496
+      ]
+    },
+    {
+      "text": "• Studied principles of site drainage",
+      "score": 0.9926,
+      "box": [
+        133,
+        497,
+        462,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ISAAC NEWMAN\nVA, USA|+1-902-200-2181 |isaac.newman@example.com\nWORK HISTORY\nConstruction Laborers, EverRise Construction, 2020.05–2023.01\n- Assisted with excavation tasks\n- Set up ladders and basic scaffolding\nEDUCATION\nSome college (no degree), Construction Quality Control, Stonecrest University, 2020\n• Completed coursework in basic structural demolition\n• Studied principles of site drainage"
+}

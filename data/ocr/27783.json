@@ -1,0 +1,187 @@
+{
+  "id": "27783",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.817,
+  "n_lines": 13,
+  "mean_score": 0.9806,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MORGAN MULLINS",
+      "score": 0.9928,
+      "box": [
+        116,
+        90,
+        428,
+        120
+      ]
+    },
+    {
+      "text": "MI, USA|+1-611-426-3372|morgan.mullins@example.com",
+      "score": 0.9784,
+      "box": [
+        116,
+        152,
+        677,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9799,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeSpring Medical Services, 2021.03–2023.01",
+      "score": 0.9923,
+      "box": [
+        116,
+        290,
+        732,
+        313
+      ]
+    },
+    {
+      "text": "- Directed patient care coordination",
+      "score": 0.9752,
+      "box": [
+        126,
+        315,
+        454,
+        338
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9628,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, TruePath Nursing, 2018.03–2020.02",
+      "score": 0.9838,
+      "box": [
+        116,
+        382,
+        639,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9822,
+      "box": [
+        125,
+        406,
+        372,
+        431
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9822,
+      "box": [
+        125,
+        430,
+        365,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Care Studies, Windermere University, 2011",
+      "score": 0.9707,
+      "box": [
+        116,
+        541,
+        771,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient advocacy",
+      "score": 0.9781,
+      "box": [
+        132,
+        564,
+        536,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of health disparities",
+      "score": 0.9713,
+      "box": [
+        133,
+        591,
+        536,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "MORGAN MULLINS\nMI, USA|+1-611-426-3372|morgan.mullins@example.com\nWORK HISTORY\nRegistered Nurses, LifeSpring Medical Services, 2021.03–2023.01\n- Directed patient care coordination\n- Directed nursing process improvements\nRegistered Nurses, TruePath Nursing, 2018.03–2020.02\n- Prepared sterile supplies\n- Recorded nursing notes\nEDUCATION\nAssociate's degree, Health Care Studies, Windermere University, 2011\n• Studied fundamentals of patient advocacy\n• Studied fundamentals of health disparities"
+}

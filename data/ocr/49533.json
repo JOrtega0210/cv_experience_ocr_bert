@@ -1,0 +1,174 @@
+{
+  "id": "49533",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.815,
+  "n_lines": 12,
+  "mean_score": 0.9815,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TROY DECKER",
+      "score": 0.9563,
+      "box": [
+        115,
+        90,
+        361,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-216-428-6095|troy.decker@example.com",
+      "score": 0.9774,
+      "box": [
+        115,
+        150,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9787,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerStonecraft, 2019.06–2021.12",
+      "score": 0.9898,
+      "box": [
+        115,
+        289,
+        667,
+        312
+      ]
+    },
+    {
+      "text": "- Implemented workflow optimization",
+      "score": 0.9775,
+      "box": [
+        127,
+        315,
+        467,
+        338
+      ]
+    },
+    {
+      "text": "- Managed subcontractor coordination",
+      "score": 0.9816,
+      "box": [
+        126,
+        339,
+        481,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, Hardrock Builders, 2016.03–2018.10",
+      "score": 0.9879,
+      "box": [
+        115,
+        381,
+        674,
+        405
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9876,
+      "box": [
+        125,
+        406,
+        489,
+        431
+      ]
+    },
+    {
+      "text": "- Checked inventory of supplies",
+      "score": 0.9837,
+      "box": [
+        126,
+        430,
+        421,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Carpentry, Goldenwood High School, 2011",
+      "score": 0.9874,
+      "box": [
+        116,
+        541,
+        773,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of insulation techniques",
+      "score": 0.9716,
+      "box": [
+        134,
+        566,
+        537,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "TROY DECKER\nTN, USA|+1-216-428-6095|troy.decker@example.com\nWORK HISTORY\nConstruction Laborers, CornerStonecraft, 2019.06–2021.12\n- Implemented workflow optimization\n- Managed subcontractor coordination\nConstruction Laborers, Hardrock Builders, 2016.03–2018.10\n- Performed basic plumbing assistance\n- Checked inventory of supplies\nEDUCATION\nHigh school graduate/GED, Carpentry, Goldenwood High School, 2011\n• Studied principles of insulation techniques"
+}

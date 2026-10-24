@@ -1,0 +1,226 @@
+{
+  "id": "61065",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.88,
+  "n_lines": 16,
+  "mean_score": 0.9797,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KAYLEE MURPHY",
+      "score": 0.9721,
+      "box": [
+        116,
+        90,
+        409,
+        120
+      ]
+    },
+    {
+      "text": "WI, USA|+1-968-693-1492|kaylee.murphy@example.com",
+      "score": 0.981,
+      "box": [
+        115,
+        150,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.981,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Sunrise Health Services, 2020.02–2023.01",
+      "score": 0.9876,
+      "box": [
+        116,
+        290,
+        697,
+        313
+      ]
+    },
+    {
+      "text": "- Established clinical best practices",
+      "score": 0.9666,
+      "box": [
+        125,
+        313,
+        453,
+        338
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.9706,
+      "box": [
+        127,
+        339,
+        458,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenPath Nursing Services, 2017.03–2020.02",
+      "score": 0.9875,
+      "box": [
+        115,
+        381,
+        733,
+        406
+      ]
+    },
+    {
+      "text": "- Provided perioperative nursing care",
+      "score": 0.9676,
+      "box": [
+        126,
+        406,
+        472,
+        431
+      ]
+    },
+    {
+      "text": "- Coordinated interdisciplinary care",
+      "score": 0.9951,
+      "box": [
+        126,
+        430,
+        452,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueCare Nursing, 2014.03–2017.03",
+      "score": 0.9811,
+      "box": [
+        116,
+        472,
+        640,
+        496
+      ]
+    },
+    {
+      "text": "- Conducted basic patient assessments",
+      "score": 0.9806,
+      "box": [
+        125,
+        496,
+        493,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared discharge instructions",
+      "score": 0.9662,
+      "box": [
+        126,
+        521,
+        436,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Technology, Crestwood University, 2018",
+      "score": 0.9808,
+      "box": [
+        114,
+        630,
+        666,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of public health nursing",
+      "score": 0.973,
+      "box": [
+        132,
+        656,
+        571,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in sterile technique",
+      "score": 0.9854,
+      "box": [
+        135,
+        683,
+        541,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "KAYLEE MURPHY\nWI, USA|+1-968-693-1492|kaylee.murphy@example.com\nWORK HISTORY\nRegistered Nurses, Sunrise Health Services, 2020.02–2023.01\n- Established clinical best practices\n- Developed patient care algorithms\nRegistered Nurses, OpenPath Nursing Services, 2017.03–2020.02\n- Provided perioperative nursing care\n- Coordinated interdisciplinary care\nRegistered Nurses, TrueCare Nursing, 2014.03–2017.03\n- Conducted basic patient assessments\n- Prepared discharge instructions\nEDUCATION\nBachelor's, Health Technology, Crestwood University, 2018\n• Studied fundamentals of public health nursing\n• Completed coursework in sterile technique"
+}

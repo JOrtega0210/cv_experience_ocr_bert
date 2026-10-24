@@ -1,0 +1,187 @@
+{
+  "id": "05593",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.927,
+  "n_lines": 13,
+  "mean_score": 0.9841,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ARIELLAM",
+      "score": 0.9978,
+      "box": [
+        115,
+        88,
+        301,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-486-469-7629 |ariel.lam@example.com",
+      "score": 0.977,
+      "box": [
+        116,
+        151,
+        620,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Financial Group, 2019.09–2021.11",
+      "score": 0.9815,
+      "box": [
+        114,
+        289,
+        807,
+        313
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.9844,
+      "box": [
+        125,
+        313,
+        434,
+        338
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9779,
+      "box": [
+        126,
+        338,
+        477,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Advisors, 2016.03–2018.05",
+      "score": 0.9853,
+      "box": [
+        115,
+        382,
+        710,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained supporting documentation",
+      "score": 0.9625,
+      "box": [
+        125,
+        406,
+        490,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared supporting schedules",
+      "score": 0.9814,
+      "box": [
+        127,
+        432,
+        431,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Enterprise Management, Brighton University, 2013",
+      "score": 0.9846,
+      "box": [
+        114,
+        539,
+        693,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in expense cycle management",
+      "score": 0.9908,
+      "box": [
+        133,
+        565,
+        650,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit reporting",
+      "score": 0.9882,
+      "box": [
+        133,
+        590,
+        523,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ARIELLAM\nCA, USA|+1-486-469-7629 |ariel.lam@example.com\nWORK HISTORY\nAccountants Auditors, Reliable Balance Financial Group, 2019.09–2021.11\n- Established accounting policies\n- Established financial quality controls\nAccountants Auditors, Reliable Path Advisors, 2016.03–2018.05\n- Maintained supporting documentation\n- Prepared supporting schedules\nEDUCATION\nBachelor's, Enterprise Management, Brighton University, 2013\n• Completed coursework in expense cycle management\n• Completed coursework in audit reporting"
+}

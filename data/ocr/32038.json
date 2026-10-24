@@ -1,0 +1,265 @@
+{
+  "id": "32038",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.868,
+  "n_lines": 19,
+  "mean_score": 0.9761,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DAVID VANG",
+      "score": 0.9492,
+      "box": [
+        116,
+        90,
+        328,
+        121
+      ]
+    },
+    {
+      "text": "NV, USA|+1-846-677-4541|david.vang@example.com",
+      "score": 0.9905,
+      "box": [
+        115,
+        150,
+        642,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9828,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Datacrest Software, 2019.08–2023.01",
+      "score": 0.9817,
+      "box": [
+        114,
+        289,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9668,
+      "box": [
+        125,
+        314,
+        447,
+        339
+      ]
+    },
+    {
+      "text": "- Designed logging infrastructures",
+      "score": 0.9819,
+      "box": [
+        126,
+        339,
+        443,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightfield Digital, 2016.02–2019.08",
+      "score": 0.9665,
+      "box": [
+        115,
+        381,
+        653,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented release management strategies",
+      "score": 0.9826,
+      "box": [
+        126,
+        406,
+        561,
+        432
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.9778,
+      "box": [
+        125,
+        430,
+        395,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Brightpoint Systems, 2010.08–2014.02",
+      "score": 0.9823,
+      "box": [
+        115,
+        471,
+        682,
+        496
+      ]
+    },
+    {
+      "text": "- Integrated third-party services",
+      "score": 0.966,
+      "box": [
+        126,
+        498,
+        419,
+        521
+      ]
+    },
+    {
+      "text": "- Built frontend components",
+      "score": 0.9665,
+      "box": [
+        125,
+        521,
+        385,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Digital, 2006.03–2009.09",
+      "score": 0.9612,
+      "box": [
+        116,
+        564,
+        625,
+        588
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9917,
+      "box": [
+        125,
+        588,
+        340,
+        615
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.974,
+      "box": [
+        127,
+        616,
+        346,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Oakway University, 2004",
+      "score": 0.9817,
+      "box": [
+        115,
+        725,
+        456,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in exception management",
+      "score": 0.9628,
+      "box": [
+        132,
+        748,
+        608,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of computational thinking",
+      "score": 0.9803,
+      "box": [
+        134,
+        774,
+        549,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "DAVID VANG\nNV, USA|+1-846-677-4541|david.vang@example.com\nWORK HISTORY\nSoftware Developers, Datacrest Software, 2019.08–2023.01\n- Designed caching infrastructures\n- Designed logging infrastructures\nSoftware Developers, Brightfield Digital, 2016.02–2019.08\n- Implemented release management strategies\n- Designed scalable services\nSoftware Developers, Brightpoint Systems, 2010.08–2014.02\n- Integrated third-party services\n- Built frontend components\nSoftware Developers, Netline Digital, 2006.03–2009.09\n- Updated routing logic\n- Created test data sets\nEDUCATION\nBachelor's, Oakway University, 2004\n• Completed coursework in exception management\n• Studied principles of computational thinking"
+}

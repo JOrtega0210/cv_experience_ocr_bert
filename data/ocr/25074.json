@@ -1,0 +1,148 @@
+{
+  "id": "25074",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.752,
+  "n_lines": 10,
+  "mean_score": 0.9811,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DONALD MASON",
+      "score": 0.9694,
+      "box": [
+        116,
+        90,
+        395,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-958-719-2326 |donald.mason@example.com",
+      "score": 0.9867,
+      "box": [
+        115,
+        150,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9762,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Group, 2020.08–2023.01",
+      "score": 0.983,
+      "box": [
+        115,
+        289,
+        672,
+        312
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9693,
+      "box": [
+        126,
+        314,
+        483,
+        338
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9734,
+      "box": [
+        126,
+        339,
+        426,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Trades, Greenfield University, 2023",
+      "score": 0.9843,
+      "box": [
+        115,
+        447,
+        777,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in concrete basics",
+      "score": 0.9816,
+      "box": [
+        132,
+        472,
+        535,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural anchoring",
+      "score": 0.9883,
+      "box": [
+        134,
+        499,
+        572,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "DONALD MASON\nMA, USA|+1-958-719-2326 |donald.mason@example.com\nWORK HISTORY\nConstruction Laborers, Allied Build Group, 2020.08–2023.01\n- Maintained cleanliness of work areas\n- Prepared scaffolding platforms\nEDUCATION\nSome college (no degree), Building Trades, Greenfield University, 2023\n• Completed coursework in concrete basics\n• Completed coursework in structural anchoring"
+}

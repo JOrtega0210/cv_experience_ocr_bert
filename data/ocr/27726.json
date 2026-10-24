@@ -1,0 +1,148 @@
+{
+  "id": "27726",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.774,
+  "n_lines": 10,
+  "mean_score": 0.9829,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TAELORWARNER",
+      "score": 0.9991,
+      "box": [
+        114,
+        90,
+        415,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-869-907-5793|taelor.warner@example.com",
+      "score": 0.9762,
+      "box": [
+        116,
+        152,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9803,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Path School, 2017.12–2020.06",
+      "score": 0.9744,
+      "box": [
+        115,
+        290,
+        800,
+        313
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9761,
+      "box": [
+        127,
+        315,
+        395,
+        338
+      ]
+    },
+    {
+      "text": "- Supported individual student learning activities",
+      "score": 0.9823,
+      "box": [
+        126,
+        339,
+        572,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Studies, Greenway University, 2012",
+      "score": 0.9638,
+      "box": [
+        115,
+        449,
+        612,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional feedback",
+      "score": 0.9966,
+      "box": [
+        133,
+        473,
+        581,
+        495
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of teaching strategy selection",
+      "score": 0.9824,
+      "box": [
+        132,
+        497,
+        625,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "TAELORWARNER\nMI, USA|+1-869-907-5793|taelor.warner@example.com\nWORK HISTORY\nElementary Middle School Teachers, Little Path School, 2017.12–2020.06\n- Collected permission forms\n- Supported individual student learning activities\nEDUCATION\nBachelor's, Child Studies, Greenway University, 2012\n• Studied fundamentals of instructional feedback\n• Studied fundamentals of teaching strategy selection"
+}

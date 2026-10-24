@@ -1,0 +1,200 @@
+{
+  "id": "11577",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.954,
+  "n_lines": 14,
+  "mean_score": 0.982,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ENRIQUE DOUGHERTY",
+      "score": 0.994,
+      "box": [
+        117,
+        90,
+        493,
+        120
+      ]
+    },
+    {
+      "text": "DE, USA|+1-639-729-1356 |enrique.dougherty@example.com",
+      "score": 0.9856,
+      "box": [
+        117,
+        151,
+        709,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9801,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Group, 2021.05–2023.01",
+      "score": 0.9778,
+      "box": [
+        115,
+        289,
+        729,
+        313
+      ]
+    },
+    {
+      "text": "- Managed consolidation processes",
+      "score": 0.9858,
+      "box": [
+        126,
+        314,
+        458,
+        339
+      ]
+    },
+    {
+      "text": "- Established audit governance structures",
+      "score": 0.9917,
+      "box": [
+        126,
+        339,
+        513,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Financial, 2019.09–2021.05",
+      "score": 0.9844,
+      "box": [
+        114,
+        381,
+        693,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.9848,
+      "box": [
+        126,
+        406,
+        436,
+        431
+      ]
+    },
+    {
+      "text": "- Maintained chart of accounts",
+      "score": 0.9628,
+      "box": [
+        126,
+        431,
+        409,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Accounting Information Systems, Silverwood University, 2018",
+      "score": 0.982,
+      "box": [
+        115,
+        541,
+        776,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Management, Windridge University, 2016",
+      "score": 0.9816,
+      "box": [
+        115,
+        566,
+        698,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in capital budgeting",
+      "score": 0.9788,
+      "box": [
+        134,
+        590,
+        547,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of governmental auditting",
+      "score": 0.9598,
+      "box": [
+        133,
+        613,
+        584,
+        641
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "ENRIQUE DOUGHERTY\nDE, USA|+1-639-729-1356 |enrique.dougherty@example.com\nWORK HISTORY\nAccountants Auditors, Reliable Accounts Group, 2021.05–2023.01\n- Managed consolidation processes\n- Established audit governance structures\nAccountants Auditors, TrustCount Financial, 2019.09–2021.05\n- Prepared basic financial reports\n- Maintained chart of accounts\nEDUCATION\nMaster's, Accounting Information Systems, Silverwood University, 2018\nBachelor's, Financial Management, Windridge University, 2016\n• Completed coursework in capital budgeting\n• Studied fundamentals of governmental auditting"
+}

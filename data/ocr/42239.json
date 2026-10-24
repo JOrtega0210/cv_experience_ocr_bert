@@ -1,0 +1,187 @@
+{
+  "id": "42239",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.821,
+  "n_lines": 13,
+  "mean_score": 0.9748,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RYDER PORTER",
+      "score": 0.9744,
+      "box": [
+        116,
+        90,
+        384,
+        121
+      ]
+    },
+    {
+      "text": "OH, USA |+1-370-773-1991 |ryder.porter@example.com",
+      "score": 0.9776,
+      "box": [
+        117,
+        151,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9834,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Group, 2020.11–2023.01",
+      "score": 0.9897,
+      "box": [
+        115,
+        289,
+        669,
+        313
+      ]
+    },
+    {
+      "text": "- Designed financial modeling standards",
+      "score": 0.9667,
+      "box": [
+        127,
+        315,
+        501,
+        338
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9702,
+      "box": [
+        126,
+        339,
+        518,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Group, 2018.08–2020.11",
+      "score": 0.9883,
+      "box": [
+        115,
+        381,
+        675,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9903,
+      "box": [
+        126,
+        406,
+        456,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.9561,
+      "box": [
+        126,
+        430,
+        436,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Strategic Management, Havenwood University, 2022",
+      "score": 0.9773,
+      "box": [
+        114,
+        539,
+        713,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in supply chain accounting",
+      "score": 0.9728,
+      "box": [
+        134,
+        566,
+        612,
+        590
+      ]
+    },
+    {
+      "text": "•Completed coursework in financial data interpretation",
+      "score": 0.9278,
+      "box": [
+        133,
+        590,
+        638,
+        613
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "RYDER PORTER\nOH, USA |+1-370-773-1991 |ryder.porter@example.com\nWORK HISTORY\nAccountants Auditors, ClearBooks Group, 2020.11–2023.01\n- Designed financial modeling standards\n- Established financial reporting standards\nAccountants Auditors, TrustLedger Group, 2018.08–2020.11\n- Assisted with tax form preparation\n- Prepared basic financial reports\nEDUCATION\nBachelor's, Strategic Management, Havenwood University, 2022\n• Completed coursework in supply chain accounting\n•Completed coursework in financial data interpretation"
+}

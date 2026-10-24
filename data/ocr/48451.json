@@ -1,0 +1,148 @@
+{
+  "id": "48451",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.769,
+  "n_lines": 10,
+  "mean_score": 0.9813,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RACHEL KEMP",
+      "score": 0.9698,
+      "box": [
+        116,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-584-497-5953 |rachel.kemp@example.com",
+      "score": 0.9804,
+      "box": [
+        115,
+        150,
+        654,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Oak Learning, 2020.04–2023.01",
+      "score": 0.966,
+      "box": [
+        116,
+        290,
+        811,
+        313
+      ]
+    },
+    {
+      "text": "- Updated student performance logs",
+      "score": 0.9796,
+      "box": [
+        127,
+        316,
+        462,
+        339
+      ]
+    },
+    {
+      "text": "- Administered quizzes and short assessments",
+      "score": 0.9881,
+      "box": [
+        126,
+        339,
+        562,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Youth Development, Canyon View University, 2022",
+      "score": 0.9728,
+      "box": [
+        114,
+        447,
+        699,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of behavior management",
+      "score": 0.9886,
+      "box": [
+        132,
+        472,
+        551,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in child development fundamentals",
+      "score": 0.9876,
+      "box": [
+        134,
+        499,
+        689,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "RACHEL KEMP\nTN, USA|+1-584-497-5953 |rachel.kemp@example.com\nWORK HISTORY\nElementary Middle School Teachers, Little Oak Learning, 2020.04–2023.01\n- Updated student performance logs\n- Administered quizzes and short assessments\nEDUCATION\nBachelor's, Youth Development, Canyon View University, 2022\n• Studied principles of behavior management\n• Completed coursework in child development fundamentals"
+}

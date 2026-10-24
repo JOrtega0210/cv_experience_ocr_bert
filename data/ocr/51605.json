@@ -1,0 +1,252 @@
+{
+  "id": "51605",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.922,
+  "n_lines": 18,
+  "mean_score": 0.9793,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CORBAN CONRAD",
+      "score": 0.9685,
+      "box": [
+        116,
+        88,
+        422,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA|+1-545-943-2812|corban.conrad@example.com",
+      "score": 0.9779,
+      "box": [
+        115,
+        150,
+        672,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardFrame Builders, 2020.07–2023.01",
+      "score": 0.9835,
+      "box": [
+        115,
+        289,
+        693,
+        312
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.963,
+      "box": [
+        127,
+        314,
+        463,
+        337
+      ]
+    },
+    {
+      "text": "- Directed project execution strategies",
+      "score": 0.9767,
+      "box": [
+        126,
+        339,
+        480,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidRise Construction, 2018.01–2020.7",
+      "score": 0.9904,
+      "box": [
+        115,
+        381,
+        720,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed workflow efficiency reports",
+      "score": 0.9753,
+      "box": [
+        125,
+        405,
+        484,
+        431
+      ]
+    },
+    {
+      "text": "- Directed equipment operations",
+      "score": 0.9834,
+      "box": [
+        125,
+        430,
+        427,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardTrack Builders, 2014.06–2016.12",
+      "score": 0.9642,
+      "box": [
+        115,
+        472,
+        688,
+        495
+      ]
+    },
+    {
+      "text": "-Monitored safety compliance",
+      "score": 0.9709,
+      "box": [
+        125,
+        496,
+        409,
+        521
+      ]
+    },
+    {
+      "text": "- Installed drywall systems",
+      "score": 0.9849,
+      "box": [
+        125,
+        521,
+        374,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, Foundation Force, 2010.06–2013.01",
+      "score": 0.983,
+      "box": [
+        115,
+        564,
+        670,
+        587
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9686,
+      "box": [
+        126,
+        590,
+        439,
+        613
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.9853,
+      "box": [
+        126,
+        614,
+        404,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Systems, Maplewood High School, 2006",
+      "score": 0.988,
+      "box": [
+        116,
+        725,
+        831,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of power tool operation",
+      "score": 0.9797,
+      "box": [
+        132,
+        747,
+        568,
+        772
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "CORBAN CONRAD\nTX, USA|+1-545-943-2812|corban.conrad@example.com\nWORK HISTORY\nConstruction Laborers, HardFrame Builders, 2020.07–2023.01\n- Designed site logistics frameworks\n- Directed project execution strategies\nConstruction Laborers, SolidRise Construction, 2018.01–2020.7\n- Reviewed workflow efficiency reports\n- Directed equipment operations\nConstruction Laborers, HardTrack Builders, 2014.06–2016.12\n-Monitored safety compliance\n- Installed drywall systems\nConstruction Laborers, Foundation Force, 2010.06–2013.01\n- Helped position heavy materials\n- Installed insulation materials\nEDUCATION\nHigh school graduate/GED, Building Systems, Maplewood High School, 2006\n• Studied fundamentals of power tool operation"
+}

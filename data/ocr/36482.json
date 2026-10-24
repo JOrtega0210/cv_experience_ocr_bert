@@ -1,0 +1,265 @@
+{
+  "id": "36482",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.917,
+  "n_lines": 19,
+  "mean_score": 0.9805,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ERICA SHAH",
+      "score": 0.9613,
+      "box": [
+        115,
+        88,
+        328,
+        122
+      ]
+    },
+    {
+      "text": "NY, USA|+1-506-443-6543|erica.shah@example.com",
+      "score": 0.9675,
+      "box": [
+        115,
+        150,
+        637,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Financial, 2020.06–2023.01",
+      "score": 0.9885,
+      "box": [
+        115,
+        290,
+        712,
+        313
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9786,
+      "box": [
+        126,
+        314,
+        489,
+        337
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9623,
+      "box": [
+        126,
+        338,
+        518,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Services, 2017.11–2020.06",
+      "score": 0.987,
+      "box": [
+        115,
+        381,
+        721,
+        406
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9817,
+      "box": [
+        127,
+        407,
+        490,
+        430
+      ]
+    },
+    {
+      "text": "- Directed financial reporting processes",
+      "score": 0.9708,
+      "box": [
+        126,
+        431,
+        491,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Group, 2015.03–2017.11",
+      "score": 0.9786,
+      "box": [
+        115,
+        472,
+        666,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed financial disclosures",
+      "score": 0.9813,
+      "box": [
+        125,
+        496,
+        428,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed expense allocations",
+      "score": 0.9939,
+      "box": [
+        126,
+        521,
+        424,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Advisors, 2012.07–2015.03",
+      "score": 0.996,
+      "box": [
+        115,
+        565,
+        712,
+        588
+      ]
+    },
+    {
+      "text": "- Maintained chart of accounts",
+      "score": 0.9791,
+      "box": [
+        124,
+        588,
+        410,
+        613
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.9628,
+      "box": [
+        126,
+        613,
+        384,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Management, Goldenview University, 2012",
+      "score": 0.9795,
+      "box": [
+        114,
+        723,
+        715,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in mergers and acquisitions basics",
+      "score": 0.9885,
+      "box": [
+        134,
+        749,
+        686,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in capital budgeting",
+      "score": 0.9872,
+      "box": [
+        134,
+        772,
+        547,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "ERICA SHAH\nNY, USA|+1-506-443-6543|erica.shah@example.com\nWORK HISTORY\nAccountants Auditors, Reliable Path Financial, 2020.06–2023.01\n- Directed financial system architecture\n- Established financial reporting standards\nAccountants Auditors, Integrity Count Services, 2017.11–2020.06\n- Directed financial system architecture\n- Directed financial reporting processes\nAccountants Auditors, TrustCount Group, 2015.03–2017.11\n- Reviewed financial disclosures\n- Reviewed expense allocations\nAccountants Auditors, ClearBalance Advisors, 2012.07–2015.03\n- Maintained chart of accounts\n- Prepared variance reports\nEDUCATION\nBachelor's, Business Management, Goldenview University, 2012\n• Completed coursework in mergers and acquisitions basics\n• Completed coursework in capital budgeting"
+}

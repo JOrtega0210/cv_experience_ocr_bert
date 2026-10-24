@@ -1,0 +1,187 @@
+{
+  "id": "01572",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.984,
+  "n_lines": 13,
+  "mean_score": 0.9852,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSEPH HAIL",
+      "score": 0.9943,
+      "box": [
+        116,
+        90,
+        341,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-885-534-1133|joseph.hail@example.com",
+      "score": 0.9763,
+      "box": [
+        115,
+        151,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9829,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, SunnySteps School, 2020.11–2023.01",
+      "score": 0.9648,
+      "box": [
+        116,
+        290,
+        818,
+        313
+      ]
+    },
+    {
+      "text": "- Developed system-wide assessment tools",
+      "score": 0.9862,
+      "box": [
+        125,
+        314,
+        531,
+        339
+      ]
+    },
+    {
+      "text": "- Designed performance monitoring systems",
+      "score": 0.9933,
+      "box": [
+        126,
+        339,
+        538,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Learning Center, 2016.08–2018.11",
+      "score": 0.9903,
+      "box": [
+        115,
+        381,
+        876,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9804,
+      "box": [
+        126,
+        406,
+        496,
+        431
+      ]
+    },
+    {
+      "text": "- Updated student performance logs",
+      "score": 0.9884,
+      "box": [
+        126,
+        431,
+        462,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Assistance, Stonebrook University, 2014",
+      "score": 0.9809,
+      "box": [
+        114,
+        539,
+        716,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of learning assessment",
+      "score": 0.9865,
+      "box": [
+        132,
+        564,
+        572,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic monitoring strategies",
+      "score": 0.9853,
+      "box": [
+        134,
+        590,
+        678,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JOSEPH HAIL\nAZ, USA|+1-885-534-1133|joseph.hail@example.com\nWORK HISTORY\nElementary Middle School Teachers, SunnySteps School, 2020.11–2023.01\n- Developed system-wide assessment tools\n- Designed performance monitoring systems\nElementary Middle School Teachers, Harmony Learning Center, 2016.08–2018.11\n- Implemented lesson pacing guidelines\n- Updated student performance logs\nEDUCATION\nBachelor's, Educational Assistance, Stonebrook University, 2014\n• Studied fundamentals of learning assessment\n• Completed coursework in academic monitoring strategies"
+}

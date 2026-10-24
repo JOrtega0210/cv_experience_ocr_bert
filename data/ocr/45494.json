@@ -1,0 +1,213 @@
+{
+  "id": "45494",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.854,
+  "n_lines": 15,
+  "mean_score": 0.982,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARQUIS CANNON",
+      "score": 0.9763,
+      "box": [
+        116,
+        90,
+        431,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-359-976-7447 |marquis.cannon@example.com",
+      "score": 0.977,
+      "box": [
+        115,
+        150,
+        689,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9814,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidPoint Construction, 2019.12–2023.01",
+      "score": 0.9858,
+      "box": [
+        115,
+        290,
+        724,
+        313
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9726,
+      "box": [
+        127,
+        315,
+        458,
+        338
+      ]
+    },
+    {
+      "text": "- Directed installation methodologies",
+      "score": 0.9731,
+      "box": [
+        126,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftFrame Builders, 2016.11–2019.12",
+      "score": 0.9921,
+      "box": [
+        116,
+        382,
+        695,
+        405
+      ]
+    },
+    {
+      "text": "- Installed framing components",
+      "score": 0.9847,
+      "box": [
+        125,
+        406,
+        415,
+        431
+      ]
+    },
+    {
+      "text": "- Supervised demolition tasks",
+      "score": 0.9747,
+      "box": [
+        126,
+        430,
+        403,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyRise Contractors, 2010.12–2014.02",
+      "score": 0.9908,
+      "box": [
+        115,
+        471,
+        729,
+        496
+      ]
+    },
+    {
+      "text": "- Checked inventory of supplies",
+      "score": 0.974,
+      "box": [
+        125,
+        496,
+        422,
+        521
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9826,
+      "box": [
+        126,
+        521,
+        491,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Facilities Maintenance, Larkspur High School, 2008",
+      "score": 0.9868,
+      "box": [
+        116,
+        632,
+        852,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic sealant application",
+      "score": 0.9789,
+      "box": [
+        132,
+        656,
+        617,
+        681
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "MARQUIS CANNON\nPA, USA|+1-359-976-7447 |marquis.cannon@example.com\nWORK HISTORY\nConstruction Laborers, SolidPoint Construction, 2019.12–2023.01\n- Developed construction standards\n- Directed installation methodologies\nConstruction Laborers, CraftFrame Builders, 2016.11–2019.12\n- Installed framing components\n- Supervised demolition tasks\nConstruction Laborers, SteadyRise Contractors, 2010.12–2014.02\n- Checked inventory of supplies\n- Performed basic sanding and painting\nEDUCATION\nHigh school graduate/GED, Facilities Maintenance, Larkspur High School, 2008\n• Completed coursework in basic sealant application"
+}

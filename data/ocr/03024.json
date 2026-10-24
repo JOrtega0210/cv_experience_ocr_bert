@@ -1,0 +1,265 @@
+{
+  "id": "03024",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.006,
+  "n_lines": 19,
+  "mean_score": 0.9792,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DAVID LE",
+      "score": 0.9579,
+      "box": [
+        115,
+        88,
+        276,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-311-391-4294 | david.le@example.com",
+      "score": 0.98,
+      "box": [
+        116,
+        151,
+        614,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Financial, 2020.02–2023.01",
+      "score": 0.989,
+      "box": [
+        115,
+        290,
+        690,
+        313
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.9757,
+      "box": [
+        127,
+        315,
+        486,
+        338
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9847,
+      "box": [
+        127,
+        340,
+        512,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Advisors, 2017.03–2020.02",
+      "score": 0.9927,
+      "box": [
+        115,
+        382,
+        695,
+        406
+      ]
+    },
+    {
+      "text": "- Established audit governance structures",
+      "score": 0.9843,
+      "box": [
+        125,
+        405,
+        514,
+        431
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9594,
+      "box": [
+        126,
+        430,
+        428,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Services, 2012.11–2015.10",
+      "score": 0.9846,
+      "box": [
+        114,
+        471,
+        732,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed financial systems data",
+      "score": 0.9662,
+      "box": [
+        124,
+        496,
+        446,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared audit reports",
+      "score": 0.9591,
+      "box": [
+        125,
+        521,
+        350,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Advisors, 2009.02–2012.01",
+      "score": 0.9717,
+      "box": [
+        115,
+        564,
+        687,
+        588
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9642,
+      "box": [
+        124,
+        589,
+        439,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.9937,
+      "box": [
+        125,
+        613,
+        423,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Analytics, Stoneview University, 2004",
+      "score": 0.9806,
+      "box": [
+        114,
+        723,
+        663,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of taxation",
+      "score": 0.9871,
+      "box": [
+        131,
+        747,
+        416,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial disclosure",
+      "score": 0.9898,
+      "box": [
+        133,
+        772,
+        567,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "DAVID LE\nCA, USA|+1-311-391-4294 | david.le@example.com\nWORK HISTORY\nAccountants Auditors, AccuCount Financial, 2020.02–2023.01\n- Designed financial policy frameworks\n- Designed financial control environments\nAccountants Auditors, OpenBooks Advisors, 2017.03–2020.02\n- Established audit governance structures\n- Led audit planning governance\nAccountants Auditors, Reliable Ledger Services, 2012.11–2015.10\n- Reviewed financial systems data\n- Prepared audit reports\nAccountants Auditors, SolidCount Advisors, 2009.02–2012.01\n- Reviewed timesheets for payroll\n- Assisted with inventory counts\nEDUCATION\nBachelor's, Business Analytics, Stoneview University, 2004\n• Studied principles of taxation\n• Completed coursework in financial disclosure"
+}

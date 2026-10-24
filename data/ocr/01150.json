@@ -1,0 +1,239 @@
+{
+  "id": "01150",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.984,
+  "n_lines": 17,
+  "mean_score": 0.9862,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "COREY RANDALL",
+      "score": 0.9926,
+      "box": [
+        117,
+        90,
+        408,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-461-428-8988|corey.randall@example.com",
+      "score": 0.9921,
+      "box": [
+        116,
+        151,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Financial, 2019.11–2023.01",
+      "score": 0.9879,
+      "box": [
+        115,
+        290,
+        680,
+        313
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9852,
+      "box": [
+        125,
+        314,
+        517,
+        339
+      ]
+    },
+    {
+      "text": "- Directed budget planning cycles",
+      "score": 0.9714,
+      "box": [
+        126,
+        339,
+        439,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Advisors, 2016.02–2019.04",
+      "score": 0.9872,
+      "box": [
+        114,
+        381,
+        716,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared management reports",
+      "score": 0.9847,
+      "box": [
+        126,
+        406,
+        427,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared consolidation entries",
+      "score": 0.9776,
+      "box": [
+        126,
+        430,
+        425,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyBooks Group, 2012.05–2015.07",
+      "score": 0.9872,
+      "box": [
+        115,
+        472,
+        687,
+        496
+      ]
+    },
+    {
+      "text": "- Verified transaction accuracy",
+      "score": 0.9837,
+      "box": [
+        125,
+        495,
+        411,
+        523
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9882,
+      "box": [
+        126,
+        521,
+        550,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Data Analytics, Fairmont University, 2010",
+      "score": 0.9782,
+      "box": [
+        115,
+        632,
+        591,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Accounting, Brookfield University, 2008",
+      "score": 0.9917,
+      "box": [
+        115,
+        658,
+        664,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in trial balance preparation",
+      "score": 0.9883,
+      "box": [
+        133,
+        681,
+        613,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit reporting",
+      "score": 0.9857,
+      "box": [
+        133,
+        706,
+        523,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "COREY RANDALL\nAZ, USA|+1-461-428-8988|corey.randall@example.com\nWORK HISTORY\nAccountants Auditors, FairCount Financial, 2019.11–2023.01\n- Directed enterprise accounting platforms\n- Directed budget planning cycles\nAccountants Auditors, SteadyLedger Advisors, 2016.02–2019.04\n- Prepared management reports\n- Prepared consolidation entries\nAccountants Auditors, SteadyBooks Group, 2012.05–2015.07\n- Verified transaction accuracy\n- Processed accounts receivable transactions\nEDUCATION\nMaster's, Data Analytics, Fairmont University, 2010\nBachelor's, Applied Accounting, Brookfield University, 2008\n• Completed coursework in trial balance preparation\n• Completed coursework in audit reporting"
+}

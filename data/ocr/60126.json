@@ -1,0 +1,174 @@
+{
+  "id": "60126",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.852,
+  "n_lines": 12,
+  "mean_score": 0.9849,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KENNETH LIVINGSTON",
+      "score": 0.9766,
+      "box": [
+        116,
+        90,
+        492,
+        121
+      ]
+    },
+    {
+      "text": "WV, USA|+1-702-687-2275 |kenneth.livingston@example.com",
+      "score": 0.9683,
+      "box": [
+        115,
+        150,
+        713,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9923,
+      "box": [
+        115,
+        242,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureBuild Services, 2020.08–2023.01",
+      "score": 0.9877,
+      "box": [
+        115,
+        290,
+        683,
+        313
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9825,
+      "box": [
+        126,
+        315,
+        467,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed structural integrity assessments",
+      "score": 0.9665,
+      "box": [
+        126,
+        339,
+        532,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerWay Construction, 2015.11–2018.04",
+      "score": 0.9943,
+      "box": [
+        116,
+        382,
+        737,
+        405
+      ]
+    },
+    {
+      "text": "- Set up ladders and basic scaffolding",
+      "score": 0.9915,
+      "box": [
+        126,
+        406,
+        476,
+        431
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9843,
+      "box": [
+        126,
+        431,
+        492,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Technology, Parkview High School, 2012",
+      "score": 0.9892,
+      "box": [
+        116,
+        541,
+        837,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of structural support systems",
+      "score": 0.9877,
+      "box": [
+        133,
+        565,
+        586,
+        590
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "KENNETH LIVINGSTON\nWV, USA|+1-702-687-2275 |kenneth.livingston@example.com\nWORK HISTORY\nConstruction Laborers, SureBuild Services, 2020.08–2023.01\n- Directed site optimization initiatives\n- Reviewed structural integrity assessments\nConstruction Laborers, CornerWay Construction, 2015.11–2018.04\n- Set up ladders and basic scaffolding\n- Assembled prefabricated components\nEDUCATION\nHigh school graduate/GED, Building Technology, Parkview High School, 2012\n• Studied principles of structural support systems"
+}

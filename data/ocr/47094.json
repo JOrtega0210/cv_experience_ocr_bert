@@ -1,0 +1,148 @@
+{
+  "id": "47094",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.712,
+  "n_lines": 10,
+  "mean_score": 0.9808,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CHRISTINE TAYLOR",
+      "score": 0.9836,
+      "box": [
+        117,
+        90,
+        443,
+        121
+      ]
+    },
+    {
+      "text": "RI, USA|+1-449-480-9560 |christine.taylor@example.com",
+      "score": 0.9787,
+      "box": [
+        117,
+        152,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearline Systems, 2020.09–2023.01",
+      "score": 0.9834,
+      "box": [
+        116,
+        290,
+        663,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented validation logic",
+      "score": 0.9866,
+      "box": [
+        127,
+        315,
+        407,
+        339
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9626,
+      "box": [
+        128,
+        341,
+        414,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Pinewood University, 2021",
+      "score": 0.9824,
+      "box": [
+        115,
+        449,
+        471,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in virtual reality basics",
+      "score": 0.9568,
+      "box": [
+        132,
+        473,
+        572,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of virtualization",
+      "score": 0.9899,
+      "box": [
+        132,
+        497,
+        458,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "CHRISTINE TAYLOR\nRI, USA|+1-449-480-9560 |christine.taylor@example.com\nWORK HISTORY\nSoftware Developers, Clearline Systems, 2020.09–2023.01\n- Implemented validation logic\n- Updated frontend stylesheets\nEDUCATION\nBachelor's, Pinewood University, 2021\n• Completed coursework in virtual reality basics\n• Studied principles of virtualization"
+}

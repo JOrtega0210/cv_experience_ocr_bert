@@ -1,0 +1,213 @@
+{
+  "id": "45546",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.828,
+  "n_lines": 15,
+  "mean_score": 0.98,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "YOVANI YORK",
+      "score": 0.9675,
+      "box": [
+        114,
+        88,
+        354,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA|+1-288-343-8200|yovani.york@example.com",
+      "score": 0.987,
+      "box": [
+        115,
+        150,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9874,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Craft Builders, 2020.11–2023.01",
+      "score": 0.975,
+      "box": [
+        114,
+        289,
+        704,
+        313
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9708,
+      "box": [
+        127,
+        315,
+        371,
+        339
+      ]
+    },
+    {
+      "text": "- Directed site safety audits",
+      "score": 0.9816,
+      "box": [
+        126,
+        338,
+        382,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearPoint Builders, 2018.09–2020.11",
+      "score": 0.9866,
+      "box": [
+        115,
+        382,
+        685,
+        405
+      ]
+    },
+    {
+      "text": "- Supervised junior laborers",
+      "score": 0.9826,
+      "box": [
+        125,
+        406,
+        386,
+        431
+      ]
+    },
+    {
+      "text": "- Installed door and window frames",
+      "score": 0.9837,
+      "box": [
+        126,
+        431,
+        452,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerLine Contractors, 2015.03–2017.06",
+      "score": 0.9817,
+      "box": [
+        114,
+        471,
+        725,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with roofing material handling",
+      "score": 0.9759,
+      "box": [
+        125,
+        496,
+        498,
+        522
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9661,
+      "box": [
+        126,
+        521,
+        539,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Systems, Willow Ridge High School, 2011",
+      "score": 0.962,
+      "box": [
+        116,
+        632,
+        843,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of site hazard controls",
+      "score": 0.9934,
+      "box": [
+        133,
+        657,
+        523,
+        680
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "YOVANI YORK\nPA, USA|+1-288-343-8200|yovani.york@example.com\nWORK HISTORY\nConstruction Laborers, Unified Craft Builders, 2020.11–2023.01\n- Led operational planning\n- Directed site safety audits\nConstruction Laborers, ClearPoint Builders, 2018.09–2020.11\n- Supervised junior laborers\n- Installed door and window frames\nConstruction Laborers, CornerLine Contractors, 2015.03–2017.06\n- Assisted with roofing material handling\n- Carried materials to designated work areas\nEDUCATION\nHigh school graduate/GED, Building Systems, Willow Ridge High School, 2011\n• Studied principles of site hazard controls"
+}

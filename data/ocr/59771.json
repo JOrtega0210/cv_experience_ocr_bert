@@ -1,0 +1,226 @@
+{
+  "id": "59771",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.846,
+  "n_lines": 16,
+  "mean_score": 0.9804,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CORI MOYER",
+      "score": 0.9688,
+      "box": [
+        116,
+        90,
+        334,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-513-392-8586|cori.moyer@example.com",
+      "score": 0.9779,
+      "box": [
+        114,
+        150,
+        643,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2020.02–2023.01",
+      "score": 0.9869,
+      "box": [
+        114,
+        289,
+        713,
+        314
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9663,
+      "box": [
+        127,
+        315,
+        424,
+        338
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9754,
+      "box": [
+        126,
+        339,
+        555,
+        362
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Group, 2015.07–2018.07",
+      "score": 0.9842,
+      "box": [
+        114,
+        381,
+        666,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared cost allocation models",
+      "score": 0.9821,
+      "box": [
+        127,
+        407,
+        440,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared tax returns",
+      "score": 0.9716,
+      "box": [
+        125,
+        430,
+        333,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyBooks Group, 2011.06–2014.06",
+      "score": 0.9866,
+      "box": [
+        115,
+        472,
+        687,
+        496
+      ]
+    },
+    {
+      "text": "- Filed financial documents",
+      "score": 0.9663,
+      "box": [
+        126,
+        497,
+        378,
+        519
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.994,
+      "box": [
+        126,
+        521,
+        422,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Management Information Systems, Cloverfield University, 2006",
+      "score": 0.9896,
+      "box": [
+        114,
+        631,
+        809,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit documentation",
+      "score": 0.9775,
+      "box": [
+        133,
+        657,
+        567,
+        679
+      ]
+    },
+    {
+      "text": "• Completed coursework in mergers and acquisitions basics",
+      "score": 0.9748,
+      "box": [
+        135,
+        682,
+        685,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "CORI MOYER\nWA, USA|+1-513-392-8586|cori.moyer@example.com\nWORK HISTORY\nAccountants Auditors, Balanced Books Group, 2020.02–2023.01\n- Designed audit methodologies\n- Directed accounting system implementations\nAccountants Auditors, AccuCount Group, 2015.07–2018.07\n- Prepared cost allocation models\n- Prepared tax returns\nAccountants Auditors, SteadyBooks Group, 2011.06–2014.06\n- Filed financial documents\n- Assisted with regulatory filings\nEDUCATION\nBachelor's, Management Information Systems, Cloverfield University, 2006\n• Studied fundamentals of audit documentation\n• Completed coursework in mergers and acquisitions basics"
+}

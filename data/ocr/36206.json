@@ -1,0 +1,148 @@
+{
+  "id": "36206",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.741,
+  "n_lines": 10,
+  "mean_score": 0.9831,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOCELYN PARK",
+      "score": 0.9819,
+      "box": [
+        116,
+        90,
+        380,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-753-632-7099|jocelyn.park@example.com",
+      "score": 0.993,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9819,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Advisors, 2021.06–2023.01",
+      "score": 0.9897,
+      "box": [
+        115,
+        290,
+        676,
+        313
+      ]
+    },
+    {
+      "text": "- Compiled financial schedules",
+      "score": 0.9854,
+      "box": [
+        127,
+        315,
+        413,
+        338
+      ]
+    },
+    {
+      "text": "- Verified transaction accuracy",
+      "score": 0.9695,
+      "box": [
+        126,
+        339,
+        411,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, International Business, Willow Ridge University, 2021",
+      "score": 0.9687,
+      "box": [
+        114,
+        447,
+        717,
+        473
+      ]
+    },
+    {
+      "text": "• Completed coursework in regulatory reporting",
+      "score": 0.9827,
+      "box": [
+        133,
+        473,
+        571,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit planning techniques",
+      "score": 0.9796,
+      "box": [
+        133,
+        498,
+        625,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JOCELYN PARK\nNY, USA|+1-753-632-7099|jocelyn.park@example.com\nWORK HISTORY\nAccountants Auditors, FairCount Advisors, 2021.06–2023.01\n- Compiled financial schedules\n- Verified transaction accuracy\nEDUCATION\nBachelor's, International Business, Willow Ridge University, 2021\n• Completed coursework in regulatory reporting\n• Completed coursework in audit planning techniques"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "59716",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.773,
+  "n_lines": 13,
+  "mean_score": 0.9818,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ERIK KELLY",
+      "score": 0.962,
+      "box": [
+        116,
+        90,
+        318,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-491-443-7199|erik.kelly@example.com",
+      "score": 0.9762,
+      "box": [
+        114,
+        150,
+        626,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9815,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Tech, 2020.07–2023.01",
+      "score": 0.994,
+      "box": [
+        116,
+        290,
+        624,
+        313
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9843,
+      "box": [
+        125,
+        314,
+        410,
+        339
+      ]
+    },
+    {
+      "text": "- Developed system monitoring strategies",
+      "score": 0.973,
+      "box": [
+        126,
+        339,
+        513,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Flowstack Solutions, 2017.12–2020.07",
+      "score": 0.9885,
+      "box": [
+        116,
+        382,
+        681,
+        405
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9849,
+      "box": [
+        127,
+        408,
+        414,
+        431
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.9729,
+      "box": [
+        127,
+        432,
+        376,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Skyview University, 2019",
+      "score": 0.9929,
+      "box": [
+        115,
+        541,
+        458,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in configuration management",
+      "score": 0.9715,
+      "box": [
+        132,
+        565,
+        637,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of programming in Java",
+      "score": 0.9835,
+      "box": [
+        133,
+        591,
+        574,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ERIK KELLY\nWA, USA|+1-491-443-7199|erik.kelly@example.com\nWORK HISTORY\nSoftware Developers, Flowline Tech, 2020.07–2023.01\n- Defined scalability roadmaps\n- Developed system monitoring strategies\nSoftware Developers, Flowstack Solutions, 2017.12–2020.07\n- Updated frontend stylesheets\n- Resolved merge conflicts\nEDUCATION\nBachelor's, Skyview University, 2019\n• Completed coursework in configuration management\n• Studied fundamentals of programming in Java"
+}

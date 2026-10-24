@@ -1,0 +1,148 @@
+{
+  "id": "08560",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.832,
+  "n_lines": 10,
+  "mean_score": 0.9758,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TARIA LIN",
+      "score": 0.9454,
+      "box": [
+        113,
+        88,
+        285,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-341-401-4439 |taria.lin@example.com",
+      "score": 0.9616,
+      "box": [
+        116,
+        151,
+        609,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.983,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Services, 2020.03–2021.01",
+      "score": 0.9874,
+      "box": [
+        115,
+        290,
+        725,
+        313
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.9778,
+      "box": [
+        127,
+        315,
+        436,
+        339
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9738,
+      "box": [
+        125,
+        339,
+        490,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Auditing, Willowstone University, 2005",
+      "score": 0.9755,
+      "box": [
+        115,
+        449,
+        580,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in trial balance preparation",
+      "score": 0.9722,
+      "box": [
+        132,
+        473,
+        613,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in internal auditing",
+      "score": 0.9822,
+      "box": [
+        134,
+        499,
+        536,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "TARIA LIN\nCA, USA|+1-341-401-4439 |taria.lin@example.com\nWORK HISTORY\nAccountants Auditors, Precise Ledger Services, 2020.03–2021.01\n- Updated general ledger records\n- Processed accounts payable invoices\nEDUCATION\nBachelor's, Auditing, Willowstone University, 2005\n• Completed coursework in trial balance preparation\n• Completed coursework in internal auditing"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "15114",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.908,
+  "n_lines": 10,
+  "mean_score": 0.9814,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TARA CUMMINGS",
+      "score": 0.9666,
+      "box": [
+        114,
+        90,
+        406,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-930-475-6261|tara.cummings@example.com",
+      "score": 0.965,
+      "box": [
+        116,
+        151,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.981,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Futures School, 2019.12–2021.04",
+      "score": 0.9917,
+      "box": [
+        115,
+        290,
+        865,
+        313
+      ]
+    },
+    {
+      "text": "- Managed classroom supplies",
+      "score": 0.9719,
+      "box": [
+        126,
+        314,
+        413,
+        339
+      ]
+    },
+    {
+      "text": "- Supervised transitions between lessons",
+      "score": 0.9765,
+      "box": [
+        127,
+        340,
+        509,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        266,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Foundations, Ridgeway University, 2006",
+      "score": 0.9767,
+      "box": [
+        115,
+        449,
+        713,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational data basics",
+      "score": 0.9883,
+      "box": [
+        134,
+        475,
+        607,
+        495
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of early math instruction",
+      "score": 0.9978,
+      "box": [
+        134,
+        497,
+        577,
+        521
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "TARA CUMMINGS\nGA, USA|+1-930-475-6261|tara.cummings@example.com\nWORK HISTORY\nElementary Middle School Teachers, Learning Futures School, 2019.12–2021.04\n- Managed classroom supplies\n- Supervised transitions between lessons\nEDUCATION\nBachelor's, Educational Foundations, Ridgeway University, 2006\n• Completed coursework in educational data basics\n• Studied fundamentals of early math instruction"
+}

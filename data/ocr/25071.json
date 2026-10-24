@@ -1,0 +1,187 @@
+{
+  "id": "25071",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.885,
+  "n_lines": 13,
+  "mean_score": 0.9835,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CHLOE WILSON",
+      "score": 0.9798,
+      "box": [
+        116,
+        88,
+        379,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA|+1-902-296-2115 |chloe.wilson@example.com",
+      "score": 0.9885,
+      "box": [
+        115,
+        150,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9778,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kindlewood School, 2021.07–2023.01",
+      "score": 0.9823,
+      "box": [
+        115,
+        289,
+        813,
+        313
+      ]
+    },
+    {
+      "text": "- Directed assessment development eforts",
+      "score": 0.9811,
+      "box": [
+        126,
+        315,
+        526,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented learning system upgrades",
+      "score": 0.9811,
+      "box": [
+        126,
+        339,
+        507,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Oaks School, 2019.12–2021.07",
+      "score": 0.9879,
+      "box": [
+        115,
+        381,
+        816,
+        406
+      ]
+    },
+    {
+      "text": "- Collected student assignments",
+      "score": 0.9779,
+      "box": [
+        126,
+        406,
+        428,
+        431
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.996,
+      "box": [
+        126,
+        431,
+        518,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Some college (no degree), Educational Support, Briarwood University, 2023",
+      "score": 0.9648,
+      "box": [
+        116,
+        540,
+        816,
+        563
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication planning",
+      "score": 0.9877,
+      "box": [
+        133,
+        565,
+        726,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional sequencing",
+      "score": 0.983,
+      "box": [
+        133,
+        590,
+        613,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "CHLOE WILSON\nMA, USA|+1-902-296-2115 |chloe.wilson@example.com\nWORK HISTORY\nElementary Middle School Teachers, Kindlewood School, 2021.07–2023.01\n- Directed assessment development eforts\n- Implemented learning system upgrades\nElementary Middle School Teachers, Bright Oaks School, 2019.12–2021.07\n- Collected student assignments\n- Supported standardized testing sessions\nEDUCATION\nSome college (no degree), Educational Support, Briarwood University, 2023\n• Completed coursework in educational communication planning\n• Completed coursework in instructional sequencing"
+}

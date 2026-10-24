@@ -1,0 +1,135 @@
+{
+  "id": "60581",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.785,
+  "n_lines": 9,
+  "mean_score": 0.977,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JEREMY PITTMAN",
+      "score": 0.9812,
+      "box": [
+        116,
+        90,
+        413,
+        120
+      ]
+    },
+    {
+      "text": "WI, USA|+1-480-599-7966 |jeremy.pittman@example.com",
+      "score": 0.9604,
+      "box": [
+        116,
+        151,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9741,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunPath Nursing, 2021.12–2022.06",
+      "score": 0.9868,
+      "box": [
+        116,
+        290,
+        633,
+        313
+      ]
+    },
+    {
+      "text": "- Monitored patient recovery",
+      "score": 0.9435,
+      "box": [
+        126,
+        314,
+        390,
+        340
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9895,
+      "box": [
+        126,
+        339,
+        365,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Health Support Services, Hillside High School, 2015",
+      "score": 0.9734,
+      "box": [
+        116,
+        449,
+        857,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of skin integrity maintenance",
+      "score": 0.9855,
+      "box": [
+        132,
+        472,
+        621,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "JEREMY PITTMAN\nWI, USA|+1-480-599-7966 |jeremy.pittman@example.com\nWORK HISTORY\nRegistered Nurses, SunPath Nursing, 2021.12–2022.06\n- Monitored patient recovery\n- Recorded nursing notes\nEDUCATION\nHigh school graduate/GED, Health Support Services, Hillside High School, 2015\n• Studied fundamentals of skin integrity maintenance"
+}

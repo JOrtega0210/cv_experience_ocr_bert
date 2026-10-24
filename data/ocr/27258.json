@@ -1,0 +1,148 @@
+{
+  "id": "27258",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.752,
+  "n_lines": 10,
+  "mean_score": 0.9862,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AMBERWALL",
+      "score": 0.9991,
+      "box": [
+        117,
+        90,
+        346,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-997-876-5365|amber.wall@example.com",
+      "score": 0.9853,
+      "box": [
+        115,
+        150,
+        636,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Futures School, 2020.02–2023.01",
+      "score": 0.9791,
+      "box": [
+        116,
+        290,
+        842,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9754,
+      "box": [
+        127,
+        315,
+        417,
+        338
+      ]
+    },
+    {
+      "text": "- Managed classroom supplies",
+      "score": 0.9879,
+      "box": [
+        126,
+        339,
+        413,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Family and Child Studies, Stonehill University, 2018",
+      "score": 0.9723,
+      "box": [
+        115,
+        449,
+        704,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of lesson coherence",
+      "score": 0.9875,
+      "box": [
+        132,
+        472,
+        506,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in developmental psychology basics",
+      "score": 0.9935,
+      "box": [
+        133,
+        498,
+        700,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "AMBERWALL\nMI, USA|+1-997-876-5365|amber.wall@example.com\nWORK HISTORY\nElementary Middle School Teachers, Sunny Futures School, 2020.02–2023.01\n- Prepared visual teaching aids\n- Managed classroom supplies\nEDUCATION\nBachelor's, Family and Child Studies, Stonehill University, 2018\n• Studied principles of lesson coherence\n• Completed coursework in developmental psychology basics"
+}

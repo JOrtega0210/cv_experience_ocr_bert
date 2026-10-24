@@ -1,0 +1,187 @@
+{
+  "id": "01360",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.99,
+  "n_lines": 13,
+  "mean_score": 0.9829,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSHUA PATTERSON",
+      "score": 0.9841,
+      "box": [
+        117,
+        90,
+        472,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-244-763-8413|joshua.patterson@example.com",
+      "score": 0.9782,
+      "box": [
+        116,
+        151,
+        693,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9775,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Litle Steps Academy, 2020.03–2023.01",
+      "score": 0.9644,
+      "box": [
+        116,
+        290,
+        832,
+        313
+      ]
+    },
+    {
+      "text": "- Designed instructional accountability systems",
+      "score": 0.9836,
+      "box": [
+        125,
+        314,
+        563,
+        339
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.9903,
+      "box": [
+        126,
+        339,
+        476,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Start School, 2016.04–2019.02",
+      "score": 0.9918,
+      "box": [
+        115,
+        381,
+        808,
+        406
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.9824,
+      "box": [
+        127,
+        408,
+        518,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented classroom seating plans",
+      "score": 0.9848,
+      "box": [
+        126,
+        431,
+        492,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Foundations, Oakridge Valley University, 2014",
+      "score": 0.982,
+      "box": [
+        114,
+        539,
+        770,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of instructional materials development",
+      "score": 0.987,
+      "box": [
+        133,
+        566,
+        670,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in reading fluency strategies",
+      "score": 0.973,
+      "box": [
+        133,
+        590,
+        626,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JOSHUA PATTERSON\nAZ, USA|+1-244-763-8413|joshua.patterson@example.com\nWORK HISTORY\nElementary Middle School Teachers, Litle Steps Academy, 2020.03–2023.01\n- Designed instructional accountability systems\n- Developed teacher training modules\nElementary Middle School Teachers, Open Start School, 2016.04–2019.02\n- Supported standardized testing sessions\n- Implemented classroom seating plans\nEDUCATION\nBachelor's, Educational Foundations, Oakridge Valley University, 2014\n• Studied principles of instructional materials development\n• Completed coursework in reading fluency strategies"
+}

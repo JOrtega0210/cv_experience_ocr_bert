@@ -1,0 +1,200 @@
+{
+  "id": "58555",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.886,
+  "n_lines": 14,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LAUREN BARBER",
+      "score": 0.9757,
+      "box": [
+        116,
+        90,
+        409,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-983-725-1009|lauren.barber@example.com",
+      "score": 0.9858,
+      "box": [
+        114,
+        150,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.976,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Bridge Academy, 2020.07–2023.01",
+      "score": 0.9691,
+      "box": [
+        116,
+        290,
+        855,
+        313
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.982,
+      "box": [
+        127,
+        315,
+        505,
+        338
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.9871,
+      "box": [
+        126,
+        339,
+        525,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Meadows Academy, 2018.01–2020.07",
+      "score": 0.9826,
+      "box": [
+        115,
+        381,
+        880,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented basic classroom management procedures",
+      "score": 0.9897,
+      "box": [
+        126,
+        406,
+        656,
+        431
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9873,
+      "box": [
+        126,
+        432,
+        458,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Developmental Studies, Clearbrook University, 2016",
+      "score": 0.9814,
+      "box": [
+        115,
+        541,
+        691,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Development, Riverstone Ridge University, 2014",
+      "score": 0.9749,
+      "box": [
+        114,
+        565,
+        729,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic tutoring methods",
+      "score": 0.9836,
+      "box": [
+        134,
+        590,
+        599,
+        613
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational technology basics",
+      "score": 0.9817,
+      "box": [
+        134,
+        615,
+        667,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "LAUREN BARBER\nWA, USA|+1-983-725-1009|lauren.barber@example.com\nWORK HISTORY\nElementary Middle School Teachers, Future Bridge Academy, 2020.07–2023.01\n- Designed systemic intervention models\n- Directed academic intervention strategies\nElementary Middle School Teachers, Bright Meadows Academy, 2018.01–2020.07\n- Implemented basic classroom management procedures\n- Recorded behavioral observations\nEDUCATION\nMaster's, Developmental Studies, Clearbrook University, 2016\nBachelor's, Child Development, Riverstone Ridge University, 2014\n• Completed coursework in basic tutoring methods\n• Completed coursework in educational technology basics"
+}

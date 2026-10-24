@@ -1,0 +1,226 @@
+{
+  "id": "01053",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.908,
+  "n_lines": 16,
+  "mean_score": 0.9824,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DAVIDALFARO",
+      "score": 0.9984,
+      "box": [
+        116,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-710-623-8525|david.alfaro@example.com",
+      "score": 0.9917,
+      "box": [
+        116,
+        151,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9881,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corepath Solutions, 2019.12–2023.01",
+      "score": 0.9933,
+      "box": [
+        116,
+        290,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.9758,
+      "box": [
+        126,
+        314,
+        431,
+        340
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.9723,
+      "box": [
+        127,
+        340,
+        396,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Openline Digital, 2016.11–2019.12",
+      "score": 0.9889,
+      "box": [
+        115,
+        381,
+        644,
+        406
+      ]
+    },
+    {
+      "text": "- Improved system reliabillity",
+      "score": 0.9612,
+      "box": [
+        126,
+        406,
+        389,
+        433
+      ]
+    },
+    {
+      "text": "- Implemented caching strategies",
+      "score": 0.9615,
+      "box": [
+        126,
+        431,
+        437,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Datapoint Labs, 2011.01–2014.03",
+      "score": 0.9917,
+      "box": [
+        116,
+        472,
+        637,
+        496
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.9648,
+      "box": [
+        127,
+        498,
+        403,
+        521
+      ]
+    },
+    {
+      "text": "- Optimized simple queries",
+      "score": 0.9844,
+      "box": [
+        125,
+        520,
+        378,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Forest Ridge University, 2003",
+      "score": 0.9808,
+      "box": [
+        115,
+        632,
+        501,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in query performance tuning",
+      "score": 0.983,
+      "box": [
+        131,
+        655,
+        627,
+        683
+      ]
+    },
+    {
+      "text": "• Completed coursework in code refactoring",
+      "score": 0.9829,
+      "box": [
+        133,
+        680,
+        540,
+        708
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "DAVIDALFARO\nAZ, USA|+1-710-623-8525|david.alfaro@example.com\nWORK HISTORY\nSoftware Developers, Corepath Solutions, 2019.12–2023.01\n- Led system reliability programs\n- Designed scalable services\nSoftware Developers, Openline Digital, 2016.11–2019.12\n- Improved system reliabillity\n- Implemented caching strategies\nSoftware Developers, Datapoint Labs, 2011.01–2014.03\n- Updated database schemas\n- Optimized simple queries\nEDUCATION\nBachelor's, Forest Ridge University, 2003\n• Completed coursework in query performance tuning\n• Completed coursework in code refactoring"
+}

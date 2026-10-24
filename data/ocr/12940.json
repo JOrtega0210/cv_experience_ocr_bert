@@ -1,0 +1,278 @@
+{
+  "id": "12940",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.038,
+  "n_lines": 20,
+  "mean_score": 0.9833,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARIA FISCHER",
+      "score": 0.9699,
+      "box": [
+        116,
+        90,
+        384,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-473-571-6545|maria.fischer@example.com",
+      "score": 0.9783,
+      "box": [
+        115,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Advisors, 2019.07–2023.01",
+      "score": 0.9941,
+      "box": [
+        115,
+        290,
+        692,
+        313
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.9901,
+      "box": [
+        126,
+        314,
+        478,
+        337
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9728,
+      "box": [
+        126,
+        338,
+        489,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Advisors, 2016.01–2019.07",
+      "score": 0.9858,
+      "box": [
+        114,
+        381,
+        713,
+        406
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9875,
+      "box": [
+        126,
+        406,
+        467,
+        431
+      ]
+    },
+    {
+      "text": "- Established audit governance structures",
+      "score": 0.9905,
+      "box": [
+        126,
+        431,
+        513,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Financial, 2012.07–2016.01",
+      "score": 0.9742,
+      "box": [
+        115,
+        472,
+        680,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared management reports",
+      "score": 0.9807,
+      "box": [
+        125,
+        497,
+        427,
+        522
+      ]
+    },
+    {
+      "text": "- Managed fixed asset accounting",
+      "score": 0.963,
+      "box": [
+        125,
+        520,
+        442,
+        548
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Services, 2009.01–2012.07",
+      "score": 0.9945,
+      "box": [
+        115,
+        565,
+        708,
+        588
+      ]
+    },
+    {
+      "text": "- Updated fixed asset registers",
+      "score": 0.9783,
+      "box": [
+        126,
+        589,
+        413,
+        614
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.995,
+      "box": [
+        126,
+        614,
+        452,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Master's, Investment Management, Clearwater University, 2007",
+      "score": 0.9758,
+      "box": [
+        115,
+        725,
+        705,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, General Business, Willowbrook University, 2005",
+      "score": 0.9791,
+      "box": [
+        114,
+        747,
+        670,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in strategic cost management",
+      "score": 0.9943,
+      "box": [
+        134,
+        774,
+        641,
+        797
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of auditing",
+      "score": 0.9777,
+      "box": [
+        132,
+        797,
+        452,
+        823
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "MARIA FISCHER\nFL, USA|+1-473-571-6545|maria.fischer@example.com\nWORK HISTORY\nAccountants Auditors, ClearBooks Advisors, 2019.07–2023.01\n- Led regulatory compliance initiatives\n- Directed financial system architecture\nAccountants Auditors, OpenBalance Advisors, 2016.01–2019.07\n- Developed internal control systems\n- Established audit governance structures\nAccountants Auditors, FairCount Financial, 2012.07–2016.01\n- Prepared management reports\n- Managed fixed asset accounting\nAccountants Auditors, SolidBalance Services, 2009.01–2012.07\n- Updated fixed asset registers\n- Reviewed expense classifications\nEDUCATION\nMaster's, Investment Management, Clearwater University, 2007\nBachelor's, General Business, Willowbrook University, 2005\n• Completed coursework in strategic cost management\n• Studied fundamentals of auditing"
+}

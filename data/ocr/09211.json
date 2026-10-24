@@ -1,0 +1,161 @@
+{
+  "id": "09211",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.839,
+  "n_lines": 11,
+  "mean_score": 0.9778,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MATTHEW LIM",
+      "score": 0.9743,
+      "box": [
+        116,
+        90,
+        356,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA|+1-604-769-5638 |matthew.lim@example.com",
+      "score": 0.9816,
+      "box": [
+        117,
+        152,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearline Software, 2021.05–2022.07",
+      "score": 0.9733,
+      "box": [
+        115,
+        289,
+        666,
+        312
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9842,
+      "box": [
+        127,
+        315,
+        414,
+        339
+      ]
+    },
+    {
+      "text": "- Wrote utility scripts",
+      "score": 0.9267,
+      "box": [
+        126,
+        338,
+        318,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Clearway University, 2010",
+      "score": 0.9855,
+      "box": [
+        114,
+        447,
+        450,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Wildflower University, 208",
+      "score": 0.964,
+      "box": [
+        114,
+        472,
+        478,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in software architecture",
+      "score": 0.9926,
+      "box": [
+        134,
+        500,
+        582,
+        520
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of software testing",
+      "score": 0.9903,
+      "box": [
+        132,
+        522,
+        524,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "MATTHEW LIM\nCA, USA|+1-604-769-5638 |matthew.lim@example.com\nWORK HISTORY\nSoftware Developers, Clearline Software, 2021.05–2022.07\n- Updated frontend stylesheets\n- Wrote utility scripts\nEDUCATION\nMaster's, Clearway University, 2010\nBachelor's, Wildflower University, 208\n• Completed coursework in software architecture\n• Studied fundamentals of software testing"
+}

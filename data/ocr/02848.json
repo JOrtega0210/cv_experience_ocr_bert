@@ -1,0 +1,161 @@
+{
+  "id": "02848",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.848,
+  "n_lines": 11,
+  "mean_score": 0.9851,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ADAM MCKENZIE",
+      "score": 0.9895,
+      "box": [
+        117,
+        90,
+        402,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-353-885-5923 |adam.mckenzie@example.com",
+      "score": 0.9835,
+      "box": [
+        117,
+        152,
+        687,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openframe Labs, 2019.03–2021.07",
+      "score": 0.9881,
+      "box": [
+        115,
+        290,
+        652,
+        313
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.986,
+      "box": [
+        127,
+        315,
+        485,
+        339
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9843,
+      "box": [
+        127,
+        341,
+        346,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Briar Ridge University, 2010",
+      "score": 0.9934,
+      "box": [
+        115,
+        449,
+        467,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearway University, 2008",
+      "score": 0.9526,
+      "box": [
+        115,
+        474,
+        469,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of deployment pipelines",
+      "score": 0.9926,
+      "box": [
+        132,
+        498,
+        575,
+        523
+      ]
+    },
+    {
+      "text": "• Studied principles of augmented reality",
+      "score": 0.9828,
+      "box": [
+        133,
+        523,
+        507,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "ADAM MCKENZIE\nCA, USA|+1-353-885-5923 |adam.mckenzie@example.com\nWORK HISTORY\nSoftware Developers, Openframe Labs, 2019.03–2021.07\n- Logged and tracked software defects\n- Created test data sets\nEDUCATION\nMaster's, Briar Ridge University, 2010\nBachelor's, Clearway University, 2008\n• Studied fundamentals of deployment pipelines\n• Studied principles of augmented reality"
+}

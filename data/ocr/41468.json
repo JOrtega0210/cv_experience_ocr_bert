@@ -1,0 +1,161 @@
+{
+  "id": "41468",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.784,
+  "n_lines": 11,
+  "mean_score": 0.9841,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RACHEL SNOW",
+      "score": 0.9747,
+      "box": [
+        116,
+        90,
+        371,
+        121
+      ]
+    },
+    {
+      "text": "OH, USA|+1-245-591-4253 |rachel.snow@example.com",
+      "score": 0.9884,
+      "box": [
+        115,
+        150,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9835,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Services, 2022.01–2023.01",
+      "score": 0.9823,
+      "box": [
+        115,
+        290,
+        685,
+        313
+      ]
+    },
+    {
+      "text": "– Matched invoices to purchase orders",
+      "score": 0.991,
+      "box": [
+        127,
+        315,
+        483,
+        338
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.9753,
+      "box": [
+        127,
+        340,
+        410,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Master's, International Business, Clearwood University, 2023",
+      "score": 0.9763,
+      "box": [
+        115,
+        449,
+        679,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Economic Studies, Springfield University, 2021",
+      "score": 0.991,
+      "box": [
+        115,
+        474,
+        656,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit risk modeling",
+      "score": 0.9753,
+      "box": [
+        134,
+        499,
+        563,
+        523
+      ]
+    },
+    {
+      "text": "• Studied principles of financial forecasting",
+      "score": 0.9883,
+      "box": [
+        133,
+        523,
+        526,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "RACHEL SNOW\nOH, USA|+1-245-591-4253 |rachel.snow@example.com\nWORK HISTORY\nAccountants Auditors, FairLedger Services, 2022.01–2023.01\n– Matched invoices to purchase orders\n- Prepared audit confirmations\nEDUCATION\nMaster's, International Business, Clearwood University, 2023\nBachelor's, Economic Studies, Springfield University, 2021\n• Completed coursework in audit risk modeling\n• Studied principles of financial forecasting"
+}

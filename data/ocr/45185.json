@@ -1,0 +1,174 @@
+{
+  "id": "45185",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.841,
+  "n_lines": 12,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RYAN MOON",
+      "score": 0.9655,
+      "box": [
+        115,
+        88,
+        328,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA|+1-380-342-6380|ryan.moon@example.com",
+      "score": 0.9837,
+      "box": [
+        115,
+        150,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearBuild Construction, 2021.05–2023.01",
+      "score": 0.981,
+      "box": [
+        115,
+        289,
+        725,
+        313
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.9922,
+      "box": [
+        126,
+        315,
+        435,
+        338
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.9867,
+      "box": [
+        127,
+        338,
+        448,
+        362
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearRise Builders, 2018.08–2020.04",
+      "score": 0.9885,
+      "box": [
+        116,
+        382,
+        680,
+        405
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.9681,
+      "box": [
+        126,
+        407,
+        474,
+        429
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.9781,
+      "box": [
+        126,
+        431,
+        556,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Operations, Clearwater High School, 2009",
+      "score": 0.9915,
+      "box": [
+        116,
+        541,
+        890,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of framing methods",
+      "score": 0.9888,
+      "box": [
+        133,
+        566,
+        497,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "RYAN MOON\nPA, USA|+1-380-342-6380|ryan.moon@example.com\nWORK HISTORY\nConstruction Laborers, ClearBuild Construction, 2021.05–2023.01\n- Supervised high-risk operations\n- Led cross-functional coordination\nConstruction Laborers, ClearRise Builders, 2018.08–2020.04\n- Marked measurements on materials\n- Stacked and organized construction supplies\nEDUCATION\nHigh school graduate/GED, Construction Operations, Clearwater High School, 2009\n• Studied principles of framing methods"
+}

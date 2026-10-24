@@ -1,0 +1,200 @@
+{
+  "id": "57150",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.861,
+  "n_lines": 14,
+  "mean_score": 0.9795,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NICHOLE MCKEE",
+      "score": 0.9702,
+      "box": [
+        114,
+        87,
+        400,
+        123
+      ]
+    },
+    {
+      "text": "VA, USA|+1-941-214-8561|nichole.mckee@example.com",
+      "score": 0.9823,
+      "box": [
+        114,
+        150,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9758,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Minds School, 2020.06–2023.01",
+      "score": 0.9832,
+      "box": [
+        115,
+        289,
+        844,
+        314
+      ]
+    },
+    {
+      "text": "-Directed cross-grade curriculum alignment",
+      "score": 0.9942,
+      "box": [
+        125,
+        314,
+        536,
+        338
+      ]
+    },
+    {
+      "text": "- Established instructional leadership protocols",
+      "score": 0.9745,
+      "box": [
+        126,
+        339,
+        560,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Path School, 2017.11–2020.06",
+      "score": 0.9851,
+      "box": [
+        115,
+        381,
+        807,
+        406
+      ]
+    },
+    {
+      "text": "- Collected student assignments",
+      "score": 0.9806,
+      "box": [
+        126,
+        406,
+        428,
+        431
+      ]
+    },
+    {
+      "text": "- Recorded student progress data",
+      "score": 0.9801,
+      "box": [
+        126,
+        431,
+        442,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Basic Child Development, Stonegate University, 2016",
+      "score": 0.9638,
+      "box": [
+        115,
+        541,
+        702,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Studies, Larkspur University, 2014",
+      "score": 0.9875,
+      "box": [
+        115,
+        566,
+        643,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in student progress monitoring",
+      "score": 0.9557,
+      "box": [
+        135,
+        592,
+        646,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of group learning dynamics",
+      "score": 0.9826,
+      "box": [
+        133,
+        615,
+        607,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "NICHOLE MCKEE\nVA, USA|+1-941-214-8561|nichole.mckee@example.com\nWORK HISTORY\nElementary Middle School Teachers, Growing Minds School, 2020.06–2023.01\n-Directed cross-grade curriculum alignment\n- Established instructional leadership protocols\nElementary Middle School Teachers, Open Path School, 2017.11–2020.06\n- Collected student assignments\n- Recorded student progress data\nEDUCATION\nMaster's, Basic Child Development, Stonegate University, 2016\nBachelor's, Education Studies, Larkspur University, 2014\n• Completed coursework in student progress monitoring\n• Studied fundamentals of group learning dynamics"
+}

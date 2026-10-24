@@ -1,0 +1,226 @@
+{
+  "id": "58852",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.837,
+  "n_lines": 16,
+  "mean_score": 0.9832,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AUSTIN PRATT",
+      "score": 0.9659,
+      "box": [
+        116,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-942-781-1228|austin.pratt@example.com",
+      "score": 0.9812,
+      "box": [
+        114,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorLine Contractors, 2020.06–2023.01",
+      "score": 0.9937,
+      "box": [
+        115,
+        290,
+        727,
+        313
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9805,
+      "box": [
+        126,
+        315,
+        467,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.9781,
+      "box": [
+        126,
+        339,
+        444,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongWay Construction, 2017.11–2020.06",
+      "score": 0.9898,
+      "box": [
+        115,
+        381,
+        734,
+        406
+      ]
+    },
+    {
+      "text": "- Managed material inventories",
+      "score": 0.9808,
+      "box": [
+        126,
+        407,
+        417,
+        430
+      ]
+    },
+    {
+      "text": "- Installed support beams",
+      "score": 0.98,
+      "box": [
+        126,
+        430,
+        364,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkRight Contractors, 2012.05–2015.01",
+      "score": 0.9886,
+      "box": [
+        116,
+        472,
+        718,
+        496
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.9923,
+      "box": [
+        126,
+        497,
+        405,
+        520
+      ]
+    },
+    {
+      "text": "- Installed simple fixtures",
+      "score": 0.9649,
+      "box": [
+        126,
+        521,
+        360,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Building Systems, Goldenview University, 2007",
+      "score": 0.9802,
+      "box": [
+        115,
+        632,
+        662,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction materials testing",
+      "score": 0.9768,
+      "box": [
+        132,
+        656,
+        659,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in concrete curing methods",
+      "score": 0.9935,
+      "box": [
+        134,
+        681,
+        618,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "AUSTIN PRATT\nWA, USA|+1-942-781-1228|austin.pratt@example.com\nWORK HISTORY\nConstruction Laborers, AnchorLine Contractors, 2020.06–2023.01\n- Directed site optimization initiatives\n- Reviewed site inspection reports\nConstruction Laborers, StrongWay Construction, 2017.11–2020.06\n- Managed material inventories\n- Installed support beams\nConstruction Laborers, WorkRight Contractors, 2012.05–2015.01\n- Installed insulation materials\n- Installed simple fixtures\nEDUCATION\nBachelor's, Building Systems, Goldenview University, 2007\n• Completed coursework in construction materials testing\n• Completed coursework in concrete curing methods"
+}

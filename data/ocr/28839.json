@@ -1,0 +1,148 @@
+{
+  "id": "28839",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.771,
+  "n_lines": 10,
+  "mean_score": 0.9794,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "PATRICK HODGES",
+      "score": 0.9725,
+      "box": [
+        115,
+        90,
+        420,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-549-752-7012|patrick.hodges@example.com",
+      "score": 0.9921,
+      "box": [
+        115,
+        150,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9815,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidForm Construction, 2020.10–2023.01",
+      "score": 0.9862,
+      "box": [
+        115,
+        290,
+        725,
+        313
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9411,
+      "box": [
+        126,
+        313,
+        332,
+        340
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9613,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Materials, Westbrook University, 2023",
+      "score": 0.9858,
+      "box": [
+        115,
+        447,
+        843,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of structural support systems",
+      "score": 0.9907,
+      "box": [
+        132,
+        472,
+        586,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction waste management",
+      "score": 0.9844,
+      "box": [
+        134,
+        499,
+        691,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "PATRICK HODGES\nMN, USA|+1-549-752-7012|patrick.hodges@example.com\nWORK HISTORY\nConstruction Laborers, SolidForm Construction, 2020.10–2023.01\n- Secured site fencing\n- Operated hand tools for assembly tasks\nEDUCATION\nSome college (no degree), Construction Materials, Westbrook University, 2023\n• Studied principles of structural support systems\n• Completed coursework in construction waste management"
+}

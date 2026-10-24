@@ -1,0 +1,200 @@
+{
+  "id": "46174",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.874,
+  "n_lines": 14,
+  "mean_score": 0.9841,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ALEJANDRO HURST",
+      "score": 0.9532,
+      "box": [
+        116,
+        88,
+        451,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA|+1-896-486-9882 |alejandro.hurst@example.com",
+      "score": 0.9752,
+      "box": [
+        115,
+        150,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9772,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Horizons School, 2021.07–023.01",
+      "score": 0.9841,
+      "box": [
+        115,
+        290,
+        886,
+        313
+      ]
+    },
+    {
+      "text": "- Directed content standardization",
+      "score": 0.989,
+      "box": [
+        127,
+        316,
+        442,
+        336
+      ]
+    },
+    {
+      "text": "- Designed instructional governance models",
+      "score": 0.9921,
+      "box": [
+        126,
+        339,
+        535,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Minds School, 2019.12–2021.07",
+      "score": 0.9835,
+      "box": [
+        116,
+        382,
+        831,
+        405
+      ]
+    },
+    {
+      "text": "- Administered quizzes and short assessments",
+      "score": 0.9895,
+      "box": [
+        125,
+        406,
+        561,
+        430
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9881,
+      "box": [
+        126,
+        432,
+        458,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Student Learning Studies, Brightfield Ridge University, 2018",
+      "score": 0.9867,
+      "box": [
+        114,
+        539,
+        762,
+        565
+      ]
+    },
+    {
+      "text": "Bachelor's, Student Learning Studies, Brookside University, 2016",
+      "score": 0.9844,
+      "box": [
+        115,
+        566,
+        721,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of reading comprehension strategies",
+      "score": 0.9942,
+      "box": [
+        132,
+        590,
+        693,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional review methods",
+      "score": 0.9826,
+      "box": [
+        134,
+        616,
+        653,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "ALEJANDRO HURST\nPA, USA|+1-896-486-9882 |alejandro.hurst@example.com\nWORK HISTORY\nElementary Middle School Teachers, Discovery Horizons School, 2021.07–023.01\n- Directed content standardization\n- Designed instructional governance models\nElementary Middle School Teachers, Caring Minds School, 2019.12–2021.07\n- Administered quizzes and short assessments\n- Recorded behavioral observations\nEDUCATION\nMaster's, Student Learning Studies, Brightfield Ridge University, 2018\nBachelor's, Student Learning Studies, Brookside University, 2016\n• Studied fundamentals of reading comprehension strategies\n• Completed coursework in instructional review methods"
+}

@@ -1,0 +1,239 @@
+{
+  "id": "24827",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.964,
+  "n_lines": 17,
+  "mean_score": 0.9784,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANNALISA KIRK",
+      "score": 0.9621,
+      "box": [
+        117,
+        90,
+        382,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA|+1-954-667-1783 |annalisa.kirk@example.com",
+      "score": 0.9769,
+      "box": [
+        115,
+        150,
+        661,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9784,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Minds Academy, 2020.05–2023.01",
+      "score": 0.9859,
+      "box": [
+        116,
+        290,
+        858,
+        313
+      ]
+    },
+    {
+      "text": "- Developed student performance metrics",
+      "score": 0.9753,
+      "box": [
+        126,
+        314,
+        512,
+        338
+      ]
+    },
+    {
+      "text": "- Led professional development planning",
+      "score": 0.9917,
+      "box": [
+        126,
+        339,
+        505,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Inspire Learning School, 2017.02–2019.11",
+      "score": 0.9926,
+      "box": [
+        115,
+        381,
+        855,
+        406
+      ]
+    },
+    {
+      "text": "- Administered standardized assessments",
+      "score": 0.9929,
+      "box": [
+        125,
+        406,
+        517,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared test review sessions",
+      "score": 0.9682,
+      "box": [
+        126,
+        430,
+        421,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Way Academy, 2013.03–2015.12",
+      "score": 0.9849,
+      "box": [
+        115,
+        471,
+        859,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared daily lesson plans aligned with curriculum guidelines",
+      "score": 0.9579,
+      "box": [
+        127,
+        498,
+        716,
+        521
+      ]
+    },
+    {
+      "text": "- Tracked student participation",
+      "score": 0.976,
+      "box": [
+        126,
+        521,
+        411,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Youth Studies, Willowcrest University, 2008",
+      "score": 0.9681,
+      "box": [
+        115,
+        632,
+        610,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Studies, Riverhaven University, 2006",
+      "score": 0.9705,
+      "box": [
+        115,
+        658,
+        666,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in reading instruction",
+      "score": 0.9758,
+      "box": [
+        134,
+        683,
+        560,
+        706
+      ]
+    },
+    {
+      "text": "• Studied principles of behavior management",
+      "score": 0.9772,
+      "box": [
+        132,
+        706,
+        551,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "ANNALISA KIRK\nMD, USA|+1-954-667-1783 |annalisa.kirk@example.com\nWORK HISTORY\nElementary Middle School Teachers, Golden Minds Academy, 2020.05–2023.01\n- Developed student performance metrics\n- Led professional development planning\nElementary Middle School Teachers, Inspire Learning School, 2017.02–2019.11\n- Administered standardized assessments\n- Prepared test review sessions\nElementary Middle School Teachers, Learning Way Academy, 2013.03–2015.12\n- Prepared daily lesson plans aligned with curriculum guidelines\n- Tracked student participation\nEDUCATION\nMaster's, Youth Studies, Willowcrest University, 2008\nBachelor's, Education Studies, Riverhaven University, 2006\n• Completed coursework in reading instruction\n• Studied principles of behavior management"
+}

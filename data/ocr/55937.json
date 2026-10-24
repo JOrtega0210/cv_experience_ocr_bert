@@ -1,0 +1,226 @@
+{
+  "id": "55937",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.885,
+  "n_lines": 16,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KRISTOPHER PERRY",
+      "score": 0.9729,
+      "box": [
+        116,
+        90,
+        461,
+        120
+      ]
+    },
+    {
+      "text": "VA, USA|+1-912-768-3076 |kristopher.perry@example.com",
+      "score": 0.9697,
+      "box": [
+        116,
+        152,
+        685,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9812,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerWay Construction, 2020.10–2023.01",
+      "score": 0.9866,
+      "box": [
+        115,
+        290,
+        734,
+        312
+      ]
+    },
+    {
+      "text": "- Managed equipment maintenance programs",
+      "score": 0.9858,
+      "box": [
+        126,
+        314,
+        552,
+        340
+      ]
+    },
+    {
+      "text": "-Ledcross-functional coordination",
+      "score": 0.9853,
+      "box": [
+        128,
+        341,
+        447,
+        361
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Build Co., 2018.07–2020.10",
+      "score": 0.9895,
+      "box": [
+        116,
+        382,
+        685,
+        405
+      ]
+    },
+    {
+      "text": "- Conducted material inspections",
+      "score": 0.9852,
+      "box": [
+        125,
+        406,
+        434,
+        431
+      ]
+    },
+    {
+      "text": "- Supervised demolition tasks",
+      "score": 0.9869,
+      "box": [
+        127,
+        432,
+        402,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeTrack Builders, 2014.12–2017.04",
+      "score": 0.9827,
+      "box": [
+        115,
+        472,
+        695,
+        495
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.9938,
+      "box": [
+        125,
+        496,
+        441,
+        521
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9833,
+      "box": [
+        126,
+        521,
+        424,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Estimating, Stonegate University, 2009",
+      "score": 0.9773,
+      "box": [
+        114,
+        631,
+        851,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction measurements",
+      "score": 0.964,
+      "box": [
+        132,
+        656,
+        645,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in concrete basics",
+      "score": 0.9978,
+      "box": [
+        135,
+        682,
+        534,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "KRISTOPHER PERRY\nVA, USA|+1-912-768-3076 |kristopher.perry@example.com\nWORK HISTORY\nConstruction Laborers, CornerWay Construction, 2020.10–2023.01\n- Managed equipment maintenance programs\n-Ledcross-functional coordination\nConstruction Laborers, Precision Build Co., 2018.07–2020.10\n- Conducted material inspections\n- Supervised demolition tasks\nConstruction Laborers, PrimeTrack Builders, 2014.12–2017.04\n- Handled delivery documentation\n- Followed blueprint instructions\nEDUCATION\nSome college (no degree), Construction Estimating, Stonegate University, 2009\n• Completed coursework in construction measurements\n• Completed coursework in concrete basics"
+}

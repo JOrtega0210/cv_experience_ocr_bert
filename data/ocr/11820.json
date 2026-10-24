@@ -1,0 +1,265 @@
+{
+  "id": "11820",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.075,
+  "n_lines": 19,
+  "mean_score": 0.9801,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRONSON BLAKE",
+      "score": 0.9703,
+      "box": [
+        116,
+        90,
+        414,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-373-434-7504 |bronson.blake@example.com",
+      "score": 0.9905,
+      "box": [
+        116,
+        151,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueNorth Builders, 2019.11–2023.01",
+      "score": 0.9778,
+      "box": [
+        114,
+        288,
+        682,
+        313
+      ]
+    },
+    {
+      "text": "- Designed site safety protocols",
+      "score": 0.993,
+      "box": [
+        126,
+        315,
+        422,
+        338
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.98,
+      "box": [
+        127,
+        340,
+        458,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidForm Construction, 2016.08–2019.11",
+      "score": 0.9884,
+      "box": [
+        115,
+        381,
+        725,
+        406
+      ]
+    },
+    {
+      "text": "- Designed site safety protocols",
+      "score": 0.994,
+      "box": [
+        126,
+        406,
+        422,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed workflow efficiency reports",
+      "score": 0.985,
+      "box": [
+        125,
+        430,
+        484,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyStone Builders, 2011.07–2014.10",
+      "score": 0.9651,
+      "box": [
+        114,
+        471,
+        710,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared and poured concrete forms",
+      "score": 0.9672,
+      "box": [
+        126,
+        498,
+        483,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed construction drawings",
+      "score": 0.9665,
+      "box": [
+        125,
+        521,
+        442,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Group, 2007.03–2010.06",
+      "score": 0.9638,
+      "box": [
+        114,
+        563,
+        675,
+        588
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9643,
+      "box": [
+        126,
+        590,
+        440,
+        614
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9799,
+      "box": [
+        126,
+        613,
+        332,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Maintenance, Brookhaven University, 2006",
+      "score": 0.9867,
+      "box": [
+        115,
+        723,
+        847,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction materials handling",
+      "score": 0.9755,
+      "box": [
+        133,
+        749,
+        676,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction mathematics",
+      "score": 0.9903,
+      "box": [
+        135,
+        775,
+        625,
+        795
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "BRONSON BLAKE\nFL, USA|+1-373-434-7504 |bronson.blake@example.com\nWORK HISTORY\nConstruction Laborers, TrueNorth Builders, 2019.11–2023.01\n- Designed site safety protocols\n- Developed construction standards\nConstruction Laborers, SolidForm Construction, 2016.08–2019.11\n- Designed site safety protocols\n- Reviewed workflow efficiency reports\nConstruction Laborers, SteadyStone Builders, 2011.07–2014.10\n- Prepared and poured concrete forms\n- Reviewed construction drawings\nConstruction Laborers, Allied Build Group, 2007.03–2010.06\n- Installed basic flooring materials\n- Secured site fencing\nEDUCATION\nSome college (no degree), Building Maintenance, Brookhaven University, 2006\n• Completed coursework in construction materials handling\n• Completed coursework in construction mathematics"
+}

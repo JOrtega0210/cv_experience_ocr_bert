@@ -1,0 +1,187 @@
+{
+  "id": "58507",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.791,
+  "n_lines": 13,
+  "mean_score": 0.9822,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JULIE HOGAN",
+      "score": 0.9957,
+      "box": [
+        116,
+        90,
+        347,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-429-311-5458 |julie.hogan@example.com",
+      "score": 0.9739,
+      "box": [
+        114,
+        150,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Way Care, 2020.05–2023.01",
+      "score": 0.9846,
+      "box": [
+        115,
+        289,
+        634,
+        314
+      ]
+    },
+    {
+      "text": "- Designed clinical care protocols",
+      "score": 0.9844,
+      "box": [
+        125,
+        314,
+        436,
+        339
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.9535,
+      "box": [
+        126,
+        338,
+        424,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Hands Care, 2014.11–2017.07",
+      "score": 0.9914,
+      "box": [
+        115,
+        381,
+        709,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.9893,
+      "box": [
+        124,
+        405,
+        484,
+        433
+      ]
+    },
+    {
+      "text": "- Assisted with surgical prep",
+      "score": 0.9698,
+      "box": [
+        126,
+        428,
+        390,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Care Management, Windfield University, 2013",
+      "score": 0.9887,
+      "box": [
+        114,
+        539,
+        651,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of health disparities",
+      "score": 0.9837,
+      "box": [
+        132,
+        564,
+        536,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of mobility assistance",
+      "score": 0.97,
+      "box": [
+        133,
+        589,
+        554,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JULIE HOGAN\nWA, USA|+1-429-311-5458 |julie.hogan@example.com\nWORK HISTORY\nRegistered Nurses, Caring Way Care, 2020.05–2023.01\n- Designed clinical care protocols\n- Led infection control programs\nRegistered Nurses, Compassion Hands Care, 2014.11–2017.07\n- Assisted with emergency procedures\n- Assisted with surgical prep\nEDUCATION\nBachelor's, Care Management, Windfield University, 2013\n• Studied fundamentals of health disparities\n• Studied fundamentals of mobility assistance"
+}

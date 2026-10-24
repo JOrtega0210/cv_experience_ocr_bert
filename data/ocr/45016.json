@@ -1,0 +1,148 @@
+{
+  "id": "45016",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.716,
+  "n_lines": 10,
+  "mean_score": 0.9863,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TARYN LEE",
+      "score": 0.9632,
+      "box": [
+        114,
+        90,
+        308,
+        121
+      ]
+    },
+    {
+      "text": "PA,USA|+1-518-820-1874|taryn.lee@example.com",
+      "score": 0.9895,
+      "box": [
+        115,
+        150,
+        621,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Coreline Labs, 2017.08–2020.04",
+      "score": 0.9956,
+      "box": [
+        116,
+        290,
+        625,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9933,
+      "box": [
+        125,
+        314,
+        509,
+        339
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9934,
+      "box": [
+        126,
+        339,
+        402,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Vista University, 2013",
+      "score": 0.9853,
+      "box": [
+        115,
+        449,
+        429,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of user interface development",
+      "score": 0.9772,
+      "box": [
+        132,
+        472,
+        631,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of discrete mathematics",
+      "score": 0.9835,
+      "box": [
+        134,
+        500,
+        576,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "TARYN LEE\nPA,USA|+1-518-820-1874|taryn.lee@example.com\nWORK HISTORY\nSoftware Developers, Coreline Labs, 2017.08–2020.04\n- Assisted with version control operations\n- Participated in code reviews\nEDUCATION\nBachelor's, Vista University, 2013\n• Studied fundamentals of user interface development\n• Studied fundamentals of discrete mathematics"
+}

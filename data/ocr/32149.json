@@ -1,0 +1,265 @@
+{
+  "id": "32149",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.919,
+  "n_lines": 19,
+  "mean_score": 0.9837,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "APOLINAR KHAN",
+      "score": 0.9865,
+      "box": [
+        117,
+        90,
+        399,
+        120
+      ]
+    },
+    {
+      "text": "NV, USA|+1-282-292-2401 |apolinar.khan@example.com",
+      "score": 0.9816,
+      "box": [
+        115,
+        150,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Financial, 2019.03–202.01",
+      "score": 0.9791,
+      "box": [
+        114,
+        289,
+        728,
+        314
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9772,
+      "box": [
+        126,
+        314,
+        502,
+        339
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9753,
+      "box": [
+        127,
+        340,
+        450,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Services, 2015.04–2019.03",
+      "score": 0.9946,
+      "box": [
+        115,
+        381,
+        712,
+        406
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9815,
+      "box": [
+        126,
+        406,
+        424,
+        431
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9799,
+      "box": [
+        125,
+        430,
+        547,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Services, 2011.05–2015.04",
+      "score": 0.979,
+      "box": [
+        114,
+        471,
+        705,
+        495
+      ]
+    },
+    {
+      "text": "- Reviewed financial disclosures",
+      "score": 0.9805,
+      "box": [
+        125,
+        496,
+        428,
+        521
+      ]
+    },
+    {
+      "text": "- Developed budget forecasts",
+      "score": 0.9805,
+      "box": [
+        127,
+        523,
+        403,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Accounting, 2007.06–2011.05",
+      "score": 0.9911,
+      "box": [
+        115,
+        565,
+        721,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.9948,
+      "box": [
+        127,
+        591,
+        357,
+        612
+      ]
+    },
+    {
+      "text": "- Maintained vendor records",
+      "score": 0.986,
+      "box": [
+        127,
+        616,
+        389,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Statistics, Sunrise University, 2008",
+      "score": 0.9716,
+      "box": [
+        114,
+        723,
+        548,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in professional standards",
+      "score": 0.9904,
+      "box": [
+        133,
+        749,
+        600,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in public sector accounting",
+      "score": 0.9767,
+      "box": [
+        133,
+        772,
+        613,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "APOLINAR KHAN\nNV, USA|+1-282-292-2401 |apolinar.khan@example.com\nWORK HISTORY\nAccountants Auditors, Precise Ledger Financial, 2019.03–202.01\n- Led accounting transformation projects\n- Designed accounting frameworks\nAccountants Auditors, OpenBalance Services, 2015.04–2019.03\n- Designed audit methodologies\n- Established compliance monitoring systems\nAccountants Auditors, EverBalance Services, 2011.05–2015.04\n- Reviewed financial disclosures\n- Developed budget forecasts\nAccountants Auditors, FairBalance Accounting, 2007.06–2011.05\n- Prepared trial balances\n- Maintained vendor records\nEDUCATION\nBachelor's, Statistics, Sunrise University, 2008\n• Completed coursework in professional standards\n• Completed coursework in public sector accounting"
+}

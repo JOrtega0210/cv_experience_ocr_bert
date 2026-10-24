@@ -1,0 +1,187 @@
+{
+  "id": "59636",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.772,
+  "n_lines": 13,
+  "mean_score": 0.9827,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MUSTAFA CHEN",
+      "score": 0.9792,
+      "box": [
+        116,
+        90,
+        385,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-930-549-9540|mustafa.chen@example.com",
+      "score": 0.9778,
+      "box": [
+        114,
+        150,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9903,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softpeak Technologies, 220.12–2023.01",
+      "score": 0.9771,
+      "box": [
+        114,
+        289,
+        707,
+        314
+      ]
+    },
+    {
+      "text": "- Led platform migrations",
+      "score": 0.9605,
+      "box": [
+        127,
+        315,
+        361,
+        339
+      ]
+    },
+    {
+      "text": "- Defined API standards",
+      "score": 0.966,
+      "box": [
+        125,
+        338,
+        352,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Digital, 2018.11–2020.12",
+      "score": 0.9893,
+      "box": [
+        115,
+        381,
+        655,
+        406
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.9905,
+      "box": [
+        125,
+        405,
+        332,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed code changes for syntax and logic issues",
+      "score": 0.9855,
+      "box": [
+        126,
+        431,
+        620,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Amber Hills University, 2020",
+      "score": 0.9881,
+      "box": [
+        115,
+        541,
+        488,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in pointer arithmetic basics",
+      "score": 0.9842,
+      "box": [
+        134,
+        566,
+        615,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of test-driven development",
+      "score": 0.9881,
+      "box": [
+        134,
+        591,
+        566,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "MUSTAFA CHEN\nWA, USA|+1-930-549-9540|mustafa.chen@example.com\nWORK HISTORY\nSoftware Developers, Softpeak Technologies, 220.12–2023.01\n- Led platform migrations\n- Defined API standards\nSoftware Developers, Stonepath Digital, 2018.11–2020.12\n- Handled file uploads\n- Reviewed code changes for syntax and logic issues\nEDUCATION\nBachelor's, Amber Hills University, 2020\n• Completed coursework in pointer arithmetic basics\n• Studied principles of test-driven development"
+}

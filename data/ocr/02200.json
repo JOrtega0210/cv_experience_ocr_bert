@@ -1,0 +1,226 @@
+{
+  "id": "02200",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.0,
+  "n_lines": 16,
+  "mean_score": 0.983,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KAREN ENGLISH",
+      "score": 0.9867,
+      "box": [
+        116,
+        90,
+        395,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-334-754-7487 |karen.english@example.com",
+      "score": 0.985,
+      "box": [
+        116,
+        152,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9793,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, TruePath Health Services, 2020.07–2023.01",
+      "score": 0.9945,
+      "box": [
+        116,
+        290,
+        712,
+        313
+      ]
+    },
+    {
+      "text": "- Managed patient safety reporting systems",
+      "score": 0.959,
+      "box": [
+        126,
+        314,
+        530,
+        339
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9887,
+      "box": [
+        127,
+        340,
+        471,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindWay Care Center, 2017.12–2020.07",
+      "score": 0.9741,
+      "box": [
+        115,
+        381,
+        679,
+        406
+      ]
+    },
+    {
+      "text": "-Conducted medication reconciliation",
+      "score": 0.9873,
+      "box": [
+        126,
+        406,
+        476,
+        430
+      ]
+    },
+    {
+      "text": "- Provided wound care management",
+      "score": 0.985,
+      "box": [
+        126,
+        430,
+        467,
+        457
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Care Group, 2013.07–2016.02",
+      "score": 0.9914,
+      "box": [
+        116,
+        473,
+        675,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with diagnostic procedures",
+      "score": 0.995,
+      "box": [
+        125,
+        496,
+        474,
+        522
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9585,
+      "box": [
+        126,
+        521,
+        438,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Technology, Skycrest University, 2007",
+      "score": 0.9788,
+      "box": [
+        115,
+        632,
+        698,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient education",
+      "score": 0.9797,
+      "box": [
+        133,
+        657,
+        537,
+        679
+      ]
+    },
+    {
+      "text": "• Studied principles of evidence-based practice",
+      "score": 0.9862,
+      "box": [
+        135,
+        683,
+        568,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "KAREN ENGLISH\nAR, USA|+1-334-754-7487 |karen.english@example.com\nWORK HISTORY\nRegistered Nurses, TruePath Health Services, 2020.07–2023.01\n- Managed patient safety reporting systems\n- Established care delivery standards\nRegistered Nurses, KindWay Care Center, 2017.12–2020.07\n-Conducted medication reconciliation\n- Provided wound care management\nRegistered Nurses, Harmony Care Group, 2013.07–2016.02\n- Assisted with diagnostic procedures\n- Assisted with patient positioning\nEDUCATION\nBachelor's, Health Care Technology, Skycrest University, 2007\n• Studied fundamentals of patient education\n• Studied principles of evidence-based practice"
+}

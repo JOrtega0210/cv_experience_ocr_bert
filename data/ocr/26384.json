@@ -1,0 +1,265 @@
+{
+  "id": "26384",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.876,
+  "n_lines": 19,
+  "mean_score": 0.984,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARTIN DAVIS",
+      "score": 0.9869,
+      "box": [
+        116,
+        90,
+        360,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-471-294-2399|martin.davis@example.com",
+      "score": 0.9884,
+      "box": [
+        114,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9911,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Software Developers, Netcore Solutions, 2019.09–2023.01",
+      "score": 0.9811,
+      "box": [
+        114,
+        288,
+        660,
+        313
+      ]
+    },
+    {
+      "text": "-Led cross-team technical alignment",
+      "score": 0.9969,
+      "box": [
+        125,
+        314,
+        472,
+        339
+      ]
+    },
+    {
+      "text": "- Designed event-driven architectures",
+      "score": 0.9887,
+      "box": [
+        126,
+        339,
+        476,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Digital, 2016.04–2019.09",
+      "score": 0.9797,
+      "box": [
+        115,
+        381,
+        655,
+        406
+      ]
+    },
+    {
+      "text": "- Led refactoring initiatives",
+      "score": 0.9874,
+      "box": [
+        126,
+        407,
+        374,
+        430
+      ]
+    },
+    {
+      "text": "- Designed high-availability systems",
+      "score": 0.9772,
+      "box": [
+        126,
+        431,
+        461,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Flowstack Tech, 2012.11–201.04",
+      "score": 0.9822,
+      "box": [
+        115,
+        471,
+        642,
+        496
+      ]
+    },
+    {
+      "text": "- Developed access control logic",
+      "score": 0.9792,
+      "box": [
+        125,
+        498,
+        430,
+        521
+      ]
+    },
+    {
+      "text": "- Designed integration tests",
+      "score": 0.9727,
+      "box": [
+        125,
+        521,
+        384,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Digital, 2009.06–2012.11",
+      "score": 0.982,
+      "box": [
+        114,
+        563,
+        649,
+        588
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9869,
+      "box": [
+        125,
+        589,
+        562,
+        614
+      ]
+    },
+    {
+      "text": "- Updated frontend styleshets",
+      "score": 0.9733,
+      "box": [
+        126,
+        614,
+        415,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearview University, 2008",
+      "score": 0.9668,
+      "box": [
+        115,
+        725,
+        473,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of functional programming",
+      "score": 0.9925,
+      "box": [
+        132,
+        748,
+        560,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in tree data structures",
+      "score": 0.9846,
+      "box": [
+        135,
+        773,
+        569,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "MARTIN DAVIS\nMA, USA|+1-471-294-2399|martin.davis@example.com\nWORK HISTORY\nSoftware Developers, Netcore Solutions, 2019.09–2023.01\n-Led cross-team technical alignment\n- Designed event-driven architectures\nSoftware Developers, Codecrest Digital, 2016.04–2019.09\n- Led refactoring initiatives\n- Designed high-availability systems\nSoftware Developers, Flowstack Tech, 2012.11–201.04\n- Developed access control logic\n- Designed integration tests\nSoftware Developers, Clearpath Digital, 2009.06–2012.11\n- Fixed software bugs identified through testing\n- Updated frontend styleshets\nEDUCATION\nBachelor's, Clearview University, 2008\n• Studied principles of functional programming\n• Completed coursework in tree data structures"
+}

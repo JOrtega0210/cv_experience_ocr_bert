@@ -1,0 +1,213 @@
+{
+  "id": "59783",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.794,
+  "n_lines": 15,
+  "mean_score": 0.9837,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LISA PARK",
+      "score": 0.9864,
+      "box": [
+        116,
+        90,
+        299,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-991-505-9084|lisa.park@example.com",
+      "score": 0.9832,
+      "box": [
+        114,
+        150,
+        624,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Corestack Digital, 2020.08–2023.01",
+      "score": 0.9684,
+      "box": [
+        115,
+        289,
+        651,
+        312
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9799,
+      "box": [
+        127,
+        315,
+        461,
+        338
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9884,
+      "box": [
+        126,
+        339,
+        447,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightway Systems, 2018.02–2020.08",
+      "score": 0.9896,
+      "box": [
+        115,
+        381,
+        673,
+        406
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9839,
+      "box": [
+        125,
+        406,
+        400,
+        432
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.9797,
+      "box": [
+        125,
+        430,
+        355,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Doctorate, Riverdale University, 2021",
+      "score": 0.9746,
+      "box": [
+        115,
+        541,
+        462,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Redwood University, 2016",
+      "score": 0.9917,
+      "box": [
+        115,
+        565,
+        469,
+        588
+      ]
+    },
+    {
+      "text": "• Studied principles of image processing",
+      "score": 0.987,
+      "box": [
+        132,
+        590,
+        505,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of software metrics",
+      "score": 0.9964,
+      "box": [
+        133,
+        616,
+        530,
+        638
+      ]
+    },
+    {
+      "text": "• Studied principles of big data systems",
+      "score": 0.9677,
+      "box": [
+        132,
+        640,
+        499,
+        665
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "LISA PARK\nWA, USA|+1-991-505-9084|lisa.park@example.com\nWORK HISTORY\nSoftware Developers, Corestack Digital, 2020.08–2023.01\n- Implemented service orchestration\n- Designed caching infrastructures\nSoftware Developers, Brightway Systems, 2018.02–2020.08\n- Wrote configuration parsers\n- Reviewed error reports\nEDUCATION\nDoctorate, Riverdale University, 2021\nBachelor's, Redwood University, 2016\n• Studied principles of image processing\n• Studied fundamentals of software metrics\n• Studied principles of big data systems"
+}

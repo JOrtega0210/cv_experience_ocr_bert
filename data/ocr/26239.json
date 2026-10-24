@@ -1,0 +1,278 @@
+{
+  "id": "26239",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.999,
+  "n_lines": 20,
+  "mean_score": 0.9815,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SABRINA DUNCAN",
+      "score": 0.9759,
+      "box": [
+        116,
+        90,
+        425,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-231-995-7652 |sabrina.duncan@example.com",
+      "score": 0.9789,
+      "box": [
+        116,
+        152,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.98,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Star School, 2020.07–2023.01",
+      "score": 0.9692,
+      "box": [
+        115,
+        290,
+        804,
+        314
+      ]
+    },
+    {
+      "text": "- Led professional development planning",
+      "score": 0.9879,
+      "box": [
+        126,
+        314,
+        505,
+        339
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.9851,
+      "box": [
+        126,
+        339,
+        504,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Way Academy, 2018.01–2020.07",
+      "score": 0.9896,
+      "box": [
+        116,
+        382,
+        859,
+        406
+      ]
+    },
+    {
+      "text": "- Developed instructional innovation plans",
+      "score": 0.9937,
+      "box": [
+        126,
+        406,
+        516,
+        431
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.9753,
+      "box": [
+        126,
+        431,
+        533,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightPath Learning Center, 2015.07–2018.01",
+      "score": 0.977,
+      "box": [
+        115,
+        472,
+        889,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented classroom routines",
+      "score": 0.957,
+      "box": [
+        126,
+        498,
+        444,
+        521
+      ]
+    },
+    {
+      "text": "- Evaluated student portfolios",
+      "score": 0.9846,
+      "box": [
+        126,
+        521,
+        400,
+        546
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Grove School, 2010.11–2013.06",
+      "score": 0.9649,
+      "box": [
+        116,
+        565,
+        862,
+        588
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9778,
+      "box": [
+        126,
+        590,
+        395,
+        613
+      ]
+    },
+    {
+      "text": "- Distributed instructional handouts",
+      "score": 0.9875,
+      "box": [
+        127,
+        615,
+        450,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        679,
+        266,
+        703
+      ]
+    },
+    {
+      "text": "Master's, Human Development, Heritage University, 2006",
+      "score": 0.9802,
+      "box": [
+        115,
+        725,
+        649,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, General Education, Briarwood University, 2004",
+      "score": 0.9792,
+      "box": [
+        114,
+        747,
+        659,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of learning environments",
+      "score": 0.9976,
+      "box": [
+        134,
+        772,
+        584,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in introductory child psychology",
+      "score": 0.9905,
+      "box": [
+        133,
+        798,
+        656,
+        824
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "SABRINA DUNCAN\nMA, USA|+1-231-995-7652 |sabrina.duncan@example.com\nWORK HISTORY\nElementary Middle School Teachers, Bright Star School, 2020.07–2023.01\n- Led professional development planning\n- Designed systemic intervention models\nElementary Middle School Teachers, Learning Way Academy, 2018.01–2020.07\n- Developed instructional innovation plans\n- Developed instructional evaluation metrics\nElementary Middle School Teachers, BrightPath Learning Center, 2015.07–2018.01\n- Implemented classroom routines\n- Evaluated student portfolios\nElementary Middle School Teachers, Discovery Grove School, 2010.11–2013.06\n- Collected permission forms\n- Distributed instructional handouts\nEDUCATION\nMaster's, Human Development, Heritage University, 2006\nBachelor's, General Education, Briarwood University, 2004\n• Studied fundamentals of learning environments\n• Completed coursework in introductory child psychology"
+}

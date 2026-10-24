@@ -1,0 +1,213 @@
+{
+  "id": "31733",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.862,
+  "n_lines": 15,
+  "mean_score": 0.9831,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DANIEL HUFFMAN",
+      "score": 0.9743,
+      "box": [
+        116,
+        90,
+        416,
+        120
+      ]
+    },
+    {
+      "text": "NE, USA|+1-617-606-1368|daniel.huffman@example.com",
+      "score": 0.9946,
+      "box": [
+        115,
+        150,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearStone Builders, 2020.01–2023.01",
+      "score": 0.9815,
+      "box": [
+        115,
+        290,
+        693,
+        313
+      ]
+    },
+    {
+      "text": "- Managed equipment maintenance programs",
+      "score": 0.964,
+      "box": [
+        125,
+        314,
+        552,
+        340
+      ]
+    },
+    {
+      "text": "- Supervised multiple work crews",
+      "score": 0.9896,
+      "box": [
+        126,
+        339,
+        435,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeWay Construction, 2014.11–2017.11",
+      "score": 0.9941,
+      "box": [
+        116,
+        382,
+        726,
+        405
+      ]
+    },
+    {
+      "text": "- Interpreted blueprints for task execution",
+      "score": 0.9617,
+      "box": [
+        126,
+        407,
+        508,
+        430
+      ]
+    },
+    {
+      "text": "- Performed masonry work",
+      "score": 0.9815,
+      "box": [
+        125,
+        429,
+        377,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeWorks Contractors, 2011.03–2014.04",
+      "score": 0.9942,
+      "box": [
+        115,
+        472,
+        736,
+        495
+      ]
+    },
+    {
+      "text": "- Loaded and unloaded construction materials",
+      "score": 0.976,
+      "box": [
+        126,
+        497,
+        552,
+        519
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.969,
+      "box": [
+        126,
+        521,
+        440,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Trades, Silverlake High School, 2006",
+      "score": 0.9915,
+      "box": [
+        116,
+        632,
+        800,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of building permits overview",
+      "score": 0.9904,
+      "box": [
+        132,
+        656,
+        577,
+        681
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "DANIEL HUFFMAN\nNE, USA|+1-617-606-1368|daniel.huffman@example.com\nWORK HISTORY\nConstruction Laborers, ClearStone Builders, 2020.01–2023.01\n- Managed equipment maintenance programs\n- Supervised multiple work crews\nConstruction Laborers, PrimeWay Construction, 2014.11–2017.11\n- Interpreted blueprints for task execution\n- Performed masonry work\nConstruction Laborers, PrimeWorks Contractors, 2011.03–2014.04\n- Loaded and unloaded construction materials\n- Installed basic flooring materials\nEDUCATION\nHigh school graduate/GED, Building Trades, Silverlake High School, 2006\n• Studied principles of building permits overview"
+}

@@ -1,0 +1,278 @@
+{
+  "id": "00140",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.019,
+  "n_lines": 20,
+  "mean_score": 0.9829,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RICK BLACK",
+      "score": 0.9709,
+      "box": [
+        115,
+        88,
+        328,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA|+1-441-502-1311 |rick.black@example.com",
+      "score": 0.984,
+      "box": [
+        115,
+        150,
+        625,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9866,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datapoint Solutions, 2020.07–2023.01",
+      "score": 0.9775,
+      "box": [
+        116,
+        290,
+        675,
+        314
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9814,
+      "box": [
+        126,
+        315,
+        380,
+        338
+      ]
+    },
+    {
+      "text": "- Developed system monitoring strategies",
+      "score": 0.972,
+      "box": [
+        126,
+        339,
+        513,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Datapoint Labs, 2018.01–2020.07",
+      "score": 0.9805,
+      "box": [
+        116,
+        382,
+        637,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented performance optimization plans",
+      "score": 0.9935,
+      "box": [
+        126,
+        406,
+        559,
+        431
+      ]
+    },
+    {
+      "text": "- Led refactoring initiatives",
+      "score": 0.9842,
+      "box": [
+        126,
+        430,
+        373,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Technologies, 2015.06–2018.01",
+      "score": 0.984,
+      "box": [
+        114,
+        470,
+        691,
+        498
+      ]
+    },
+    {
+      "text": "- Implemented logging frameworks",
+      "score": 0.9818,
+      "box": [
+        126,
+        498,
+        449,
+        521
+      ]
+    },
+    {
+      "text": "- Built containerized services",
+      "score": 0.9644,
+      "box": [
+        126,
+        522,
+        395,
+        544
+      ]
+    },
+    {
+      "text": "Software Developers, Clearfield Labs, 2012.11–2015.06",
+      "score": 0.9783,
+      "box": [
+        114,
+        563,
+        636,
+        588
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.9898,
+      "box": [
+        126,
+        590,
+        484,
+        613
+      ]
+    },
+    {
+      "text": "- Performed code formatting",
+      "score": 0.9787,
+      "box": [
+        125,
+        613,
+        389,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Windfield University, 2013",
+      "score": 0.9951,
+      "box": [
+        115,
+        724,
+        449,
+        746
+      ]
+    },
+    {
+      "text": "Bachelor's, Springfield University, 2011",
+      "score": 0.9941,
+      "box": [
+        115,
+        748,
+        479,
+        771
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of recursion techniques",
+      "score": 0.983,
+      "box": [
+        132,
+        772,
+        571,
+        797
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of stack and heap usage",
+      "score": 0.9795,
+      "box": [
+        132,
+        797,
+        583,
+        823
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "RICK BLACK\nAL, USA|+1-441-502-1311 |rick.black@example.com\nWORK HISTORY\nSoftware Developers, Datapoint Solutions, 2020.07–2023.01\n- Defined coding standards\n- Developed system monitoring strategies\nSoftware Developers, Datapoint Labs, 2018.01–2020.07\n- Implemented performance optimization plans\n- Led refactoring initiatives\nSoftware Developers, Netline Technologies, 2015.06–2018.01\n- Implemented logging frameworks\n- Built containerized services\nSoftware Developers, Clearfield Labs, 2012.11–2015.06\n- Logged and tracked software defects\n- Performed code formatting\nEDUCATION\nMaster's, Windfield University, 2013\nBachelor's, Springfield University, 2011\n• Studied fundamentals of recursion techniques\n• Studied fundamentals of stack and heap usage"
+}

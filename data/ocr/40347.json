@@ -1,0 +1,187 @@
+{
+  "id": "40347",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.836,
+  "n_lines": 13,
+  "mean_score": 0.9849,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAMES KIM",
+      "score": 0.9878,
+      "box": [
+        114,
+        88,
+        306,
+        122
+      ]
+    },
+    {
+      "text": "NC, USA |+1-223-225-1584 |james.kim@example.com",
+      "score": 0.9804,
+      "box": [
+        116,
+        151,
+        636,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9833,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Group, 2020.09–2023.01",
+      "score": 0.9923,
+      "box": [
+        115,
+        289,
+        659,
+        313
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9712,
+      "box": [
+        125,
+        313,
+        494,
+        339
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.9783,
+      "box": [
+        126,
+        339,
+        502,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Co., 2015.11–2018.03",
+      "score": 0.9899,
+      "box": [
+        115,
+        382,
+        689,
+        405
+      ]
+    },
+    {
+      "text": "- Matched invoices to purchase orders",
+      "score": 0.9916,
+      "box": [
+        126,
+        407,
+        483,
+        430
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9797,
+      "box": [
+        127,
+        432,
+        511,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Quantitative Finance, Elmwood Ridge University, 2015",
+      "score": 0.9844,
+      "box": [
+        114,
+        539,
+        731,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of substantive testing",
+      "score": 0.9745,
+      "box": [
+        132,
+        564,
+        552,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in environmental accounting basics",
+      "score": 0.992,
+      "box": [
+        135,
+        591,
+        692,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JAMES KIM\nNC, USA |+1-223-225-1584 |james.kim@example.com\nWORK HISTORY\nAccountants Auditors, EverCount Group, 2020.09–2023.01\n- Established financial data governance\n- Directed strategic accounting initiatives\nAccountants Auditors, Balanced Books Co., 2015.11–2018.03\n- Matched invoices to purchase orders\n- Maintained accounting software records\nEDUCATION\nBachelor's, Quantitative Finance, Elmwood Ridge University, 2015\n• Studied fundamentals of substantive testing\n• Completed coursework in environmental accounting basics"
+}

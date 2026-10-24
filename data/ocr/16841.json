@@ -1,0 +1,226 @@
+{
+  "id": "16841",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.969,
+  "n_lines": 16,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LISA HO",
+      "score": 0.9569,
+      "box": [
+        114,
+        88,
+        256,
+        123
+      ]
+    },
+    {
+      "text": "HI, USA|+1-870-260-2056 |lisa.ho@example.com",
+      "score": 0.9827,
+      "box": [
+        115,
+        150,
+        594,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9792,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleBridge Nursing, 2020.09–2023.01",
+      "score": 0.9808,
+      "box": [
+        115,
+        289,
+        673,
+        314
+      ]
+    },
+    {
+      "text": "- Designed clinical documentation standards",
+      "score": 0.9765,
+      "box": [
+        127,
+        315,
+        539,
+        338
+      ]
+    },
+    {
+      "text": "- Directed interdisciplinary workflow alignment",
+      "score": 0.9849,
+      "box": [
+        126,
+        339,
+        554,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeSpring Nursing, 2018.05–2020.09",
+      "score": 0.9911,
+      "box": [
+        116,
+        382,
+        647,
+        406
+      ]
+    },
+    {
+      "text": "- Administered chemotherapy protocols",
+      "score": 0.9904,
+      "box": [
+        125,
+        406,
+        492,
+        431
+      ]
+    },
+    {
+      "text": "- Managed care for chronic conditions",
+      "score": 0.9953,
+      "box": [
+        127,
+        432,
+        479,
+        454
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearView Health Center, 2015.12–2018.05",
+      "score": 0.9832,
+      "box": [
+        116,
+        473,
+        705,
+        496
+      ]
+    },
+    {
+      "text": "- Conducted basic patient assessments",
+      "score": 0.9843,
+      "box": [
+        125,
+        496,
+        494,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9845,
+      "box": [
+        126,
+        521,
+        479,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Education, Stonehaven University, 2013",
+      "score": 0.9892,
+      "box": [
+        115,
+        632,
+        663,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of infection diseases nursing",
+      "score": 0.9663,
+      "box": [
+        132,
+        656,
+        619,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of infection control",
+      "score": 0.975,
+      "box": [
+        134,
+        681,
+        488,
+        704
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "LISA HO\nHI, USA|+1-870-260-2056 |lisa.ho@example.com\nWORK HISTORY\nRegistered Nurses, GentleBridge Nursing, 2020.09–2023.01\n- Designed clinical documentation standards\n- Directed interdisciplinary workflow alignment\nRegistered Nurses, LifeSpring Nursing, 2018.05–2020.09\n- Administered chemotherapy protocols\n- Managed care for chronic conditions\nRegistered Nurses, ClearView Health Center, 2015.12–2018.05\n- Conducted basic patient assessments\n- Prepared medical equipment for use\nEDUCATION\nBachelor's, Health Education, Stonehaven University, 2013\n• Studied fundamentals of infection diseases nursing\n• Studied principles of infection control"
+}

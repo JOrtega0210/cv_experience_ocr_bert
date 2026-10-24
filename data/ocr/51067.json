@@ -1,0 +1,226 @@
+{
+  "id": "51067",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.788,
+  "n_lines": 16,
+  "mean_score": 0.9784,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DAVID PATEL",
+      "score": 0.9593,
+      "box": [
+        116,
+        90,
+        341,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-519-225-9746|david.patel@example.com",
+      "score": 0.9819,
+      "box": [
+        115,
+        150,
+        639,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9875,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Labs, 2020.02–202.01",
+      "score": 0.9679,
+      "box": [
+        115,
+        288,
+        640,
+        313
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9453,
+      "box": [
+        125,
+        313,
+        380,
+        338
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.991,
+      "box": [
+        126,
+        339,
+        449,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Labs, 2016.07–2019.06",
+      "score": 0.9855,
+      "box": [
+        116,
+        382,
+        642,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented logging frameworks",
+      "score": 0.9918,
+      "box": [
+        127,
+        407,
+        449,
+        431
+      ]
+    },
+    {
+      "text": "- Designed API contracts",
+      "score": 0.9763,
+      "box": [
+        126,
+        432,
+        361,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Openpoint Tech, 2012.09–2015.08",
+      "score": 0.9749,
+      "box": [
+        115,
+        471,
+        645,
+        496
+      ]
+    },
+    {
+      "text": "- Maintained code repositories",
+      "score": 0.9656,
+      "box": [
+        125,
+        496,
+        410,
+        521
+      ]
+    },
+    {
+      "text": "- Handled input sanitization",
+      "score": 0.984,
+      "box": [
+        126,
+        521,
+        382,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Windermere University, 2003",
+      "score": 0.9813,
+      "box": [
+        115,
+        632,
+        495,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of concurrency",
+      "score": 0.9704,
+      "box": [
+        132,
+        655,
+        492,
+        682
+      ]
+    },
+    {
+      "text": "• Studied principles of ACID properties",
+      "score": 0.9921,
+      "box": [
+        134,
+        681,
+        490,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "DAVID PATEL\nTX, USA|+1-519-225-9746|david.patel@example.com\nWORK HISTORY\nSoftware Developers, Corewave Labs, 2020.02–202.01\n- Defined coding standards\n- Designed data storage strategies\nSoftware Developers, Corewave Labs, 2016.07–2019.06\n- Implemented logging frameworks\n- Designed API contracts\nSoftware Developers, Openpoint Tech, 2012.09–2015.08\n- Maintained code repositories\n- Handled input sanitization\nEDUCATION\nBachelor's, Windermere University, 2003\n• Studied fundamentals of concurrency\n• Studied principles of ACID properties"
+}

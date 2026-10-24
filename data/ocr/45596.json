@@ -1,0 +1,278 @@
+{
+  "id": "45596",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.003,
+  "n_lines": 20,
+  "mean_score": 0.9817,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MISTY HAYNES",
+      "score": 0.9895,
+      "box": [
+        116,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-726-231-4737 |misty.haynes@example.com",
+      "score": 0.9768,
+      "box": [
+        115,
+        150,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9897,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Path Academy, 2018.11–2023.01",
+      "score": 0.9867,
+      "box": [
+        115,
+        289,
+        858,
+        313
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.9469,
+      "box": [
+        127,
+        315,
+        510,
+        338
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.9841,
+      "box": [
+        126,
+        339,
+        525,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Futures Academy, 2014.08–2018.11",
+      "score": 0.9924,
+      "box": [
+        115,
+        381,
+        887,
+        406
+      ]
+    },
+    {
+      "text": "- Led instructional leadership initiatives",
+      "score": 0.9825,
+      "box": [
+        126,
+        406,
+        488,
+        431
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.9946,
+      "box": [
+        127,
+        432,
+        533,
+        454
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Futures Academy, 2010.05–2014.08",
+      "score": 0.9804,
+      "box": [
+        114,
+        471,
+        861,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared remediation materials",
+      "score": 0.9898,
+      "box": [
+        127,
+        499,
+        433,
+        519
+      ]
+    },
+    {
+      "text": "- Developed instructional resources",
+      "score": 0.9902,
+      "box": [
+        126,
+        521,
+        457,
+        547
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Path Academy, 2006.02–2010.05",
+      "score": 0.9711,
+      "box": [
+        116,
+        565,
+        840,
+        588
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.9805,
+      "box": [
+        125,
+        590,
+        411,
+        612
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.9767,
+      "box": [
+        127,
+        615,
+        399,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Education and Development, Briarwood University, 2006",
+      "score": 0.9785,
+      "box": [
+        115,
+        725,
+        730,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Youth Development, EIm Valley University, 2004",
+      "score": 0.9518,
+      "box": [
+        114,
+        747,
+        675,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of instructional communication",
+      "score": 0.9917,
+      "box": [
+        134,
+        775,
+        599,
+        795
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom learning strategies",
+      "score": 0.9804,
+      "box": [
+        132,
+        798,
+        660,
+        822
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "MISTY HAYNES\nPA, USA|+1-726-231-4737 |misty.haynes@example.com\nWORK HISTORY\nElementary Middle School Teachers, Learning Path Academy, 2018.11–2023.01\n- Led curriculum transformation initiatives\n- Directed academic intervention strategies\nElementary Middle School Teachers, Learning Futures Academy, 2014.08–2018.11\n- Led instructional leadership initiatives\n- Developed instructional evaluation metrics\nElementary Middle School Teachers, Bright Futures Academy, 2010.05–2014.08\n- Prepared remediation materials\n- Developed instructional resources\nElementary Middle School Teachers, Future Path Academy, 2006.02–2010.05\n- Reviewed curriculum content\n- Conducted spelling practice\nEDUCATION\nMaster's, Education and Development, Briarwood University, 2006\nBachelor's, Youth Development, EIm Valley University, 2004\n• Studied principles of instructional communication\n• Completed coursework in classroom learning strategies"
+}

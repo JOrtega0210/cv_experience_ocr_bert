@@ -1,0 +1,265 @@
+{
+  "id": "03022",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.029,
+  "n_lines": 19,
+  "mean_score": 0.9835,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LINDA TANNER",
+      "score": 0.98,
+      "box": [
+        116,
+        90,
+        369,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA|+1-820-280-1209 |linda.tanner@example.com",
+      "score": 0.9793,
+      "box": [
+        116,
+        151,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9865,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Services, 2018.07–2023.01",
+      "score": 0.9871,
+      "box": [
+        115,
+        290,
+        705,
+        313
+      ]
+    },
+    {
+      "text": "- Established audit governance structures",
+      "score": 0.9818,
+      "box": [
+        126,
+        313,
+        514,
+        339
+      ]
+    },
+    {
+      "text": "- Developed risk management frameworks",
+      "score": 0.9848,
+      "box": [
+        127,
+        340,
+        521,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Advisors Group, 2014.01–2018.07",
+      "score": 0.9898,
+      "box": [
+        115,
+        381,
+        772,
+        406
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.9892,
+      "box": [
+        126,
+        405,
+        433,
+        431
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.9734,
+      "box": [
+        126,
+        429,
+        502,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Services, 2009.07–2014.01",
+      "score": 0.9885,
+      "box": [
+        115,
+        472,
+        685,
+        495
+      ]
+    },
+    {
+      "text": "- Managed accounts receivable cycles",
+      "score": 0.9717,
+      "box": [
+        125,
+        496,
+        483,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared financial projections",
+      "score": 0.975,
+      "box": [
+        126,
+        521,
+        418,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Financial, 2004.12–2009.07",
+      "score": 0.98,
+      "box": [
+        115,
+        565,
+        715,
+        588
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.988,
+      "box": [
+        125,
+        589,
+        420,
+        614
+      ]
+    },
+    {
+      "text": "- Maintained chart of accounts",
+      "score": 0.9879,
+      "box": [
+        127,
+        614,
+        409,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Commerce, Elmwood Ridge University, 2004",
+      "score": 0.9604,
+      "box": [
+        114,
+        723,
+        641,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial disclosure",
+      "score": 0.9888,
+      "box": [
+        135,
+        750,
+        565,
+        770
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit risk modeling",
+      "score": 0.9956,
+      "box": [
+        134,
+        772,
+        563,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "LINDA TANNER\nCA, USA|+1-820-280-1209 |linda.tanner@example.com\nWORK HISTORY\nAccountants Auditors, CoreBalance Services, 2018.07–2023.01\n- Established audit governance structures\n- Developed risk management frameworks\nAccountants Auditors, SolidBalance Advisors Group, 2014.01–2018.07\n- Established accounting policies\n- Directed strategic accounting initiatives\nAccountants Auditors, CoreCount Services, 2009.07–2014.01\n- Managed accounts receivable cycles\n- Prepared financial projections\nAccountants Auditors, ClearBalance Financial, 2004.12–2009.07\n- Reconciled subsidiary ledgers\n- Maintained chart of accounts\nEDUCATION\nBachelor's, Commerce, Elmwood Ridge University, 2004\n• Completed coursework in financial disclosure\n• Completed coursework in audit risk modeling"
+}

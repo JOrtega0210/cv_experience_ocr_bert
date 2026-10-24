@@ -1,0 +1,239 @@
+{
+  "id": "38642",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.941,
+  "n_lines": 17,
+  "mean_score": 0.9796,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAMES SHAFFER",
+      "score": 0.9863,
+      "box": [
+        116,
+        90,
+        400,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-900-208-1463 |james.shaffer@example.com",
+      "score": 0.9826,
+      "box": [
+        115,
+        150,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Advisors, 2020.02–2023.01",
+      "score": 0.9582,
+      "box": [
+        114,
+        289,
+        685,
+        314
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9728,
+      "box": [
+        126,
+        314,
+        514,
+        339
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.9896,
+      "box": [
+        126,
+        339,
+        478,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Financial Group, 2017.02–2020.02",
+      "score": 0.9778,
+      "box": [
+        114,
+        381,
+        809,
+        406
+      ]
+    },
+    {
+      "text": "- Developed budget forecasts",
+      "score": 0.9767,
+      "box": [
+        125,
+        407,
+        402,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared tax compliance filings",
+      "score": 0.9892,
+      "box": [
+        126,
+        431,
+        432,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Services, 2014.02–2017.02",
+      "score": 0.9876,
+      "box": [
+        115,
+        472,
+        680,
+        495
+      ]
+    },
+    {
+      "text": "- Reviewed vendor payments",
+      "score": 0.9577,
+      "box": [
+        125,
+        496,
+        400,
+        521
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.9812,
+      "box": [
+        127,
+        522,
+        414,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Corporate Finance, Riverfield University, 2014",
+      "score": 0.9907,
+      "box": [
+        115,
+        632,
+        634,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Investment Management, Briarwood University, 2012",
+      "score": 0.9758,
+      "box": [
+        114,
+        656,
+        716,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework infinancial data interpretation",
+      "score": 0.9578,
+      "box": [
+        134,
+        683,
+        638,
+        703
+      ]
+    },
+    {
+      "text": "• Completed coursework in management information systems",
+      "score": 0.9845,
+      "box": [
+        133,
+        706,
+        702,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "JAMES SHAFFER\nNY, USA|+1-900-208-1463 |james.shaffer@example.com\nWORK HISTORY\nAccountants Auditors, FairLedger Advisors, 2020.02–2023.01\n- Developed long-term financial strategies\n- Led regulatory compliance initiatives\nAccountants Auditors, Reliable Balance Financial Group, 2017.02–2020.02\n- Developed budget forecasts\n- Prepared tax compliance filings\nAccountants Auditors, FairBooks Services, 2014.02–2017.02\n- Reviewed vendor payments\n- Verified financial transactions\nEDUCATION\nMaster's, Corporate Finance, Riverfield University, 2014\nBachelor's, Investment Management, Briarwood University, 2012\n• Completed coursework infinancial data interpretation\n• Completed coursework in management information systems"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "01814",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.969,
+  "n_lines": 13,
+  "mean_score": 0.9773,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KEVIN WARREN",
+      "score": 0.961,
+      "box": [
+        116,
+        90,
+        379,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-557-456-5853 |kevin.warren@example.com",
+      "score": 0.9723,
+      "box": [
+        115,
+        151,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9827,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Star School, 221.07–2023.01",
+      "score": 0.9826,
+      "box": [
+        115,
+        289,
+        804,
+        314
+      ]
+    },
+    {
+      "text": "- Developed student performance metrics",
+      "score": 0.9722,
+      "box": [
+        126,
+        315,
+        512,
+        338
+      ]
+    },
+    {
+      "text": "- Led instructional technology integration",
+      "score": 0.9873,
+      "box": [
+        126,
+        339,
+        505,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Valley School, 2019.12–2021.07",
+      "score": 0.9784,
+      "box": [
+        115,
+        381,
+        821,
+        406
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.9921,
+      "box": [
+        126,
+        406,
+        518,
+        432
+      ]
+    },
+    {
+      "text": "- Collected student assignments",
+      "score": 0.968,
+      "box": [
+        126,
+        430,
+        427,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), General Education, Pine Valley University, 2019",
+      "score": 0.9699,
+      "box": [
+        115,
+        539,
+        813,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional goal setting",
+      "score": 0.952,
+      "box": [
+        132,
+        564,
+        603,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of academic scaffolding",
+      "score": 0.988,
+      "box": [
+        133,
+        590,
+        536,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KEVIN WARREN\nAZ, USA|+1-557-456-5853 |kevin.warren@example.com\nWORK HISTORY\nElementary Middle School Teachers, Bright Star School, 221.07–2023.01\n- Developed student performance metrics\n- Led instructional technology integration\nElementary Middle School Teachers, Open Valley School, 2019.12–2021.07\n- Supported standardized testing sessions\n- Collected student assignments\nEDUCATION\nSome college (no degree), General Education, Pine Valley University, 2019\n• Studied fundamentals of instructional goal setting\n• Studied principles of academic scaffolding"
+}

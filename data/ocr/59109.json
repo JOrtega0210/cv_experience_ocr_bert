@@ -1,0 +1,226 @@
+{
+  "id": "59109",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.842,
+  "n_lines": 16,
+  "mean_score": 0.9861,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ROSS GIBBS",
+      "score": 0.9781,
+      "box": [
+        116,
+        90,
+        327,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-557-749-1294|ross.gibbs@example.com",
+      "score": 0.9791,
+      "box": [
+        114,
+        150,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Way Care, 2019.12–2023.01",
+      "score": 0.9888,
+      "box": [
+        115,
+        289,
+        688,
+        314
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.9887,
+      "box": [
+        127,
+        315,
+        392,
+        338
+      ]
+    },
+    {
+      "text": "- Developed patient safety programs",
+      "score": 0.9712,
+      "box": [
+        127,
+        339,
+        466,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Services, 2016.04–2019.05",
+      "score": 0.9922,
+      "box": [
+        115,
+        381,
+        713,
+        406
+      ]
+    },
+    {
+      "text": "- Administered sedation protocols",
+      "score": 0.9973,
+      "box": [
+        125,
+        406,
+        440,
+        431
+      ]
+    },
+    {
+      "text": "- Coordinated interdisciplinary care",
+      "score": 0.9852,
+      "box": [
+        126,
+        430,
+        452,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearPath Nursing Group, 2011.11–2015.01",
+      "score": 0.9955,
+      "box": [
+        116,
+        473,
+        708,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with surgical prep",
+      "score": 0.9876,
+      "box": [
+        125,
+        496,
+        390,
+        523
+      ]
+    },
+    {
+      "text": "- Performed wound dressing changes",
+      "score": 0.9901,
+      "box": [
+        126,
+        521,
+        476,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Studies, Clearwater University, 2002",
+      "score": 0.9876,
+      "box": [
+        115,
+        631,
+        629,
+        654
+      ]
+    },
+    {
+      "text": "• Completed coursework in electronic health records",
+      "score": 0.9771,
+      "box": [
+        134,
+        657,
+        618,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in rehabilitation nursing",
+      "score": 0.9741,
+      "box": [
+        136,
+        682,
+        582,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ROSS GIBBS\nWA, USA|+1-557-749-1294|ross.gibbs@example.com\nWORK HISTORY\nRegistered Nurses, Compassion Way Care, 2019.12–2023.01\n- Led nursing process audits\n- Developed patient safety programs\nRegistered Nurses, Harmony Health Services, 2016.04–2019.05\n- Administered sedation protocols\n- Coordinated interdisciplinary care\nRegistered Nurses, ClearPath Nursing Group, 2011.11–2015.01\n- Assisted with surgical prep\n- Performed wound dressing changes\nEDUCATION\nBachelor's, Health Studies, Clearwater University, 2002\n• Completed coursework in electronic health records\n• Completed coursework in rehabilitation nursing"
+}

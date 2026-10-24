@@ -1,0 +1,200 @@
+{
+  "id": "03874",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.987,
+  "n_lines": 14,
+  "mean_score": 0.9791,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "EVELYN CAMPBELL",
+      "score": 0.989,
+      "box": [
+        117,
+        90,
+        446,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA|+1-416-486-7181 |evelyn.campbell@example.com",
+      "score": 0.9646,
+      "box": [
+        117,
+        152,
+        691,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9796,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Bridge Academy, 2019.03–2021.08",
+      "score": 0.9689,
+      "box": [
+        116,
+        290,
+        857,
+        313
+      ]
+    },
+    {
+      "text": "- Led curriculum alignment initiatives",
+      "score": 0.9659,
+      "box": [
+        127,
+        315,
+        467,
+        338
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.9952,
+      "box": [
+        127,
+        340,
+        509,
+        362
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Horizons School, 2016.01–2018.07",
+      "score": 0.9835,
+      "box": [
+        115,
+        381,
+        877,
+        405
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.9931,
+      "box": [
+        126,
+        407,
+        443,
+        429
+      ]
+    },
+    {
+      "text": "- Supported art instruction",
+      "score": 0.9508,
+      "box": [
+        126,
+        430,
+        369,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Master's, Learning Skills, Harborview University, 2013",
+      "score": 0.9737,
+      "box": [
+        115,
+        541,
+        616,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning and Teaching Studies, High Meadow University, 2011",
+      "score": 0.9842,
+      "box": [
+        114,
+        565,
+        807,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in reading fluency strategies",
+      "score": 0.9737,
+      "box": [
+        133,
+        590,
+        626,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of instructional communication",
+      "score": 0.9869,
+      "box": [
+        133,
+        615,
+        600,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "EVELYN CAMPBELL\nCA, USA|+1-416-486-7181 |evelyn.campbell@example.com\nWORK HISTORY\nElementary Middle School Teachers, Future Bridge Academy, 2019.03–2021.08\n- Led curriculum alignment initiatives\n- Led curriculum transformation initiatives\nElementary Middle School Teachers, Learning Horizons School, 2016.01–2018.07\n- Scheduled instructional activities\n- Supported art instruction\nEDUCATION\nMaster's, Learning Skills, Harborview University, 2013\nBachelor's, Learning and Teaching Studies, High Meadow University, 2011\n• Completed coursework in reading fluency strategies\n• Studied principles of instructional communication"
+}

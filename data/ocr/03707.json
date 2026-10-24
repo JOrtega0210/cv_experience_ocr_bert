@@ -1,0 +1,148 @@
+{
+  "id": "03707",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.807,
+  "n_lines": 10,
+  "mean_score": 0.9815,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JERRY MURRAY",
+      "score": 0.9858,
+      "box": [
+        116,
+        90,
+        386,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA|+1-693-629-2320 |jerry.murray@example.com",
+      "score": 0.9782,
+      "box": [
+        117,
+        152,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softpath Digital, 2018.03–2020.08",
+      "score": 0.9809,
+      "box": [
+        115,
+        289,
+        638,
+        314
+      ]
+    },
+    {
+      "text": "- Updated monitoring dashboards",
+      "score": 0.9628,
+      "box": [
+        127,
+        315,
+        440,
+        339
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9627,
+      "box": [
+        126,
+        339,
+        352,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Goldenfield University, 2016",
+      "score": 0.9949,
+      "box": [
+        115,
+        449,
+        487,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in software design patterns",
+      "score": 0.9734,
+      "box": [
+        132,
+        473,
+        618,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of microservices architecture",
+      "score": 0.9932,
+      "box": [
+        134,
+        499,
+        585,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JERRY MURRAY\nCA, USA|+1-693-629-2320 |jerry.murray@example.com\nWORK HISTORY\nSoftware Developers, Softpath Digital, 2018.03–2020.08\n- Updated monitoring dashboards\n- Wrote integration tests\nEDUCATION\nBachelor's, Goldenfield University, 2016\n• Completed coursework in software design patterns\n• Studied principles of microservices architecture"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "44659",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.732,
+  "n_lines": 10,
+  "mean_score": 0.983,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "YOSELYN SHIELDS",
+      "score": 0.9689,
+      "box": [
+        116,
+        90,
+        432,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-440-933-4348 |yoselyn.shields@example.com",
+      "score": 0.9813,
+      "box": [
+        115,
+        150,
+        681,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9799,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Group, 2021.09–2023.01",
+      "score": 0.9746,
+      "box": [
+        114,
+        289,
+        680,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.9836,
+      "box": [
+        126,
+        313,
+        420,
+        339
+      ]
+    },
+    {
+      "text": "- Maintained chart of accounts",
+      "score": 0.9889,
+      "box": [
+        127,
+        340,
+        409,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Economic Studies, Edgewood University, 2023",
+      "score": 0.9721,
+      "box": [
+        116,
+        449,
+        800,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of transfer pricing",
+      "score": 0.9911,
+      "box": [
+        132,
+        472,
+        480,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounts receivable",
+      "score": 0.9908,
+      "box": [
+        135,
+        500,
+        573,
+        520
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "YOSELYN SHIELDS\nPA, USA|+1-440-933-4348 |yoselyn.shields@example.com\nWORK HISTORY\nAccountants Auditors, EverBalance Group, 2021.09–2023.01\n- Assisted with forecasting data\n- Maintained chart of accounts\nEDUCATION\nSome college (no degree), Economic Studies, Edgewood University, 2023\n• Studied principles of transfer pricing\n• Completed coursework in accounts receivable"
+}

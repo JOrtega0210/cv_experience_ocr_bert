@@ -1,0 +1,226 @@
+{
+  "id": "01416",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.946,
+  "n_lines": 16,
+  "mean_score": 0.986,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KRISTINA ZIMMERMAN",
+      "score": 0.9878,
+      "box": [
+        116,
+        90,
+        492,
+        120
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-805-422-1663|kristina.zimmerman@example.com",
+      "score": 0.9952,
+      "box": [
+        116,
+        152,
+        720,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.982,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeHands Health Group, 2020.01–2023.01",
+      "score": 0.9903,
+      "box": [
+        115,
+        289,
+        707,
+        314
+      ]
+    },
+    {
+      "text": "- Established clinical evaluation protocols",
+      "score": 0.9815,
+      "box": [
+        125,
+        313,
+        510,
+        338
+      ]
+    },
+    {
+      "text": "- Managed patient safety reporting systems",
+      "score": 0.9709,
+      "box": [
+        127,
+        339,
+        530,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Care Center, 2016.12–2020.01",
+      "score": 0.9861,
+      "box": [
+        116,
+        382,
+        696,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored fluid and electrolyte balance",
+      "score": 0.9776,
+      "box": [
+        125,
+        406,
+        499,
+        431
+      ]
+    },
+    {
+      "text": "- Managed geriatric care plans",
+      "score": 0.9869,
+      "box": [
+        126,
+        430,
+        412,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearView Health Center, 2012.10–2015.11",
+      "score": 0.9758,
+      "box": [
+        115,
+        471,
+        704,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored patient skin condition",
+      "score": 0.9775,
+      "box": [
+        125,
+        496,
+        437,
+        521
+      ]
+    },
+    {
+      "text": "- Collected laboratory specimens",
+      "score": 0.9948,
+      "box": [
+        126,
+        521,
+        435,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Practical Nursing, Oakwood University, 2010",
+      "score": 0.9947,
+      "box": [
+        115,
+        632,
+        639,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in documentation standards",
+      "score": 0.9898,
+      "box": [
+        133,
+        657,
+        624,
+        680
+      ]
+    },
+    {
+      "text": "• Studied principles of disease prevention",
+      "score": 0.9868,
+      "box": [
+        134,
+        681,
+        517,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "KRISTINA ZIMMERMAN\nAZ, USA|+1-805-422-1663|kristina.zimmerman@example.com\nWORK HISTORY\nRegistered Nurses, SafeHands Health Group, 2020.01–2023.01\n- Established clinical evaluation protocols\n- Managed patient safety reporting systems\nRegistered Nurses, NewSpring Care Center, 2016.12–2020.01\n- Monitored fluid and electrolyte balance\n- Managed geriatric care plans\nRegistered Nurses, ClearView Health Center, 2012.10–2015.11\n- Monitored patient skin condition\n- Collected laboratory specimens\nEDUCATION\nBachelor's, Practical Nursing, Oakwood University, 2010\n• Completed coursework in documentation standards\n• Studied principles of disease prevention"
+}

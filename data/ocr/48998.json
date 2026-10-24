@@ -1,0 +1,148 @@
+{
+  "id": "48998",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.725,
+  "n_lines": 10,
+  "mean_score": 0.9876,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TAYLOR STEELE",
+      "score": 0.981,
+      "box": [
+        114,
+        90,
+        396,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-660-336-4421 |taylor.steele@example.com",
+      "score": 0.9785,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHope Care Center, 2021.02–2023.01",
+      "score": 0.9901,
+      "box": [
+        116,
+        290,
+        685,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9924,
+      "box": [
+        126,
+        314,
+        438,
+        339
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9937,
+      "box": [
+        126,
+        338,
+        417,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Patient Services, Brighton University, 2023",
+      "score": 0.9853,
+      "box": [
+        114,
+        447,
+        622,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of care coordination",
+      "score": 0.9813,
+      "box": [
+        132,
+        472,
+        540,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of pharmacology",
+      "score": 0.9896,
+      "box": [
+        133,
+        497,
+        472,
+        524
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "TAYLOR STEELE\nTN, USA|+1-660-336-4421 |taylor.steele@example.com\nWORK HISTORY\nRegistered Nurses, NewHope Care Center, 2021.02–2023.01\n- Assisted with patient positioning\n- Checked medication dosages\nEDUCATION\nBachelor's, Patient Services, Brighton University, 2023\n• Studied fundamentals of care coordination\n• Studied principles of pharmacology"
+}

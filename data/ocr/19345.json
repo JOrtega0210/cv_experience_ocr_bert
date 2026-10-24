@@ -1,0 +1,265 @@
+{
+  "id": "19345",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.922,
+  "n_lines": 19,
+  "mean_score": 0.9798,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KRISTEN JENSEN",
+      "score": 0.9836,
+      "box": [
+        116,
+        90,
+        408,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-376-823-6189|kristen.jensen@example.com",
+      "score": 0.9936,
+      "box": [
+        116,
+        152,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Services, 2019.04–2023.01",
+      "score": 0.9923,
+      "box": [
+        115,
+        289,
+        735,
+        313
+      ]
+    },
+    {
+      "text": "- Designed financial modeling standards",
+      "score": 0.9692,
+      "box": [
+        127,
+        314,
+        501,
+        337
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9485,
+      "box": [
+        126,
+        339,
+        428,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Advisors, 2015.07–2019.04",
+      "score": 0.9862,
+      "box": [
+        114,
+        381,
+        688,
+        406
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9948,
+      "box": [
+        126,
+        406,
+        502,
+        431
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9773,
+      "box": [
+        126,
+        430,
+        495,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Services, 2011.10–2015.07",
+      "score": 0.9751,
+      "box": [
+        114,
+        471,
+        722,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared tax compliance filings",
+      "score": 0.9746,
+      "box": [
+        125,
+        497,
+        433,
+        522
+      ]
+    },
+    {
+      "text": "- Prepared regulatory reports",
+      "score": 0.9659,
+      "box": [
+        126,
+        521,
+        398,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Services, 2007.12–2011.10",
+      "score": 0.9846,
+      "box": [
+        115,
+        565,
+        698,
+        588
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9524,
+      "box": [
+        128,
+        591,
+        371,
+        612
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.9842,
+      "box": [
+        125,
+        613,
+        362,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Quantitative Finance, Willowbrook University, 2009",
+      "score": 0.9804,
+      "box": [
+        114,
+        723,
+        697,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of inventory valuation",
+      "score": 0.9923,
+      "box": [
+        132,
+        747,
+        516,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of statistics for business",
+      "score": 0.9784,
+      "box": [
+        134,
+        773,
+        577,
+        795
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "KRISTEN JENSEN\nIL, USA|+1-376-823-6189|kristen.jensen@example.com\nWORK HISTORY\nAccountants Auditors, Precise Balance Services, 2019.04–2023.01\n- Designed financial modeling standards\n- Led audit planning governance\nAccountants Auditors, SolidCount Advisors, 2015.07–2019.04\n- Led accounting transformation projects\n- Directed accounting training programs\nAccountants Auditors, Integrity Count Services, 2011.10–2015.07\n- Prepared tax compliance filings\n- Prepared regulatory reports\nAccountants Auditors, AccuLedger Services, 2007.12–2011.10\n- Compiled audit evidence\n- Recorded cash receipts\nEDUCATION\nBachelor's, Quantitative Finance, Willowbrook University, 2009\n• Studied principles of inventory valuation\n• Studied fundamentals of statistics for business"
+}

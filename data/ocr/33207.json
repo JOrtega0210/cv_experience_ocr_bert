@@ -1,0 +1,278 @@
+{
+  "id": "33207",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.927,
+  "n_lines": 20,
+  "mean_score": 0.9799,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BARRY LE",
+      "score": 0.9628,
+      "box": [
+        115,
+        88,
+        290,
+        122
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-518-674-2074 |barry.le@example.com",
+      "score": 0.9726,
+      "box": [
+        116,
+        150,
+        607,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9819,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Advisors, 2019.07–2023.01",
+      "score": 0.9784,
+      "box": [
+        114,
+        289,
+        676,
+        313
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9896,
+      "box": [
+        126,
+        313,
+        509,
+        338
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9723,
+      "box": [
+        126,
+        339,
+        495,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Advisors, 2016.01–2019.07",
+      "score": 0.9841,
+      "box": [
+        115,
+        381,
+        688,
+        406
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.981,
+      "box": [
+        126,
+        406,
+        423,
+        431
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9748,
+      "box": [
+        126,
+        431,
+        527,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Advisors, 2012.07–2016.01",
+      "score": 0.9729,
+      "box": [
+        115,
+        472,
+        686,
+        496
+      ]
+    },
+    {
+      "text": "- Analyzed financial trends",
+      "score": 0.9969,
+      "box": [
+        127,
+        499,
+        374,
+        519
+      ]
+    },
+    {
+      "text": "- Prepared regulatory reports",
+      "score": 0.9648,
+      "box": [
+        126,
+        521,
+        398,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Services, 2008.12–2012.07",
+      "score": 0.9808,
+      "box": [
+        116,
+        564,
+        721,
+        587
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.9807,
+      "box": [
+        127,
+        591,
+        436,
+        614
+      ]
+    },
+    {
+      "text": "- Reconciled bank statements",
+      "score": 0.9963,
+      "box": [
+        127,
+        614,
+        404,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Quantitative Finance, Meadowway University, 2008",
+      "score": 0.9705,
+      "box": [
+        115,
+        724,
+        680,
+        746
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Management, Rolling Hills University, 2006",
+      "score": 0.9729,
+      "box": [
+        114,
+        747,
+        714,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in environmental accounting basics",
+      "score": 0.9813,
+      "box": [
+        133,
+        772,
+        692,
+        798
+      ]
+    },
+    {
+      "text": "• Studied principles of professional responsibility",
+      "score": 0.9843,
+      "box": [
+        132,
+        798,
+        580,
+        823
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "BARRY LE\nNJ, USA|+1-518-674-2074 |barry.le@example.com\nWORK HISTORY\nAccountants Auditors, FairCount Advisors, 2019.07–2023.01\n- Established tax compliance frameworks\n- Directed accounting training programs\nAccountants Auditors, SolidCount Advisors, 2016.01–2019.07\n- Designed audit methodologies\n- Designed financial accountability systems\nAccountants Auditors, SolidCount Advisors, 2012.07–2016.01\n- Analyzed financial trends\n- Prepared regulatory reports\nAccountants Auditors, Integrity Count Services, 2008.12–2012.07\n- Updated general ledger records\n- Reconciled bank statements\nEDUCATION\nMaster's, Quantitative Finance, Meadowway University, 2008\nBachelor's, Business Management, Rolling Hills University, 2006\n• Completed coursework in environmental accounting basics\n• Studied principles of professional responsibility"
+}

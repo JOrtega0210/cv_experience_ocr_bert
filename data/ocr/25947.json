@@ -1,0 +1,226 @@
+{
+  "id": "25947",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.851,
+  "n_lines": 16,
+  "mean_score": 0.9843,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HOLLY SHEPARD",
+      "score": 0.9693,
+      "box": [
+        115,
+        90,
+        403,
+        120
+      ]
+    },
+    {
+      "text": "MA, USA|+1-321-286-5099 |holly.shepard@example.com",
+      "score": 0.985,
+      "box": [
+        115,
+        150,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.979,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeLife Health Group, 2020.05–2023.01",
+      "score": 0.9703,
+      "box": [
+        115,
+        289,
+        680,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9741,
+      "box": [
+        128,
+        316,
+        456,
+        336
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9904,
+      "box": [
+        126,
+        339,
+        474,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleLife Health, 2017.02–2019.11",
+      "score": 0.9807,
+      "box": [
+        115,
+        381,
+        636,
+        406
+      ]
+    },
+    {
+      "text": "- Supervised medication administration",
+      "score": 0.9858,
+      "box": [
+        126,
+        407,
+        489,
+        430
+      ]
+    },
+    {
+      "text": "- Administered complex medication regimens",
+      "score": 0.971,
+      "box": [
+        125,
+        431,
+        546,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunPath Care Group, 2013.03–2015.12",
+      "score": 0.989,
+      "box": [
+        115,
+        471,
+        671,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with hygiene care",
+      "score": 0.9895,
+      "box": [
+        125,
+        496,
+        390,
+        522
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.9912,
+      "box": [
+        127,
+        523,
+        453,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Technology, Bayside University, 2008",
+      "score": 0.9918,
+      "box": [
+        114,
+        631,
+        652,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of health assessment",
+      "score": 0.9972,
+      "box": [
+        133,
+        657,
+        554,
+        679
+      ]
+    },
+    {
+      "text": "• Completed coursework in pressure injury prevention",
+      "score": 0.9859,
+      "box": [
+        135,
+        683,
+        629,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "HOLLY SHEPARD\nMA, USA|+1-321-286-5099 |holly.shepard@example.com\nWORK HISTORY\nRegistered Nurses, SafeLife Health Group, 2020.05–2023.01\n- Implemented care standardization\n- Developed care quality benchmarks\nRegistered Nurses, GentleLife Health, 2017.02–2019.11\n- Supervised medication administration\n- Administered complex medication regimens\nRegistered Nurses, SunPath Care Group, 2013.03–2015.12\n- Assisted with hygiene care\n- Documented patient observations\nEDUCATION\nBachelor's, Medical Technology, Bayside University, 2008\n• Studied fundamentals of health assessment\n• Completed coursework in pressure injury prevention"
+}

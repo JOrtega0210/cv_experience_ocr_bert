@@ -1,0 +1,187 @@
+{
+  "id": "01105",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.912,
+  "n_lines": 13,
+  "mean_score": 0.9804,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARTIN NICHOLS",
+      "score": 0.9934,
+      "box": [
+        116,
+        90,
+        408,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA |+1-231-748-3875|martin.nichols@example.com",
+      "score": 0.9842,
+      "box": [
+        116,
+        152,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Greenline Tech, 2020.03–2022.04",
+      "score": 0.977,
+      "box": [
+        116,
+        290,
+        638,
+        312
+      ]
+    },
+    {
+      "text": "- Designed configuration management systems",
+      "score": 0.98,
+      "box": [
+        125,
+        314,
+        566,
+        339
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9755,
+      "box": [
+        126,
+        339,
+        449,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Opencrest Solutions, 2017.01–2019.03",
+      "score": 0.9868,
+      "box": [
+        115,
+        381,
+        684,
+        406
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9931,
+      "box": [
+        125,
+        406,
+        443,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented caching logic",
+      "score": 0.96,
+      "box": [
+        126,
+        430,
+        390,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Bachelor's, Goldenridge University, 2015",
+      "score": 0.9644,
+      "box": [
+        115,
+        541,
+        495,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of system design",
+      "score": 0.9849,
+      "box": [
+        132,
+        565,
+        475,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of big data systems",
+      "score": 0.9668,
+      "box": [
+        132,
+        590,
+        498,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "MARTIN NICHOLS\nAZ, USA |+1-231-748-3875|martin.nichols@example.com\nWORK HISTORY\nSoftware Developers, Greenline Tech, 2020.03–2022.04\n- Designed configuration management systems\n- Designed data storage strategies\nSoftware Developers, Opencrest Solutions, 2017.01–2019.03\n- Handled basic deployment tasks\n- Implemented caching logic\nEDUCATION\nBachelor's, Goldenridge University, 2015\n• Studied principles of system design\n• Studied principles of big data systems"
+}

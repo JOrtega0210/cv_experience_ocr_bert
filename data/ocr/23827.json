@@ -1,0 +1,135 @@
+{
+  "id": "23827",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.724,
+  "n_lines": 9,
+  "mean_score": 0.9811,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "FAITH HUDSON",
+      "score": 0.9802,
+      "box": [
+        115,
+        90,
+        371,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA|+1-662-616-6619 |faith.hudson@example.com",
+      "score": 0.9725,
+      "box": [
+        115,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidTrack Construction, 2022.02–2023.01",
+      "score": 0.9749,
+      "box": [
+        115,
+        290,
+        728,
+        313
+      ]
+    },
+    {
+      "text": "-Maintained tool storage areas",
+      "score": 0.9633,
+      "box": [
+        125,
+        314,
+        419,
+        339
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9775,
+      "box": [
+        126,
+        339,
+        406,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Mechanical Technology, Skyview High School, 2023",
+      "score": 0.9907,
+      "box": [
+        116,
+        449,
+        860,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of framing methods",
+      "score": 0.9877,
+      "box": [
+        133,
+        474,
+        497,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "FAITH HUDSON\nMD, USA|+1-662-616-6619 |faith.hudson@example.com\nWORK HISTORY\nConstruction Laborers, SolidTrack Construction, 2022.02–2023.01\n-Maintained tool storage areas\n- Installed temporary supports\nEDUCATION\nHigh school graduate/GED, Mechanical Technology, Skyview High School, 2023\n• Studied principles of framing methods"
+}

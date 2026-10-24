@@ -1,0 +1,148 @@
+{
+  "id": "48284",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.782,
+  "n_lines": 10,
+  "mean_score": 0.983,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JUDITH HORNE",
+      "score": 0.9896,
+      "box": [
+        116,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "SD, USA|+1-408-403-8972 |judith.horne@example.com",
+      "score": 0.9775,
+      "box": [
+        116,
+        151,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeBridge Nursing Services, 2022.02–2023.01",
+      "score": 0.9893,
+      "box": [
+        116,
+        290,
+        741,
+        313
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9601,
+      "box": [
+        127,
+        315,
+        435,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.9965,
+      "box": [
+        126,
+        339,
+        418,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Public Health, Oakwood University, 221",
+      "score": 0.9653,
+      "box": [
+        114,
+        447,
+        603,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of conflict resolution basics",
+      "score": 0.9928,
+      "box": [
+        132,
+        472,
+        606,
+        496
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient monitoring technologies",
+      "score": 0.9801,
+      "box": [
+        133,
+        498,
+        677,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JUDITH HORNE\nSD, USA|+1-408-403-8972 |judith.horne@example.com\nWORK HISTORY\nRegistered Nurses, SafeBridge Nursing Services, 2022.02–2023.01\n- Monitored patient dietary needs\n- Assisted with feeding patients\nEDUCATION\nBachelor's, Public Health, Oakwood University, 221\n• Studied fundamentals of conflict resolution basics\n• Completed coursework in patient monitoring technologies"
+}

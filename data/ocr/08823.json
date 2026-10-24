@@ -1,0 +1,278 @@
+{
+  "id": "08823",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.989,
+  "n_lines": 20,
+  "mean_score": 0.9819,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TREVOR GATES",
+      "score": 0.9722,
+      "box": [
+        115,
+        90,
+        381,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-990-367-1327 |trevor.gates@example.com",
+      "score": 0.9798,
+      "box": [
+        117,
+        152,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightsoft Solutions, 2019.11–2023.01",
+      "score": 0.9807,
+      "box": [
+        116,
+        290,
+        675,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed system design documents",
+      "score": 0.9876,
+      "box": [
+        127,
+        315,
+        481,
+        338
+      ]
+    },
+    {
+      "text": "- Led cross-team technical alignment",
+      "score": 0.9713,
+      "box": [
+        126,
+        339,
+        471,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Softframe Labs, 2016.08–2019.11",
+      "score": 0.9884,
+      "box": [
+        116,
+        382,
+        637,
+        405
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9836,
+      "box": [
+        125,
+        405,
+        368,
+        432
+      ]
+    },
+    {
+      "text": "- Reviewed architectural proposals",
+      "score": 0.9764,
+      "box": [
+        126,
+        431,
+        449,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Datacrest Software, 2013.05–2016.08",
+      "score": 0.9916,
+      "box": [
+        115,
+        471,
+        674,
+        496
+      ]
+    },
+    {
+      "text": "- Built frontend components",
+      "score": 0.9734,
+      "box": [
+        125,
+        496,
+        386,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented search features",
+      "score": 0.9724,
+      "box": [
+        126,
+        521,
+        413,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Labs, 2010.02–2013.05",
+      "score": 0.9797,
+      "box": [
+        115,
+        563,
+        641,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9869,
+      "box": [
+        126,
+        590,
+        478,
+        613
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9741,
+      "box": [
+        127,
+        615,
+        509,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Goldenwood University, 2013",
+      "score": 0.9811,
+      "box": [
+        116,
+        726,
+        479,
+        745
+      ]
+    },
+    {
+      "text": "Bachelor's, Fairway University, 2011",
+      "score": 0.9923,
+      "box": [
+        115,
+        748,
+        454,
+        771
+      ]
+    },
+    {
+      "text": "• Studied principles of garbage collection",
+      "score": 0.9835,
+      "box": [
+        133,
+        774,
+        512,
+        797
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of compiler design",
+      "score": 0.9782,
+      "box": [
+        132,
+        797,
+        524,
+        822
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "TREVOR GATES\nCA, USA|+1-990-367-1327 |trevor.gates@example.com\nWORK HISTORY\nSoftware Developers, Brightsoft Solutions, 2019.11–2023.01\n- Reviewed system design documents\n- Led cross-team technical alignment\nSoftware Developers, Softframe Labs, 2016.08–2019.11\n- Built distributed systems\n- Reviewed architectural proposals\nSoftware Developers, Datacrest Software, 2013.05–2016.08\n- Built frontend components\n- Implemented search features\nSoftware Developers, Corewave Labs, 2010.02–2013.05\n- Assisted with system documentation\n- Assisted with version control operations\nEDUCATION\nMaster's, Goldenwood University, 2013\nBachelor's, Fairway University, 2011\n• Studied principles of garbage collection\n• Studied fundamentals of compiler design"
+}

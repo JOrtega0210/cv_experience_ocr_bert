@@ -1,0 +1,226 @@
+{
+  "id": "48358",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.852,
+  "n_lines": 16,
+  "mean_score": 0.9834,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "STEVENWHITE",
+      "score": 0.9988,
+      "box": [
+        115,
+        90,
+        369,
+        120
+      ]
+    },
+    {
+      "text": "TN, USA|+1-296-281-6436 |steven.white@example.com",
+      "score": 0.9844,
+      "box": [
+        115,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftStone Builders, 2020.04–2023.01",
+      "score": 0.9896,
+      "box": [
+        115,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Directed training programs for crews",
+      "score": 0.9746,
+      "box": [
+        126,
+        315,
+        478,
+        338
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9674,
+      "box": [
+        126,
+        339,
+        394,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Services, 2017.07–220.04",
+      "score": 0.9793,
+      "box": [
+        115,
+        381,
+        695,
+        406
+      ]
+    },
+    {
+      "text": "- Performed masonry work",
+      "score": 0.9831,
+      "box": [
+        125,
+        405,
+        377,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared and poured concrete forms",
+      "score": 0.9703,
+      "box": [
+        127,
+        432,
+        483,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, EverBuild Co., 2014.10–2017.07",
+      "score": 0.9905,
+      "box": [
+        115,
+        472,
+        636,
+        495
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9771,
+      "box": [
+        125,
+        496,
+        492,
+        522
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.9808,
+      "box": [
+        126,
+        521,
+        480,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Masonry, Elm Ridge University, 2018",
+      "score": 0.9839,
+      "box": [
+        116,
+        632,
+        713,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction safety",
+      "score": 0.992,
+      "box": [
+        132,
+        656,
+        553,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of tool usage",
+      "score": 0.9796,
+      "box": [
+        133,
+        680,
+        475,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "STEVENWHITE\nTN, USA|+1-296-281-6436 |steven.white@example.com\nWORK HISTORY\nConstruction Laborers, CraftStone Builders, 2020.04–2023.01\n- Directed training programs for crews\n- Directed project scheduling\nConstruction Laborers, PrimeBuild Services, 2017.07–220.04\n- Performed masonry work\n- Prepared and poured concrete forms\nConstruction Laborers, EverBuild Co., 2014.10–2017.07\n- Assembled prefabricated components\n- Supported crew leaders during tasks\nEDUCATION\nSome college (no degree), Masonry, Elm Ridge University, 2018\n• Studied fundamentals of construction safety\n• Studied fundamentals of tool usage"
+}

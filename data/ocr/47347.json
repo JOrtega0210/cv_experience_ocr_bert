@@ -1,0 +1,239 @@
+{
+  "id": "47347",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.837,
+  "n_lines": 17,
+  "mean_score": 0.9802,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "WILLIAM GOLDEN",
+      "score": 0.9825,
+      "box": [
+        116,
+        90,
+        412,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-262-302-4540 |william.golden@example.com",
+      "score": 0.9768,
+      "box": [
+        116,
+        151,
+        672,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudline Solutions, 2019.12–2023.01",
+      "score": 0.9851,
+      "box": [
+        115,
+        288,
+        673,
+        313
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.948,
+      "box": [
+        125,
+        313,
+        379,
+        338
+      ]
+    },
+    {
+      "text": "- Designed event-driven architectures",
+      "score": 0.9917,
+      "box": [
+        126,
+        339,
+        476,
+        362
+      ]
+    },
+    {
+      "text": "Software Developers, Openline Labs, 2016.11–2019.12",
+      "score": 0.9929,
+      "box": [
+        115,
+        381,
+        631,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented authentication workflows",
+      "score": 0.9662,
+      "box": [
+        127,
+        407,
+        496,
+        430
+      ]
+    },
+    {
+      "text": "- Developed access control logic",
+      "score": 0.9602,
+      "box": [
+        126,
+        430,
+        431,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Stonebyte Labs, 2013.09–2016.11",
+      "score": 0.9824,
+      "box": [
+        116,
+        472,
+        640,
+        496
+      ]
+    },
+    {
+      "text": "- Updated documentation for implemented features",
+      "score": 0.9865,
+      "box": [
+        126,
+        498,
+        601,
+        521
+      ]
+    },
+    {
+      "text": "- Wrote utility scripts",
+      "score": 0.9756,
+      "box": [
+        126,
+        521,
+        318,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Clearway University, 2015",
+      "score": 0.9866,
+      "box": [
+        115,
+        632,
+        450,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Willowhaven University, 2013",
+      "score": 0.9875,
+      "box": [
+        114,
+        656,
+        498,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of compiler design",
+      "score": 0.9757,
+      "box": [
+        132,
+        681,
+        525,
+        707
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of recursion techniques",
+      "score": 0.982,
+      "box": [
+        132,
+        705,
+        572,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "WILLIAM GOLDEN\nSC, USA|+1-262-302-4540 |william.golden@example.com\nWORK HISTORY\nSoftware Developers, Cloudline Solutions, 2019.12–2023.01\n- Defined coding standards\n- Designed event-driven architectures\nSoftware Developers, Openline Labs, 2016.11–2019.12\n- Implemented authentication workflows\n- Developed access control logic\nSoftware Developers, Stonebyte Labs, 2013.09–2016.11\n- Updated documentation for implemented features\n- Wrote utility scripts\nEDUCATION\nMaster's, Clearway University, 2015\nBachelor's, Willowhaven University, 2013\n• Studied fundamentals of compiler design\n• Studied fundamentals of recursion techniques"
+}

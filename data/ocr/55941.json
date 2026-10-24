@@ -1,0 +1,265 @@
+{
+  "id": "55941",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.93,
+  "n_lines": 19,
+  "mean_score": 0.9781,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "PAUL LEACH",
+      "score": 0.9531,
+      "box": [
+        114,
+        88,
+        335,
+        122
+      ]
+    },
+    {
+      "text": "VA, USA|+1-344-357-8690|paul.leach@example.com",
+      "score": 0.9801,
+      "box": [
+        114,
+        150,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildForce Contractors, 2018.05–2023.01",
+      "score": 0.9849,
+      "box": [
+        115,
+        290,
+        720,
+        313
+      ]
+    },
+    {
+      "text": "- Designed site safety protocols",
+      "score": 0.9756,
+      "box": [
+        127,
+        315,
+        422,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9929,
+      "box": [
+        126,
+        339,
+        477,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyBuild Co., 2013.09–2018.05",
+      "score": 0.9728,
+      "box": [
+        116,
+        382,
+        657,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.9687,
+      "box": [
+        126,
+        406,
+        532,
+        431
+      ]
+    },
+    {
+      "text": "- Directed project execution strategies",
+      "score": 0.9713,
+      "box": [
+        126,
+        431,
+        480,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmCraft Construction, 2009.01–2013.09",
+      "score": 0.9811,
+      "box": [
+        114,
+        471,
+        718,
+        496
+      ]
+    },
+    {
+      "text": "- Interpreted blueprints for task execution",
+      "score": 0.9509,
+      "box": [
+        127,
+        499,
+        507,
+        519
+      ]
+    },
+    {
+      "text": "- Coordinated material deliveries",
+      "score": 0.9963,
+      "box": [
+        127,
+        522,
+        430,
+        544
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkTrack Builders, 2004.04–2009.01",
+      "score": 0.9865,
+      "box": [
+        114,
+        563,
+        689,
+        588
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.9541,
+      "box": [
+        125,
+        589,
+        400,
+        614
+      ]
+    },
+    {
+      "text": "- Mixed concrete and mortar",
+      "score": 0.9745,
+      "box": [
+        126,
+        614,
+        391,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Some college (no degree), Plumbing Technology, Riverstone University, 2007",
+      "score": 0.9891,
+      "box": [
+        115,
+        723,
+        836,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of site preparation planning",
+      "score": 0.9885,
+      "box": [
+        132,
+        747,
+        607,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction workflow",
+      "score": 0.9807,
+      "box": [
+        135,
+        775,
+        588,
+        795
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "PAUL LEACH\nVA, USA|+1-344-357-8690|paul.leach@example.com\nWORK HISTORY\nConstruction Laborers, BuildForce Contractors, 2018.05–2023.01\n- Designed site safety protocols\n- Reviewed material quality standards\nConstruction Laborers, SteadyBuild Co., 2013.09–2018.05\n- Implemented safety compliance strategies\n- Directed project execution strategies\nConstruction Laborers, FirmCraft Construction, 2009.01–2013.09\n- Interpreted blueprints for task execution\n- Coordinated material deliveries\nConstruction Laborers, WorkTrack Builders, 2004.04–2009.01\n- Dug trenches for utility lines\n- Mixed concrete and mortar\nEDUCATION\nSome college (no degree), Plumbing Technology, Riverstone University, 2007\n• Studied fundamentals of site preparation planning\n• Completed coursework in construction workflow"
+}

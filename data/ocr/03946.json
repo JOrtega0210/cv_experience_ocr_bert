@@ -1,0 +1,148 @@
+{
+  "id": "03946",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.829,
+  "n_lines": 10,
+  "mean_score": 0.985,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LEE MCKENZIE",
+      "score": 0.9912,
+      "box": [
+        116,
+        90,
+        367,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-381-578-5292 |lee.mckenzie@example.com",
+      "score": 0.9838,
+      "box": [
+        116,
+        150,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9825,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Group, 2021.01–2022.04",
+      "score": 0.9932,
+      "box": [
+        115,
+        289,
+        678,
+        312
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9443,
+      "box": [
+        126,
+        314,
+        356,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9897,
+      "box": [
+        126,
+        339,
+        382,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Professional Accounting, Bayside University, 2011",
+      "score": 0.985,
+      "box": [
+        114,
+        447,
+        689,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit software tools",
+      "score": 0.9877,
+      "box": [
+        132,
+        472,
+        559,
+        496
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting ethics",
+      "score": 0.9936,
+      "box": [
+        134,
+        499,
+        551,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "LEE MCKENZIE\nCA, USA|+1-381-578-5292 |lee.mckenzie@example.com\nWORK HISTORY\nAccountants Auditors, ClearLedger Group, 2021.01–2022.04\n- Prepared aging reports\n- Reviewed ledger postings\nEDUCATION\nBachelor's, Professional Accounting, Bayside University, 2011\n• Studied fundamentals of audit software tools\n• Completed coursework in accounting ethics"
+}

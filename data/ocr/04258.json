@@ -1,0 +1,226 @@
+{
+  "id": "04258",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.98,
+  "n_lines": 16,
+  "mean_score": 0.9797,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAMES KNIGHT",
+      "score": 0.9923,
+      "box": [
+        116,
+        90,
+        371,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-858-304-8912 |james.knight@example.com",
+      "score": 0.9808,
+      "box": [
+        117,
+        151,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureStep Builders, 2021.01–2023.01",
+      "score": 0.9826,
+      "box": [
+        115,
+        290,
+        675,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9735,
+      "box": [
+        125,
+        313,
+        477,
+        338
+      ]
+    },
+    {
+      "text": "- Developed construction workflows",
+      "score": 0.977,
+      "box": [
+        127,
+        340,
+        458,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Co., 2018.02–2020.02",
+      "score": 0.97,
+      "box": [
+        116,
+        382,
+        650,
+        405
+      ]
+    },
+    {
+      "text": "- Installed door and window frames",
+      "score": 0.975,
+      "box": [
+        126,
+        407,
+        453,
+        430
+      ]
+    },
+    {
+      "text": "- Led small work crews",
+      "score": 0.9469,
+      "box": [
+        126,
+        430,
+        342,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkStone Contractors, 2014.07–2016.8",
+      "score": 0.9962,
+      "box": [
+        116,
+        472,
+        725,
+        495
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9702,
+      "box": [
+        125,
+        496,
+        426,
+        522
+      ]
+    },
+    {
+      "text": "- Installed simple fixtures",
+      "score": 0.9675,
+      "box": [
+        126,
+        521,
+        360,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Trades, Rivercrest University, 2011",
+      "score": 0.9706,
+      "box": [
+        116,
+        632,
+        816,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction mathematics",
+      "score": 0.9916,
+      "box": [
+        133,
+        657,
+        626,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction fundamentals",
+      "score": 0.997,
+      "box": [
+        135,
+        682,
+        633,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "JAMES KNIGHT\nCA, USA|+1-858-304-8912 |james.knight@example.com\nWORK HISTORY\nConstruction Laborers, SureStep Builders, 2021.01–2023.01\n- Reviewed material quality standards\n- Developed construction workflows\nConstruction Laborers, Allied Build Co., 2018.02–2020.02\n- Installed door and window frames\n- Led small work crews\nConstruction Laborers, WorkStone Contractors, 2014.07–2016.8\n- Assisted with concrete pouring\n- Installed simple fixtures\nEDUCATION\nSome college (no degree), Construction Trades, Rivercrest University, 2011\n• Completed coursework in construction mathematics\n• Completed coursework in construction fundamentals"
+}

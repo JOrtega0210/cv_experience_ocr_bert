@@ -1,0 +1,226 @@
+{
+  "id": "03580",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.946,
+  "n_lines": 16,
+  "mean_score": 0.98,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MAXWELL CAMPBELL",
+      "score": 0.9882,
+      "box": [
+        117,
+        89,
+        481,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA|+1-874-695-3958 |maxwell.campbell@example.com",
+      "score": 0.9798,
+      "box": [
+        117,
+        152,
+        706,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skycore Technologies, 2020.09–2023.01",
+      "score": 0.9894,
+      "box": [
+        116,
+        290,
+        700,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.9767,
+      "box": [
+        127,
+        315,
+        500,
+        338
+      ]
+    },
+    {
+      "text": "- Led technical audits",
+      "score": 0.9792,
+      "box": [
+        126,
+        338,
+        327,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Dataframe Solutions, 2018.04–2020.09",
+      "score": 0.994,
+      "box": [
+        116,
+        382,
+        686,
+        405
+      ]
+    },
+    {
+      "text": "- Implemented authentication workflows",
+      "score": 0.9698,
+      "box": [
+        127,
+        407,
+        496,
+        430
+      ]
+    },
+    {
+      "text": "- Integrated payment gateways",
+      "score": 0.967,
+      "box": [
+        126,
+        430,
+        417,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Brightgrid Software, 2015.11–2018.04",
+      "score": 0.979,
+      "box": [
+        116,
+        472,
+        673,
+        496
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9795,
+      "box": [
+        125,
+        496,
+        347,
+        521
+      ]
+    },
+    {
+      "text": "- Updated documentation for implemented features",
+      "score": 0.9863,
+      "box": [
+        126,
+        522,
+        600,
+        545
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Northwood University, 2018",
+      "score": 0.9678,
+      "box": [
+        115,
+        630,
+        626,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in logging and monitoring",
+      "score": 0.9599,
+      "box": [
+        132,
+        656,
+        601,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of NoSQL systems",
+      "score": 0.9775,
+      "box": [
+        133,
+        681,
+        530,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "MAXWELL CAMPBELL\nCA, USA|+1-874-695-3958 |maxwell.campbell@example.com\nWORK HISTORY\nSoftware Developers, Skycore Technologies, 2020.09–2023.01\n- Implemented infrastructure automation\n- Led technical audits\nSoftware Developers, Dataframe Solutions, 2018.04–2020.09\n- Implemented authentication workflows\n- Integrated payment gateways\nSoftware Developers, Brightgrid Software, 2015.11–2018.04\n- Created test data sets\n- Updated documentation for implemented features\nEDUCATION\nSome college (no degree), Northwood University, 2018\n• Completed coursework in logging and monitoring\n• Studied fundamentals of NoSQL systems"
+}

@@ -1,0 +1,239 @@
+{
+  "id": "03670",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.997,
+  "n_lines": 17,
+  "mean_score": 0.9815,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RUTH YANG",
+      "score": 0.9577,
+      "box": [
+        116,
+        90,
+        317,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-415-803-3754|ruth.yang@example.com",
+      "score": 0.9755,
+      "box": [
+        116,
+        150,
+        628,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9805,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial, 2019.11–2023.01",
+      "score": 0.9734,
+      "box": [
+        115,
+        289,
+        725,
+        313
+      ]
+    },
+    {
+      "text": "- Led financial forecasting initiatives",
+      "score": 0.9843,
+      "box": [
+        127,
+        315,
+        459,
+        338
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9652,
+      "box": [
+        126,
+        339,
+        517,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenLedger Financial, 2016.09–2019.11",
+      "score": 0.9809,
+      "box": [
+        115,
+        381,
+        704,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed balance sheet accounts",
+      "score": 0.981,
+      "box": [
+        126,
+        407,
+        458,
+        429
+      ]
+    },
+    {
+      "text": "- Coordinated audit schedules",
+      "score": 0.9964,
+      "box": [
+        127,
+        431,
+        406,
+        453
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Financial, 2013.07–2016.09",
+      "score": 0.9888,
+      "box": [
+        115,
+        472,
+        711,
+        495
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9853,
+      "box": [
+        125,
+        497,
+        549,
+        519
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9724,
+      "box": [
+        126,
+        521,
+        356,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Financial Planning, Golden Meadow University, 2016",
+      "score": 0.9879,
+      "box": [
+        115,
+        632,
+        697,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Enterprise Management, Ridgeway University, 2014",
+      "score": 0.9776,
+      "box": [
+        114,
+        656,
+        707,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in cash flow analysis",
+      "score": 0.9884,
+      "box": [
+        135,
+        684,
+        557,
+        704
+      ]
+    },
+    {
+      "text": "• Completed coursework in pension accounting basics",
+      "score": 0.9916,
+      "box": [
+        133,
+        706,
+        633,
+        731
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "RUTH YANG\nCA, USA|+1-415-803-3754|ruth.yang@example.com\nWORK HISTORY\nAccountants Auditors, Integrity Books Financial, 2019.11–2023.01\n- Led financial forecasting initiatives\n- Directed enterprise accounting platforms\nAccountants Auditors, OpenLedger Financial, 2016.09–2019.11\n- Reviewed balance sheet accounts\n- Coordinated audit schedules\nAccountants Auditors, SolidBalance Financial, 2013.07–2016.09\n- Processed accounts receivable transactions\n- Prepared aging reports\nEDUCATION\nMaster's, Financial Planning, Golden Meadow University, 2016\nBachelor's, Enterprise Management, Ridgeway University, 2014\n• Completed coursework in cash flow analysis\n• Completed coursework in pension accounting basics"
+}

@@ -1,0 +1,200 @@
+{
+  "id": "18895",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.953,
+  "n_lines": 14,
+  "mean_score": 0.9786,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HARRISON SWANSON",
+      "score": 0.9736,
+      "box": [
+        116,
+        90,
+        478,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-853-937-9301 |harrison.swanson@example.com",
+      "score": 0.9927,
+      "box": [
+        116,
+        152,
+        693,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9882,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Group, 2020.02–2023.01",
+      "score": 0.9925,
+      "box": [
+        115,
+        289,
+        669,
+        313
+      ]
+    },
+    {
+      "text": "- Developed risk management frameworks",
+      "score": 0.9644,
+      "box": [
+        126,
+        315,
+        521,
+        338
+      ]
+    },
+    {
+      "text": "- Directed accounting leadership initiatives",
+      "score": 0.9809,
+      "box": [
+        127,
+        340,
+        520,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Group, 2017.03–2020.02",
+      "score": 0.9785,
+      "box": [
+        114,
+        381,
+        715,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed account balances",
+      "score": 0.9712,
+      "box": [
+        126,
+        406,
+        403,
+        429
+      ]
+    },
+    {
+      "text": "- Maintained vendor records",
+      "score": 0.983,
+      "box": [
+        126,
+        432,
+        390,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Government Accounting, Willowbrook University, 2022",
+      "score": 0.9686,
+      "box": [
+        114,
+        539,
+        711,
+        565
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting, Elm Valley University, 2020",
+      "score": 0.9561,
+      "box": [
+        115,
+        566,
+        595,
+        589
+      ]
+    },
+    {
+      "text": "•  Studied principles of quality control in auditing",
+      "score": 0.9643,
+      "box": [
+        133,
+        590,
+        570,
+        614
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of consolidation accounting",
+      "score": 0.9879,
+      "box": [
+        133,
+        615,
+        607,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "HARRISON SWANSON\nIL, USA|+1-853-937-9301 |harrison.swanson@example.com\nWORK HISTORY\nAccountants Auditors, ClearBooks Group, 2020.02–2023.01\n- Developed risk management frameworks\n- Directed accounting leadership initiatives\nAccountants Auditors, Precise Balance Group, 2017.03–2020.02\n- Reviewed account balances\n- Maintained vendor records\nEDUCATION\nMaster's, Government Accounting, Willowbrook University, 2022\nBachelor's, Accounting, Elm Valley University, 2020\n•  Studied principles of quality control in auditing\n• Studied fundamentals of consolidation accounting"
+}

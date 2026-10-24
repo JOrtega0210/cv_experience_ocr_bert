@@ -1,0 +1,135 @@
+{
+  "id": "14548",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.913,
+  "n_lines": 9,
+  "mean_score": 0.9805,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ASHWINGROSS",
+      "score": 0.9995,
+      "box": [
+        116,
+        90,
+        384,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-325-893-6706| ashwin.gross@example.com",
+      "score": 0.9746,
+      "box": [
+        116,
+        151,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9791,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerWay Construction, 2022.07–2023.01",
+      "score": 0.9757,
+      "box": [
+        115,
+        289,
+        734,
+        312
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.9755,
+      "box": [
+        127,
+        315,
+        373,
+        339
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9639,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Civil Technology, Parkview High School, 2023",
+      "score": 0.9861,
+      "box": [
+        116,
+        449,
+        802,
+        472
+      ]
+    },
+    {
+      "text": "•Completed coursework in construction materials storage",
+      "score": 0.9718,
+      "box": [
+        132,
+        473,
+        668,
+        498
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "ASHWINGROSS\nGA, USA|+1-325-893-6706| ashwin.gross@example.com\nWORK HISTORY\nConstruction Laborers, CornerWay Construction, 2022.07–2023.01\n- Sorted building materials\n- Operated hand tools for assembly tasks\nEDUCATION\nHigh school graduate/GED, Civil Technology, Parkview High School, 2023\n•Completed coursework in construction materials storage"
+}

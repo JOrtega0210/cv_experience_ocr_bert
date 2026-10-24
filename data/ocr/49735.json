@@ -1,0 +1,148 @@
+{
+  "id": "49735",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.769,
+  "n_lines": 10,
+  "mean_score": 0.9834,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SANTIAGO BEST",
+      "score": 0.9706,
+      "box": [
+        115,
+        90,
+        394,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-582-685-5705|santiago.best@example.com",
+      "score": 0.9813,
+      "box": [
+        115,
+        150,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidLine Construction, 2020.11–2023.01",
+      "score": 0.9847,
+      "box": [
+        115,
+        290,
+        716,
+        313
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9932,
+      "box": [
+        126,
+        314,
+        492,
+        339
+      ]
+    },
+    {
+      "text": "- Performed basic demolition tasks",
+      "score": 0.9845,
+      "box": [
+        127,
+        340,
+        450,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Skills, Cedar Valley University, 2022",
+      "score": 0.9575,
+      "box": [
+        116,
+        449,
+        826,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of structural framing techniques",
+      "score": 0.9928,
+      "box": [
+        132,
+        472,
+        647,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in safety signage standards",
+      "score": 0.9904,
+      "box": [
+        133,
+        499,
+        620,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "SANTIAGO BEST\nTX, USA|+1-582-685-5705|santiago.best@example.com\nWORK HISTORY\nConstruction Laborers, SolidLine Construction, 2020.11–2023.01\n- Assembled prefabricated components\n- Performed basic demolition tasks\nEDUCATION\nSome college (no degree), Construction Skills, Cedar Valley University, 2022\n• Studied fundamentals of structural framing techniques\n• Completed coursework in safety signage standards"
+}

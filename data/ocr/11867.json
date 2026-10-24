@@ -1,0 +1,200 @@
+{
+  "id": "11867",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.947,
+  "n_lines": 14,
+  "mean_score": 0.9814,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOHN ALI",
+      "score": 0.9785,
+      "box": [
+        114,
+        88,
+        277,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA|+1-333-507-6842 |john.ali@example.com",
+      "score": 0.9803,
+      "box": [
+        116,
+        151,
+        603,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, BrightPath Accounting Services, 2020.08–2023.01",
+      "score": 0.9715,
+      "box": [
+        115,
+        290,
+        791,
+        313
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.976,
+      "box": [
+        126,
+        314,
+        427,
+        339
+      ]
+    },
+    {
+      "text": "- Led cross-functional financial integration",
+      "score": 0.9763,
+      "box": [
+        127,
+        340,
+        514,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Group, 2018.03–2020.08",
+      "score": 0.984,
+      "box": [
+        115,
+        382,
+        676,
+        405
+      ]
+    },
+    {
+      "text": "- Verified transaction accuracy",
+      "score": 0.9781,
+      "box": [
+        125,
+        405,
+        411,
+        432
+      ]
+    },
+    {
+      "text": "- Reviewed account balances",
+      "score": 0.9761,
+      "box": [
+        126,
+        431,
+        402,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Professional degree, Enterprise Management, Riverhaven University, 2017",
+      "score": 0.978,
+      "box": [
+        114,
+        539,
+        809,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Administration, Morningstar University, 013",
+      "score": 0.9892,
+      "box": [
+        115,
+        565,
+        725,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in governmental accounting basics",
+      "score": 0.9918,
+      "box": [
+        133,
+        590,
+        687,
+        614
+      ]
+    },
+    {
+      "text": "• Completed coursework in expense allocation",
+      "score": 0.9769,
+      "box": [
+        133,
+        615,
+        562,
+        638
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "JOHN ALI\nFL, USA|+1-333-507-6842 |john.ali@example.com\nWORK HISTORY\nAccountants Auditors, BrightPath Accounting Services, 2020.08–2023.01\n- Managed financial governance\n- Led cross-functional financial integration\nAccountants Auditors, TrustLedger Group, 2018.03–2020.08\n- Verified transaction accuracy\n- Reviewed account balances\nEDUCATION\nProfessional degree, Enterprise Management, Riverhaven University, 2017\nBachelor's, Business Administration, Morningstar University, 013\n• Completed coursework in governmental accounting basics\n• Completed coursework in expense allocation"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "26631",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.857,
+  "n_lines": 16,
+  "mean_score": 0.9791,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CANDICE SANTOS",
+      "score": 0.9815,
+      "box": [
+        116,
+        88,
+        420,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA|+1-433-604-8363 |candice.santos@example.com",
+      "score": 0.9838,
+      "box": [
+        115,
+        150,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9852,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleNest Health, 2020.04–2023.01",
+      "score": 0.9888,
+      "box": [
+        116,
+        290,
+        644,
+        313
+      ]
+    },
+    {
+      "text": "- Designed clinical care protocols",
+      "score": 0.9928,
+      "box": [
+        126,
+        315,
+        436,
+        338
+      ]
+    },
+    {
+      "text": "- Directed clinical quality improvement initiatives",
+      "score": 0.9614,
+      "box": [
+        126,
+        338,
+        573,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightLife Care Center, 2017.07–2020.04",
+      "score": 0.9666,
+      "box": [
+        115,
+        381,
+        683,
+        406
+      ]
+    },
+    {
+      "text": "- Administered sedation protocols",
+      "score": 0.987,
+      "box": [
+        125,
+        406,
+        440,
+        431
+      ]
+    },
+    {
+      "text": "- Administered blood transfusions",
+      "score": 0.9767,
+      "box": [
+        126,
+        432,
+        439,
+        453
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueHands Nursing Services, 2013.04–2016.01",
+      "score": 0.9858,
+      "box": [
+        116,
+        472,
+        741,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.9782,
+      "box": [
+        124,
+        496,
+        473,
+        522
+      ]
+    },
+    {
+      "text": "- Monitored patient recovery",
+      "score": 0.9547,
+      "box": [
+        126,
+        521,
+        390,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Health and Human Services, Brookway University, 2005",
+      "score": 0.9845,
+      "box": [
+        114,
+        631,
+        823,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of community health nursing",
+      "score": 0.9731,
+      "box": [
+        132,
+        656,
+        617,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of infusion pump use",
+      "score": 0.9657,
+      "box": [
+        133,
+        681,
+        549,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "CANDICE SANTOS\nMA, USA|+1-433-604-8363 |candice.santos@example.com\nWORK HISTORY\nRegistered Nurses, GentleNest Health, 2020.04–2023.01\n- Designed clinical care protocols\n- Directed clinical quality improvement initiatives\nRegistered Nurses, BrightLife Care Center, 2017.07–2020.04\n- Administered sedation protocols\n- Administered blood transfusions\nRegistered Nurses, TrueHands Nursing Services, 2013.04–2016.01\n- Assisted with respiratory treatments\n- Monitored patient recovery\nEDUCATION\nAssociate's degree, Health and Human Services, Brookway University, 2005\n• Studied fundamentals of community health nursing\n• Studied fundamentals of infusion pump use"
+}

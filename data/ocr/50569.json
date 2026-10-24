@@ -1,0 +1,226 @@
+{
+  "id": "50569",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.825,
+  "n_lines": 16,
+  "mean_score": 0.9798,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CODY KIRBY",
+      "score": 0.9722,
+      "box": [
+        116,
+        90,
+        329,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-521-550-1901 |cody.kirby@example.com",
+      "score": 0.9723,
+      "box": [
+        115,
+        150,
+        633,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightsoft Solutions, 2020.07–2023.01",
+      "score": 0.9804,
+      "box": [
+        116,
+        290,
+        675,
+        313
+      ]
+    },
+    {
+      "text": "- Developed system monitoring strategies",
+      "score": 0.9826,
+      "box": [
+        125,
+        314,
+        513,
+        339
+      ]
+    },
+    {
+      "text": "- Defined code review processes",
+      "score": 0.9921,
+      "box": [
+        126,
+        339,
+        433,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Bluecrest Software, 2016.02–2018.08",
+      "score": 0.9914,
+      "box": [
+        115,
+        381,
+        672,
+        406
+      ]
+    },
+    {
+      "text": "- Built containerized services",
+      "score": 0.9816,
+      "box": [
+        125,
+        405,
+        396,
+        430
+      ]
+    },
+    {
+      "text": "- Improved system reliability",
+      "score": 0.9658,
+      "box": [
+        126,
+        430,
+        389,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Brightloop Systems, 2012.08–2015.03",
+      "score": 0.9865,
+      "box": [
+        115,
+        471,
+        676,
+        496
+      ]
+    },
+    {
+      "text": "- Wrote unit tests for application modules",
+      "score": 0.975,
+      "box": [
+        125,
+        496,
+        507,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9721,
+      "box": [
+        126,
+        521,
+        604,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Sunfield University, 2012",
+      "score": 0.9512,
+      "box": [
+        115,
+        631,
+        456,
+        654
+      ]
+    },
+    {
+      "text": "• Completed coursework in containerization basics",
+      "score": 0.9753,
+      "box": [
+        132,
+        656,
+        601,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of backend frameworks",
+      "score": 0.9934,
+      "box": [
+        135,
+        682,
+        534,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "CODY KIRBY\nTX, USA|+1-521-550-1901 |cody.kirby@example.com\nWORK HISTORY\nSoftware Developers, Brightsoft Solutions, 2020.07–2023.01\n- Developed system monitoring strategies\n- Defined code review processes\nSoftware Developers, Bluecrest Software, 2016.02–2018.08\n- Built containerized services\n- Improved system reliability\nSoftware Developers, Brightloop Systems, 2012.08–2015.03\n- Wrote unit tests for application modules\n- Implemented basic features in existing codebases\nEDUCATION\nBachelor's, Sunfield University, 2012\n• Completed coursework in containerization basics\n• Studied principles of backend frameworks"
+}

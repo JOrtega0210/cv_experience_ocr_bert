@@ -1,0 +1,187 @@
+{
+  "id": "50515",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.794,
+  "n_lines": 13,
+  "mean_score": 0.9785,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NATALIE KNOX",
+      "score": 0.9676,
+      "box": [
+        116,
+        90,
+        370,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-747-713-8326|natalie.knox@example.com",
+      "score": 0.9802,
+      "box": [
+        114,
+        150,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9798,
+      "box": [
+        114,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Build Co., 2021.06–2023.01",
+      "score": 0.9889,
+      "box": [
+        115,
+        290,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.9848,
+      "box": [
+        126,
+        313,
+        448,
+        337
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.9755,
+      "box": [
+        125,
+        338,
+        488,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Build Co., 2019.11–2021.06",
+      "score": 0.9873,
+      "box": [
+        116,
+        382,
+        674,
+        405
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.996,
+      "box": [
+        126,
+        407,
+        446,
+        429
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9617,
+      "box": [
+        125,
+        430,
+        406,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Building Construction, Shoreline University, 2022",
+      "score": 0.9636,
+      "box": [
+        114,
+        539,
+        678,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of power tool operation",
+      "score": 0.9779,
+      "box": [
+        132,
+        564,
+        568,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of trench safety",
+      "score": 0.9593,
+      "box": [
+        132,
+        589,
+        498,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "NATALIE KNOX\nTX, USA|+1-747-713-8326|natalie.knox@example.com\nWORK HISTORY\nConstruction Laborers, Reliable Build Co., 2021.06–2023.01\n- Led cross-functional coordination\n- Established construction benchmarks\nConstruction Laborers, Reliable Build Co., 2019.11–2021.06\n- Secured materials with fasteners\n- Installed temporary supports\nEDUCATION\nBachelor's, Building Construction, Shoreline University, 2022\n• Studied fundamentals of power tool operation\n• Studied fundamentals of trench safety"
+}

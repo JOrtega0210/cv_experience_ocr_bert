@@ -1,0 +1,187 @@
+{
+  "id": "03293",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.922,
+  "n_lines": 13,
+  "mean_score": 0.9841,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RONALD LARSON",
+      "score": 0.9725,
+      "box": [
+        116,
+        90,
+        412,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-828-785-7274 |ronald.larson@example.com",
+      "score": 0.9912,
+      "box": [
+        117,
+        151,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9828,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Labs, 2020.05–2023.01",
+      "score": 0.9888,
+      "box": [
+        115,
+        290,
+        613,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented release management strategies",
+      "score": 0.9738,
+      "box": [
+        126,
+        314,
+        561,
+        339
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9803,
+      "box": [
+        127,
+        340,
+        379,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Openfield Tech, 2017.09–2020.05",
+      "score": 0.9867,
+      "box": [
+        115,
+        381,
+        638,
+        406
+      ]
+    },
+    {
+      "text": "- Refactored simple functions for readability",
+      "score": 0.9841,
+      "box": [
+        125,
+        406,
+        530,
+        431
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9773,
+      "box": [
+        126,
+        430,
+        562,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Brookfield University, 2017",
+      "score": 0.984,
+      "box": [
+        114,
+        539,
+        475,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in tree data structures",
+      "score": 0.9823,
+      "box": [
+        133,
+        566,
+        570,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in software project management",
+      "score": 0.9914,
+      "box": [
+        133,
+        590,
+        665,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "RONALD LARSON\nCA, USA|+1-828-785-7274 |ronald.larson@example.com\nWORK HISTORY\nSoftware Developers, Netline Labs, 2020.05–2023.01\n- Implemented release management strategies\n- Defined coding standards\nSoftware Developers, Openfield Tech, 2017.09–2020.05\n- Refactored simple functions for readability\n- Fixed software bugs identified through testing\nEDUCATION\nBachelor's, Brookfield University, 2017\n• Completed coursework in tree data structures\n• Completed coursework in software project management"
+}

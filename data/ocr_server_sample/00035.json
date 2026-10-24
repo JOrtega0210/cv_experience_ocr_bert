@@ -1,0 +1,161 @@
+{
+  "id": "00035",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.729,
+  "n_lines": 11,
+  "mean_score": 0.9772,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ALAN HUBER",
+      "score": 0.9727,
+      "box": [
+        116,
+        90,
+        339,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-441-838-1641 | alan.huber@example.com",
+      "score": 0.9681,
+      "box": [
+        116,
+        152,
+        636,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudstone Software, 2020.03–2023.01",
+      "score": 0.9892,
+      "box": [
+        115,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9617,
+      "box": [
+        125,
+        312,
+        341,
+        341
+      ]
+    },
+    {
+      "text": "- Implemented caching logic",
+      "score": 0.961,
+      "box": [
+        126,
+        339,
+        390,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, EIm Valley University, 2023",
+      "score": 0.9588,
+      "box": [
+        115,
+        449,
+        460,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Rosewood University, 2022",
+      "score": 0.9779,
+      "box": [
+        115,
+        474,
+        480,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of data modeling",
+      "score": 0.9775,
+      "box": [
+        134,
+        499,
+        472,
+        523
+      ]
+    },
+    {
+      "text": "• Completed coursework in accessibility standards",
+      "score": 0.9973,
+      "box": [
+        135,
+        524,
+        598,
+        547
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "ALAN HUBER\nAL, USA|+1-441-838-1641 | alan.huber@example.com\nWORK HISTORY\nSoftware Developers, Cloudstone Software, 2020.03–2023.01\n- Updated routing logic\n- Implemented caching logic\nEDUCATION\nMaster's, EIm Valley University, 2023\nBachelor's, Rosewood University, 2022\n• Studied principles of data modeling\n• Completed coursework in accessibility standards"
+}

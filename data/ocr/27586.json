@@ -1,0 +1,226 @@
+{
+  "id": "27586",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.852,
+  "n_lines": 16,
+  "mean_score": 0.9822,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KENNIA MERRITT",
+      "score": 0.9798,
+      "box": [
+        116,
+        90,
+        404,
+        120
+      ]
+    },
+    {
+      "text": "MI, USA|+1-798-510-3080|kennia.merritt@example.com",
+      "score": 0.9765,
+      "box": [
+        116,
+        152,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9812,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunLife Care Group, 2021.01–2023.01",
+      "score": 0.9824,
+      "box": [
+        116,
+        290,
+        660,
+        313
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9873,
+      "box": [
+        127,
+        315,
+        548,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9811,
+      "box": [
+        127,
+        340,
+        456,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Nursing Services, 2019.01–2021.01",
+      "score": 0.9903,
+      "box": [
+        115,
+        381,
+        722,
+        406
+      ]
+    },
+    {
+      "text": "- Interpreted laboratory results",
+      "score": 0.9879,
+      "box": [
+        126,
+        406,
+        410,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented infection prevention protocols",
+      "score": 0.9775,
+      "box": [
+        126,
+        431,
+        540,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelISpring Nursing Services, 2016.12–2019.01",
+      "score": 0.9857,
+      "box": [
+        116,
+        473,
+        739,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.9802,
+      "box": [
+        125,
+        498,
+        419,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.9708,
+      "box": [
+        126,
+        521,
+        473,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Nursing, Stonebridge University, 2020",
+      "score": 0.9769,
+      "box": [
+        114,
+        631,
+        650,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in disaster nursing basics",
+      "score": 0.9822,
+      "box": [
+        134,
+        658,
+        602,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of adverse drug reactions",
+      "score": 0.9764,
+      "box": [
+        134,
+        681,
+        554,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "KENNIA MERRITT\nMI, USA|+1-798-510-3080|kennia.merritt@example.com\nWORK HISTORY\nRegistered Nurses, SunLife Care Group, 2021.01–2023.01\n- Developed clinical performance dashboards\n- Implemented care standardization\nRegistered Nurses, Harmony Nursing Services, 2019.01–2021.01\n- Interpreted laboratory results\n- Implemented infection prevention protocols\nRegistered Nurses, WelISpring Nursing Services, 2016.12–2019.01\n- Assisted with patient transfers\n- Assisted with respiratory treatments\nEDUCATION\nBachelor's, Clinical Nursing, Stonebridge University, 2020\n• Completed coursework in disaster nursing basics\n• Studied principles of adverse drug reactions"
+}

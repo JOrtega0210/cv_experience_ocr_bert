@@ -1,0 +1,187 @@
+{
+  "id": "16075",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.931,
+  "n_lines": 13,
+  "mean_score": 0.9831,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KOREY LANE",
+      "score": 0.963,
+      "box": [
+        116,
+        90,
+        337,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-945-546-4479|korey.lane@example.com",
+      "score": 0.9865,
+      "box": [
+        116,
+        151,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelILife Medical Group, 2021.03–2023.01",
+      "score": 0.9711,
+      "box": [
+        115,
+        289,
+        690,
+        314
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.978,
+      "box": [
+        127,
+        315,
+        455,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented care pathway frameworks",
+      "score": 0.9875,
+      "box": [
+        126,
+        339,
+        506,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueLife Nursing, 2016.07–2018.06",
+      "score": 0.9839,
+      "box": [
+        115,
+        381,
+        629,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored oxygen therapy",
+      "score": 0.9766,
+      "box": [
+        125,
+        406,
+        384,
+        433
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.9846,
+      "box": [
+        126,
+        429,
+        512,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing, Crestview University, 2011",
+      "score": 0.9872,
+      "box": [
+        114,
+        539,
+        555,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of clinical decision making",
+      "score": 0.9813,
+      "box": [
+        133,
+        566,
+        596,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in therapeutic exercise basics",
+      "score": 0.9984,
+      "box": [
+        135,
+        591,
+        640,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KOREY LANE\nGA, USA |+1-945-546-4479|korey.lane@example.com\nWORK HISTORY\nRegistered Nurses, WelILife Medical Group, 2021.03–2023.01\n- Led nursing workflow optimization\n- Implemented care pathway frameworks\nRegistered Nurses, TrueLife Nursing, 2016.07–2018.06\n- Monitored oxygen therapy\n- Performed basic life support procedures\nEDUCATION\nBachelor's, Nursing, Crestview University, 2011\n• Studied fundamentals of clinical decision making\n• Completed coursework in therapeutic exercise basics"
+}

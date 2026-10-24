@@ -1,0 +1,187 @@
+{
+  "id": "25027",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.874,
+  "n_lines": 13,
+  "mean_score": 0.9808,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TIFFANI AHMED",
+      "score": 0.9731,
+      "box": [
+        115,
+        90,
+        378,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA|+1-512-383-2616 |tffani.ahmed@example.com",
+      "score": 0.9722,
+      "box": [
+        115,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.978,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Garden Academy, 2020.10–2023.0",
+      "score": 0.9855,
+      "box": [
+        114,
+        289,
+        875,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented data analysis frameworks",
+      "score": 0.9755,
+      "box": [
+        127,
+        315,
+        504,
+        338
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.9581,
+      "box": [
+        126,
+        339,
+        533,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Litle Start School, 2016.10–2019.01",
+      "score": 0.9825,
+      "box": [
+        116,
+        382,
+        798,
+        405
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9937,
+      "box": [
+        126,
+        406,
+        458,
+        430
+      ]
+    },
+    {
+      "text": "- Collected student assignments",
+      "score": 0.9776,
+      "box": [
+        126,
+        430,
+        427,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Family and Child Studies, Springdale University, 2013",
+      "score": 0.9797,
+      "box": [
+        114,
+        539,
+        723,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational assessment tools",
+      "score": 0.9846,
+      "box": [
+        134,
+        566,
+        670,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional review methods",
+      "score": 0.9914,
+      "box": [
+        134,
+        591,
+        653,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "TIFFANI AHMED\nMD, USA|+1-512-383-2616 |tffani.ahmed@example.com\nWORK HISTORY\nElementary Middle School Teachers, Learning Garden Academy, 2020.10–2023.0\n- Implemented data analysis frameworks\n- Developed instructional evaluation metrics\nElementary Middle School Teachers, Litle Start School, 2016.10–2019.01\n- Recorded behavioral observations\n- Collected student assignments\nEDUCATION\nBachelor's, Family and Child Studies, Springdale University, 2013\n• Completed coursework in foundational assessment tools\n• Completed coursework in instructional review methods"
+}

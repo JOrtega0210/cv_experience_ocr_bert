@@ -1,0 +1,135 @@
+{
+  "id": "49755",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.73,
+  "n_lines": 9,
+  "mean_score": 0.9787,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KEITH TATE",
+      "score": 0.975,
+      "box": [
+        116,
+        90,
+        315,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-392-341-9314 |keith.tate@example.com",
+      "score": 0.9765,
+      "box": [
+        115,
+        150,
+        624,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9819,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Structures, 2020.04–2020.10",
+      "score": 0.9872,
+      "box": [
+        115,
+        290,
+        674,
+        313
+      ]
+    },
+    {
+      "text": "- Moved equipment between work zones",
+      "score": 0.9584,
+      "box": [
+        126,
+        314,
+        504,
+        339
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9865,
+      "box": [
+        128,
+        341,
+        367,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Industrial Maintenance, Silverlake High School, 2001",
+      "score": 0.9874,
+      "box": [
+        116,
+        449,
+        863,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of flooring installation",
+      "score": 0.9571,
+      "box": [
+        132,
+        472,
+        552,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "KEITH TATE\nTX, USA|+1-392-341-9314 |keith.tate@example.com\nWORK HISTORY\nConstruction Laborers, Unified Structures, 2020.04–2020.10\n- Moved equipment between work zones\n- Installed basic formwork\nEDUCATION\nHigh school graduate/GED, Industrial Maintenance, Silverlake High School, 2001\n• Studied fundamentals of flooring installation"
+}

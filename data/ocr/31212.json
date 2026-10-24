@@ -1,0 +1,200 @@
+{
+  "id": "31212",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.801,
+  "n_lines": 14,
+  "mean_score": 0.9867,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRENDANLEE",
+      "score": 0.9985,
+      "box": [
+        116,
+        90,
+        360,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA|+1-901-595-3513|brendan.lee@example.com",
+      "score": 0.992,
+      "box": [
+        115,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9789,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpoint Tech, 2020.05–2023.01",
+      "score": 0.9915,
+      "box": [
+        115,
+        290,
+        635,
+        312
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9789,
+      "box": [
+        127,
+        315,
+        424,
+        338
+      ]
+    },
+    {
+      "text": "- Developed system monitoring strategies",
+      "score": 0.9725,
+      "box": [
+        126,
+        339,
+        513,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Flowcrest Tech, 2017.08–2020.05",
+      "score": 0.9817,
+      "box": [
+        115,
+        381,
+        638,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9915,
+      "box": [
+        125,
+        406,
+        509,
+        431
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9825,
+      "box": [
+        126,
+        430,
+        448,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Master's, Meadowview University, 2019",
+      "score": 0.9739,
+      "box": [
+        115,
+        541,
+        484,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Riverside University, 2017",
+      "score": 0.987,
+      "box": [
+        115,
+        566,
+        469,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of documentation standards",
+      "score": 0.9928,
+      "box": [
+        133,
+        591,
+        577,
+        614
+      ]
+    },
+    {
+      "text": "• Studied principles of graph algorithms",
+      "score": 0.9932,
+      "box": [
+        133,
+        615,
+        497,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "BRENDANLEE\nMO, USA|+1-901-595-3513|brendan.lee@example.com\nWORK HISTORY\nSoftware Developers, Flowpoint Tech, 2020.05–2023.01\n- Implemented core frameworks\n- Developed system monitoring strategies\nSoftware Developers, Flowcrest Tech, 2017.08–2020.05\n- Assisted with version control operations\n- Performed basic APl integrations\nEDUCATION\nMaster's, Meadowview University, 2019\nBachelor's, Riverside University, 2017\n• Studied principles of documentation standards\n• Studied principles of graph algorithms"
+}

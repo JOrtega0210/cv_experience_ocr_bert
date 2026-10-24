@@ -1,0 +1,187 @@
+{
+  "id": "37768",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.826,
+  "n_lines": 13,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "VICENTE GARRETT",
+      "score": 0.9757,
+      "box": [
+        116,
+        90,
+        434,
+        120
+      ]
+    },
+    {
+      "text": "NY, USA|+1-328-646-7213|vicente.garrett@example.com",
+      "score": 0.9756,
+      "box": [
+        115,
+        150,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Financial, 2020.12–2023.01",
+      "score": 0.9916,
+      "box": [
+        115,
+        290,
+        713,
+        313
+      ]
+    },
+    {
+      "text": "-Directed revenue recognition policies",
+      "score": 0.9968,
+      "box": [
+        125,
+        314,
+        484,
+        338
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9758,
+      "box": [
+        126,
+        339,
+        527,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Advisors, 2018.11–2020.12",
+      "score": 0.992,
+      "box": [
+        115,
+        381,
+        736,
+        405
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.976,
+      "box": [
+        125,
+        406,
+        490,
+        431
+      ]
+    },
+    {
+      "text": "- Compiled financial schedules",
+      "score": 0.9942,
+      "box": [
+        126,
+        430,
+        413,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Studies, Blue Ridge University, 2018",
+      "score": 0.9679,
+      "box": [
+        114,
+        539,
+        655,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in pension accounting basics",
+      "score": 0.9871,
+      "box": [
+        133,
+        565,
+        633,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial modeling basics",
+      "score": 0.974,
+      "box": [
+        134,
+        590,
+        622,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "VICENTE GARRETT\nNY, USA|+1-328-646-7213|vicente.garrett@example.com\nWORK HISTORY\nAccountants Auditors, ClearBalance Financial, 2020.12–2023.01\n-Directed revenue recognition policies\n- Designed financial accountability systems\nAccountants Auditors, Precise Balance Advisors, 2018.11–2020.12\n- Processed accounts payable invoices\n- Compiled financial schedules\nEDUCATION\nBachelor's, Business Studies, Blue Ridge University, 2018\n• Completed coursework in pension accounting basics\n• Completed coursework in financial modeling basics"
+}

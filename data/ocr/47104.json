@@ -1,0 +1,226 @@
+{
+  "id": "47104",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.813,
+  "n_lines": 16,
+  "mean_score": 0.9765,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MAURICE WEISS",
+      "score": 0.9872,
+      "box": [
+        116,
+        90,
+        391,
+        121
+      ]
+    },
+    {
+      "text": "RI, USA|+1-413-910-1700 |maurice.weiss@example.com",
+      "score": 0.9841,
+      "box": [
+        116,
+        152,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9875,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skybridge Software, 2020.04–2023.01",
+      "score": 0.9861,
+      "box": [
+        115,
+        290,
+        675,
+        313
+      ]
+    },
+    {
+      "text": "- Led refactoring initiatives",
+      "score": 0.968,
+      "box": [
+        126,
+        315,
+        374,
+        339
+      ]
+    },
+    {
+      "text": "- Led technical audits",
+      "score": 0.9746,
+      "box": [
+        126,
+        338,
+        327,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Openpoint Digital 2017.07–2020.04",
+      "score": 0.9637,
+      "box": [
+        115,
+        381,
+        656,
+        406
+      ]
+    },
+    {
+      "text": "- Integrated payment gateways",
+      "score": 0.9601,
+      "box": [
+        126,
+        406,
+        417,
+        432
+      ]
+    },
+    {
+      "text": "- Built feature management systems",
+      "score": 0.9717,
+      "box": [
+        126,
+        430,
+        463,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Silverwave Technologies, 2014.09–2017.07",
+      "score": 0.9826,
+      "box": [
+        115,
+        471,
+        727,
+        496
+      ]
+    },
+    {
+      "text": "- Refactored simple functions for readability",
+      "score": 0.9628,
+      "box": [
+        125,
+        496,
+        530,
+        522
+      ]
+    },
+    {
+      "text": "- Handled input sanitization",
+      "score": 0.9839,
+      "box": [
+        126,
+        521,
+        382,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Brightwater University, 2013",
+      "score": 0.9381,
+      "box": [
+        115,
+        632,
+        487,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in probability and statistics",
+      "score": 0.9841,
+      "box": [
+        133,
+        657,
+        610,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in parallel computing",
+      "score": 0.9899,
+      "box": [
+        134,
+        681,
+        558,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "MAURICE WEISS\nRI, USA|+1-413-910-1700 |maurice.weiss@example.com\nWORK HISTORY\nSoftware Developers, Skybridge Software, 2020.04–2023.01\n- Led refactoring initiatives\n- Led technical audits\nSoftware Developers, Openpoint Digital 2017.07–2020.04\n- Integrated payment gateways\n- Built feature management systems\nSoftware Developers, Silverwave Technologies, 2014.09–2017.07\n- Refactored simple functions for readability\n- Handled input sanitization\nEDUCATION\nBachelor's, Brightwater University, 2013\n• Completed coursework in probability and statistics\n• Completed coursework in parallel computing"
+}

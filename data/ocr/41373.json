@@ -1,0 +1,187 @@
+{
+  "id": "41373",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.887,
+  "n_lines": 13,
+  "mean_score": 0.9773,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LOUIS AVERY",
+      "score": 0.9822,
+      "box": [
+        113,
+        87,
+        347,
+        123
+      ]
+    },
+    {
+      "text": "OH, USA|+1-966-421-5874 | louis.avery@example.com",
+      "score": 0.9426,
+      "box": [
+        116,
+        150,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9776,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Accounting, 2020.06–2023.01",
+      "score": 0.9916,
+      "box": [
+        115,
+        290,
+        725,
+        312
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9674,
+      "box": [
+        125,
+        313,
+        504,
+        339
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.977,
+      "box": [
+        126,
+        339,
+        427,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Financial Group, 2016.11–2019.06",
+      "score": 0.9698,
+      "box": [
+        114,
+        381,
+        803,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedures",
+      "score": 0.9914,
+      "box": [
+        125,
+        406,
+        507,
+        431
+      ]
+    },
+    {
+      "text": "- Maintained supporting documentation",
+      "score": 0.9669,
+      "box": [
+        126,
+        431,
+        490,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting Information Systems, Fairhill University, 2012",
+      "score": 0.9786,
+      "box": [
+        114,
+        539,
+        754,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of microeconomics",
+      "score": 0.9929,
+      "box": [
+        133,
+        566,
+        493,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit quality management",
+      "score": 0.9688,
+      "box": [
+        133,
+        590,
+        629,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "LOUIS AVERY\nOH, USA|+1-966-421-5874 | louis.avery@example.com\nWORK HISTORY\nAccountants Auditors, EverBalance Accounting, 2020.06–2023.01\n- Established cost management systems\n- Managed financial governance\nAccountants Auditors, Precise Balance Financial Group, 2016.11–2019.06\n- Assisted with monthly close procedures\n- Maintained supporting documentation\nEDUCATION\nBachelor's, Accounting Information Systems, Fairhill University, 2012\n• Studied principles of microeconomics\n• Completed coursework in audit quality management"
+}

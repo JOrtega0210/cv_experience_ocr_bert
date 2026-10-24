@@ -1,0 +1,265 @@
+{
+  "id": "27158",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.91,
+  "n_lines": 19,
+  "mean_score": 0.984,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TERESA NELSON",
+      "score": 0.983,
+      "box": [
+        115,
+        90,
+        403,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-461-434-5949|teresa.nelson@example.com",
+      "score": 0.9954,
+      "box": [
+        116,
+        152,
+        660,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentlePath Nursing, 2020.01–2023.01",
+      "score": 0.9883,
+      "box": [
+        115,
+        289,
+        656,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented care pathway frameworks",
+      "score": 0.9796,
+      "box": [
+        127,
+        315,
+        506,
+        338
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.9788,
+      "box": [
+        127,
+        340,
+        455,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHands Health Group, 2016.12–2020.01",
+      "score": 0.9867,
+      "box": [
+        115,
+        381,
+        706,
+        406
+      ]
+    },
+    {
+      "text": "- Developed nursing policy frameworks",
+      "score": 0.9716,
+      "box": [
+        126,
+        406,
+        489,
+        431
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.9944,
+      "box": [
+        126,
+        431,
+        520,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeWay Health Group, 2013.11–2016.12",
+      "score": 0.9852,
+      "box": [
+        116,
+        473,
+        690,
+        497
+      ]
+    },
+    {
+      "text": "- Managed geriatric care plans",
+      "score": 0.9866,
+      "box": [
+        126,
+        498,
+        412,
+        521
+      ]
+    },
+    {
+      "text": "-Documented clinical care activities",
+      "score": 0.9961,
+      "box": [
+        125,
+        521,
+        461,
+        545
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunPath Nursing, 2009.08–2012.09",
+      "score": 0.9692,
+      "box": [
+        116,
+        565,
+        633,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.982,
+      "box": [
+        126,
+        590,
+        372,
+        614
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.975,
+      "box": [
+        125,
+        614,
+        365,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Biomedical Sciences, Brookway University, 2004",
+      "score": 0.9704,
+      "box": [
+        114,
+        723,
+        676,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of community health nursing",
+      "score": 0.9711,
+      "box": [
+        132,
+        747,
+        617,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical reasoning",
+      "score": 0.9969,
+      "box": [
+        135,
+        774,
+        549,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "TERESA NELSON\nMI, USA|+1-461-434-5949|teresa.nelson@example.com\nWORK HISTORY\nRegistered Nurses, GentlePath Nursing, 2020.01–2023.01\n- Implemented care pathway frameworks\n- Led nursing workflow optimization\nRegistered Nurses, NewHands Health Group, 2016.12–2020.01\n- Developed nursing policy frameworks\n- Established nursing performance metrics\nRegistered Nurses, SafeWay Health Group, 2013.11–2016.12\n- Managed geriatric care plans\n-Documented clinical care activities\nRegistered Nurses, SunPath Nursing, 2009.08–2012.09\n- Prepared sterile supplies\n- Recorded nursing notes\nEDUCATION\nBachelor's, Biomedical Sciences, Brookway University, 2004\n• Studied fundamentals of community health nursing\n• Completed coursework in clinical reasoning"
+}

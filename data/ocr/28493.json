@@ -1,0 +1,252 @@
+{
+  "id": "28493",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.94,
+  "n_lines": 18,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NICOLAS NELSON",
+      "score": 0.9891,
+      "box": [
+        116,
+        90,
+        417,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-826-317-7710 |nicolas.nelson@example.com",
+      "score": 0.993,
+      "box": [
+        116,
+        152,
+        677,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Group, 2019.04–2023.01",
+      "score": 0.9782,
+      "box": [
+        114,
+        288,
+        672,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.9584,
+      "box": [
+        126,
+        314,
+        531,
+        339
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.9925,
+      "box": [
+        126,
+        339,
+        476,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Group, 2015.07–2019.4",
+      "score": 0.9745,
+      "box": [
+        115,
+        381,
+        673,
+        406
+      ]
+    },
+    {
+      "text": "- Managed construction schedules",
+      "score": 0.9829,
+      "box": [
+        126,
+        407,
+        447,
+        430
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9817,
+      "box": [
+        126,
+        431,
+        487,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeStone Group, 2011.10–2015.07",
+      "score": 0.9802,
+      "box": [
+        115,
+        472,
+        681,
+        496
+      ]
+    },
+    {
+      "text": "- Aligned structural components",
+      "score": 0.994,
+      "box": [
+        126,
+        498,
+        423,
+        521
+      ]
+    },
+    {
+      "text": "- Installed mechanical supports",
+      "score": 0.9643,
+      "box": [
+        126,
+        521,
+        418,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkRight Contractors, 2006.04–2010.02",
+      "score": 0.9869,
+      "box": [
+        115,
+        563,
+        720,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.9898,
+      "box": [
+        125,
+        588,
+        583,
+        614
+      ]
+    },
+    {
+      "text": "- Performed basic carpentry tasks",
+      "score": 0.9856,
+      "box": [
+        126,
+        613,
+        442,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Concrete Technology, Brookwood High School, 1997",
+      "score": 0.9872,
+      "box": [
+        116,
+        725,
+        868,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of wall systems",
+      "score": 0.9839,
+      "box": [
+        132,
+        747,
+        498,
+        772
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "NICOLAS NELSON\nMN, USA|+1-826-317-7710 |nicolas.nelson@example.com\nWORK HISTORY\nConstruction Laborers, PrimeBuild Group, 2019.04–2023.01\n- Implemented safety compliance strategies\n- Developed site performance metrics\nConstruction Laborers, PrimeBuild Group, 2015.07–2019.4\n- Managed construction schedules\n- Reviewed compliance documentation\nConstruction Laborers, PrimeStone Group, 2011.10–2015.07\n- Aligned structural components\n- Installed mechanical supports\nConstruction Laborers, WorkRight Contractors, 2006.04–2010.02\n- Assisted with basic electrical conduit placement\n- Performed basic carpentry tasks\nEDUCATION\nHigh school graduate/GED, Concrete Technology, Brookwood High School, 1997\n• Studied fundamentals of wall systems"
+}

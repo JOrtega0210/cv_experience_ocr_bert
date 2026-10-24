@@ -1,0 +1,148 @@
+{
+  "id": "45093",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.715,
+  "n_lines": 10,
+  "mean_score": 0.9837,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JONISHA HANSON",
+      "score": 0.9947,
+      "box": [
+        116,
+        90,
+        421,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-365-499-7327 |jonisha.hanson@example.com",
+      "score": 0.9678,
+      "box": [
+        115,
+        150,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9852,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowframe Digital, 2021.09–2021.11",
+      "score": 0.9734,
+      "box": [
+        116,
+        290,
+        656,
+        313
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.9789,
+      "box": [
+        126,
+        315,
+        332,
+        339
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9875,
+      "box": [
+        126,
+        339,
+        448,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Summit University, 2019",
+      "score": 0.9779,
+      "box": [
+        115,
+        449,
+        452,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of software documentation",
+      "score": 0.9905,
+      "box": [
+        132,
+        472,
+        564,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of artificial intelligence",
+      "score": 0.9819,
+      "box": [
+        133,
+        499,
+        561,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JONISHA HANSON\nPA, USA|+1-365-499-7327 |jonisha.hanson@example.com\nWORK HISTORY\nSoftware Developers, Flowframe Digital, 2021.09–2021.11\n- Handled file uploads\n- Performed basic APl integrations\nEDUCATION\nBachelor's, Summit University, 2019\n• Studied principles of software documentation\n• Studied fundamentals of artificial intelligence"
+}

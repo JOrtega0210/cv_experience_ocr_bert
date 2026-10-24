@@ -1,0 +1,200 @@
+{
+  "id": "08074",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.903,
+  "n_lines": 14,
+  "mean_score": 0.982,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AMANDA HUYNH",
+      "score": 0.9918,
+      "box": [
+        117,
+        90,
+        395,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA|+1-318-949-8818 |amanda.huynh@example.com",
+      "score": 0.9757,
+      "box": [
+        117,
+        151,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Labs, 2020.03–2023.01",
+      "score": 0.9916,
+      "box": [
+        115,
+        290,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9633,
+      "box": [
+        125,
+        314,
+        445,
+        337
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9921,
+      "box": [
+        126,
+        339,
+        450,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Clearwave Systems, 2017.04–2020.03",
+      "score": 0.9919,
+      "box": [
+        115,
+        381,
+        681,
+        406
+      ]
+    },
+    {
+      "text": "- Maintained code repositories",
+      "score": 0.9595,
+      "box": [
+        125,
+        406,
+        411,
+        431
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9813,
+      "box": [
+        127,
+        432,
+        414,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Cedarfield University, 2016",
+      "score": 0.979,
+      "box": [
+        115,
+        541,
+        459,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Goldenwood University, 2014",
+      "score": 0.9695,
+      "box": [
+        115,
+        566,
+        499,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in query performance tuning",
+      "score": 0.987,
+      "box": [
+        134,
+        592,
+        626,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in layered architecture",
+      "score": 0.9819,
+      "box": [
+        134,
+        615,
+        573,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "AMANDA HUYNH\nCA, USA|+1-318-949-8818 |amanda.huynh@example.com\nWORK HISTORY\nSoftware Developers, Codepath Labs, 2020.03–2023.01\n- Designed caching infrastructures\n- Defined data governance policies\nSoftware Developers, Clearwave Systems, 2017.04–2020.03\n- Maintained code repositories\n- Updated frontend stylesheets\nEDUCATION\nMaster's, Cedarfield University, 2016\nBachelor's, Goldenwood University, 2014\n• Completed coursework in query performance tuning\n• Completed coursework in layered architecture"
+}

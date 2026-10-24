@@ -1,0 +1,161 @@
+{
+  "id": "01646",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.851,
+  "n_lines": 11,
+  "mean_score": 0.9813,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KATHRYN BRADSHAW",
+      "score": 0.9712,
+      "box": [
+        116,
+        90,
+        488,
+        120
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-759-618-6789|kathryn.bradshaw@example.com",
+      "score": 0.9903,
+      "box": [
+        116,
+        152,
+        703,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Solutions, 2020.07–2022.06",
+      "score": 0.9916,
+      "box": [
+        116,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9448,
+      "box": [
+        125,
+        313,
+        365,
+        339
+      ]
+    },
+    {
+      "text": "- Maintained code repositories",
+      "score": 0.9811,
+      "box": [
+        126,
+        339,
+        410,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Goldenfield University, 2010",
+      "score": 0.9783,
+      "box": [
+        115,
+        449,
+        469,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Summit University, 2008",
+      "score": 0.9785,
+      "box": [
+        115,
+        474,
+        453,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of domain-driven design",
+      "score": 0.9818,
+      "box": [
+        132,
+        497,
+        578,
+        523
+      ]
+    },
+    {
+      "text": "• Studied principles of versioning strategies",
+      "score": 0.9931,
+      "box": [
+        133,
+        523,
+        533,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "KATHRYN BRADSHAW\nAZ, USA|+1-759-618-6789|kathryn.bradshaw@example.com\nWORK HISTORY\nSoftware Developers, Openwave Solutions, 2020.07–2022.06\n- Handled feature toggles\n- Maintained code repositories\nEDUCATION\nMaster's, Goldenfield University, 2010\nBachelor's, Summit University, 2008\n• Studied fundamentals of domain-driven design\n• Studied principles of versioning strategies"
+}

@@ -1,0 +1,135 @@
+{
+  "id": "15317",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.828,
+  "n_lines": 9,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JASON STEWART",
+      "score": 0.9769,
+      "box": [
+        116,
+        90,
+        408,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-955-516-2988 |jason.stewart@example.com",
+      "score": 0.9606,
+      "box": [
+        116,
+        151,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9828,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Structures, 2018.08–2021.06",
+      "score": 0.9855,
+      "box": [
+        115,
+        290,
+        685,
+        313
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.9776,
+      "box": [
+        126,
+        315,
+        475,
+        338
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9827,
+      "box": [
+        126,
+        339,
+        439,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Design, Wildflower High School, 2015",
+      "score": 0.9871,
+      "box": [
+        116,
+        449,
+        849,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in surveying basics",
+      "score": 0.9905,
+      "box": [
+        133,
+        474,
+        544,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "JASON STEWART\nGA, USA |+1-955-516-2988 |jason.stewart@example.com\nWORK HISTORY\nConstruction Laborers, Reliable Structures, 2018.08–2021.06\n- Marked measurements on materials\n- Helped position heavy materials\nEDUCATION\nHigh school graduate/GED, Construction Design, Wildflower High School, 2015\n• Completed coursework in surveying basics"
+}

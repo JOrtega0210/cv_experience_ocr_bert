@@ -1,0 +1,187 @@
+{
+  "id": "60806",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.81,
+  "n_lines": 13,
+  "mean_score": 0.983,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HAKEEN MARSH",
+      "score": 0.9884,
+      "box": [
+        116,
+        90,
+        392,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-386-806-9701 |hakeen.marsh@example.com",
+      "score": 0.9766,
+      "box": [
+        115,
+        150,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corefield Software, 2021.06–2023.01",
+      "score": 0.9791,
+      "box": [
+        114,
+        288,
+        666,
+        313
+      ]
+    },
+    {
+      "text": "-Built core libraries",
+      "score": 0.9609,
+      "box": [
+        124,
+        312,
+        309,
+        338
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9934,
+      "box": [
+        126,
+        339,
+        448,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Softpeak Technologies, 2018.08–2020.04",
+      "score": 0.994,
+      "box": [
+        115,
+        381,
+        709,
+        406
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9748,
+      "box": [
+        127,
+        407,
+        501,
+        430
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.9856,
+      "box": [
+        125,
+        430,
+        332,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Oakwood University, 2012",
+      "score": 0.9664,
+      "box": [
+        115,
+        539,
+        549,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in software architecture",
+      "score": 0.9888,
+      "box": [
+        134,
+        566,
+        584,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in software engineering",
+      "score": 0.9876,
+      "box": [
+        134,
+        590,
+        583,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "HAKEEN MARSH\nWI, USA|+1-386-806-9701 |hakeen.marsh@example.com\nWORK HISTORY\nSoftware Developers, Corefield Software, 2021.06–2023.01\n-Built core libraries\n- Designed data storage strategies\nSoftware Developers, Softpeak Technologies, 2018.08–2020.04\n- Configured development environments\n- Handled file uploads\nEDUCATION\nAssociate's degree, Oakwood University, 2012\n• Completed coursework in software architecture\n• Completed coursework in software engineering"
+}

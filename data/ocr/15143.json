@@ -1,0 +1,265 @@
+{
+  "id": "15143",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.04,
+  "n_lines": 19,
+  "mean_score": 0.9796,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SARAH SUMMERS",
+      "score": 0.9772,
+      "box": [
+        116,
+        90,
+        417,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-649-562-5140|sarah.summers@example.com",
+      "score": 0.9833,
+      "box": [
+        116,
+        151,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWell Nursing Services, 2020.04–2023.01",
+      "score": 0.9768,
+      "box": [
+        116,
+        290,
+        716,
+        314
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.9768,
+      "box": [
+        127,
+        315,
+        458,
+        338
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.973,
+      "box": [
+        126,
+        339,
+        509,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeHands Nursing Services, 2017.07–2020.04",
+      "score": 0.9678,
+      "box": [
+        115,
+        381,
+        734,
+        406
+      ]
+    },
+    {
+      "text": "- Managed patient safety reporting systems",
+      "score": 0.9741,
+      "box": [
+        126,
+        406,
+        529,
+        432
+      ]
+    },
+    {
+      "text": "- Managed clinical workflow redesign",
+      "score": 0.9804,
+      "box": [
+        126,
+        431,
+        470,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIHands Medical Group, 2014.10–2017.07",
+      "score": 0.9898,
+      "box": [
+        116,
+        472,
+        718,
+        496
+      ]
+    },
+    {
+      "text": "- Managed intravenous therapy",
+      "score": 0.9737,
+      "box": [
+        125,
+        496,
+        419,
+        523
+      ]
+    },
+    {
+      "text": "- Coordinated patient follow-ups",
+      "score": 0.9705,
+      "box": [
+        126,
+        521,
+        425,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeBridge Nursing Services, 2009.10–2012.07",
+      "score": 0.9855,
+      "box": [
+        116,
+        565,
+        743,
+        589
+      ]
+    },
+    {
+      "text": "- Performed wound dressing changes",
+      "score": 0.9806,
+      "box": [
+        125,
+        588,
+        476,
+        615
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9572,
+      "box": [
+        126,
+        614,
+        387,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Life Sciences, Lakeside University, 2004",
+      "score": 0.9904,
+      "box": [
+        116,
+        725,
+        679,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of patient identification",
+      "score": 0.9925,
+      "box": [
+        133,
+        749,
+        527,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of quality assurance in care",
+      "score": 0.9788,
+      "box": [
+        132,
+        772,
+        610,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "SARAH SUMMERS\nGA, USA|+1-649-562-5140|sarah.summers@example.com\nWORK HISTORY\nRegistered Nurses, SunWell Nursing Services, 2020.04–2023.01\n- Developed patient care algorithms\n- Directed nursing process improvements\nRegistered Nurses, LifeHands Nursing Services, 2017.07–2020.04\n- Managed patient safety reporting systems\n- Managed clinical workflow redesign\nRegistered Nurses, WelIHands Medical Group, 2014.10–2017.07\n- Managed intravenous therapy\n- Coordinated patient follow-ups\nRegistered Nurses, SafeBridge Nursing Services, 2009.10–2012.07\n- Performed wound dressing changes\n- Prepared treatment rooms\nEDUCATION\nAssociate's degree, Life Sciences, Lakeside University, 2004\n• Studied principles of patient identification\n• Studied fundamentals of quality assurance in care"
+}

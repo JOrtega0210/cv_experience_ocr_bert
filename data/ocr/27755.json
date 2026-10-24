@@ -1,0 +1,148 @@
+{
+  "id": "27755",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.758,
+  "n_lines": 10,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JENNIFER SHANNON",
+      "score": 0.9821,
+      "box": [
+        116,
+        90,
+        461,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-834-834-1982 |jennifer.shannon@example.com",
+      "score": 0.9913,
+      "box": [
+        116,
+        151,
+        689,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9817,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeSpring Medical Services, 2020.12–2023.01",
+      "score": 0.9938,
+      "box": [
+        116,
+        290,
+        732,
+        313
+      ]
+    },
+    {
+      "text": "- Updated patient medical records",
+      "score": 0.9556,
+      "box": [
+        127,
+        315,
+        443,
+        338
+      ]
+    },
+    {
+      "text": "- Collected laboratory specimens",
+      "score": 0.989,
+      "box": [
+        126,
+        339,
+        434,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Systems, Fairmont University, 2019",
+      "score": 0.9812,
+      "box": [
+        115,
+        449,
+        621,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical audits basics",
+      "score": 0.9846,
+      "box": [
+        133,
+        474,
+        579,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in home health nursing basics",
+      "score": 0.9803,
+      "box": [
+        134,
+        499,
+        643,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JENNIFER SHANNON\nMI, USA|+1-834-834-1982 |jennifer.shannon@example.com\nWORK HISTORY\nRegistered Nurses, LifeSpring Medical Services, 2020.12–2023.01\n- Updated patient medical records\n- Collected laboratory specimens\nEDUCATION\nBachelor's, Health Systems, Fairmont University, 2019\n• Completed coursework in clinical audits basics\n• Completed coursework in home health nursing basics"
+}

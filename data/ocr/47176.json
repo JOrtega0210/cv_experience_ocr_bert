@@ -1,0 +1,200 @@
+{
+  "id": "47176",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.852,
+  "n_lines": 14,
+  "mean_score": 0.9803,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KARA LANG",
+      "score": 0.9542,
+      "box": [
+        114,
+        87,
+        319,
+        123
+      ]
+    },
+    {
+      "text": "RI, USA|+1-910-851-7479|kara.lang@example.com",
+      "score": 0.9816,
+      "box": [
+        115,
+        150,
+        620,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9787,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Path School, 2018.04–2020.11",
+      "score": 0.9746,
+      "box": [
+        115,
+        290,
+        806,
+        313
+      ]
+    },
+    {
+      "text": "- Developed student performance metrics",
+      "score": 0.986,
+      "box": [
+        126,
+        315,
+        512,
+        338
+      ]
+    },
+    {
+      "text": "- Led academic improvement programs",
+      "score": 0.9849,
+      "box": [
+        126,
+        339,
+        492,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Path Academy, 2015.01–2017.08",
+      "score": 0.9862,
+      "box": [
+        115,
+        381,
+        870,
+        406
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9722,
+      "box": [
+        126,
+        407,
+        395,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared lesson summaries",
+      "score": 0.9873,
+      "box": [
+        125,
+        430,
+        402,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Learning Skills, Parkview University, 2009",
+      "score": 0.9683,
+      "box": [
+        115,
+        541,
+        595,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, General Learning Studies, Clearhaven University, 2007",
+      "score": 0.9835,
+      "box": [
+        115,
+        566,
+        737,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational assessment tools",
+      "score": 0.9823,
+      "box": [
+        135,
+        593,
+        669,
+        613
+      ]
+    },
+    {
+      "text": "• Studied principles of student comprehension",
+      "score": 0.9869,
+      "box": [
+        133,
+        615,
+        559,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "KARA LANG\nRI, USA|+1-910-851-7479|kara.lang@example.com\nWORK HISTORY\nElementary Middle School Teachers, Open Path School, 2018.04–2020.11\n- Developed student performance metrics\n- Led academic improvement programs\nElementary Middle School Teachers, Discovery Path Academy, 2015.01–2017.08\n- Collected permission forms\n- Prepared lesson summaries\nEDUCATION\nMaster's, Learning Skills, Parkview University, 2009\nBachelor's, General Learning Studies, Clearhaven University, 2007\n• Completed coursework in foundational assessment tools\n• Studied principles of student comprehension"
+}

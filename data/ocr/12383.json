@@ -1,0 +1,265 @@
+{
+  "id": "12383",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.07,
+  "n_lines": 19,
+  "mean_score": 0.9812,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAMESON HORNE",
+      "score": 0.9724,
+      "box": [
+        116,
+        90,
+        413,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-777-334-7195 |jameson.horne@example.com",
+      "score": 0.984,
+      "box": [
+        116,
+        151,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardRock Construction, 2020.04–2023.01",
+      "score": 0.9774,
+      "box": [
+        114,
+        289,
+        723,
+        313
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.9596,
+      "box": [
+        127,
+        315,
+        478,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9875,
+      "box": [
+        127,
+        340,
+        488,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Line Contractors, 2017.07–2020.04",
+      "score": 0.9906,
+      "box": [
+        116,
+        381,
+        752,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed structural integrity assessments",
+      "score": 0.9878,
+      "box": [
+        125,
+        406,
+        532,
+        431
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.987,
+      "box": [
+        126,
+        432,
+        487,
+        453
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueStep Builders, 2014.10–2017.07",
+      "score": 0.9792,
+      "box": [
+        116,
+        472,
+        674,
+        496
+      ]
+    },
+    {
+      "text": "- Maintained equipment logs",
+      "score": 0.9696,
+      "box": [
+        125,
+        496,
+        392,
+        522
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding inspections",
+      "score": 0.9555,
+      "box": [
+        126,
+        521,
+        444,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongWay Construction, 2012.01–2014.10",
+      "score": 0.9897,
+      "box": [
+        116,
+        565,
+        735,
+        588
+      ]
+    },
+    {
+      "text": "- Checked inventory of supplies",
+      "score": 0.9805,
+      "box": [
+        125,
+        589,
+        421,
+        614
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.9841,
+      "box": [
+        127,
+        615,
+        441,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Drafting, Goldenwood University, 2011",
+      "score": 0.9938,
+      "box": [
+        115,
+        723,
+        848,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural reinforcement methods",
+      "score": 0.9764,
+      "box": [
+        134,
+        750,
+        693,
+        770
+      ]
+    },
+    {
+      "text": "• Studied principles of framing methods",
+      "score": 0.982,
+      "box": [
+        134,
+        774,
+        497,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "JAMESON HORNE\nFL, USA|+1-777-334-7195 |jameson.horne@example.com\nWORK HISTORY\nConstruction Laborers, HardRock Construction, 2020.04–2023.01\n- Designed construction staging plans\n- Reviewed compliance documentation\nConstruction Laborers, Precision Line Contractors, 2017.07–2020.04\n- Reviewed structural integrity assessments\n- Established construction benchmarks\nConstruction Laborers, TrueStep Builders, 2014.10–2017.07\n- Maintained equipment logs\n- Prepared scaffolding inspections\nConstruction Laborers, StrongWay Construction, 2012.01–2014.10\n- Checked inventory of supplies\n- Handled delivery documentation\nEDUCATION\nSome college (no degree), Construction Drafting, Goldenwood University, 2011\n• Completed coursework in structural reinforcement methods\n• Studied principles of framing methods"
+}

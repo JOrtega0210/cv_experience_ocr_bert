@@ -1,0 +1,226 @@
+{
+  "id": "04005",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.913,
+  "n_lines": 16,
+  "mean_score": 0.9819,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CARLOS VO",
+      "score": 0.9561,
+      "box": [
+        114,
+        86,
+        318,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA|+1-668-858-7690 |carlos.vo@example.com",
+      "score": 0.982,
+      "box": [
+        116,
+        151,
+        625,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netstream Software, 2020.07–2023.01",
+      "score": 0.9896,
+      "box": [
+        115,
+        288,
+        680,
+        313
+      ]
+    },
+    {
+      "text": "- Defined API governance models",
+      "score": 0.973,
+      "box": [
+        125,
+        313,
+        443,
+        338
+      ]
+    },
+    {
+      "text": "- Defined integration standards",
+      "score": 0.9765,
+      "box": [
+        127,
+        340,
+        416,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightnode Software, 2017.03–2019.09",
+      "score": 0.989,
+      "box": [
+        115,
+        381,
+        685,
+        406
+      ]
+    },
+    {
+      "text": "- Improved code coverage",
+      "score": 0.9857,
+      "box": [
+        126,
+        406,
+        373,
+        432
+      ]
+    },
+    {
+      "text": "- Wrote automated tests",
+      "score": 0.9902,
+      "box": [
+        125,
+        429,
+        353,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Openbyte Systems, 2013.09–2016.04",
+      "score": 0.9891,
+      "box": [
+        115,
+        471,
+        673,
+        496
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.9613,
+      "box": [
+        127,
+        498,
+        462,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed code changes for syntax and logic issues",
+      "score": 0.9855,
+      "box": [
+        126,
+        521,
+        620,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Clear Ridge University, 2008",
+      "score": 0.9629,
+      "box": [
+        115,
+        632,
+        491,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of versioning strategies",
+      "score": 0.9877,
+      "box": [
+        132,
+        656,
+        533,
+        682
+      ]
+    },
+    {
+      "text": "• Studied principles of version control systems",
+      "score": 0.9971,
+      "box": [
+        134,
+        681,
+        560,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "CARLOS VO\nCA, USA|+1-668-858-7690 |carlos.vo@example.com\nWORK HISTORY\nSoftware Developers, Netstream Software, 2020.07–2023.01\n- Defined API governance models\n- Defined integration standards\nSoftware Developers, Brightnode Software, 2017.03–2019.09\n- Improved code coverage\n- Wrote automated tests\nSoftware Developers, Openbyte Systems, 2013.09–2016.04\n- Updated application dependencies\n- Reviewed code changes for syntax and logic issues\nEDUCATION\nBachelor's, Clear Ridge University, 2008\n• Studied principles of versioning strategies\n• Studied principles of version control systems"
+}

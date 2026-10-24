@@ -1,0 +1,174 @@
+{
+  "id": "56042",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.835,
+  "n_lines": 12,
+  "mean_score": 0.9808,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "PAUL MAY",
+      "score": 0.9637,
+      "box": [
+        114,
+        88,
+        295,
+        122
+      ]
+    },
+    {
+      "text": "VA, USA|+1-778-288-8747 |paul.may@example.com",
+      "score": 0.9664,
+      "box": [
+        114,
+        150,
+        625,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronLine Contractors, 2021.02–2023.01",
+      "score": 0.9724,
+      "box": [
+        114,
+        288,
+        696,
+        313
+      ]
+    },
+    {
+      "text": "- Directed site construction operations",
+      "score": 0.9794,
+      "box": [
+        125,
+        313,
+        480,
+        338
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9813,
+      "box": [
+        126,
+        339,
+        372,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, Durable Works, 2019.03–2021.02",
+      "score": 0.9861,
+      "box": [
+        115,
+        382,
+        647,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9749,
+      "box": [
+        125,
+        406,
+        426,
+        431
+      ]
+    },
+    {
+      "text": "- Moved equipment between work zones",
+      "score": 0.98,
+      "box": [
+        125,
+        431,
+        504,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Mechanical Technology, Timberline High School, 2017",
+      "score": 0.9931,
+      "box": [
+        116,
+        541,
+        882,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of building materials",
+      "score": 0.9897,
+      "box": [
+        133,
+        566,
+        504,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "PAUL MAY\nVA, USA|+1-778-288-8747 |paul.may@example.com\nWORK HISTORY\nConstruction Laborers, IronLine Contractors, 2021.02–2023.01\n- Directed site construction operations\n- Led operational planning\nConstruction Laborers, Durable Works, 2019.03–2021.02\n- Prepared scaffolding platforms\n- Moved equipment between work zones\nEDUCATION\nHigh school graduate/GED, Mechanical Technology, Timberline High School, 2017\n• Studied principles of building materials"
+}

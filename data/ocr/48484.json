@@ -1,0 +1,265 @@
+{
+  "id": "48484",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.85,
+  "n_lines": 19,
+  "mean_score": 0.9779,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TRACYVU",
+      "score": 0.9974,
+      "box": [
+        113,
+        88,
+        290,
+        122
+      ]
+    },
+    {
+      "text": "TN, USA|+1-394-914-3280 |tracy.vu@example.com",
+      "score": 0.9722,
+      "box": [
+        115,
+        150,
+        614,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9875,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightfield Digital, 2019.04–2023.01",
+      "score": 0.9605,
+      "box": [
+        115,
+        290,
+        652,
+        314
+      ]
+    },
+    {
+      "text": "- Designed microservice architectures",
+      "score": 0.9913,
+      "box": [
+        126,
+        315,
+        478,
+        338
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.9807,
+      "box": [
+        126,
+        339,
+        431,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Labs, 2015.06–2019.04",
+      "score": 0.9929,
+      "box": [
+        116,
+        382,
+        623,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed architectural proposals",
+      "score": 0.9601,
+      "box": [
+        125,
+        406,
+        449,
+        431
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9452,
+      "box": [
+        125,
+        430,
+        368,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Riverstone Digital, 2011.08–2015.06",
+      "score": 0.9777,
+      "box": [
+        114,
+        471,
+        660,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented feature flags",
+      "score": 0.9839,
+      "box": [
+        125,
+        496,
+        384,
+        522
+      ]
+    },
+    {
+      "text": "- Developed Cl/CD scripts",
+      "score": 0.9594,
+      "box": [
+        125,
+        521,
+        371,
+        548
+      ]
+    },
+    {
+      "text": "Software Developers, Nexttline Software, 2007.10–2011.08",
+      "score": 0.9609,
+      "box": [
+        114,
+        563,
+        660,
+        588
+      ]
+    },
+    {
+      "text": "- Implemented Ul components based on design specs",
+      "score": 0.993,
+      "box": [
+        125,
+        589,
+        628,
+        615
+      ]
+    },
+    {
+      "text": "- Implemented caching logic",
+      "score": 0.9879,
+      "box": [
+        127,
+        615,
+        390,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Foxwood University, 2009",
+      "score": 0.9548,
+      "box": [
+        114,
+        723,
+        466,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of distributed systems",
+      "score": 0.9831,
+      "box": [
+        132,
+        747,
+        520,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in data mining basics",
+      "score": 0.9928,
+      "box": [
+        134,
+        774,
+        562,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "TRACYVU\nTN, USA|+1-394-914-3280 |tracy.vu@example.com\nWORK HISTORY\nSoftware Developers, Brightfield Digital, 2019.04–2023.01\n- Designed microservice architectures\n- Led system reliability programs\nSoftware Developers, Flowline Labs, 2015.06–2019.04\n- Reviewed architectural proposals\n- Built distributed systems\nSoftware Developers, Riverstone Digital, 2011.08–2015.06\n- Implemented feature flags\n- Developed Cl/CD scripts\nSoftware Developers, Nexttline Software, 2007.10–2011.08\n- Implemented Ul components based on design specs\n- Implemented caching logic\nEDUCATION\nBachelor's, Foxwood University, 2009\n• Studied principles of distributed systems\n• Completed coursework in data mining basics"
+}

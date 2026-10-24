@@ -1,0 +1,148 @@
+{
+  "id": "31900",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.748,
+  "n_lines": 10,
+  "mean_score": 0.9809,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JACLYN WEISS",
+      "score": 0.9618,
+      "box": [
+        116,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "NE, USA|+1-273-301-9587 |jaclyn.weiss@example.com",
+      "score": 0.9767,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.983,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Financial Group, 2018.12–2020.01",
+      "score": 0.9882,
+      "box": [
+        115,
+        290,
+        763,
+        313
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9752,
+      "box": [
+        126,
+        315,
+        511,
+        338
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.9795,
+      "box": [
+        126,
+        339,
+        437,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Taxation, Pinecrest University, 2009",
+      "score": 0.9798,
+      "box": [
+        115,
+        449,
+        560,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in risk assessment",
+      "score": 0.9878,
+      "box": [
+        133,
+        474,
+        541,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of accounts payable",
+      "score": 0.9787,
+      "box": [
+        133,
+        497,
+        541,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JACLYN WEISS\nNE, USA|+1-273-301-9587 |jaclyn.weiss@example.com\nWORK HISTORY\nAccountants Auditors, FairBalance Financial Group, 2018.12–2020.01\n- Maintained accounting software records\n- Prepared basic financial reports\nEDUCATION\nBachelor's, Taxation, Pinecrest University, 2009\n• Completed coursework in risk assessment\n• Studied fundamentals of accounts payable"
+}

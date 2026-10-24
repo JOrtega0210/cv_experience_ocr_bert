@@ -1,0 +1,200 @@
+{
+  "id": "43655",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.838,
+  "n_lines": 14,
+  "mean_score": 0.9866,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JULIE KRAMER",
+      "score": 0.9904,
+      "box": [
+        116,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "OK, USA |+1-990-513-7904 |julie.kramer@example.com",
+      "score": 0.9731,
+      "box": [
+        116,
+        151,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Financial, 2020.03–2021.11",
+      "score": 0.9849,
+      "box": [
+        115,
+        289,
+        709,
+        313
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9913,
+      "box": [
+        126,
+        313,
+        494,
+        339
+      ]
+    },
+    {
+      "text": "- Managed financial compliance programs",
+      "score": 0.9826,
+      "box": [
+        126,
+        339,
+        517,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Services, 2018.01–2019.09",
+      "score": 0.9934,
+      "box": [
+        115,
+        382,
+        697,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9908,
+      "box": [
+        125,
+        406,
+        456,
+        431
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.9949,
+      "box": [
+        126,
+        431,
+        436,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Government Accounting, Maplewood University, 2015",
+      "score": 0.9827,
+      "box": [
+        115,
+        541,
+        705,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Organizational Management, Golden Hills University, 2013",
+      "score": 0.9798,
+      "box": [
+        114,
+        564,
+        768,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in data analysis for accounting",
+      "score": 0.9879,
+      "box": [
+        133,
+        590,
+        647,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of variance analysis",
+      "score": 0.9787,
+      "box": [
+        133,
+        614,
+        539,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "JULIE KRAMER\nOK, USA |+1-990-513-7904 |julie.kramer@example.com\nWORK HISTORY\nAccountants Auditors, SolidBalance Financial, 2020.03–2021.11\n- Established financial data governance\n- Managed financial compliance programs\nAccountants Auditors, AccuLedger Services, 2018.01–2019.09\n- Assisted with tax form preparation\n- Updated general ledger records\nEDUCATION\nMaster's, Government Accounting, Maplewood University, 2015\nBachelor's, Organizational Management, Golden Hills University, 2013\n• Completed coursework in data analysis for accounting\n• Studied fundamentals of variance analysis"
+}

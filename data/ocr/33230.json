@@ -1,0 +1,239 @@
+{
+  "id": "33230",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.874,
+  "n_lines": 17,
+  "mean_score": 0.9793,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CRISTINA FRANCIS",
+      "score": 0.9901,
+      "box": [
+        116,
+        88,
+        435,
+        122
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-449-645-7012|cristina.francis@example.com",
+      "score": 0.9791,
+      "box": [
+        116,
+        151,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial Group, 2019.11–2023.01",
+      "score": 0.9644,
+      "box": [
+        115,
+        290,
+        790,
+        313
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.963,
+      "box": [
+        127,
+        315,
+        556,
+        338
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9649,
+      "box": [
+        126,
+        339,
+        517,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Financial Group, 2016.09–2019.11",
+      "score": 0.987,
+      "box": [
+        114,
+        381,
+        802,
+        406
+      ]
+    },
+    {
+      "text": "- Managed monthly close processes",
+      "score": 0.9741,
+      "box": [
+        126,
+        406,
+        464,
+        432
+      ]
+    },
+    {
+      "text": "- Developed financial models",
+      "score": 0.9802,
+      "box": [
+        125,
+        432,
+        397,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Services, 2013.07–2016.09",
+      "score": 0.9852,
+      "box": [
+        115,
+        472,
+        722,
+        495
+      ]
+    },
+    {
+      "text": "- Reviewed credit memos",
+      "score": 0.9785,
+      "box": [
+        126,
+        496,
+        366,
+        521
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.9947,
+      "box": [
+        126,
+        520,
+        415,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Taxation, Clearstone University, 2015",
+      "score": 0.9699,
+      "box": [
+        115,
+        632,
+        556,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Management, Northfield University, 2013",
+      "score": 0.9685,
+      "box": [
+        114,
+        656,
+        694,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of financial reporting",
+      "score": 0.9693,
+      "box": [
+        132,
+        681,
+        544,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in international taxation basics",
+      "score": 0.9943,
+      "box": [
+        133,
+        706,
+        647,
+        730
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "CRISTINA FRANCIS\nNJ, USA|+1-449-645-7012|cristina.francis@example.com\nWORK HISTORY\nAccountants Auditors, Integrity Books Financial Group, 2019.11–2023.01\n- Directed accounting system implementations\n- Directed enterprise accounting platforms\nAccountants Auditors, Precise Balance Financial Group, 2016.09–2019.11\n- Managed monthly close processes\n- Developed financial models\nAccountants Auditors, Balanced Path Services, 2013.07–2016.09\n- Reviewed credit memos\n- Verified financial transactions\nEDUCATION\nMaster's, Taxation, Clearstone University, 2015\nBachelor's, Business Management, Northfield University, 2013\n• Studied fundamentals of financial reporting\n• Completed coursework in international taxation basics"
+}

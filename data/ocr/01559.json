@@ -1,0 +1,278 @@
+{
+  "id": "01559",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.06,
+  "n_lines": 20,
+  "mean_score": 0.9849,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AMANDA BRUCE",
+      "score": 0.9864,
+      "box": [
+        117,
+        90,
+        395,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-977-896-1874|amanda.bruce@example.com",
+      "score": 0.9866,
+      "box": [
+        116,
+        152,
+        672,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9793,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Way Care, 2019.08–2023.01",
+      "score": 0.9663,
+      "box": [
+        115,
+        289,
+        644,
+        314
+      ]
+    },
+    {
+      "text": "-Directed care coordination strategies",
+      "score": 0.9924,
+      "box": [
+        125,
+        313,
+        482,
+        339
+      ]
+    },
+    {
+      "text": "- Designed clinical documentation standards",
+      "score": 0.9718,
+      "box": [
+        127,
+        340,
+        539,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Health Group, 2016.03–2019.08",
+      "score": 0.9899,
+      "box": [
+        115,
+        381,
+        721,
+        406
+      ]
+    },
+    {
+      "text": "- Directed nursing operations planning",
+      "score": 0.9772,
+      "box": [
+        126,
+        406,
+        481,
+        432
+      ]
+    },
+    {
+      "text": "- Led patient experience improvement programs",
+      "score": 0.9851,
+      "box": [
+        126,
+        430,
+        574,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunPath Care Group, 2012.10–2016.03",
+      "score": 0.9901,
+      "box": [
+        116,
+        473,
+        670,
+        496
+      ]
+    },
+    {
+      "text": "- Supervised junior nursing staff",
+      "score": 0.9836,
+      "box": [
+        126,
+        498,
+        424,
+        521
+      ]
+    },
+    {
+      "text": "- Administered chemotherapy protocols",
+      "score": 0.989,
+      "box": [
+        126,
+        521,
+        492,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunLife Care Group, 2007.10–2011.03",
+      "score": 0.9878,
+      "box": [
+        116,
+        565,
+        661,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared patients for examinations",
+      "score": 0.9778,
+      "box": [
+        126,
+        590,
+        466,
+        613
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.989,
+      "box": [
+        126,
+        613,
+        418,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Health Management, Hillside University, 2004",
+      "score": 0.9762,
+      "box": [
+        115,
+        725,
+        629,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Support, Stonebridge University, 2002",
+      "score": 0.9822,
+      "box": [
+        115,
+        749,
+        651,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in oncology nursing basics",
+      "score": 0.9984,
+      "box": [
+        134,
+        774,
+        613,
+        797
+      ]
+    },
+    {
+      "text": "• Studied principles of health records management",
+      "score": 0.9905,
+      "box": [
+        132,
+        798,
+        603,
+        823
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "AMANDA BRUCE\nAZ, USA|+1-977-896-1874|amanda.bruce@example.com\nWORK HISTORY\nRegistered Nurses, Helping Way Care, 2019.08–2023.01\n-Directed care coordination strategies\n- Designed clinical documentation standards\nRegistered Nurses, Compassion Health Group, 2016.03–2019.08\n- Directed nursing operations planning\n- Led patient experience improvement programs\nRegistered Nurses, SunPath Care Group, 2012.10–2016.03\n- Supervised junior nursing staff\n- Administered chemotherapy protocols\nRegistered Nurses, SunLife Care Group, 2007.10–2011.03\n- Prepared patients for examinations\n- Provided post-procedure care\nEDUCATION\nMaster's, Health Management, Hillside University, 2004\nBachelor's, Clinical Support, Stonebridge University, 2002\n• Completed coursework in oncology nursing basics\n• Studied principles of health records management"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "00515",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.942,
+  "n_lines": 13,
+  "mean_score": 0.9835,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LANGLEY FRYE",
+      "score": 0.9883,
+      "box": [
+        116,
+        90,
+        377,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-453-928-7877 |langley.frye@example.com",
+      "score": 0.9862,
+      "box": [
+        116,
+        151,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Life Medical, 2020.02–2023.01",
+      "score": 0.9804,
+      "box": [
+        116,
+        290,
+        707,
+        313
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.9919,
+      "box": [
+        126,
+        315,
+        455,
+        338
+      ]
+    },
+    {
+      "text": "- Designed clinical care protocols",
+      "score": 0.9925,
+      "box": [
+        126,
+        339,
+        436,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearWay Nursing Group, 2017.03–2020.02",
+      "score": 0.9716,
+      "box": [
+        115,
+        381,
+        708,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9919,
+      "box": [
+        125,
+        406,
+        514,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.982,
+      "box": [
+        126,
+        430,
+        420,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Health and Wellness, Brightfield University, 2015",
+      "score": 0.9742,
+      "box": [
+        114,
+        539,
+        677,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of surgical nursing",
+      "score": 0.9715,
+      "box": [
+        132,
+        565,
+        525,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient safety culture",
+      "score": 0.9721,
+      "box": [
+        134,
+        590,
+        581,
+        613
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "LANGLEY FRYE\nAL, USA|+1-453-928-7877 |langley.frye@example.com\nWORK HISTORY\nRegistered Nurses, Compassion Life Medical, 2020.02–2023.01\n- Led nursing workflow optimization\n- Designed clinical care protocols\nRegistered Nurses, ClearWay Nursing Group, 2017.03–2020.02\n- Assisted with physical therapy exercises\n- Assisted with patient transfers\nEDUCATION\nBachelor's, Health and Wellness, Brightfield University, 2015\n• Studied fundamentals of surgical nursing\n• Completed coursework in patient safety culture"
+}

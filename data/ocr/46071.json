@@ -1,0 +1,200 @@
+{
+  "id": "46071",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.8,
+  "n_lines": 14,
+  "mean_score": 0.984,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CODYCURRY",
+      "score": 0.9882,
+      "box": [
+        115,
+        87,
+        345,
+        123
+      ]
+    },
+    {
+      "text": "PA, USA|+1-201-355-1039|cody.curry@example.com",
+      "score": 0.9764,
+      "box": [
+        115,
+        150,
+        636,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Digital, 2020.01–2023.01",
+      "score": 0.9955,
+      "box": [
+        116,
+        290,
+        654,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9589,
+      "box": [
+        127,
+        315,
+        515,
+        338
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9924,
+      "box": [
+        126,
+        339,
+        438,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightline Software, 2017.01–2020.01",
+      "score": 0.9889,
+      "box": [
+        115,
+        381,
+        670,
+        406
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.9685,
+      "box": [
+        125,
+        406,
+        495,
+        431
+      ]
+    },
+    {
+      "text": "- Updated monitoring dashboards",
+      "score": 0.9929,
+      "box": [
+        126,
+        431,
+        440,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Pinewood University, 2017",
+      "score": 0.9756,
+      "box": [
+        115,
+        541,
+        454,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Greenwood Ridge University, 2015",
+      "score": 0.9702,
+      "box": [
+        115,
+        566,
+        550,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in containerization basics",
+      "score": 0.991,
+      "box": [
+        133,
+        590,
+        600,
+        613
+      ]
+    },
+    {
+      "text": "• Completed coursework in clean code principles",
+      "score": 0.9935,
+      "box": [
+        134,
+        615,
+        585,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "CODYCURRY\nPA, USA|+1-201-355-1039|cody.curry@example.com\nWORK HISTORY\nSoftware Developers, Stonepath Digital, 2020.01–2023.01\n- Implemented access control frameworks\n- Led technical roadmap planning\nSoftware Developers, Brightline Software, 2017.01–2020.01\n- Performed basic performance profiling\n- Updated monitoring dashboards\nEDUCATION\nMaster's, Pinewood University, 2017\nBachelor's, Greenwood Ridge University, 2015\n• Completed coursework in containerization basics\n• Completed coursework in clean code principles"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "50984",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.791,
+  "n_lines": 13,
+  "mean_score": 0.9801,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "YONATAN PERKINS",
+      "score": 0.9921,
+      "box": [
+        116,
+        90,
+        441,
+        120
+      ]
+    },
+    {
+      "text": "TX, USA|+1-801-340-8242 |yonatan.perkins@example.com",
+      "score": 0.9757,
+      "box": [
+        115,
+        150,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9858,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Opencrest Solutions, 2021.07–2023.01",
+      "score": 0.9812,
+      "box": [
+        116,
+        290,
+        683,
+        313
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9595,
+      "box": [
+        125,
+        314,
+        445,
+        337
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9784,
+      "box": [
+        126,
+        339,
+        379,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Software, 2019.12–2021.07",
+      "score": 0.9924,
+      "box": [
+        115,
+        382,
+        680,
+        405
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9646,
+      "box": [
+        126,
+        406,
+        418,
+        431
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.9812,
+      "box": [
+        126,
+        430,
+        403,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Cloverfield University, 2017",
+      "score": 0.9663,
+      "box": [
+        115,
+        540,
+        479,
+        563
+      ]
+    },
+    {
+      "text": "• Completed coursework in containerization basics",
+      "score": 0.9908,
+      "box": [
+        133,
+        565,
+        600,
+        588
+      ]
+    },
+    {
+      "text": "• Completed coursework in programming in C++",
+      "score": 0.9751,
+      "box": [
+        134,
+        590,
+        578,
+        613
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "YONATAN PERKINS\nTX, USA|+1-801-340-8242 |yonatan.perkins@example.com\nWORK HISTORY\nSoftware Developers, Opencrest Solutions, 2021.07–2023.01\n- Designed caching infrastructures\n- Defined coding standards\nSoftware Developers, Stonepath Software, 2019.12–2021.07\n- Implemented logging features\n- Updated database schemas\nEDUCATION\nBachelor's, Cloverfield University, 2017\n• Completed coursework in containerization basics\n• Completed coursework in programming in C++"
+}

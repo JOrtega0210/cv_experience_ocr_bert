@@ -1,0 +1,187 @@
+{
+  "id": "59051",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.825,
+  "n_lines": 13,
+  "mean_score": 0.9861,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ALEXUSWU",
+      "score": 0.9953,
+      "box": [
+        115,
+        88,
+        319,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA|+1-653-741-1613|alexus.wu@example.com",
+      "score": 0.9777,
+      "box": [
+        114,
+        150,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9769,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunBridge Nursing, 2021.01–2023.01",
+      "score": 0.9834,
+      "box": [
+        115,
+        289,
+        649,
+        314
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9859,
+      "box": [
+        126,
+        315,
+        474,
+        338
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.9927,
+      "box": [
+        126,
+        339,
+        520,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearHands Nursing Group, 2016.05–2018.06",
+      "score": 0.9859,
+      "box": [
+        115,
+        381,
+        727,
+        406
+      ]
+    },
+    {
+      "text": "- Provided catheter care",
+      "score": 0.9756,
+      "box": [
+        126,
+        407,
+        353,
+        429
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.986,
+      "box": [
+        126,
+        431,
+        527,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Nursing Foundations, Redwood University, 2014",
+      "score": 0.969,
+      "box": [
+        115,
+        539,
+        753,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of health assessment",
+      "score": 0.9972,
+      "box": [
+        133,
+        566,
+        554,
+        588
+      ]
+    },
+    {
+      "text": "• Completed coursework in sterile technique",
+      "score": 0.9964,
+      "box": [
+        134,
+        590,
+        542,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ALEXUSWU\nWA, USA|+1-653-741-1613|alexus.wu@example.com\nWORK HISTORY\nRegistered Nurses, SunBridge Nursing, 2021.01–2023.01\n- Developed care quality benchmarks\n- Established nursing performance metrics\nRegistered Nurses, ClearHands Nursing Group, 2016.05–2018.06\n- Provided catheter care\n- Administered injections under supervision\nEDUCATION\nAssociate's degree, Nursing Foundations, Redwood University, 2014\n• Studied fundamentals of health assessment\n• Completed coursework in sterile technique"
+}

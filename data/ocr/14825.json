@@ -1,0 +1,187 @@
+{
+  "id": "14825",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.018,
+  "n_lines": 13,
+  "mean_score": 0.9854,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AIMEECOX",
+      "score": 0.9947,
+      "box": [
+        115,
+        88,
+        308,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA|+1-611-992-2298|aimee.cox@example.com",
+      "score": 0.9902,
+      "box": [
+        116,
+        151,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9824,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Meadow School, 2021.01–2023.01",
+      "score": 0.9836,
+      "box": [
+        114,
+        289,
+        845,
+        314
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.9851,
+      "box": [
+        126,
+        315,
+        534,
+        338
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.9881,
+      "box": [
+        126,
+        339,
+        535,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Bridge School, 2018.12–2021.01",
+      "score": 0.9877,
+      "box": [
+        115,
+        381,
+        831,
+        406
+      ]
+    },
+    {
+      "text": "- Tracked student participation",
+      "score": 0.9767,
+      "box": [
+        126,
+        406,
+        411,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with small group instruction activities",
+      "score": 0.9569,
+      "box": [
+        127,
+        432,
+        564,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9978,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, General Academic Studies, Elmwood Ridge University, 2017",
+      "score": 0.9823,
+      "box": [
+        114,
+        539,
+        786,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic differentiation basics",
+      "score": 0.9948,
+      "box": [
+        134,
+        566,
+        674,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson delivery techniques",
+      "score": 0.9903,
+      "box": [
+        135,
+        591,
+        634,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "AIMEECOX\nGA, USA|+1-611-992-2298|aimee.cox@example.com\nWORK HISTORY\nElementary Middle School Teachers, Bright Meadow School, 2021.01–2023.01\n- Developed instructional evaluation metrics\n- Established learning outcome benchmarks\nElementary Middle School Teachers, Sunny Bridge School, 2018.12–2021.01\n- Tracked student participation\n- Assisted with small group instruction activities\nEDUCATION\nBachelor's, General Academic Studies, Elmwood Ridge University, 2017\n• Completed coursework in academic differentiation basics\n• Completed coursework in lesson delivery techniques"
+}

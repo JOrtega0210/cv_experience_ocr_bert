@@ -1,0 +1,135 @@
+{
+  "id": "09194",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.86,
+  "n_lines": 9,
+  "mean_score": 0.983,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ROBERT KIM",
+      "score": 0.9804,
+      "box": [
+        116,
+        90,
+        330,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-462-942-3530 |robert.kim@example.com",
+      "score": 0.98,
+      "box": [
+        117,
+        150,
+        633,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9812,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueStep Builders, 2019.01–2020.04",
+      "score": 0.9842,
+      "box": [
+        115,
+        290,
+        675,
+        313
+      ]
+    },
+    {
+      "text": "-Maintained tool storage areas",
+      "score": 0.9721,
+      "box": [
+        125,
+        314,
+        419,
+        339
+      ]
+    },
+    {
+      "text": "- Performed basic demolition tasks",
+      "score": 0.9768,
+      "box": [
+        126,
+        338,
+        450,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Industrial Technology, Clear Ridge High School, 2003",
+      "score": 0.9915,
+      "box": [
+        116,
+        449,
+        872,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of site preparation planning",
+      "score": 0.9827,
+      "box": [
+        132,
+        472,
+        607,
+        498
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "ROBERT KIM\nCA, USA|+1-462-942-3530 |robert.kim@example.com\nWORK HISTORY\nConstruction Laborers, TrueStep Builders, 2019.01–2020.04\n-Maintained tool storage areas\n- Performed basic demolition tasks\nEDUCATION\nHigh school graduate/GED, Industrial Technology, Clear Ridge High School, 2003\n• Studied fundamentals of site preparation planning"
+}

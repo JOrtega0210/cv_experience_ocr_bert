@@ -1,0 +1,278 @@
+{
+  "id": "47408",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.984,
+  "n_lines": 20,
+  "mean_score": 0.9819,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SHAMEKACLINE",
+      "score": 0.9991,
+      "box": [
+        116,
+        90,
+        397,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-775-719-5648 |shameka.cline@example.com",
+      "score": 0.9885,
+      "box": [
+        116,
+        152,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9796,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Evergreen Academy, 2020.05–2023.01",
+      "score": 0.9901,
+      "box": [
+        115,
+        289,
+        825,
+        314
+      ]
+    },
+    {
+      "text": "- Directed content standardization",
+      "score": 0.9879,
+      "box": [
+        127,
+        316,
+        442,
+        336
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.9855,
+      "box": [
+        126,
+        339,
+        525,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Bridge School, 2017.09–2020.05",
+      "score": 0.9836,
+      "box": [
+        115,
+        381,
+        827,
+        406
+      ]
+    },
+    {
+      "text": "- Directed program effectiveness studies",
+      "score": 0.9709,
+      "box": [
+        126,
+        407,
+        503,
+        430
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.9797,
+      "box": [
+        126,
+        431,
+        533,
+        454
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Minds School, 2015.01–2017.09",
+      "score": 0.9851,
+      "box": [
+        114,
+        471,
+        823,
+        496
+      ]
+    },
+    {
+      "text": "- Maintained academic records",
+      "score": 0.9661,
+      "box": [
+        126,
+        497,
+        414,
+        519
+      ]
+    },
+    {
+      "text": "- Designed reading intervention plans",
+      "score": 0.9578,
+      "box": [
+        126,
+        522,
+        474,
+        547
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Bridge School, 2012.05–2015.01",
+      "score": 0.9825,
+      "box": [
+        116,
+        565,
+        863,
+        588
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.9904,
+      "box": [
+        127,
+        591,
+        443,
+        611
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.996,
+      "box": [
+        128,
+        616,
+        411,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        679,
+        266,
+        703
+      ]
+    },
+    {
+      "text": "Master's, Learning and Development, Clear Spring University, 2010",
+      "score": 0.9714,
+      "box": [
+        115,
+        725,
+        741,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Student Learning Studies, Greenridge University, 2008",
+      "score": 0.9573,
+      "box": [
+        114,
+        747,
+        731,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in student-centered learning",
+      "score": 0.9846,
+      "box": [
+        134,
+        774,
+        625,
+        798
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of student learning styles",
+      "score": 0.9827,
+      "box": [
+        133,
+        799,
+        586,
+        821
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "SHAMEKACLINE\nSC, USA|+1-775-719-5648 |shameka.cline@example.com\nWORK HISTORY\nElementary Middle School Teachers, Evergreen Academy, 2020.05–2023.01\n- Directed content standardization\n- Directed academic intervention strategies\nElementary Middle School Teachers, Bright Bridge School, 2017.09–2020.05\n- Directed program effectiveness studies\n- Developed instructional evaluation metrics\nElementary Middle School Teachers, Bright Minds School, 2015.01–2017.09\n- Maintained academic records\n- Designed reading intervention plans\nElementary Middle School Teachers, Discovery Bridge School, 2012.05–2015.01\n- Scheduled instructional activities\n- Reviewed curriculum content\nEDUCATION\nMaster's, Learning and Development, Clear Spring University, 2010\nBachelor's, Student Learning Studies, Greenridge University, 2008\n• Completed coursework in student-centered learning\n• Studied fundamentals of student learning styles"
+}

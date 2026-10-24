@@ -1,0 +1,187 @@
+{
+  "id": "11712",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.912,
+  "n_lines": 13,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JULIA WALSH",
+      "score": 0.971,
+      "box": [
+        115,
+        88,
+        348,
+        122
+      ]
+    },
+    {
+      "text": "DC,USA|+1-699-378-9391 |julia.walsh@example.com",
+      "score": 0.9718,
+      "box": [
+        115,
+        150,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Group, 2021.06–2023.01",
+      "score": 0.9942,
+      "box": [
+        115,
+        290,
+        665,
+        313
+      ]
+    },
+    {
+      "text": "-Led internal audit functions",
+      "score": 0.9801,
+      "box": [
+        125,
+        313,
+        393,
+        338
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9915,
+      "box": [
+        126,
+        338,
+        494,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Financial Group, 2019.10–2021.06",
+      "score": 0.9827,
+      "box": [
+        114,
+        381,
+        762,
+        406
+      ]
+    },
+    {
+      "text": "- Reconciled bank statements",
+      "score": 0.9808,
+      "box": [
+        126,
+        406,
+        404,
+        429
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9809,
+      "box": [
+        126,
+        430,
+        371,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Planning, Skyline University, 2020",
+      "score": 0.9772,
+      "box": [
+        114,
+        539,
+        630,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in environmental accounting basics",
+      "score": 0.9936,
+      "box": [
+        133,
+        565,
+        692,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of information management",
+      "score": 0.9824,
+      "box": [
+        133,
+        590,
+        574,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JULIA WALSH\nDC,USA|+1-699-378-9391 |julia.walsh@example.com\nWORK HISTORY\nAccountants Auditors, CoreBooks Group, 2021.06–2023.01\n-Led internal audit functions\n- Established financial data governance\nAccountants Auditors, OpenBooks Financial Group, 2019.10–2021.06\n- Reconciled bank statements\n- Compiled audit evidence\nEDUCATION\nBachelor's, Financial Planning, Skyline University, 2020\n• Completed coursework in environmental accounting basics\n• Studied principles of information management"
+}

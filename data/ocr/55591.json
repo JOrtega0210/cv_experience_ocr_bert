@@ -1,0 +1,148 @@
+{
+  "id": "55591",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.813,
+  "n_lines": 10,
+  "mean_score": 0.9794,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAMES DAY",
+      "score": 0.9711,
+      "box": [
+        114,
+        88,
+        315,
+        122
+      ]
+    },
+    {
+      "text": "UT, USA|+1-214-257-2984 |james.day@example.com",
+      "score": 0.9706,
+      "box": [
+        116,
+        151,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9749,
+      "box": [
+        114,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Bridge School, 2019.10–2021.10",
+      "score": 0.9869,
+      "box": [
+        115,
+        290,
+        865,
+        313
+      ]
+    },
+    {
+      "text": "- Managed classroom supplies",
+      "score": 0.9803,
+      "box": [
+        126,
+        315,
+        413,
+        339
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9825,
+      "box": [
+        126,
+        339,
+        517,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Foundational Education, Bright Ridge University, 205",
+      "score": 0.9603,
+      "box": [
+        114,
+        447,
+        727,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of teaching strategy selection",
+      "score": 0.981,
+      "box": [
+        132,
+        472,
+        625,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic education law concepts",
+      "score": 0.9877,
+      "box": [
+        133,
+        497,
+        661,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JAMES DAY\nUT, USA|+1-214-257-2984 |james.day@example.com\nWORK HISTORY\nElementary Middle School Teachers, Discovery Bridge School, 2019.10–2021.10\n- Managed classroom supplies\n- Organized classroom learning resources\nEDUCATION\nBachelor's, Foundational Education, Bright Ridge University, 205\n• Studied fundamentals of teaching strategy selection\n• Completed coursework in basic education law concepts"
+}

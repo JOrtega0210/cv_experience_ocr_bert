@@ -1,0 +1,174 @@
+{
+  "id": "12956",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.969,
+  "n_lines": 12,
+  "mean_score": 0.9833,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JACOB TERRELL",
+      "score": 0.968,
+      "box": [
+        116,
+        90,
+        399,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-972-432-5759 |jacob.terrell@example.com",
+      "score": 0.9718,
+      "box": [
+        116,
+        151,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9852,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongPoint Builders, 2019.12–2022.07",
+      "score": 0.9632,
+      "box": [
+        115,
+        290,
+        699,
+        313
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9756,
+      "box": [
+        125,
+        314,
+        457,
+        337
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9829,
+      "box": [
+        126,
+        339,
+        441,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyHand Builders, 2016.11–2019.06",
+      "score": 0.9873,
+      "box": [
+        116,
+        382,
+        704,
+        405
+      ]
+    },
+    {
+      "text": "- Performed basic carpentry tasks",
+      "score": 0.9896,
+      "box": [
+        125,
+        406,
+        443,
+        431
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.9895,
+      "box": [
+        126,
+        431,
+        480,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Site Management, Stoneview High School, 2012",
+      "score": 0.995,
+      "box": [
+        116,
+        541,
+        948,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural anchoring",
+      "score": 0.9929,
+      "box": [
+        134,
+        566,
+        572,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "JACOB TERRELL\nFL, USA|+1-972-432-5759 |jacob.terrell@example.com\nWORK HISTORY\nConstruction Laborers, StrongPoint Builders, 2019.12–2022.07\n- Developed construction standards\n- Led complex demolition projects\nConstruction Laborers, SteadyHand Builders, 2016.11–2019.06\n- Performed basic carpentry tasks\n- Supported crew leaders during tasks\nEDUCATION\nHigh school graduate/GED, Construction Site Management, Stoneview High School, 2012\n• Completed coursework in structural anchoring"
+}

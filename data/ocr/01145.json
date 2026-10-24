@@ -1,0 +1,187 @@
+{
+  "id": "01145",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.966,
+  "n_lines": 13,
+  "mean_score": 0.9791,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HILARY PHILLIPS",
+      "score": 0.9845,
+      "box": [
+        116,
+        90,
+        402,
+        120
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-710-457-5416|hilary.phillips@example.com",
+      "score": 0.9545,
+      "box": [
+        116,
+        151,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9773,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Horizons School, 2020.11–2023.01",
+      "score": 0.9939,
+      "box": [
+        115,
+        290,
+        836,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented curriculum governance structures",
+      "score": 0.9737,
+      "box": [
+        126,
+        314,
+        578,
+        339
+      ]
+    },
+    {
+      "text": "- Developed data-driven teaching models",
+      "score": 0.9869,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Bridge Academy, 2016.06–2018.09",
+      "score": 0.9879,
+      "box": [
+        115,
+        381,
+        863,
+        406
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.9813,
+      "box": [
+        126,
+        406,
+        518,
+        431
+      ]
+    },
+    {
+      "text": "- Supported art instruction",
+      "score": 0.9476,
+      "box": [
+        126,
+        430,
+        369,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Development, Northcrest University, 2012",
+      "score": 0.9622,
+      "box": [
+        115,
+        541,
+        665,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of academic scaffolding",
+      "score": 0.9883,
+      "box": [
+        132,
+        565,
+        536,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of student support systems",
+      "score": 0.9912,
+      "box": [
+        133,
+        590,
+        568,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "HILARY PHILLIPS\nAZ, USA|+1-710-457-5416|hilary.phillips@example.com\nWORK HISTORY\nElementary Middle School Teachers, Kind Horizons School, 2020.11–2023.01\n- Implemented curriculum governance structures\n- Developed data-driven teaching models\nElementary Middle School Teachers, Golden Bridge Academy, 2016.06–2018.09\n- Supported standardized testing sessions\n- Supported art instruction\nEDUCATION\nBachelor's, Child Development, Northcrest University, 2012\n• Studied principles of academic scaffolding\n• Studied principles of student support systems"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "15337",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.906,
+  "n_lines": 10,
+  "mean_score": 0.9814,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SHANNON EVERETT",
+      "score": 0.9674,
+      "box": [
+        116,
+        90,
+        449,
+        120
+      ]
+    },
+    {
+      "text": "GA, USA|+1-285-596-9603 |shannon.everett@example.com",
+      "score": 0.9813,
+      "box": [
+        117,
+        152,
+        692,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9737,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Springs School, 2021.07–2022.01",
+      "score": 0.9796,
+      "box": [
+        116,
+        290,
+        863,
+        313
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.99,
+      "box": [
+        126,
+        314,
+        518,
+        339
+      ]
+    },
+    {
+      "text": "- Managed classroom supplies",
+      "score": 0.9882,
+      "box": [
+        126,
+        339,
+        413,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Family and Child Studies, Sunrise University, 2001",
+      "score": 0.9658,
+      "box": [
+        116,
+        449,
+        835,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom organization",
+      "score": 0.9919,
+      "box": [
+        133,
+        474,
+        604,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson effectiveness analysis",
+      "score": 0.9777,
+      "box": [
+        133,
+        497,
+        658,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "SHANNON EVERETT\nGA, USA|+1-285-596-9603 |shannon.everett@example.com\nWORK HISTORY\nElementary Middle School Teachers, Learning Springs School, 2021.07–2022.01\n- Supported standardized testing sessions\n- Managed classroom supplies\nEDUCATION\nSome college (no degree), Family and Child Studies, Sunrise University, 2001\n• Completed coursework in classroom organization\n• Completed coursework in lesson effectiveness analysis"
+}

@@ -1,0 +1,200 @@
+{
+  "id": "40427",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.872,
+  "n_lines": 14,
+  "mean_score": 0.9844,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARCELL DUNLAP",
+      "score": 0.9853,
+      "box": [
+        116,
+        89,
+        430,
+        120
+      ]
+    },
+    {
+      "text": "NC, USA|+1-901-462-7486|marcell.dunlap@example.com",
+      "score": 0.9843,
+      "box": [
+        115,
+        150,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9791,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearView Accounting, 2021.06–2023.01",
+      "score": 0.9809,
+      "box": [
+        114,
+        289,
+        703,
+        314
+      ]
+    },
+    {
+      "text": "- Directed revenue recognition policies",
+      "score": 0.974,
+      "box": [
+        126,
+        315,
+        484,
+        338
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.9764,
+      "box": [
+        126,
+        339,
+        502,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Advisors, 2019.11–2021.06",
+      "score": 0.9874,
+      "box": [
+        114,
+        381,
+        741,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.9712,
+      "box": [
+        128,
+        408,
+        357,
+        429
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9959,
+      "box": [
+        127,
+        432,
+        452,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Public Accounting, Highland University, 2023",
+      "score": 0.9871,
+      "box": [
+        115,
+        541,
+        621,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Operations, Meadowland University, 2021",
+      "score": 0.9752,
+      "box": [
+        114,
+        565,
+        701,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in cost accounting",
+      "score": 0.992,
+      "box": [
+        133,
+        590,
+        534,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit documentation",
+      "score": 0.9954,
+      "box": [
+        134,
+        616,
+        567,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "MARCELL DUNLAP\nNC, USA|+1-901-462-7486|marcell.dunlap@example.com\nWORK HISTORY\nAccountants Auditors, ClearView Accounting, 2021.06–2023.01\n- Directed revenue recognition policies\n- Directed strategic accounting initiatives\nAccountants Auditors, Integrity Balance Advisors, 2019.11–2021.06\n- Prepared trial balances\n- Reviewed expense classifications\nEDUCATION\nMaster's, Public Accounting, Highland University, 2023\nBachelor's, Business Operations, Meadowland University, 2021\n• Completed coursework in cost accounting\n• Studied fundamentals of audit documentation"
+}

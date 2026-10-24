@@ -1,0 +1,187 @@
+{
+  "id": "14400",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.945,
+  "n_lines": 13,
+  "mean_score": 0.9842,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "AUSTINGOULD",
+      "score": 0.9985,
+      "box": [
+        116,
+        90,
+        372,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-454-691-7110|austin.gould@example.com",
+      "score": 0.9857,
+      "box": [
+        115,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Advisors, 2021.07–2023.01",
+      "score": 0.9832,
+      "box": [
+        114,
+        289,
+        730,
+        313
+      ]
+    },
+    {
+      "text": "- Led financial forecasting initiatives",
+      "score": 0.9803,
+      "box": [
+        125,
+        313,
+        458,
+        338
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9665,
+      "box": [
+        126,
+        338,
+        489,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverTrust Accounting, 2017.09–2019.03",
+      "score": 0.9826,
+      "box": [
+        114,
+        381,
+        699,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9787,
+      "box": [
+        128,
+        408,
+        365,
+        429
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.9847,
+      "box": [
+        126,
+        432,
+        414,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting Information Systems, Meadowview University, 2006",
+      "score": 0.9811,
+      "box": [
+        114,
+        539,
+        812,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of substantive testing",
+      "score": 0.9818,
+      "box": [
+        132,
+        564,
+        552,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of financial risk management",
+      "score": 0.9884,
+      "box": [
+        133,
+        590,
+        586,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "AUSTINGOULD\nFL, USA|+1-454-691-7110|austin.gould@example.com\nWORK HISTORY\nAccountants Auditors, Reliable Ledger Advisors, 2021.07–2023.01\n- Led financial forecasting initiatives\n- Directed financial system architecture\nAccountants Auditors, EverTrust Accounting, 2017.09–2019.03\n- Prepared journal entries\n- Verified financial transactions\nEDUCATION\nBachelor's, Accounting Information Systems, Meadowview University, 2006\n• Studied fundamentals of substantive testing\n• Studied principles of financial risk management"
+}

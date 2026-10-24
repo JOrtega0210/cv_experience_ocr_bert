@@ -1,0 +1,148 @@
+{
+  "id": "11783",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.837,
+  "n_lines": 10,
+  "mean_score": 0.9778,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DIONNE BURTON",
+      "score": 0.9772,
+      "box": [
+        117,
+        90,
+        401,
+        121
+      ]
+    },
+    {
+      "text": "DC, USA |+1-869-773-7589| dionne.burton@example.com",
+      "score": 0.9726,
+      "box": [
+        116,
+        152,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9829,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Advisors, 2021.07–2023.01",
+      "score": 0.972,
+      "box": [
+        114,
+        289,
+        685,
+        313
+      ]
+    },
+    {
+      "text": "- Performed data validation checks",
+      "score": 0.9906,
+      "box": [
+        126,
+        315,
+        451,
+        338
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9667,
+      "box": [
+        126,
+        339,
+        364,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Finance, Prairie Ridge University, 2022",
+      "score": 0.9804,
+      "box": [
+        115,
+        449,
+        663,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of professional writing",
+      "score": 0.9667,
+      "box": [
+        132,
+        472,
+        557,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of regulatory compliance",
+      "score": 0.9702,
+      "box": [
+        133,
+        497,
+        584,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "DIONNE BURTON\nDC, USA |+1-869-773-7589| dionne.burton@example.com\nWORK HISTORY\nAccountants Auditors, FairLedger Advisors, 2021.07–2023.01\n- Performed data validation checks\n- Prepared journal entries\nEDUCATION\nBachelor's, Applied Finance, Prairie Ridge University, 2022\n• Studied fundamentals of professional writing\n• Studied fundamentals of regulatory compliance"
+}

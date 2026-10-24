@@ -1,0 +1,148 @@
+{
+  "id": "48052",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.735,
+  "n_lines": 10,
+  "mean_score": 0.981,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JENNIFER MORRISON",
+      "score": 0.9734,
+      "box": [
+        116,
+        90,
+        475,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-358-584-9143 |jennifer.morrison@example.com",
+      "score": 0.9837,
+      "box": [
+        116,
+        151,
+        696,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightLife Health Services, 2020.08–2021.11",
+      "score": 0.9739,
+      "box": [
+        116,
+        290,
+        715,
+        313
+      ]
+    },
+    {
+      "text": "- Maintained infection control protocols",
+      "score": 0.9744,
+      "box": [
+        126,
+        315,
+        487,
+        338
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9604,
+      "box": [
+        126,
+        339,
+        435,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Technology, Greenfield University, 2007",
+      "score": 0.994,
+      "box": [
+        115,
+        449,
+        714,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of infusion pump use",
+      "score": 0.9805,
+      "box": [
+        132,
+        472,
+        549,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of continuity of care",
+      "score": 0.9871,
+      "box": [
+        133,
+        497,
+        500,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JENNIFER MORRISON\nSC, USA|+1-358-584-9143 |jennifer.morrison@example.com\nWORK HISTORY\nRegistered Nurses, BrightLife Health Services, 2020.08–2021.11\n- Maintained infection control protocols\n- Monitored patient dietary needs\nEDUCATION\nBachelor's, Health Care Technology, Greenfield University, 2007\n• Studied fundamentals of infusion pump use\n• Studied principles of continuity of care"
+}

@@ -1,0 +1,265 @@
+{
+  "id": "29534",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.944,
+  "n_lines": 19,
+  "mean_score": 0.9845,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANTONLUCAS",
+      "score": 0.9993,
+      "box": [
+        116,
+        90,
+        362,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-224-837-8597 |anton.lucas@example.com",
+      "score": 0.9707,
+      "box": [
+        115,
+        150,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearStone Construction, 2019.05–2023.01",
+      "score": 0.9905,
+      "box": [
+        114,
+        289,
+        734,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.99,
+      "box": [
+        126,
+        315,
+        488,
+        338
+      ]
+    },
+    {
+      "text": "- Developed project risk assessments",
+      "score": 0.9822,
+      "box": [
+        126,
+        339,
+        476,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftBuild Group, 2015.09–2019.05",
+      "score": 0.9815,
+      "box": [
+        115,
+        381,
+        664,
+        406
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.9819,
+      "box": [
+        126,
+        406,
+        478,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.991,
+      "box": [
+        126,
+        431,
+        531,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, Frontier Build Co., 2012.01–2015.09",
+      "score": 0.9592,
+      "box": [
+        114,
+        471,
+        671,
+        496
+      ]
+    },
+    {
+      "text": "- Managed material inventories",
+      "score": 0.9773,
+      "box": [
+        126,
+        498,
+        417,
+        521
+      ]
+    },
+    {
+      "text": "- Conducted material inspections",
+      "score": 0.9937,
+      "box": [
+        126,
+        521,
+        434,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueStep Builders, 2008.05–2012.01",
+      "score": 0.9928,
+      "box": [
+        116,
+        564,
+        673,
+        587
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9841,
+      "box": [
+        125,
+        589,
+        423,
+        612
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9748,
+      "box": [
+        128,
+        616,
+        424,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Drafting Technology, Brookway University, 2011",
+      "score": 0.9754,
+      "box": [
+        116,
+        725,
+        812,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction workflow coordination",
+      "score": 0.9886,
+      "box": [
+        134,
+        750,
+        707,
+        770
+      ]
+    },
+    {
+      "text": "• Studied principles of building permits overview",
+      "score": 0.9867,
+      "box": [
+        134,
+        774,
+        576,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "ANTONLUCAS\nMN, USA|+1-224-837-8597 |anton.lucas@example.com\nWORK HISTORY\nConstruction Laborers, ClearStone Construction, 2019.05–2023.01\n- Reviewed compliance documentation\n- Developed project risk assessments\nConstruction Laborers, CraftBuild Group, 2015.09–2019.05\n- Designed construction staging plans\n- Implemented safety compliance strategies\nConstruction Laborers, Frontier Build Co., 2012.01–2015.09\n- Managed material inventories\n- Conducted material inspections\nConstruction Laborers, TrueStep Builders, 2008.05–2012.01\n- Followed blueprint instructions\n- Assisted with excavation tasks\nEDUCATION\nSome college (no degree), Drafting Technology, Brookway University, 2011\n• Completed coursework in construction workflow coordination\n• Studied principles of building permits overview"
+}

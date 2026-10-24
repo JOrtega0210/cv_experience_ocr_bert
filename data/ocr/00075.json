@@ -1,0 +1,265 @@
+{
+  "id": "00075",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.083,
+  "n_lines": 19,
+  "mean_score": 0.9815,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JENNIFER STEPHENSON",
+      "score": 0.9832,
+      "box": [
+        117,
+        90,
+        522,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-476-732-4528 |jennifer.stephenson@example.com",
+      "score": 0.9912,
+      "box": [
+        116,
+        152,
+        720,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9813,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightBridge Health Services, 2019.04–2023.01",
+      "score": 0.9911,
+      "box": [
+        116,
+        290,
+        741,
+        313
+      ]
+    },
+    {
+      "text": "- Developed patient safety programs",
+      "score": 0.9725,
+      "box": [
+        126,
+        314,
+        466,
+        339
+      ]
+    },
+    {
+      "text": "- Directed care delivery improvements",
+      "score": 0.9803,
+      "box": [
+        126,
+        339,
+        480,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Hands Care, 2015.07–2019.04",
+      "score": 0.991,
+      "box": [
+        115,
+        381,
+        709,
+        406
+      ]
+    },
+    {
+      "text": "- Managed clinical workflow redesign",
+      "score": 0.9878,
+      "box": [
+        126,
+        406,
+        470,
+        431
+      ]
+    },
+    {
+      "text": "- Developed staffing allocation models",
+      "score": 0.9427,
+      "box": [
+        126,
+        431,
+        482,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleBridge Nursing, 2011.10–2015.07",
+      "score": 0.9827,
+      "box": [
+        116,
+        473,
+        675,
+        496
+      ]
+    },
+    {
+      "text": "- Performed patient triage",
+      "score": 0.9797,
+      "box": [
+        125,
+        495,
+        367,
+        522
+      ]
+    },
+    {
+      "text": "- Administered blood transfusions",
+      "score": 0.9871,
+      "box": [
+        126,
+        522,
+        439,
+        544
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Nursing, 2008.01–2011.10",
+      "score": 0.9913,
+      "box": [
+        116,
+        565,
+        675,
+        588
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9773,
+      "box": [
+        125,
+        589,
+        365,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.968,
+      "box": [
+        127,
+        615,
+        420,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, General Nursing, Stonebrook University, 2011",
+      "score": 0.9687,
+      "box": [
+        114,
+        723,
+        649,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of clinical decision making",
+      "score": 0.982,
+      "box": [
+        132,
+        747,
+        597,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient confidentiality",
+      "score": 0.991,
+      "box": [
+        134,
+        772,
+        584,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "JENNIFER STEPHENSON\nAL, USA|+1-476-732-4528 |jennifer.stephenson@example.com\nWORK HISTORY\nRegistered Nurses, BrightBridge Health Services, 2019.04–2023.01\n- Developed patient safety programs\n- Directed care delivery improvements\nRegistered Nurses, Compassion Hands Care, 2015.07–2019.04\n- Managed clinical workflow redesign\n- Developed staffing allocation models\nRegistered Nurses, GentleBridge Nursing, 2011.10–2015.07\n- Performed patient triage\n- Administered blood transfusions\nRegistered Nurses, GentleHands Nursing, 2008.01–2011.10\n- Recorded nursing notes\n- Assisted with patient transfers\nEDUCATION\nBachelor's, General Nursing, Stonebrook University, 2011\n• Studied fundamentals of clinical decision making\n• Completed coursework in patient confidentiality"
+}

@@ -1,0 +1,135 @@
+{
+  "id": "17249",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.854,
+  "n_lines": 9,
+  "mean_score": 0.9843,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LIAMLESTER",
+      "score": 0.9986,
+      "box": [
+        116,
+        90,
+        341,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-980-872-5958|liam.lester@example.com",
+      "score": 0.9805,
+      "box": [
+        116,
+        151,
+        625,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9803,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorLine Contractors, 2021.04–2023.01",
+      "score": 0.9904,
+      "box": [
+        116,
+        291,
+        726,
+        311
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9748,
+      "box": [
+        127,
+        315,
+        435,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9924,
+      "box": [
+        126,
+        339,
+        425,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Facilities Maintenance, Highland High School, 2021",
+      "score": 0.982,
+      "box": [
+        116,
+        449,
+        852,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction materials identification",
+      "score": 0.9614,
+      "box": [
+        134,
+        475,
+        712,
+        495
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "LIAMLESTER\nIL, USA|+1-980-872-5958|liam.lester@example.com\nWORK HISTORY\nConstruction Laborers, AnchorLine Contractors, 2021.04–2023.01\n- Installed temporary site barriers\n- Assisted with concrete pouring\nEDUCATION\nHigh school graduate/GED, Facilities Maintenance, Highland High School, 2021\n• Completed coursework in construction materials identification"
+}

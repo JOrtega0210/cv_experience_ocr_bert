@@ -1,0 +1,161 @@
+{
+  "id": "45959",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.807,
+  "n_lines": 11,
+  "mean_score": 0.9807,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NATOYACRAWFORD",
+      "score": 0.9989,
+      "box": [
+        116,
+        90,
+        464,
+        120
+      ]
+    },
+    {
+      "text": "PA, USA|+1-642-752-2875 |natoya.crawford@example.com",
+      "score": 0.9794,
+      "box": [
+        115,
+        150,
+        688,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9763,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Path Academy, 2017.12–2020.12",
+      "score": 0.9828,
+      "box": [
+        116,
+        290,
+        840,
+        313
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.9539,
+      "box": [
+        126,
+        315,
+        444,
+        338
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9864,
+      "box": [
+        126,
+        340,
+        399,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Student Learning Studies, Fairway University, 2006",
+      "score": 0.9701,
+      "box": [
+        115,
+        449,
+        681,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning and Development, Willow Creek University, 2004",
+      "score": 0.9693,
+      "box": [
+        115,
+        474,
+        764,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in creative teaching strategies",
+      "score": 0.9852,
+      "box": [
+        133,
+        498,
+        643,
+        523
+      ]
+    },
+    {
+      "text": "• Studied principles of instructional alignment",
+      "score": 0.9866,
+      "box": [
+        133,
+        523,
+        551,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "NATOYACRAWFORD\nPA, USA|+1-642-752-2875 |natoya.crawford@example.com\nWORK HISTORY\nElementary Middle School Teachers, Future Path Academy, 2017.12–2020.12\n- Scheduled instructional activities\n- Recorded student feedback\nEDUCATION\nMaster's, Student Learning Studies, Fairway University, 2006\nBachelor's, Learning and Development, Willow Creek University, 2004\n• Completed coursework in creative teaching strategies\n• Studied principles of instructional alignment"
+}

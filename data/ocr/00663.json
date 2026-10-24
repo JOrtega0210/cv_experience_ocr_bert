@@ -1,0 +1,265 @@
+{
+  "id": "00663",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.013,
+  "n_lines": 19,
+  "mean_score": 0.9792,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAMES LOWE",
+      "score": 0.9774,
+      "box": [
+        116,
+        90,
+        343,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-648-516-5333|james.lowe@example.com",
+      "score": 0.99,
+      "box": [
+        115,
+        150,
+        642,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9875,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Bluecrest Software, 2019.06–2023.01",
+      "score": 0.9832,
+      "box": [
+        115,
+        289,
+        670,
+        313
+      ]
+    },
+    {
+      "text": "- Designed deployment strategies",
+      "score": 0.974,
+      "box": [
+        126,
+        314,
+        441,
+        339
+      ]
+    },
+    {
+      "text": "- Developed system monitoring strategies",
+      "score": 0.9719,
+      "box": [
+        126,
+        339,
+        513,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Softstack Digital, 2015.10–2019.06",
+      "score": 0.9833,
+      "box": [
+        115,
+        381,
+        646,
+        406
+      ]
+    },
+    {
+      "text": "- Defined API standards",
+      "score": 0.9714,
+      "box": [
+        125,
+        405,
+        351,
+        430
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9803,
+      "box": [
+        126,
+        430,
+        379,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Systems, 2012.02–2015.10",
+      "score": 0.9795,
+      "box": [
+        114,
+        470,
+        655,
+        498
+      ]
+    },
+    {
+      "text": "- Developed background jobs",
+      "score": 0.9782,
+      "box": [
+        125,
+        498,
+        401,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented security controls",
+      "score": 0.954,
+      "box": [
+        126,
+        521,
+        420,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Stonebyte Labs, 2008.06–2012.02",
+      "score": 0.9882,
+      "box": [
+        115,
+        563,
+        642,
+        588
+      ]
+    },
+    {
+      "text": "- Reviewed API documentation",
+      "score": 0.9702,
+      "box": [
+        126,
+        590,
+        417,
+        613
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9778,
+      "box": [
+        126,
+        614,
+        421,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Morningstar University, 2007",
+      "score": 0.9612,
+      "box": [
+        116,
+        725,
+        570,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of test-driven development",
+      "score": 0.9866,
+      "box": [
+        132,
+        747,
+        566,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of system design",
+      "score": 0.9911,
+      "box": [
+        133,
+        772,
+        475,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "JAMES LOWE\nAL, USA|+1-648-516-5333|james.lowe@example.com\nWORK HISTORY\nSoftware Developers, Bluecrest Software, 2019.06–2023.01\n- Designed deployment strategies\n- Developed system monitoring strategies\nSoftware Developers, Softstack Digital, 2015.10–2019.06\n- Defined API standards\n- Defined coding standards\nSoftware Developers, Softgrid Systems, 2012.02–2015.10\n- Developed background jobs\n- Implemented security controls\nSoftware Developers, Stonebyte Labs, 2008.06–2012.02\n- Reviewed API documentation\n- Implemented REST endpoints\nEDUCATION\nAssociate's degree, Morningstar University, 2007\n• Studied principles of test-driven development\n• Studied principles of system design"
+}

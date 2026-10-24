@@ -1,0 +1,135 @@
+{
+  "id": "13084",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.836,
+  "n_lines": 9,
+  "mean_score": 0.977,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARK GOODMAN",
+      "score": 0.9641,
+      "box": [
+        116,
+        90,
+        406,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-546-456-4205|mark.goodman@example.com",
+      "score": 0.971,
+      "box": [
+        115,
+        150,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9812,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterStone Construction, 2018.05–2020.02",
+      "score": 0.9827,
+      "box": [
+        115,
+        290,
+        750,
+        313
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.9637,
+      "box": [
+        125,
+        313,
+        475,
+        338
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9608,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Skills, Seabreeze High School, 2003",
+      "score": 0.9807,
+      "box": [
+        116,
+        449,
+        836,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic metalwork",
+      "score": 0.9908,
+      "box": [
+        134,
+        475,
+        539,
+        495
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "MARK GOODMAN\nFL, USA|+1-546-456-4205|mark.goodman@example.com\nWORK HISTORY\nConstruction Laborers, MasterStone Construction, 2018.05–2020.02\n- Marked measurements on materials\n- Operated hand tools for assembly tasks\nEDUCATION\nHigh school graduate/GED, Construction Skills, Seabreeze High School, 2003\n• Completed coursework in basic metalwork"
+}

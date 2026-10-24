@@ -1,0 +1,265 @@
+{
+  "id": "26887",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.869,
+  "n_lines": 19,
+  "mean_score": 0.9772,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SCOTT MORRISON",
+      "score": 0.9793,
+      "box": [
+        116,
+        90,
+        425,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-47-993-8192 | scott.morrison@example.com",
+      "score": 0.9668,
+      "box": [
+        116,
+        151,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9866,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudspring Systems, 2020.06–2023.01",
+      "score": 0.9863,
+      "box": [
+        115,
+        289,
+        692,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented data pipeline architectures",
+      "score": 0.9773,
+      "box": [
+        127,
+        315,
+        512,
+        338
+      ]
+    },
+    {
+      "text": "- Led cross-team technical alignment",
+      "score": 0.9665,
+      "box": [
+        126,
+        339,
+        471,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightscale Labs, 2017.11–2020.06",
+      "score": 0.9909,
+      "box": [
+        115,
+        381,
+        650,
+        406
+      ]
+    },
+    {
+      "text": "- Led cross-team technical alignment",
+      "score": 0.9682,
+      "box": [
+        126,
+        406,
+        471,
+        431
+      ]
+    },
+    {
+      "text": "- Designed software development workflows",
+      "score": 0.9852,
+      "box": [
+        126,
+        431,
+        538,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Clearbyte Software, 2015.04–2017.11",
+      "score": 0.9833,
+      "box": [
+        116,
+        472,
+        673,
+        496
+      ]
+    },
+    {
+      "text": "- Designed data models",
+      "score": 0.9804,
+      "box": [
+        127,
+        499,
+        350,
+        520
+      ]
+    },
+    {
+      "text": "- Designed application modules",
+      "score": 0.9784,
+      "box": [
+        127,
+        523,
+        421,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Systems, 2010.03–2012.10",
+      "score": 0.9655,
+      "box": [
+        116,
+        565,
+        654,
+        589
+      ]
+    },
+    {
+      "text": "- Debugged runtime errors",
+      "score": 0.9704,
+      "box": [
+        125,
+        589,
+        375,
+        614
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.9706,
+      "box": [
+        127,
+        615,
+        403,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Stonehill University, 2004",
+      "score": 0.9388,
+      "box": [
+        115,
+        725,
+        461,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in release management",
+      "score": 0.9766,
+      "box": [
+        132,
+        748,
+        586,
+        771
+      ]
+    },
+    {
+      "text": "• Completed coursework in continuous integration",
+      "score": 0.9963,
+      "box": [
+        135,
+        774,
+        594,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "SCOTT MORRISON\nMI, USA|+1-47-993-8192 | scott.morrison@example.com\nWORK HISTORY\nSoftware Developers, Cloudspring Systems, 2020.06–2023.01\n- Implemented data pipeline architectures\n- Led cross-team technical alignment\nSoftware Developers, Brightscale Labs, 2017.11–2020.06\n- Led cross-team technical alignment\n- Designed software development workflows\nSoftware Developers, Clearbyte Software, 2015.04–2017.11\n- Designed data models\n- Designed application modules\nSoftware Developers, Softgrid Systems, 2010.03–2012.10\n- Debugged runtime errors\n- Updated database schemas\nEDUCATION\nBachelor's, Stonehill University, 2004\n• Completed coursework in release management\n• Completed coursework in continuous integration"
+}

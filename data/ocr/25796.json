@@ -1,0 +1,148 @@
+{
+  "id": "25796",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.733,
+  "n_lines": 10,
+  "mean_score": 0.9752,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ETHAN YU",
+      "score": 0.9561,
+      "box": [
+        116,
+        90,
+        288,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-631-823-5808|ethan.yu@example.com",
+      "score": 0.9655,
+      "box": [
+        116,
+        152,
+        623,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9768,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Datapoint Solutions, 2022.02–2023.01",
+      "score": 0.9885,
+      "box": [
+        116,
+        290,
+        675,
+        313
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.9859,
+      "box": [
+        125,
+        314,
+        495,
+        339
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9768,
+      "box": [
+        126,
+        339,
+        448,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Autumn Ridge University, 2020",
+      "score": 0.9786,
+      "box": [
+        115,
+        449,
+        513,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of client-side development",
+      "score": 0.9634,
+      "box": [
+        132,
+        472,
+        599,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in microprocessor programming",
+      "score": 0.9616,
+      "box": [
+        134,
+        499,
+        659,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ETHAN YU\nMA, USA|+1-631-823-5808|ethan.yu@example.com\nWORK HISTORY\nSoftware Developers, Datapoint Solutions, 2022.02–2023.01\n- Performed basic performance profiling\n- Performed basic APl integrations\nEDUCATION\nBachelor's, Autumn Ridge University, 2020\n• Studied fundamentals of client-side development\n• Completed coursework in microprocessor programming"
+}

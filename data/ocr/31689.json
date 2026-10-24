@@ -1,0 +1,226 @@
+{
+  "id": "31689",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.821,
+  "n_lines": 16,
+  "mean_score": 0.983,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TROYKNAPP",
+      "score": 0.9981,
+      "box": [
+        112,
+        87,
+        339,
+        123
+      ]
+    },
+    {
+      "text": "NE, USA|+1-319-619-4219|troy.knapp@example.com",
+      "score": 0.9689,
+      "box": [
+        115,
+        150,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Northstar Software, 2020.02–2023.01",
+      "score": 0.9744,
+      "box": [
+        115,
+        288,
+        669,
+        313
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.9826,
+      "box": [
+        125,
+        313,
+        374,
+        338
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9919,
+      "box": [
+        126,
+        339,
+        450,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Coreline Tech, 2017.02–2020.02",
+      "score": 0.977,
+      "box": [
+        115,
+        381,
+        627,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented logging frameworks",
+      "score": 0.9926,
+      "box": [
+        127,
+        407,
+        449,
+        431
+      ]
+    },
+    {
+      "text": "- Built containerized services",
+      "score": 0.9598,
+      "box": [
+        126,
+        431,
+        395,
+        453
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Labs, 2014.02–2017.02",
+      "score": 0.9951,
+      "box": [
+        116,
+        472,
+        655,
+        495
+      ]
+    },
+    {
+      "text": "- Debugged runtime errors",
+      "score": 0.9915,
+      "box": [
+        126,
+        498,
+        375,
+        521
+      ]
+    },
+    {
+      "text": "- Updated documentation for implemented features",
+      "score": 0.9736,
+      "box": [
+        127,
+        523,
+        601,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Brookway University, 2012",
+      "score": 0.9701,
+      "box": [
+        116,
+        632,
+        473,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of operating systems",
+      "score": 0.9896,
+      "box": [
+        132,
+        656,
+        511,
+        682
+      ]
+    },
+    {
+      "text": "• Studied principles of algorithm complexity",
+      "score": 0.9785,
+      "box": [
+        134,
+        681,
+        531,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "TROYKNAPP\nNE, USA|+1-319-619-4219|troy.knapp@example.com\nWORK HISTORY\nSoftware Developers, Northstar Software, 2020.02–2023.01\n- Led architectural reviews\n- Defined data governance policies\nSoftware Developers, Coreline Tech, 2017.02–2020.02\n- Implemented logging frameworks\n- Built containerized services\nSoftware Developers, Datastream Labs, 2014.02–2017.02\n- Debugged runtime errors\n- Updated documentation for implemented features\nEDUCATION\nBachelor's, Brookway University, 2012\n• Studied principles of operating systems\n• Studied principles of algorithm complexity"
+}

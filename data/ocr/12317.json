@@ -1,0 +1,265 @@
+{
+  "id": "12317",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.024,
+  "n_lines": 19,
+  "mean_score": 0.9784,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SARAJORDAN",
+      "score": 0.9994,
+      "box": [
+        115,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-506-708-8677 | sara.jordan@example.com",
+      "score": 0.9708,
+      "box": [
+        115,
+        150,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Group, 2020.05–2023.01",
+      "score": 0.9856,
+      "box": [
+        114,
+        289,
+        683,
+        314
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9727,
+      "box": [
+        126,
+        314,
+        495,
+        339
+      ]
+    },
+    {
+      "text": "- Developed accounting innovation plans",
+      "score": 0.9745,
+      "box": [
+        127,
+        339,
+        506,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Advisors, 2017.09–2020.05",
+      "score": 0.9909,
+      "box": [
+        115,
+        381,
+        708,
+        406
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9702,
+      "box": [
+        127,
+        407,
+        479,
+        430
+      ]
+    },
+    {
+      "text": "- Directed accounting leadership initiatives",
+      "score": 0.9836,
+      "box": [
+        127,
+        432,
+        520,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Financial, 2014.03–2016.11",
+      "score": 0.9798,
+      "box": [
+        114,
+        471,
+        724,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared cost allocation models",
+      "score": 0.9668,
+      "box": [
+        125,
+        498,
+        439,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared audit reports",
+      "score": 0.9568,
+      "box": [
+        126,
+        521,
+        350,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Advisors, 2010.08–2013.04",
+      "score": 0.9898,
+      "box": [
+        115,
+        565,
+        678,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.9568,
+      "box": [
+        125,
+        589,
+        422,
+        614
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9851,
+      "box": [
+        126,
+        613,
+        371,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Data Analytics, Pinewood University, 2008",
+      "score": 0.9732,
+      "box": [
+        115,
+        725,
+        618,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of accounting policy analysis",
+      "score": 0.98,
+      "box": [
+        132,
+        747,
+        583,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of forecast modeling",
+      "score": 0.9689,
+      "box": [
+        134,
+        774,
+        506,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "SARAJORDAN\nFL, USA|+1-506-708-8677 | sara.jordan@example.com\nWORK HISTORY\nAccountants Auditors, SteadyCount Group, 2020.05–2023.01\n- Directed accounting training programs\n- Developed accounting innovation plans\nAccountants Auditors, SolidBalance Advisors, 2017.09–2020.05\n- Led accounting process optimization\n- Directed accounting leadership initiatives\nAccountants Auditors, Integrity Count Financial, 2014.03–2016.11\n- Prepared cost allocation models\n- Prepared audit reports\nAccountants Auditors, FairCount Advisors, 2010.08–2013.04\n- Assisted with inventory counts\n- Compiled audit evidence\nEDUCATION\nBachelor's, Data Analytics, Pinewood University, 2008\n• Studied principles of accounting policy analysis\n• Studied principles of forecast modeling"
+}

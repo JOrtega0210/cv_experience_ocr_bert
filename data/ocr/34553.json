@@ -1,0 +1,239 @@
+{
+  "id": "34553",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.856,
+  "n_lines": 17,
+  "mean_score": 0.9792,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JESUS NOVAK",
+      "score": 0.9465,
+      "box": [
+        116,
+        90,
+        358,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-507-475-7613 |jesus.novak@example.com",
+      "score": 0.9715,
+      "box": [
+        116,
+        151,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9874,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Services, 2020.05–2023.01",
+      "score": 0.9854,
+      "box": [
+        114,
+        289,
+        731,
+        314
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9771,
+      "box": [
+        125,
+        314,
+        361,
+        339
+      ]
+    },
+    {
+      "text": "- Designed budgeting methodologies",
+      "score": 0.9784,
+      "box": [
+        126,
+        339,
+        469,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Accounting, 2016.04–2018.12",
+      "score": 0.9731,
+      "box": [
+        114,
+        381,
+        736,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared tax returns",
+      "score": 0.9671,
+      "box": [
+        127,
+        406,
+        333,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented new accounting standards",
+      "score": 0.9879,
+      "box": [
+        126,
+        431,
+        510,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Financial, 2012.02–2014.11",
+      "score": 0.9703,
+      "box": [
+        115,
+        472,
+        700,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9897,
+      "box": [
+        127,
+        499,
+        365,
+        520
+      ]
+    },
+    {
+      "text": "– Maintained supporting documentation",
+      "score": 0.9576,
+      "box": [
+        127,
+        523,
+        490,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Investment Management, Greenfield Ridge University, 2004",
+      "score": 0.9834,
+      "box": [
+        114,
+        631,
+        761,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Data Analytics, Redfield University, 2002",
+      "score": 0.9929,
+      "box": [
+        114,
+        656,
+        604,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in derivative accounting basics",
+      "score": 0.9858,
+      "box": [
+        134,
+        683,
+        649,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in data visualization basics",
+      "score": 0.9924,
+      "box": [
+        133,
+        706,
+        614,
+        730
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "JESUS NOVAK\nNJ, USA|+1-507-475-7613 |jesus.novak@example.com\nWORK HISTORY\nAccountants Auditors, Reliable Ledger Services, 2020.05–2023.01\n- Designed tax strategies\n- Designed budgeting methodologies\nAccountants Auditors, OpenBalance Accounting, 2016.04–2018.12\n- Prepared tax returns\n- Implemented new accounting standards\nAccountants Auditors, AccuLedger Financial, 2012.02–2014.11\n- Prepared journal entries\n– Maintained supporting documentation\nEDUCATION\nMaster's, Investment Management, Greenfield Ridge University, 2004\nBachelor's, Data Analytics, Redfield University, 2002\n• Completed coursework in derivative accounting basics\n• Completed coursework in data visualization basics"
+}

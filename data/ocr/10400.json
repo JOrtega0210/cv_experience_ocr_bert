@@ -1,0 +1,278 @@
+{
+  "id": "10400",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.998,
+  "n_lines": 20,
+  "mean_score": 0.9772,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ALLISON WOODWARD",
+      "score": 0.9521,
+      "box": [
+        117,
+        90,
+        484,
+        121
+      ]
+    },
+    {
+      "text": "CO, USA | +1-945-825-5068 |allison.woodward@example.com",
+      "score": 0.953,
+      "box": [
+        117,
+        151,
+        703,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudpath Digital, 2019.09–2023.01",
+      "score": 0.9754,
+      "box": [
+        114,
+        287,
+        654,
+        315
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.9801,
+      "box": [
+        126,
+        315,
+        428,
+        338
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9921,
+      "box": [
+        126,
+        339,
+        450,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudfield Digital, 2016.05–2019.09",
+      "score": 0.9796,
+      "box": [
+        115,
+        381,
+        653,
+        406
+      ]
+    },
+    {
+      "text": "- Designed software development workflows",
+      "score": 0.9917,
+      "box": [
+        126,
+        406,
+        538,
+        431
+      ]
+    },
+    {
+      "text": "- Defined code review processes",
+      "score": 0.9819,
+      "box": [
+        125,
+        429,
+        433,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Softframe Labs, 2012.12–2016.05",
+      "score": 0.98,
+      "box": [
+        115,
+        472,
+        638,
+        495
+      ]
+    },
+    {
+      "text": "- Developed configuration management tools",
+      "score": 0.9901,
+      "box": [
+        126,
+        498,
+        545,
+        521
+      ]
+    },
+    {
+      "text": "- Built frontend components",
+      "score": 0.9624,
+      "box": [
+        125,
+        521,
+        385,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Tech, 2009.07–2012.12",
+      "score": 0.9794,
+      "box": [
+        114,
+        563,
+        626,
+        588
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9668,
+      "box": [
+        124,
+        588,
+        448,
+        614
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9807,
+      "box": [
+        126,
+        613,
+        437,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Clearbrook University, 2013",
+      "score": 0.9756,
+      "box": [
+        115,
+        724,
+        465,
+        746
+      ]
+    },
+    {
+      "text": "Bachelor's, Harvest University, 2011",
+      "score": 0.936,
+      "box": [
+        115,
+        748,
+        452,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in thread synchronization",
+      "score": 0.9916,
+      "box": [
+        133,
+        774,
+        600,
+        797
+      ]
+    },
+    {
+      "text": "• Studied principles of software usability",
+      "score": 0.9908,
+      "box": [
+        133,
+        799,
+        502,
+        822
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "ALLISON WOODWARD\nCO, USA | +1-945-825-5068 |allison.woodward@example.com\nWORK HISTORY\nSoftware Developers, Cloudpath Digital, 2019.09–2023.01\n- Designed system architectures\n- Defined data governance policies\nSoftware Developers, Cloudfield Digital, 2016.05–2019.09\n- Designed software development workflows\n- Defined code review processes\nSoftware Developers, Softframe Labs, 2012.12–2016.05\n- Developed configuration management tools\n- Built frontend components\nSoftware Developers, Flowline Tech, 2009.07–2012.12\n- Performed basic APl integrations\n- Reviewed test coverage reports\nEDUCATION\nMaster's, Clearbrook University, 2013\nBachelor's, Harvest University, 2011\n• Completed coursework in thread synchronization\n• Studied principles of software usability"
+}

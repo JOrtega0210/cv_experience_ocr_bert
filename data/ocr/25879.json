@@ -1,0 +1,187 @@
+{
+  "id": "25879",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.792,
+  "n_lines": 13,
+  "mean_score": 0.9811,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KASEY SWEENEY",
+      "score": 0.9711,
+      "box": [
+        116,
+        90,
+        410,
+        120
+      ]
+    },
+    {
+      "text": "MA, USA|+1-230-653-8051 |kasey.sweeney@example.com",
+      "score": 0.9612,
+      "box": [
+        116,
+        151,
+        685,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Hands Care, 2020.09–2022.03",
+      "score": 0.9856,
+      "box": [
+        115,
+        289,
+        663,
+        314
+      ]
+    },
+    {
+      "text": "- Developed patient safety programs",
+      "score": 0.9733,
+      "box": [
+        125,
+        314,
+        466,
+        339
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.9779,
+      "box": [
+        126,
+        339,
+        392,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeSpring Nursing, 2018.09–2020.03",
+      "score": 0.9758,
+      "box": [
+        115,
+        381,
+        647,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9709,
+      "box": [
+        125,
+        406,
+        388,
+        431
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.9876,
+      "box": [
+        126,
+        430,
+        418,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, General Nursing, Pioneer University, 2011",
+      "score": 0.9826,
+      "box": [
+        114,
+        539,
+        616,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of gastrointestinal nursing",
+      "score": 0.9888,
+      "box": [
+        132,
+        565,
+        556,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in catheter care",
+      "score": 0.9955,
+      "box": [
+        134,
+        591,
+        512,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KASEY SWEENEY\nMA, USA|+1-230-653-8051 |kasey.sweeney@example.com\nWORK HISTORY\nRegistered Nurses, Helping Hands Care, 2020.09–2022.03\n- Developed patient safety programs\n- Led nursing process audits\nRegistered Nurses, LifeSpring Nursing, 2018.09–2020.03\n- Prepared treatment rooms\n- Provided post-procedure care\nEDUCATION\nBachelor's, General Nursing, Pioneer University, 2011\n• Studied principles of gastrointestinal nursing\n• Completed coursework in catheter care"
+}

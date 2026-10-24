@@ -1,0 +1,148 @@
+{
+  "id": "26948",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.723,
+  "n_lines": 10,
+  "mean_score": 0.9856,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KATELYNN PALMER",
+      "score": 0.9849,
+      "box": [
+        116,
+        90,
+        449,
+        120
+      ]
+    },
+    {
+      "text": "MI, USA|+1-554-339-8038|katelynn.palmer@example.com",
+      "score": 0.99,
+      "box": [
+        116,
+        152,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Sunrise Health Services, 2020.04–2023.01",
+      "score": 0.9786,
+      "box": [
+        116,
+        290,
+        697,
+        313
+      ]
+    },
+    {
+      "text": "-Monitored oxygen therapy",
+      "score": 0.986,
+      "box": [
+        125,
+        314,
+        384,
+        340
+      ]
+    },
+    {
+      "text": "- Prepared intravenous solutions",
+      "score": 0.9763,
+      "box": [
+        126,
+        339,
+        431,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Human Biology, Briarwood University, 2018",
+      "score": 0.9715,
+      "box": [
+        116,
+        449,
+        707,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of clinical documentation",
+      "score": 0.9881,
+      "box": [
+        132,
+        472,
+        585,
+        496
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient mobility",
+      "score": 0.9975,
+      "box": [
+        134,
+        499,
+        518,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "KATELYNN PALMER\nMI, USA|+1-554-339-8038|katelynn.palmer@example.com\nWORK HISTORY\nRegistered Nurses, Sunrise Health Services, 2020.04–2023.01\n-Monitored oxygen therapy\n- Prepared intravenous solutions\nEDUCATION\nAssociate's degree, Human Biology, Briarwood University, 2018\n• Studied fundamentals of clinical documentation\n• Studied fundamentals of patient mobility"
+}

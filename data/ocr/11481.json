@@ -1,0 +1,226 @@
+{
+  "id": "11481",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.935,
+  "n_lines": 16,
+  "mean_score": 0.981,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NICOLAS MCCONNELL",
+      "score": 0.9919,
+      "box": [
+        116,
+        90,
+        491,
+        120
+      ]
+    },
+    {
+      "text": "DE, USA|+1-637-700-3219 |nicolas.mcconnell@example.com",
+      "score": 0.9755,
+      "box": [
+        117,
+        152,
+        706,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.991,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Labs, 2020.03–2023.01",
+      "score": 0.9898,
+      "box": [
+        116,
+        290,
+        640,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9789,
+      "box": [
+        127,
+        315,
+        424,
+        338
+      ]
+    },
+    {
+      "text": "- Designed logging infrastructures",
+      "score": 0.9827,
+      "box": [
+        126,
+        339,
+        442,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Labs, 2017.05–2020.03",
+      "score": 0.9938,
+      "box": [
+        116,
+        382,
+        614,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed pull requests",
+      "score": 0.9677,
+      "box": [
+        125,
+        406,
+        359,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented security controls",
+      "score": 0.9734,
+      "box": [
+        126,
+        430,
+        419,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Softbridge Digital, 2014.06–2017.05",
+      "score": 0.988,
+      "box": [
+        115,
+        471,
+        655,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9819,
+      "box": [
+        125,
+        496,
+        447,
+        522
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9471,
+      "box": [
+        126,
+        521,
+        418,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Greenwood Ridge University, 2016",
+      "score": 0.9931,
+      "box": [
+        115,
+        632,
+        550,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of artificial intelligence",
+      "score": 0.9794,
+      "box": [
+        132,
+        656,
+        560,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of race condition handling",
+      "score": 0.9629,
+      "box": [
+        133,
+        680,
+        593,
+        708
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "NICOLAS MCCONNELL\nDE, USA|+1-637-700-3219 |nicolas.mcconnell@example.com\nWORK HISTORY\nSoftware Developers, Corewave Labs, 2020.03–2023.01\n- Implemented core frameworks\n- Designed logging infrastructures\nSoftware Developers, Netline Labs, 2017.05–2020.03\n- Reviewed pull requests\n- Implemented security controls\nSoftware Developers, Softbridge Digital, 2014.06–2017.05\n- Implemented error handling logic\n- Implemented logging features\nEDUCATION\nBachelor's, Greenwood Ridge University, 2016\n• Studied fundamentals of artificial intelligence\n• Studied fundamentals of race condition handling"
+}

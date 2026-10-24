@@ -1,0 +1,213 @@
+{
+  "id": "45756",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.84,
+  "n_lines": 15,
+  "mean_score": 0.9826,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CARLOS MCDONALD",
+      "score": 0.9849,
+      "box": [
+        116,
+        88,
+        464,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA|+1-364-268-1254 |carlos.mcdonald@example.com",
+      "score": 0.9784,
+      "box": [
+        115,
+        150,
+        691,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueWay Builders, 2020.04–2023.01",
+      "score": 0.9919,
+      "box": [
+        115,
+        290,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "- Established material procurement strategies",
+      "score": 0.9761,
+      "box": [
+        125,
+        313,
+        549,
+        339
+      ]
+    },
+    {
+      "text": "- Managed workforce allocation",
+      "score": 0.9634,
+      "box": [
+        127,
+        340,
+        420,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeFrame Co., 2016.01–2018.11",
+      "score": 0.9869,
+      "box": [
+        115,
+        382,
+        661,
+        405
+      ]
+    },
+    {
+      "text": "- Managed waste disposal operations",
+      "score": 0.9785,
+      "box": [
+        125,
+        406,
+        475,
+        431
+      ]
+    },
+    {
+      "text": "- Installed drywall systems",
+      "score": 0.9829,
+      "box": [
+        125,
+        430,
+        374,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmTrack Construction, 2012.04–2015.02",
+      "score": 0.9853,
+      "box": [
+        115,
+        472,
+        725,
+        495
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.97,
+      "box": [
+        125,
+        496,
+        406,
+        522
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9764,
+      "box": [
+        127,
+        523,
+        367,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Supervision, Heritage High School, 2001",
+      "score": 0.9931,
+      "box": [
+        116,
+        632,
+        874,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction waste management",
+      "score": 0.9865,
+      "box": [
+        132,
+        656,
+        690,
+        681
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "CARLOS MCDONALD\nPA, USA|+1-364-268-1254 |carlos.mcdonald@example.com\nWORK HISTORY\nConstruction Laborers, TrueWay Builders, 2020.04–2023.01\n- Established material procurement strategies\n- Managed workforce allocation\nConstruction Laborers, PrimeFrame Co., 2016.01–2018.11\n- Managed waste disposal operations\n- Installed drywall systems\nConstruction Laborers, FirmTrack Construction, 2012.04–2015.02\n- Installed temporary supports\n- Installed basic formwork\nEDUCATION\nHigh school graduate/GED, Construction Supervision, Heritage High School, 2001\n• Completed coursework in construction waste management"
+}

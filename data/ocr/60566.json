@@ -1,0 +1,148 @@
+{
+  "id": "60566",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.754,
+  "n_lines": 10,
+  "mean_score": 0.9861,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DALIAGRAHAM",
+      "score": 0.9992,
+      "box": [
+        116,
+        90,
+        379,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-337-218-6053|dalia.graham@example.com",
+      "score": 0.9816,
+      "box": [
+        115,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueCare Nursing, 2022.06–2022.07",
+      "score": 0.9817,
+      "box": [
+        116,
+        290,
+        642,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with diagnostic procedures",
+      "score": 0.9919,
+      "box": [
+        125,
+        314,
+        474,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9742,
+      "box": [
+        126,
+        339,
+        479,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Geriatric Care, Oakwood University, 2003",
+      "score": 0.9814,
+      "box": [
+        115,
+        449,
+        611,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient triage",
+      "score": 0.9756,
+      "box": [
+        133,
+        473,
+        510,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing leadership basics",
+      "score": 0.9934,
+      "box": [
+        134,
+        499,
+        624,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "DALIAGRAHAM\nWI, USA|+1-337-218-6053|dalia.graham@example.com\nWORK HISTORY\nRegistered Nurses, TrueCare Nursing, 2022.06–2022.07\n- Assisted with diagnostic procedures\n- Prepared medical equipment for use\nEDUCATION\nBachelor's, Geriatric Care, Oakwood University, 2003\n• Completed coursework in patient triage\n• Completed coursework in nursing leadership basics"
+}

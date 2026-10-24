@@ -1,0 +1,265 @@
+{
+  "id": "46895",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.904,
+  "n_lines": 19,
+  "mean_score": 0.9761,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TONIA WHITNEY",
+      "score": 0.97,
+      "box": [
+        114,
+        90,
+        386,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-575-484-4973 |tonia.whitney@example.com",
+      "score": 0.9771,
+      "box": [
+        115,
+        150,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9826,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearSpring Health Group, 2020.06–2023.01",
+      "score": 0.9848,
+      "box": [
+        115,
+        289,
+        714,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.9861,
+      "box": [
+        126,
+        314,
+        517,
+        339
+      ]
+    },
+    {
+      "text": "- Directed nursing education initiatives",
+      "score": 0.978,
+      "box": [
+        126,
+        339,
+        482,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleSpring Health, 2017.11–2020.06",
+      "score": 0.9829,
+      "box": [
+        115,
+        381,
+        664,
+        406
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9574,
+      "box": [
+        126,
+        406,
+        510,
+        431
+      ]
+    },
+    {
+      "text": "- Supervised multidisciplinary care teams",
+      "score": 0.9871,
+      "box": [
+        126,
+        430,
+        508,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleWay Care Center, 2014.01–2016.08",
+      "score": 0.9862,
+      "box": [
+        116,
+        472,
+        698,
+        496
+      ]
+    },
+    {
+      "text": "- Managed patient nutritional support",
+      "score": 0.9649,
+      "box": [
+        125,
+        497,
+        470,
+        522
+      ]
+    },
+    {
+      "text": "- Performed patient triage",
+      "score": 0.9329,
+      "box": [
+        126,
+        520,
+        367,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunHands Care Group, 2010.07–2013.03",
+      "score": 0.9931,
+      "box": [
+        116,
+        565,
+        688,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared medication trays",
+      "score": 0.9687,
+      "box": [
+        125,
+        589,
+        387,
+        614
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9858,
+      "box": [
+        125,
+        614,
+        365,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Care Technology, Edgewood University, 2005",
+      "score": 0.9872,
+      "box": [
+        114,
+        723,
+        796,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of public health nursing",
+      "score": 0.9619,
+      "box": [
+        132,
+        747,
+        570,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in nutritional assessment",
+      "score": 0.9595,
+      "box": [
+        135,
+        773,
+        598,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "TONIA WHITNEY\nPA, USA|+1-575-484-4973 |tonia.whitney@example.com\nWORK HISTORY\nRegistered Nurses, ClearSpring Health Group, 2020.06–2023.01\n- Implemented patient monitoring systems\n- Directed nursing education initiatives\nRegistered Nurses, GentleSpring Health, 2017.11–2020.06\n- Directed nursing process improvements\n- Supervised multidisciplinary care teams\nRegistered Nurses, GentleWay Care Center, 2014.01–2016.08\n- Managed patient nutritional support\n- Performed patient triage\nRegistered Nurses, SunHands Care Group, 2010.07–2013.03\n- Prepared medication trays\n- Recorded nursing notes\nEDUCATION\nAssociate's degree, Health Care Technology, Edgewood University, 2005\n• Studied fundamentals of public health nursing\n• Completed coursework in nutritional assessment"
+}

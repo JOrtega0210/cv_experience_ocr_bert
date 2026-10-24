@@ -1,0 +1,187 @@
+{
+  "id": "26934",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.89,
+  "n_lines": 13,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DAISY HOWARD",
+      "score": 0.9793,
+      "box": [
+        116,
+        90,
+        383,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-449-831-9569|daisy.howard@example.com",
+      "score": 0.9822,
+      "box": [
+        115,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9839,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Hill Academy, 2021.04–2023.01",
+      "score": 0.9752,
+      "box": [
+        116,
+        290,
+        844,
+        313
+      ]
+    },
+    {
+      "text": "- Developed student performance metrics",
+      "score": 0.9681,
+      "box": [
+        127,
+        315,
+        512,
+        338
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.9902,
+      "box": [
+        127,
+        340,
+        535,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Academy, 2019.07–2021.04",
+      "score": 0.9936,
+      "box": [
+        115,
+        381,
+        814,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented classroom seating plans",
+      "score": 0.9938,
+      "box": [
+        126,
+        406,
+        492,
+        431
+      ]
+    },
+    {
+      "text": "- Collected student assignments",
+      "score": 0.9765,
+      "box": [
+        126,
+        430,
+        427,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Basic Education Studies, Oakview University, 217",
+      "score": 0.9804,
+      "box": [
+        115,
+        540,
+        697,
+        563
+      ]
+    },
+    {
+      "text": "• Studied principles of cooperative learning",
+      "score": 0.9779,
+      "box": [
+        133,
+        566,
+        529,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom workflow organization",
+      "score": 0.9901,
+      "box": [
+        133,
+        590,
+        690,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "DAISY HOWARD\nMI, USA|+1-449-831-9569|daisy.howard@example.com\nWORK HISTORY\nElementary Middle School Teachers, Learning Hill Academy, 2021.04–2023.01\n- Developed student performance metrics\n- Established learning outcome benchmarks\nElementary Middle School Teachers, Harmony Academy, 2019.07–2021.04\n- Implemented classroom seating plans\n- Collected student assignments\nEDUCATION\nBachelor's, Basic Education Studies, Oakview University, 217\n• Studied principles of cooperative learning\n• Completed coursework in classroom workflow organization"
+}

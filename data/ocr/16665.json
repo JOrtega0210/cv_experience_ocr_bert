@@ -1,0 +1,148 @@
+{
+  "id": "16665",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.839,
+  "n_lines": 10,
+  "mean_score": 0.9848,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LAKESHA SEXTON",
+      "score": 0.9775,
+      "box": [
+        116,
+        90,
+        427,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-339-256-6828|lakesha.sexton@example.com",
+      "score": 0.996,
+      "box": [
+        116,
+        152,
+        681,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9823,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightBridge Health Services, 2018.07–2021.05",
+      "score": 0.9887,
+      "box": [
+        116,
+        290,
+        743,
+        314
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.9837,
+      "box": [
+        126,
+        315,
+        420,
+        338
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9728,
+      "box": [
+        127,
+        340,
+        444,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Technology, Golden Hills University, 2007",
+      "score": 0.9759,
+      "box": [
+        114,
+        447,
+        679,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of clinical documentation",
+      "score": 0.9831,
+      "box": [
+        132,
+        472,
+        585,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of public health nursing",
+      "score": 0.9897,
+      "box": [
+        132,
+        497,
+        571,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "LAKESHA SEXTON\nGA, USA|+1-339-256-6828|lakesha.sexton@example.com\nWORK HISTORY\nRegistered Nurses, BrightBridge Health Services, 2018.07–2021.05\n- Assisted with patient transfers\n- Collected patient health histories\nEDUCATION\nBachelor's, Health Technology, Golden Hills University, 2007\n• Studied fundamentals of clinical documentation\n• Studied fundamentals of public health nursing"
+}

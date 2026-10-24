@@ -1,0 +1,200 @@
+{
+  "id": "23974",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.907,
+  "n_lines": 14,
+  "mean_score": 0.9825,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ALICIAROSE",
+      "score": 0.9968,
+      "box": [
+        115,
+        88,
+        335,
+        122
+      ]
+    },
+    {
+      "text": "MD, USA|+1-396-868-8356|alicia.rose@example.com",
+      "score": 0.9856,
+      "box": [
+        115,
+        150,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9799,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Hills School, 2020.04–2023.01",
+      "score": 0.9854,
+      "box": [
+        115,
+        290,
+        842,
+        313
+      ]
+    },
+    {
+      "text": "-Led instructional technology integration",
+      "score": 0.9427,
+      "box": [
+        125,
+        313,
+        504,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented academic policy updates",
+      "score": 0.9834,
+      "box": [
+        126,
+        339,
+        497,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Horizons School, 2017.06–2020.04",
+      "score": 0.9774,
+      "box": [
+        115,
+        381,
+        840,
+        405
+      ]
+    },
+    {
+      "text": "- Followed standard instructional schedules",
+      "score": 0.9879,
+      "box": [
+        126,
+        407,
+        529,
+        429
+      ]
+    },
+    {
+      "text": "- Delivered structured lessons in reading and mathematics",
+      "score": 0.9744,
+      "box": [
+        125,
+        430,
+        667,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9976,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Human Development, Clearfield Ridge University, 2018",
+      "score": 0.9861,
+      "box": [
+        114,
+        539,
+        719,
+        565
+      ]
+    },
+    {
+      "text": "Bachelor's, Developmental Studies, Stonefield University, 2016",
+      "score": 0.9826,
+      "box": [
+        115,
+        566,
+        700,
+        589
+      ]
+    },
+    {
+      "text": "• Studied basic classroom management concepts",
+      "score": 0.9819,
+      "box": [
+        133,
+        590,
+        591,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom workflow organization",
+      "score": 0.9931,
+      "box": [
+        133,
+        615,
+        690,
+        640
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "ALICIAROSE\nMD, USA|+1-396-868-8356|alicia.rose@example.com\nWORK HISTORY\nElementary Middle School Teachers, Discovery Hills School, 2020.04–2023.01\n-Led instructional technology integration\n- Implemented academic policy updates\nElementary Middle School Teachers, Little Horizons School, 2017.06–2020.04\n- Followed standard instructional schedules\n- Delivered structured lessons in reading and mathematics\nEDUCATION\nMaster's, Human Development, Clearfield Ridge University, 2018\nBachelor's, Developmental Studies, Stonefield University, 2016\n• Studied basic classroom management concepts\n• Completed coursework in classroom workflow organization"
+}

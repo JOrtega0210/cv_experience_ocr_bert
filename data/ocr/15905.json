@@ -1,0 +1,226 @@
+{
+  "id": "15905",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.969,
+  "n_lines": 16,
+  "mean_score": 0.9847,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SEAN NIELSEN",
+      "score": 0.9666,
+      "box": [
+        115,
+        90,
+        365,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-412-337-1218| sean.nielsen@example.com",
+      "score": 0.9852,
+      "box": [
+        116,
+        151,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightPath Nursing Services, 2020.05–2023.01",
+      "score": 0.9845,
+      "box": [
+        115,
+        289,
+        735,
+        314
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.9922,
+      "box": [
+        126,
+        315,
+        459,
+        338
+      ]
+    },
+    {
+      "text": "- Directed care coordination strategies",
+      "score": 0.9892,
+      "box": [
+        126,
+        339,
+        482,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightCare Clinics, 2017.09–2020.05",
+      "score": 0.9802,
+      "box": [
+        115,
+        381,
+        642,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted clinical audits",
+      "score": 0.9819,
+      "box": [
+        125,
+        407,
+        373,
+        430
+      ]
+    },
+    {
+      "text": "- Performed advanced wound assessments",
+      "score": 0.9847,
+      "box": [
+        126,
+        430,
+        531,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearWay Medical Group, 2015.01–2017.09",
+      "score": 0.9924,
+      "box": [
+        116,
+        473,
+        709,
+        496
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.977,
+      "box": [
+        125,
+        496,
+        417,
+        522
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.9854,
+      "box": [
+        126,
+        522,
+        482,
+        545
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Operations, Larkspur University, 2017",
+      "score": 0.992,
+      "box": [
+        115,
+        631,
+        693,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of infusion pump use",
+      "score": 0.9799,
+      "box": [
+        133,
+        656,
+        549,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in geriatric nursing",
+      "score": 0.981,
+      "box": [
+        136,
+        683,
+        537,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "SEAN NIELSEN\nGA, USA|+1-412-337-1218| sean.nielsen@example.com\nWORK HISTORY\nRegistered Nurses, BrightPath Nursing Services, 2020.05–2023.01\n- Developed patient care algorithms\n- Directed care coordination strategies\nRegistered Nurses, BrightCare Clinics, 2017.09–2020.05\n- Conducted clinical audits\n- Performed advanced wound assessments\nRegistered Nurses, ClearWay Medical Group, 2015.01–2017.09\n- Checked medication dosages\n- Assisted with emergency procedures\nEDUCATION\nBachelor's, Health Care Operations, Larkspur University, 2017\n• Studied fundamentals of infusion pump use\n• Completed coursework in geriatric nursing"
+}

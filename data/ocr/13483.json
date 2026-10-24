@@ -1,0 +1,226 @@
+{
+  "id": "13483",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.928,
+  "n_lines": 16,
+  "mean_score": 0.9795,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "IRENE WELLS",
+      "score": 0.965,
+      "box": [
+        115,
+        90,
+        346,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-571-863-5971 |irene.wells@example.com",
+      "score": 0.9609,
+      "box": [
+        115,
+        150,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9888,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Financial, 2020.01–2023.01",
+      "score": 0.9834,
+      "box": [
+        115,
+        289,
+        707,
+        313
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.9657,
+      "box": [
+        127,
+        315,
+        456,
+        338
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9835,
+      "box": [
+        126,
+        339,
+        556,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Trusted Ledger Group, 2016.12–2020.01",
+      "score": 0.9846,
+      "box": [
+        115,
+        382,
+        703,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed journal entries",
+      "score": 0.9785,
+      "box": [
+        125,
+        406,
+        372,
+        431
+      ]
+    },
+    {
+      "text": "- Analyzed cost structures",
+      "score": 0.9784,
+      "box": [
+        125,
+        430,
+        370,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Advisors, 2013.11–2016.12",
+      "score": 0.996,
+      "box": [
+        115,
+        472,
+        743,
+        495
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.9721,
+      "box": [
+        124,
+        496,
+        362,
+        522
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.9791,
+      "box": [
+        126,
+        521,
+        409,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Statistics, Silver Creek University, 014",
+      "score": 0.9712,
+      "box": [
+        115,
+        632,
+        591,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of journal entries",
+      "score": 0.9817,
+      "box": [
+        133,
+        657,
+        510,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in lease accounting",
+      "score": 0.984,
+      "box": [
+        135,
+        683,
+        546,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "IRENE WELLS\nFL, USA|+1-571-863-5971 |irene.wells@example.com\nWORK HISTORY\nAccountants Auditors, CoreBalance Financial, 2020.01–2023.01\n- Developed audit quality standards\n- Directed accounting system implementations\nAccountants Auditors, Trusted Ledger Group, 2016.12–2020.01\n- Reviewed journal entries\n- Analyzed cost structures\nAccountants Auditors, Reliable Balance Advisors, 2013.11–2016.12\n- Recorded cash receipts\n- Prepared audit confirmations\nEDUCATION\nBachelor's, Statistics, Silver Creek University, 014\n• Studied fundamentals of journal entries\n• Completed coursework in lease accounting"
+}

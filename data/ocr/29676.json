@@ -1,0 +1,174 @@
+{
+  "id": "29676",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.843,
+  "n_lines": 12,
+  "mean_score": 0.982,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JONATHAN SCHROEDER",
+      "score": 0.9837,
+      "box": [
+        117,
+        90,
+        525,
+        120
+      ]
+    },
+    {
+      "text": "MS, USA|+1-386-496-1715|jonathan.schroeder@example.com",
+      "score": 0.9952,
+      "box": [
+        115,
+        150,
+        722,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9805,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Works, 2020.06–2023.01",
+      "score": 0.9552,
+      "box": [
+        115,
+        290,
+        647,
+        313
+      ]
+    },
+    {
+      "text": "- Developed construction workflows",
+      "score": 0.9907,
+      "box": [
+        126,
+        315,
+        458,
+        338
+      ]
+    },
+    {
+      "text": "-Managed subcontractor coordination",
+      "score": 0.9534,
+      "box": [
+        126,
+        339,
+        479,
+        362
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidTrack Builders, 2016.02–2018.10",
+      "score": 0.9935,
+      "box": [
+        116,
+        382,
+        688,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9633,
+      "box": [
+        125,
+        406,
+        416,
+        432
+      ]
+    },
+    {
+      "text": "- Performed basic demolition tasks",
+      "score": 0.9943,
+      "box": [
+        126,
+        429,
+        449,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Planning, Morningstar High School, 2011",
+      "score": 0.9924,
+      "box": [
+        116,
+        541,
+        878,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of construction documentation",
+      "score": 0.9842,
+      "box": [
+        132,
+        565,
+        598,
+        589
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "JONATHAN SCHROEDER\nMS, USA|+1-386-496-1715|jonathan.schroeder@example.com\nWORK HISTORY\nConstruction Laborers, Reliable Works, 2020.06–2023.01\n- Developed construction workflows\n-Managed subcontractor coordination\nConstruction Laborers, SolidTrack Builders, 2016.02–2018.10\n- Assisted with framing support\n- Performed basic demolition tasks\nEDUCATION\nHigh school graduate/GED, Construction Planning, Morningstar High School, 2011\n• Studied principles of construction documentation"
+}

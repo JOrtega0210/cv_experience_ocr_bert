@@ -1,0 +1,187 @@
+{
+  "id": "09850",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.906,
+  "n_lines": 13,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRENDAMACK",
+      "score": 0.9988,
+      "box": [
+        116,
+        90,
+        372,
+        121
+      ]
+    },
+    {
+      "text": "CO, USA | +1-204-324-6421 | brenda.mack@example.com",
+      "score": 0.9683,
+      "box": [
+        117,
+        151,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Software, 2021.06–2023.01",
+      "score": 0.9794,
+      "box": [
+        116,
+        290,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "- Developed system monitoring strategies",
+      "score": 0.9828,
+      "box": [
+        125,
+        314,
+        513,
+        339
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9761,
+      "box": [
+        126,
+        339,
+        380,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Systems, 2017.02–2018.09",
+      "score": 0.9844,
+      "box": [
+        115,
+        381,
+        658,
+        406
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.9749,
+      "box": [
+        125,
+        406,
+        376,
+        431
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9831,
+      "box": [
+        126,
+        431,
+        501,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Fieldview University, 2005",
+      "score": 0.9858,
+      "box": [
+        115,
+        541,
+        469,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of graph algorithms",
+      "score": 0.9847,
+      "box": [
+        132,
+        565,
+        498,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of algorithm complexity",
+      "score": 0.9879,
+      "box": [
+        132,
+        590,
+        531,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "BRENDAMACK\nCO, USA | +1-204-324-6421 | brenda.mack@example.com\nWORK HISTORY\nSoftware Developers, Codefield Software, 2021.06–2023.01\n- Developed system monitoring strategies\n- Defined coding standards\nSoftware Developers, Flowline Systems, 2017.02–2018.09\n- Resolved merge conflicts\n- Configured development environments\nEDUCATION\nBachelor's, Fieldview University, 2005\n• Studied principles of graph algorithms\n• Studied principles of algorithm complexity"
+}

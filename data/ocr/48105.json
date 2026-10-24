@@ -1,0 +1,226 @@
+{
+  "id": "48105",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.842,
+  "n_lines": 16,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LESLIE STEELE",
+      "score": 0.9783,
+      "box": [
+        116,
+        90,
+        375,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-404-986-9145 |leslie.steele@example.com",
+      "score": 0.9787,
+      "box": [
+        116,
+        152,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9866,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Services, 2020.08–2023.01",
+      "score": 0.989,
+      "box": [
+        115,
+        289,
+        711,
+        314
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9841,
+      "box": [
+        127,
+        315,
+        474,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.9907,
+      "box": [
+        126,
+        339,
+        568,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverBridge Health Group, 2017.06–2019.12",
+      "score": 0.981,
+      "box": [
+        115,
+        381,
+        709,
+        406
+      ]
+    },
+    {
+      "text": "- Managed patient fall prevention measures",
+      "score": 0.9903,
+      "box": [
+        126,
+        406,
+        531,
+        431
+      ]
+    },
+    {
+      "text": "- Developed patient care plans",
+      "score": 0.9911,
+      "box": [
+        126,
+        430,
+        413,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeHands Health Services, 2013.12–2016.06",
+      "score": 0.9789,
+      "box": [
+        115,
+        471,
+        721,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored patient skin condition",
+      "score": 0.9776,
+      "box": [
+        125,
+        496,
+        437,
+        521
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.9884,
+      "box": [
+        126,
+        521,
+        416,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Informatics, Maplewood University, 2010",
+      "score": 0.9865,
+      "box": [
+        114,
+        631,
+        667,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing research basics",
+      "score": 0.9872,
+      "box": [
+        134,
+        658,
+        610,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of data privacy",
+      "score": 0.9542,
+      "box": [
+        133,
+        680,
+        491,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "LESLIE STEELE\nSC, USA|+1-404-986-9145 |leslie.steele@example.com\nWORK HISTORY\nRegistered Nurses, Harmony Health Services, 2020.08–2023.01\n- Developed care quality benchmarks\n- Implemented evidence-based practice models\nRegistered Nurses, EverBridge Health Group, 2017.06–2019.12\n- Managed patient fall prevention measures\n- Developed patient care plans\nRegistered Nurses, LifeHands Health Services, 2013.12–2016.06\n- Monitored patient skin condition\n- Checked patient identification\nEDUCATION\nBachelor's, Health Informatics, Maplewood University, 2010\n• Completed coursework in nursing research basics\n• Studied fundamentals of data privacy"
+}

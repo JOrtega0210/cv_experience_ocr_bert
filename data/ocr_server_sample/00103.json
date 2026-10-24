@@ -1,0 +1,187 @@
+{
+  "id": "00103",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.796,
+  "n_lines": 13,
+  "mean_score": 0.982,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HOLLY PHAM",
+      "score": 0.9819,
+      "box": [
+        115,
+        90,
+        339,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-510-295-2746|holly.pham@example.com",
+      "score": 0.9766,
+      "box": [
+        116,
+        151,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9784,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Systems, 2020.07–2023.01",
+      "score": 0.9885,
+      "box": [
+        115,
+        290,
+        657,
+        313
+      ]
+    },
+    {
+      "text": "- Designed Cl/CD frameworks",
+      "score": 0.9723,
+      "box": [
+        126,
+        315,
+        407,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented release management strategies",
+      "score": 0.9757,
+      "box": [
+        126,
+        339,
+        561,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightnode Software, 2018.01–2020.07",
+      "score": 0.9866,
+      "box": [
+        116,
+        382,
+        686,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with container setup",
+      "score": 0.9883,
+      "box": [
+        125,
+        405,
+        413,
+        432
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.984,
+      "box": [
+        126,
+        431,
+        502,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Willowstone University, 2017",
+      "score": 0.956,
+      "box": [
+        116,
+        542,
+        492,
+        562
+      ]
+    },
+    {
+      "text": "• Studied principles of software reliability",
+      "score": 0.9855,
+      "box": [
+        133,
+        566,
+        507,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of software maintenance",
+      "score": 0.9947,
+      "box": [
+        133,
+        591,
+        583,
+        613
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "HOLLY PHAM\nAL, USA|+1-510-295-2746|holly.pham@example.com\nWORK HISTORY\nSoftware Developers, Flowline Systems, 2020.07–2023.01\n- Designed Cl/CD frameworks\n- Implemented release management strategies\nSoftware Developers, Brightnode Software, 2018.01–2020.07\n- Assisted with container setup\n- Wrote scripts for data processing tasks\nEDUCATION\nBachelor's, Willowstone University, 2017\n• Studied principles of software reliability\n• Studied fundamentals of software maintenance"
+}

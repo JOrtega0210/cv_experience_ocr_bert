@@ -1,0 +1,278 @@
+{
+  "id": "03351",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.004,
+  "n_lines": 20,
+  "mean_score": 0.9804,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "WILLIAM LIU",
+      "score": 0.9563,
+      "box": [
+        113,
+        86,
+        325,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-457-503-9367 |william.liu@example.com",
+      "score": 0.9771,
+      "box": [
+        116,
+        150,
+        630,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9916,
+      "box": [
+        116,
+        243,
+        316,
+        267
+      ]
+    },
+    {
+      "text": "Software Developers, Datafield Systems, 2020.05–2023.01",
+      "score": 0.977,
+      "box": [
+        114,
+        288,
+        663,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9843,
+      "box": [
+        126,
+        315,
+        422,
+        335
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.967,
+      "box": [
+        127,
+        340,
+        515,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Codewave Tech, 2017.09–2020.05",
+      "score": 0.9933,
+      "box": [
+        115,
+        381,
+        648,
+        406
+      ]
+    },
+    {
+      "text": "- Built core libraries",
+      "score": 0.9711,
+      "box": [
+        126,
+        408,
+        308,
+        429
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9674,
+      "box": [
+        125,
+        430,
+        379,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Skyline Software, 2015.01–2017.09",
+      "score": 0.9837,
+      "box": [
+        114,
+        471,
+        652,
+        496
+      ]
+    },
+    {
+      "text": "- Integrated messaging systems",
+      "score": 0.9781,
+      "box": [
+        126,
+        498,
+        426,
+        521
+      ]
+    },
+    {
+      "text": "- Handled schema migrations",
+      "score": 0.9826,
+      "box": [
+        125,
+        521,
+        401,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Netcore Labs, 2012.05–2015.01",
+      "score": 0.9873,
+      "box": [
+        114,
+        563,
+        620,
+        588
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9695,
+      "box": [
+        124,
+        588,
+        562,
+        614
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9806,
+      "box": [
+        126,
+        613,
+        400,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Pinefield University, 2013",
+      "score": 0.9909,
+      "box": [
+        115,
+        724,
+        443,
+        746
+      ]
+    },
+    {
+      "text": "Bachelor's, Oakway University, 2011",
+      "score": 0.9916,
+      "box": [
+        114,
+        747,
+        455,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of embedded systems",
+      "score": 0.9824,
+      "box": [
+        132,
+        772,
+        523,
+        797
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of NoSQL systems",
+      "score": 0.977,
+      "box": [
+        132,
+        797,
+        530,
+        823
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "WILLIAM LIU\nCA, USA|+1-457-503-9367 |william.liu@example.com\nWORK HISTORY\nSoftware Developers, Datafield Systems, 2020.05–2023.01\n- Implemented core frameworks\n- Implemented access control frameworks\nSoftware Developers, Codewave Tech, 2017.09–2020.05\n- Built core libraries\n- Defined coding standards\nSoftware Developers, Skyline Software, 2015.01–2017.09\n- Integrated messaging systems\n- Handled schema migrations\nSoftware Developers, Netcore Labs, 2012.05–2015.01\n- Fixed software bugs identified through testing\n- Wrote configuration parsers\nEDUCATION\nMaster's, Pinefield University, 2013\nBachelor's, Oakway University, 2011\n• Studied principles of embedded systems\n• Studied fundamentals of NoSQL systems"
+}

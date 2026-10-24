@@ -1,0 +1,148 @@
+{
+  "id": "61224",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.78,
+  "n_lines": 10,
+  "mean_score": 0.9839,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MANUEL HODGES",
+      "score": 0.9759,
+      "box": [
+        116,
+        90,
+        415,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-989-767-4863|manuel.hodges@example.com",
+      "score": 0.9858,
+      "box": [
+        115,
+        150,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9801,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Care Group, 2019.09–2020.10",
+      "score": 0.9828,
+      "box": [
+        115,
+        289,
+        675,
+        314
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9659,
+      "box": [
+        127,
+        315,
+        443,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with surgical prep",
+      "score": 0.9922,
+      "box": [
+        126,
+        339,
+        390,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Education, Greenway University, 2015",
+      "score": 0.982,
+      "box": [
+        115,
+        449,
+        647,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in healthcare quality improvement",
+      "score": 0.991,
+      "box": [
+        133,
+        473,
+        680,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in pressure injury prevention",
+      "score": 0.9854,
+      "box": [
+        134,
+        499,
+        629,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "MANUEL HODGES\nWI, USA|+1-989-767-4863|manuel.hodges@example.com\nWORK HISTORY\nRegistered Nurses, Harmony Care Group, 2019.09–2020.10\n- Collected patient health histories\n- Assisted with surgical prep\nEDUCATION\nBachelor's, Health Education, Greenway University, 2015\n• Completed coursework in healthcare quality improvement\n• Completed coursework in pressure injury prevention"
+}

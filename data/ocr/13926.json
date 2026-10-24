@@ -1,0 +1,252 @@
+{
+  "id": "13926",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.051,
+  "n_lines": 18,
+  "mean_score": 0.976,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOHN PERRY",
+      "score": 0.9767,
+      "box": [
+        114,
+        87,
+        337,
+        123
+      ]
+    },
+    {
+      "text": "FL, USA|+1-803-967-8263 |john.perry@example.com",
+      "score": 0.9666,
+      "box": [
+        116,
+        151,
+        629,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Structures, 2017.11–2023.01",
+      "score": 0.9677,
+      "box": [
+        115,
+        290,
+        659,
+        313
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9809,
+      "box": [
+        126,
+        315,
+        467,
+        338
+      ]
+    },
+    {
+      "text": "- Developed construction workflows",
+      "score": 0.9759,
+      "box": [
+        127,
+        340,
+        458,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Build Group, 2012.09–2017.11",
+      "score": 0.9863,
+      "box": [
+        115,
+        381,
+        709,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed and approved project plans",
+      "score": 0.9873,
+      "box": [
+        125,
+        406,
+        491,
+        431
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.9831,
+      "box": [
+        126,
+        431,
+        523,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Works, 2006.12–2012.02",
+      "score": 0.9747,
+      "box": [
+        115,
+        472,
+        649,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed construction drawings",
+      "score": 0.977,
+      "box": [
+        124,
+        496,
+        442,
+        521
+      ]
+    },
+    {
+      "text": "- Laid flooring materials",
+      "score": 0.9698,
+      "box": [
+        126,
+        521,
+        347,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearLine Builders, 2001.01–2006.03",
+      "score": 0.9653,
+      "box": [
+        114,
+        563,
+        679,
+        588
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9436,
+      "box": [
+        124,
+        588,
+        424,
+        613
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9739,
+      "box": [
+        127,
+        615,
+        439,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Systems, Lakewood High School, 1998",
+      "score": 0.9898,
+      "box": [
+        116,
+        725,
+        820,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction site security",
+      "score": 0.965,
+      "box": [
+        132,
+        747,
+        618,
+        773
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "JOHN PERRY\nFL, USA|+1-803-967-8263 |john.perry@example.com\nWORK HISTORY\nConstruction Laborers, Allied Structures, 2017.11–2023.01\n- Directed site optimization initiatives\n- Developed construction workflows\nConstruction Laborers, Precision Build Group, 2012.09–2017.11\n- Reviewed and approved project plans\n- Coordinated large-scale material logistics\nConstruction Laborers, Reliable Works, 2006.12–2012.02\n- Reviewed construction drawings\n- Laid flooring materials\nConstruction Laborers, ClearLine Builders, 2001.01–2006.03\n- Followed blueprint instructions\n- Helped position heavy materials\nEDUCATION\nHigh school graduate/GED, Building Systems, Lakewood High School, 1998\n• Completed coursework in construction site security"
+}

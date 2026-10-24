@@ -1,0 +1,265 @@
+{
+  "id": "26085",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.931,
+  "n_lines": 19,
+  "mean_score": 0.9813,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LOUIS BRANCH",
+      "score": 0.987,
+      "box": [
+        114,
+        88,
+        376,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA|+1-526-468-9414|louis.branch@example.com",
+      "score": 0.9899,
+      "box": [
+        114,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9434,
+      "box": [
+        114,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidLine Contractors, 2019.08–2023.01",
+      "score": 0.9856,
+      "box": [
+        114,
+        288,
+        707,
+        313
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.971,
+      "box": [
+        125,
+        313,
+        407,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed material specifications",
+      "score": 0.9787,
+      "box": [
+        126,
+        338,
+        446,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerCraft Builders, 2016.03–2019.08",
+      "score": 0.9932,
+      "box": [
+        116,
+        382,
+        698,
+        406
+      ]
+    },
+    {
+      "text": "- Managed subcontractor coordination",
+      "score": 0.9874,
+      "box": [
+        126,
+        407,
+        481,
+        430
+      ]
+    },
+    {
+      "text": "- Established material procurement strategies",
+      "score": 0.9834,
+      "box": [
+        125,
+        431,
+        549,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidPoint Construction, 2012.01–2015.06",
+      "score": 0.9812,
+      "box": [
+        115,
+        472,
+        725,
+        496
+      ]
+    },
+    {
+      "text": "- Performed masonry work",
+      "score": 0.985,
+      "box": [
+        125,
+        497,
+        377,
+        520
+      ]
+    },
+    {
+      "text": "- Performed structural repairs",
+      "score": 0.9805,
+      "box": [
+        125,
+        521,
+        402,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, EverRise Construction, 2007.12–2011.06",
+      "score": 0.981,
+      "box": [
+        114,
+        563,
+        717,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9968,
+      "box": [
+        126,
+        590,
+        492,
+        613
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9544,
+      "box": [
+        126,
+        613,
+        424,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Facilities Maintenance, Crossfield University, 201",
+      "score": 0.9744,
+      "box": [
+        115,
+        723,
+        833,
+        747
+      ]
+    },
+    {
+      "text": "•Completed coursework in construction site signage",
+      "score": 0.9855,
+      "box": [
+        132,
+        747,
+        620,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of roofing methods",
+      "score": 0.9866,
+      "box": [
+        133,
+        772,
+        528,
+        796
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "LOUIS BRANCH\nMA, USA|+1-526-468-9414|louis.branch@example.com\nWORK HISTORY\nConstruction Laborers, SolidLine Contractors, 2019.08–2023.01\n- Established site layout plans\n- Reviewed material specifications\nConstruction Laborers, CornerCraft Builders, 2016.03–2019.08\n- Managed subcontractor coordination\n- Established material procurement strategies\nConstruction Laborers, SolidPoint Construction, 2012.01–2015.06\n- Performed masonry work\n- Performed structural repairs\nConstruction Laborers, EverRise Construction, 2007.12–2011.06\n- Assisted with equipment maintenance\n- Followed blueprint instructions\nEDUCATION\nSome college (no degree), Facilities Maintenance, Crossfield University, 201\n•Completed coursework in construction site signage\n• Studied fundamentals of roofing methods"
+}

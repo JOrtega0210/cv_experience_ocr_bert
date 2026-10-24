@@ -1,0 +1,200 @@
+{
+  "id": "26046",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.838,
+  "n_lines": 14,
+  "mean_score": 0.984,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "STACEY CAMERON",
+      "score": 0.9689,
+      "box": [
+        116,
+        90,
+        435,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-823-485-2209 |stacey.cameron@example.com",
+      "score": 0.984,
+      "box": [
+        115,
+        150,
+        691,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Hills Academy, 2021.03–2023.01",
+      "score": 0.9846,
+      "box": [
+        114,
+        289,
+        828,
+        314
+      ]
+    },
+    {
+      "text": "- Developed data-driven teaching models",
+      "score": 0.9912,
+      "box": [
+        126,
+        315,
+        510,
+        338
+      ]
+    },
+    {
+      "text": "- Directed instructional benchmarking",
+      "score": 0.984,
+      "box": [
+        126,
+        339,
+        474,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Field School, 2019.05–2021.03",
+      "score": 0.9606,
+      "box": [
+        116,
+        382,
+        802,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed homework assignments",
+      "score": 0.991,
+      "box": [
+        125,
+        406,
+        459,
+        431
+      ]
+    },
+    {
+      "text": "- Recorded student progress data",
+      "score": 0.9805,
+      "box": [
+        125,
+        431,
+        442,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Social Science Studies, Southridge University, 2019",
+      "score": 0.9933,
+      "box": [
+        115,
+        541,
+        687,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Academic Foundations, Stonegate University, 2017",
+      "score": 0.9884,
+      "box": [
+        115,
+        566,
+        700,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom learning design",
+      "score": 0.9839,
+      "box": [
+        134,
+        590,
+        631,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic tutoring methods",
+      "score": 0.9827,
+      "box": [
+        135,
+        616,
+        600,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "STACEY CAMERON\nMA, USA|+1-823-485-2209 |stacey.cameron@example.com\nWORK HISTORY\nElementary Middle School Teachers, Bright Hills Academy, 2021.03–2023.01\n- Developed data-driven teaching models\n- Directed instructional benchmarking\nElementary Middle School Teachers, Little Field School, 2019.05–2021.03\n- Reviewed homework assignments\n- Recorded student progress data\nEDUCATION\nMaster's, Social Science Studies, Southridge University, 2019\nBachelor's, Academic Foundations, Stonegate University, 2017\n• Completed coursework in classroom learning design\n• Completed coursework in basic tutoring methods"
+}

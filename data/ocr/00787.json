@@ -1,0 +1,187 @@
+{
+  "id": "00787",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.011,
+  "n_lines": 13,
+  "mean_score": 0.9794,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HANNAH KRAMER",
+      "score": 0.9778,
+      "box": [
+        116,
+        90,
+        418,
+        120
+      ]
+    },
+    {
+      "text": "AL, USA|+1-425-939-8128 |hannah.kramer@example.com",
+      "score": 0.9896,
+      "box": [
+        116,
+        152,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9785,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Valley School, 2021.05–2023.01",
+      "score": 0.9732,
+      "box": [
+        115,
+        289,
+        823,
+        314
+      ]
+    },
+    {
+      "text": "- Established academic quality controls",
+      "score": 0.9791,
+      "box": [
+        125,
+        313,
+        490,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented academic policy updates",
+      "score": 0.9794,
+      "box": [
+        126,
+        339,
+        497,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Bridge School, 2019.08–2021.05",
+      "score": 0.9804,
+      "box": [
+        115,
+        381,
+        827,
+        406
+      ]
+    },
+    {
+      "text": "- Collected student assignments",
+      "score": 0.9662,
+      "box": [
+        125,
+        406,
+        427,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.983,
+      "box": [
+        126,
+        430,
+        399,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Some college (no degree), Child and Family Studies, Hillcrest University, 2023",
+      "score": 0.9701,
+      "box": [
+        115,
+        539,
+        840,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom routines",
+      "score": 0.9785,
+      "box": [
+        133,
+        566,
+        565,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional clarity",
+      "score": 0.9779,
+      "box": [
+        133,
+        591,
+        551,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "HANNAH KRAMER\nAL, USA|+1-425-939-8128 |hannah.kramer@example.com\nWORK HISTORY\nElementary Middle School Teachers, Bright Valley School, 2021.05–2023.01\n- Established academic quality controls\n- Implemented academic policy updates\nElementary Middle School Teachers, Bright Bridge School, 2019.08–2021.05\n- Collected student assignments\n- Conducted spelling practice\nEDUCATION\nSome college (no degree), Child and Family Studies, Hillcrest University, 2023\n• Completed coursework in classroom routines\n• Studied fundamentals of instructional clarity"
+}

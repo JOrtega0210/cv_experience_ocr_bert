@@ -1,0 +1,148 @@
+{
+  "id": "61059",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.741,
+  "n_lines": 10,
+  "mean_score": 0.9736,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MATTHEW STONE",
+      "score": 0.9821,
+      "box": [
+        116,
+        90,
+        414,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-655-245-4995 |matthew.stone@example.com",
+      "score": 0.9797,
+      "box": [
+        116,
+        152,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corestack Digital, 2020.03–2020.09",
+      "score": 0.9749,
+      "box": [
+        116,
+        290,
+        654,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9738,
+      "box": [
+        125,
+        314,
+        436,
+        340
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9617,
+      "box": [
+        126,
+        339,
+        352,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Willowgate University, 211",
+      "score": 0.9376,
+      "box": [
+        115,
+        449,
+        480,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in software project management",
+      "score": 0.9542,
+      "box": [
+        132,
+        473,
+        665,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of functional programming",
+      "score": 0.989,
+      "box": [
+        133,
+        497,
+        560,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "MATTHEW STONE\nWI, USA|+1-655-245-4995 |matthew.stone@example.com\nWORK HISTORY\nSoftware Developers, Corestack Digital, 2020.03–2020.09\n- Reviewed test coverage reports\n- Wrote integration tests\nEDUCATION\nBachelor's, Willowgate University, 211\n• Completed coursework in software project management\n• Studied principles of functional programming"
+}

@@ -1,0 +1,265 @@
+{
+  "id": "14789",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.088,
+  "n_lines": 19,
+  "mean_score": 0.9816,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JACQUELINE CALLAHAN",
+      "score": 0.9842,
+      "box": [
+        116,
+        90,
+        528,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-491-493-3535 |jacqueline.callahan@example.com",
+      "score": 0.9775,
+      "box": [
+        117,
+        152,
+        720,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9807,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearView Accounting, 2019.10–2023.01",
+      "score": 0.9773,
+      "box": [
+        114,
+        289,
+        703,
+        314
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.9761,
+      "box": [
+        127,
+        315,
+        485,
+        338
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9811,
+      "box": [
+        126,
+        339,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Advisors, 2016.06–2019.10",
+      "score": 0.9865,
+      "box": [
+        115,
+        381,
+        716,
+        406
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9872,
+      "box": [
+        126,
+        406,
+        547,
+        432
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.9879,
+      "box": [
+        126,
+        431,
+        486,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Financial, 2013.02–2016.06",
+      "score": 0.9785,
+      "box": [
+        114,
+        471,
+        701,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed accounting estimates",
+      "score": 0.9731,
+      "box": [
+        125,
+        496,
+        437,
+        521
+      ]
+    },
+    {
+      "text": "- Developed budget forecasts",
+      "score": 0.9796,
+      "box": [
+        127,
+        523,
+        403,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Services, 2009.10–2013.02",
+      "score": 0.975,
+      "box": [
+        116,
+        566,
+        722,
+        586
+      ]
+    },
+    {
+      "text": "- Reviewed credit memos",
+      "score": 0.9808,
+      "box": [
+        127,
+        591,
+        365,
+        612
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9828,
+      "box": [
+        128,
+        615,
+        404,
+        635
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), General Business, Goldenfield University, 2008",
+      "score": 0.9635,
+      "box": [
+        116,
+        725,
+        806,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in business mathematics",
+      "score": 0.9899,
+      "box": [
+        134,
+        750,
+        596,
+        770
+      ]
+    },
+    {
+      "text": "• Studied principles of hedge accounting",
+      "score": 0.9901,
+      "box": [
+        133,
+        773,
+        506,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "JACQUELINE CALLAHAN\nGA, USA|+1-491-493-3535 |jacqueline.callahan@example.com\nWORK HISTORY\nAccountants Auditors, ClearView Accounting, 2019.10–2023.01\n- Designed financial policy frameworks\n- Directed accounting operations planning\nAccountants Auditors, SteadyLedger Advisors, 2016.06–2019.10\n- Established compliance monitoring systems\n- Designed financial oversight systems\nAccountants Auditors, FairBalance Financial, 2013.02–2016.06\n- Reviewed accounting estimates\n- Developed budget forecasts\nAccountants Auditors, Balanced Path Services, 2009.10–2013.02\n- Reviewed credit memos\n- Assisted with audit fieldwork\nEDUCATION\nSome college (no degree), General Business, Goldenfield University, 2008\n• Completed coursework in business mathematics\n• Studied principles of hedge accounting"
+}

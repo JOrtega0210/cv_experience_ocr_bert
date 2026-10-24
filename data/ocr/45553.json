@@ -1,0 +1,174 @@
+{
+  "id": "45553",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.816,
+  "n_lines": 12,
+  "mean_score": 0.9804,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SAMUEL PRUITT",
+      "score": 0.9761,
+      "box": [
+        115,
+        90,
+        389,
+        120
+      ]
+    },
+    {
+      "text": "PA, USA|+1-613-355-1973|samuel.pruitt@example.com",
+      "score": 0.9719,
+      "box": [
+        115,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.99,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeWay Construction, 2019.06–2021.8",
+      "score": 0.9789,
+      "box": [
+        115,
+        289,
+        726,
+        313
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.9832,
+      "box": [
+        126,
+        315,
+        449,
+        338
+      ]
+    },
+    {
+      "text": "- Directed quality assurance programs",
+      "score": 0.9683,
+      "box": [
+        126,
+        339,
+        482,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueBuild Services, 2016.05–2018.07",
+      "score": 0.9781,
+      "box": [
+        115,
+        381,
+        684,
+        405
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.9561,
+      "box": [
+        125,
+        406,
+        400,
+        431
+      ]
+    },
+    {
+      "text": "- Installed temporary site bariers",
+      "score": 0.986,
+      "box": [
+        127,
+        432,
+        435,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Concrete Technology, Westview High School, 2009",
+      "score": 0.9881,
+      "box": [
+        116,
+        541,
+        852,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction fundamentals",
+      "score": 0.99,
+      "box": [
+        135,
+        567,
+        632,
+        587
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "SAMUEL PRUITT\nPA, USA|+1-613-355-1973|samuel.pruitt@example.com\nWORK HISTORY\nConstruction Laborers, PrimeWay Construction, 2019.06–2021.8\n- Led cross-functional coordination\n- Directed quality assurance programs\nConstruction Laborers, TrueBuild Services, 2016.05–2018.07\n- Dug trenches for utility lines\n- Installed temporary site bariers\nEDUCATION\nHigh school graduate/GED, Concrete Technology, Westview High School, 2009\n• Completed coursework in construction fundamentals"
+}

@@ -1,0 +1,213 @@
+{
+  "id": "43555",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.856,
+  "n_lines": 15,
+  "mean_score": 0.981,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SHELDON PAYNE",
+      "score": 0.9621,
+      "box": [
+        116,
+        90,
+        406,
+        121
+      ]
+    },
+    {
+      "text": "OK, USA |+1-405-391-8510 | sheldon.payne@example.com",
+      "score": 0.971,
+      "box": [
+        117,
+        151,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidBuild Services, 2020.09–2023.01",
+      "score": 0.9825,
+      "box": [
+        115,
+        290,
+        685,
+        313
+      ]
+    },
+    {
+      "text": "- Managed multi-phase projects",
+      "score": 0.9662,
+      "box": [
+        126,
+        314,
+        422,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9676,
+      "box": [
+        126,
+        338,
+        477,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorLine Builders, 2018.05–2020.09",
+      "score": 0.9872,
+      "box": [
+        116,
+        382,
+        695,
+        405
+      ]
+    },
+    {
+      "text": "- Installed framing components",
+      "score": 0.9844,
+      "box": [
+        125,
+        406,
+        415,
+        431
+      ]
+    },
+    {
+      "text": "- Set up scaffolding systems",
+      "score": 0.9644,
+      "box": [
+        126,
+        430,
+        391,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueStone Builders, 2014.02–2016.07",
+      "score": 0.9926,
+      "box": [
+        116,
+        472,
+        687,
+        495
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.9927,
+      "box": [
+        126,
+        498,
+        481,
+        521
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9936,
+      "box": [
+        126,
+        521,
+        492,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Services, Springfield High School, 2012",
+      "score": 0.9943,
+      "box": [
+        115,
+        631,
+        866,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic site surveying",
+      "score": 0.9717,
+      "box": [
+        132,
+        656,
+        571,
+        682
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "SHELDON PAYNE\nOK, USA |+1-405-391-8510 | sheldon.payne@example.com\nWORK HISTORY\nConstruction Laborers, SolidBuild Services, 2020.09–2023.01\n- Managed multi-phase projects\n- Reviewed material quality standards\nConstruction Laborers, AnchorLine Builders, 2018.05–2020.09\n- Installed framing components\n- Set up scaffolding systems\nConstruction Laborers, TrueStone Builders, 2014.02–2016.07\n- Supported crew leaders during tasks\n- Assembled prefabricated components\nEDUCATION\nHigh school graduate/GED, Construction Services, Springfield High School, 2012\n• Completed coursework in basic site surveying"
+}

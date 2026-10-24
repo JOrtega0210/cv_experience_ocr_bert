@@ -1,0 +1,226 @@
+{
+  "id": "02998",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.913,
+  "n_lines": 16,
+  "mean_score": 0.9855,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANTHONY AVERY",
+      "score": 0.984,
+      "box": [
+        117,
+        90,
+        409,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA|+1-344-820-1304 |anthony.avery@example.com",
+      "score": 0.9861,
+      "box": [
+        117,
+        152,
+        672,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Softline Digital, 2020.08–2023.01",
+      "score": 0.9814,
+      "box": [
+        116,
+        290,
+        628,
+        313
+      ]
+    },
+    {
+      "text": "- Defined code review processes",
+      "score": 0.9658,
+      "box": [
+        125,
+        314,
+        434,
+        339
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9904,
+      "box": [
+        126,
+        339,
+        438,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstream Labs, 2018.03–2020.08",
+      "score": 0.9894,
+      "box": [
+        115,
+        381,
+        666,
+        406
+      ]
+    },
+    {
+      "text": "- Developed microservices",
+      "score": 0.9907,
+      "box": [
+        126,
+        407,
+        377,
+        430
+      ]
+    },
+    {
+      "text": "- Improved build processes",
+      "score": 0.9853,
+      "box": [
+        126,
+        430,
+        380,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudcrest Systems, 2015.09–2018.03",
+      "score": 0.9843,
+      "box": [
+        115,
+        471,
+        682,
+        496
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9863,
+      "box": [
+        126,
+        497,
+        346,
+        520
+      ]
+    },
+    {
+      "text": "- Wrote utility scripts",
+      "score": 0.975,
+      "box": [
+        126,
+        521,
+        318,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Greenwood University, 2014",
+      "score": 0.9891,
+      "box": [
+        115,
+        632,
+        489,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in message queues",
+      "score": 0.9891,
+      "box": [
+        133,
+        656,
+        548,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in thread synchronization",
+      "score": 0.9872,
+      "box": [
+        134,
+        681,
+        599,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "ANTHONY AVERY\nCA, USA|+1-344-820-1304 |anthony.avery@example.com\nWORK HISTORY\nSoftware Developers, Softline Digital, 2020.08–2023.01\n- Defined code review processes\n- Led technical roadmap planning\nSoftware Developers, Brightstream Labs, 2018.03–2020.08\n- Developed microservices\n- Improved build processes\nSoftware Developers, Cloudcrest Systems, 2015.09–2018.03\n- Created test data sets\n- Wrote utility scripts\nEDUCATION\nBachelor's, Greenwood University, 2014\n• Completed coursework in message queues\n• Completed coursework in thread synchronization"
+}

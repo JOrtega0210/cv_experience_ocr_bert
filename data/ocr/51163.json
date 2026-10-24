@@ -1,0 +1,187 @@
+{
+  "id": "51163",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.793,
+  "n_lines": 13,
+  "mean_score": 0.9793,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSHUA PAUL",
+      "score": 0.9839,
+      "box": [
+        116,
+        90,
+        357,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-552-270-7946 |joshua.paul@example.com",
+      "score": 0.9708,
+      "box": [
+        115,
+        150,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9839,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Tech, 2020.12–2023.01",
+      "score": 0.9573,
+      "box": [
+        114,
+        288,
+        642,
+        313
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9906,
+      "box": [
+        126,
+        314,
+        448,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9555,
+      "box": [
+        127,
+        340,
+        515,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Datafield Systems, 2015.12–2018.01",
+      "score": 0.9925,
+      "box": [
+        115,
+        381,
+        663,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed code changes for syntax and logic issues",
+      "score": 0.9769,
+      "box": [
+        125,
+        406,
+        620,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9764,
+      "box": [
+        127,
+        432,
+        421,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Pine Valley University, 2012",
+      "score": 0.9812,
+      "box": [
+        115,
+        541,
+        486,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of recursion techniques",
+      "score": 0.981,
+      "box": [
+        132,
+        565,
+        571,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in load balancing basics",
+      "score": 0.9829,
+      "box": [
+        133,
+        590,
+        589,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JOSHUA PAUL\nTX, USA|+1-552-270-7946 |joshua.paul@example.com\nWORK HISTORY\nSoftware Developers, Codecrest Tech, 2020.12–2023.01\n- Designed data storage strategies\n- Implemented access control frameworks\nSoftware Developers, Datafield Systems, 2015.12–2018.01\n- Reviewed code changes for syntax and logic issues\n- Implemented REST endpoints\nEDUCATION\nBachelor's, Pine Valley University, 2012\n• Studied fundamentals of recursion techniques\n• Completed coursework in load balancing basics"
+}

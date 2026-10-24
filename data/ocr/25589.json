@@ -1,0 +1,278 @@
+{
+  "id": "25589",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.015,
+  "n_lines": 20,
+  "mean_score": 0.9787,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LEAH MANN",
+      "score": 0.9598,
+      "box": [
+        115,
+        90,
+        318,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-332-790-9080 |leah.mann@example.com",
+      "score": 0.9837,
+      "box": [
+        115,
+        150,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9794,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Stone Academy, 2020.07–2023.01",
+      "score": 0.9904,
+      "box": [
+        115,
+        289,
+        870,
+        314
+      ]
+    },
+    {
+      "text": "- Directed assessment development efforts",
+      "score": 0.9702,
+      "box": [
+        127,
+        315,
+        526,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented assessment policy frameworks",
+      "score": 0.9828,
+      "box": [
+        127,
+        339,
+        553,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Bridge School, 2017.12–2020.07",
+      "score": 0.9913,
+      "box": [
+        116,
+        382,
+        840,
+        406
+      ]
+    },
+    {
+      "text": "- Designed instructional quality standards",
+      "score": 0.9751,
+      "box": [
+        127,
+        407,
+        511,
+        430
+      ]
+    },
+    {
+      "text": "- Designed instructional governance models",
+      "score": 0.9772,
+      "box": [
+        126,
+        432,
+        534,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Grove School, 2012.12–2015.07",
+      "score": 0.9854,
+      "box": [
+        114,
+        471,
+        821,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented literacy development plans",
+      "score": 0.9836,
+      "box": [
+        126,
+        498,
+        516,
+        521
+      ]
+    },
+    {
+      "text": "- Developed math enrichment lessons",
+      "score": 0.9894,
+      "box": [
+        126,
+        521,
+        480,
+        546
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Path School, 2009.10–2012.05",
+      "score": 0.9781,
+      "box": [
+        116,
+        565,
+        798,
+        588
+      ]
+    },
+    {
+      "text": "- Recorded student progress data",
+      "score": 0.9673,
+      "box": [
+        125,
+        589,
+        441,
+        614
+      ]
+    },
+    {
+      "text": "- Monitored independent work sessions",
+      "score": 0.9685,
+      "box": [
+        127,
+        615,
+        493,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Learning Skills, Goldenridge University, 2007",
+      "score": 0.967,
+      "box": [
+        115,
+        725,
+        623,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Youth Development, Plainview University, 2005",
+      "score": 0.9795,
+      "box": [
+        114,
+        747,
+        664,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic mentoring strategies",
+      "score": 0.9793,
+      "box": [
+        134,
+        774,
+        632,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in literacy development",
+      "score": 0.9664,
+      "box": [
+        132,
+        798,
+        582,
+        823
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "LEAH MANN\nMA, USA|+1-332-790-9080 |leah.mann@example.com\nWORK HISTORY\nElementary Middle School Teachers, Learning Stone Academy, 2020.07–2023.01\n- Directed assessment development efforts\n- Implemented assessment policy frameworks\nElementary Middle School Teachers, Golden Bridge School, 2017.12–2020.07\n- Designed instructional quality standards\n- Designed instructional governance models\nElementary Middle School Teachers, Open Grove School, 2012.12–2015.07\n- Implemented literacy development plans\n- Developed math enrichment lessons\nElementary Middle School Teachers, Kind Path School, 2009.10–2012.05\n- Recorded student progress data\n- Monitored independent work sessions\nEDUCATION\nMaster's, Learning Skills, Goldenridge University, 2007\nBachelor's, Youth Development, Plainview University, 2005\n• Completed coursework in basic mentoring strategies\n• Completed coursework in literacy development"
+}

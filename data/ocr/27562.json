@@ -1,0 +1,187 @@
+{
+  "id": "27562",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.813,
+  "n_lines": 13,
+  "mean_score": 0.9814,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RYAN JACOBSON",
+      "score": 0.9825,
+      "box": [
+        116,
+        90,
+        412,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-907-856-4578 |ryan.jacobson@example.com",
+      "score": 0.9839,
+      "box": [
+        116,
+        151,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9781,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Bridge Care, 2021.07–202.01",
+      "score": 0.9794,
+      "box": [
+        116,
+        290,
+        652,
+        313
+      ]
+    },
+    {
+      "text": "- Established clinical best practices",
+      "score": 0.9715,
+      "box": [
+        125,
+        313,
+        453,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9639,
+      "box": [
+        127,
+        340,
+        456,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeLife Health Group, 2019.12–2021.07",
+      "score": 0.9929,
+      "box": [
+        115,
+        381,
+        682,
+        406
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.9775,
+      "box": [
+        126,
+        406,
+        527,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.9888,
+      "box": [
+        126,
+        431,
+        483,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Allied Health, Goldenridge University, 2021",
+      "score": 0.9694,
+      "box": [
+        114,
+        539,
+        622,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in laboratory values interpretation",
+      "score": 0.9918,
+      "box": [
+        133,
+        565,
+        675,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of clinical supervision",
+      "score": 0.98,
+      "box": [
+        132,
+        590,
+        552,
+        613
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "RYAN JACOBSON\nMI, USA|+1-907-856-4578 |ryan.jacobson@example.com\nWORK HISTORY\nRegistered Nurses, Caring Bridge Care, 2021.07–202.01\n- Established clinical best practices\n- Implemented care standardization\nRegistered Nurses, SafeLife Health Group, 2019.12–2021.07\n- Administered injections under supervision\n- Assisted with emergency procedures\nEDUCATION\nBachelor's, Allied Health, Goldenridge University, 2021\n• Completed coursework in laboratory values interpretation\n• Studied fundamentals of clinical supervision"
+}

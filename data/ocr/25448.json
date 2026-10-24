@@ -1,0 +1,161 @@
+{
+  "id": "25448",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.748,
+  "n_lines": 11,
+  "mean_score": 0.9863,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TONY BOYER",
+      "score": 0.9832,
+      "box": [
+        114,
+        90,
+        339,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-581-519-4809|tony.boyer@example.com",
+      "score": 0.9819,
+      "box": [
+        116,
+        152,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9783,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Bluecrest Software, 2021.08–2022.06",
+      "score": 0.9962,
+      "box": [
+        116,
+        290,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed code changes for syntax and logic issues",
+      "score": 0.978,
+      "box": [
+        125,
+        314,
+        620,
+        339
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9796,
+      "box": [
+        127,
+        340,
+        347,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Clearview University, 2015",
+      "score": 0.9966,
+      "box": [
+        115,
+        449,
+        455,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Brookstone University, 2013",
+      "score": 0.9841,
+      "box": [
+        115,
+        474,
+        487,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in mobile application development",
+      "score": 0.9838,
+      "box": [
+        133,
+        498,
+        682,
+        523
+      ]
+    },
+    {
+      "text": "• Studied principles of software reliability",
+      "score": 0.9884,
+      "box": [
+        133,
+        523,
+        507,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "TONY BOYER\nMA, USA|+1-581-519-4809|tony.boyer@example.com\nWORK HISTORY\nSoftware Developers, Bluecrest Software, 2021.08–2022.06\n- Reviewed code changes for syntax and logic issues\n- Created test data sets\nEDUCATION\nMaster's, Clearview University, 2015\nBachelor's, Brookstone University, 2013\n• Completed coursework in mobile application development\n• Studied principles of software reliability"
+}

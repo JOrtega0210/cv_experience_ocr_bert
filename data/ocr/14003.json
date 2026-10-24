@@ -1,0 +1,187 @@
+{
+  "id": "14003",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.923,
+  "n_lines": 13,
+  "mean_score": 0.9836,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KATHARINE SLOAN",
+      "score": 0.991,
+      "box": [
+        116,
+        90,
+        441,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-892-245-7845 |katharine.sloan@example.com",
+      "score": 0.9846,
+      "box": [
+        115,
+        150,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Life Nursing, 2020.02–2023.01",
+      "score": 0.9705,
+      "box": [
+        115,
+        289,
+        652,
+        314
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9886,
+      "box": [
+        126,
+        315,
+        474,
+        338
+      ]
+    },
+    {
+      "text": "- Developed interdisciplinary care strategies",
+      "score": 0.9797,
+      "box": [
+        126,
+        339,
+        534,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Nest Nursing, 2015.09–2018.08",
+      "score": 0.982,
+      "box": [
+        116,
+        383,
+        663,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored patient intake and output",
+      "score": 0.9628,
+      "box": [
+        125,
+        406,
+        471,
+        431
+      ]
+    },
+    {
+      "text": "- Maintained infection control protocols",
+      "score": 0.9867,
+      "box": [
+        126,
+        431,
+        487,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Bachelor's, Geriatric Care, Fairmont University, 2013",
+      "score": 0.988,
+      "box": [
+        115,
+        541,
+        606,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of continuity of care",
+      "score": 0.9871,
+      "box": [
+        133,
+        566,
+        500,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient monitoring technologies",
+      "score": 0.9826,
+      "box": [
+        133,
+        590,
+        678,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KATHARINE SLOAN\nFL, USA|+1-892-245-7845 |katharine.sloan@example.com\nWORK HISTORY\nRegistered Nurses, Caring Life Nursing, 2020.02–2023.01\n- Developed care quality benchmarks\n- Developed interdisciplinary care strategies\nRegistered Nurses, Caring Nest Nursing, 2015.09–2018.08\n- Monitored patient intake and output\n- Maintained infection control protocols\nEDUCATION\nBachelor's, Geriatric Care, Fairmont University, 2013\n• Studied principles of continuity of care\n• Completed coursework in patient monitoring technologies"
+}

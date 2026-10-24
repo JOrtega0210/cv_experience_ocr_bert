@@ -1,0 +1,187 @@
+{
+  "id": "00777",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.965,
+  "n_lines": 13,
+  "mean_score": 0.9798,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "STEPHANIE HAIL",
+      "score": 0.9948,
+      "box": [
+        116,
+        90,
+        397,
+        120
+      ]
+    },
+    {
+      "text": "AL, USA|+1-665-309-7978| stephanie.hail@example.com",
+      "score": 0.978,
+      "box": [
+        116,
+        151,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9854,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightHands Nursing Services, 2020.09–2023.01",
+      "score": 0.977,
+      "box": [
+        115,
+        289,
+        752,
+        314
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.979,
+      "box": [
+        127,
+        315,
+        455,
+        338
+      ]
+    },
+    {
+      "text": "- Directed nursing operations planning",
+      "score": 0.962,
+      "box": [
+        126,
+        339,
+        481,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Hands Health, 2015.11–2018.03",
+      "score": 0.9814,
+      "box": [
+        115,
+        381,
+        669,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored oxygen therapy",
+      "score": 0.9548,
+      "box": [
+        125,
+        403,
+        384,
+        433
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9831,
+      "box": [
+        126,
+        430,
+        416,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Patient Services, Meadowland University, 2015",
+      "score": 0.9691,
+      "box": [
+        116,
+        541,
+        741,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of patient identification",
+      "score": 0.9921,
+      "box": [
+        133,
+        566,
+        527,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of nursing assessment",
+      "score": 0.982,
+      "box": [
+        133,
+        591,
+        529,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "STEPHANIE HAIL\nAL, USA|+1-665-309-7978| stephanie.hail@example.com\nWORK HISTORY\nRegistered Nurses, BrightHands Nursing Services, 2020.09–2023.01\n- Led nursing workflow optimization\n- Directed nursing operations planning\nRegistered Nurses, Caring Hands Health, 2015.11–2018.03\n- Monitored oxygen therapy\n- Checked medication dosages\nEDUCATION\nAssociate's degree, Patient Services, Meadowland University, 2015\n• Studied principles of patient identification\n• Studied principles of nursing assessment"
+}

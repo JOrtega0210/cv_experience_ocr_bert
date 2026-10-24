@@ -1,0 +1,200 @@
+{
+  "id": "12018",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.928,
+  "n_lines": 14,
+  "mean_score": 0.9821,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BILLY PRICE",
+      "score": 0.9579,
+      "box": [
+        115,
+        88,
+        328,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA|+1-356-980-3244|billy.price@example.com",
+      "score": 0.9736,
+      "box": [
+        115,
+        150,
+        624,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9835,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Advisors, 2019.07–2021.09",
+      "score": 0.9927,
+      "box": [
+        115,
+        290,
+        712,
+        312
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9745,
+      "box": [
+        126,
+        313,
+        480,
+        338
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9679,
+      "box": [
+        126,
+        338,
+        518,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Services, 2016.03–2018.06",
+      "score": 0.9913,
+      "box": [
+        115,
+        382,
+        712,
+        405
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9857,
+      "box": [
+        125,
+        406,
+        490,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9871,
+      "box": [
+        126,
+        429,
+        413,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Business Analytics, Pine Valley University, 2006",
+      "score": 0.9765,
+      "box": [
+        115,
+        541,
+        652,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Analytics, Brookside University, 2004",
+      "score": 0.9875,
+      "box": [
+        114,
+        564,
+        660,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of forensic accounting",
+      "score": 0.995,
+      "box": [
+        132,
+        590,
+        559,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting research methods",
+      "score": 0.9787,
+      "box": [
+        134,
+        616,
+        663,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "BILLY PRICE\nFL, USA|+1-356-980-3244|billy.price@example.com\nWORK HISTORY\nAccountants Auditors, OpenBalance Advisors, 2019.07–2021.09\n- Led accounting process optimization\n- Established financial reporting standards\nAccountants Auditors, ClearBalance Services, 2016.03–2018.06\n- Processed accounts payable invoices\n- Assisted with budget tracking\nEDUCATION\nMaster's, Business Analytics, Pine Valley University, 2006\nBachelor's, Business Analytics, Brookside University, 2004\n• Studied fundamentals of forensic accounting\n• Completed coursework in accounting research methods"
+}

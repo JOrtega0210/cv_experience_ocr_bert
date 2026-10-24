@@ -1,0 +1,265 @@
+{
+  "id": "04130",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.003,
+  "n_lines": 19,
+  "mean_score": 0.9792,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "PAUL BAILEY",
+      "score": 0.9624,
+      "box": [
+        115,
+        90,
+        342,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-699-986-5599 |paul.bailey@example.com",
+      "score": 0.9772,
+      "box": [
+        116,
+        150,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9805,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Software, 2020.05–2023.01",
+      "score": 0.9856,
+      "box": [
+        115,
+        289,
+        678,
+        314
+      ]
+    },
+    {
+      "text": "- Designed high-availability systems",
+      "score": 0.9674,
+      "box": [
+        126,
+        314,
+        461,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.9841,
+      "box": [
+        126,
+        339,
+        538,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Tech, 2017.08–2020.05",
+      "score": 0.9874,
+      "box": [
+        116,
+        382,
+        620,
+        406
+      ]
+    },
+    {
+      "text": "- Defined APl standards",
+      "score": 0.9606,
+      "box": [
+        126,
+        406,
+        351,
+        428
+      ]
+    },
+    {
+      "text": "- Led cross-team technical alignment",
+      "score": 0.9795,
+      "box": [
+        126,
+        431,
+        472,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Flowframe Labs, 2014.11–2017.08",
+      "score": 0.9822,
+      "box": [
+        115,
+        471,
+        645,
+        496
+      ]
+    },
+    {
+      "text": "- Built data visualization tools",
+      "score": 0.9758,
+      "box": [
+        126,
+        497,
+        399,
+        519
+      ]
+    },
+    {
+      "text": "- Improved code coverage",
+      "score": 0.9788,
+      "box": [
+        126,
+        521,
+        373,
+        548
+      ]
+    },
+    {
+      "text": "Software Developers, Openfield Tech, 2012.02–2014.11",
+      "score": 0.9846,
+      "box": [
+        115,
+        563,
+        636,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9922,
+      "box": [
+        125,
+        589,
+        509,
+        613
+      ]
+    },
+    {
+      "text": "- Reviewed code changes for syntax and logic issues",
+      "score": 0.9792,
+      "box": [
+        126,
+        613,
+        620,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Forestfield University, 2014",
+      "score": 0.9572,
+      "box": [
+        114,
+        723,
+        479,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in calculus for computing",
+      "score": 0.9739,
+      "box": [
+        132,
+        748,
+        596,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in code refactoring",
+      "score": 0.998,
+      "box": [
+        134,
+        772,
+        539,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "PAUL BAILEY\nCA, USA|+1-699-986-5599 |paul.bailey@example.com\nWORK HISTORY\nSoftware Developers, Stonepath Software, 2020.05–2023.01\n- Designed high-availability systems\n- Implemented long-term maintenance plans\nSoftware Developers, Softgrid Tech, 2017.08–2020.05\n- Defined APl standards\n- Led cross-team technical alignment\nSoftware Developers, Flowframe Labs, 2014.11–2017.08\n- Built data visualization tools\n- Improved code coverage\nSoftware Developers, Openfield Tech, 2012.02–2014.11\n- Assisted with version control operations\n- Reviewed code changes for syntax and logic issues\nEDUCATION\nBachelor's, Forestfield University, 2014\n• Completed coursework in calculus for computing\n• Completed coursework in code refactoring"
+}

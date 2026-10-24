@@ -1,0 +1,135 @@
+{
+  "id": "21110",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.743,
+  "n_lines": 9,
+  "mean_score": 0.9842,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JESUS FRIEDMAN",
+      "score": 0.9856,
+      "box": [
+        116,
+        90,
+        413,
+        121
+      ]
+    },
+    {
+      "text": "IA, USA|+1-336-402-9591 |jesus.friedman@example.com",
+      "score": 0.9832,
+      "box": [
+        115,
+        150,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9825,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidRise Construction, 2021.01–2023.01",
+      "score": 0.987,
+      "box": [
+        115,
+        289,
+        717,
+        312
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9705,
+      "box": [
+        127,
+        315,
+        435,
+        338
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.9816,
+      "box": [
+        126,
+        339,
+        480,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Skills, Meadowcrest High School, 2022",
+      "score": 0.9781,
+      "box": [
+        116,
+        449,
+        860,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of weatherproofing basics",
+      "score": 0.9906,
+      "box": [
+        133,
+        474,
+        557,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "JESUS FRIEDMAN\nIA, USA|+1-336-402-9591 |jesus.friedman@example.com\nWORK HISTORY\nConstruction Laborers, SolidRise Construction, 2021.01–2023.01\n- Installed temporary site barriers\n- Supported crew leaders during tasks\nEDUCATION\nHigh school graduate/GED, Construction Skills, Meadowcrest High School, 2022\n• Studied principles of weatherproofing basics"
+}

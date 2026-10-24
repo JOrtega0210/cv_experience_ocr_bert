@@ -1,0 +1,187 @@
+{
+  "id": "02492",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.985,
+  "n_lines": 13,
+  "mean_score": 0.9811,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SHELLEY HALE",
+      "score": 0.9779,
+      "box": [
+        116,
+        90,
+        373,
+        120
+      ]
+    },
+    {
+      "text": "AR, USA|+1-265-990-2679 |shelley.hale@example.com",
+      "score": 0.9854,
+      "box": [
+        116,
+        152,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9785,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightPath Learning Center, 2020.04–2022.0",
+      "score": 0.9851,
+      "box": [
+        116,
+        290,
+        879,
+        313
+      ]
+    },
+    {
+      "text": "- Established academic quality controls",
+      "score": 0.9789,
+      "box": [
+        125,
+        313,
+        490,
+        339
+      ]
+    },
+    {
+      "text": "- Established instructional best practices",
+      "score": 0.9757,
+      "box": [
+        126,
+        339,
+        502,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Stone Academy, 2016.08–2018.11",
+      "score": 0.9883,
+      "box": [
+        115,
+        381,
+        871,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared daily lesson plans aligned with curriculum guidelines",
+      "score": 0.9826,
+      "box": [
+        126,
+        406,
+        717,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed learning standards",
+      "score": 0.9845,
+      "box": [
+        125,
+        430,
+        412,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, General Academic Studies, Elm Ridge University, 2013",
+      "score": 0.9669,
+      "box": [
+        115,
+        541,
+        736,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of content delivery",
+      "score": 0.9793,
+      "box": [
+        132,
+        565,
+        488,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in reading fluency strategies",
+      "score": 0.9734,
+      "box": [
+        133,
+        590,
+        626,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "SHELLEY HALE\nAR, USA|+1-265-990-2679 |shelley.hale@example.com\nWORK HISTORY\nElementary Middle School Teachers, BrightPath Learning Center, 2020.04–2022.0\n- Established academic quality controls\n- Established instructional best practices\nElementary Middle School Teachers, Learning Stone Academy, 2016.08–2018.11\n- Prepared daily lesson plans aligned with curriculum guidelines\n- Reviewed learning standards\nEDUCATION\nBachelor's, General Academic Studies, Elm Ridge University, 2013\n• Studied principles of content delivery\n• Completed coursework in reading fluency strategies"
+}

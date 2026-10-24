@@ -1,0 +1,226 @@
+{
+  "id": "06107",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.99,
+  "n_lines": 16,
+  "mean_score": 0.9839,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MAURICE BARRETT",
+      "score": 0.9907,
+      "box": [
+        116,
+        90,
+        443,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA|+1-235-534-6768|maurice.barrett@example.com",
+      "score": 0.9777,
+      "box": [
+        117,
+        152,
+        681,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearTrack Construction, 2020.06–2023.01",
+      "score": 0.9872,
+      "box": [
+        114,
+        289,
+        732,
+        313
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9752,
+      "box": [
+        127,
+        315,
+        394,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented quality control systems",
+      "score": 0.9845,
+      "box": [
+        126,
+        339,
+        480,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Cornerstone Works, 2017.10–2020.06",
+      "score": 0.9871,
+      "box": [
+        116,
+        382,
+        688,
+        405
+      ]
+    },
+    {
+      "text": "- Installed drywall systems",
+      "score": 0.986,
+      "box": [
+        125,
+        406,
+        374,
+        431
+      ]
+    },
+    {
+      "text": "- Installed door and window frames",
+      "score": 0.971,
+      "box": [
+        127,
+        432,
+        452,
+        453
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextStone Contractors, 2013.08–2016.04",
+      "score": 0.9896,
+      "box": [
+        116,
+        472,
+        720,
+        495
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9848,
+      "box": [
+        125,
+        496,
+        540,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9748,
+      "box": [
+        126,
+        521,
+        416,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Management, Granite Hill University, 2012",
+      "score": 0.9679,
+      "box": [
+        115,
+        631,
+        884,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction mathematics",
+      "score": 0.9879,
+      "box": [
+        132,
+        656,
+        626,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of flooring installation",
+      "score": 0.9932,
+      "box": [
+        134,
+        682,
+        552,
+        705
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "MAURICE BARRETT\nCA, USA|+1-235-534-6768|maurice.barrett@example.com\nWORK HISTORY\nConstruction Laborers, ClearTrack Construction, 2020.06–2023.01\n- Directed project scheduling\n- Implemented quality control systems\nConstruction Laborers, Cornerstone Works, 2017.10–2020.06\n- Installed drywall systems\n- Installed door and window frames\nConstruction Laborers, NextStone Contractors, 2013.08–2016.04\n- Carried materials to designated work areas\n- Assisted with framing support\nEDUCATION\nSome college (no degree), Construction Management, Granite Hill University, 2012\n• Completed coursework in construction mathematics\n• Studied fundamentals of flooring installation"
+}

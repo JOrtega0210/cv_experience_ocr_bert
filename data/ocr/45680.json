@@ -1,0 +1,148 @@
+{
+  "id": "45680",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.718,
+  "n_lines": 10,
+  "mean_score": 0.9841,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NESTOR PERKINS",
+      "score": 0.9894,
+      "box": [
+        116,
+        90,
+        415,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-612-737-4471 |nestor.perkins@example.com",
+      "score": 0.9863,
+      "box": [
+        115,
+        150,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datacore Labs, 2020.05–2023.01",
+      "score": 0.9904,
+      "box": [
+        115,
+        290,
+        631,
+        313
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9805,
+      "box": [
+        127,
+        315,
+        414,
+        339
+      ]
+    },
+    {
+      "text": "- Updated monitoring dashboards",
+      "score": 0.9626,
+      "box": [
+        127,
+        340,
+        440,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Larkspur University, 2023",
+      "score": 0.9752,
+      "box": [
+        115,
+        449,
+        462,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of mutexes and semaphores",
+      "score": 0.9882,
+      "box": [
+        132,
+        473,
+        582,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in memory management",
+      "score": 0.985,
+      "box": [
+        133,
+        498,
+        594,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "NESTOR PERKINS\nPA, USA|+1-612-737-4471 |nestor.perkins@example.com\nWORK HISTORY\nSoftware Developers, Datacore Labs, 2020.05–2023.01\n- Updated frontend stylesheets\n- Updated monitoring dashboards\nEDUCATION\nBachelor's, Larkspur University, 2023\n• Studied principles of mutexes and semaphores\n• Completed coursework in memory management"
+}

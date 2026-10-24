@@ -1,0 +1,148 @@
+{
+  "id": "58650",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.771,
+  "n_lines": 10,
+  "mean_score": 0.9806,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NELLY ESTES",
+      "score": 0.9801,
+      "box": [
+        116,
+        90,
+        346,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-247-232-1435|nelly.estes@example.com",
+      "score": 0.9746,
+      "box": [
+        114,
+        150,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9741,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Start School, 2021.05–2023.01",
+      "score": 0.9727,
+      "box": [
+        116,
+        290,
+        817,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed homework assignments",
+      "score": 0.9825,
+      "box": [
+        125,
+        314,
+        459,
+        339
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.9817,
+      "box": [
+        126,
+        339,
+        399,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Developmental Studies, Brightwood University, 2023",
+      "score": 0.9771,
+      "box": [
+        115,
+        449,
+        711,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic monitoring strategies",
+      "score": 0.9913,
+      "box": [
+        133,
+        474,
+        678,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of language arts education",
+      "score": 0.9738,
+      "box": [
+        133,
+        497,
+        602,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "NELLY ESTES\nWA, USA|+1-247-232-1435|nelly.estes@example.com\nWORK HISTORY\nElementary Middle School Teachers, Caring Start School, 2021.05–2023.01\n- Reviewed homework assignments\n- Conducted spelling practice\nEDUCATION\nBachelor's, Developmental Studies, Brightwood University, 2023\n• Completed coursework in academic monitoring strategies\n• Studied fundamentals of language arts education"
+}

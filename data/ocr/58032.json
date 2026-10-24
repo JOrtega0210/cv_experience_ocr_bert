@@ -1,0 +1,187 @@
+{
+  "id": "58032",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.866,
+  "n_lines": 13,
+  "mean_score": 0.9796,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KERI PETERSEN",
+      "score": 0.972,
+      "box": [
+        116,
+        90,
+        388,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-327-237-1444|keri.petersen@example.com",
+      "score": 0.9754,
+      "box": [
+        115,
+        150,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9893,
+      "box": [
+        116,
+        244,
+        315,
+        268
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Minds School, 2020.12–2023.01",
+      "score": 0.9861,
+      "box": [
+        115,
+        289,
+        826,
+        314
+      ]
+    },
+    {
+      "text": "- Established academic quality controls",
+      "score": 0.9665,
+      "box": [
+        125,
+        314,
+        489,
+        337
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.9826,
+      "box": [
+        126,
+        339,
+        525,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Minds School, 2016.02–2018.04",
+      "score": 0.9918,
+      "box": [
+        115,
+        381,
+        830,
+        406
+      ]
+    },
+    {
+      "text": "- Updated student performance logs",
+      "score": 0.9802,
+      "box": [
+        127,
+        408,
+        462,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared daily instructional agendas",
+      "score": 0.9922,
+      "box": [
+        126,
+        431,
+        479,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Bachelor's, Basic Child Development, Lakeside University, 2007",
+      "score": 0.9545,
+      "box": [
+        115,
+        540,
+        708,
+        563
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic curriculum planning",
+      "score": 0.969,
+      "box": [
+        133,
+        565,
+        624,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of student engagement",
+      "score": 0.9761,
+      "box": [
+        133,
+        590,
+        533,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KERI PETERSEN\nWA, USA|+1-327-237-1444|keri.petersen@example.com\nWORK HISTORY\nElementary Middle School Teachers, Sunny Minds School, 2020.12–2023.01\n- Established academic quality controls\n- Directed academic intervention strategies\nElementary Middle School Teachers, Caring Minds School, 2016.02–2018.04\n- Updated student performance logs\n- Prepared daily instructional agendas\nEDUCATION\nBachelor's, Basic Child Development, Lakeside University, 2007\n• Completed coursework in basic curriculum planning\n• Studied principles of student engagement"
+}

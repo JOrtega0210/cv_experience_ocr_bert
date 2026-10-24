@@ -1,0 +1,161 @@
+{
+  "id": "02017",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.926,
+  "n_lines": 11,
+  "mean_score": 0.9794,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MACI KOCH",
+      "score": 0.9521,
+      "box": [
+        116,
+        90,
+        312,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-551-208-9599|maci.koch@example.com",
+      "score": 0.981,
+      "box": [
+        115,
+        150,
+        633,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9813,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Field Academy, 2019.07–2022.05",
+      "score": 0.988,
+      "box": [
+        115,
+        290,
+        849,
+        313
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9842,
+      "box": [
+        126,
+        314,
+        517,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9828,
+      "box": [
+        126,
+        339,
+        496,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Education Preparation, Larkspur University, 2014",
+      "score": 0.978,
+      "box": [
+        115,
+        449,
+        661,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Development, Greenfield Ridge University, 2012",
+      "score": 0.9817,
+      "box": [
+        114,
+        472,
+        726,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in student-centered learning",
+      "score": 0.9795,
+      "box": [
+        133,
+        497,
+        626,
+        523
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational skill building",
+      "score": 0.9666,
+      "box": [
+        134,
+        524,
+        614,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "MACI KOCH\nAZ, USA|+1-551-208-9599|maci.koch@example.com\nWORK HISTORY\nElementary Middle School Teachers, Golden Field Academy, 2019.07–2022.05\n- Organized classroom learning resources\n- Implemented lesson pacing guidelines\nEDUCATION\nMaster's, Education Preparation, Larkspur University, 2014\nBachelor's, Child Development, Greenfield Ridge University, 2012\n• Completed coursework in student-centered learning\n• Completed coursework in educational skill building"
+}

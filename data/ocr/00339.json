@@ -1,0 +1,148 @@
+{
+  "id": "00339",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.868,
+  "n_lines": 10,
+  "mean_score": 0.9808,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MARINA LARSON",
+      "score": 0.9814,
+      "box": [
+        116,
+        90,
+        402,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-228-721-3463 |marina.larson@example.com",
+      "score": 0.9819,
+      "box": [
+        116,
+        152,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9809,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Litle Path School, 2021.03–2023.01",
+      "score": 0.9698,
+      "box": [
+        116,
+        289,
+        798,
+        312
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.9632,
+      "box": [
+        126,
+        315,
+        444,
+        338
+      ]
+    },
+    {
+      "text": "- Prepared daily lesson plans aligned with curriculum guidelines",
+      "score": 0.9816,
+      "box": [
+        126,
+        339,
+        716,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Support, Brookside University, 2023",
+      "score": 0.9777,
+      "box": [
+        115,
+        449,
+        673,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of educational planning",
+      "score": 0.9852,
+      "box": [
+        132,
+        472,
+        533,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic curriculum planning",
+      "score": 0.9876,
+      "box": [
+        133,
+        497,
+        625,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "MARINA LARSON\nAL, USA|+1-228-721-3463 |marina.larson@example.com\nWORK HISTORY\nElementary Middle School Teachers, Litle Path School, 2021.03–2023.01\n- Scheduled instructional activities\n- Prepared daily lesson plans aligned with curriculum guidelines\nEDUCATION\nBachelor's, Educational Support, Brookside University, 2023\n• Studied principles of educational planning\n• Completed coursework in basic curriculum planning"
+}

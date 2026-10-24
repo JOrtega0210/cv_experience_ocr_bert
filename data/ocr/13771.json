@@ -1,0 +1,265 @@
+{
+  "id": "13771",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.994,
+  "n_lines": 19,
+  "mean_score": 0.9778,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DAVID ELLIS",
+      "score": 0.9769,
+      "box": [
+        115,
+        88,
+        328,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA|+1-351-885-9452|david.ellis@example.com",
+      "score": 0.9689,
+      "box": [
+        115,
+        150,
+        628,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9877,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueBuild Services, 2019.05–2023.01",
+      "score": 0.9798,
+      "box": [
+        114,
+        288,
+        682,
+        313
+      ]
+    },
+    {
+      "text": "- Managed workforce allocation",
+      "score": 0.9834,
+      "box": [
+        127,
+        316,
+        420,
+        336
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.9894,
+      "box": [
+        126,
+        339,
+        444,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorFrame Construction, 2015.09–2019.05",
+      "score": 0.9837,
+      "box": [
+        115,
+        381,
+        758,
+        405
+      ]
+    },
+    {
+      "text": "- Managed large-scale installations",
+      "score": 0.9448,
+      "box": [
+        126,
+        407,
+        452,
+        430
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9861,
+      "box": [
+        126,
+        432,
+        466,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Works, 2012.01–2015.09",
+      "score": 0.9824,
+      "box": [
+        115,
+        472,
+        649,
+        495
+      ]
+    },
+    {
+      "text": "- Performed masonry work",
+      "score": 0.9609,
+      "box": [
+        124,
+        496,
+        377,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared structural joints",
+      "score": 0.9581,
+      "box": [
+        126,
+        522,
+        375,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronStone Contractors, 2008.04–2012.01",
+      "score": 0.9798,
+      "box": [
+        114,
+        563,
+        711,
+        588
+      ]
+    },
+    {
+      "text": "- Monitored material usage",
+      "score": 0.97,
+      "box": [
+        124,
+        588,
+        379,
+        614
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9906,
+      "box": [
+        126,
+        613,
+        491,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Welding Technology, Maplewood University, 2006",
+      "score": 0.97,
+      "box": [
+        114,
+        723,
+        689,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of structural bracing",
+      "score": 0.9814,
+      "box": [
+        131,
+        747,
+        502,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of insulation techniques",
+      "score": 0.9854,
+      "box": [
+        132,
+        772,
+        537,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "DAVID ELLIS\nFL, USA|+1-351-885-9452|david.ellis@example.com\nWORK HISTORY\nConstruction Laborers, TrueBuild Services, 2019.05–2023.01\n- Managed workforce allocation\n- Reviewed site inspection reports\nConstruction Laborers, AnchorFrame Construction, 2015.09–2019.05\n- Managed large-scale installations\n- Directed site optimization initiatives\nConstruction Laborers, Reliable Works, 2012.01–2015.09\n- Performed masonry work\n- Prepared structural joints\nConstruction Laborers, IronStone Contractors, 2008.04–2012.01\n- Monitored material usage\n- Performed basic sanding and painting\nEDUCATION\nBachelor's, Welding Technology, Maplewood University, 2006\n• Studied principles of structural bracing\n• Studied principles of insulation techniques"
+}

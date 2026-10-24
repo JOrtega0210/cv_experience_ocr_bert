@@ -1,0 +1,252 @@
+{
+  "id": "03322",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.974,
+  "n_lines": 18,
+  "mean_score": 0.9793,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "PHILIPBECK",
+      "score": 0.9969,
+      "box": [
+        114,
+        88,
+        331,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-211-561-1684 |philip.beck@example.com",
+      "score": 0.9786,
+      "box": [
+        116,
+        150,
+        640,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9869,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corecrest Software, 2020.10–2023.01",
+      "score": 0.9949,
+      "box": [
+        116,
+        290,
+        673,
+        313
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9759,
+      "box": [
+        125,
+        313,
+        451,
+        339
+      ]
+    },
+    {
+      "text": "- Defined code review processes",
+      "score": 0.9831,
+      "box": [
+        126,
+        339,
+        433,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Software, 2017.10–2020.02",
+      "score": 0.9851,
+      "box": [
+        115,
+        381,
+        656,
+        406
+      ]
+    },
+    {
+      "text": "- Improved APl performance",
+      "score": 0.9766,
+      "box": [
+        126,
+        406,
+        392,
+        431
+      ]
+    },
+    {
+      "text": "- Designed integration tests",
+      "score": 0.9862,
+      "box": [
+        126,
+        430,
+        384,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Labs, 2014.08–2016.12",
+      "score": 0.9871,
+      "box": [
+        115,
+        472,
+        613,
+        495
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.95,
+      "box": [
+        126,
+        498,
+        604,
+        521
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9733,
+      "box": [
+        126,
+        521,
+        346,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Doctorate, Briar Ridge University, 2010",
+      "score": 0.9579,
+      "box": [
+        115,
+        632,
+        480,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Crestline University, 2005",
+      "score": 0.9561,
+      "box": [
+        115,
+        657,
+        464,
+        680
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of hash tables",
+      "score": 0.979,
+      "box": [
+        133,
+        682,
+        486,
+        705
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of API development",
+      "score": 0.9836,
+      "box": [
+        131,
+        706,
+        539,
+        731
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of user interface development",
+      "score": 0.9781,
+      "box": [
+        133,
+        732,
+        631,
+        755
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "text": "PHILIPBECK\nCA, USA|+1-211-561-1684 |philip.beck@example.com\nWORK HISTORY\nSoftware Developers, Corecrest Software, 2020.10–2023.01\n- Defined data governance policies\n- Defined code review processes\nSoftware Developers, Netfield Software, 2017.10–2020.02\n- Improved APl performance\n- Designed integration tests\nSoftware Developers, Netline Labs, 2014.08–2016.12\n- Implemented basic features in existing codebases\n- Created test data sets\nEDUCATION\nDoctorate, Briar Ridge University, 2010\nBachelor's, Crestline University, 2005\n• Studied fundamentals of hash tables\n• Studied fundamentals of API development\n• Studied fundamentals of user interface development"
+}

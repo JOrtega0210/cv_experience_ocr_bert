@@ -1,0 +1,187 @@
+{
+  "id": "51779",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.816,
+  "n_lines": 13,
+  "mean_score": 0.9846,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LUKE CLINE",
+      "score": 0.9576,
+      "box": [
+        114,
+        88,
+        320,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA|+1-839-967-3959|luke.cline@example.com",
+      "score": 0.9827,
+      "box": [
+        115,
+        150,
+        625,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Co., 2021.05–2023.01",
+      "score": 0.9886,
+      "box": [
+        115,
+        290,
+        646,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed and approved project plans",
+      "score": 0.9827,
+      "box": [
+        126,
+        315,
+        491,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented quality control systems",
+      "score": 0.9879,
+      "box": [
+        126,
+        339,
+        480,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongEdge Builders, 2018.08–2020.05",
+      "score": 0.9869,
+      "box": [
+        115,
+        381,
+        699,
+        406
+      ]
+    },
+    {
+      "text": "- Performed basic carpentry tasks",
+      "score": 0.9902,
+      "box": [
+        125,
+        406,
+        443,
+        431
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.9855,
+      "box": [
+        126,
+        431,
+        556,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Building Trades, Rosewood University, 2005",
+      "score": 0.9805,
+      "box": [
+        115,
+        539,
+        715,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction safety",
+      "score": 0.9784,
+      "box": [
+        132,
+        565,
+        553,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic site surveying",
+      "score": 0.9971,
+      "box": [
+        134,
+        590,
+        571,
+        616
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "LUKE CLINE\nTX, USA|+1-839-967-3959|luke.cline@example.com\nWORK HISTORY\nConstruction Laborers, PrimeBuild Co., 2021.05–2023.01\n- Reviewed and approved project plans\n- Implemented quality control systems\nConstruction Laborers, StrongEdge Builders, 2018.08–2020.05\n- Performed basic carpentry tasks\n- Stacked and organized construction supplies\nEDUCATION\nAssociate's degree, Building Trades, Rosewood University, 2005\n• Studied fundamentals of construction safety\n• Completed coursework in basic site surveying"
+}

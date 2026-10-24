@@ -1,0 +1,265 @@
+{
+  "id": "49743",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.936,
+  "n_lines": 19,
+  "mean_score": 0.9807,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOHN NEWTON",
+      "score": 0.9621,
+      "box": [
+        116,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-779-801-4016 |john.newton@example.com",
+      "score": 0.9688,
+      "box": [
+        115,
+        150,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Line Co., 2019.11–2023.01",
+      "score": 0.9869,
+      "box": [
+        115,
+        290,
+        666,
+        313
+      ]
+    },
+    {
+      "text": "- Developed structural reinforcement plans",
+      "score": 0.9921,
+      "box": [
+        126,
+        315,
+        522,
+        338
+      ]
+    },
+    {
+      "text": "- Developed construction workflows",
+      "score": 0.9761,
+      "box": [
+        127,
+        340,
+        458,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidPoint Construction, 2016.09–2019.11",
+      "score": 0.9871,
+      "box": [
+        115,
+        381,
+        725,
+        405
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.9862,
+      "box": [
+        125,
+        405,
+        488,
+        430
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9854,
+      "box": [
+        126,
+        430,
+        372,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureBuild Services, 2013.06–2016.09",
+      "score": 0.976,
+      "box": [
+        115,
+        472,
+        685,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed construction drawings",
+      "score": 0.957,
+      "box": [
+        125,
+        496,
+        442,
+        521
+      ]
+    },
+    {
+      "text": "- Supervised demolition tasks",
+      "score": 0.9821,
+      "box": [
+        127,
+        522,
+        402,
+        545
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Services, 2010.03–2013.06",
+      "score": 0.9834,
+      "box": [
+        114,
+        563,
+        696,
+        588
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9771,
+      "box": [
+        126,
+        590,
+        435,
+        613
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9912,
+      "box": [
+        126,
+        613,
+        417,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Inspection, Crestline University, 2008",
+      "score": 0.9764,
+      "box": [
+        114,
+        723,
+        772,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction logistics planning",
+      "score": 0.9672,
+      "box": [
+        132,
+        748,
+        666,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction ergonomics",
+      "score": 0.9927,
+      "box": [
+        135,
+        774,
+        616,
+        797
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "JOHN NEWTON\nTX, USA|+1-779-801-4016 |john.newton@example.com\nWORK HISTORY\nConstruction Laborers, Reliable Line Co., 2019.11–2023.01\n- Developed structural reinforcement plans\n- Developed construction workflows\nConstruction Laborers, SolidPoint Construction, 2016.09–2019.11\n- Established construction benchmarks\n- Led operational planning\nConstruction Laborers, SureBuild Services, 2013.06–2016.09\n- Reviewed construction drawings\n- Supervised demolition tasks\nConstruction Laborers, PrimeBuild Services, 2010.03–2013.06\n- Installed temporary site barriers\n- Assisted with framing support\nEDUCATION\nAssociate's degree, Construction Inspection, Crestline University, 2008\n• Completed coursework in construction logistics planning\n• Completed coursework in construction ergonomics"
+}

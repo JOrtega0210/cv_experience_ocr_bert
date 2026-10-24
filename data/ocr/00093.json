@@ -1,0 +1,187 @@
+{
+  "id": "00093",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.929,
+  "n_lines": 13,
+  "mean_score": 0.9816,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "MEGAN DURHAM",
+      "score": 0.9849,
+      "box": [
+        117,
+        90,
+        401,
+        120
+      ]
+    },
+    {
+      "text": "AL, USA|+1-535-463-9558 |megan.durham@example.com",
+      "score": 0.9829,
+      "box": [
+        116,
+        152,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellBridge Health Group, 2021.02–2023.01",
+      "score": 0.9562,
+      "box": [
+        115,
+        289,
+        704,
+        314
+      ]
+    },
+    {
+      "text": "- Led nursing audit programs",
+      "score": 0.9879,
+      "box": [
+        126,
+        314,
+        397,
+        339
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.9861,
+      "box": [
+        126,
+        339,
+        426,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Health, 2017.02–2019.01",
+      "score": 0.9935,
+      "box": [
+        116,
+        382,
+        662,
+        405
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.9797,
+      "box": [
+        125,
+        406,
+        527,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with surgical prep",
+      "score": 0.9576,
+      "box": [
+        125,
+        427,
+        391,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Practical Nursing, Evergreen University, 2002",
+      "score": 0.9689,
+      "box": [
+        114,
+        539,
+        647,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in rehabilitation nursing",
+      "score": 0.9882,
+      "box": [
+        133,
+        565,
+        582,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in oncology nursing basics",
+      "score": 0.9908,
+      "box": [
+        133,
+        590,
+        612,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "MEGAN DURHAM\nAL, USA|+1-535-463-9558 |megan.durham@example.com\nWORK HISTORY\nRegistered Nurses, WellBridge Health Group, 2021.02–2023.01\n- Led nursing audit programs\n- Managed clinical data analysis\nRegistered Nurses, GentleHands Health, 2017.02–2019.01\n- Administered injections under supervision\n- Assisted with surgical prep\nEDUCATION\nBachelor's, Practical Nursing, Evergreen University, 2002\n• Completed coursework in rehabilitation nursing\n• Completed coursework in oncology nursing basics"
+}

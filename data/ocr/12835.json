@@ -1,0 +1,213 @@
+{
+  "id": "12835",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.978,
+  "n_lines": 15,
+  "mean_score": 0.9833,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "PABLOGALLAGHER",
+      "score": 0.9991,
+      "box": [
+        115,
+        90,
+        454,
+        120
+      ]
+    },
+    {
+      "text": "FL, USA|+1-446-990-3795 |pablo.gallagher@example.com",
+      "score": 0.9862,
+      "box": [
+        116,
+        152,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronTrack Contractors, 2020.10–2023.01",
+      "score": 0.972,
+      "box": [
+        115,
+        290,
+        708,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed and approved project plans",
+      "score": 0.9828,
+      "box": [
+        125,
+        314,
+        491,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented workflow optimization",
+      "score": 0.9866,
+      "box": [
+        126,
+        339,
+        467,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Build Group, 2018.01–2020.04",
+      "score": 0.9903,
+      "box": [
+        116,
+        382,
+        690,
+        406
+      ]
+    },
+    {
+      "text": "- Maintained equipment logs",
+      "score": 0.9753,
+      "box": [
+        125,
+        405,
+        392,
+        432
+      ]
+    },
+    {
+      "text": "- Set up scaffolding systems",
+      "score": 0.9699,
+      "box": [
+        126,
+        430,
+        391,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildCraft Co., 2015.03–2017.07",
+      "score": 0.9848,
+      "box": [
+        115,
+        472,
+        638,
+        495
+      ]
+    },
+    {
+      "text": "- Moved equipment between work zones",
+      "score": 0.9727,
+      "box": [
+        125,
+        496,
+        504,
+        521
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9835,
+      "box": [
+        126,
+        521,
+        439,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Equipment Technology, Northfield High School, 2007",
+      "score": 0.9881,
+      "box": [
+        116,
+        632,
+        991,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site documentation",
+      "score": 0.9724,
+      "box": [
+        133,
+        657,
+        588,
+        680
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "PABLOGALLAGHER\nFL, USA|+1-446-990-3795 |pablo.gallagher@example.com\nWORK HISTORY\nConstruction Laborers, IronTrack Contractors, 2020.10–2023.01\n- Reviewed and approved project plans\n- Implemented workflow optimization\nConstruction Laborers, Unified Build Group, 2018.01–2020.04\n- Maintained equipment logs\n- Set up scaffolding systems\nConstruction Laborers, BuildCraft Co., 2015.03–2017.07\n- Moved equipment between work zones\n- Helped position heavy materials\nEDUCATION\nHigh school graduate/GED, Construction Equipment Technology, Northfield High School, 2007\n• Studied fundamentals of job site documentation"
+}

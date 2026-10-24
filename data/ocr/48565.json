@@ -1,0 +1,148 @@
+{
+  "id": "48565",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.746,
+  "n_lines": 10,
+  "mean_score": 0.9843,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ALLEN WALTER",
+      "score": 0.9616,
+      "box": [
+        117,
+        90,
+        381,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-768-891-3976|allen.walter@example.com",
+      "score": 0.9861,
+      "box": [
+        115,
+        150,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9819,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Care Group, 2019.09–2022.04",
+      "score": 0.9893,
+      "box": [
+        116,
+        290,
+        675,
+        313
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9801,
+      "box": [
+        126,
+        313,
+        417,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with specimen labeling",
+      "score": 0.9945,
+      "box": [
+        126,
+        339,
+        437,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Biological Sciences, Riverhaven University, 2004",
+      "score": 0.9779,
+      "box": [
+        114,
+        447,
+        678,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of diet therapy basics",
+      "score": 0.9875,
+      "box": [
+        132,
+        472,
+        554,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in maternal health nursing",
+      "score": 0.9853,
+      "box": [
+        134,
+        499,
+        607,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ALLEN WALTER\nTN, USA|+1-768-891-3976|allen.walter@example.com\nWORK HISTORY\nRegistered Nurses, Harmony Care Group, 2019.09–2022.04\n- Checked medication dosages\n- Assisted with specimen labeling\nEDUCATION\nBachelor's, Biological Sciences, Riverhaven University, 2004\n• Studied fundamentals of diet therapy basics\n• Completed coursework in maternal health nursing"
+}

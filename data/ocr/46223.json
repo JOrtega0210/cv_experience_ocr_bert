@@ -1,0 +1,187 @@
+{
+  "id": "46223",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.828,
+  "n_lines": 13,
+  "mean_score": 0.9827,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "WILLIAM KRAMER",
+      "score": 0.9835,
+      "box": [
+        116,
+        90,
+        417,
+        120
+      ]
+    },
+    {
+      "text": "PA, USA|+1-303-429-8250 |william.kramer@example.com",
+      "score": 0.9688,
+      "box": [
+        115,
+        150,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Services, 2019.09–2021.10",
+      "score": 0.979,
+      "box": [
+        115,
+        289,
+        697,
+        312
+      ]
+    },
+    {
+      "text": "- Directed construction audits",
+      "score": 0.9795,
+      "box": [
+        126,
+        314,
+        400,
+        336
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.9966,
+      "box": [
+        126,
+        339,
+        435,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextFrame Construction, 2016.10–2018.11",
+      "score": 0.981,
+      "box": [
+        114,
+        381,
+        733,
+        405
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9873,
+      "box": [
+        125,
+        406,
+        540,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with drywall installation",
+      "score": 0.97,
+      "box": [
+        126,
+        431,
+        440,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        266,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Quality Control, Meadowridge Valley University, 2013",
+      "score": 0.9747,
+      "box": [
+        116,
+        541,
+        984,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in concrete curing methods",
+      "score": 0.9811,
+      "box": [
+        133,
+        566,
+        618,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of scaffolding assembly",
+      "score": 0.9901,
+      "box": [
+        132,
+        590,
+        573,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "WILLIAM KRAMER\nPA, USA|+1-303-429-8250 |william.kramer@example.com\nWORK HISTORY\nConstruction Laborers, Allied Build Services, 2019.09–2021.10\n- Directed construction audits\n- Supervised high-risk operations\nConstruction Laborers, NextFrame Construction, 2016.10–2018.11\n- Carried materials to designated work areas\n- Assisted with drywall installation\nEDUCATION\nSome college (no degree), Construction Quality Control, Meadowridge Valley University, 2013\n• Completed coursework in concrete curing methods\n• Studied fundamentals of scaffolding assembly"
+}

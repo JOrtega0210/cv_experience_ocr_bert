@@ -1,0 +1,161 @@
+{
+  "id": "56190",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.821,
+  "n_lines": 11,
+  "mean_score": 0.9788,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "HANNAH HICKMAN",
+      "score": 0.9733,
+      "box": [
+        116,
+        90,
+        430,
+        120
+      ]
+    },
+    {
+      "text": "VA, USA|+1-723-869-7519 |hannah.hickman@example.com",
+      "score": 0.9859,
+      "box": [
+        115,
+        150,
+        693,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9743,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Meadow Academy, 2021.08–2023.0",
+      "score": 0.9834,
+      "box": [
+        116,
+        289,
+        883,
+        312
+      ]
+    },
+    {
+      "text": "- Implemented basic literacy lessons",
+      "score": 0.9528,
+      "box": [
+        126,
+        314,
+        466,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared daily instructional agendas",
+      "score": 0.9865,
+      "box": [
+        126,
+        339,
+        480,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, General Learning Studies, Stonehaven University, 2022",
+      "score": 0.9711,
+      "box": [
+        115,
+        449,
+        722,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, General Academic Studies, Fairview Ridge University, 2020",
+      "score": 0.9706,
+      "box": [
+        114,
+        472,
+        778,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic skill development",
+      "score": 0.9894,
+      "box": [
+        134,
+        499,
+        645,
+        522
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of learning reinforcement",
+      "score": 0.9812,
+      "box": [
+        133,
+        522,
+        588,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "HANNAH HICKMAN\nVA, USA|+1-723-869-7519 |hannah.hickman@example.com\nWORK HISTORY\nElementary Middle School Teachers, Learning Meadow Academy, 2021.08–2023.0\n- Implemented basic literacy lessons\n- Prepared daily instructional agendas\nEDUCATION\nMaster's, General Learning Studies, Stonehaven University, 2022\nBachelor's, General Academic Studies, Fairview Ridge University, 2020\n• Completed coursework in academic skill development\n• Studied fundamentals of learning reinforcement"
+}

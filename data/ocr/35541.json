@@ -1,0 +1,161 @@
+{
+  "id": "35541",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.779,
+  "n_lines": 11,
+  "mean_score": 0.9863,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JORDAN FLETCHER",
+      "score": 0.9877,
+      "box": [
+        116,
+        90,
+        445,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-219-787-5372 |jordan.fletcher@example.com",
+      "score": 0.9887,
+      "box": [
+        115,
+        150,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Services, 2021.06–2023.01",
+      "score": 0.9829,
+      "box": [
+        114,
+        289,
+        737,
+        313
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9787,
+      "box": [
+        126,
+        313,
+        413,
+        339
+      ]
+    },
+    {
+      "text": "- Verified transaction accuracy",
+      "score": 0.9848,
+      "box": [
+        126,
+        338,
+        411,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Business Operations, Ridgeway University, 2023",
+      "score": 0.9811,
+      "box": [
+        115,
+        449,
+        658,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Accounting, Pinefield University, 2022",
+      "score": 0.9849,
+      "box": [
+        115,
+        474,
+        665,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of depreciation methods",
+      "score": 0.9921,
+      "box": [
+        134,
+        499,
+        579,
+        522
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of internal controls",
+      "score": 0.9885,
+      "box": [
+        135,
+        525,
+        526,
+        545
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "JORDAN FLETCHER\nNY, USA|+1-219-787-5372 |jordan.fletcher@example.com\nWORK HISTORY\nAccountants Auditors, Accurate Ledger Services, 2021.06–2023.01\n- Tracked budget expenditures\n- Verified transaction accuracy\nEDUCATION\nMaster's, Business Operations, Ridgeway University, 2023\nBachelor's, Financial Accounting, Pinefield University, 2022\n• Studied fundamentals of depreciation methods\n• Studied fundamentals of internal controls"
+}

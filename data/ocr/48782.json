@@ -1,0 +1,187 @@
+{
+  "id": "48782",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.808,
+  "n_lines": 13,
+  "mean_score": 0.9838,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "VANESSA GRAVES",
+      "score": 0.9742,
+      "box": [
+        115,
+        90,
+        430,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-220-475-6156 |vanessa.graves@example.com",
+      "score": 0.9876,
+      "box": [
+        115,
+        150,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9787,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHope Care Center, 2021.01–2023.01",
+      "score": 0.9901,
+      "box": [
+        116,
+        290,
+        685,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.981,
+      "box": [
+        126,
+        314,
+        517,
+        339
+      ]
+    },
+    {
+      "text": "- Managed nursing unit operations",
+      "score": 0.9718,
+      "box": [
+        126,
+        339,
+        447,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Spring Nursing, 2017.06–2019.06",
+      "score": 0.9828,
+      "box": [
+        115,
+        381,
+        681,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.9934,
+      "box": [
+        125,
+        406,
+        473,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with diagnostic procedures",
+      "score": 0.9849,
+      "box": [
+        126,
+        430,
+        474,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Nursing, Crestwood University, 2009",
+      "score": 0.9849,
+      "box": [
+        115,
+        541,
+        637,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of surgical nursing",
+      "score": 0.9662,
+      "box": [
+        132,
+        565,
+        524,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in immunization practices",
+      "score": 0.9959,
+      "box": [
+        134,
+        590,
+        602,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "VANESSA GRAVES\nTN, USA|+1-220-475-6156 |vanessa.graves@example.com\nWORK HISTORY\nRegistered Nurses, NewHope Care Center, 2021.01–2023.01\n- Implemented patient monitoring systems\n- Managed nursing unit operations\nRegistered Nurses, Caring Spring Nursing, 2017.06–2019.06\n- Assisted with respiratory treatments\n- Assisted with diagnostic procedures\nEDUCATION\nBachelor's, Clinical Nursing, Crestwood University, 2009\n• Studied fundamentals of surgical nursing\n• Completed coursework in immunization practices"
+}

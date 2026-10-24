@@ -1,0 +1,200 @@
+{
+  "id": "47272",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.841,
+  "n_lines": 14,
+  "mean_score": 0.9821,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JANNA MATHEWS",
+      "score": 0.966,
+      "box": [
+        116,
+        90,
+        415,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-859-968-2639 |janna.mathews@example.com",
+      "score": 0.9695,
+      "box": [
+        116,
+        151,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Evergreen Academy, 2020.12–2023.01",
+      "score": 0.9874,
+      "box": [
+        115,
+        289,
+        824,
+        312
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.9906,
+      "box": [
+        126,
+        315,
+        476,
+        338
+      ]
+    },
+    {
+      "text": "- Led curriculum integration projects",
+      "score": 0.9821,
+      "box": [
+        126,
+        339,
+        461,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Garden Academy, 2018.10–2020.12",
+      "score": 0.978,
+      "box": [
+        115,
+        381,
+        887,
+        406
+      ]
+    },
+    {
+      "text": "- Recorded student progress data",
+      "score": 0.9803,
+      "box": [
+        125,
+        406,
+        442,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9869,
+      "box": [
+        126,
+        431,
+        460,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Introductory Education, Westbrook University, 2018",
+      "score": 0.9791,
+      "box": [
+        115,
+        541,
+        683,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Assistance, Westbrook University, 2016",
+      "score": 0.9861,
+      "box": [
+        114,
+        564,
+        709,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom collaboration",
+      "score": 0.9812,
+      "box": [
+        135,
+        591,
+        609,
+        614
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of language arts education",
+      "score": 0.9799,
+      "box": [
+        133,
+        614,
+        602,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "JANNA MATHEWS\nSC, USA|+1-859-968-2639 |janna.mathews@example.com\nWORK HISTORY\nElementary Middle School Teachers, Evergreen Academy, 2020.12–2023.01\n- Developed teacher training modules\n- Led curriculum integration projects\nElementary Middle School Teachers, Learning Garden Academy, 2018.10–2020.12\n- Recorded student progress data\n- Assisted with science experiments\nEDUCATION\nMaster's, Introductory Education, Westbrook University, 2018\nBachelor's, Educational Assistance, Westbrook University, 2016\n• Completed coursework in classroom collaboration\n• Studied fundamentals of language arts education"
+}

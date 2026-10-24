@@ -1,0 +1,148 @@
+{
+  "id": "57149",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.748,
+  "n_lines": 10,
+  "mean_score": 0.9768,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CODY LYNN",
+      "score": 0.9506,
+      "box": [
+        116,
+        90,
+        316,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-204-782-4449|cody.lynn@example.com",
+      "score": 0.9746,
+      "box": [
+        114,
+        150,
+        628,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9805,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Services, 2020.03–2023.01",
+      "score": 0.9823,
+      "box": [
+        115,
+        290,
+        725,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9773,
+      "box": [
+        127,
+        315,
+        366,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9911,
+      "box": [
+        127,
+        340,
+        453,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting and Auditing, Amber Hills University, 2020",
+      "score": 0.9703,
+      "box": [
+        114,
+        448,
+        724,
+        473
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit planning techniques",
+      "score": 0.9535,
+      "box": [
+        132,
+        473,
+        625,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in spreadsheet applications",
+      "score": 0.9891,
+      "box": [
+        134,
+        499,
+        620,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "CODY LYNN\nVA, USA|+1-204-782-4449|cody.lynn@example.com\nWORK HISTORY\nAccountants Auditors, Precise Ledger Services, 2020.03–2023.01\n- Prepared journal entries\n- Reviewed expense classifications\nEDUCATION\nBachelor's, Accounting and Auditing, Amber Hills University, 2020\n• Completed coursework in audit planning techniques\n• Completed coursework in spreadsheet applications"
+}

@@ -1,0 +1,239 @@
+{
+  "id": "28057",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.831,
+  "n_lines": 17,
+  "mean_score": 0.9806,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAIME RAMOS",
+      "score": 0.9957,
+      "box": [
+        116,
+        90,
+        353,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-535-435-3655 |jaime.ramos@example.com",
+      "score": 0.982,
+      "box": [
+        115,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Labs, 2020.12–2023.01",
+      "score": 0.9798,
+      "box": [
+        114,
+        289,
+        619,
+        314
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9863,
+      "box": [
+        126,
+        314,
+        447,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.9741,
+      "box": [
+        127,
+        340,
+        499,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Skywave Tech, 2016.04–2018.06",
+      "score": 0.9906,
+      "box": [
+        115,
+        381,
+        633,
+        406
+      ]
+    },
+    {
+      "text": "- Integrated analytics services",
+      "score": 0.9879,
+      "box": [
+        126,
+        406,
+        407,
+        431
+      ]
+    },
+    {
+      "text": "- Designed Ul workflows",
+      "score": 0.9542,
+      "box": [
+        125,
+        432,
+        354,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Skyline Digital, 2013.08–2015.10",
+      "score": 0.9669,
+      "box": [
+        115,
+        471,
+        627,
+        496
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9607,
+      "box": [
+        124,
+        496,
+        448,
+        521
+      ]
+    },
+    {
+      "text": "- Refactored simple functions for readability",
+      "score": 0.9854,
+      "box": [
+        126,
+        521,
+        530,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Master's, Greenfield Ridge University, 2007",
+      "score": 0.992,
+      "box": [
+        115,
+        632,
+        520,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Cedar Ridge University, 2005",
+      "score": 0.9849,
+      "box": [
+        114,
+        656,
+        499,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of big data systems",
+      "score": 0.9685,
+      "box": [
+        132,
+        681,
+        498,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in virtual reality basics",
+      "score": 0.9764,
+      "box": [
+        132,
+        706,
+        571,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "JAIME RAMOS\nMI, USA|+1-535-435-3655 |jaime.ramos@example.com\nWORK HISTORY\nSoftware Developers, Softgrid Labs, 2020.12–2023.01\n- Designed caching infrastructures\n- Implemented infrastructure automation\nSoftware Developers, Skywave Tech, 2016.04–2018.06\n- Integrated analytics services\n- Designed Ul workflows\nSoftware Developers, Skyline Digital, 2013.08–2015.10\n- Performed basic APl integrations\n- Refactored simple functions for readability\nEDUCATION\nMaster's, Greenfield Ridge University, 2007\nBachelor's, Cedar Ridge University, 2005\n• Studied principles of big data systems\n• Completed coursework in virtual reality basics"
+}

@@ -1,0 +1,239 @@
+{
+  "id": "32695",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.879,
+  "n_lines": 17,
+  "mean_score": 0.9808,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAMAL CURRY",
+      "score": 0.9659,
+      "box": [
+        114,
+        87,
+        363,
+        123
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-682-257-4154 |jamal.curry@example.com",
+      "score": 0.9806,
+      "box": [
+        116,
+        151,
+        640,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Co., 2019.12–2023.01",
+      "score": 0.9719,
+      "box": [
+        114,
+        289,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9822,
+      "box": [
+        126,
+        315,
+        512,
+        338
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.983,
+      "box": [
+        127,
+        340,
+        436,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Accounting, 2016.11–2019.12",
+      "score": 0.9789,
+      "box": [
+        114,
+        381,
+        703,
+        406
+      ]
+    },
+    {
+      "text": "- Developed internal audit programs",
+      "score": 0.9683,
+      "box": [
+        125,
+        406,
+        462,
+        432
+      ]
+    },
+    {
+      "text": "- Conducted compliance reviews",
+      "score": 0.9965,
+      "box": [
+        126,
+        431,
+        432,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Financial Group, 2013.09–2016.11",
+      "score": 0.9896,
+      "box": [
+        114,
+        471,
+        764,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.9794,
+      "box": [
+        125,
+        496,
+        410,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with internal control testing",
+      "score": 0.9546,
+      "box": [
+        126,
+        521,
+        473,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Business Management, Willowfield University, 2016",
+      "score": 0.9761,
+      "box": [
+        115,
+        632,
+        685,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting Information Systems, Plainview University, 2014",
+      "score": 0.9689,
+      "box": [
+        114,
+        656,
+        781,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in contribution margin analysis",
+      "score": 0.9978,
+      "box": [
+        134,
+        683,
+        648,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in business mathematics",
+      "score": 0.9951,
+      "box": [
+        134,
+        707,
+        596,
+        730
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "JAMAL CURRY\nNJ, USA|+1-682-257-4154 |jamal.curry@example.com\nWORK HISTORY\nAccountants Auditors, Integrity Count Co., 2019.12–2023.01\n- Designed financial control environments\n- Developed financial risk models\nAccountants Auditors, OpenPath Accounting, 2016.11–2019.12\n- Developed internal audit programs\n- Conducted compliance reviews\nAccountants Auditors, FairBalance Financial Group, 2013.09–2016.11\n- Prepared audit confirmations\n- Assisted with internal control testing\nEDUCATION\nMaster's, Business Management, Willowfield University, 2016\nBachelor's, Accounting Information Systems, Plainview University, 2014\n• Completed coursework in contribution margin analysis\n• Completed coursework in business mathematics"
+}

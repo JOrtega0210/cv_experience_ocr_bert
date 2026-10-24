@@ -1,0 +1,278 @@
+{
+  "id": "17612",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.041,
+  "n_lines": 20,
+  "mean_score": 0.9821,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TRACY STEVENS",
+      "score": 0.9742,
+      "box": [
+        115,
+        90,
+        399,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-819-281-6155 |tracy.stevens@example.com",
+      "score": 0.9845,
+      "box": [
+        116,
+        152,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9868,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Financial Group, 2019.08–2023.01",
+      "score": 0.9879,
+      "box": [
+        115,
+        290,
+        806,
+        312
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9808,
+      "box": [
+        126,
+        313,
+        514,
+        339
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9688,
+      "box": [
+        126,
+        339,
+        323,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Financial, 2016.03–2019.08",
+      "score": 0.9662,
+      "box": [
+        114,
+        381,
+        684,
+        405
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9739,
+      "box": [
+        126,
+        406,
+        524,
+        432
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9939,
+      "box": [
+        126,
+        430,
+        494,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Financial, 2012.10–2016.03",
+      "score": 0.9888,
+      "box": [
+        114,
+        471,
+        692,
+        496
+      ]
+    },
+    {
+      "text": "- Supervised junior accountants",
+      "score": 0.9924,
+      "box": [
+        126,
+        498,
+        421,
+        521
+      ]
+    },
+    {
+      "text": "- Conducted variance investigations",
+      "score": 0.9806,
+      "box": [
+        126,
+        521,
+        459,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Group, 2009.04–2012.10",
+      "score": 0.9861,
+      "box": [
+        115,
+        565,
+        675,
+        588
+      ]
+    },
+    {
+      "text": "- Reviewed credit memos",
+      "score": 0.9775,
+      "box": [
+        126,
+        589,
+        365,
+        612
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.962,
+      "box": [
+        127,
+        615,
+        409,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Strategic Management, Goldenridge University, 2011",
+      "score": 0.9789,
+      "box": [
+        115,
+        724,
+        695,
+        746
+      ]
+    },
+    {
+      "text": "Bachelor's, Professional Accounting, Skyline University, 2009",
+      "score": 0.9745,
+      "box": [
+        114,
+        747,
+        683,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in spreadsheet applications",
+      "score": 0.9908,
+      "box": [
+        133,
+        774,
+        620,
+        797
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of substantive testing",
+      "score": 0.9937,
+      "box": [
+        133,
+        799,
+        552,
+        823
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "TRACY STEVENS\nIL, USA|+1-819-281-6155 |tracy.stevens@example.com\nWORK HISTORY\nAccountants Auditors, Reliable Balance Financial Group, 2019.08–2023.01\n- Directed accounting operations planning\n- Led audit programs\nAccountants Auditors, FairBooks Financial, 2016.03–2019.08\n- Developed regulatory reporting strategies\n- Established financial data governance\nAccountants Auditors, SolidCount Financial, 2012.10–2016.03\n- Supervised junior accountants\n- Conducted variance investigations\nAccountants Auditors, FairBalance Group, 2009.04–2012.10\n- Reviewed credit memos\n- Prepared audit confirmations\nEDUCATION\nMaster's, Strategic Management, Goldenridge University, 2011\nBachelor's, Professional Accounting, Skyline University, 2009\n• Completed coursework in spreadsheet applications\n• Studied fundamentals of substantive testing"
+}

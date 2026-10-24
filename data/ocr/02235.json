@@ -1,0 +1,187 @@
+{
+  "id": "02235",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.966,
+  "n_lines": 13,
+  "mean_score": 0.9842,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "PATRICCLARKE",
+      "score": 0.9988,
+      "box": [
+        114,
+        88,
+        392,
+        122
+      ]
+    },
+    {
+      "text": "AR, USA|+1-321-813-1199|patric.clarke@example.com",
+      "score": 0.9904,
+      "box": [
+        115,
+        151,
+        654,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9812,
+      "box": [
+        114,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Meadow Academy, 2020.06–2023.01",
+      "score": 0.9923,
+      "box": [
+        115,
+        290,
+        881,
+        313
+      ]
+    },
+    {
+      "text": "- Led strategic curriculum planning",
+      "score": 0.9774,
+      "box": [
+        125,
+        313,
+        449,
+        339
+      ]
+    },
+    {
+      "text": "- Directed content standardization",
+      "score": 0.9672,
+      "box": [
+        126,
+        338,
+        442,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Oak Learning, 2017.11–2020.06",
+      "score": 0.9651,
+      "box": [
+        116,
+        382,
+        812,
+        405
+      ]
+    },
+    {
+      "text": "- Recorded test results",
+      "score": 0.9691,
+      "box": [
+        125,
+        406,
+        339,
+        429
+      ]
+    },
+    {
+      "text": "- Prepared instructional materials and worksheets",
+      "score": 0.988,
+      "box": [
+        125,
+        431,
+        588,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Education, Wildflower University, 2021",
+      "score": 0.984,
+      "box": [
+        115,
+        541,
+        656,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of lesson coherence",
+      "score": 0.9909,
+      "box": [
+        133,
+        566,
+        506,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in developmental psychology basics",
+      "score": 0.9924,
+      "box": [
+        133,
+        590,
+        700,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "PATRICCLARKE\nAR, USA|+1-321-813-1199|patric.clarke@example.com\nWORK HISTORY\nElementary Middle School Teachers, Golden Meadow Academy, 2020.06–2023.01\n- Led strategic curriculum planning\n- Directed content standardization\nElementary Middle School Teachers, Little Oak Learning, 2017.11–2020.06\n- Recorded test results\n- Prepared instructional materials and worksheets\nEDUCATION\nBachelor's, Applied Education, Wildflower University, 2021\n• Studied principles of lesson coherence\n• Completed coursework in developmental psychology basics"
+}

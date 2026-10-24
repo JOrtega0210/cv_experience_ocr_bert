@@ -1,0 +1,148 @@
+{
+  "id": "47907",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.792,
+  "n_lines": 10,
+  "mean_score": 0.9856,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SKYLARWILLIAMS",
+      "score": 0.9991,
+      "box": [
+        116,
+        90,
+        429,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-486-208-7984 |skylar.williams@example.com",
+      "score": 0.9712,
+      "box": [
+        116,
+        151,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9812,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Minds Academy, 2021.03–2023.01",
+      "score": 0.9882,
+      "box": [
+        116,
+        290,
+        875,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9852,
+      "box": [
+        126,
+        315,
+        460,
+        338
+      ]
+    },
+    {
+      "text": "- Administered quizzes and short assessments",
+      "score": 0.9856,
+      "box": [
+        127,
+        340,
+        562,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Elementary Education Preparation, Meadowcrest University, 2021",
+      "score": 0.974,
+      "box": [
+        115,
+        449,
+        832,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of lesson evaluation",
+      "score": 0.9901,
+      "box": [
+        133,
+        473,
+        540,
+        495
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of educational goal setting",
+      "score": 0.9827,
+      "box": [
+        132,
+        497,
+        598,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "SKYLARWILLIAMS\nSC, USA|+1-486-208-7984 |skylar.williams@example.com\nWORK HISTORY\nElementary Middle School Teachers, Harmony Minds Academy, 2021.03–2023.01\n- Assisted with science experiments\n- Administered quizzes and short assessments\nEDUCATION\nBachelor's, Elementary Education Preparation, Meadowcrest University, 2021\n• Studied fundamentals of lesson evaluation\n• Studied fundamentals of educational goal setting"
+}

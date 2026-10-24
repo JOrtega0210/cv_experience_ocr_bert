@@ -1,0 +1,135 @@
+{
+  "id": "48686",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.752,
+  "n_lines": 9,
+  "mean_score": 0.9801,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KRISTOPHER BRADFORD",
+      "score": 0.9827,
+      "box": [
+        116,
+        90,
+        536,
+        120
+      ]
+    },
+    {
+      "text": "TN, USA|+1-920-642-4531 |kristopher.bradford@example.com",
+      "score": 0.9813,
+      "box": [
+        115,
+        150,
+        715,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9748,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Co., 2022.02–2023.01",
+      "score": 0.9757,
+      "box": [
+        115,
+        290,
+        646,
+        313
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9611,
+      "box": [
+        126,
+        315,
+        366,
+        335
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9833,
+      "box": [
+        126,
+        339,
+        491,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Planning, Brightwood High School, 2020",
+      "score": 0.9896,
+      "box": [
+        116,
+        449,
+        873,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural basics",
+      "score": 0.9739,
+      "box": [
+        134,
+        475,
+        540,
+        495
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "KRISTOPHER BRADFORD\nTN, USA|+1-920-642-4531 |kristopher.bradford@example.com\nWORK HISTORY\nConstruction Laborers, PrimeBuild Co., 2022.02–2023.01\n- Installed basic formwork\n- Performed basic sanding and painting\nEDUCATION\nHigh school graduate/GED, Construction Planning, Brightwood High School, 2020\n• Completed coursework in structural basics"
+}

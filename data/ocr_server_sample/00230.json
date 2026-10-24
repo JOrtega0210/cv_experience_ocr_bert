@@ -1,0 +1,161 @@
+{
+  "id": "00230",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.727,
+  "n_lines": 11,
+  "mean_score": 0.9803,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "TESSAWELCH",
+      "score": 0.9978,
+      "box": [
+        113,
+        87,
+        363,
+        123
+      ]
+    },
+    {
+      "text": "AL, USA |+1-823-990-2935 |tessa.welch@example.com",
+      "score": 0.9706,
+      "box": [
+        116,
+        151,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.983,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TruePath Nursing, 2021.03–2023.01",
+      "score": 0.9863,
+      "box": [
+        116,
+        290,
+        637,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.9832,
+      "box": [
+        126,
+        315,
+        420,
+        338
+      ]
+    },
+    {
+      "text": "- Monitored patient intake and output",
+      "score": 0.966,
+      "box": [
+        126,
+        339,
+        470,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Patient Care, High Meadow University, 2021",
+      "score": 0.9606,
+      "box": [
+        115,
+        449,
+        617,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Pediatric Care, Clear Spring University, 2019",
+      "score": 0.9695,
+      "box": [
+        114,
+        472,
+        641,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient advocacy",
+      "score": 0.9693,
+      "box": [
+        133,
+        497,
+        536,
+        523
+      ]
+    },
+    {
+      "text": "• Completed coursework in dosage calculations",
+      "score": 0.9982,
+      "box": [
+        135,
+        524,
+        573,
+        547
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "TESSAWELCH\nAL, USA |+1-823-990-2935 |tessa.welch@example.com\nWORK HISTORY\nRegistered Nurses, TruePath Nursing, 2021.03–2023.01\n- Assisted with patient transfers\n- Monitored patient intake and output\nEDUCATION\nMaster's, Patient Care, High Meadow University, 2021\nBachelor's, Pediatric Care, Clear Spring University, 2019\n• Studied fundamentals of patient advocacy\n• Completed coursework in dosage calculations"
+}

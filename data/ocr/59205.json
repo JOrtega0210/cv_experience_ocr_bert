@@ -1,0 +1,239 @@
+{
+  "id": "59205",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.883,
+  "n_lines": 17,
+  "mean_score": 0.9778,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRITTANY VAUGHN",
+      "score": 0.9818,
+      "box": [
+        117,
+        90,
+        441,
+        120
+      ]
+    },
+    {
+      "text": "WA, USA |+1-501-231-1840 |brittany.vaughn@example.com",
+      "score": 0.9663,
+      "box": [
+        116,
+        152,
+        689,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9814,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Sunrise Health Services, 2020.08–2023.01",
+      "score": 0.9887,
+      "box": [
+        116,
+        290,
+        697,
+        313
+      ]
+    },
+    {
+      "text": "- Managed long-term care strategies",
+      "score": 0.981,
+      "box": [
+        126,
+        314,
+        466,
+        339
+      ]
+    },
+    {
+      "text": "- Managed clinical resource planning",
+      "score": 0.9688,
+      "box": [
+        127,
+        339,
+        468,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Health Group, 2018.02–2020.08",
+      "score": 0.9867,
+      "box": [
+        115,
+        381,
+        721,
+        406
+      ]
+    },
+    {
+      "text": "- Managed geriatric care plans",
+      "score": 0.9895,
+      "box": [
+        126,
+        406,
+        412,
+        431
+      ]
+    },
+    {
+      "text": "- Educated patients on treatment plans",
+      "score": 0.9818,
+      "box": [
+        126,
+        431,
+        488,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindBridge Health Group, 2015.08–2018.02",
+      "score": 0.9909,
+      "box": [
+        116,
+        473,
+        708,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.957,
+      "box": [
+        125,
+        496,
+        435,
+        521
+      ]
+    },
+    {
+      "text": "- Monitored patient recovery",
+      "score": 0.9501,
+      "box": [
+        126,
+        521,
+        390,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Professional degree, Clinical Studies, Stonewood University, 2016",
+      "score": 0.9898,
+      "box": [
+        114,
+        631,
+        729,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Community Health, Brookridge University, 2012",
+      "score": 0.9644,
+      "box": [
+        114,
+        656,
+        665,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of telemetry basics",
+      "score": 0.9814,
+      "box": [
+        133,
+        682,
+        493,
+        705
+      ]
+    },
+    {
+      "text": "• Completed coursework in prioritization in nursing",
+      "score": 0.9645,
+      "box": [
+        132,
+        706,
+        598,
+        731
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "BRITTANY VAUGHN\nWA, USA |+1-501-231-1840 |brittany.vaughn@example.com\nWORK HISTORY\nRegistered Nurses, Sunrise Health Services, 2020.08–2023.01\n- Managed long-term care strategies\n- Managed clinical resource planning\nRegistered Nurses, Compassion Health Group, 2018.02–2020.08\n- Managed geriatric care plans\n- Educated patients on treatment plans\nRegistered Nurses, KindBridge Health Group, 2015.08–2018.02\n- Monitored patient dietary needs\n- Monitored patient recovery\nEDUCATION\nProfessional degree, Clinical Studies, Stonewood University, 2016\nBachelor's, Community Health, Brookridge University, 2012\n• Studied principles of telemetry basics\n• Completed coursework in prioritization in nursing"
+}

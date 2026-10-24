@@ -1,0 +1,278 @@
+{
+  "id": "60452",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.933,
+  "n_lines": 20,
+  "mean_score": 0.9776,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JACELYN HEATH",
+      "score": 0.9622,
+      "box": [
+        116,
+        90,
+        399,
+        120
+      ]
+    },
+    {
+      "text": "WI, USA|+1-669-674-9943|jacelyn.heath@example.com",
+      "score": 0.9828,
+      "box": [
+        115,
+        150,
+        660,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9816,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Path Nursing, 2018.11–2023.01",
+      "score": 0.9916,
+      "box": [
+        115,
+        289,
+        671,
+        314
+      ]
+    },
+    {
+      "text": "- Led nursing audit programs",
+      "score": 0.9898,
+      "box": [
+        126,
+        314,
+        397,
+        339
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9542,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueCare Nursing, 2014.09–2018.11",
+      "score": 0.9822,
+      "box": [
+        116,
+        383,
+        640,
+        406
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.9641,
+      "box": [
+        125,
+        406,
+        455,
+        431
+      ]
+    },
+    {
+      "text": "- Managed patient safety reporting systems",
+      "score": 0.9707,
+      "box": [
+        126,
+        430,
+        529,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightHands Health Services, 2010.07–2014.09",
+      "score": 0.9822,
+      "box": [
+        116,
+        473,
+        743,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed diagnostic imaging results",
+      "score": 0.947,
+      "box": [
+        125,
+        496,
+        479,
+        522
+      ]
+    },
+    {
+      "text": "– Managed pain control plans",
+      "score": 0.9603,
+      "box": [
+        127,
+        523,
+        399,
+        546
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueBridge Nursing Services, 2006.05–2010.07",
+      "score": 0.9764,
+      "box": [
+        116,
+        565,
+        743,
+        589
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9898,
+      "box": [
+        125,
+        589,
+        399,
+        614
+      ]
+    },
+    {
+      "text": "- Monitored patient skin condition",
+      "score": 0.9677,
+      "box": [
+        126,
+        614,
+        435,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Allied Health, Woodview University, 2007",
+      "score": 0.9768,
+      "box": [
+        115,
+        725,
+        588,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Pediatric Care, Shady Grove University, 2005",
+      "score": 0.9783,
+      "box": [
+        114,
+        747,
+        646,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of health assessment",
+      "score": 0.9971,
+      "box": [
+        133,
+        773,
+        554,
+        795
+      ]
+    },
+    {
+      "text": "• Completed coursework in medication safety",
+      "score": 0.9981,
+      "box": [
+        134,
+        799,
+        551,
+        822
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "text": "JACELYN HEATH\nWI, USA|+1-669-674-9943|jacelyn.heath@example.com\nWORK HISTORY\nRegistered Nurses, Helping Path Nursing, 2018.11–2023.01\n- Led nursing audit programs\n- Directed nursing process improvements\nRegistered Nurses, TrueCare Nursing, 2014.09–2018.11\n- Led nursing workflow optimization\n- Managed patient safety reporting systems\nRegistered Nurses, BrightHands Health Services, 2010.07–2014.09\n- Reviewed diagnostic imaging results\n– Managed pain control plans\nRegistered Nurses, TrueBridge Nursing Services, 2006.05–2010.07\n- Recorded patient vital signs\n- Monitored patient skin condition\nEDUCATION\nMaster's, Allied Health, Woodview University, 2007\nBachelor's, Pediatric Care, Shady Grove University, 2005\n• Studied fundamentals of health assessment\n• Completed coursework in medication safety"
+}

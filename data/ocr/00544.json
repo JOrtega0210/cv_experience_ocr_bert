@@ -1,0 +1,148 @@
+{
+  "id": "00544",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.865,
+  "n_lines": 10,
+  "mean_score": 0.9854,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSILYN NOBLE",
+      "score": 0.9874,
+      "box": [
+        116,
+        90,
+        388,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA |+1-621-205-9720 |josilyn.noble@example.com",
+      "score": 0.9835,
+      "box": [
+        116,
+        152,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9826,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunBridge Nursing, 2020.01–2020.11",
+      "score": 0.9889,
+      "box": [
+        116,
+        290,
+        649,
+        314
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.9676,
+      "box": [
+        126,
+        315,
+        416,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.9969,
+      "box": [
+        126,
+        339,
+        418,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Public Health, Prairie View University, 2018",
+      "score": 0.9763,
+      "box": [
+        115,
+        447,
+        771,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in health promotion",
+      "score": 0.9903,
+      "box": [
+        133,
+        474,
+        546,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in fluid and electrolyte balance",
+      "score": 0.9815,
+      "box": [
+        134,
+        499,
+        648,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JOSILYN NOBLE\nAL, USA |+1-621-205-9720 |josilyn.noble@example.com\nWORK HISTORY\nRegistered Nurses, SunBridge Nursing, 2020.01–2020.11\n- Checked patient identification\n- Assisted with feeding patients\nEDUCATION\nSome college (no degree), Public Health, Prairie View University, 2018\n• Completed coursework in health promotion\n• Completed coursework in fluid and electrolyte balance"
+}

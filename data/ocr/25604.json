@@ -1,0 +1,148 @@
+{
+  "id": "25604",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.712,
+  "n_lines": 10,
+  "mean_score": 0.9824,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOHN KAUR",
+      "score": 0.9653,
+      "box": [
+        116,
+        90,
+        317,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-786-635-4883 |john.kaur@example.com",
+      "score": 0.992,
+      "box": [
+        116,
+        151,
+        629,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Dataframe Labs, 2021.03–2023.01",
+      "score": 0.9932,
+      "box": [
+        116,
+        290,
+        644,
+        313
+      ]
+    },
+    {
+      "text": "- Handled input sanitization",
+      "score": 0.9669,
+      "box": [
+        126,
+        315,
+        383,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with Cl pipeline tasks",
+      "score": 0.9769,
+      "box": [
+        127,
+        340,
+        424,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Brookfield University, 2022",
+      "score": 0.983,
+      "box": [
+        115,
+        449,
+        474,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of microservices architecture",
+      "score": 0.9853,
+      "box": [
+        132,
+        472,
+        585,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of responsive design",
+      "score": 0.979,
+      "box": [
+        132,
+        497,
+        547,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JOHN KAUR\nMA, USA|+1-786-635-4883 |john.kaur@example.com\nWORK HISTORY\nSoftware Developers, Dataframe Labs, 2021.03–2023.01\n- Handled input sanitization\n- Assisted with Cl pipeline tasks\nEDUCATION\nBachelor's, Brookfield University, 2022\n• Studied principles of microservices architecture\n• Studied fundamentals of responsive design"
+}

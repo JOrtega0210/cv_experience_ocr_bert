@@ -1,0 +1,148 @@
+{
+  "id": "25237",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.772,
+  "n_lines": 10,
+  "mean_score": 0.9774,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "SEAN PETERSEN",
+      "score": 0.9708,
+      "box": [
+        116,
+        90,
+        400,
+        120
+      ]
+    },
+    {
+      "text": "MA, USA|+1-984-313-1144 |sean.petersen@example.com",
+      "score": 0.976,
+      "box": [
+        116,
+        152,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9773,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextStep Construction, 2020.02–2023.01",
+      "score": 0.9835,
+      "box": [
+        115,
+        290,
+        715,
+        312
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.9884,
+      "box": [
+        126,
+        314,
+        503,
+        339
+      ]
+    },
+    {
+      "text": "- Moved equipment between work zones",
+      "score": 0.9776,
+      "box": [
+        126,
+        339,
+        504,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Site Management, Windridge University, 2022",
+      "score": 0.9731,
+      "box": [
+        116,
+        449,
+        916,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic carpentry",
+      "score": 0.9521,
+      "box": [
+        132,
+        473,
+        530,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of site preparation",
+      "score": 0.9764,
+      "box": [
+        134,
+        499,
+        486,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "SEAN PETERSEN\nMA, USA|+1-984-313-1144 |sean.petersen@example.com\nWORK HISTORY\nConstruction Laborers, NextStep Construction, 2020.02–2023.01\n- Handled power tools under supervision\n- Moved equipment between work zones\nEDUCATION\nSome college (no degree), Construction Site Management, Windridge University, 2022\n• Completed coursework in basic carpentry\n• Studied principles of site preparation"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "02137",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.972,
+  "n_lines": 13,
+  "mean_score": 0.9822,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KIMBERLEE PAYNE",
+      "score": 0.9806,
+      "box": [
+        116,
+        90,
+        440,
+        120
+      ]
+    },
+    {
+      "text": "AR, USA|+1-843-892-3214 |kimberlee.payne@example.com",
+      "score": 0.9849,
+      "box": [
+        116,
+        152,
+        694,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9791,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Valley School, 2020.04–2023.01",
+      "score": 0.9777,
+      "box": [
+        114,
+        289,
+        822,
+        314
+      ]
+    },
+    {
+      "text": "-Directed instructional benchmarking",
+      "score": 0.9928,
+      "box": [
+        126,
+        315,
+        473,
+        339
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.9593,
+      "box": [
+        126,
+        339,
+        533,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Steps School, 2015.08–2018.06",
+      "score": 0.9914,
+      "box": [
+        115,
+        381,
+        808,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9807,
+      "box": [
+        125,
+        406,
+        460,
+        430
+      ]
+    },
+    {
+      "text": "- Reviewed homework assignments",
+      "score": 0.9841,
+      "box": [
+        125,
+        430,
+        459,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Skills, Northview University, 2014",
+      "score": 0.9612,
+      "box": [
+        114,
+        539,
+        622,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational education methods",
+      "score": 0.9886,
+      "box": [
+        134,
+        566,
+        685,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in student evaluation basics",
+      "score": 0.9901,
+      "box": [
+        134,
+        591,
+        624,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KIMBERLEE PAYNE\nAR, USA|+1-843-892-3214 |kimberlee.payne@example.com\nWORK HISTORY\nElementary Middle School Teachers, Bright Valley School, 2020.04–2023.01\n-Directed instructional benchmarking\n- Developed instructional evaluation metrics\nElementary Middle School Teachers, Kind Steps School, 2015.08–2018.06\n- Assisted with science experiments\n- Reviewed homework assignments\nEDUCATION\nBachelor's, Learning Skills, Northview University, 2014\n• Completed coursework in foundational education methods\n• Completed coursework in student evaluation basics"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "47006",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.734,
+  "n_lines": 10,
+  "mean_score": 0.9773,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JULIO KNAPP",
+      "score": 0.9706,
+      "box": [
+        116,
+        90,
+        343,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-383-228-4344|julio.knapp@example.com",
+      "score": 0.9747,
+      "box": [
+        115,
+        150,
+        639,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9828,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverWay Health Services, 2020.07–22.04",
+      "score": 0.9881,
+      "box": [
+        116,
+        290,
+        712,
+        313
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9829,
+      "box": [
+        126,
+        315,
+        531,
+        338
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9878,
+      "box": [
+        126,
+        339,
+        479,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Studies, Forest Hill University, 202",
+      "score": 0.9659,
+      "box": [
+        116,
+        449,
+        701,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in first aid principles",
+      "score": 0.9444,
+      "box": [
+        132,
+        473,
+        551,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of safety protocols",
+      "score": 0.977,
+      "box": [
+        134,
+        499,
+        488,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JULIO KNAPP\nPA, USA|+1-383-228-4344|julio.knapp@example.com\nWORK HISTORY\nRegistered Nurses, EverWay Health Services, 2020.07–22.04\n- Recorded medication administration times\n- Prepared medical equipment for use\nEDUCATION\nAssociate's degree, Health Studies, Forest Hill University, 202\n• Completed coursework in first aid principles\n• Studied principles of safety protocols"
+}

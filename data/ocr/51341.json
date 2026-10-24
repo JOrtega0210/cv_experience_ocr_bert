@@ -1,0 +1,174 @@
+{
+  "id": "51341",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.782,
+  "n_lines": 12,
+  "mean_score": 0.9807,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRITTANY LARSON",
+      "score": 0.9777,
+      "box": [
+        117,
+        90,
+        437,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-407-708-4548|brittany.larson@example.com",
+      "score": 0.9645,
+      "box": [
+        115,
+        150,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudridge Tech, 2021.04–2023.01",
+      "score": 0.9853,
+      "box": [
+        116,
+        290,
+        648,
+        313
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.9641,
+      "box": [
+        125,
+        313,
+        332,
+        340
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9761,
+      "box": [
+        127,
+        340,
+        501,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Doctorate, Cedarfield University, 2020",
+      "score": 0.9912,
+      "box": [
+        115,
+        449,
+        470,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Silverlake University, 2015",
+      "score": 0.9758,
+      "box": [
+        115,
+        474,
+        473,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in scripting languages",
+      "score": 0.9817,
+      "box": [
+        133,
+        498,
+        569,
+        523
+      ]
+    },
+    {
+      "text": "• Completed coursework in containerization basics",
+      "score": 0.9911,
+      "box": [
+        133,
+        523,
+        600,
+        546
+      ]
+    },
+    {
+      "text": "• Completed coursework in parallel computing",
+      "score": 0.9776,
+      "box": [
+        132,
+        548,
+        558,
+        573
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ]
+  ],
+  "text": "BRITTANY LARSON\nTX, USA|+1-407-708-4548|brittany.larson@example.com\nWORK HISTORY\nSoftware Developers, Cloudridge Tech, 2021.04–2023.01\n- Handled file uploads\n- Configured development environments\nEDUCATION\nDoctorate, Cedarfield University, 2020\nBachelor's, Silverlake University, 2015\n• Completed coursework in scripting languages\n• Completed coursework in containerization basics\n• Completed coursework in parallel computing"
+}

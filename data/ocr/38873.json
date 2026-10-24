@@ -1,0 +1,187 @@
+{
+  "id": "38873",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.831,
+  "n_lines": 13,
+  "mean_score": 0.9824,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JASON AUSTIN",
+      "score": 0.9924,
+      "box": [
+        116,
+        90,
+        366,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-649-534-6221 |jason.austin@example.com",
+      "score": 0.9846,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Advisors, 2021.05–2023.01",
+      "score": 0.9884,
+      "box": [
+        114,
+        289,
+        696,
+        313
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9712,
+      "box": [
+        125,
+        313,
+        477,
+        338
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9839,
+      "box": [
+        126,
+        339,
+        556,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Accounting, 2019.08–2021.05",
+      "score": 0.9952,
+      "box": [
+        115,
+        382,
+        708,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained vendor records",
+      "score": 0.9875,
+      "box": [
+        126,
+        407,
+        391,
+        430
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9678,
+      "box": [
+        127,
+        432,
+        413,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Economic Studies, Aspen Grove University, 2021",
+      "score": 0.9738,
+      "box": [
+        114,
+        539,
+        679,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of revenue cycle management",
+      "score": 0.9705,
+      "box": [
+        132,
+        564,
+        636,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of professional writing",
+      "score": 0.9742,
+      "box": [
+        134,
+        591,
+        557,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JASON AUSTIN\nNY, USA|+1-649-534-6221 |jason.austin@example.com\nWORK HISTORY\nAccountants Auditors, TrustLedger Advisors, 2021.05–2023.01\n- Established financial quality controls\n- Directed accounting system implementations\nAccountants Auditors, EverCount Accounting, 2019.08–2021.05\n- Maintained vendor records\n- Assisted with budget tracking\nEDUCATION\nBachelor's, Economic Studies, Aspen Grove University, 2021\n• Studied fundamentals of revenue cycle management\n• Studied fundamentals of professional writing"
+}

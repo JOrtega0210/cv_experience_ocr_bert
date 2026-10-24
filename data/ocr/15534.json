@@ -1,0 +1,226 @@
+{
+  "id": "15534",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.96,
+  "n_lines": 16,
+  "mean_score": 0.9802,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "GREGORY ATKINS",
+      "score": 0.9848,
+      "box": [
+        117,
+        90,
+        423,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-883-828-7883|gregory.atkins@example.com",
+      "score": 0.9863,
+      "box": [
+        117,
+        152,
+        673,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Care Center, 2020.01–2023.01",
+      "score": 0.9845,
+      "box": [
+        115,
+        289,
+        695,
+        314
+      ]
+    },
+    {
+      "text": "- Developed nursing training programs",
+      "score": 0.9856,
+      "box": [
+        126,
+        314,
+        484,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.9866,
+      "box": [
+        126,
+        339,
+        517,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearWay Health Group, 2016.07–2019.07",
+      "score": 0.9835,
+      "box": [
+        115,
+        381,
+        697,
+        406
+      ]
+    },
+    {
+      "text": "- Managed patient nutritional support",
+      "score": 0.9869,
+      "box": [
+        126,
+        406,
+        470,
+        432
+      ]
+    },
+    {
+      "text": "- Managed intravenous therapy",
+      "score": 0.9795,
+      "box": [
+        126,
+        430,
+        419,
+        457
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIWay Medical Group, 2012.06–2015.06",
+      "score": 0.9599,
+      "box": [
+        116,
+        473,
+        699,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored patient alarms",
+      "score": 0.96,
+      "box": [
+        125,
+        496,
+        373,
+        521
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.9859,
+      "box": [
+        126,
+        520,
+        512,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Systems, Ironwood University, 2008",
+      "score": 0.9736,
+      "box": [
+        114,
+        631,
+        703,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of vital signs monitoring",
+      "score": 0.9808,
+      "box": [
+        132,
+        656,
+        574,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in dosage calculations",
+      "score": 0.9612,
+      "box": [
+        136,
+        683,
+        573,
+        706
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "GREGORY ATKINS\nGA, USA|+1-883-828-7883|gregory.atkins@example.com\nWORK HISTORY\nRegistered Nurses, NewSpring Care Center, 2020.01–2023.01\n- Developed nursing training programs\n- Implemented patient monitoring systems\nRegistered Nurses, ClearWay Health Group, 2016.07–2019.07\n- Managed patient nutritional support\n- Managed intravenous therapy\nRegistered Nurses, WelIWay Medical Group, 2012.06–2015.06\n- Monitored patient alarms\n- Performed basic life support procedures\nEDUCATION\nAssociate's degree, Health Systems, Ironwood University, 2008\n• Studied fundamentals of vital signs monitoring\n• Completed coursework in dosage calculations"
+}

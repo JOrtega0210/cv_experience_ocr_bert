@@ -1,0 +1,213 @@
+{
+  "id": "30429",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.849,
+  "n_lines": 15,
+  "mean_score": 0.9749,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DALTON DENNIS",
+      "score": 0.9671,
+      "box": [
+        116,
+        90,
+        393,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA|+1-829-968-3421 |dalton.dennis@example.com",
+      "score": 0.9856,
+      "box": [
+        115,
+        150,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorBuild Co., 2020.06–2023.01",
+      "score": 0.9799,
+      "box": [
+        115,
+        290,
+        657,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed structural integrity assessments",
+      "score": 0.9653,
+      "box": [
+        125,
+        313,
+        532,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.9639,
+      "box": [
+        126,
+        339,
+        439,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Co., 2017.11–2020.06",
+      "score": 0.9796,
+      "box": [
+        116,
+        382,
+        650,
+        405
+      ]
+    },
+    {
+      "text": "- Monitored safety compliance",
+      "score": 0.9529,
+      "box": [
+        125,
+        406,
+        409,
+        431
+      ]
+    },
+    {
+      "text": "- Installed foundation elements",
+      "score": 0.9631,
+      "box": [
+        126,
+        431,
+        414,
+        453
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Co., 2015.03–2017.11",
+      "score": 0.9702,
+      "box": [
+        116,
+        472,
+        648,
+        495
+      ]
+    },
+    {
+      "text": "- Performed basic carpentry tasks",
+      "score": 0.9675,
+      "box": [
+        125,
+        496,
+        443,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with site cleanup and debris removal",
+      "score": 0.9905,
+      "box": [
+        126,
+        521,
+        565,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Field Operations, Goldenwood High School, 2016",
+      "score": 0.9951,
+      "box": [
+        116,
+        632,
+        959,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic site grading",
+      "score": 0.958,
+      "box": [
+        132,
+        656,
+        552,
+        681
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "text": "DALTON DENNIS\nMO, USA|+1-829-968-3421 |dalton.dennis@example.com\nWORK HISTORY\nConstruction Laborers, AnchorBuild Co., 2020.06–2023.01\n- Reviewed structural integrity assessments\n- Reviewed engineering drawings\nConstruction Laborers, Allied Build Co., 2017.11–2020.06\n- Monitored safety compliance\n- Installed foundation elements\nConstruction Laborers, Allied Build Co., 2015.03–2017.11\n- Performed basic carpentry tasks\n- Assisted with site cleanup and debris removal\nEDUCATION\nHigh school graduate/GED, Construction Field Operations, Goldenwood High School, 2016\n• Completed coursework in basic site grading"
+}

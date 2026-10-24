@@ -1,0 +1,200 @@
+{
+  "id": "24046",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.846,
+  "n_lines": 14,
+  "mean_score": 0.9822,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRENT BALL",
+      "score": 0.9635,
+      "box": [
+        116,
+        90,
+        331,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA|+1-551-923-9858|brent.ball@example.com",
+      "score": 0.9696,
+      "box": [
+        115,
+        150,
+        630,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Path Academy, 2018.06–2020.12",
+      "score": 0.9874,
+      "box": [
+        115,
+        289,
+        840,
+        314
+      ]
+    },
+    {
+      "text": "- Led instructional design reviews",
+      "score": 0.9915,
+      "box": [
+        126,
+        315,
+        439,
+        338
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.9833,
+      "box": [
+        126,
+        339,
+        525,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Start School, 2014.12–2017.07",
+      "score": 0.9887,
+      "box": [
+        115,
+        381,
+        808,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9753,
+      "box": [
+        126,
+        406,
+        416,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted group reading activities",
+      "score": 0.9843,
+      "box": [
+        127,
+        432,
+        463,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Foundational Education, Redfield University, 2014",
+      "score": 0.9725,
+      "box": [
+        115,
+        540,
+        669,
+        563
+      ]
+    },
+    {
+      "text": "Bachelor's, General Academic Studies, Clearwood University, 2012",
+      "score": 0.9846,
+      "box": [
+        114,
+        565,
+        740,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of academic instruction",
+      "score": 0.9856,
+      "box": [
+        133,
+        591,
+        532,
+        614
+      ]
+    },
+    {
+      "text": "• Studied principles of lesson coherence",
+      "score": 0.9817,
+      "box": [
+        134,
+        616,
+        506,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "BRENT BALL\nMD, USA|+1-551-923-9858|brent.ball@example.com\nWORK HISTORY\nElementary Middle School Teachers, Future Path Academy, 2018.06–2020.12\n- Led instructional design reviews\n- Directed academic intervention strategies\nElementary Middle School Teachers, Open Start School, 2014.12–2017.07\n- Prepared visual teaching aids\n- Conducted group reading activities\nEDUCATION\nMaster's, Foundational Education, Redfield University, 2014\nBachelor's, General Academic Studies, Clearwood University, 2012\n• Studied principles of academic instruction\n• Studied principles of lesson coherence"
+}

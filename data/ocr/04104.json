@@ -1,0 +1,187 @@
+{
+  "id": "04104",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.901,
+  "n_lines": 13,
+  "mean_score": 0.9854,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DANIELLECHAN",
+      "score": 0.9994,
+      "box": [
+        116,
+        90,
+        392,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-284-767-7452 | danielle.chan@example.com",
+      "score": 0.9694,
+      "box": [
+        116,
+        151,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9796,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Way Nursing, 2021.02–2023.01",
+      "score": 0.9795,
+      "box": [
+        115,
+        289,
+        670,
+        314
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9772,
+      "box": [
+        125,
+        313,
+        471,
+        338
+      ]
+    },
+    {
+      "text": "- Managed clinical compliance programs",
+      "score": 0.9885,
+      "box": [
+        126,
+        339,
+        502,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Way Care, 2019.03–2021.02",
+      "score": 0.9957,
+      "box": [
+        116,
+        382,
+        636,
+        406
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9882,
+      "box": [
+        126,
+        407,
+        411,
+        430
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.997,
+      "box": [
+        126,
+        430,
+        473,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Operations, Stone Valley University, 2017",
+      "score": 0.9678,
+      "box": [
+        115,
+        541,
+        729,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of medical imaging basics",
+      "score": 0.9768,
+      "box": [
+        132,
+        564,
+        595,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of emergency nursing",
+      "score": 0.9927,
+      "box": [
+        133,
+        590,
+        519,
+        616
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "DANIELLECHAN\nCA, USA|+1-284-767-7452 | danielle.chan@example.com\nWORK HISTORY\nRegistered Nurses, Helping Way Nursing, 2021.02–2023.01\n- Established care delivery standards\n- Managed clinical compliance programs\nRegistered Nurses, Caring Way Care, 2019.03–2021.02\n- Recorded shift handoff notes\n- Assisted with respiratory treatments\nEDUCATION\nBachelor's, Health Care Operations, Stone Valley University, 2017\n• Studied fundamentals of medical imaging basics\n• Studied principles of emergency nursing"
+}

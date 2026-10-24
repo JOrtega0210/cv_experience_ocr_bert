@@ -1,0 +1,187 @@
+{
+  "id": "45231",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.79,
+  "n_lines": 13,
+  "mean_score": 0.9848,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAKE MACDONALD",
+      "score": 0.9899,
+      "box": [
+        116,
+        90,
+        435,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-575-669-1723 |jake.macdonald@example.com",
+      "score": 0.9822,
+      "box": [
+        115,
+        150,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openpoint Tech, 2021.06–2023.01",
+      "score": 0.9936,
+      "box": [
+        116,
+        290,
+        644,
+        313
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.9754,
+      "box": [
+        125,
+        313,
+        469,
+        339
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9923,
+      "box": [
+        126,
+        339,
+        449,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Datapoint Solutions, 2019.10–2021.06",
+      "score": 0.9902,
+      "box": [
+        115,
+        381,
+        677,
+        406
+      ]
+    },
+    {
+      "text": "- Updated documentation for implemented features",
+      "score": 0.9943,
+      "box": [
+        126,
+        406,
+        601,
+        431
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.9608,
+      "box": [
+        127,
+        432,
+        373,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Shady Grove University, 2020",
+      "score": 0.9596,
+      "box": [
+        115,
+        541,
+        503,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of error handling",
+      "score": 0.9845,
+      "box": [
+        133,
+        566,
+        507,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in message queues",
+      "score": 0.9978,
+      "box": [
+        134,
+        590,
+        548,
+        616
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JAKE MACDONALD\nPA, USA|+1-575-669-1723 |jake.macdonald@example.com\nWORK HISTORY\nSoftware Developers, Openpoint Tech, 2021.06–2023.01\n- Led backend platform development\n- Designed data storage strategies\nSoftware Developers, Datapoint Solutions, 2019.10–2021.06\n- Updated documentation for implemented features\n- Updated localization files\nEDUCATION\nBachelor's, Shady Grove University, 2020\n• Studied fundamentals of error handling\n• Completed coursework in message queues"
+}

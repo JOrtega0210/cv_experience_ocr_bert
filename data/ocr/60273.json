@@ -1,0 +1,135 @@
+{
+  "id": "60273",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.775,
+  "n_lines": 9,
+  "mean_score": 0.9836,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "BRIANWEBER",
+      "score": 0.9972,
+      "box": [
+        116,
+        90,
+        358,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-547-882-8599|brian.weber@example.com",
+      "score": 0.9821,
+      "box": [
+        115,
+        150,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeWorks Contractors, 2021.02–2023.01",
+      "score": 0.98,
+      "box": [
+        115,
+        289,
+        734,
+        312
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9608,
+      "box": [
+        127,
+        315,
+        416,
+        338
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.976,
+      "box": [
+        126,
+        339,
+        441,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Plumbing Technology, Clear Spring High School, 2022",
+      "score": 0.9862,
+      "box": [
+        116,
+        449,
+        881,
+        473
+      ]
+    },
+    {
+      "text": "• Studied principles of construction workflow analysis",
+      "score": 0.9917,
+      "box": [
+        133,
+        474,
+        622,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "BRIANWEBER\nWI, USA|+1-547-882-8599|brian.weber@example.com\nWORK HISTORY\nConstruction Laborers, PrimeWorks Contractors, 2021.02–2023.01\n- Set up workstations for crews\n- Handled delivery documentation\nEDUCATION\nHigh school graduate/GED, Plumbing Technology, Clear Spring High School, 2022\n• Studied principles of construction workflow analysis"
+}

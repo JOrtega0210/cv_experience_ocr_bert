@@ -1,0 +1,265 @@
+{
+  "id": "59013",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.891,
+  "n_lines": 19,
+  "mean_score": 0.9787,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ROBERT KERR",
+      "score": 0.978,
+      "box": [
+        116,
+        90,
+        363,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-237-310-1905|robert.kerr@example.com",
+      "score": 0.9775,
+      "box": [
+        114,
+        150,
+        642,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9808,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeBridge Health Group, 2018.11–2023.01",
+      "score": 0.9744,
+      "box": [
+        115,
+        289,
+        698,
+        314
+      ]
+    },
+    {
+      "text": "- Directed nursing education initiatives",
+      "score": 0.9679,
+      "box": [
+        127,
+        315,
+        482,
+        338
+      ]
+    },
+    {
+      "text": "- Managed clinical workflow redesign",
+      "score": 0.9613,
+      "box": [
+        127,
+        339,
+        470,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Bridge Health, 2014.09–2018.11",
+      "score": 0.9844,
+      "box": [
+        115,
+        381,
+        691,
+        406
+      ]
+    },
+    {
+      "text": "- Established clinical best practices",
+      "score": 0.9749,
+      "box": [
+        125,
+        405,
+        453,
+        431
+      ]
+    },
+    {
+      "text": "- Directed clinical training standards",
+      "score": 0.9851,
+      "box": [
+        126,
+        431,
+        459,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Services, 2010.06–2014.09",
+      "score": 0.98,
+      "box": [
+        116,
+        473,
+        712,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored infusion pump settings",
+      "score": 0.9614,
+      "box": [
+        125,
+        496,
+        450,
+        522
+      ]
+    },
+    {
+      "text": "- Educated patients on treatment plans",
+      "score": 0.9811,
+      "box": [
+        125,
+        520,
+        488,
+        548
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHands Health Group, 2006.03–2010.06",
+      "score": 0.9862,
+      "box": [
+        116,
+        565,
+        708,
+        589
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.9858,
+      "box": [
+        125,
+        589,
+        471,
+        614
+      ]
+    },
+    {
+      "text": "- Monitored patient pain levels",
+      "score": 0.964,
+      "box": [
+        127,
+        615,
+        409,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Technology, Timberline University, 2005",
+      "score": 0.9927,
+      "box": [
+        115,
+        725,
+        676,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of pain assessment tools",
+      "score": 0.9809,
+      "box": [
+        133,
+        749,
+        549,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of health screening",
+      "score": 0.9793,
+      "box": [
+        134,
+        774,
+        494,
+        798
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "ROBERT KERR\nWA, USA|+1-237-310-1905|robert.kerr@example.com\nWORK HISTORY\nRegistered Nurses, LifeBridge Health Group, 2018.11–2023.01\n- Directed nursing education initiatives\n- Managed clinical workflow redesign\nRegistered Nurses, Harmony Bridge Health, 2014.09–2018.11\n- Established clinical best practices\n- Directed clinical training standards\nRegistered Nurses, Harmony Health Services, 2010.06–2014.09\n- Monitored infusion pump settings\n- Educated patients on treatment plans\nRegistered Nurses, NewHands Health Group, 2006.03–2010.06\n- Recorded patient weight and height\n- Monitored patient pain levels\nEDUCATION\nBachelor's, Medical Technology, Timberline University, 2005\n• Studied principles of pain assessment tools\n• Studied principles of health screening"
+}

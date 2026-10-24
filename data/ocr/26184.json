@@ -1,0 +1,161 @@
+{
+  "id": "26184",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.743,
+  "n_lines": 11,
+  "mean_score": 0.9816,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CHRISTOPHER TANG",
+      "score": 0.9809,
+      "box": [
+        115,
+        87,
+        465,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA|+1-866-806-2884 |christopher.tang@example.com",
+      "score": 0.973,
+      "box": [
+        116,
+        152,
+        693,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openline Digital, 2022.04–2022.06",
+      "score": 0.9928,
+      "box": [
+        116,
+        289,
+        643,
+        312
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9446,
+      "box": [
+        125,
+        313,
+        364,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.9873,
+      "box": [
+        126,
+        339,
+        355,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Brightfield Ridge University, 2004",
+      "score": 0.9892,
+      "box": [
+        115,
+        449,
+        516,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Lakeside University, 2002",
+      "score": 0.9925,
+      "box": [
+        115,
+        474,
+        465,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of ACID properties",
+      "score": 0.9667,
+      "box": [
+        132,
+        499,
+        489,
+        522
+      ]
+    },
+    {
+      "text": "• Completed coursework in distributed databases",
+      "score": 0.9872,
+      "box": [
+        134,
+        524,
+        588,
+        547
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "CHRISTOPHER TANG\nMA, USA|+1-866-806-2884 |christopher.tang@example.com\nWORK HISTORY\nSoftware Developers, Openline Digital, 2022.04–2022.06\n- Handled feature toggles\n- Reviewed error reports\nEDUCATION\nMaster's, Brightfield Ridge University, 2004\nBachelor's, Lakeside University, 2002\n• Studied principles of ACID properties\n• Completed coursework in distributed databases"
+}

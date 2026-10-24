@@ -1,0 +1,135 @@
+{
+  "id": "30455",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.751,
+  "n_lines": 9,
+  "mean_score": 0.9793,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "DYLAN WOODS",
+      "score": 0.9666,
+      "box": [
+        116,
+        90,
+        372,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA|+1-887-892-3334|dylan.woods@example.com",
+      "score": 0.9756,
+      "box": [
+        115,
+        150,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongWay Construction, 2021.08–2023.01",
+      "score": 0.9882,
+      "box": [
+        115,
+        290,
+        733,
+        313
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.962,
+      "box": [
+        126,
+        315,
+        440,
+        339
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.984,
+      "box": [
+        126,
+        339,
+        419,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Fundamentals, Evergreen High School, 2022",
+      "score": 0.9928,
+      "box": [
+        116,
+        449,
+        916,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of fire safety in construction",
+      "score": 0.9654,
+      "box": [
+        132,
+        472,
+        610,
+        497
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "text": "DYLAN WOODS\nMO, USA|+1-887-892-3334|dylan.woods@example.com\nWORK HISTORY\nConstruction Laborers, StrongWay Construction, 2021.08–2023.01\n- Installed basic flooring materials\n- Maintained tool storage areas\nEDUCATION\nHigh school graduate/GED, Construction Fundamentals, Evergreen High School, 2022\n• Studied fundamentals of fire safety in construction"
+}

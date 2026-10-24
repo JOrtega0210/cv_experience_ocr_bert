@@ -1,0 +1,187 @@
+{
+  "id": "56218",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.872,
+  "n_lines": 13,
+  "mean_score": 0.9832,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ERICA SMITH",
+      "score": 0.9727,
+      "box": [
+        115,
+        87,
+        337,
+        123
+      ]
+    },
+    {
+      "text": "VA, USA|+1-210-940-4895|erica.smith@example.com",
+      "score": 0.9941,
+      "box": [
+        114,
+        150,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9925,
+      "box": [
+        115,
+        242,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Meadow Academy, 2020.04–2022.07",
+      "score": 0.9866,
+      "box": [
+        114,
+        289,
+        876,
+        313
+      ]
+    },
+    {
+      "text": "- Established instructional review cycles",
+      "score": 0.9853,
+      "box": [
+        125,
+        313,
+        497,
+        338
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9937,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Grove School, 2017.06–2019.10",
+      "score": 0.9765,
+      "box": [
+        115,
+        381,
+        829,
+        406
+      ]
+    },
+    {
+      "text": "- Maintained lesson documentation",
+      "score": 0.9592,
+      "box": [
+        126,
+        407,
+        452,
+        429
+      ]
+    },
+    {
+      "text": "- Conducted group reading activities",
+      "score": 0.9852,
+      "box": [
+        127,
+        432,
+        463,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Introductory Education, High Meadow University, 2013",
+      "score": 0.9655,
+      "box": [
+        114,
+        539,
+        729,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom workflow organization",
+      "score": 0.992,
+      "box": [
+        133,
+        565,
+        690,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of science education",
+      "score": 0.9802,
+      "box": [
+        133,
+        591,
+        545,
+        611
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ERICA SMITH\nVA, USA|+1-210-940-4895|erica.smith@example.com\nWORK HISTORY\nElementary Middle School Teachers, Future Meadow Academy, 2020.04–2022.07\n- Established instructional review cycles\n- Developed learning progression models\nElementary Middle School Teachers, Sunny Grove School, 2017.06–2019.10\n- Maintained lesson documentation\n- Conducted group reading activities\nEDUCATION\nBachelor's, Introductory Education, High Meadow University, 2013\n• Completed coursework in classroom workflow organization\n• Studied fundamentals of science education"
+}

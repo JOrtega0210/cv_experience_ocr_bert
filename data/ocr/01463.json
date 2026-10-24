@@ -1,0 +1,187 @@
+{
+  "id": "01463",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.903,
+  "n_lines": 13,
+  "mean_score": 0.9852,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ASHLEYGILMORE",
+      "score": 0.9987,
+      "box": [
+        116,
+        90,
+        419,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-713-748-9121|ashley.gilmore@example.com",
+      "score": 0.9934,
+      "box": [
+        116,
+        151,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Software, 2020.06–2022.05",
+      "score": 0.9859,
+      "box": [
+        114,
+        288,
+        673,
+        313
+      ]
+    },
+    {
+      "text": "- Defined APl standards",
+      "score": 0.9827,
+      "box": [
+        127,
+        315,
+        351,
+        336
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9865,
+      "box": [
+        126,
+        339,
+        444,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightline Software, 2018.01–2019.12",
+      "score": 0.9812,
+      "box": [
+        115,
+        381,
+        672,
+        406
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.9703,
+      "box": [
+        127,
+        408,
+        462,
+        431
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9911,
+      "box": [
+        125,
+        430,
+        352,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Brightwater University, 2007",
+      "score": 0.9559,
+      "box": [
+        115,
+        541,
+        487,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of game development",
+      "score": 0.9835,
+      "box": [
+        133,
+        566,
+        558,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in tree data structures",
+      "score": 0.9944,
+      "box": [
+        134,
+        591,
+        570,
+        614
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ASHLEYGILMORE\nAZ, USA|+1-713-748-9121|ashley.gilmore@example.com\nWORK HISTORY\nSoftware Developers, Codefield Software, 2020.06–2022.05\n- Defined APl standards\n- Designed observability platforms\nSoftware Developers, Brightline Software, 2018.01–2019.12\n- Updated application dependencies\n- Wrote integration tests\nEDUCATION\nBachelor's, Brightwater University, 2007\n• Studied fundamentals of game development\n• Completed coursework in tree data structures"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "16540",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.971,
+  "n_lines": 13,
+  "mean_score": 0.9805,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "KAYLEIGH CHAPMAN",
+      "score": 0.9756,
+      "box": [
+        116,
+        90,
+        471,
+        120
+      ]
+    },
+    {
+      "text": "GA, USA|+1-834-765-3374 |kayleigh.chapman@example.com",
+      "score": 0.9807,
+      "box": [
+        117,
+        151,
+        710,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9791,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Start School, 2020.10–2023.01",
+      "score": 0.9775,
+      "box": [
+        114,
+        289,
+        799,
+        313
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.9929,
+      "box": [
+        126,
+        315,
+        534,
+        338
+      ]
+    },
+    {
+      "text": "- Led curriculum integration projects",
+      "score": 0.9594,
+      "box": [
+        126,
+        339,
+        461,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Lake School, 2018.07–2020.10",
+      "score": 0.9802,
+      "box": [
+        115,
+        381,
+        812,
+        406
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9833,
+      "box": [
+        126,
+        407,
+        398,
+        429
+      ]
+    },
+    {
+      "text": "- Distributed assessment rubrics",
+      "score": 0.9863,
+      "box": [
+        125,
+        432,
+        427,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Education, Cedar Valley University, 2021",
+      "score": 0.9715,
+      "box": [
+        115,
+        541,
+        678,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of classroom interaction",
+      "score": 0.9809,
+      "box": [
+        133,
+        566,
+        540,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson delivery techniques",
+      "score": 0.9808,
+      "box": [
+        133,
+        590,
+        633,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "KAYLEIGH CHAPMAN\nGA, USA|+1-834-765-3374 |kayleigh.chapman@example.com\nWORK HISTORY\nElementary Middle School Teachers, Kind Start School, 2020.10–2023.01\n- Developed instructional evaluation metrics\n- Led curriculum integration projects\nElementary Middle School Teachers, Bright Lake School, 2018.07–2020.10\n- Recorded student feedback\n- Distributed assessment rubrics\nEDUCATION\nBachelor's, Applied Education, Cedar Valley University, 2021\n• Studied principles of classroom interaction\n• Completed coursework in lesson delivery techniques"
+}

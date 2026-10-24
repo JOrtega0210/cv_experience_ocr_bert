@@ -1,0 +1,148 @@
+{
+  "id": "31850",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.769,
+  "n_lines": 10,
+  "mean_score": 0.9779,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ANDREW STOKES",
+      "score": 0.9611,
+      "box": [
+        117,
+        90,
+        415,
+        121
+      ]
+    },
+    {
+      "text": "NE, USA|+1-631-510-8171 |andrew.stokes@example.com",
+      "score": 0.9923,
+      "box": [
+        116,
+        152,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.982,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildStone Co., 2021.04–2023.01",
+      "score": 0.9904,
+      "box": [
+        116,
+        291,
+        645,
+        311
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9673,
+      "box": [
+        126,
+        315,
+        484,
+        337
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9929,
+      "box": [
+        126,
+        339,
+        425,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Industrial Technology, Riverwood University, 2023",
+      "score": 0.9726,
+      "box": [
+        116,
+        449,
+        832,
+        473
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic waterproofing",
+      "score": 0.9472,
+      "box": [
+        132,
+        473,
+        571,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of equipment operation",
+      "score": 0.9743,
+      "box": [
+        133,
+        497,
+        569,
+        522
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "ANDREW STOKES\nNE, USA|+1-631-510-8171 |andrew.stokes@example.com\nWORK HISTORY\nConstruction Laborers, BuildStone Co., 2021.04–2023.01\n- Maintained cleanliness of work areas\n- Assisted with concrete pouring\nEDUCATION\nSome college (no degree), Industrial Technology, Riverwood University, 2023\n• Completed coursework in basic waterproofing\n• Studied fundamentals of equipment operation"
+}

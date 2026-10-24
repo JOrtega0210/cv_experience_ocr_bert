@@ -1,0 +1,239 @@
+{
+  "id": "30801",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.865,
+  "n_lines": 17,
+  "mean_score": 0.9797,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JUSTIN GREER",
+      "score": 0.9702,
+      "box": [
+        116,
+        90,
+        365,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA|+1-342-662-9666|justin.greer@example.com",
+      "score": 0.9813,
+      "box": [
+        115,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstone Software, 2021.01–2023.01",
+      "score": 0.978,
+      "box": [
+        116,
+        290,
+        683,
+        312
+      ]
+    },
+    {
+      "text": "- Implemented performance optimization plans",
+      "score": 0.9935,
+      "box": [
+        126,
+        314,
+        558,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9608,
+      "box": [
+        127,
+        340,
+        515,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Stonecrest Tech, 2018.12–2021.01",
+      "score": 0.9941,
+      "box": [
+        116,
+        382,
+        647,
+        405
+      ]
+    },
+    {
+      "text": "- Improved build processes",
+      "score": 0.9865,
+      "box": [
+        126,
+        406,
+        381,
+        432
+      ]
+    },
+    {
+      "text": "- Built data visualization tools",
+      "score": 0.971,
+      "box": [
+        126,
+        431,
+        398,
+        453
+      ]
+    },
+    {
+      "text": "Software Developers, Openbyte Systems, 2016.11–2018.12",
+      "score": 0.9893,
+      "box": [
+        115,
+        471,
+        673,
+        496
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.9739,
+      "box": [
+        125,
+        496,
+        495,
+        522
+      ]
+    },
+    {
+      "text": "- Debugged runtime errors",
+      "score": 0.9705,
+      "box": [
+        128,
+        524,
+        374,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Morningstar University, 2014",
+      "score": 0.9849,
+      "box": [
+        115,
+        632,
+        473,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Sunnyside University, 2012",
+      "score": 0.9522,
+      "box": [
+        115,
+        658,
+        479,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in microprocessor programming",
+      "score": 0.9759,
+      "box": [
+        132,
+        681,
+        659,
+        707
+      ]
+    },
+    {
+      "text": "• Studied principles of data modeling",
+      "score": 0.9872,
+      "box": [
+        132,
+        706,
+        472,
+        732
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ]
+  ],
+  "text": "JUSTIN GREER\nMO, USA|+1-342-662-9666|justin.greer@example.com\nWORK HISTORY\nSoftware Developers, Clearstone Software, 2021.01–2023.01\n- Implemented performance optimization plans\n- Implemented access control frameworks\nSoftware Developers, Stonecrest Tech, 2018.12–2021.01\n- Improved build processes\n- Built data visualization tools\nSoftware Developers, Openbyte Systems, 2016.11–2018.12\n- Performed basic performance profiling\n- Debugged runtime errors\nEDUCATION\nMaster's, Morningstar University, 2014\nBachelor's, Sunnyside University, 2012\n• Completed coursework in microprocessor programming\n• Studied principles of data modeling"
+}

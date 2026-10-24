@@ -1,0 +1,187 @@
+{
+  "id": "00441",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.958,
+  "n_lines": 13,
+  "mean_score": 0.9847,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ELIZABETH BARRON",
+      "score": 0.9852,
+      "box": [
+        117,
+        90,
+        461,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-981-746-2142|elizabeth.barron@example.com",
+      "score": 0.9881,
+      "box": [
+        115,
+        150,
+        687,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9885,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHope Care Center, 2021.02–2023.01",
+      "score": 0.9912,
+      "box": [
+        116,
+        290,
+        685,
+        313
+      ]
+    },
+    {
+      "text": "- Designed clinical documentation standards",
+      "score": 0.9837,
+      "box": [
+        127,
+        315,
+        538,
+        337
+      ]
+    },
+    {
+      "text": "- Led patient experience improvement programs",
+      "score": 0.9752,
+      "box": [
+        126,
+        339,
+        574,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenBridge Care Services, 2016.10–2018.09",
+      "score": 0.9845,
+      "box": [
+        115,
+        381,
+        724,
+        406
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9815,
+      "box": [
+        125,
+        406,
+        417,
+        431
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9631,
+      "box": [
+        125,
+        431,
+        531,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Management, Stonehaven University, 2008",
+      "score": 0.9861,
+      "box": [
+        114,
+        539,
+        743,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of ostomy care",
+      "score": 0.9847,
+      "box": [
+        132,
+        565,
+        456,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of pediatric nursing",
+      "score": 0.9903,
+      "box": [
+        133,
+        591,
+        531,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "ELIZABETH BARRON\nAL, USA|+1-981-746-2142|elizabeth.barron@example.com\nWORK HISTORY\nRegistered Nurses, NewHope Care Center, 2021.02–2023.01\n- Designed clinical documentation standards\n- Led patient experience improvement programs\nRegistered Nurses, OpenBridge Care Services, 2016.10–2018.09\n- Checked medication dosages\n- Recorded medication administration times\nEDUCATION\nBachelor's, Health Care Management, Stonehaven University, 2008\n• Studied principles of ostomy care\n• Studied fundamentals of pediatric nursing"
+}

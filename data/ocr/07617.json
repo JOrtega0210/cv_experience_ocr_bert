@@ -1,0 +1,265 @@
+{
+  "id": "07617",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 1.074,
+  "n_lines": 19,
+  "mean_score": 0.9847,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "ELIZABETH MCCARTHY",
+      "score": 0.9916,
+      "box": [
+        117,
+        90,
+        506,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA|+1-786-571-7791 |elizabeth.mccarthy@example.com",
+      "score": 0.9883,
+      "box": [
+        117,
+        151,
+        715,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9817,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Financial, 2019.07–2023.01",
+      "score": 0.9795,
+      "box": [
+        114,
+        289,
+        703,
+        313
+      ]
+    },
+    {
+      "text": "- Managed consolidation processes",
+      "score": 0.9872,
+      "box": [
+        126,
+        314,
+        458,
+        339
+      ]
+    },
+    {
+      "text": "- Led financial forecasting initiatives",
+      "score": 0.9716,
+      "box": [
+        126,
+        338,
+        458,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Financial, 2016.01–2019.07",
+      "score": 0.9729,
+      "box": [
+        115,
+        381,
+        684,
+        406
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9818,
+      "box": [
+        126,
+        405,
+        514,
+        432
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9898,
+      "box": [
+        127,
+        432,
+        553,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Accounting, 2012.07–2016.01",
+      "score": 0.9762,
+      "box": [
+        114,
+        471,
+        711,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared financial projections",
+      "score": 0.9825,
+      "box": [
+        126,
+        498,
+        418,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared cash flow statements",
+      "score": 0.9702,
+      "box": [
+        126,
+        521,
+        430,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Financial Group, 2007.11–2011.06",
+      "score": 0.9843,
+      "box": [
+        115,
+        565,
+        784,
+        588
+      ]
+    },
+    {
+      "text": "- Updated accounting policies documentation",
+      "score": 0.9911,
+      "box": [
+        126,
+        589,
+        546,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.9982,
+      "box": [
+        126,
+        614,
+        418,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Commerce, Riverhaven University, 205",
+      "score": 0.9842,
+      "box": [
+        116,
+        725,
+        744,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of compliance auditing",
+      "score": 0.9908,
+      "box": [
+        132,
+        748,
+        526,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit ethics",
+      "score": 0.9885,
+      "box": [
+        135,
+        775,
+        494,
+        795
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "text": "ELIZABETH MCCARTHY\nCA, USA|+1-786-571-7791 |elizabeth.mccarthy@example.com\nWORK HISTORY\nAccountants Auditors, ClearLedger Financial, 2019.07–2023.01\n- Managed consolidation processes\n- Led financial forecasting initiatives\nAccountants Auditors, OpenPath Financial, 2016.01–2019.07\n- Directed accounting operations planning\n- Designed financial documentation standards\nAccountants Auditors, SolidBooks Accounting, 2012.07–2016.01\n- Prepared financial projections\n- Prepared cash flow statements\nAccountants Auditors, SteadyLedger Financial Group, 2007.11–2011.06\n- Updated accounting policies documentation\n- Assisted with forecasting data\nEDUCATION\nSome college (no degree), Commerce, Riverhaven University, 205\n• Studied principles of compliance auditing\n• Completed coursework in audit ethics"
+}

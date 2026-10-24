@@ -1,0 +1,187 @@
+{
+  "id": "36368",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.846,
+  "n_lines": 13,
+  "mean_score": 0.9823,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JAMES KRUEGER",
+      "score": 0.9853,
+      "box": [
+        116,
+        90,
+        410,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-372-651-9309 |james.krueger@example.com",
+      "score": 0.9835,
+      "box": [
+        115,
+        150,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9778,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Financial, 2020.05–2023.01",
+      "score": 0.9861,
+      "box": [
+        115,
+        290,
+        698,
+        312
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9686,
+      "box": [
+        125,
+        313,
+        505,
+        339
+      ]
+    },
+    {
+      "text": "- Developed risk management frameworks",
+      "score": 0.9838,
+      "box": [
+        127,
+        340,
+        521,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Financial, 2015.12–2018.09",
+      "score": 0.9934,
+      "box": [
+        115,
+        382,
+        692,
+        404
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.981,
+      "box": [
+        126,
+        407,
+        403,
+        429
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9824,
+      "box": [
+        126,
+        430,
+        356,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, International Business, Springdale University, 2014",
+      "score": 0.9678,
+      "box": [
+        115,
+        541,
+        698,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial modeling basics",
+      "score": 0.9819,
+      "box": [
+        133,
+        565,
+        620,
+        588
+      ]
+    },
+    {
+      "text": "• Completed coursework in regulatory reporting",
+      "score": 0.9804,
+      "box": [
+        134,
+        590,
+        571,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JAMES KRUEGER\nNY, USA|+1-372-651-9309 |james.krueger@example.com\nWORK HISTORY\nAccountants Auditors, SolidLedger Financial, 2020.05–2023.01\n- Established cost management systems\n- Developed risk management frameworks\nAccountants Auditors, TrustCount Financial, 2015.12–2018.09\n- Assisted with audit fieldwork\n- Prepared aging reports\nEDUCATION\nBachelor's, International Business, Springdale University, 2014\n• Completed coursework in financial modeling basics\n• Completed coursework in regulatory reporting"
+}

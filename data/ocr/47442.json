@@ -1,0 +1,148 @@
+{
+  "id": "47442",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.767,
+  "n_lines": 10,
+  "mean_score": 0.9789,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JOSHUA DANIEL",
+      "score": 0.9764,
+      "box": [
+        116,
+        90,
+        391,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-513-481-9127 |joshua.daniel@example.com",
+      "score": 0.9742,
+      "box": [
+        116,
+        151,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9808,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Clear Path Academy, 2021.06–2023.01",
+      "score": 0.9787,
+      "box": [
+        116,
+        290,
+        827,
+        313
+      ]
+    },
+    {
+      "text": "- Monitored independent work sessions",
+      "score": 0.9703,
+      "box": [
+        126,
+        315,
+        493,
+        338
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.979,
+      "box": [
+        126,
+        339,
+        484,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Instructional Support, Silverton University, 223",
+      "score": 0.9666,
+      "box": [
+        114,
+        447,
+        665,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic instructional coaching",
+      "score": 0.9766,
+      "box": [
+        133,
+        474,
+        644,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in student-centered learning",
+      "score": 0.9875,
+      "box": [
+        133,
+        497,
+        626,
+        523
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ]
+  ],
+  "text": "JOSHUA DANIEL\nSC, USA|+1-513-481-9127 |joshua.daniel@example.com\nWORK HISTORY\nElementary Middle School Teachers, Clear Path Academy, 2021.06–2023.01\n- Monitored independent work sessions\n- Conducted reading practice sessions\nEDUCATION\nBachelor's, Instructional Support, Silverton University, 223\n• Completed coursework in basic instructional coaching\n• Completed coursework in student-centered learning"
+}

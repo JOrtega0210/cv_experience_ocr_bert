@@ -1,0 +1,161 @@
+{
+  "id": "50533",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.749,
+  "n_lines": 11,
+  "mean_score": 0.9778,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "GUILLERMO CHASE",
+      "score": 0.9716,
+      "box": [
+        116,
+        88,
+        445,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA|+1-339-291-2492|guillermo.chase@example.com",
+      "score": 0.985,
+      "box": [
+        115,
+        150,
+        685,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stoneframe Software, 2021.07–2023.01",
+      "score": 0.9854,
+      "box": [
+        115,
+        290,
+        691,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.9684,
+      "box": [
+        125,
+        313,
+        424,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with Cl pipeline tasks",
+      "score": 0.9699,
+      "box": [
+        127,
+        340,
+        424,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Willowstone University, 2023",
+      "score": 0.9813,
+      "box": [
+        115,
+        449,
+        474,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Southridge University, 221",
+      "score": 0.9721,
+      "box": [
+        116,
+        475,
+        479,
+        495
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of normalization",
+      "score": 0.9518,
+      "box": [
+        135,
+        500,
+        502,
+        520
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of indexing techniques",
+      "score": 0.9881,
+      "box": [
+        133,
+        523,
+        563,
+        548
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "GUILLERMO CHASE\nTX, USA|+1-339-291-2492|guillermo.chase@example.com\nWORK HISTORY\nSoftware Developers, Stoneframe Software, 2021.07–2023.01\n- Assisted with build automation\n- Assisted with Cl pipeline tasks\nEDUCATION\nMaster's, Willowstone University, 2023\nBachelor's, Southridge University, 221\n• Studied fundamentals of normalization\n• Studied fundamentals of indexing techniques"
+}

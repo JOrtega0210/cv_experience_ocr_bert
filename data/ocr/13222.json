@@ -1,0 +1,187 @@
+{
+  "id": "13222",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.913,
+  "n_lines": 13,
+  "mean_score": 0.9867,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LISA PADILLA",
+      "score": 0.9931,
+      "box": [
+        116,
+        90,
+        347,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-825-536-8597|lisa.padilla@example.com",
+      "score": 0.9874,
+      "box": [
+        115,
+        150,
+        634,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildWell Contractors, 2019.06–2021.06",
+      "score": 0.9893,
+      "box": [
+        115,
+        290,
+        709,
+        313
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9884,
+      "box": [
+        126,
+        315,
+        371,
+        339
+      ]
+    },
+    {
+      "text": "- Managed multi-phase projects",
+      "score": 0.9825,
+      "box": [
+        126,
+        339,
+        423,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueCraft Builders, 2016.09–2018.09",
+      "score": 0.9908,
+      "box": [
+        115,
+        382,
+        677,
+        405
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.9613,
+      "box": [
+        125,
+        405,
+        447,
+        431
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9858,
+      "box": [
+        125,
+        430,
+        416,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Methods, Greenridge University, 2016",
+      "score": 0.9885,
+      "box": [
+        114,
+        539,
+        700,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction ergonomics",
+      "score": 0.9935,
+      "box": [
+        133,
+        565,
+        616,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in material handling",
+      "score": 0.9827,
+      "box": [
+        134,
+        591,
+        548,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "LISA PADILLA\nFL, USA|+1-825-536-8597|lisa.padilla@example.com\nWORK HISTORY\nConstruction Laborers, BuildWell Contractors, 2019.06–2021.06\n- Led operational planning\n- Managed multi-phase projects\nConstruction Laborers, TrueCraft Builders, 2016.09–2018.09\n- Secured materials with fasteners\n- Set up workstations for crews\nEDUCATION\nBachelor's, Construction Methods, Greenridge University, 2016\n• Completed coursework in construction ergonomics\n• Completed coursework in material handling"
+}

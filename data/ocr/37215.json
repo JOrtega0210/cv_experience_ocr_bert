@@ -1,0 +1,226 @@
+{
+  "id": "37215",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.875,
+  "n_lines": 16,
+  "mean_score": 0.9792,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "NICHOLAS WISE",
+      "score": 0.9779,
+      "box": [
+        115,
+        88,
+        389,
+        122
+      ]
+    },
+    {
+      "text": "NY, USA|+1-898-507-4883|nicholas.wise@example.com",
+      "score": 0.9861,
+      "box": [
+        115,
+        150,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Financial, 2019.12–2023.01",
+      "score": 0.9745,
+      "box": [
+        115,
+        290,
+        755,
+        313
+      ]
+    },
+    {
+      "text": "- Directed financial reporting processes",
+      "score": 0.9502,
+      "box": [
+        126,
+        314,
+        491,
+        339
+      ]
+    },
+    {
+      "text": "- Managed consolidation processes",
+      "score": 0.9896,
+      "box": [
+        126,
+        339,
+        458,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Financial Group, 2016.10–2019.12",
+      "score": 0.9745,
+      "box": [
+        114,
+        381,
+        763,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed financial systems data",
+      "score": 0.9686,
+      "box": [
+        127,
+        407,
+        445,
+        430
+      ]
+    },
+    {
+      "text": "- Managed accounts receivable cycles",
+      "score": 0.9871,
+      "box": [
+        126,
+        431,
+        483,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Financial, 2013.08–2016.10",
+      "score": 0.9819,
+      "box": [
+        115,
+        472,
+        701,
+        495
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.984,
+      "box": [
+        125,
+        496,
+        358,
+        521
+      ]
+    },
+    {
+      "text": "- Updated fixed asset registers",
+      "score": 0.9762,
+      "box": [
+        126,
+        521,
+        413,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Operations Management, Brookstone University, 2012",
+      "score": 0.9747,
+      "box": [
+        115,
+        631,
+        728,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of nonprofit accounting",
+      "score": 0.98,
+      "box": [
+        132,
+        656,
+        530,
+        682
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of employee benefit accounting",
+      "score": 0.9777,
+      "box": [
+        133,
+        681,
+        643,
+        707
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "text": "NICHOLAS WISE\nNY, USA|+1-898-507-4883|nicholas.wise@example.com\nWORK HISTORY\nAccountants Auditors, Reliable Accounts Financial, 2019.12–2023.01\n- Directed financial reporting processes\n- Managed consolidation processes\nAccountants Auditors, CoreLedger Financial Group, 2016.10–2019.12\n- Reviewed financial systems data\n- Managed accounts receivable cycles\nAccountants Auditors, FairBalance Financial, 2013.08–2016.10\n- Prepared trial balances\n- Updated fixed asset registers\nEDUCATION\nBachelor's, Operations Management, Brookstone University, 2012\n• Studied principles of nonprofit accounting\n• Studied fundamentals of employee benefit accounting"
+}

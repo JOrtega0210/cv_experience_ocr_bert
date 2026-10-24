@@ -1,0 +1,161 @@
+{
+  "id": "19346",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.767,
+  "n_lines": 11,
+  "mean_score": 0.9848,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "LIZETTE MILLER",
+      "score": 0.9911,
+      "box": [
+        116,
+        90,
+        387,
+        120
+      ]
+    },
+    {
+      "text": "IL, USA|+1-646-873-5574 |lizette.miller@example.com",
+      "score": 0.9838,
+      "box": [
+        116,
+        152,
+        639,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenLedger Financial, 2020.02–2023.01",
+      "score": 0.9835,
+      "box": [
+        115,
+        290,
+        704,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9695,
+      "box": [
+        125,
+        314,
+        382,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with compliance documentation",
+      "score": 0.9836,
+      "box": [
+        127,
+        340,
+        518,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Business Technology, Clearwood University, 2023",
+      "score": 0.9756,
+      "box": [
+        115,
+        449,
+        672,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Management, Evergreen University, 2021",
+      "score": 0.9791,
+      "box": [
+        114,
+        472,
+        699,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of cost management",
+      "score": 0.9915,
+      "box": [
+        134,
+        499,
+        509,
+        522
+      ]
+    },
+    {
+      "text": "• Completed coursework in environmental accounting basics",
+      "score": 0.9923,
+      "box": [
+        135,
+        524,
+        692,
+        547
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ]
+  ],
+  "text": "LIZETTE MILLER\nIL, USA|+1-646-873-5574 |lizette.miller@example.com\nWORK HISTORY\nAccountants Auditors, OpenLedger Financial, 2020.02–2023.01\n- Reviewed ledger postings\n- Assisted with compliance documentation\nEDUCATION\nMaster's, Business Technology, Clearwood University, 2023\nBachelor's, Business Management, Evergreen University, 2021\n• Studied principles of cost management\n• Completed coursework in environmental accounting basics"
+}

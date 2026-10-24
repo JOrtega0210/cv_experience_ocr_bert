@@ -1,0 +1,200 @@
+{
+  "id": "34136",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.853,
+  "n_lines": 14,
+  "mean_score": 0.983,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "CONNOR PARSONS",
+      "score": 0.9838,
+      "box": [
+        116,
+        88,
+        442,
+        122
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-577-264-3471 | connor.parsons@example.com",
+      "score": 0.9836,
+      "box": [
+        116,
+        152,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9835,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Group, 2020.11–2023.01",
+      "score": 0.9661,
+      "box": [
+        114,
+        289,
+        700,
+        313
+      ]
+    },
+    {
+      "text": "- Developed financial analytics frameworks",
+      "score": 0.9885,
+      "box": [
+        126,
+        315,
+        525,
+        338
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9785,
+      "box": [
+        126,
+        339,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Financial, 2018.09–2020.11",
+      "score": 0.9819,
+      "box": [
+        114,
+        381,
+        756,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.988,
+      "box": [
+        126,
+        407,
+        445,
+        430
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.9821,
+      "box": [
+        125,
+        431,
+        480,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Strategic Management, Golden Hills University, 2023",
+      "score": 0.9868,
+      "box": [
+        114,
+        539,
+        696,
+        565
+      ]
+    },
+    {
+      "text": "Bachelor's, Taxation, Cedarfield University, 2021",
+      "score": 0.9764,
+      "box": [
+        115,
+        566,
+        567,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit quality management",
+      "score": 0.9679,
+      "box": [
+        133,
+        590,
+        629,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in data visualization basics",
+      "score": 0.9975,
+      "box": [
+        135,
+        616,
+        615,
+        639
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ]
+  ],
+  "text": "CONNOR PARSONS\nNJ, USA|+1-577-264-3471 | connor.parsons@example.com\nWORK HISTORY\nAccountants Auditors, Integrity Books Group, 2020.11–2023.01\n- Developed financial analytics frameworks\n- Directed accounting operations planning\nAccountants Auditors, Reliable Accounts Financial, 2018.09–2020.11\n- Prepared account reconciliations\n- Processed expense reimbursements\nEDUCATION\nMaster's, Strategic Management, Golden Hills University, 2023\nBachelor's, Taxation, Cedarfield University, 2021\n• Completed coursework in audit quality management\n• Completed coursework in data visualization basics"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "49785",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.831,
+  "n_lines": 13,
+  "mean_score": 0.9824,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "RAUL GLENN",
+      "score": 0.9689,
+      "box": [
+        115,
+        88,
+        338,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA|+1-622-609-2690|raul.glenn@example.com",
+      "score": 0.9778,
+      "box": [
+        115,
+        150,
+        630,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildStone Group, 2021.04–2023.01",
+      "score": 0.9802,
+      "box": [
+        115,
+        289,
+        670,
+        312
+      ]
+    },
+    {
+      "text": "-Directed quality assurance programs",
+      "score": 0.9903,
+      "box": [
+        125,
+        314,
+        482,
+        340
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9665,
+      "box": [
+        127,
+        340,
+        458,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, Cornerstone Works, 2019.06–2021.04",
+      "score": 0.9951,
+      "box": [
+        116,
+        382,
+        688,
+        405
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9788,
+      "box": [
+        125,
+        406,
+        492,
+        431
+      ]
+    },
+    {
+      "text": "- Applied basic sealants and adhesives",
+      "score": 0.9971,
+      "box": [
+        127,
+        433,
+        490,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Construction, Maplewood University, 2022",
+      "score": 0.9728,
+      "box": [
+        115,
+        539,
+        840,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic formwork",
+      "score": 0.9885,
+      "box": [
+        133,
+        566,
+        531,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction materials testing",
+      "score": 0.9735,
+      "box": [
+        134,
+        591,
+        658,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "RAUL GLENN\nTX, USA|+1-622-609-2690|raul.glenn@example.com\nWORK HISTORY\nConstruction Laborers, BuildStone Group, 2021.04–2023.01\n-Directed quality assurance programs\n- Developed construction standards\nConstruction Laborers, Cornerstone Works, 2019.06–2021.04\n- Assembled prefabricated components\n- Applied basic sealants and adhesives\nEDUCATION\nSome college (no degree), Building Construction, Maplewood University, 2022\n• Completed coursework in basic formwork\n• Completed coursework in construction materials testing"
+}

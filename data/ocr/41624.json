@@ -1,0 +1,187 @@
+{
+  "id": "41624",
+  "det_model": "PP-OCRv5_server_det",
+  "rec_model": "PP-OCRv5_server_rec",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "ocr_seconds": 0.847,
+  "n_lines": 13,
+  "mean_score": 0.9863,
+  "n_columns": 1,
+  "lines": [
+    {
+      "text": "JASON RICE",
+      "score": 0.9784,
+      "box": [
+        114,
+        88,
+        323,
+        122
+      ]
+    },
+    {
+      "text": "OH, USA|+1-763-576-1641 |jason.rice@example.com",
+      "score": 0.9866,
+      "box": [
+        116,
+        150,
+        632,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Financial, 2020.12–2023.01",
+      "score": 0.9889,
+      "box": [
+        115,
+        290,
+        699,
+        313
+      ]
+    },
+    {
+      "text": "-Led audit programs",
+      "score": 0.9957,
+      "box": [
+        125,
+        313,
+        323,
+        339
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9806,
+      "box": [
+        126,
+        339,
+        427,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenLedger Financial, 2018.10–2020.12",
+      "score": 0.989,
+      "box": [
+        115,
+        381,
+        706,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with internal control testing",
+      "score": 0.9901,
+      "box": [
+        125,
+        406,
+        473,
+        431
+      ]
+    },
+    {
+      "text": "- Entered financial data into accounting systems",
+      "score": 0.9881,
+      "box": [
+        125,
+        430,
+        572,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Managerial Accounting, Brookwood University, 2018",
+      "score": 0.9764,
+      "box": [
+        114,
+        539,
+        709,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of compliance auditing",
+      "score": 0.989,
+      "box": [
+        132,
+        565,
+        526,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial data interpretation",
+      "score": 0.9776,
+      "box": [
+        133,
+        590,
+        639,
+        615
+      ]
+    }
+  ],
+  "reading_order": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ]
+  ],
+  "text": "JASON RICE\nOH, USA|+1-763-576-1641 |jason.rice@example.com\nWORK HISTORY\nAccountants Auditors, SolidLedger Financial, 2020.12–2023.01\n-Led audit programs\n- Managed financial governance\nAccountants Auditors, OpenLedger Financial, 2018.10–2020.12\n- Assisted with internal control testing\n- Entered financial data into accounting systems\nEDUCATION\nBachelor's, Managerial Accounting, Brookwood University, 2018\n• Studied principles of compliance auditing\n• Completed coursework in financial data interpretation"
+}
