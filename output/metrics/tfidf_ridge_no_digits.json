@@ -1,0 +1,41 @@
+{
+  "model": "tfidf_ridge_no_digits",
+  "setups": {
+    "main": {
+      "text_column": "text",
+      "info": {
+        "char_ngrams": true,
+        "alpha": 3,
+        "keep_digits": false,
+        "n_features": 24661,
+        "val_mae": 1.7602
+      },
+      "train_seconds": 7.24,
+      "inference_ms_per_cv": 0.739,
+      "metrics": {
+        "val": {
+          "mae": 1.7601751767807134,
+          "rmse": 2.485972969401996,
+          "acc_1": 0.4033333333333333,
+          "acc_2": 0.6916666666666667,
+          "acc_3": 0.8683333333333333,
+          "band_accuracy": 0.6266666666666667,
+          "band_macro_f1": 0.6129134853929203,
+          "r2": 0.7153981774588203,
+          "mean_error": -0.04123190746396428
+        },
+        "test": {
+          "mae": 1.7435888276685136,
+          "rmse": 2.3249193938058537,
+          "acc_1": 0.39,
+          "acc_2": 0.6683333333333333,
+          "acc_3": 0.845,
+          "band_accuracy": 0.62,
+          "band_macro_f1": 0.6063478255930373,
+          "r2": 0.713316343133074,
+          "mean_error": 0.18931076346484393
+        }
+      }
+    }
+  }
+}
